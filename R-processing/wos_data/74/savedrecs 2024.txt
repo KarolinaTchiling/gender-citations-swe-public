@@ -1,0 +1,2191 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhang, YY
+   Bang, Y
+   Kim, SW
+AF Zhang, Yiying
+   Bang, Youngsok
+   Kim, Sang Won
+TI Avoiding Imprudent Commitments to Fast Dispatch: The Influence of
+   Platform-Issued Quick-Seller Certificates on Postpurchase Behavior
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Quick-seller certificates; order cancelation; psychological contract
+   violation; survival model; difference-in-differences; online dispatch
+ID PSYCHOLOGICAL CONTRACT VIOLATION; E-COMMERCE; INFORMATION ASYMMETRY;
+   SOCIAL-INFLUENCE; ASSURANCE SEALS; PERCEIVED RISK; CONSUMER TRUST;
+   ONLINE; INTERNET; QUALITY
+AB This study investigates the impact of platform-issued "quick-seller" certificates (indicating sellers with faster dispatch than others) on buyers' postpurchase behavior. Drawing upon the theoretical lens of psychological contract violation (PCV), we hypothesize the effects of quick-seller certificates on order cancelations, as well as the subsequent impacts of cancelations associated with the quick-seller certificates on buyers' future purchase frequency and search behavior. Using a comprehensive transaction dataset, the study reveals that quick-seller certificates increase the likelihood of cancelation of an order. Furthermore, we also find that an order cancelation from a certified quick seller results in decreased purchase frequency and a higher incidence of product comparisons through search engines.
+C1 [Zhang, Yiying] Hunan Univ, Sch Business, Changsha, Peoples R China.
+   [Bang, Youngsok] Yonsei Univ, Sch Business, Seoul, South Korea.
+   [Bang, Youngsok] Chinese Univ Hong Kong, Business Sch, Hong Kong, Peoples R China.
+   [Kim, Sang Won] Korea Adv Inst Sci & Technol KAIST, Coll Business, Daejeon, South Korea.
+C3 Hunan University; Yonsei University; Chinese University of Hong Kong;
+   Korea Advanced Institute of Science & Technology (KAIST)
+RP Bang, Y (corresponding author), Yonsei Univ, Sch Business, Seoul, South Korea.; Bang, Y (corresponding author), Chinese Univ Hong Kong, Business Sch, Hong Kong, Peoples R China.
+EM yiying@hnu.edu.cn; yb@yonsei.ac.kr; sw.kim@kaist.ac.kr
+FU Yonsei University; Yonsei University
+FX This work was supported by the Yonsei University Research Grant of 2023.
+CR Agarwal UA, 2020, INTERNET RES, V30, P789, DOI 10.1108/INTR-05-2019-0208
+   Aguirre E, 2015, J RETAILING, V91, P34, DOI 10.1016/j.jretai.2014.09.005
+   Aiken KD, 2014, J INTERNET COMMER, V13, P89, DOI 10.1080/15332861.2014.934646
+   Akhmedova A, 2021, INTERNET RES, V31, P1463, DOI 10.1108/INTR-04-2020-0212
+   Akturk MS, 2018, J OPER MANAG, V61, P15, DOI 10.1016/j.jom.2018.06.004
+   Anderson ET, 2009, MARKET SCI, V28, P405, DOI 10.1287/mksc.1080.0430
+   Bagozzi RP, 2002, SOC PSYCHOL QUART, V65, P226, DOI 10.2307/3090121
+   Bechwati NN, 2005, J MARKETING RES, V42, P358, DOI 10.1509/jmkr.2005.42.3.358
+   Benlian A, 2011, J MANAGE INFORM SYST, V28, P85, DOI 10.2753/MIS0742-1222280303
+   Chang MK, 2013, INFORM MANAGE-AMSTER, V50, P439, DOI 10.1016/j.im.2013.06.003
+   Chen SX, 2023, DECIS SUPPORT SYST, V170, DOI 10.1016/j.dss.2023.113959
+   Choudhary V, 2007, J MANAGE INFORM SYST, V24, P141, DOI 10.2753/MIS0742-1222240206
+   Cirillo C, 2018, TRANSPORT RES E-LOG, V110, P137, DOI 10.1016/j.tre.2017.12.004
+   Clemons EK, 2007, J MANAGE INFORM SYST, V24, P43, DOI 10.2753/MIS0742-1222240203
+   Cohen MA, 2003, MANAGE SCI, V49, P1653, DOI 10.1287/mnsc.49.12.1653.25115
+   COX DR, 1972, J R STAT SOC B, V34, P187
+   DeHoratius N, 2008, MANAGE SCI, V54, P627, DOI 10.1287/mnsc.1070.0789
+   Deng H., 2022, MIS Quarterly, V46
+   Devos J., 2012, Integrated Series in Information Systems, P213
+   Dewan S, 2004, J IND ECON, V52, P497, DOI 10.1111/j.0022-1821.2004.00237.x
+   Dinerstein M, 2018, AM ECON REV, V108, P1820, DOI 10.1257/aer.20171218
+   Ding YC, 2018, INT J IND ORGAN, V58, P106, DOI 10.1016/j.ijindorg.2018.03.009
+   Dong XS, 2021, INT J ELECTRON COMM, V25, P99, DOI 10.1080/10864415.2021.1846856
+   Dranove D, 2010, J ECON LIT, V48, P935, DOI 10.1257/jel.48.4.935
+   Elfenbein DW, 2015, AM ECON J-MICROECON, V7, P83, DOI 10.1257/mic.20130182
+   Fader PS, 2005, J MARKETING RES, V42, P415, DOI 10.1509/jmkr.2005.42.4.415
+   French AM, 2024, INT J ELECTRON COMM, V28, P63, DOI 10.1080/10864415.2023.2295071
+   Glover S, 2010, INT J ELECTRON COMM, V15, P47, DOI 10.2753/JEC1086-4415150202
+   Griffis SE, 2012, J OPER MANAG, V30, P282, DOI 10.1016/j.jom.2012.02.002
+   HARRELL FE, 1982, JAMA-J AM MED ASSOC, V247, P2543, DOI 10.1001/jama.247.18.2543
+   HEAD M., 2002, Q J ELECT COMMERCE, V3, P307
+   Hong Y, 2014, INFORM SYST RES, V25, P328, DOI 10.1287/isre.2014.0520
+   Hu X., 2002, Journal of Promotion Management, V9, P163
+   Hu XR, 2010, DECIS SUPPORT SYST, V48, P407, DOI 10.1016/j.dss.2009.10.004
+   Hung K, 2011, J ADVERTISING, V40, P99, DOI 10.2753/JOA0091-3367400308
+   Jiang PJ, 2008, PSYCHOL MARKET, V25, P839, DOI 10.1002/mar.20243
+   Kelman H.C., 2017, ATTITUDE CHANGE, P205
+   Kim DJ, 2008, DECIS SUPPORT SYST, V44, P544, DOI 10.1016/j.dss.2007.07.001
+   Kim K, 2011, J INTERACT MARK, V25, P145, DOI 10.1016/j.intmar.2010.09.003
+   Kimery K., 2002, J INFORM TECHNOLOGY, V4, P63
+   Knutha T, 2022, INT J ELECTRON COMM, V26, P388, DOI 10.1080/10864415.2022.2076199
+   Ko E, 2008, J BUS RES, V61, P65, DOI 10.1016/j.jbusres.2006.05.011
+   Komiak SYX, 2006, MIS QUART, V30, P941
+   Lala V., 2002, International Journal of Accounting Information Systems, V3, P237
+   Li Q, 2007, IIE TRANS, V39, P145, DOI 10.1080/07408170600735512
+   Li XL, 2023, INT J ELECTRON COMM, V27, P185, DOI 10.1080/10864415.2023.2184238
+   Li XQ, 2023, SUSTAINABILITY-BASEL, V15, DOI 10.3390/su15054244
+   Liu FZ, 2022, INT J ELECTRON COMM, V26, P174, DOI 10.1080/10864415.2022.2050581
+   Liu HY, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12020630
+   Löbbers J, 2019, J DECIS SYST, V28, P233, DOI 10.1080/12460125.2019.1684867
+   Lowry PB, 2012, J AM SOC INF SCI TEC, V63, P755, DOI 10.1002/asi.21705
+   Luo XM, 2002, IND MARKET MANAG, V31, P111, DOI 10.1016/S0019-8501(01)00182-1
+   Malhotra N, 2017, J BUS RES, V75, P17, DOI 10.1016/j.jbusres.2017.01.013
+   MANN DP, 1988, RAND J ECON, V19, P285, DOI 10.2307/2555706
+   Mannes AE, 2009, MANAGE SCI, V55, P1267, DOI 10.1287/mnsc.1090.1031
+   Mavlanova T, 2016, DECIS SUPPORT SYST, V87, P59, DOI 10.1016/j.dss.2016.04.009
+   Mavlanova T, 2012, INFORM MANAGE-AMSTER, V49, P240, DOI 10.1016/j.im.2012.05.004
+   Mavlanova T, 2010, INT J ELECTRON COMM, V15, P79, DOI 10.2753/JEC1086-4415150203
+   Maziriri E.T., 2015, International Journal of Research, V24
+   Miglautsch JohnR., 2000, J DATABASE MARKETING, V8, P67, DOI [DOI 10.1057/PALGRAVE.JDM.3240019, 10.1057/palgrave.jdm.3240019]
+   Miyazaki AD, 2002, J CONSUM AFF, V36, P28, DOI 10.1111/j.1745-6606.2002.tb00419.x
+   Mookherjee R, 2008, PROD OPER MANAG, V17, P455, DOI 10.3401/poms.1080.0042
+   Özpolat K, 2015, DECIS SUPPORT SYST, V73, P47, DOI 10.1016/j.dss.2015.02.016
+   Özpolat K, 2013, INFORM SYST RES, V24, P1100, DOI 10.1287/isre.2013.0489
+   Park I, 2010, INT J ELECTRON COMM, V14, P11, DOI 10.2753/JEC1086-4415140302
+   Parvatiyar Atul., 2001, Journal of Economic and Social Research, V3, P1
+   Pavlou PA, 2005, INFORM SYST RES, V16, P372, DOI 10.1287/isre.1050.0065
+   Peng DX, 2017, PROD OPER MANAG, V26, P880, DOI 10.1111/poms.12682
+   Petersen JA, 2009, J MARKETING, V73, P35, DOI 10.1509/jmkg.73.3.35
+   Ponte EB, 2015, TOURISM MANAGE, V47, P286, DOI 10.1016/j.tourman.2014.10.009
+   Punj G, 2009, J BUS RES, V62, P644, DOI 10.1016/j.jbusres.2007.04.013
+   Rao S, 2011, J OPER MANAG, V29, P692, DOI 10.1016/j.jom.2011.04.001
+   Reichheld FF, 2000, HARVARD BUS REV, V78, P105
+   Rifon NJ, 2005, J CONSUM AFF, V39, P339, DOI 10.1111/j.1745-6606.2005.00018.x
+   Robinson SL, 1996, ADMIN SCI QUART, V41, P574, DOI 10.2307/2393868
+   Rousseau D.M., 1989, Employee responsibilities and rights journal, P121, DOI [10.1007/BF01384942, DOI 10.1007/BF01384942]
+   Rousseau DM, 2001, J OCCUP ORGAN PSYCH, V74, P511, DOI 10.1348/096317901167505
+   Saeedi M, 2019, RAND J ECON, V50, P822, DOI 10.1111/1756-2171.12297
+   Scherer A, 2015, MIS QUART, V39, P177
+   Sen R, 2006, J MANAGE INFORM SYST, V23, P211, DOI 10.2753/MIS0742-1222230107
+   Shahbaz H, 2020, KSII T INTERNET INF, V14, P2061, DOI 10.3837/tiis.2020.05.011
+   Shen CC, 2011, INTERNET RES, V21, P154, DOI 10.1108/10662241111123748
+   Shulman JD, 2015, MARKET SCI, V34, P590, DOI 10.1287/mksc.2015.0906
+   Siegfried N, 2020, J DECIS SYST, V29, P79, DOI 10.1080/12460125.2020.1766235
+   Sturm B., 2014, EUR C INF SYST, P1
+   Suh B, 2003, INT J ELECTRON COMM, V7, P135
+   Suri A, 2023, INT J ELECTRON COMM, V27, P297, DOI 10.1080/10864415.2023.2226898
+   Tadelis S, 2016, ANNU REV ECON, V8, P321, DOI 10.1146/annurev-economics-080315-015325
+   Tatikonda MV, 2013, PROD OPER MANAG, V22, P1401, DOI 10.1111/poms.12038
+   Utz S, 2009, INT J ELECTRON COMM, V13, P95, DOI 10.2753/JEC1086-4415130304
+   van Baal S, 2015, ELECTRON COMMER RES, V15, P177, DOI 10.1007/s10660-015-9180-9
+   Wang WQ, 2019, INFORM SYST RES, V30, P507, DOI 10.1287/isre.2018.0811
+   Wang XP, 2020, INTERNET RES, V30, P463, DOI 10.1108/INTR-09-2018-0415
+   Wang Z., 2023, Decision Support Systems, P114147
+   West JL, 2015, J RES INTERACT MARK, V9, P214, DOI 10.1108/JRIM-09-2014-0055
+   Wood SL, 2001, J MARKETING RES, V38, P157, DOI 10.1509/jmkr.38.2.157.18847
+   Yang B, 2023, INFORM PROCESS MANAG, V60, DOI 10.1016/j.ipm.2022.103257
+   Zhang H., 2005, Journal of Information Technology Theory Application, V6, P5
+   Zhang JZ, 2018, TRANSPORT RES E-LOG, V118, P308, DOI 10.1016/j.tre.2018.08.006
+   Zhao KX, 2018, INFORM MANAGE-AMSTER, V55, P16, DOI 10.1016/j.im.2017.03.006
+NR 100
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JUL 2
+PY 2024
+VL 28
+IS 3
+BP 358
+EP 380
+DI 10.1080/10864415.2024.2361399
+PG 23
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA UY6R6
+UT WOS:001251669000004
+DA 2024-08-05
+ER
+
+PT J
+AU Pang, C
+   Jiang, L
+   Li, G
+AF Pang, Chen
+   Jiang, Li
+   Li, Gang
+TI Cannibalization or Enhancement: Effects of Consumer-to-Consumer Resale
+   with Consumers' Utility Dependence
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Secondhand markets; utility dependence; repeat purchases; intertemporal
+   price discrimination; e-retail; resale platforms; consumer utility
+ID BRAND-CHOICE; STATE DEPENDENCE; GOODS; MARKET; MODEL; HETEROGENEITY;
+   SPECULATORS; STRATEGIES; LOYALTY; IMPACT
+AB Consumer-to-consumer resale platforms (CRPs) facilitate redistribution of used products. After getting rid of their used items, consumers may repurchase new items from the retailer, obtaining an additional utility due to their dependence on the retailer's products. The retailer can capitalize on this behavior by embracing CRPs to encourage repeat purchases and drive revenue. This article constructs a two-period analytical model of an e-commerce marketplace comprising a retailer (new-product market) and a CRP (used-product market), to examine the implications of CRPs for the retailer and forward-looking consumers. Consumers are heterogeneous in two aspects: utility dependence from repeat purchases and perception of used-product quality levels. Our findings show that utility dependence mitigates the direct competition posed by the CRPs to the retailer. The retailer leverages consumer heterogeneity to exacerbate intertemporal price discrimination, generating enhancement and cannibalization effects on revenue. The enhancement effect dominates to increase the retailer's revenue, except when new-product consumption yields a high value to consumers and the CRP's commission rate is high. Counterintuitively, consumers and the retailer can be better off or worse off simultaneously. Coupled with the CRP's revenue reaped from used-product transactions, social welfare is likely to improve with the addition of this entity. Moreover, the retailer can be better off as an external CRP sets the commission rate to maximize its own revenue, while it can further benefit from self-managing a CRP when the marginal operating cost is low.
+C1 [Pang, Chen] Xi An Jiao Tong Univ, Sch Management, Xian, Peoples R China.
+   [Pang, Chen; Jiang, Li] Hong Kong Polytech Univ, Fac Business, Hong Kong, Peoples R China.
+   [Li, Gang] Xi An Jiao Tong Univ, Sch Management, Xian, Peoples R China.
+   [Li, Gang] Xi An Jiao Tong Univ, Sch Management, State Key Lab Mfg Syst Engn, Key Lab Minist Educ Proc Control & Efficiency Engn, 28 Xianning Rd, Xian 710049, Shaanxi, Peoples R China.
+C3 Xi'an Jiaotong University; Hong Kong Polytechnic University; Xi'an
+   Jiaotong University; Xi'an Jiaotong University
+RP Li, G (corresponding author), Xi An Jiao Tong Univ, Sch Management, State Key Lab Mfg Syst Engn, Key Lab Minist Educ Proc Control & Efficiency Engn, 28 Xianning Rd, Xian 710049, Shaanxi, Peoples R China.
+EM chenpang@stu.xjtu.edu.cn; l.jiang@polyu.edu.hk; glee@mail.xjtu.edu.cn
+OI PANG, Chen/0000-0002-8966-0851; JIANG, Li/0000-0002-3120-5215
+FU National Nature Science Fundation of China [72372128, 71832011];
+   National Natural Science Foundation of China [2020TD-006]; Science and
+   Technology Innovation Team Plan of Shaanxi Province
+FX This work was supported by the National Natural Science Foundation of
+   China under grants numbers 72372128 and 71832011, and the Science and
+   Technology Innovation Team Plan of Shaanxi Province under project number
+   2020TD-006.
+CR ANDERSON SP, 1994, EUR ECON REV, V38, P23, DOI 10.1016/0014-2921(94)90003-5
+   AutoTrader, Is automotive brand loyalty a myth?
+   Aviv Y, 2008, M&SOM-MANUF SERV OP, V10, P339, DOI 10.1287/msom.1070.0183
+   BESANKO D, 1990, MANAGE SCI, V36, P555, DOI 10.1287/mnsc.36.5.555
+   BULOW J, 1986, Q J ECON, V101, P729, DOI 10.2307/1884176
+   BULOW JI, 1982, J POLIT ECON, V90, P314, DOI 10.1086/261058
+   Chen J, 2009, INT J ELECTRON COMM, V14, P147, DOI 10.2753/JEC1086-4415140105
+   Chen XY, 2017, INT J ELECTRON COMM, V21, P219, DOI 10.1080/10864415.2016.1234285
+   COASE RH, 1972, J LAW ECON, V15, P143, DOI 10.1086/466731
+   Desai P, 1998, MANAGE SCI, V44, pS19, DOI 10.1287/mnsc.44.11.S19
+   Desai P, 2004, QME-QUANT MARK ECON, V2, P5, DOI 10.1023/B:QMEC.0000017033.09155.12
+   Desai PS, 1999, MARKET SCI, V18, P42, DOI 10.1287/mksc.18.1.42
+   Dubé JP, 2008, MARKET SCI, V27, P417, DOI 10.1287/mksc.1070.0305
+   Dubé JP, 2010, RAND J ECON, V41, P417, DOI 10.1111/j.1756-2171.2010.00106.x
+   eBay, Selling fees of eBay
+   Erdem T, 1996, MARKET SCI, V15, P359, DOI 10.1287/mksc.15.4.359
+   Guadagni PM, 2008, MARKET SCI, V27, P29, DOI 10.1287/mksc.1070.0331
+   Gümüs M, 2013, MARKET SCI, V32, P622, DOI 10.1287/mksc.2013.0784
+   GUPTA S, 1988, J MARKETING RES, V25, P342, DOI 10.2307/3172945
+   Hendel I, 1999, RAND J ECON, V30, P1, DOI 10.2307/2556043
+   Horsky D, 2006, MARKET SCI, V25, P322, DOI 10.1287/mksc.1050.0192
+   Huang CY, 2011, INT J ELECTRON COMM, V16, P115, DOI 10.2753/JEC1086-4415160206
+   IKEA, Buy back & resell, second life to your furniture
+   J.D. Power, Brand loyalty increasing among new-vehicle buyers, J.D. Power finds
+   Jiang BJ, 2018, MANAGE SCI, V64, P1171, DOI 10.1287/mnsc.2016.2647
+   Jiang LF, 2017, PROD OPER MANAG, V26, P509, DOI 10.1111/poms.12653
+   King RC, 2016, INT J ELECTRON COMM, V20, P319, DOI 10.1080/10864415.2016.1121762
+   KRISHNAMURTHI L, 1988, MARKET SCI, V7, P1, DOI 10.1287/mksc.7.1.1
+   Lee H, 2002, MANAGE SCI, V48, P719, DOI 10.1287/mnsc.48.6.719.189
+   Liang C, 2014, MANAGE SCI, V60, P1033, DOI 10.1287/mnsc.2013.1803
+   Lim WS, 2013, PROD OPER MANAG, V22, P571, DOI 10.1111/j.1937-5956.2012.01421.x
+   Liu S, 2024, IEEE T ENG MANAGE, V71, P1115, DOI 10.1109/TEM.2022.3144482
+   MacInnes I, 2005, INT J ELECTRON COMM, V10, P27, DOI 10.1080/10864415.2005.11043961
+   Matzler K, 2015, MIT SLOAN MANAGE REV, V56, P71
+   Moshkin NV, 2002, MARKET SCI, V21, P435, DOI 10.1287/mksc.21.4.435.136
+   MUTH JF, 1961, ECONOMETRICA, V29, P315, DOI 10.2307/1909635
+   Risberg E., Clothing resale sites boom as more shoppers buy with reselling in mind
+   Roy R, 1996, MARKET SCI, V15, P280, DOI 10.1287/mksc.15.3.280
+   Seetharaman PB, 2004, MARKET SCI, V23, P263, DOI 10.1287/mksc.1030.0024
+   Statista, When you change your phone, do you intend on staying with your current brand or switching to a different brand?
+   STOKEY NL, 1979, Q J ECON, V93, P355, DOI 10.2307/1883163
+   Su XM, 2007, MANAGE SCI, V53, P726, DOI 10.1287/mnsc.1060.0667
+   Su XM, 2010, MANAGE SCI, V56, P25, DOI 10.1287/mnsc.1090.1075
+   ThredUP, ThredUP resale report 2024
+   Vedantam A, 2021, PROD OPER MANAG, V30, P3923, DOI 10.1111/poms.13558
+   Waldman M, 1997, J LAW ECON, V40, P61, DOI 10.1086/467366
+   Yin SY, 2010, MARKET SCI, V29, P540, DOI 10.1287/mksc.1090.0545
+   Zhao X, 2006, INT J ELECTRON COMM, V10, P71, DOI 10.2753/JEC1086-4415100303
+NR 48
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JUL 2
+PY 2024
+VL 28
+IS 3
+BP 416
+EP 446
+DI 10.1080/10864415.2024.2361401
+PG 31
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA UY6R6
+UT WOS:001251669000003
+DA 2024-08-05
+ER
+
+PT J
+AU Sharma, D
+   Yadav, N
+   Dwivedi, YK
+   Giannakis, M
+AF Sharma, Divya
+   Yadav, Neetu
+   Dwivedi, Yogesh K.
+   Giannakis, Mihalis
+TI Digital Transformation of Incumbent Pipeline Firms through
+   Platformization
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Digital platformization; digital transformation; structural modeling;
+   pipeline firms; e-business; digital webs
+ID NEXT-GENERATION; BUSINESS MODELS; INNOVATION; TECHNOLOGY; CAPABILITIES;
+   PERFORMANCE; CHALLENGES; STRATEGY; IMPACT; OPPORTUNITIES
+AB Advancements in digital technology necessitate a shift from traditional linear buyer-supplier value chains to a network-centric approach facilitated by digital platforms. Despite digital platforms being a dominant model for transformation, limited research has explored the enablers for incumbent pipeline firms to embrace platformization. To address this gap, this study reviews existing literature on digital transformation, identifying nine enablers for digital platformization: changing client behavior, information technology (IT) capabilities development, structural efficiencies, disruptive competitive forces, scope advantages, economic triggers, disruptive third-party technology, creation of autonomous corporate structures, and regulatory compliance. Case studies of platformization in diverse industries are analyzed using the modified total interpretive structural modeling (m-TISM) approach, resulting in a hierarchical model with five levels. This model delineates interrelationships among trigger events, external enablers, internal organizational enablers, process enablers, and outcome drivers. Furthermore, the study highlights that the creation and extraction of value from digital platforms are operationalized through e-business strategies, contributing insights to e-business literature by discussing the implications of these enablers on dimensions such as commerce, collaboration, communication, connection, and computing.
+C1 [Sharma, Divya] MDI, Informat Management, Gurgaon, India.
+   [Yadav, Neetu] MDI, Strateg management, Gurgaon, India.
+   [Dwivedi, Yogesh K.] Swansea Univ, Digital Mkt & Innovat, Swansea, Wales.
+   [Giannakis, Mihalis] Audencia Business Sch, Nantes, France.
+   [Giannakis, Mihalis] Univ Warwick, Ind & Business Studies, Coventry, England.
+   [Dwivedi, Yogesh K.] Swansea Univ, Sch Management, Digital Futures Sustainable Business & Soc Res Grp, Bay Campus, Swansea, Wales.
+C3 Management Development Institute (MDI); Management Development Institute
+   (MDI); Swansea University; Audencia; University of Warwick; Swansea
+   University
+RP Dwivedi, YK (corresponding author), Swansea Univ, Sch Management, Digital Futures Sustainable Business & Soc Res Grp, Bay Campus, Swansea, Wales.
+EM divya.sharma@mdi.ac.in; neetu.yadav@mdi.ac.in;
+   y.k.dwivedi@swansea.ac.uk; mgiannakis@audencia.com
+RI Dwivedi, Yogesh Kumar/A-5362-2008
+OI Dwivedi, Yogesh Kumar/0000-0002-5547-9990
+CR Al Mashalah H, 2022, TRANSPORT RES E-LOG, V165, DOI 10.1016/j.tre.2022.102837
+   Alaimo C, 2022, ORGAN SCI, V33, P19, DOI 10.1287/orsc.2021.1552
+   AlNuaimi BK, 2022, J BUS RES, V145, P636, DOI 10.1016/j.jbusres.2022.03.038
+   Alt R, 2021, ELECTRON MARK, V31, P895, DOI 10.1007/s12525-021-00476-1
+   Alt R, 2018, ELECTRON MARK, V28, P235, DOI 10.1007/s12525-018-0310-9
+   Alt R, 2012, ELECTRON MARK, V22, P203, DOI 10.1007/s12525-012-0106-2
+   [Anonymous], 2022, AdExchange
+   [Anonymous], 2016, Michelin truck care brochure
+   [Anonymous], 2020, Michelin Media
+   [Anonymous], 2021, Today's Trucking
+   [Anonymous], 2013, Michelin Media
+   [Anonymous], 2014, GOLDMAN SACHS
+   [Anonymous], 2019, Klockner Co
+   [Anonymous], 2012, GLOBAL J FLEXIBLE SY, V13, P87, DOI [DOI 10.1007/S40171-012-0008-3, 10.1007/s40171-012-0008-3, 10.1007/S40171-012-0008-3]
+   Ansari S, 2016, STRATEGIC MANAGE J, V37, P1829, DOI 10.1002/smj.2442
+   arcxp, ABOUT US
+   Bailey DE, 2022, ORGAN SCI, V33, P1, DOI 10.1287/orsc.2021.1562
+   Battisti E, 2022, J BUS RES, V150, P38, DOI 10.1016/j.jbusres.2022.06.010
+   Benoit S, 2017, J BUS RES, V79, P219, DOI 10.1016/j.jbusres.2017.05.004
+   Berghaus S., 2017, ICIS 2017 P, P18
+   Berntzen M, 2021, INT J ELECTRON COMM, V25, P7, DOI 10.1080/10864415.2021.1846851
+   Beverungen D, 2022, ELECTRON MARK, V32, P493, DOI 10.1007/s12525-022-00553-z
+   Bez SM, 2023, TECHNOVATION, V121, DOI 10.1016/j.technovation.2022.102625
+   Bharadwaj A, 2013, MIS QUART, V37, P471, DOI 10.25300/MISQ/2013/37:2.3
+   Bharadwaj AS, 2000, MIS QUART, V24, P169, DOI 10.2307/3250983
+   Blankfein L.C., 2016, GOLDM SACHS PRES CRE
+   Bolton RN, 2018, J SERV MANAGE, V29, P776, DOI 10.1108/JOSM-04-2018-0113
+   Broekhuizen TLJ, 2018, BUS HORIZONS, V61, P555, DOI 10.1016/j.bushor.2018.03.003
+   Brynjolfsson E., 2011, EIB Papers, V19, P60
+   Bughin J., 2017, Artificial Intelligence: The Next Digital Frontier
+   Bughin J., 2019, McKinsey Quarterly
+   Cardona M, 2013, INF ECON POLICY, V25, P109, DOI 10.1016/j.infoecopol.2012.12.002
+   Ceccagnoli M, 2012, MIS QUART, V36, P263
+   Kozanoglu DC, 2021, J ENTERP INF MANAG, V34, P1649, DOI 10.1108/JEIM-01-2020-0010
+   Chakma R, 2022, J STRATEG MARK, DOI 10.1080/0965254X.2022.2138954
+   Chavez R.M., 2017, Data, computing, and transformation in the financial industry
+   Chen KL, 2023, EUR J INFORM SYST, V32, P735, DOI 10.1080/0960085X.2022.2046515
+   Chen YW, 2021, INT J ELECTRON COMM, V25, P469, DOI 10.1080/10864415.2021.1967003
+   Christensen C.M., 2016, MIT Sloan Management Review, V58, P12
+   Cozzolino A, 2018, J MANAGE STUD, V55, P1166, DOI 10.1111/joms.12352
+   Dang D., 2019, 23 PAC AS C INF SYST
+   Dehghani M, 2022, J BUS IND MARK, V37, P1818, DOI 10.1108/JBIM-12-2020-0540
+   Doctor K., 2015, Nieman Lab
+   Eggers JP, 2018, ACAD MANAG ANN, V12, P357, DOI 10.5465/annals.2016.0051
+   Eisenhardt KM, 2007, ACAD MANAGE J, V50, P25, DOI 10.5465/AMJ.2007.24160888
+   EISENHARDT KM, 1989, ACAD MANAGE REV, V14, P532, DOI 10.2307/258557
+   Eisenmann T, 2006, HARVARD BUS REV, V84, P92
+   Fichman RG, 2014, MIS QUART, V38, P329, DOI 10.25300/MISQ/2014/38.2.01
+   Floyer D., 2013, Defining and sizing the industrial Internet
+   Furr N, 2022, GLOB STRATEG J, V12, P595, DOI 10.1002/gsj.1442
+   Gawer A, 2014, RES POLICY, V43, P1239, DOI 10.1016/j.respol.2014.03.006
+   Goldman, 2012, Sachs 2011 Annual ReportGoldman Sachs
+   Gupta S., 2019, Goldman Sachs' digital journey
+   Gupta S., 2022, Building a digital service platform
+   Hazée S, 2020, J SERV MANAGE, V31, P397, DOI 10.1108/JOSM-11-2018-0357
+   Helmond A, 2015, SOC MEDIA SOC, V1, DOI 10.1177/2056305115603080
+   Henderson JC, 1999, IBM SYST J, V38, P472, DOI 10.1147/SJ.1999.5387096
+   Ho J., 2016, Forbes
+   Holland CP, 2018, INT J ELECTRON COMM, V22, P161, DOI 10.1080/10864415.2017.1364114
+   Holmström J, 2018, INFORM ORGAN-UK, V28, P107, DOI 10.1016/j.infoandorg.2018.04.002
+   Iansiti M., 2014, Harvard Business Review, November, P4528
+   Iivari N, 2020, INT J INFORM MANAGE, V55, DOI 10.1016/j.ijinfomgt.2020.102183
+   Jiang YY, 2021, TECHNOL FORECAST SOC, V172, DOI 10.1016/j.techfore.2021.121029
+   Kane G, 2019, RES TECHNOL MANAGE, V62, P44, DOI 10.1080/08956308.2019.1661079
+   Katz Raul, 2014, Info, V16, P32, DOI 10.1108/info-10-2013-0051
+   Kauffman RJ, 2010, INT J ELECTRON COMM, V15, P113, DOI 10.2753/JEC1086-4415150105
+   Kennedy D., 2016, The Bezos effect: How Amazon's founder is reinventing The Washington Post-and what lessons it might hold for the beleaguered newspaper business
+   Kenton W., 2021, INVESTOPEDIA
+   Khanagha S, 2022, STRATEGIC MANAGE J, V43, P476, DOI 10.1002/smj.3147
+   Khurana I, 2022, J BUS RES, V150, P623, DOI 10.1016/j.jbusres.2022.06.048
+   Klos C, 2023, IEEE T ENG MANAGE, V70, P2017, DOI 10.1109/TEM.2021.3075502
+   Koch T, 2017, J ORGAN DES, V6, DOI 10.1186/s41469-017-0016-z
+   Kominers S.D., 2020, Steeling for a digital world
+   Lakhani K.R., 2015, GE and the industrial Internet.
+   Leber Jessica., 2012, MIT Technology Review
+   Lee OK, 2015, INFORM SYST RES, V26, P398, DOI 10.1287/isre.2015.0577
+   Liere-Netheler K, 2018, PROCEEDINGS OF THE 51ST ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES (HICSS), P3926
+   Liu Y, 2023, INT J ELECTRON COMM, V27, P36, DOI 10.1080/10864415.2022.2158595
+   Majchrzak A., 2016, MIS Quarterly, V40, P267
+   Matt C, 2015, BUS INFORM SYST ENG+, V57, P339, DOI 10.1007/s12599-015-0401-5
+   McCracken H., 2017, The Washington Post is a software company now
+   Mcintyre DP, 2017, STRATEGIC MANAGE J, V38, P141, DOI 10.1002/smj.2596
+   Nambisan S, 2017, MIS QUART, V41, P223, DOI 10.25300/MISQ/2017/41:1.03
+   Nwankpa J.K., 2016, 37 INT C INF SYST, P16
+   Nylén D, 2015, BUS HORIZONS, V58, P57, DOI 10.1016/j.bushor.2014.09.001
+   Pagani M, 2017, IND MARKET MANAG, V67, P185, DOI 10.1016/j.indmarman.2017.08.009
+   Parker G., 2016, Platform revolution: how networked markets are transforming the economy-and how to make them work for youM
+   Penttinen E, 2018, INT J ELECTRON COMM, V22, P479, DOI 10.1080/10864415.2018.1485083
+   Peppard J., 2006, European Management Journal, V24, P128, DOI 10.1016/j.emj.2006.03.003
+   Peruchi DF, 2022, J BUS RES, V142, P344, DOI 10.1016/j.jbusres.2021.12.036
+   Porfírio JA, 2021, J BUS RES, V124, P610, DOI 10.1016/j.jbusres.2020.10.058
+   Pundziene A, 2022, CALIF MANAGE REV, V64, P108, DOI 10.1177/00081256221099326
+   Rajan R, 2021, TECHNOL FORECAST SOC, V170, DOI 10.1016/j.techfore.2021.120872
+   Regalado A., 2021, MIT Technology Review
+   Reim W, 2023, INT J PROD RES, V61, P3926, DOI 10.1080/00207543.2022.2116499
+   Riasanow T, 2021, ELECTRON MARK, V31, P89, DOI 10.1007/s12525-020-00407-6
+   Roy R, 2016, STRATEGIC MANAGE J, V37, P835, DOI 10.1002/smj.2357
+   Sandberg J, 2014, J ASSOC INF SYST, V15, P422
+   Schenker J.L., 2019, The Innovator News
+   Shah SK, 2006, J MANAGE STUD, V43, P1821, DOI 10.1111/j.1467-6486.2006.00662.x
+   Shen Q, 2022, J KNOWL MANAG, V26, P2133, DOI 10.1108/JKM-04-2021-0320
+   Simoni M, 2022, PROD PLAN CONTROL, V33, P371, DOI 10.1080/09537287.2020.1824029
+   Singh S., 2022, Annals of Operations Research
+   Sjödin D, 2021, J BUS RES, V134, P574, DOI 10.1016/j.jbusres.2021.05.009
+   SlickCharts, 2023, S&P 500 companies by weight
+   Su N., 2019, The digital transformation of apparel manufacturing
+   Sushil, 2017, Global Journal of Flexible Systems Management, V18, P331, DOI [10.1007/s40171-017-0167-3, DOI 10.1007/S40171-017-0167-3]
+   Ballestar MT, 2020, J BUS RES, V108, P119, DOI 10.1016/j.jbusres.2019.11.017
+   Tian JM, 2021, IND MARKET MANAG, V92, P14, DOI 10.1016/j.indmarman.2020.10.007
+   Tilson D, 2010, INFORM SYST RES, V21, P748, DOI 10.1287/isre.1100.0318
+   Tóth Z, 2022, IND MARKET MANAG, V102, P438, DOI 10.1016/j.indmarman.2022.02.010
+   Tripsas M, 1997, STRATEGIC MANAGE J, V18, P119, DOI 10.1002/(SICI)1097-0266(199707)18:1+<119::AID-SMJ921>3.3.CO;2-S
+   Van Alstyne MW, 2016, HARVARD BUS REV, V94, P54
+   Vanhemert Kyle., 2013, WIRED
+   Venturini F, 2015, RES POLICY, V44, P357, DOI 10.1016/j.respol.2014.10.011
+   Verhoef PC, 2021, J BUS RES, V122, P889, DOI 10.1016/j.jbusres.2019.09.022
+   Verhoef PC, 2017, J INTERACT MARK, V40, P1, DOI 10.1016/j.intmar.2017.06.001
+   Vial G, 2019, J STRATEGIC INF SYST, V28, P118, DOI 10.1016/j.jsis.2019.01.003
+   WARFIELD JN, 1974, IEEE T SYST MAN CYB, VSMC4, P405, DOI 10.1109/TSMC.1974.4309336
+   Warner KSR, 2019, LONG RANGE PLANN, V52, P326, DOI 10.1016/j.lrp.2018.12.001
+   Gregory RW, 2015, INFORM SYST RES, V26, P57, DOI 10.1287/isre.2014.0554
+   Weitzman ML, 1998, Q J ECON, V113, P331, DOI 10.1162/003355398555595
+   Werthner H, 2022, ELECTRON MARK, V32, P145, DOI 10.1007/s12525-021-00508-w
+   Westerman G, 2016, MIT SLOAN MANAGE REV, V58, P19
+   Wichmann JRK, 2022, J MARKETING, V86, P109, DOI 10.1177/00222429211054073
+   Willens M., 2018, Digiday
+   Winig L., 2016, MIT Sloan Management Review, February
+   Woodard CJ, 2013, MIS QUART, V37, P537, DOI 10.25300/MISQ/2013/37.2.10
+   Yadav N, 2014, INT J PRODUCT PERFOR, V63, P421, DOI 10.1108/IJPPM-04-2013-0081
+   Yang CH, 2022, RES POLICY, V51, DOI 10.1016/j.respol.2022.104536
+   Yin R. K., 1994, Case study research
+   Ying WC, 2018, INT J INFORM MANAGE, V42, P102, DOI 10.1016/j.ijinfomgt.2018.05.002
+   Yoo Y, 2012, ORGAN SCI, V23, P1398, DOI 10.1287/orsc.1120.0771
+   Zaki M, 2019, J SERV MARK, V33, P429, DOI 10.1108/JSM-01-2019-0034
+   Zhao Y, 2020, LONG RANGE PLANN, V53, DOI 10.1016/j.lrp.2019.101892
+   Zhu F, 2018, STRATEGIC MANAGE J, V39, P2618, DOI 10.1002/smj.2932
+   Zulu SL, 2021, CONSTR MANAG ECON, V39, P565, DOI 10.1080/01446193.2021.1930080
+   Zutshi A, 2019, COMPUT IND ENG, V136, P546, DOI 10.1016/j.cie.2019.07.027
+   Zwass V, 2003, INT J ELECTRON COMM, V7, P7
+   Zwass V., 2014, Handbook of Strategic e-Business Management
+NR 140
+TC 0
+Z9 0
+U1 4
+U2 4
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD APR 2
+PY 2024
+VL 28
+IS 2
+BP 186
+EP 216
+DI 10.1080/10864415.2024.2332047
+PG 31
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA QS7B0
+UT WOS:001222913700007
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Atawna, T
+   Testa, S
+   Cincotti, S
+AF Atawna, Thaer
+   Testa, Stefania
+   Cincotti, Silvano
+TI The Impact of Geography on the Success of Prosocial Crowdfunding
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Crowdfunding; prosocial crowdfunding; developed versus developing
+   countries; charitable giving; philanthropic geography; online giving;
+   online philanthropy
+ID CHARITY BEGIN; DISTANCE; HOME; PHILANTHROPY; DONATIONS; REWARD
+AB Prosocial crowdfunding is gaining popularity as an alternative tool to traditional offline charity. While the success of crowdfunding projects aimed at pursuing commercial gains has been studied extensively, less research has addressed the factors that affect the success of prosocial crowdfunding campaigns. More specifically, there is even less research related to geographical factors. Building on charitable giving literature, we employ the lens of moral cosmopolitanism to hypothesize how geographical factors impact the success of prosocial crowdfunding campaigns. We conducted our investigation on a sample of 350 campaigns launched on StartSomeGood and found that contributors, despite a hype on cosmopolitan responsibility induced by digital platforms, prefer recipients in developed countries and, when donating to recipients in developing countries, show a preference for initiators from developed countries.
+C1 [Atawna, Thaer] Univ Agder, Crowdfunding Res Ctr, Kristiansand, Norway.
+   [Testa, Stefania] Univ Genoa, Genoa, Italy.
+   [Cincotti, Silvano] Univ Genoa, Econ & Management, Genoa, Italy.
+C3 University of Agder; University of Genoa; University of Genoa
+RP Atawna, T (corresponding author), Univ Agder, Crowdfunding Res Ctr, Kristiansand, Norway.
+EM Thaer.atawna@gmail.com; stefania.testa@unige.it;
+   silvano.cincotti@unige.it
+FU Kristiansand, Norway
+FX Sincere gratitude is expressed to Professor Rotem Shneor and Dr. Liang
+   Zhao for their invaluable support during the data collection phase at
+   the University of Agder Crowdfunding Research Center, Kristiansand,
+   Norway. Their support and expertise were valuable in shaping the
+   research.
+CR Agrawal A., 2011, NBER Working Paper, DOI DOI 10.3386/W16820
+   Agrawal A., 2014, Innovation Policy and the Economy, DOI [10.1086/674021, 10.3386/w19133, DOI 10.1086/674021]
+   Agrawal A, 2015, J ECON MANAGE STRAT, V24, P253, DOI 10.1111/jems.12093
+   Alharbi S, 2022, GLOB FINANC J, V52, DOI 10.1016/j.gfj.2020.100585
+   Alhidari IS, 2018, NONPROF VOLUNT SEC Q, V47, P623, DOI 10.1177/0899764017753559
+   [Anonymous], CORRUPTION PERCEPTIO
+   Ariza-Montes J.A., 2014, ICT Management in Non-Profit Organizations, P90
+   Atkinson A.B., 2008, Arguments for a Better World: Essays in Honor of Amartya Sen: Volume I: Ethics, Welfare, and Measurement, P489
+   ATLAS L., 2005, Nonprofit World, V23, P25
+   Ba ZC, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2020.102322
+   Beaudet P., 2017, Introduction to International Development: Approaches, Actors, and Issues, P102
+   Bekkers R, 2003, NONPROF VOLUNT SEC Q, V32, P596, DOI 10.1177/0899764003258102
+   Bekkers R, 2011, NONPROF VOLUNT SEC Q, V40, P924, DOI 10.1177/0899764010380927
+   Bekkers R, 2010, SOC SCI RES, V39, P369, DOI 10.1016/j.ssresearch.2009.08.008
+   Belleflamme P, 2014, J BUS VENTURING, V29, P585, DOI 10.1016/j.jbusvent.2013.07.003
+   Berns JP, 2020, J BUS ETHICS, V161, P169, DOI 10.1007/s10551-018-3932-0
+   Black S, 2013, J HUM RIGHTS, V12, P103, DOI 10.1080/14754835.2013.754293
+   Black S, 2009, PUBLIC CULTURE, V21, P269, DOI 10.1215/08992363-2008-029
+   Blaine B.E., 2018, The SAGE encyclopedia of educational research, measurement, and evaluation p, P1817, DOI DOI 10.4135/9781506326139.N685
+   Bowman W, 2004, NONPROF VOLUNT SEC Q, V33, P247, DOI 10.1177/0899764004263420
+   Bryson JR, 2002, AREA, V34, P48, DOI 10.1111/1475-4762.00056
+   Bukhari FAS, 2020, BALT J MANAG, V15, P215, DOI 10.1108/BJM-02-2019-0077
+   Burtch G, 2014, MIS QUART, V38, P773, DOI 10.25300/MISQ/2014/38.3.07
+   Calic G, 2016, J MANAGE STUD, V53, P738, DOI 10.1111/joms.12201
+   Casale D, 2015, NONPROF VOLUNT SEC Q, V44, P98, DOI 10.1177/0899764013507141
+   Cheung CK, 2000, EVAL PROGRAM PLANN, V23, P241, DOI 10.1016/S0149-7189(00)00003-3
+   Cohen P., 2014, APPL MULTIPLE REGRES
+   Cox M., 2015, Giving New Zealand: Philanthropic Funding 2014, Business and Economic Research Limited, prepared for Philanthropy New Zealand
+   Cumming D, 2010, J EMPIR FINANC, V17, P362, DOI 10.1016/j.jempfin.2009.11.001
+   Diallo A., 2005, International Journal of Project Management, V23, P237, DOI 10.1016/j.ijproman.2004.10.002
+   Dubois A, 2018, ROUTL INT STUD MONEY, P376
+   Emontspool J., 2018, Cosmopolitanism, Markets and Consumption, P1
+   Enke B, 2022, MANAGE SCI, V68, P3590, DOI 10.1287/mnsc.2021.4086
+   Fan H., 2021, Mathematical Problems in Engineering, P1
+   Fechter AM, 2019, THIRD WORLD Q, V40, P1769, DOI 10.1080/01436597.2019.1656062
+   Fleming L, 2016, CALIF MANAGE REV, V58, P5, DOI 10.1525/cmr.2016.58.2.5
+   Galak J, 2011, J MARKETING RES, V48, pS130, DOI 10.1509/jmkr.48.SPL.S130
+   Gallemore C, 2019, ENVIRON PLANN A, V51, P1389, DOI 10.1177/0308518X19843925
+   Gaviria P.R., 2018, Cosmopolitanism, Markets, and Consumption: A Critical Global Perspective, P185
+   Genç M, 2021, APPL ECON, V53, P805, DOI 10.1080/00036846.2020.1814947
+   Giudici G, 2018, SMALL BUS ECON, V50, P307, DOI 10.1007/s11187-016-9830-x
+   Gleasure R, 2018, J ELECTRON COMMER RE, V19, P223
+   Gleasure R, 2016, INT J ELECTRON COMM, V20, P499, DOI 10.1080/10864415.2016.1171975
+   Grau SL, 2007, J ADVERTISING, V36, P19, DOI 10.2753/JOA0091-3367360402
+   Grimson D, 2020, APPL ECON, V52, P3700, DOI 10.1080/00036846.2020.1720906
+   Grinstein A, 2015, J INT BUS STUD, V46, P694, DOI 10.1057/jibs.2015.1
+   Guenther C, 2018, SMALL BUS ECON, V50, P289, DOI 10.1007/s11187-016-9834-6
+   Guo LH, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10041251
+   Harnois Y., 2022, Journal of Financial Crime, V29, P864
+   Harnois YG, 2022, J ADV MANAG RES, V19, P677, DOI 10.1108/JAMR-06-2021-0195
+   Hart DJ, 2019, VOLUNTAS, V30, P865, DOI 10.1007/s11266-019-00102-x
+   Heilinger J.C., 2019, Cosmopolitan Responsibility
+   Holcombe SH, 2014, DEV PRACT, V24, P750, DOI 10.1080/09614524.2014.937398
+   Hornuf Lars., 2016, CESifo DICE Report, V14, P16
+   Hu X, 2019, INT J ELECTRON COMM, V23, P297, DOI 10.1080/10864415.2019.1619905
+   Jenik I., 2017, Crowdfunding and Financial Inclusion
+   Jiang CX, 2022, PAC-BASIN FINANC J, V76, DOI 10.1016/j.pacfin.2022.101858
+   Josefy M, 2017, ENTREP THEORY PRACT, V41, P161, DOI 10.1111/etap.12263
+   Kang LL, 2017, INFORM MANAGE-AMSTER, V54, P336, DOI 10.1016/j.im.2016.09.001
+   Kaufmann D., WORLDWIDE GOVERNANCE
+   Kim K., 2013, INFORMS C INF SYST T
+   Kim S, 2022, NONPROFIT MANAG LEAD, V32, P627, DOI 10.1002/nml.21496
+   Kinsbergen S, 2013, SOC SCI RES, V42, P1571, DOI 10.1016/j.ssresearch.2013.06.011
+   Knowles S, 2017, NONPROF VOLUNT SEC Q, V46, P944, DOI 10.1177/0899764017703710
+   Kotler P., 1997, Corporate social responsibility: Doing the most good for your company and your cause, V7th
+   Lagazio C, 2018, J BUS RES, V90, P318, DOI 10.1016/j.jbusres.2018.05.031
+   Li YM, 2020, DECIS SUPPORT SYST, V129, DOI 10.1016/j.dss.2019.113170
+   Lin MF, 2016, MANAGE SCI, V62, P1393, DOI 10.1287/mnsc.2015.2206
+   Lui SS, 2023, ASIA PAC J MANAG, V40, P681, DOI 10.1007/s10490-021-09801-w
+   MacAskill William, 2016, Doing Good Better: How Effective Altruism Can Help You Help Others, Do Work That Matters, and Make Smarter Choices About Giving Back
+   Micklewright J, 2009, J SOC POLICY, V38, P317, DOI 10.1017/S0047279408002869
+   Moleskis M, 2019, NONPROF VOLUNT SEC Q, V48, P552, DOI 10.1177/0899764018802367
+   Mollick E., 2013, Venture Capital, and the selection of entrepreneurs
+   Mollick E, 2014, J BUS VENTURING, V29, P1, DOI 10.1016/j.jbusvent.2013.06.005
+   Qian Y., 2017, Science ISCC, P16
+   Ralcheva A., 2016, SSRN
+   Robson A, 2021, NONPROF VOLUNT SEC Q, V50, P506, DOI 10.1177/0899764020927097
+   Roma P, 2023, IEEE T ENG MANAGE, V70, P3198, DOI 10.1109/TEM.2021.3080428
+   Rwelamila PD, 2012, PROJ MANAG J, V43, P5, DOI 10.1002/pmj.21278
+   Ryu S, 2020, INT J ELECTRON COMM, V24, P159, DOI 10.1080/10864415.2020.1715531
+   Salido Andrs N., 2019, Ciriec-Espaa Revista De Economa Pblica Social Y Cooperativa, V95
+   Salido-Andres N, 2021, VOLUNTAS, V32, P288, DOI 10.1007/s11266-020-00213-w
+   Sargeant A., 2002, Journal of Marketing Management, V18, P779
+   Sargeant A., 2007, The Routledge Companion to Nonprofit Marketing, P111
+   Sargeant A., 2002, INT J NONPROFIT VOLU, V7, P68, DOI [10.1002/nvsm.168, DOI 10.1002/NVSM.168]
+   Schons LM, 2017, J BUS ETHICS, V144, P559, DOI 10.1007/s10551-015-2832-9
+   Schwittay A, 2019, THIRD WORLD Q, V40, P1921, DOI 10.1080/01436597.2019.1625267
+   Schwittay Anke., 2015, New Media and International Development: Representation and Affect in Microfinance
+   Singer Peter., 2015, MOST GOOD YOU CAN DO
+   Singer Peter., 2019, The Life You Can Save: How to Do Your Part to End World Poverty
+   Small DA, 2003, J RISK UNCERTAINTY, V26, P5, DOI 10.1023/A:1022299422219
+   SPENCE M, 1973, Q J ECON, V87, P355, DOI 10.2307/1882010
+   Spence M, 2002, AM ECON REV, V92, P434, DOI 10.1257/00028280260136200
+   Supphellen M, 2001, J ECON PSYCHOL, V22, P573, DOI 10.1016/S0167-4870(01)00056-3
+   Swart R., 2013, Crowdfunding's potential for the developing world, P1
+   Tajvarpour MH, 2022, DECIS SUPPORT SYST, V156, DOI 10.1016/j.dss.2022.113742
+   Testa S, 2022, EUR J INNOV MANAG, V25, P1008, DOI 10.1108/EJIM-11-2021-0547
+   Testa S, 2019, TECHNOL FORECAST SOC, V141, P66, DOI 10.1016/j.techfore.2018.12.011
+   Thies F., 2014, 35 INT C INF SYST IC, P1
+   Vanhamme J, 2012, J BUS ETHICS, V109, P259, DOI 10.1007/s10551-011-1134-0
+   Vismara S., 2018, EC CROWDFUNDING, P29, DOI DOI 10.1007/978-3-319-66119-3_3
+   Xu LZ, 2018, TELEMAT INFORM, V35, P1914, DOI 10.1016/j.tele.2018.06.004
+   Xu Y, 2021, INT J ELECTRON COMM, V25, P416, DOI 10.1080/10864415.2021.1967007
+   Yeh TL, 2019, INNOV-ORGAN MANAG, V21, P466, DOI 10.1080/14479338.2019.1585191
+   Ziegler T., 2021, The 2nd Global Alternative Finance Market Benchmarking Report
+NR 105
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JUL 2
+PY 2024
+VL 28
+IS 3
+BP 332
+EP 357
+DI 10.1080/10864415.2024.2361398
+PG 26
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA UY6R6
+UT WOS:001251669000006
+DA 2024-08-05
+ER
+
+PT J
+AU Spahiu, E
+   Spagnoletti, P
+   Sposito, A
+AF Spahiu, Esli
+   Spagnoletti, Paolo
+   Sposito, Augusto
+TI Building a Blockchain-Based Platform for Interbank Collaboration
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Blockchain; distributed ledger technology; digital platforms;
+   legitimacy; platform governance; banking; intra-organizational
+   e-commerce; e-commerce projects
+ID INFORMATION INFRASTRUCTURES; DESIGN THEORY; ECOSYSTEMS; LEGITIMACY;
+   TECHNOLOGY; GOVERNANCE; INNOVATION
+AB Organizations today are shifting toward collaborative forms of value creation and rely on digital technologies to operate interorganizational processes. This has led blockchain technology to gain considerable momentum, given its ability to foster collaboration among multiple actors. Nevertheless, despite its benefits, building a blockchain-based platform requires integrating heterogeneous needs and adapting to decentralized governance structures. This research investigates the successful deployment of a blockchain-based solution for interbank collaboration. Our empirical analysis focuses on the Spunta Banca DLT Project, initiated in 2017 to automate the interbank reconciliation processes in Italy, through the deployment of a permissioned blockchain-based solution. A qualitative analysis of interview data collected from project participants was conducted to gain insights on the process to build a blockchain-based platform for interbank collaboration. The findings of our exploratory case study reveal that successful deployment hinges on a sequential legitimacy-building process, encompassing pragmatic, normative, and cognitive legitimacy.
+C1 [Spahiu, Esli] CLIO Ctr Leadership Innovat & Org, Rome, Italy.
+   [Spagnoletti, Paolo] Luiss Univ, Viale Romania 32, I-00197 Rome, Italy.
+C3 Luiss Guido Carli University
+RP Spagnoletti, P (corresponding author), Luiss Univ, Viale Romania 32, I-00197 Rome, Italy.
+EM esli.spahiu@luiss.it; pspagnoletti@luiss.it; augusto.sposito@outlook.com
+OI Spahiu, Esli/0000-0002-5685-1141; Sposito, Augusto/0000-0003-2298-6010
+CR ABI Lab, 2022, ABILAB
+   ABI Lab, 2020, SPUNTA BANCA DLT
+   ABI Lab, 2021, ABILAB
+   Adner R, 2017, J MANAGE, V43, P39, DOI 10.1177/0149206316678451
+   ALDRICH HE, 1994, ACAD MANAGE REV, V19, P645, DOI 10.2307/258740
+   Ali O, 2020, INT J INFORM MANAGE, V54, DOI 10.1016/j.ijinfomgt.2020.102199
+   Angelis S. D., 2018, CEUR WORKSHOP PROC, P1
+   Attanasio S., 2021, EUROPEAN PAYMENTS CO
+   Aulkemeier F, 2019, ELECTRON MARK, V29, P597, DOI 10.1007/s12525-019-00341-2
+   Beck R, 2018, J ASSOC INF SYST, V19, P1020, DOI 10.17705/1jais.00518
+   Bell E., 2019, Business Research Methods
+   Berger P., 1973, HOMELESS MIND MODERN
+   Bowker G. C., 2020, SORTING THINGS OUT C
+   Catalini C, 2020, COMMUN ACM, V63, P80, DOI 10.1145/3359552
+   Chen Y, 2021, J MANAGE, V47, P1305, DOI 10.1177/0149206320916755
+   Ciborra C., 2000, CONTROL DRIFT DYNAMI
+   Cole R, 2019, SUPPLY CHAIN MANAG, V24, P469, DOI 10.1108/SCM-09-2018-0309
+   Constantinides P, 2015, INFORM SYST RES, V26, P40, DOI 10.1287/isre.2014.0542
+   Cozzolino A, 2021, J BUS RES, V126, P385, DOI 10.1016/j.jbusres.2020.12.058
+   Cucari N, 2022, TECHNOL ANAL STRATEG, V34, P138, DOI 10.1080/09537325.2021.1891217
+   Cuesta C., 2015, The digital transformation of the banking industry, P1
+   Currie WL, 2018, J INF TECHNOL-UK, V33, P304, DOI 10.1057/s41265-017-0047-5
+   Cusumano M. A., 2019, The business of platforms: Strategy in the age of digital competition, innovation, and power, V320
+   Davidson S, 2018, J I ECON, V14, P639, DOI 10.1017/S1744137417000200
+   de Reuver M, 2015, ELECTRON COMMER R A, V14, P331, DOI 10.1016/j.elerap.2014.08.004
+   Elms H, 2009, BUS ETHICS Q, V19, P403, DOI 10.5840/beq200919323
+   Friedland R., 1991, NEW I ORG ANAL, P232, DOI DOI 10.7208/CHICAGO/9780226185941.001.0001
+   Frizzo-Barker J, 2020, INT J INFORM MANAGE, V51, DOI 10.1016/j.ijinfomgt.2019.10.014
+   Garg P, 2021, TECHNOL FORECAST SOC, V163, DOI 10.1016/j.techfore.2020.120407
+   Ginzel L.E., 2000, ORG IDENTITY, P223
+   Gioia DA, 2013, ORGAN RES METHODS, V16, P15, DOI 10.1177/1094428112452151
+   Hanseth O, 2010, J INF TECHNOL-UK, V25, P1, DOI 10.1057/jit.2009.19
+   Harris Wesley L., 2019, Foresight, V21, P625, DOI 10.1108/FS-12-2018-0113
+   Hein A, 2020, ELECTRON MARK, V30, P87, DOI 10.1007/s12525-019-00377-4
+   Herian R., 2018, J INTERNET LAW, V22, P1
+   Jacobides MG, 2018, STRATEGIC MANAGE J, V39, P2255, DOI 10.1002/smj.2904
+   Jovanovic M, 2022, TECHNOL FORECAST SOC, V184, DOI 10.1016/j.techfore.2022.121981
+   Kaniadakis A, 2014, J ASSOC INF SYST, V15, P244
+   Kolodziej M., 2019, Finanse, V12, P43, DOI DOI 10.24425/FINANSE.2019.131520
+   Kwak J, 2019, TECHNOL FORECAST SOC, V139, P115, DOI 10.1016/j.techfore.2018.06.038
+   Lumineau F, 2021, ORGAN SCI, V32, P500, DOI 10.1287/orsc.2020.1379
+   Lusch RF, 2015, MIS QUART, V39, P155
+   Malhotra A, 2022, BUS HORIZONS, V65, P159, DOI 10.1016/j.bushor.2021.02.033
+   MEYER JW, 1977, AM J SOCIOL, V83, P340, DOI 10.1086/226550
+   Monteiro E, 1998, INFORM SOC, V14, P229, DOI 10.1080/019722498128845
+   Mukhopadhyay S, 2019, DIGIT POLICY REGUL G, V21, P329, DOI 10.1108/DPRG-11-2018-0067
+   Pappas IO, 2018, INF SYST E-BUS MANAG, V16, P479, DOI 10.1007/s10257-018-0377-z
+   Pereira J, 2019, TECHNOL FORECAST SOC, V146, P94, DOI 10.1016/j.techfore.2019.04.030
+   Pollari I, 2016, JASSA, P15
+   Ritala P, 2014, IND MARKET MANAG, V43, P236, DOI 10.1016/j.indmarman.2013.11.005
+   Ross W, 1996, INT J CONFL MANAGE, V7, P314, DOI 10.1108/eb022786
+   Saheb T., 2021, The Journal of High Technology Management Research, V32, P100417, DOI DOI 10.1016/J.HITECH.2021.100417
+   Schmeiss J, 2019, CALIF MANAGE REV, V62, P121, DOI 10.1177/0008125619883618
+   Scott W.R., 1977, New perspectives on organizational effectiveness, P63
+   Spagnoletti P, 2015, J INF TECHNOL-UK, V30, P364, DOI 10.1057/jit.2014.37
+   Spahiu E., 2022, BLOCKCHAIN TECHNOLOG, P264
+   Stasi R., 2021, Journal of Digital Banking, V5, P313
+   SUCHMAN MC, 1995, ACAD MANAGE REV, V20, P571, DOI 10.2307/258788
+   Treiblmaier H, 2019, FRONT BLOCKCHAIN, V2, DOI 10.3389/fbloc.2019.00003
+   Valkokari K, 2017, TECHNOL INNOV MANAG, V7, P12
+   Vella G., 2021, 3 SYMPLATFORM, P1
+   Wen YN, 2023, TECHNOL SOC, V74, DOI 10.1016/j.techsoc.2023.102266
+   Wimmer MA, 2018, PROCEEDINGS OF THE 19TH ANNUAL INTERNATIONAL CONFERENCE ON DIGITAL GOVERNMENT RESEARCH (DGO 2018): GOVERNANCE IN THE DATA AGE, P113, DOI 10.1145/3209281.3209306
+   Yablonsky S, 2020, KYBERNETES, V49, P2003, DOI 10.1108/K-07-2019-0447
+   Yoffie D. B., 2019, HARVARD BUSINESS REV
+   Zutshi A, 2021, COMPUT IND ENG, V155, DOI 10.1016/j.cie.2021.107187
+NR 66
+TC 0
+Z9 0
+U1 9
+U2 9
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD APR 2
+PY 2024
+VL 28
+IS 2
+BP 269
+EP 291
+DI 10.1080/10864415.2024.2332051
+EA APR 2024
+PG 23
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA QS7B0
+UT WOS:001206916000001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU French, AM
+   Risius, M
+AF French, Aaron M.
+   Risius, Marten
+TI Redefining the Customer Service Relationship Through Blockchain
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Blockchain; Customer Service Life Cycle; customer service; service
+   relationship; use cases
+ID FRAMEWORK; INTERNET
+AB Blockchain is an emerging technology that may fundamentally alter the way in which customers and companies interact. However, there is still uncertainty toward use cases in the distinct aspects of customer service. In this research, we draw on the Customer Service Life Cycle framework to conceptually understand how blockchain technology can reshape the various stages of the customer service relationship. We perform a multiple-case-study analysis on blockchain functionalities and challenges to abstract how blockchain technologies can enhance the customer service relationship. The findings highlight benefits and challenges of blockchain technologies during the requirements, acquisition, ownership, and retirement stages across industries.
+C1 [French, Aaron M.] Kennesaw State Univ, Informat Syst, Kennesaw, GA 30144 USA.
+   [French, Aaron M.] Mississippi State Univ, Mississippi State, MS 39762 USA.
+   [Risius, Marten] Univ Queensland Brisbane, Informat Syst, Brisbane, Australia.
+C3 University System of Georgia; Kennesaw State University; Mississippi
+   State University; University of Queensland
+RP French, AM (corresponding author), Kennesaw State Univ, Informat Syst, Kennesaw, GA 30144 USA.; French, AM (corresponding author), Mississippi State Univ, Mississippi State, MS 39762 USA.
+EM afrenc20@kennesaw.edu; m.risius@business.uq.edu.au
+OI French, Aaron/0000-0002-7634-9925
+FU Australian Research Council [DE220101597]; Australian Research Council
+   Australian Discovery Early Career Award; Australian Government;
+   Australian Research Council [DE220101597] Funding Source: Australian
+   Research Council
+FX Marten Risius is the recipient of an Australian Research Council
+   Australian Discovery Early Career Award (project number DE220101597)
+   funded by the Australian Government.
+CR Aetsoft, 2023, AETSOFT
+   Ahmed W.A.H., 2022, DIGITAL BUSINESS, V2, P1
+   Albeyatti A., 2018, Medicalchain
+   Avital M., 2016, P 37 INT C INFORM SY
+   Beck R., 2017, P 50 HAWAII INT C SY
+   Beck R, 2018, J ASSOC INF SYST, V19, P1020, DOI 10.17705/1jais.00518
+   BENBASAT I, 1987, MIS QUART, V11, P369, DOI 10.2307/248684
+   Bitnodes, 2023, BITNODES
+   Blockdata, 2022, BLOCKDATA
+   Brave Software, 2018, CISC VIS NETW IND GL
+   Buterin V, 2014, Ethereum: A next-generation smart contract and decentralized application platform
+   Christidis K, 2016, IEEE ACCESS, V4, P2292, DOI 10.1109/ACCESS.2016.2566339
+   Cong LW, 2019, REV FINANC STUD, V32, P1754, DOI 10.1093/rfs/hhz007
+   Daugherty PJ, 2019, INT J PHYS DISTR LOG, V49, P4, DOI 10.1108/IJPDLM-03-2018-0143
+   Ding L, 2022, INT J ELECTRON COMM, V26, P149, DOI 10.1080/10864415.2022.2050580
+   Eisenhardt KM, 2007, ACAD MANAGE J, V50, P25, DOI 10.5465/AMJ.2007.24160888
+   EISENHARDT KM, 1989, ACAD MANAGE REV, V14, P532, DOI 10.2307/258557
+   Glaser F, 2017, PROCEEDINGS OF THE 50TH ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES, P1543
+   Huang SL, 2023, INT J ELECTRON COMM, V27, P385, DOI 10.1080/10864415.2023.2226901
+   Ives B, 2016, MIS Q EXEC, V15, P279
+   Marr Bernard., 2017, Forbes
+   Modum, 2017, MODUM
+   Mousavi S, 2023, INT J ELECTRON COMM, V27, P66, DOI 10.1080/10864415.2022.2158596
+   Pai S., 2018, CAPGEMINI RES I
+   Pedersen AB, 2019, MIS Q EXEC, V18, P99, DOI 10.17705/2msqe.00010
+   Piccoli G., 2011, CORNELL HOTEL REST A, V42, P38
+   Risius M, 2017, BUS INFORM SYST ENG+, V59, P385, DOI 10.1007/s12599-017-0506-0
+   Scott A. Vitalik Buterin., 2018, BITCOINIST
+   Song J, 2018, Medium
+   Szabo N., 1997, First Monday, V2
+   Witt J, 2023, ELECTRON MARK, V33, DOI 10.1007/s12525-023-00636-5
+   Wozniak J., 2018, MEDIUM
+   Xu XW, 2017, 2017 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ARCHITECTURE (ICSA 2017), P243, DOI 10.1109/ICSA.2017.33
+   YCharts, 2023, YCHARTS
+NR 34
+TC 1
+Z9 1
+U1 12
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JAN 2
+PY 2024
+VL 28
+IS 1
+BP 63
+EP 83
+DI 10.1080/10864415.2023.2295071
+EA JAN 2024
+PG 21
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA JJ7O4
+UT WOS:001145158000001
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, L
+   Sun, XY
+   Fang, JM
+   Hossin, MA
+AF Liu, Lu
+   Sun, Xiying
+   Fang, Jiaming
+   Hossin, Md. Altab
+TI Exploring Prototypicality Adherence Effects on User Engagement in
+   User-Generated Video Platforms
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE User-generated videos (UGV); video tagging system; digital content;
+   prototypicality; market competition; automated tagging
+ID OPTIMAL DISTINCTIVENESS; YOUTUBE; MARKET; ATTITUDES; RESPONSES; IMPACT;
+   PARTICIPATION; COMMUNITIES; PERFORMANCE; PROMINENCE
+AB Online video platforms are actively introducing automatic tagging systems to enhance the searchability and accessibility of videos, and these systems also contribute to the prototypicality of the videos. Nonetheless, the influence of adhering to prototypicality in user-generated videos (UGVs) on user engagement has remained an area with limited exploration. Leveraging an extensive dataset from UGV platforms that includes 15,986 videos by 6,824 creators across 17 distinct categories, this study applies information foraging theory to show that video prototypicality significantly enhances emotional engagement but has an inverse effect on cognitive engagement. The dynamics of these effects are shaped by the competitive landscape of the video market. Specifically, horizontal market competition amplifies these effects, while vertical market competition attenuates them. Moreover, our exploration of heterogeneity effects reveals that the influence of adhering to video prototypicality on emotional engagement wanes within extensive creator networks. Furthermore, the impacts of adhering to video prototypicality on emotional and cognitive engagement demonstrate distinct patterns, contingent on the existence of a creator market monopoly. The results of this study can assist UGV platforms in refining the design of their automated video tagging systems, contributing to a more dynamic and vibrant UGV platform.
+C1 [Liu, Lu; Sun, Xiying; Fang, Jiaming] Univ Elect Sci & Technol China, Sch Management & Econ, Chengdu, Peoples R China.
+   [Hossin, Md. Altab] Chengdu Univ China, Sch Innovat & Entrepreneurship, Chengdu, Peoples R China.
+C3 University of Electronic Science & Technology of China
+RP Fang, JM (corresponding author), Univ Elect Sci & Technol China, Sch Management & Econ, Chengdu, Peoples R China.
+EM lliu@std.uestc.edu.cn; sunxiying2020@163.com; jmfang@uestc.edu.cn;
+   altabbd@uestc.edu.cn
+OI Fang, Jiaming/0000-0002-1806-8017
+FU Ministry of Education of Humanities and Social Science Project
+   [23YJA630023]
+FX The authors received and are thankful for research sponsorship from the
+   Ministry of Education of Humanities and Social Science Project
+   [23YJA630023].
+CR Abrams D., 1990, EUR J SOC PSYCHOL, V1, P195, DOI [10.1080/14792779108401862, DOI 10.1080/14792779108401862]
+   Agrawal SR, 2022, J RETAIL CONSUM SERV, V67, DOI 10.1016/j.jretconser.2022.102966
+   Barlow MA, 2019, STRATEGIC MANAGE J, V40, P1219, DOI 10.1002/smj.3019
+   BROOKS GR, 1995, STRATEGIC MANAGE J, V16, P535, DOI 10.1002/smj.4250160704
+   Celhay F, 2015, J PROD INNOVAT MANAG, V32, P1014, DOI 10.1111/jpim.12212
+   Chiang HS, 2015, INTERNET RES, V25, P85, DOI 10.1108/IntR-11-2013-0236
+   Chitturi R, 2008, J MARKETING, V72, P48, DOI 10.1509/jmkg.72.3.48
+   Cho EK, 2013, J MARKETING RES, V50, P505, DOI 10.1509/jmr.11.0389
+   COOPER RG, 1979, J MARKETING, V43, P93, DOI 10.2307/1250151
+   Delgado-Ballester E, 2008, INT J ELECTRON COMM, V12, P81, DOI 10.2753/JEC1086-4415120305
+   Deng BJ, 2021, J MANAGE INFORM SYST, V38, P959, DOI 10.1080/07421222.2021.1990607
+   Dhillon B., P HCI 2011 25 BCS C, P139
+   Diwanji VS, 2020, J RETAIL CONSUM SERV, V54, DOI 10.1016/j.jretconser.2019.102024
+   Fang J., 2023, Information Processing Management, V60, P1
+   Fang JM, 2018, INFORM MANAGE-AMSTER, V55, P890, DOI 10.1016/j.im.2018.04.003
+   Fu WW, 2012, J COMPUT-MEDIAT COMM, V18, P46, DOI 10.1111/j.1083-6101.2012.01593.x
+   Ge JJ, 2021, INT J ADVERT, V40, P870, DOI 10.1080/02650487.2020.1848986
+   Guan ZZ, 2022, INFORM SYST J, V32, P653, DOI 10.1111/isj.12367
+   Guo R, 2017, J BUS ETHICS, V140, P523, DOI 10.1007/s10551-015-2672-7
+   Halskov K, 2006, HUM-COMPUT INTERACT, V21, P199, DOI 10.1207/s15327051hci2102_2
+   Hansen SS, 2014, J ELECTRON COMMER RE, V15, P254
+   Hautz J, 2014, J INTERACT MARK, V28, P1, DOI 10.1016/j.intmar.2013.06.003
+   HIRSCHMAN EC, 1980, J CONSUM RES, V7, P283, DOI 10.1086/208816
+   Holland CP, 2018, INT J ELECTRON COMM, V22, P161, DOI 10.1080/10864415.2017.1364114
+   Hu M, 2016, COMPUT HUM BEHAV, V62, P105, DOI 10.1016/j.chb.2016.03.077
+   Jansen BJ, 2011, INT J ELECTRON COMM, V16, P77, DOI 10.2753/JEC1086-4415160103
+   Kooijman EAP, 2021, ADM SCI, V11, DOI 10.3390/admsci11040111
+   Kovács B, 2010, RES SOCIOL ORGAN-RES, V31, P175, DOI 10.1108/S0733-558X(2010)0000031008
+   Kuem J, 2020, J MANAGE INFORM SYST, V37, P162, DOI 10.1080/07421222.2019.1705510
+   Le Roux A, 2016, J PROD BRAND MANAG, V25, P600, DOI 10.1108/JPBM-07-2015-0923
+   Leiva G, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376160
+   Li B., 2023, Information Processing Management, V60, P1
+   Li J, 2019, INT J ELECTRON COMM, V23, P244, DOI 10.1080/10864415.2018.1564552
+   Li MX, 2017, MIS QUART, V41, P867
+   Li Y., 2021, Information Management, V58, P1
+   Li Y, 2022, J BUS RES, V151, P232, DOI 10.1016/j.jbusres.2022.06.051
+   Liu S, 2022, COMPUT EDUC, V181, DOI 10.1016/j.compedu.2022.104461
+   Liu S, 2020, INT J HOSP MANAG, V90, DOI 10.1016/j.ijhm.2020.102611
+   Liu X, 2020, MIS QUART, V44, P257, DOI 10.25300/MISQ/2020/15107
+   Liu Z., 2023, Journal of Business Research, V168, P1
+   MACKIE DM, 1986, J PERS SOC PSYCHOL, V50, P720, DOI 10.1037/0022-3514.50.4.720
+   Mariani MM, 2020, INT J ELECTRON COMM, V24, P421, DOI 10.1080/10864415.2020.1806464
+   Montoya RM, 2017, PSYCHOL BULL, V143, P459, DOI 10.1037/bul0000085
+   Moody GD, 2015, J MANAGE INFORM SYST, V32, P192, DOI 10.1080/07421222.2015.1029391
+   Navis C, 2011, ACAD MANAGE REV, V36, P479, DOI 10.5465/AMR.2011.61031809
+   Netessine S, 2005, MANAGE SCI, V51, P813, DOI 10.1287/mnsc.1040.0356
+   Nguyen P.M.B., 2023, Journal of Vacation Marketing, V26, P1
+   OHLSON JA, 1980, J FINANC, V35, P537, DOI 10.2307/2327414
+   Paek HJ, 2011, INT J ADVERT, V30, P161, DOI 10.2501/IJA-30-1-161-188
+   Park S, 2012, MARKET SCI, V31, P567, DOI 10.1287/mksc.1120.0718
+   Pirolli P, 1999, PSYCHOL REV, V106, P643, DOI 10.1037/0033-295X.106.4.643
+   Qiu LF, 2015, J MANAGE INFORM SYST, V32, P78, DOI 10.1080/07421222.2015.1138368
+   Huy QN, 2014, ACAD MANAGE J, V57, P1650, DOI 10.5465/amj.2012.0074
+   Reinold T., 2012, Journal of Marketing Communications, V18, P113
+   Rubenking B, 2019, COMPUT HUM BEHAV, V96, P63, DOI 10.1016/j.chb.2019.02.011
+   Scarpi D, 2019, J RETAIL CONSUM SERV, V49, P267, DOI 10.1016/j.jretconser.2019.03.006
+   Scott JE, 2009, INFORM MANAGE-AMSTER, V46, P221, DOI 10.1016/j.im.2008.10.003
+   Shelton S.M., 1993, Technical Communication, V40, P655
+   Shi X, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2020.102241
+   Shiau W.L., 2012, PAC AS C INF SYST 20, P1
+   Silvia PJ, 2005, REV GEN PSYCHOL, V9, P342, DOI 10.1037/1089-2680.9.4.342
+   Snchez-Prez M., 2020, International Journal of Hospitality Management, V85, P1
+   Song TT, 2019, INFORM SYST RES, V30, P912, DOI 10.1287/isre.2019.0838
+   Stoll E, 2023, IEEE ACCESS, V11, P96673, DOI 10.1109/ACCESS.2023.3311256
+   Truong Y., 2021, Information Management, V58, P1
+   Vance A., 2022, MIS Quarterly, V46, P1721
+   Verhellen Y, 2013, J ELECTRON COMMER RE, V14, P287
+   Veryzer RW, 1998, J CONSUM RES, V24, P374
+   Wei J, 2021, MULTIMED TOOLS APPL, V80, P14343, DOI 10.1007/s11042-020-10203-1
+   Wies S, 2023, J MARKETING, V87, P383, DOI 10.1177/00222429221125131
+   Xi D., 2021, Information Processing Management, V58, P1
+   Xi DH, 2024, INT J ELECTRON COMM, V28, P108, DOI 10.1080/10864415.2023.2295072
+   Xiang Y, 2022, INT J HUM-COMPUT INT, V38, P573, DOI 10.1080/10447318.2021.1952803
+   Xiao N, 2014, DECIS SUPPORT SYST, V57, P417, DOI 10.1016/j.dss.2012.10.047
+   Xie XZ, 2019, SOC SCI J, V56, P401, DOI 10.1016/j.soscij.2018.08.010
+   Xu XZ, 2022, IEEE T MULTIMEDIA, V24, P2752, DOI 10.1109/TMM.2021.3087098
+   Yang MC, 2019, INFORM SYST RES, V30, P839, DOI 10.1287/isre.2019.0834
+   Zhang Q, 2020, MARKET SCI, V39, P285, DOI 10.1287/mksc.2019.1215
+   Zhang Y., 2023, Information Management, V60, P1
+   Zhao EY, 2018, ORGAN SCI, V29, P588, DOI 10.1287/orsc.2017.1194
+   Zhao KR, 2023, INFORM SYST RES, V34, P847, DOI 10.1287/isre.2022.1160
+   Zhao KX, 2022, DECIS SUPPORT SYST, V154, DOI 10.1016/j.dss.2021.113684
+   Zhao L, 2012, INT J INFORM MANAGE, V32, P574, DOI 10.1016/j.ijinfomgt.2012.02.006
+   Zhu J., 2024, Journal of Travel Research, V1, P1
+NR 84
+TC 0
+Z9 0
+U1 15
+U2 15
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JUL 2
+PY 2024
+VL 28
+IS 3
+BP 381
+EP 415
+DI 10.1080/10864415.2024.2361400
+PG 35
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA UY6R6
+UT WOS:001251669000002
+DA 2024-08-05
+ER
+
+PT J
+AU Xi, DH
+   Zhou, JL
+   Xu, W
+   Tang, LM
+AF Xi, Dinghao
+   Zhou, Jilei
+   Xu, Wei
+   Tang, Liumin
+TI Discrete Emotion Synchronicity and Video Engagement on Social Media: A
+   Moment-to-Moment Analysis
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Discrete emotions; moment-to-moment synchronicity; user engagement;
+   multimodal data; video-based social media
+ID HELPFULNESS; ATTENTION; MODEL; COMMERCIALS; COMMUNITY; PICTURES;
+   REVIEWS; AROUSAL; SHARE
+AB Although previous studies have identified several discrete emotion features that drive video diffusion on social media, little research has viewed the video consumption experience as a continuous communication process and combined viewer-side moment-to-moment (MTM) emotional reactions with supply-side MTM emotional dynamics. In this article, we examine how discrete emotion synchronicity, which refers to the synchronicity between MTM discrete emotions in the video content and MTM viewer emotional reactions, is associated with user engagement on video-based social media. Using a set of state-of-the-art deep learning algorithms and a regression model, we first extract discrete emotion synchronicity from videos with multimodal data streams. Then, we conduct an empirical analysis to determine the impact of discrete emotion synchronicity on user engagement. Our results indicate that discrete emotion synchronicity does not always lead to higher user engagement on video-based social media. First, discrete emotion synchronicity that increases the number of video tips (i.e., joy) cannot increase the number of saves and shares. Second, discrete emotion synchronicity (i.e., calm, solemnity, and sadness) has a negative effect on 3 types of engagement behaviors in some cases. Third, the negative effect of discrete emotion synchronicity outweighs its positive effect. Our work offers new insight into how discrete emotions facilitate or hinder user engagement in the context of video-based social media and has practical implications for firms' marketing strategies on video-oriented social media.
+C1 [Xi, Dinghao; Zhou, Jilei; Xu, Wei; Tang, Liumin] Renmin Univ China, Sch Informat, Beijing, Peoples R China.
+C3 Renmin University of China
+RP Zhou, JL (corresponding author), Renmin Univ China, Sch Informat, Beijing, Peoples R China.
+EM xidinghao@ruc.edu.cn; zhoujilei@ruc.edu.cn; weixu@ruc.edu.cn;
+   tangliumin@ruc.edu.cn
+FU School of Interdisciplinary Studies, Renmin University of China
+   [72201269]; National Natural Science Foundation of China; School of
+   Interdisciplinary Studies, Renmin University of China
+FX We thank the Editor-in-Chief and the anonymous reviewers for their
+   constructive comments and suggestions. This work is supported by the
+   National Natural Science Foundation of China (grant 72201269) and the
+   School of Interdisciplinary Studies, Renmin University of China.
+CR Adams B, 2002, IEEE T MULTIMEDIA, V4, P472, DOI 10.1109/TMM.2002.802016
+   Ahmad SN, 2016, INT J ELECTRON COMM, V20, P76, DOI 10.1080/10864415.2016.1061471
+   Alhabash S, 2015, NEW MEDIA SOC, V17, P1317, DOI 10.1177/1461444814523726
+   Aljanaki A, 2016, INFORM PROCESS MANAG, V52, P115, DOI 10.1016/j.ipm.2015.03.004
+   [Anonymous], 2001, REV GEN PSYCHOL, DOI 10.1037/1089-2680.5.4.323
+   [Anonymous], 2015, Hours of video uploaded to YouTube every minute as of July 2015
+   Apostolidis Evlampios, 2014, 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), P6583, DOI 10.1109/ICASSP.2014.6854873
+   Barnett SB, 2017, J CONSUM RES, V44, P160, DOI 10.1093/jcr/ucw083
+   Barrett LF, 1999, CURR DIR PSYCHOL SCI, V8, P10, DOI 10.1111/1467-8721.00003
+   Belch G.E., 2004, INTEGRATED MARKETING, V6
+   Berger J, 2023, J MARKETING, V87, P793, DOI 10.1177/00222429231152880
+   Berger J, 2021, J CONSUM RES, V48, P235, DOI 10.1093/jcr/ucab010
+   Berger J, 2012, J MARKETING RES, V49, P192, DOI 10.1509/jmr.10.0353
+   Berger J, 2011, PSYCHOL SCI, V22, P891, DOI 10.1177/0956797611413294
+   Bordwell David., 1993, Film art: An introduction, V7
+   Bradley MM, 2000, PSYCHOPHYSIOLOGY, V37, P204, DOI 10.1017/S0048577200990012
+   Brodie RJ, 2013, J BUS RES, V66, P105, DOI 10.1016/j.jbusres.2011.07.029
+   Buechel EC, 2018, J CONSUM PSYCHOL, V28, P40, DOI 10.1002/jcpy.1013
+   Buehlmann A, 2010, PLOS COMPUT BIOL, V6, DOI 10.1371/journal.pcbi.1000934
+   Caschera MC, 2022, MULTIMODAL TECHNOLOG, V6, DOI 10.3390/mti6040028
+   Chandrasekaran G, 2021, WIRES DATA MIN KNOWL, V11, DOI 10.1002/widm.1415
+   Chen Y., 2021, IEEE T AFFECT COMPUT
+   Chikkerur S, 2011, IEEE T BROADCAST, V57, P165, DOI 10.1109/TBC.2011.2104671
+   Cowen AS, 2017, P NATL ACAD SCI USA, V114, pE7900, DOI 10.1073/pnas.1702247114
+   Cutting JE, 2016, PSYCHON B REV, V23, P1713, DOI 10.3758/s13423-016-1051-4
+   Cutting JE, 2010, PSYCHOL SCI, V21, P432, DOI 10.1177/0956797610361679
+   de Pinto MG, 2020, IEEE CONF EVOL ADAPT, DOI 10.1109/eais48028.2020.9122698
+   Delgado-Ballester E, 2021, INT J ELECTRON COMM, V25, P313, DOI 10.1080/10864415.2021.1943173
+   Demmers J, 2020, INT J ELECTRON COMM, V24, P53, DOI 10.1080/10864415.2019.1683701
+   Dobele A., 2007, BUS HORIZONS, V50, P291, DOI DOI 10.1016/J.BUSHOR.2007.01.004
+   Eerola T., 2016, HARVARD DATAVERSE
+   Eilam E, 2019, PALGR COMMUN, V5, DOI 10.1057/s41599-019-0356-0
+   EKMAN P, 1992, COGNITION EMOTION, V6, P169, DOI 10.1080/02699939208411068
+   EKMAN P, 1992, PSYCHOL SCI, V3, P34, DOI 10.1111/j.1467-9280.1992.tb00253.x
+   Elpers JLCMW, 2003, J MARKETING RES, V40, P437, DOI 10.1509/jmkr.40.4.437.19393
+   Fang JM, 2018, INT J ELECTRON COMM, V22, P446, DOI 10.1080/10864415.2018.1462929
+   Fredrickson Barbara L, 1998, Rev Gen Psychol, V2, P300
+   Frommer D., 2009, CHART DAY HALF YOUTU
+   Gang R, 2019, INFORM PROCESS MANAG, V56, P1425, DOI 10.1016/j.ipm.2018.04.003
+   Gouyon F., 2000, P COST G 6 C DIG AUD, P16
+   Hennig-Thurau T, 2015, J ACAD MARKET SCI, V43, P375, DOI 10.1007/s11747-014-0388-3
+   Hollebeek L, 2011, J STRATEG MARK, V19, P555, DOI 10.1080/0965254X.2011.599493
+   Hsieh JK, 2012, ELECTRON COMMER RES, V12, P201, DOI 10.1007/s10660-012-9091-y
+   Hu M, 2016, COMPUT HUM BEHAV, V62, P105, DOI 10.1016/j.chb.2016.03.077
+   Huan RH, 2021, MULTIMED TOOLS APPL, V80, P8213, DOI 10.1007/s11042-020-10030-4
+   Hui SK, 2014, MARKET SCI, V33, P222, DOI 10.1287/mksc.2013.0835
+   Jeon M, 2017, EMOTIONS AND AFFECT IN HUMAN FACTORS AND HUMAN-COMPUTER INTERACTION, P3, DOI 10.1016/B978-0-12-801851-4.00001-X
+   Kensinger EA, 2006, COGN AFFECT BEHAV NE, V6, P110, DOI 10.3758/CABN.6.2.110
+   Kim C, 2017, PUBLIC RELAT REV, V43, P441, DOI 10.1016/j.pubrev.2017.02.006
+   Kong QQ, 2020, IEEE-ACM T AUDIO SPE, V28, P2880, DOI 10.1109/TASLP.2020.3030497
+   Kranzbuhler AM, 2020, J ACAD MARKET SCI, V48, P478, DOI 10.1007/s11747-019-00707-0
+   Lang A, 2000, J COMMUN, V50, P46, DOI 10.1093/joc/50.1.46
+   LAZARUS RS, 1991, AM PSYCHOL, V46, P352, DOI 10.1037/0003-066X.46.4.352
+   Lerner JS, 2015, ANNU REV PSYCHOL, V66, P799, DOI 10.1146/annurev-psych-010213-115043
+   Lerner JS, 2004, PSYCHOL SCI, V15, P337, DOI 10.1111/j.0956-7976.2004.00679.x
+   Lewis M., 2010, Handbook of emotions, V3
+   Lin G., 2014, COMMUNICATIONS COMPU, P457, DOI [DOI 10.1007/978-3-662-45924-9_, 10.1007/978-3-662-45924-942]
+   Lin Y, 2021, J MARKETING RES, V58, P417, DOI 10.1177/00222437211002477
+   Liu L, 2020, MARKET SCI, V39, P669, DOI 10.1287/mksc.2020.1226
+   Liu X, 2018, J MARKETING, V82, P86, DOI 10.1509/jm.16.0048
+   Liu YJ, 2018, IEEE T AFFECT COMPUT, V9, P550, DOI 10.1109/TAFFC.2017.2660485
+   Livi S, 2018, PLOS ONE, V13, DOI 10.1371/journal.pone.0193508
+   Lv GY, 2022, IEEE T BIG DATA, V8, P535, DOI 10.1109/TBDATA.2019.2950411
+   Malik MSI, 2017, COMPUT HUM BEHAV, V73, P290, DOI 10.1016/j.chb.2017.03.053
+   Morck R, 2000, J FINANC ECON, V58, P215, DOI 10.1016/S0304-405X(00)00071-4
+   Muller G., 2012, Handbook of Engineering Acoustics
+   Naqvi N, 2006, CURR DIR PSYCHOL SCI, V15, P260, DOI 10.1111/j.1467-8721.2006.00448.x
+   Nikolinakou A, 2018, PSYCHOL MARKET, V35, P715, DOI 10.1002/mar.21129
+   Oestreicher-Singer G, 2013, MIS QUART, V37, P591, DOI 10.25300/MISQ/2013/37.2.12
+   Oliveira JS, 2022, J BUS RES, V140, P49, DOI 10.1016/j.jbusres.2021.11.063
+   Pandeya YR, 2021, MULTIMED TOOLS APPL, V80, P2887, DOI 10.1007/s11042-020-08836-3
+   Pichora-Fuller MK, 2020, Scholars Portal Dataverse, V1, P2020
+   Plutchik R, 2001, AM SCI, V89, P344, DOI 10.1511/2001.28.739
+   Quan CQ, 2010, COMPUT SPEECH LANG, V24, P726, DOI 10.1016/j.csl.2010.02.002
+   Rosenbaum-Elliott R., 2020, Strategic advertising management
+   Rui HX, 2013, DECIS SUPPORT SYST, V55, P863, DOI 10.1016/j.dss.2012.12.022
+   RUSSELL JA, 1980, J PERS SOC PSYCHOL, V39, P1161, DOI 10.1037/h0077714
+   Sanh V., 2019, NEURIPS
+   Scissors L, 2016, ACM CONFERENCE ON COMPUTER-SUPPORTED COOPERATIVE WORK AND SOCIAL COMPUTING (CSCW 2016), P1501, DOI 10.1145/2818048.2820066
+   Seiler S, 2017, MARKET SCI, V36, P838, DOI 10.1287/mksc.2017.1045
+   She DY, 2020, IEEE T MULTIMEDIA, V22, P1358, DOI 10.1109/TMM.2019.2939744
+   Sherman A., 2020, TikTok reveals detailed user numbers for the first time
+   Shevlin R., GUEST POST VALUE CUS
+   Song TT, 2019, INFORM SYST RES, V30, P191, DOI 10.1287/isre.2018.0797
+   Stieglitz S, 2013, J MANAGE INFORM SYST, V29, P217, DOI 10.2753/MIS0742-1222290408
+   Suri A, 2023, INT J ELECTRON COMM, V27, P297, DOI 10.1080/10864415.2023.2226898
+   Tang DY, 2013, COMM COM INF SC, V400, P212
+   Tarpley T.G., 2020, J APPL COMMUNICATION, V104, P6
+   Teixeira TS, 2010, MARKET SCI, V29, P783, DOI 10.1287/mksc.1100.0567
+   Tellis GJ, 2019, J MARKETING, V83, P1, DOI 10.1177/0022242919841034
+   Tomkins S, 1962, AFFECT IMAGERY CONSC, VI
+   Tong LC, 2020, P NATL ACAD SCI USA, V117, P6936, DOI 10.1073/pnas.1905178117
+   Weismueller J, 2022, COMPUT HUM BEHAV, V129, DOI 10.1016/j.chb.2021.107150
+   Ye W, 2004, IEEE ACM T NETWORK, V12, P493, DOI 10.1109/TNET.2004.828953
+   Yin DZ, 2017, J MARKETING RES, V54, P447, DOI 10.1509/jmr.13.0379
+   Yin DZ, 2014, MIS QUART, V38, P539, DOI 10.25300/MISQ/2014/38.2.10
+   You QZ, 2016, AAAI CONF ARTIF INTE, P308
+   Yu XH, 2012, IEEE T KNOWL DATA EN, V24, P720, DOI 10.1109/TKDE.2010.269
+   Yu Y., 2019, AVAILABLE SSRN, V3497884
+   Yu Y., 2020, EMOTIONS ONLINE CONT
+   Zhang Q, 2020, MARKET SCI, V39, P285, DOI 10.1287/mksc.2019.1215
+   Zhao K., 2021, 2021 INT C SENS MEAS, P1, DOI [10.1109/ICSMD53520.2021.9670858, DOI 10.1109/ICSMD53520.2021.9670858]
+NR 102
+TC 1
+Z9 1
+U1 29
+U2 38
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JAN 2
+PY 2024
+VL 28
+IS 1
+BP 108
+EP 144
+DI 10.1080/10864415.2023.2295072
+EA JAN 2024
+PG 37
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA JJ7O4
+UT WOS:001135332100001
+DA 2024-08-05
+ER
+
+PT J
+AU Deventer, C
+   de Sousa, VA
+   Pirnay, L
+AF Deventer, Claire
+   de Sousa, Victor Amaral
+   Pirnay, Lhorie
+TI NFTByBrands: Value Identification Framework for Analysis and Design of
+   NFT Initiatives
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Nonfungible tokens; NFT; perceived value; blockchain; brand management;
+   NFT value
+ID CUSTOMER VALUE; POSSESSIONS; TYPOLOGY; SENSE; PRICE; ART
+AB Nonfungible tokens (NFTs) are digital certificates of ownership that can be attached to virtual or physical assets. Recently, they have become increasingly popular, especially with the advent of the metaverse, virtual spaces shared and accessible online. Many brands are launching NFT initiatives for various reasons, including retaining customers, developing new revenue streams, or demonstrating that they are keeping up with the latest technological advances. As for any product or service, to increase the likelihood of success of NFT initiatives, it is key to design them so as to provide value to the targeted audience. In previous research, the notion of "value" of NFTs has been essentially seen through the lenses of financial return. However, NFT initiatives can provide other types of values to the targeted audience. This paper presents the NFTByBrands framework that can be used to identify the potential types of values that can be delivered by brands through NFT initiatives, and can help guide brands in this endeavor. It is built upon customer perceived value theory, and an analysis of 50 NFT initiatives launched by 42 brands. The framework can also be used as a basis for further research on the value of NFTs, and a research agenda is proposed in the article.
+C1 [Deventer, Claire] Univ Namur, NaDI CeRCLe Res Ctr, Namur, Belgium.
+   [de Sousa, Victor Amaral] Univ Namur, Namur Digital Inst, Namur, Belgium.
+   [de Sousa, Victor Amaral] Katholieke Univ Leuven, Res Ctr Management Informat, Leuven, Belgium.
+   [Pirnay, Lhorie] Univ Namur, Management Informat & Digital Transformat Res Ctr, Business Adm Dept, Namur, Belgium.
+C3 University of Namur; University of Namur; KU Leuven; University of Namur
+RP Deventer, C (corresponding author), Univ Namur, NaDI CeRCLe Res Ctr, Namur, Belgium.
+EM claire.deventer@unamur.be; victor.amaral@unamur.be;
+   lhorie.pirnay@unamur.be
+OI Deventer, Claire/0000-0002-8698-0235; Amaral de Sousa,
+   Victor/0000-0002-4454-9674; PIRNAY, LHORIE/0000-0002-2017-4628
+CR African Conservation Foundation, 300GOR UN NAT
+   Ahuvia A., 2018, Journal of the Association for Consumer Research, V3, P216, DOI [10.1086/697076, DOI 10.1086/697076]
+   Algesheimer R, 2005, J MARKETING, V69, P19, DOI 10.1509/jmkg.69.3.19.66363
+   American Marketing Association, Definition of marketing
+   [Anonymous], 1996, The perfect gift. In Gift Giving: A Research Anthology
+   Baker SM, 2006, RES CONSUM BEHAV-A R, V10, P209, DOI 10.1016/S0885-2111(06)10009-5
+   Bao H, 2022, J RISK FINANC MANAG, V15, DOI 10.3390/jrfm15050215
+   Baytas MA, 2022, EXTENDED ABSTRACTS OF THE 2022 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2022, DOI 10.1145/3491101.3519694
+   Bekkers R, 2011, NONPROF VOLUNT SEC Q, V40, P924, DOI 10.1177/0899764010380927
+   Belk R, 2022, J BUS RES, V153, P198, DOI 10.1016/j.jbusres.2022.08.031
+   BELK RW, 1988, J CONSUM RES, V15, P139, DOI 10.1086/209154
+   BELK RW, 1990, ADV CONSUM RES, V17, P669
+   Beqiri G., 2023, GEST 2000, V39, P89
+   Blackshaw Tony., 2010, LEISURE
+   Bouraga S, 2021, 2021 3RD CONFERENCE ON BLOCKCHAIN RESEARCH & APPLICATIONS FOR INNOVATIVE NETWORKS AND SERVICES (BRAINS), P49, DOI 10.1109/BRAINS52497.2021.9569792
+   Calogero S, 2019, INT PHILOS QUART, V59, P385, DOI 10.5840/ipq2019108140
+   Canova L, 2005, J ECON PSYCHOL, V26, P21, DOI 10.1016/j.joep.2003.08.007
+   Chohan UW., 2021, SSRN Electronic Journal
+   Collins Dictionary, DEF BEA
+   Csikszentmihalyi Mihalyi., 1981, The Meaning of Things
+   Deventer C., DATA SET SAMPLE ANAL
+   Dowling M, 2022, FINANC RES LETT, V44, DOI 10.1016/j.frl.2021.102096
+   Dowling M, 2022, FINANC RES LETT, V44, DOI 10.1016/j.frl.2021.102097
+   Ethereum, NONF TOK
+   Evans T.M., 2019, AIPLA Q J, V47, P220
+   Fairfield JAT, 2022, INDIANA LAW J, V97, P1261
+   Franceschet M, 2021, LEONARDO, V54, P402, DOI 10.1162/leon_a_02003
+   Gallarza MG, 2017, J SERV MANAGE, V28, P724, DOI 10.1108/JOSM-06-2016-0166
+   Geek J. du., NFT NIKE LANCE AVEC
+   Grand View Research, NONF TOK MARK SIZ SH
+   Hasan HR, 2023, FUTURE GENER COMP SY, V146, P1, DOI 10.1016/j.future.2023.03.047
+   Holbrook M.B., 1999, Consumer Value: A Framework for Analysis and Research
+   Huang TL, 2014, INTERNET RES, V24, P82, DOI 10.1108/IntR-07-2012-0133
+   Jaeger K., 2013, Event Management, V17, P213, DOI 10.3727/152599513X13708863377791
+   Joy A, 2022, STRATEG CHANG, V31, P337, DOI 10.1002/jsc.2502
+   Kelly C., BURGER KINGS NFT STR
+   Keynes JM, 1937, Q J ECON, V51, P209, DOI 10.2307/1882087
+   Kim J, 2017, MARKET LETT, V28, P591, DOI 10.1007/s11002-017-9432-7
+   Klein HK, 1999, MIS QUART, V23, P67, DOI 10.2307/249410
+   Kugler L, 2021, COMMUN ACM, V64, P19, DOI 10.1145/3474355
+   Kujala S., 2019, J INFORM TECHNOLOGY, V9
+   Lambert NM, 2013, PERS SOC PSYCHOL B, V39, P1418, DOI 10.1177/0146167213499186
+   Leclercq T, 2016, RECH APPL MARKET-ENG, V31, P26, DOI 10.1177/2051570716650172
+   Leclercq T, 2017, INT J ELECTRON COMM, V21, P454, DOI 10.1080/10864415.2016.1355638
+   Leroi-Werelds S, 2019, J SERV MANAGE, V30, P650, DOI 10.1108/JOSM-03-2019-0074
+   Levinson Jerrold., 2006, CONTEMPLATING ART
+   Levitt Theodore., 1986, MARKETING IMAGINATIO
+   Lim D., NFT MINTING BEHAV WH
+   Mardon R, 2018, MARKETING THEOR, V18, P543, DOI 10.1177/1470593118767725
+   Marinov M.A., 2019, VALUE MARKETING RETR
+   McKenna R., 1985, The Regis Touch
+   Merton T., 2012, CHRISTIAN CONTEMPLAT
+   mm.be, BURG KING FID SA CLI
+   Moringiello J.M., 2022, WILLIAM MARY LAW REV, V64
+   Muhammad I., LOUIS VUITTONS NFT G
+   Musamih A, 2023, IEEE CONSUM ELECTR M, V12, P21, DOI 10.1109/MCE.2022.3196480
+   Nadini M, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-00053-8
+   NonFungible Corporation, YEARL REP
+   O'Donoghue D, 2020, STUD ART EDUC, V61, P99, DOI 10.1080/00393541.2020.1753452
+   Oxford Dictionary, PLAY VERB DEF
+   PARASURAMAN A, 1988, J RETAILING, V64, P12
+   Park A, 2022, IT PROF, V24, P9, DOI 10.1109/MITP.2021.3136055
+   Peck Joann., 2023, Consumer Psychology Review, V6, P52, DOI [10.1002/arcp.1084, DOI 10.1002/ARCP.1084]
+   Pieters R., 1995, INT J RES MARK, V12, P227, DOI DOI 10.1016/0167-8116(95)00023-U
+   Pinto-Gutierrez C, 2022, MATHEMATICS-BASEL, V10, DOI 10.3390/math10030335
+   Pirnay L., 2023, P HAW INT C SYST SCI, P4543
+   Polasik M, 2016, INT J ELECTRON COMM, V20, P9, DOI 10.1080/10864415.2016.1061413
+   Regner F, 2019, NFTS PRACTICE NON FU
+   Sánchez-Fernández R, 2009, INT J MARKET RES, V51, P93, DOI 10.2501/S1470785308200328
+   Schaar L, 2022, J BRIT BLOCKCHAIN AS, V5, P22, DOI 10.31585/jbba-5-1-(2)2022
+   Serada A, 2021, GAMES CULT, V16, P457, DOI 10.1177/1555412019898305
+   Starbucks, STARB OD BEG
+   Sung E., 2023, PSYCHOL MARKETING
+   Towery, COMMUNICATION SPORT, V2023, p216747952311716
+   UNICEF, UNICEF LAUNCH UNS LA
+   Vieira VA, 2022, J BUS RES, V151, P170, DOI 10.1016/j.jbusres.2022.06.030
+   Wang Q., 2021, arXiv
+   Wann D.L., 2018, SPORT FANS PSYCHOL S
+   Whitaker Amy, 2019, Artivate, V8, P21, DOI [DOI 10.1353/ARTV.2019.0008, 10.1353/artv.2019.0008, DOI 10.34053/ARTIVATE.8.2.2]
+   Wingreen SC, 2020, INT J ELECTRON COMM, V24, P474, DOI 10.1080/10864415.2020.1806469
+   Woodruff RB, 1997, J ACAD MARKET SCI, V25, P139, DOI 10.1007/BF02894350
+   Yin R. K., 2003, Case study research: Design and methods
+NR 82
+TC 0
+Z9 0
+U1 17
+U2 17
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JAN 2
+PY 2024
+VL 28
+IS 1
+BP 33
+EP 62
+DI 10.1080/10864415.2023.2295070
+EA JAN 2024
+PG 30
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA JJ7O4
+UT WOS:001145178400001
+DA 2024-08-05
+ER
+
+PT J
+AU Hawlitschek, F
+   Hodapp, D
+AF Hawlitschek, Florian
+   Hodapp, Daniel
+TI Challenges to Co-Creating Value in Nascent Platform Ecosystems: Gaps
+   Between Theory and Practice
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Nascent platform ecosystems; digital platforms; digital ecosystems;
+   platform ecosystems; value co-creation; Internet of things
+ID SERVICE-DOMINANT LOGIC; DIGITAL PLATFORMS; BUSINESS MODELS; DELPHI
+   METHOD; SYSTEMS; TRUST; TECHNOLOGY; GOVERNANCE; INNOVATION; INTERNET
+AB Digital platform ecosystems have formed profitable centers of gravity over the past decade. However, in several areas, such as the Internet of Things (IoT), the platform business is still in its infancy. Moreover, platform ventures are now failing at an alarming rate. The nexus for the success or failure of platforms often lies in the early stages of platform development. Value co-creation in nascent platform ecosystems is subject to specific challenges that impede platform success. Today, the literature on nascent platform ecosystems is fragmented and in a nascent stage as well, making in-depth theoretical discourse and useful managerial implications difficult. Therefore, we first conduct a comprehensive literature review through the theoretical lens of service innovation for nascent digital platforms to highlight today's research foci. Next, we identify the main gaps between the academic literature and practical interest in nascent platform ecosystems through a Delphi study with 21 experts from leading IoT organizations. Through our finding we reveal five gaps where managerial interest is strong but theory is lacking from the discourse on nascent platform ecosystems: fear of lock-in, fear of an overly dominant platform, designing for trust, identifying the right partners, and a common language. In doing so, we provide important orientation to guide future theoretical work toward impactful management implications. Beyond that, we present a research framework and agenda that take into account the dynamic aspects of emerging platform ecosystems and thus complement existing theoretical foundations.
+C1 [Hawlitschek, Florian] Tech Univ Berlin, Fac Econ & Management, Trust Digital Serv, Berlin, Germany.
+   [Hodapp, Daniel] Univ Gottingen, Gottingen, Germany.
+   [Hawlitschek, Florian] TU Berlin, Trust Digital Serv, Str 17 Juni 135, D-10623 Berlin, Germany.
+C3 Technical University of Berlin; University of Gottingen; Technical
+   University of Berlin
+RP Hawlitschek, F (corresponding author), TU Berlin, Trust Digital Serv, Str 17 Juni 135, D-10623 Berlin, Germany.
+EM hawlitschek@campus.tu-berlin.de; hodapp.daniel@gmail.com
+CR Back, 2021, HICSS 2021 P, P5955
+   Baldwin CY, 2008, IND CORP CHANGE, V17, P155, DOI 10.1093/icc/dtm036
+   Barnstedt E., 2021, MICROSOFT IND BLOGS
+   Basole RC, 2011, BUS INFORM SYST ENG+, V3, P313, DOI [10.1007/s12599-011-0174-4, 10.1007/s11576-011-0286-y]
+   Bonamigo A, 2022, J BUS IND MARK, V37, P2332, DOI 10.1108/JBIM-02-2021-0083
+   Breidbach CF, 2021, J BUS RES, V122, P311, DOI 10.1016/j.jbusres.2020.09.017
+   Ceccagnoli M, 2012, MIS QUART, V36, P263
+   Chen Y., 2020, DECENTRALIZED GOVERN
+   Claussen J, 2013, INFORM SYST RES, V24, P186, DOI 10.1287/isre.1120.0467
+   Dai QZ, 2002, INT J ELECTRON COMM, V6, P41
+   Dann, 2024, GROUP DECIS NEGOT
+   Das A., 2020, Association for Information Systems Transactions on Human-Computer Interactions, V12, P228, DOI DOI 10.17705/1THCI.00137
+   Dattée B, 2018, ACAD MANAGE J, V61, P466, DOI 10.5465/amj.2015.0869
+   de Reuver M, 2018, J INF TECHNOL-UK, V33, P124, DOI 10.1057/s41265-016-0033-3
+   Dhillon G, 2021, J STRATEGIC INF SYST, V30, DOI 10.1016/j.jsis.2021.101693
+   Edvardsson B, 2008, IND MARKET MANAG, V37, P339, DOI 10.1016/j.indmarman.2007.07.009
+   EU, 2019, EU PLATFORM INITIATI
+   Fan T, 2021, J BUS VENTURING, V36, DOI 10.1016/j.jbusvent.2021.106140
+   Foerderer J, 2018, INFORM SYST RES, V29, P444, DOI 10.1287/isre.2018.0787
+   Gawer A, 2022, INNOV-ORGAN MANAG, V24, P110, DOI 10.1080/14479338.2021.1965888
+   Gebauer J, 2002, INT J ELECTRON COMM, V6, P7
+   Gefen D, 2008, J MANAGE INFORM SYST, V24, P275, DOI 10.2753/MIS0742-1222240411
+   Ghazawneh A, 2015, J INF TECHNOL-UK, V30, P198, DOI 10.1057/jit.2015.16
+   Ghazawneh A, 2013, INFORM SYST J, V23, P173, DOI 10.1111/j.1365-2575.2012.00406.x
+   Glaser F., 2019, Business Transformation Through Blockchain: Volume I, P121
+   Gregor S, 2006, MIS QUART, V30, P611
+   Hanelt A., 2020, ECIS 2020 P
+   Hannah DP, 2018, STRATEGIC MANAGE J, V39, P3163, DOI 10.1002/smj.2750
+   Hawlitschek F, 2021, BUS INFORM SYST ENG+, V63, P207, DOI 10.1007/s12599-020-00671-y
+   Hawlitschek F, 2020, ELECTRON COMMER R A, V40, DOI 10.1016/j.elerap.2020.100935
+   Hawlitschek F, 2018, J CLEAN PROD, V204, P144, DOI 10.1016/j.jclepro.2018.08.326
+   Hawlitschek F, 2018, ELECTRON COMMER R A, V29, P50, DOI 10.1016/j.elerap.2018.03.005
+   Hein Andreas, 2019, Electronic Markets, V29, P503, DOI 10.1007/s12525-019-00337-y
+   Hein A, 2020, ELECTRON MARK, V30, P87, DOI 10.1007/s12525-019-00377-4
+   Hodapp D., 2019, ICIS 2019 P
+   Hodapp D, 2022, MIS Q EXEC, V21, P114, DOI 10.17705/2msqe.00061
+   Hodapp D, 2022, J INF TECHNOL-UK, V37, P407, DOI 10.1177/02683962211064304
+   Huber TL, 2017, INFORM SYST RES, V28, P563, DOI 10.1287/isre.2017.0701
+   Hurni T., 2014, ECIS 2014 P
+   Jin L., 2021, Harvard Business Review
+   Kapoor K, 2021, J BUS RES, V128, P94, DOI 10.1016/j.jbusres.2021.01.060
+   Kasi V, 2008, EUR J INFORM SYST, V17, P62, DOI 10.1057/palgrave.ejis.3000727
+   Kauffman RJ, 2010, INT J ELECTRON COMM, V15, P113, DOI 10.2753/JEC1086-4415150105
+   Leclercq T, 2017, INT J ELECTRON COMM, V21, P454, DOI 10.1080/10864415.2016.1355638
+   Lusch RF, 2015, MIS QUART, V39, P155
+   Lusch RF, 2011, EUR J MARKETING, V45, P1298, DOI 10.1108/03090561111137723
+   Lusch RF, 2010, J ACAD MARKET SCI, V38, P19, DOI 10.1007/s11747-008-0131-z
+   Marheine C., 2021, ICIS 2021 P
+   Marheine C., ICIS 2020 P 2020
+   Matzner M., 2021, J SERV MANAGE, V5, P143, DOI DOI 10.15358/2511-8676-2021-3-143
+   McIntyre DP, 2021, LONG RANGE PLANN, V54, DOI 10.1016/j.lrp.2020.101987
+   Mineraud J, 2016, COMPUT COMMUN, V89-90, P5, DOI 10.1016/j.comcom.2016.03.015
+   Nambisan S, 2018, INFORM ORGAN-UK, V28, P104, DOI 10.1016/j.infoandorg.2018.04.003
+   Nohutlu ZD, 2023, INT J ELECTRON COMM, V27, P523, DOI 10.1080/10864415.2023.2255111
+   Ofe HA, 2019, PROCEEDINGS OF THE 52ND ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES, P1425
+   Oh J, 2015, J INF TECHNOL-UK, V30, P245, DOI 10.1057/jit.2015.21
+   Okoli C, 2004, INFORM MANAGE-AMSTER, V42, P15, DOI 10.1016/j.im.2003.11.002
+   Paré G, 2013, INFORM MANAGE-AMSTER, V50, P207, DOI 10.1016/j.im.2013.03.003
+   Parker G, 2018, MANAGE SCI, V64, P3015, DOI 10.1287/mnsc.2017.2757
+   Pauli T., 2019, ICIS 2019 P
+   Pauli T., 2020, ECIS 2020 P
+   Pauli T, 2021, BUS INFORM SYST ENG+, V63, P181, DOI 10.1007/s12599-020-00681-w
+   Pera R, 2016, J BUS RES, V69, P4033, DOI 10.1016/j.jbusres.2016.03.047
+   Petrik D., 2021, ICIS 2021
+   Petrik D., ICIS 2020 P 2020
+   Piccinini E., 2015, PROC INT CONF INFORM
+   Powell C, 2003, J ADV NURS, V41, P376, DOI 10.1046/j.1365-2648.2003.02537.x
+   Prud'homme D., 2019, LONDON SCH EC BUSINE, P1
+   Rietveld J, 2021, J MANAGE, V47, P1528, DOI 10.1177/0149206320969791
+   Rietveld J, 2020, ACAD MANAG DISCOV, V6, P488, DOI 10.5465/amd.2019.0064
+   Rolland KH, 2018, INFORM SYST RES, V29, P419, DOI 10.1287/isre.2018.0788
+   Rousseau DM, 1998, ACAD MANAGE REV, V23, P393, DOI 10.5465/AMR.1998.926617
+   Schermuly L., 2019, PROC INT C WIRTSCHA, P32
+   Schmidt RC, 1997, DECISION SCI, V28, P763, DOI 10.1111/j.1540-5915.1997.tb01330.x
+   Schreieck M, 2021, J INF TECHNOL-UK, V36, P365, DOI 10.1177/02683962211023780
+   Schulz T., 2021, TECHNOLOGICAL FORECA, V170
+   Shi XH, 2021, J MANAGE, V47, P2037, DOI 10.1177/0149206320929428
+   Singh R, 2009, EUR J INFORM SYST, V18, P409, DOI 10.1057/ejis.2009.29
+   Skinner R, 2015, COMMUN ASSOC INF SYS, V37, P31
+   Söllner M, 2016, EUR J INFORM SYST, V25, P274, DOI 10.1057/ejis.2015.17
+   Sollner M., 2018, MIS QUART
+   Sorensen C, 2015, J INF TECHNOL-UK, V30, P195, DOI 10.1057/jit.2015.22
+   Sorri K, 2022, TECHNOL FORECAST SOC, V179, DOI 10.1016/j.techfore.2022.121623
+   Sterk F., 2022, ICIS 2022 P
+   Storbacka K, 2012, REV MARKET RES, V9, P51, DOI 10.1108/S1548-6435(2012)0000009007
+   Sun RA, 2023, J STRATEGIC INF SYST, V32, DOI 10.1016/j.jsis.2023.101791
+   Tee R., 2018, AOM 2018 P
+   Teece DJ, 2017, ADV STRATEG MANAGE, V37, P211, DOI 10.1108/S0742-332220170000037008
+   ter Huurne M, 2017, J CONSUM BEHAV, V16, P485, DOI 10.1002/cb.1667
+   Teubner T, 2020, BUS INFORM SYST ENG+, V62, P501, DOI 10.1007/s12599-019-00620-4
+   Teubner T, 2019, BUS INFORM SYST ENG+, V61, P229, DOI 10.1007/s12599-018-00574-z
+   Tilson D, 2010, INFORM SYST RES, V21, P748, DOI 10.1287/isre.1100.0318
+   Tiwana A, 2015, INFORM SYST RES, V26, P266, DOI 10.1287/isre.2015.0573
+   Tiwana A, 2010, INFORM SYST RES, V21, P675, DOI 10.1287/isre.1100.0323
+   van der Aalst W, 2019, BUS INFORM SYST ENG+, V61, P645, DOI 10.1007/s12599-019-00618-y
+   Vargo S.L., 2010, Journal of Business Market Management, V4, P169, DOI DOI 10.1007/S12087-010-0046-0
+   Veisdal J, 2020, ELECTRON MARK, V30, P539, DOI 10.1007/s12525-020-00409-4
+   Wagner G, 2021, J STRATEGIC INF SYST, V30, DOI 10.1016/j.jsis.2021.101694
+   Wareham J, 2014, ORGAN SCI, V25, P1195, DOI 10.1287/orsc.2014.0895
+   Waseem D, 2018, IND MARKET MANAG, V70, P5, DOI 10.1016/j.indmarman.2017.07.005
+   Weible R., 1998, MARK RES, V10, P19
+   Wortmann F, 2015, BUS INFORM SYST ENG+, V57, P221, DOI 10.1007/s12599-015-0383-3
+   Yoffie David B., 2019, Harvard Business School, P2
+   Yoo YJ, 2010, INFORM SYST RES, V21, P724, DOI 10.1287/isre.1100.0322
+   Zwass V, 2018, INT J ELECTRON COMM, V22, P159, DOI 10.1080/10864415.2018.1441697
+   Zwass V, 2010, INT J ELECTRON COMM, V15, P11, DOI 10.2753/JEC1086-4415150101
+NR 106
+TC 0
+Z9 0
+U1 34
+U2 34
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD APR 2
+PY 2024
+VL 28
+IS 2
+BP 156
+EP 185
+DI 10.1080/10864415.2024.2332046
+EA APR 2024
+PG 30
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA QS7B0
+UT WOS:001199955100001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Bauer-Hänsel, I
+   Liu, QY
+   Tessone, CJ
+   Schwabe, G
+AF Bauer-Hansel, Ingrid
+   Liu, Qianyu
+   Tessone, Claudio J.
+   Schwabe, Gerhard
+TI Designing a Blockchain-Based Data Market and Pricing Data to Optimize
+   Data Trading and Welfare
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Blockchain; data market design; distributed ledger; information pricing;
+   data monetization; data trading; data pricing; consortium blockchain
+ID SCIENCE RESEARCH; SUPPLY CHAIN; SYSTEMS; TECHNOLOGY; FRAMEWORK; MODEL;
+   BUSINESS; LEMONS; NEED
+AB While a wealth of potentially valuable data is generated and stored every year, many businesses suffer from inefficiencies, information asymmetries, and high storage costs, and lack knowledge on how to monetize their data assets. Blockchain is said to offer crucial building blocks to enable a verified, traceable exchange and trading with sensitive data goods and to address current challenges. While the technology's potentials for decentralized data markets have been discussed, the question of how to realize it to optimize trading and welfare remains open. Applying design-science research methods and computational simulation to a real-world business-oriented blockchain project, this study proposes a market model. By adopting the consortium blockchain, we are thinking outside the confines of tokens tied to a blockchain when applying blockchain to the data trading market. Our marketplace is designed outside the speculative tokens space and can focus on the data trading marketplace. We evaluate the effects of different pricing functions on market welfare and trading in on-chain data goods. The results indicate that data trading and welfare can be maximized through a logarithmic pricing function. Further, in a market of heterogeneous agents, unexpectedly, we observe a tipping point in transaction fees above which market operations collapse. Monitoring the market's consumer price elasticity helps us to avoid this collapse node, and we can also impact it by controlling transaction costs. Academics and practitioners can learn about the idiosyncrasies of blockchain in market design and operation.
+C1 [Bauer-Hansel, Ingrid; Liu, Qianyu; Tessone, Claudio J.; Schwabe, Gerhard] Univ St Gallen, Muller-Friedberg-Str 8, CH-9000 Gallen, Switzerland.
+C3 University of St Gallen
+RP Bauer-Hänsel, I (corresponding author), Univ St Gallen, Muller-Friedberg-Str 8, CH-9000 Gallen, Switzerland.
+EM Ingrid.bauer-haensel@unisg.ch; qianyu@ifi.uzh.ch;
+   claudio.tessone@uzh.ch; schwabe@ifi.uzh.ch
+OI Schwabe, Gerhard/0000-0002-0453-9762; Bauer-Hansel,
+   Ingrid/0000-0001-8837-790X
+FU Audatex Schweiz GmbH; AXA
+FX The authors thank the cardossier association and especially its member
+   firms AMAG Import AG, Audatex Schweiz GmbH, Auto-I-Dat AG, and AXA for
+   their time and participation in workshops and interviews, as well as
+   their valuable inputs. We also thank Mirko Richter, who conducted his
+   master's thesis during the course of this project and supported us in
+   our data collection and analysis.
+CR Agarwal A, 2019, ACM EC '19: PROCEEDINGS OF THE 2019 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P701, DOI 10.1145/3328526.3329589
+   AKERLOF GA, 1970, Q J ECON, V84, P488, DOI 10.2307/1879431
+   Azcoitia S. A., 2022, A Survey of Data Marketplaces and Their Business Models
+   Bauer I., 2020, FRONT BLOCKCHAIN, V2
+   Bauer I., 2019, P 52 ANN HAW INT C S, P10
+   Bauer I, 2022, J MANAGE INFORM SYST, V39, P395, DOI 10.1080/07421222.2022.2063555
+   Bauer I, 2020, ELECTRON MARK, V30, P211, DOI 10.1007/s12525-019-00368-5
+   BAUMOL WJ, 1970, AM ECON REV, V60, P265
+   Beck R., 2016, Proc. 24th Eur. Conf. Inf. Syst, P1
+   Beck R, 2018, J ASSOC INF SYST, V19, P1020, DOI 10.17705/1jais.00518
+   Beck R, 2017, BUS INFORM SYST ENG+, V59, P381, DOI 10.1007/s12599-017-0505-1
+   Blundell R., 2019, US NATL BUREAU EC RE, P26281
+   Bonabeau E, 2002, P NATL ACAD SCI USA, V99, P7280, DOI 10.1073/pnas.082080899
+   BOND EW, 1982, AM ECON REV, V72, P836
+   BROWN DJ, 1983, AM ECON REV, V73, P189
+   Buterin V, 2014, white paper 3.37, DOI DOI 10.1145/2939672.2939785
+   Buterin V, 2014, Ethereum: A next-generation smart contract and decentralized application platform
+   Caruso, 2022, CAR DAT
+   Chen Y, 2018, BUS HORIZONS, V61, P567, DOI 10.1016/j.bushor.2018.03.006
+   Cunningham J, 2017, STUD HEALTH TECHNOL, V245, P45, DOI 10.3233/978-1-61499-830-3-45
+   De Filippi P, 2016, INTERNET POLICY REV, V5, DOI 10.14763/2016.3.427
+   Dozier P., 2020, P 28 EUR C INF SYST
+   Drasch BJ, 2020, ELECTRON MARK, V30, P557, DOI 10.1007/s12525-020-00412-9
+   Easley D, 2019, J FINANC ECON, V134, P91, DOI 10.1016/j.jfineco.2019.03.004
+   Fan ZN, 2022, PROC INT CONF DATA, P2440, DOI 10.1109/ICDE53745.2022.00228
+   FINDLAY R, 1980, SCAND J ECON, V82, P62, DOI 10.2307/3439553
+   Gao WC, 2018, 2018 27TH INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATION AND NETWORKS (ICCCN)
+   Glaser F, 2017, PROCEEDINGS OF THE 50TH ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES, P1543
+   Gozman D, 2020, MIS Q EXEC, V19, P19, DOI 10.17705/2msqe.00023
+   Hansen S, 2020, INFORM SYST RES, V31, P57, DOI 10.1287/isre.2019.0875
+   Hevner A R., 2007, Scandinavian Journal of Information Systems, V19, P7
+   Hevner AR, 2004, MIS QUART, V28, P75, DOI 10.2307/25148625
+   Hicks JR, 1939, ECON J, V49, P696, DOI 10.2307/2225023
+   Hu DH, 2021, COMPUT NETW, V191, DOI 10.1016/j.comnet.2021.107994
+   Jackson JE, 2022, INT J ELECTRON COMM, V26, P25, DOI 10.1080/10864415.2021.2010004
+   Jaiman V, 2020, IEEE ACCESS, V8, P143734, DOI 10.1109/ACCESS.2020.3014565
+   Jensen T, 2019, MIS Q EXEC, V18, P221, DOI 10.17705/2msqe.00018
+   Kaiser C, 2021, INT J INFORM MANAGE, V59, DOI 10.1016/j.ijinfomgt.2021.102335
+   Koutris P, 2013, P 2013 ACM SIGMOD IN, P613, DOI [10.1145/2463676.2465335, DOI 10.1145/2463676.2465335]
+   Koutroumpis P, 2020, IND CORP CHANGE, V29, P645, DOI 10.1093/icc/dtaa002
+   Lee JS, 2011, LECT NOTES COMPUT SC, V6629, P1, DOI 10.1007/978-3-642-20633-7_1
+   Liang TP, 2021, J MANAGE INFORM SYST, V38, P314, DOI 10.1080/07421222.2021.1912915
+   Lindman J, 2017, PROCEEDINGS OF THE 50TH ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES, P1533
+   Lo Andrew W, 2007, Efficient markets hypothesis
+   López D, 2020, TRANSPORT RES C-EMER, V111, P588, DOI 10.1016/j.trc.2020.01.002
+   Ma C., 2021, ARXIV
+   Macal CM, 2009, WINT SIMUL C PROC, P86, DOI 10.1109/WSC.2009.5429318
+   MARCH ST, 1995, DECIS SUPPORT SYST, V15, P251, DOI 10.1016/0167-9236(94)00041-2
+   MARCHAND MG, 1973, REV ECON STUD, V40, P507, DOI 10.2307/2296584
+   Marella V, 2020, ELECTRON MARK, V30, P259, DOI 10.1007/s12525-019-00392-5
+   Mattioli M, 2014, MINN LAW REV, V99, P535
+   McMahan Brendan, 2017, FEDERATED LEARNING C
+   McMahan H.B., 2017
+   Miscione G., 2020, Responsible and Smart Land Management Interventions: An African Context, P133
+   Moor D., 2019, DESIGN COMBINATORIAL, P41
+   Myers M. D., 2007, Information and Organization, V17, P2, DOI 10.1016/j.infoandorg.2006.11.001
+   MYERSON RB, 1981, MATH OPER RES, V6, P58, DOI 10.1287/moor.6.1.58
+   Naerland K., 2017, P 38 INT C INF SYST
+   Nakamoto S., 2008, Re: Bitcoin P2P e-cash paper 2008-11-17 16:33:04 UTC
+   NG YK, 1974, REV ECON STUD, V41, P337, DOI 10.2307/2296753
+   Nguyen D.C., 2021, ARXIV
+   Notheisen B, 2017, BUS INFORM SYST ENG+, V59, P425, DOI 10.1007/s12599-017-0499-8
+   Ocean Protocol Foundation, 2019, TECHNICAL WHITEPAPER
+   Ostern NK, 2020, ELECTRON MARK, V30, P195, DOI 10.1007/s12525-019-00387-2
+   Parra-Moyano J, 2020, MIT SLOAN MANAGE REV, V61, P39
+   Peck ME, 2017, IEEE SPECTRUM, V54, P38, DOI 10.1109/MSPEC.2017.8048838
+   Peffers K, 2007, J MANAGE INFORM SYST, V24, P45, DOI 10.2753/MIS0742-1222240302
+   Pei J, 2022, IEEE T KNOWL DATA EN, V34, P4586, DOI 10.1109/TKDE.2020.3045927
+   Risius M, 2017, BUS INFORM SYST ENG+, V59, P385, DOI 10.1007/s12599-017-0506-0
+   Rossi M, 2019, J ASSOC INF SYST, V20, P1390, DOI 10.17705/1jais.00571
+   Saichev A. I., 2010, THEORY ZIPFS LAW
+   Saldana J, 2013, The coding manual for qualitative researchers, DOI DOI 10.1017/CBO9781107415324.004
+   Sarker S, 2021, J MANAGE INFORM SYST, V38, P338, DOI 10.1080/07421222.2021.1912919
+   Schallbruch M., 2021, FRANKFURTER ALLG
+   Schomm F, 2013, SIGMOD REC, V42, P15
+   Schwill F.C., 2021, CISC VIS NETW IND GL
+   Seebacher S., 2019, P 27 EUR C INF SYST
+   Shapiro C., 1999, Information rules: a strategic guide to the network economy
+   Spychiger F., 2022, ACM DISTRIBUTED LEDG
+   Subramanian H, 2018, COMMUN ACM, V61, P78, DOI 10.1145/3158333
+   Sunyaev A, 2021, BUS INFORM SYST ENG+, V63, P457, DOI 10.1007/s12599-021-00684-1
+   Tadeneke A., 2021, CASE STUDY DATA MARK
+   Tasca P, 2019, LEDGER-PITTSBURGH, V4, P1, DOI 10.5195/LEDGER.2019.140
+   The Economist, 2019, THE EC           SEP
+   Toral R, 2007, EUR PHYS J-SPEC TOP, V143, P59, DOI 10.1140/epjst/e2007-00071-5
+   Varian H.R., 1995, PRICING INFORM GOODS
+   Venable John, 2012, Design Science Research in Information Systems. Advances in Theory and Practice. Proceedings 7th International Conference, DESRIST 2012, P423, DOI 10.1007/978-3-642-29863-9_31
+   Viswanathan S, 2005, SADHANA-ACAD P ENG S, V30, P257, DOI 10.1007/BF02706247
+   Wan PK, 2020, IEEE ACCESS, V8, P49645, DOI 10.1109/ACCESS.2020.2980142
+   Wang T., 2020, Federated Learning: Privacy and Incentive (2020), P153
+   WEF, 2021, COLL PWC COL CTR 4 I
+   Weiqi Dai, 2020, IEEE Transactions on Information Forensics and Security, V15, P725, DOI 10.1109/TIFS.2019.2928256
+   Wilensky U., 2015, An introduction to agent-based modeling: Modeling natural, social, and engineered complex systems with NetLogo, DOI DOI 10.2307/J.CTT17KK851
+   Wingreen SC, 2020, INT J ELECTRON COMM, V24, P474, DOI 10.1080/10864415.2020.1806469
+   Worner D., 2016, EUR C INF SYST ECIS
+   Zavolokina L, 2023, IEEE T ENG MANAGE, V70, P849, DOI 10.1109/TEM.2020.3015359
+   Zavolokina L, 2020, MIS Q EXEC, V19, P1, DOI 10.17705/2msqe.00022
+   Zavolokina L, 2020, ELECTRON MARK, V30, P227, DOI 10.1007/s12525-019-00380-9
+   Zhang WP, 2021, J MANAGE INFORM SYST, V38, P374, DOI 10.1080/07421222.2021.1912926
+   Zhang XM, 2022, INT J ELECTRON COMM, V26, P123, DOI 10.1080/10864415.2021.2010007
+   Zheng ZB, 2017, IEEE INT CONGR BIG, P557, DOI 10.1109/BigDataCongress.2017.85
+   Ziolkowski R., 2019, AUTHENTICATION HANSE
+   Zwass V, 2021, J MANAGE INFORM SYST, V38, P277, DOI 10.1080/07421222.2021.1912908
+   Zwass V, 2018, INT J ELECTRON COMM, V22, P477, DOI 10.1080/10864415.2018.1485082
+NR 104
+TC 2
+Z9 2
+U1 44
+U2 44
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JAN 2
+PY 2024
+VL 28
+IS 1
+BP 3
+EP 30
+DI 10.1080/10864415.2023.2295068
+EA JAN 2024
+PG 28
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA JJ7O4
+UT WOS:001151989100001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Za, S
+   Lazazzara, A
+   Pallud, J
+AF Za, Stefano
+   Lazazzara, Alessandra
+   Pallud, Jessie
+TI Too Much Is Never Enough: An Analysis of Smart Device Purchase Intention
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Assemblage theory; device dependency; media system dependency; personal
+   digital ecosystems; purchase intention; smart devices; usage continuance
+   intention
+ID TECHNOLOGY ACCEPTANCE; DARK SIDE; INFORMATION; DEPENDENCY; INTERNET;
+   TECHNOSTRESS; ADDICTION; ADOPTION; GENDER; USERS
+AB This study investigates users' willingness to purchase additional smart devices to enhance their personal digital ecosystems. Specifically, it delves into how information system continuance intention and media system dependency influence the intention to purchase additional smart devices. Drawing on the assemblage theory, the study also examines the potential moderating effects of the satisfaction level and the number of smart devices already owned. Based on analysis of a sample comprising 400 smart device users, the study reveals that usage continuance intention and dependency have a significant and positive relation to purchase intention. Furthermore, this study sheds light on the positive impact of owning multiple smart devices on these relations. It is noteworthy that among users with a large number of smart devices, the link between continuance intention and purchase intention is significantly stronger when the satisfaction level is low. This finding underscores the potential risk of fostering a form of addiction.
+C1 [Za, Stefano] Univ G dAnnunzio, Org Studies & Informat Syst, Pescara, Italy.
+   [Lazazzara, Alessandra] Univ Milan, Org Theory & Human Resource Management HRM, Milan, Italy.
+   [Pallud, Jessie] EM Strasbourg Business Sch, Management Informat Syst, Strasbourg, France.
+   [Pallud, Jessie] Univ Strasbourg, HuManiS Res Lab, Strasbourg, France.
+C3 G d'Annunzio University of Chieti-Pescara; University of Milan;
+   Universites de Strasbourg Etablissements Associes; Universite de
+   Strasbourg
+RP Za, S (corresponding author), Univ G dAnnunzio, Org Studies & Informat Syst, Pescara, Italy.
+EM stefano.za@unich.it; alessandra.lazazzara@unimi.it;
+   jessie.pallud@em-strasbourg.eu
+OI Pallud, Jessie/0000-0001-8225-8192; Za, Stefano/0000-0002-7197-8183
+CR Ahuja MK, 2005, MIS QUART, V29, P427
+   Aiken L. S., 1991, Multiple regression: Testing and interpreting interactions
+   AJZEN I, 1991, ORGAN BEHAV HUM DEC, V50, P179, DOI 10.1016/0749-5978(91)90020-T
+   Almalki M, 2015, STUD HEALTH TECHNOL, V216, P333, DOI 10.3233/978-1-61499-564-7-333
+   Ashfaq M, 2021, INT J HUM-COMPUT INT, V37, P560, DOI 10.1080/10447318.2020.1841404
+   Attié E, 2022, TECHNOL FORECAST SOC, V176, DOI 10.1016/j.techfore.2022.121485
+   Atzori L, 2012, COMPUT NETW, V56, P3594, DOI 10.1016/j.comnet.2012.07.010
+   Ayyagari R, 2011, MIS QUART, V35, P831
+   Bagayogo FF, 2014, J ASSOC INF SYST, V15, P361
+   Ball-Rokeach Rokeach M., 1984, GREAT AM VALUES TEST
+   BALLROKEACH SJ, 1976, COMMUN RES, V3, P3, DOI 10.1177/009365027600300101
+   Basha NK, 2022, TECHNOL SOC, V69, DOI 10.1016/j.techsoc.2022.101952
+   Baudier P, 2022, J BUS RES, V141, P355, DOI 10.1016/j.jbusres.2021.11.038
+   Belk R, 2014, J MARKET MANAG-UK, V30, P1101, DOI 10.1080/0267257X.2014.939217
+   Belk RW, 2013, J CONSUM RES, V40, P477, DOI 10.1086/671052
+   BELK RW, 1988, J CONSUM RES, V15, P139, DOI 10.1086/209154
+   Bhattacherjee A, 2001, MIS QUART, V25, P351, DOI 10.2307/3250921
+   Bianchi C., 2017, J MARKET MANAG, V33, P1
+   Bölen MC, 2020, TECHNOL SOC, V60, DOI 10.1016/j.techsoc.2019.101209
+   Brislin R. W., 1986, The wording and translation of research instruments, P137
+   Brous P, 2020, INT J INFORM MANAGE, V51, DOI 10.1016/j.ijinfomgt.2019.05.008
+   Caivano D, 2018, J SYST SOFTWARE, V144, P295, DOI 10.1016/j.jss.2018.06.035
+   Canziani B, 2021, COMPUT HUM BEHAV, V119, DOI 10.1016/j.chb.2021.106714
+   Carillo K., 2014, 22 EUR C INF SYST TE, P1
+   Carillo K, 2017, INFORM MANAGE-AMSTER, V54, P317, DOI 10.1016/j.im.2016.09.002
+   Cena F, 2019, INFORM SYST FRONT, V21, P1085, DOI 10.1007/s10796-017-9818-3
+   Chan KT, 2022, COMPUT HUM BEHAV REP, V6, DOI 10.1016/j.chbr.2022.100191
+   Chang T.Z., 1994, ACAD MARKETING SCI J, V22, P16, DOI DOI 10.1177/0092070394221002
+   Cheung CMK, 2019, INTERNET RES, V29, P274, DOI 10.1108/INTR-04-2019-541
+   Cho H, 2020, TECHNOL SOC, V63, DOI 10.1016/j.techsoc.2020.101429
+   Clayton RB, 2015, J COMPUT-MEDIAT COMM, V20, P119, DOI 10.1111/jcc4.12109
+   De Moya JF, 2021, J GLOB INF MANAG, V29, DOI 10.4018/JGIM.20211101.oa10
+   DeLanda M., 2011, Philosophy and simulation: The emergence of synthetic reason
+   DODDS WB, 1991, J MARKETING RES, V28, P307, DOI 10.2307/3172866
+   El-Masri M, 2023, INFORM SYST FRONT, V25, P835, DOI 10.1007/s10796-022-10256-7
+   Ericsson, 2023, Statista
+   Fong LHN, 2019, INT J CONTEMP HOSP M, V31, P3610, DOI 10.1108/IJCHM-11-2018-0910
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Furst A., 2023, J ACAD MARKET SCI, P0123456789
+   Future Customer, 2017, YOUR PERSONAL DIGITA
+   Garg S, 2020, VISION-INDIA, V24, P441, DOI [10.1177/0972262920926827, 10.1007/s42535-020-00162-1]
+   Gefen D, 1997, MIS QUART, V21, P389, DOI 10.2307/249720
+   Ghafurian M, 2023, COMPUT HUM BEHAV REP, V11, DOI 10.1016/j.chbr.2023.100300
+   GRANT AE, 1991, COMMUN RES, V18, P773, DOI 10.1177/009365091018006004
+   Hair J. F., 2009, Multivariate data analysis
+   Haverila Matti J., 2022, Journal of Wine Research, V33, P66, DOI 10.1080/09571264.2022.2081539
+   Hellier P.K., 2003, EUR J MARKETING, V37, P1112
+   Hoffman D.L., 2015, EMERGENT EXPERIENCE, DOI [10.13140/RG.2.1.3966.1282, DOI 10.13140/RG.2.1.3966.1282]
+   Hoffman D.L., 2016, SSRN ELECT J
+   Hoffman DL, 2018, J CONSUM RES, V44, P1178, DOI 10.1093/jcr/ucx105
+   Jaspers EDT, 2022, J BUS RES, V142, P255, DOI 10.1016/j.jbusres.2021.12.043
+   Kay J., 2012, ACM T INTERACT INTEL, V2, P1, DOI DOI 10.1145/2395123.2395129
+   Kim M, 2017, J INTERACT MARK, V39, P55, DOI 10.1016/j.intmar.2017.02.001
+   Lee YK, 2014, COMPUT HUM BEHAV, V31, P373, DOI 10.1016/j.chb.2013.10.047
+   Liang YH, 2021, J BUS RES, V135, P163, DOI 10.1016/j.jbusres.2021.06.039
+   LOGES WE, 1994, COMMUN RES, V21, P5, DOI 10.1177/009365094021001002
+   Mafe Carla Ruiz, 2008, Direct Marketing: An International Journal, V2, P5, DOI 10.1108/17505930810863608
+   Malhotra N.K., 2010, Marketing research, V6th
+   Marikyan D, 2023, INFORM SYST FRONT, V25, P1101, DOI 10.1007/s10796-020-10042-3
+   Marikyan D, 2019, TECHNOL FORECAST SOC, V138, P139, DOI 10.1016/j.techfore.2018.08.015
+   Maswadi K, 2020, IEEE ACCESS, V8, P92244, DOI 10.1109/ACCESS.2020.2992727
+   Matt C, 2019, ELECTRON MARK, V29, P315, DOI 10.1007/s12525-019-00348-9
+   Nascimento DR, 2023, BEHAV INFORM TECHNOL, V42, P2768, DOI 10.1080/0144929X.2022.2146534
+   Negahban A., 2012, AMCIS 2012 P
+   Nyrhinen J, 2023, INT J CONSUM STUD, V47, P1871, DOI 10.1111/ijcs.12961
+   Orben A, 2019, NAT HUM BEHAV, V3, P173, DOI 10.1038/s41562-018-0506-1
+   Osatuyi B, 2018, COMPUT HUM BEHAV, V85, P95, DOI 10.1016/j.chb.2018.03.037
+   Pappas IO, 2023, INFORM SYST FRONT, V25, P945, DOI 10.1007/s10796-023-10406-5
+   Pappas IO, 2021, INT J INFORM MANAGE, V58, DOI 10.1016/j.ijinfomgt.2021.102310
+   Rehman I.H., 2022, J GLOB INF MANAG, V29, P1
+   Scheepers R, 2013, COMMUN ASSOC INF SYS, V33, P381
+   Schultz DE, 2014, J MARKET THEORY PRAC, V22, P143, DOI 10.2753/MTP1069-6679220207
+   Security.org, 2021, SMART HOME CONSUMER
+   Sequeiros H, 2022, INFORM SYST FRONT, V24, P1009, DOI 10.1007/s10796-021-10118-8
+   Shim JP, 2019, COMMUN ASSOC INF SYS, V44, P129, DOI 10.17705/1CAIS.04405
+   Shin J, 2018, TECHNOL FORECAST SOC, V134, P246, DOI 10.1016/j.techfore.2018.06.029
+   Sia CL, 2009, MIS QUART, V33, P491
+   Silverio-Fernandez Manuel, 2018, Visualization in Engineering, V6, DOI 10.1186/s40327-018-0063-8
+   Small GW, 2020, DIALOGUES CLIN NEURO, V22, P179, DOI 10.31887/DCNS.2020.22.2/gsmall
+   Stiglic N, 2019, BMJ OPEN, V9, DOI 10.1136/bmjopen-2018-023191
+   Tams S, 2018, J ASSOC INF SYST, V19, P857, DOI 10.17705/1jais.00511
+   Tarafdar M, 2019, INFORM SYST J, V29, P6, DOI 10.1111/isj.12169
+   Tarafdar M, 2015, INFORM SYST J, V25, P103, DOI 10.1111/isj.12042
+   Turel O, 2021, COMMUN ACM, V64, P42, DOI 10.1145/3392664
+   Turel O, 2011, MIS QUART, V35, P1043
+   Tyagi A, 2021, TECHNOL SOC, V67, DOI 10.1016/j.techsoc.2021.101762
+   Um S.Y., 2016, 37 INT C INFORM SYST, P1
+   Um S.Y., 2015, 36 INT C INFORM SYST, P1
+   Vaghefi I, 2017, INFORM SYST J, V27, P125, DOI 10.1111/isj.12098
+   Venkatesh V, 2000, MIS QUART, V24, P115, DOI 10.2307/3250981
+   Xu ZC, 2012, EUR J INFORM SYST, V21, P321, DOI 10.1057/ejis.2011.56
+   Yayan EH, 2019, PERSPECT PSYCHIATR C, V55, P194, DOI 10.1111/ppc.12318
+   Yoo YJ, 2010, INFORM SYST RES, V21, P724, DOI 10.1287/isre.1100.0322
+NR 93
+TC 0
+Z9 0
+U1 7
+U2 7
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD APR 2
+PY 2024
+VL 28
+IS 2
+BP 247
+EP 268
+DI 10.1080/10864415.2024.2332050
+EA APR 2024
+PG 22
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA QS7B0
+UT WOS:001196673300001
+DA 2024-08-05
+ER
+
+PT J
+AU Frimpong, B
+   Ayaburi, E
+   Andoh-Baidoo, FK
+   Wang, X
+   Xiao, N
+AF Frimpong, Bright
+   Ayaburi, Emmanuel
+   Andoh-Baidoo, Francis Kofi
+   Wang, Xuan
+   Xiao, Nan
+TI Impact of Campaign Bundling on the Success of Donation-Based
+   Crowdfunding
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Crowdfunding; donation success; campaign bundling; online donations;
+   credibility; reputation; digital platforms; crowdfunding success;
+   collaborative fundraising
+ID SOURCE CREDIBILITY; REWARD; INFORMATION; PRODUCT; ENTREPRENEURS;
+   EXCLUSIVITY; ENDORSEMENT; MOTIVATIONS; PERSPECTIVE; PROJECTS
+AB Project success is a major challenge to the sustenance of crowdfunding platforms constituted for donation. While previous studies have recognized the importance of source reputation, establishing a credible reputation remains a formidable task for project founders. This study proposes a novel idea of achieving credibility through bundling, in which crowdfunding campaigns collaborate with similar projects (project bundling) or external entities (ideological bundling). This study examines how these two bundling strategies affect crowdfunding outcomes. Further, the study explores how sources of reputation and size establish boundaries of bundling. Using data from Mchanga.com, our analysis reveals a diverse effect of collaborative fundraising on the success of donation crowdfunding. Specifically, our findings indicate that project bundling positively impacts campaign success, whereas ideological bundling has a negative effect. The study contributes to the literature on bundling, credible reputation, and collaborative fundraising on digital platforms. This research also provides insights for practitioners to successfully manage donation-based crowdfunding campaigns.
+C1 [Frimpong, Bright] Washington & Lee Univ, Williams Sch Commerce Econ & Polit, Business Dept, Lexington, VA 24450 USA.
+   [Ayaburi, Emmanuel] Baylor Univ, Hankamer Sch Business, Dept Informat Syst & Business Analyt, Waco, TX USA.
+   [Andoh-Baidoo, Francis Kofi; Wang, Xuan; Xiao, Nan] Univ Texas Rio Grande Valley, RCV Coll Business, Dept Informat Syst, Edinburg, TX USA.
+C3 Washington & Lee University; Baylor University; University of Texas
+   System; University of Texas Rio Grande Valley
+RP Frimpong, B (corresponding author), Washington & Lee Univ, Williams Sch Commerce Econ & Polit, Business Dept, Lexington, VA 24450 USA.
+EM bfrimpong@wlu.edu; yanbed@gmail.com; francis.andohbaidoo@utrgv.edu;
+   xuan.wang@utrgv.edu; nan.xiao@utrgv.edu
+CR Absolom W., 2018, BUSINESS DAILY
+   Adjakou O.J.L., 2021, OPEN J BUSINESS MANA, V9, P557, DOI [10.4236/ojbm.2021.92031, DOI 10.4236/OJBM.2021.92031]
+   Ahlers GKC, 2015, ENTREP THEORY PRACT, V39, P955, DOI 10.1111/etap.12157
+   Aiken L. S., 1991, Multiple regression: Testing and interpreting interactions
+   Allison TH, 2017, J BUS VENTURING, V32, P707, DOI 10.1016/j.jbusvent.2017.09.002
+   Allison TH, 2015, ENTREP THEORY PRACT, V39, P53, DOI 10.1111/etap.12108
+   Amagoh F, 2015, PROG DEV STUD, V15, P221, DOI 10.1177/1464993415578979
+   [Anonymous], 2022, THECROWDDATACENTER P
+   Bagheri A, 2019, TECHNOL FORECAST SOC, V146, P218, DOI 10.1016/j.techfore.2019.05.002
+   Barber M, 2008, DEV PRACT, V18, P748, DOI 10.1080/09614520802386520
+   Barone MJ, 2010, J MARKETING, V74, P121, DOI 10.1509/jmkg.74.2.121
+   Batti R.C., 2014, HUMANITIES SOCIAL SC, V2, P57, DOI [10.11648/j.hss.20140203.20140212, DOI 10.11648/J.HSS.20140203.12, https://doi.org/10.11648/j.hss.20140203.12]
+   Beaulieu TY, 2015, COMMUN ASSOC INF SYS, V37, P1
+   Belleflamme P, 2014, J BUS VENTURING, V29, P585, DOI 10.1016/j.jbusvent.2013.07.003
+   BERLO DK, 1969, PUBLIC OPIN QUART, V33, P563, DOI 10.1086/267745
+   Bhargava HK, 2012, MARKET SCI, V31, P1014, DOI 10.1287/mksc.1120.0725
+   Bi S, 2017, J BUS RES, V71, P10, DOI 10.1016/j.jbusres.2016.10.001
+   Bilodeau M, 1997, J PUBLIC ECON, V66, P449, DOI 10.1016/S0047-2727(97)00046-7
+   Bower AB, 2009, J ADVERTISING, V38, P113, DOI 10.2753/JOA0091-3367380308
+   Bruni L., 2008, International Review of Economics, V55, P1
+   Burger R., 2018, GLOBAL NONPROFIT CHA
+   Chao EJ., 2020, Advances in Crowdfunding, P319, DOI DOI 10.1007/978-3-030-46309-0
+   Chen LT, 2020, DECIS SUPPORT SYST, V130, DOI 10.1016/j.dss.2019.113233
+   Cholakova M, 2015, ENTREP THEORY PRACT, V39, P145, DOI 10.1111/etap.12139
+   Chua V.C.H., 2003, ANN PUBLIC COOP ECON, V74, P433, DOI 10.1111/1467-8292.00230
+   Connelly BL, 2011, J MANAGE, V37, P39, DOI 10.1177/0149206310388419
+   Courtney C., 2017, NEGATIVE SENTIMENT I, P17750
+   Courtney C, 2017, ENTREP THEORY PRACT, V41, P265, DOI 10.1111/etap.12267
+   Cumming DJ, 2022, J TECHNOL TRANSFER, V47, P1825, DOI 10.1007/s10961-021-09899-6
+   Curley C, 2021, ADMIN SOC, V53, P1293, DOI 10.1177/00953997211005834
+   de Waal AA., 2019, Global Business and Organizational Excellence, V38, P31, DOI DOI 10.1002/JOE.21908
+   DeFond M, 2017, MANAGE SCI, V63, P3628, DOI 10.1287/mnsc.2016.2528
+   Dushnitsky G, 2022, STRATEGIC MANAGE J, V43, P563, DOI 10.1002/smj.3163
+   Eckel C, 2020, EUR ECON REV, V127, DOI 10.1016/j.euroecorev.2020.103476
+   Everard A, 2005, J MANAGE INFORM SYST, V22, P55, DOI 10.2753/MIS0742-1222220303
+   Figueras M, 2022, J MATERN-FETAL NEO M, V35, P5236, DOI 10.1080/14767058.2021.1876023
+   Fischer E, 2007, ENTREP THEORY PRACT, V31, P53, DOI 10.1111/j.1540-6520.2007.00163.x
+   Fogg BJ, 1999, COMMUN ACM, V42, P26, DOI 10.1145/301353.301396
+   Gazley B., 2015, Academy of management proceedings, V2015, P15409, DOI 10.5465/ambpp.2015.303.
+   Gazley B, 2010, NONPROF VOLUNT SEC Q, V39, P51, DOI 10.1177/0899764008327196
+   Ge RC, 2023, INFORM TECHNOL PEOPL, V36, P2869, DOI 10.1108/ITP-12-2021-0927
+   Gerber E.R., 2002, PRESENTATION ANN M M
+   Gleasure R, 2016, INT J ELECTRON COMM, V20, P499, DOI 10.1080/10864415.2016.1171975
+   Gourevitch PeterA., 2012, The Credibility of Transnational NGOs: When Virtue Is Not Enough
+   Greenland S, 2016, BMJ-BRIT MED J, V353, DOI 10.1136/bmj.i1981
+   Groth JC., 1993, Journal of Consumer Marketing
+   Gugerty MK, 2008, PUBLIC ADMIN DEVELOP, V28, P105, DOI 10.1002/pad.490
+   Hair J. F., 2009, Multivariate data analysis
+   Hansen H., 2004, ACR North American Advances
+   HARMON RR, 1982, J MARKETING RES, V19, P255, DOI 10.2307/3151625
+   Harris J, 1997, ADV CONSUM RES, V24, P168
+   Herrero M, 2023, BUS HIST, V65, P1, DOI 10.1080/00076791.2020.1805436
+   Ho HC, 2021, INT J ENV RES PUB HE, V18, DOI 10.3390/ijerph18147715
+   Hovland CI, 1951, PUBLIC OPIN QUART, V15, P635, DOI 10.1086/266350
+   Hsu DH, 2004, J FINANC, V59, P1805, DOI 10.1111/j.1540-6261.2004.00680.x
+   Huang SF, 2022, SMALL BUS ECON, V58, P1801, DOI 10.1007/s11187-021-00477-6
+   Igra M, 2021, SOC SCI MED, V282, DOI 10.1016/j.socscimed.2021.114105
+   Jackson T, 2007, S AFR REV SOCIOL, V38, P85, DOI 10.1080/21528586.2007.10419168
+   Jancenelle VE, 2019, INT BUS REV, V28, P802, DOI 10.1016/j.ibusrev.2019.04.002
+   Jerving S., 2017, DEVEX
+   Jiang CX, 2020, ELECTRON COMMER R A, V43, DOI 10.1016/j.elerap.2020.101002
+   Jiang Y, 2022, INFORM SYST RES, V33, P1, DOI 10.1287/isre.2021.1049
+   Kaartemo V, 2017, INT REV ENTREP, V15, P291
+   Keengwe M., 1998, NGO ROLES RELATIONSH
+   Kim PH, 2016, GROUP ORGAN MANAGE, V41, P717, DOI 10.1177/1059601116651181
+   Kimemia D., 2013, Organizational culture and corruption: A multiple case study of nongovernmental organizations in Kenya
+   Kimemia D, 2014, PUBLIC ADM GOV GLOB, P157, DOI 10.1007/978-3-319-03143-9_10
+   Kleinert S, 2020, SMALL BUS ECON, V54, P341, DOI 10.1007/s11187-018-0125-2
+   Kunz MM, 2017, ELECTRON COMMER RES, V17, P425, DOI 10.1007/s10660-016-9249-0
+   Kuo YF, 2020, J ELECTRON COMMER RE, V21, P180
+   Kuppuswamy V., 2018, EC CROWDFUNDING, P151, DOI [10.1007/978-3-319-66119-3_8, DOI 10.1007/978-3-319-66119-3_8]
+   Lee HC, 2011, J RETAIL CONSUM SERV, V18, P455, DOI 10.1016/j.jretconser.2011.06.010
+   Liu LL, 2018, INTERNET RES, V28, P623, DOI 10.1108/IntR-06-2017-0240
+   Liu Zhanping, 2022, Journal of Flow Visualization and Image Processing, P1, DOI 10.1615/JFlowVisImageProc.2022040403
+   Lowry PB, 2014, INT J HUM-COMPUT INT, V30, P63, DOI 10.1080/10447318.2013.839899
+   Lukkarinen A, 2016, DECIS SUPPORT SYST, V87, P26, DOI 10.1016/j.dss.2016.04.006
+   Lunt M, 2009, AM J EPIDEMIOL, V169, P909, DOI 10.1093/aje/kwn391
+   Manning S, 2017, STRATEG ORGAN, V15, P194, DOI 10.1177/1476127016648500
+   Saluzzo FM, 2021, TECHNOL FORECAST SOC, V162, DOI 10.1016/j.techfore.2020.120402
+   Mochkabadi K, 2020, SMALL BUS ECON, V54, P75, DOI 10.1007/s11187-018-0081-x
+   Mollick E, 2014, J BUS VENTURING, V29, P1, DOI 10.1016/j.jbusvent.2013.06.005
+   Moon J, 2018, MARKET SCI, V37, P668, DOI 10.1287/mksc.2018.1097
+   Mudambi SM, 2010, MIS QUART, V34, P185
+   Nunnenkamp P, 2012, KYKLOS, V65, P81, DOI 10.1111/j.1467-6435.201.00528.x
+   O'Hara RB, 2010, METHODS ECOL EVOL, V1, P118, DOI 10.1111/j.2041-210X.2010.00021.x
+   Park C.-H., 2003, International Journal of Retail and Distribution Management, V31, P16
+   Pedraza Martinez A., 2022, AVAILABLE SSRN, V3705595
+   Perez B., 2020, ARXIV200616849
+   Phau I., 2000, J BRAND MANAG, V8, P122, DOI [10.1057/palgrave.bm.2540013, DOI 10.1057/PALGRAVE.BM.2540013]
+   Plummer LA, 2016, ACAD MANAGE J, V59, P1585, DOI 10.5465/amj.2013.0100
+   Pollock TG, 2010, J BUS VENTURING, V25, P6, DOI 10.1016/j.jbusvent.2009.01.003
+   ROSEACKERMAN S, 1982, Q J ECON, V97, P193, DOI 10.2307/1880754
+   ROSENBAUM PR, 1983, BIOMETRIKA, V70, P41, DOI 10.1093/biomet/70.1.41
+   Ryu S, 2020, INT J ELECTRON COMM, V24, P159, DOI 10.1080/10864415.2020.1715531
+   Saran S., 2003, Journal of Marketing Theory and Practice, V11, P71
+   Septianto F, 2020, EUR J MARKETING, V54, P1305, DOI 10.1108/EJM-10-2018-0690
+   Serman ZE, 2023, INFORM SYST FRONT, V25, P2317, DOI 10.1007/s10796-022-10349-3
+   Sheng SB, 2009, J RETAIL CONSUM SERV, V16, P367, DOI 10.1016/j.jretconser.2009.04.003
+   Shepherd M., 2021, CROWDFUNDING STAT 20
+   SIMONIN BL, 1995, J BUS RES, V33, P219, DOI 10.1016/0148-2963(94)00071-L
+   Stremersch S, 2002, J MARKETING, V66, P55, DOI 10.1509/jmkg.66.1.55.18455
+   The New Humanitarian, 2016, NGOS KENYA PROTEST T
+   Theerthaana P, 2021, J RES INTERACT MARK, V15, P243, DOI 10.1108/JRIM-06-2019-0097
+   Toyasaki F, 2019, DECISION SCI, V50, P612, DOI 10.1111/deci.12341
+   Tseng S, 1999, COMMUN ACM, V42, P39, DOI 10.1145/301353.301402
+   Viravaidya Mechai., 2001, PDA and UNAIDS Joint Publication, UNAIDS Best Practice Collection
+   Wang NX, 2021, J ASSOC INF SYST, V22, P773, DOI 10.17705/1jais.00679
+   Wang XJ, 2022, J FASH MARK MANAG, V26, P365, DOI 10.1108/JFMM-12-2020-0254
+   Xiang DD, 2019, J ACAD MARKET SCI, V47, P1046, DOI 10.1007/s11747-019-00638-w
+   Xu Y, 2021, INT J ELECTRON COMM, V25, P416, DOI 10.1080/10864415.2021.1967007
+   Yang JL, 2020, J BUS RES, V117, P6, DOI 10.1016/j.jbusres.2020.05.008
+   Yang TC, 2006, ELECTRON COMMER R A, V5, P295, DOI 10.1016/j.elerap.2006.04.006
+   Yeoman I, 2014, J REVENUE PRICING MA, V13, P12, DOI 10.1057/rpm.2013.29
+   Yin C., 2019, Internet Research
+   Zenone M, 2019, POLICY INTERNET, V11, P215, DOI 10.1002/poi3.188
+   Zhang YL, 2020, COMPUT HUM BEHAV, V112, DOI 10.1016/j.chb.2020.106470
+   Zhao KX, 2022, DECIS SUPPORT SYST, V163, DOI 10.1016/j.dss.2022.113842
+   Zheng HC, 2017, INT J ELECTRON COMM, V21, P424, DOI 10.1080/10864415.2016.1319233
+   Zhou M, 2018, INFORM SYST FRONT, V20, P259, DOI 10.1007/s10796-016-9723-1
+NR 119
+TC 1
+Z9 1
+U1 10
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD APR 2
+PY 2024
+VL 28
+IS 2
+BP 217
+EP 246
+DI 10.1080/10864415.2024.2332049
+EA APR 2024
+PG 30
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA QS7B0
+UT WOS:001196729900001
+DA 2024-08-05
+ER
+
+PT J
+AU Ta, L
+   Xu, X
+   Dai, HY
+AF Ta, La
+   Xu, Xun
+   Dai, Hongyan
+TI How to Retain My Consumers? Investigating Incumbents' Promotional
+   Strategies Upon New Business Entry in the Online-to-Offline Context
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Online-to-offline; market entry; online promotion; consumer behavior;
+   online platforms; online retail
+ID E-COMMERCE; PRICING STRATEGY; IMPACT; QUALITY; SALES; COMPETITION;
+   DECISION; PLATFORMS; EVOLUTION; DISCOUNTS
+AB The online-to-offline (O2O) business mode has on-demand features to offer consumers instant fulfillment from a local store upon their online order. The O2O mode has attracted many more consumers recently. Using empirical evidence from a leading O2O platform in China, our study focuses on the market entry issue in the O2O context. Upon the new entrant entering the market, existing listed sellers implement a higher overall promotion to their consumers by enlarging the direct promotion extent but reducing the other types of promotions, including coupon, bundle, quantity, and gift promotions. However, the O2O platforms reduce the promotions level to the consumer orders from the existing listed sellers. The platform's and existing listed sellers' promotions increase consumers' purchase frequency but lower their purchase amount per order. The extent of these impacts depends on the geographic location of the new entrant. Our findings provide guidelines for the O2O platforms and listed providers to implement appropriate promotion strategies to attract consumers when considering the impact of certain new providers entering the O2O market.
+C1 [Ta, La; Dai, Hongyan] Cent Univ Finance & Econ, Business Sch, Beijing 100081, Peoples R China.
+   [Xu, Xun] Calif State Univ, Dept Informat Syst & Operat Management, Carson, CA USA.
+C3 Central University of Finance & Economics
+RP Dai, HY (corresponding author), Cent Univ Finance & Econ, Business Sch, Beijing 100081, Peoples R China.
+EM tala@email.cufe.edu.cn; xunxu@csudh.edu; daihy@cufe.edu.cn
+FU National Natural Science Foundation of China [72172169, 91646125];
+   Program for Innovation Research at the Central University of Finance and
+   Economics
+FX This study is supported by the National Natural Science Foundation of
+   China (Nos. 72172169 and 91646125) and the Program for Innovation
+   Research at the Central University of Finance and Economics.
+CR Abadie A, 2022, J AM STAT ASSOC, V117, P983, DOI 10.1080/01621459.2020.1840383
+   Allen BJ, 2022, J MARKETING, V86, P59, DOI 10.1177/00222429211017827
+   Baghestani A, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12093655
+   Bauer HH, 2006, J BUS RES, V59, P866, DOI 10.1016/j.jbusres.2006.01.021
+   Beck T, 2010, J FINANC, V65, P1637, DOI 10.1111/j.1540-6261.2010.01589.x
+   Bergek A, 2013, RES POLICY, V42, P1210, DOI 10.1016/j.respol.2013.02.009
+   Big Commerce, What is O2O (online-to-offline) commerce?
+   Billman S. Eleme, Meituan scramble to fix driver work conditions amid criticism
+   Bitter A., Uber Eats is cracking down on an explosion of 'ghost' menus, where restaurants feature the same food under as many as 20 different brands
+   Bronnenberg BJ, 2005, APPL STOCH MODEL BUS, V21, P335, DOI 10.1002/asmb.565
+   Buzeta C, 2020, J INTERACT MARK, V52, P79, DOI 10.1016/j.intmar.2020.04.004
+   Cao ZK, 2021, J MANAGE INFORM SYST, V38, P855, DOI 10.1080/07421222.2021.1962597
+   Chaudhuri M, 2018, J BUS RES, V90, P286, DOI 10.1016/j.jbusres.2018.05.020
+   Chen CH, 2020, IND MANAGE DATA SYST, V120, P2375, DOI 10.1108/IMDS-11-2019-0628
+   Chen PP, 2020, OMEGA-INT J MANAGE S, V94, DOI 10.1016/j.omega.2019.07.001
+   Chen SFS, 1998, J RETAILING, V74, P353, DOI 10.1016/S0022-4359(99)80100-6
+   Clemons E. K., 1996, Journal of Management Information Systems, V13, P59
+   Cozzolino A, 2021, J BUS RES, V126, P385, DOI 10.1016/j.jbusres.2020.12.058
+   Cozzolino A, 2018, STRATEGIC MANAGE J, V39, P3053, DOI 10.1002/smj.2776
+   Dai HY, 2023, IND MANAGE DATA SYST, V123, P1198, DOI 10.1108/IMDS-05-2022-0268
+   de Rocha A., 2002, INT J RETAIL DISTRIB, V30, P61
+   Dhanorkar S, 2019, MANAGE SCI, V65, P660, DOI 10.1287/mnsc.2017.2963
+   Ding Y, 2020, J MARKETING RES, V57, P739, DOI 10.1177/0022243720916753
+   Diskin B., Grubhub expands in 5 NJ communities
+   Duyne A.V., 2022, Consumer trends in the restaurant industry
+   Eggers JP, 2018, ACAD MANAG ANN, V12, P357, DOI 10.5465/annals.2016.0051
+   Estelami H, 2018, J CONSUM AFF, V52, P517, DOI 10.1111/joca.12174
+   Fan HC, 2021, J DEV ECON, V152, DOI 10.1016/j.jdeveco.2021.102683
+   Foubert B, 2007, J MARKETING RES, V44, P647, DOI 10.1509/jmkr.44.4.647
+   Fu Q, 2022, INT J ELECTRON COMM, V26, P526, DOI 10.1080/10864415.2022.2123648
+   Gao J, 2012, DECIS SUPPORT SYST, V53, P772, DOI 10.1016/j.dss.2012.05.011
+   Garretson JA, 2002, J RETAILING, V78, P91, DOI 10.1016/S0022-4359(02)00071-4
+   Gong J, 2015, J RETAILING, V91, P343, DOI 10.1016/j.jretai.2015.02.002
+   Gorji M, 2020, INT J RETAIL DISTRIB, V48, P1337, DOI 10.1108/IJRDM-12-2019-0407
+   Gulfraz MB, 2022, J RETAIL CONSUM SERV, V68, DOI 10.1016/j.jretconser.2022.103000
+   Hayes A., Online-to-offline (O2O) commerce definition and trends
+   He B, 2020, TRANSPORT RES E-LOG, V141, DOI 10.1016/j.tre.2020.102036
+   He Z, 2019, INT J PROD ECON, V215, P61, DOI 10.1016/j.ijpe.2018.05.008
+   He Z, 2016, EUR J OPER RES, V254, P595, DOI 10.1016/j.ejor.2016.03.030
+   Hmurovic J, 2023, J MARKETING RES, V60, P299, DOI 10.1177/00222437221118856
+   Hu SS, 2017, OPER RES, V65, P1546, DOI 10.1287/opre.2017.1642
+   Huang SL, 2023, INT J ELECTRON COMM, V27, P385, DOI 10.1080/10864415.2023.2226901
+   Ji X, 2022, INT J PROD RES, V60, P686, DOI 10.1080/00207543.2021.2013562
+   Jiang YC, 2015, INT J PROD ECON, V167, P257, DOI 10.1016/j.ijpe.2015.02.028
+   Jiang YQ, 2021, J RETAIL CONSUM SERV, V62, DOI 10.1016/j.jretconser.2021.102612
+   Kamalaldin A, 2020, IND MARKET MANAG, V89, P306, DOI 10.1016/j.indmarman.2020.02.004
+   Karakaya F, 2011, J STRATEG MARK, V19, P171, DOI 10.1080/0965254X.2011.557741
+   Kauder E., 2015, History of Marginal Utility Theory, V2238
+   Khouja M, 2020, INT J ELECTRON COMM, V24, P184, DOI 10.1080/10864415.2020.1715529
+   Kim CH, 2020, J RETAILING, V96, P235, DOI 10.1016/j.jretai.2019.10.001
+   Kim HW, 2009, DECIS SUPPORT SYST, V47, P477, DOI 10.1016/j.dss.2009.04.014
+   Lang LD, 2022, J BUS RES, V141, P175, DOI 10.1016/j.jbusres.2021.12.028
+   Lee S, 2019, PSYCHOL MARKET, V36, P15, DOI 10.1002/mar.21154
+   Li Q, 2021, ELECTRON COMMER R A, V47, DOI 10.1016/j.elerap.2021.101049
+   Li ZH, 2021, J RETAIL CONSUM SERV, V58, DOI 10.1016/j.jretconser.2020.102324
+   Li ZH, 2020, COMPUT IND ENG, V145, DOI 10.1016/j.cie.2020.106543
+   Lin CN, 2023, COMPUT STAND INTER, V83, DOI 10.1016/j.csi.2022.103660
+   Lin CC, 2019, AUST ECON PAP, V58, P233, DOI 10.1111/1467-8454.12151
+   Liu YJ, 2019, INT J ELECTRON COMM, V23, P405, DOI 10.1080/10864415.2019.1619910
+   Medrano N, 2016, FRONT PSYCHOL, V7, DOI 10.3389/fpsyg.2016.00125
+   Obeng E, 2016, J RETAILING, V92, P383, DOI 10.1016/j.jretai.2016.07.001
+   Obrien S., This secret code will save you a fortune on your next Uber or Uber Eats buy: 'This is not a drill'
+   Page B, 2019, J RETAIL CONSUM SERV, V47, P49, DOI 10.1016/j.jretconser.2018.11.001
+   Peng LF, 2019, INFORM MANAGE-AMSTER, V56, P317, DOI 10.1016/j.im.2018.11.007
+   Pham K., O2O: A breakdown of online-to-offline business
+   Proserpio D, 2017, MARKET SCI, V36, P645, DOI 10.1287/mksc.2017.1043
+   Pymints, Domino's counterbalances Uber Eats deal with loyalty relaunch
+   Raghubir P, 1998, J MARKETING RES, V35, P316, DOI 10.2307/3152030
+   Retnowati E., 2021, Journal of Marketing and Business Research, V1, P15
+   ROBINSON WT, 1992, STRATEGIC MANAGE J, V13, P609, DOI 10.1002/smj.4250130804
+   Roma P, 2019, INT J PROD ECON, V214, P17, DOI 10.1016/j.ijpe.2019.03.023
+   Sedera D, 2016, INFORM MANAGE-AMSTER, V53, P366, DOI 10.1016/j.im.2016.01.001
+   Singh VP, 2006, MARKET SCI, V25, P457, DOI 10.1287/mksc.1050.0176
+   Sinha SK, 2020, J RETAIL CONSUM SERV, V52, DOI 10.1016/j.jretconser.2019.101887
+   Skare M, 2023, INT J INFORM MANAGE, V68, DOI 10.1016/j.ijinfomgt.2022.102594
+   Spotts HE, 2022, J BUS RES, V152, P387, DOI 10.1016/j.jbusres.2022.07.047
+   Tao JW, 2023, EUR J OPER RES, V304, P1022, DOI 10.1016/j.ejor.2022.05.019
+   Terpend R, 2015, J SUPPLY CHAIN MANAG, V51, P29, DOI 10.1111/jscm.12080
+   Thill J.-C., 1992, Annals of Operations Research, V40, P381, DOI 10.1007/BF02060489
+   Tong TT, 2022, DECIS SUPPORT SYST, V156, DOI 10.1016/j.dss.2022.113746
+   Tripathi S., How to attract sellers for my ecommerce marketplace website?
+   Uzunca B, 2018, ACAD MANAGE J, V61, P738, DOI 10.5465/amj.2015.1080
+   Villena VH, 2021, J SUPPLY CHAIN MANAG, V57, P86, DOI 10.1111/jscm.12239
+   Wan X, 2020, INTERNET RES, V30, P1583, DOI 10.1108/INTR-03-2019-0087
+   Wu JH, 2023, INT J ELECTRON COMM, V27, P210, DOI 10.1080/10864415.2023.2184239
+   Yang SL, 2015, COMPUT IND ENG, V90, P46, DOI 10.1016/j.cie.2015.08.011
+   Zafar AU, 2021, ASIA PAC J MARKET LO, V33, P945, DOI 10.1108/APJML-08-2019-0495
+   Zhang K, 2018, INT J ELECTRON COMM, V22, P36, DOI 10.1080/10864415.2018.1396118
+   Zhu H, 2017, INFORM MANAGE-AMSTER, V54, P427, DOI 10.1016/j.im.2016.10.001
+NR 89
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JUL 2
+PY 2024
+VL 28
+IS 3
+BP 295
+EP 331
+DI 10.1080/10864415.2024.2361397
+PG 37
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA UY6R6
+UT WOS:001251669000001
+DA 2024-08-05
+ER
+
+PT J
+AU Pan, YC
+   Xu, L
+AF Pan, Yuchen
+   Xu, Lu
+TI Detecting Fake Online Reviews: An Unsupervised Detection Method With a
+   Novel Performance Evaluation
+SO INTERNATIONAL JOURNAL OF ELECTRONIC COMMERCE
+LA English
+DT Article
+DE Fake-review detection; unsupervised problem; fake reviews; online
+   recommenders; recommender metric; online reviews
+ID RANKING; NETWORK; FRAUD
+AB Fake reviews are critical issues in the online world, as they affect the credibility of e-commerce platforms and undermine consumers' trust. Therefore, fake-review detection is of great significance. Since fake-review detection is an unsupervised problem, most existing methods and performance metrics cannot be applied. In addition, contemporary review manipulations are much more difficult to detect than before. To address these two problems, we first propose a fully unsupervised method with steps of survey research, fake-review feature analysis, fake index estimation, and fake-review selection. Fake-review features can be accurately derived from existing studies and survey research. Second, we propose a recommendation-based performance metric for evaluating fake-review detection methods. This metric differs from traditional binary classification performance metrics, as it can be used on review data with no objective review authenticity classifications. In this research, we utilize Dianping as a case study to evaluate the effectiveness of the proposed detection method and performance metric.
+C1 [Xu, Lu] Renmin Univ China, Sch Informat Resource Management, Beijing 100872, Peoples R China.
+C3 Renmin University of China
+RP Xu, L (corresponding author), Renmin Univ China, Sch Informat Resource Management, Beijing 100872, Peoples R China.
+EM panyuchen@ruc.edu.cn; rzxulu@ruc.edu.cn
+FU National Natural Science Foundation of China [72101258, 71903189,
+   72210107001]; The 6th Young Elite Scientist Sponsorship Program by CAST
+   [YESS20200198]; Fund for Building World-Class Universities (disciplines)
+   of Renmin University of China [KYGJC2023010]
+FX This work was supported by the National Natural Science Foundation of
+   China [grants 72101258, 71903189, 72210107001], the 6th Young Elite
+   Scientist Sponsorship Program by CAST [no. YESS20200198], and the Fund
+   for Building World-Class Universities (disciplines) of Renmin University
+   of China [no. KYGJC2023010].
+CR Adomavicius G, 2016, INFORMS J COMPUT, V28, P129, DOI 10.1287/ijoc.2015.0662
+   Barbado R, 2019, INFORM PROCESS MANAG, V56, P1234, DOI 10.1016/j.ipm.2019.03.002
+   Berry MW, 2019, Supervised and unsupervised learning for data science
+   Birim SÖ, 2022, J BUS RES, V149, P884, DOI 10.1016/j.jbusres.2022.05.081
+   Budhi GS, 2021, ELECTRON COMMER R A, V47, DOI 10.1016/j.elerap.2021.101048
+   Cecchini M, 2010, MANAGE SCI, V56, P1146, DOI 10.1287/mnsc.1100.1174
+   Dash A, 2021, INT J ELECTRON COMM, V25, P29, DOI 10.1080/10864415.2021.1846852
+   Duan L, 2007, INFORM SYST, V32, P978, DOI 10.1016/j.is.2006.10.006
+   Esposito M, 2020, INFORM SCIENCES, V514, P88, DOI 10.1016/j.ins.2019.12.002
+   Fang LM, 2022, MANAGE SCI, V68, P8116, DOI 10.1287/mnsc.2021.4279
+   Filieri R, 2015, TOURISM MANAGE, V51, P174, DOI 10.1016/j.tourman.2015.05.007
+   Gebru ID, 2016, IEEE T PATTERN ANAL, V38, P2402, DOI 10.1109/TPAMI.2016.2522425
+   He J., 2019, MIS QUART, V43
+   He S, 2022, MARKET SCI, V41, P896, DOI 10.1287/mksc.2022.1353
+   Hu N, 2011, DECIS SUPPORT SYST, V50, P614, DOI 10.1016/j.dss.2010.08.012
+   Huang G, 2014, IEEE T CYBERNETICS, V44, P2405, DOI 10.1109/TCYB.2014.2307349
+   Iwata T, 2018, IEEE T KNOWL DATA EN, V30, P786, DOI 10.1109/TKDE.2017.2778720
+   Jiang YC, 2010, DECIS SUPPORT SYST, V48, P470, DOI 10.1016/j.dss.2009.06.006
+   Jordan MI, 2015, SCIENCE, V349, P255, DOI 10.1126/science.aaa8415
+   Nguyen T, 2022, INT J ELECTRON COMM, V26, P90, DOI 10.1080/10864415.2021.2010006
+   Khansa L, 2012, INT J ELECTRON COMM, V16, P19, DOI 10.2753/JEC1086-4415160402
+   Knutha T, 2022, INT J ELECTRON COMM, V26, P388, DOI 10.1080/10864415.2022.2076199
+   Kothari R, 2003, IEEE T NEURAL NETWOR, V14, P1496, DOI 10.1109/TNN.2003.820446
+   Kumar A, 2022, DECIS SUPPORT SYST, V155, DOI 10.1016/j.dss.2021.113728
+   Kumar N, 2019, J MANAGE INFORM SYST, V36, P1313, DOI 10.1080/07421222.2019.1661089
+   Kumar N, 2018, J MANAGE INFORM SYST, V35, P350, DOI 10.1080/07421222.2018.1440758
+   Kumar R, 2024, INFORM SYST FRONT, V26, P1091, DOI 10.1007/s10796-023-10401-w
+   Lappas T, 2016, INFORM SYST RES, V27, P940, DOI 10.1287/isre.2016.0674
+   Li LS, 2018, INFORM SYST RES, V29, P1003, DOI 10.1287/isre.2017.0765
+   Li YS, 2023, J BUS RES, V162, DOI 10.1016/j.jbusres.2023.113895
+   Liang N, 2016, J MANAGE INFORM SYST, V33, P361, DOI 10.1080/07421222.2016.1205925
+   Liu R, 2020, ACM T INTEL SYST TEC, V11, DOI 10.1145/3397463
+   Luca M, 2016, MANAGE SCI, V62, P3412, DOI 10.1287/mnsc.2015.2304
+   Mukherjee A, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P632
+   Munzel A, 2016, J RETAIL CONSUM SERV, V32, P96, DOI 10.1016/j.jretconser.2016.06.002
+   Pan YN, 2021, IEEE T FUZZY SYST, V29, P2388, DOI 10.1109/TFUZZ.2020.2999746
+   Pan YC, 2020, J MANAGE INFORM SYST, V37, P563, DOI 10.1080/07421222.2020.1759927
+   Pan YC, 2017, DECIS SUPPORT SYST, V103, P1, DOI 10.1016/j.dss.2017.08.003
+   Raccuglia P, 2016, NATURE, V533, P73, DOI 10.1038/nature17439
+   Rathore P, 2021, IEEE T COMPUT SOC SY, V8, P1369, DOI 10.1109/TCSS.2021.3085406
+   Rong XJ, 2020, IEEE T IMAGE PROCESS, V29, P591, DOI 10.1109/TIP.2019.2930176
+   Roy A, 2019, INFORMS J COMPUT, V31, P207, DOI 10.1287/ijoc.2018.0825
+   Schuckert M, 2016, ASIA PAC J TOUR RES, V21, P259, DOI 10.1080/10941665.2015.1029954
+   Shan GH, 2021, DECIS SUPPORT SYST, V144, DOI 10.1016/j.dss.2021.113513
+   Song Y, 2023, J BUS RES, V164, DOI 10.1016/j.jbusres.2023.113971
+   Wang GJ, 2021, IEEE T SYST MAN CY-S, V51, P7919, DOI 10.1109/TSMC.2020.2982226
+   Wang W, 2019, IEEE T IMAGE PROCESS, V28, P4260, DOI 10.1109/TIP.2019.2906491
+   Wu YY, 2020, DECIS SUPPORT SYST, V132, DOI 10.1016/j.dss.2020.113280
+   Xu YB, 2019, INFORM SCIENCES, V505, P265, DOI 10.1016/j.ins.2019.07.081
+   Yan X, 2011, ACM T INFORM SYST, V29, DOI 10.1145/1993036.1993039
+   Zhang DS, 2016, J MANAGE INFORM SYST, V33, P456, DOI 10.1080/07421222.2016.1205907
+   Zhang W, 2022, DECIS SUPPORT SYST, V157, DOI 10.1016/j.dss.2022.113765
+   Zhang ZP, 2017, ANN OPER RES, V256, P359, DOI 10.1007/s10479-016-2367-1
+NR 53
+TC 0
+Z9 0
+U1 36
+U2 40
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1086-4415
+EI 1557-9301
+J9 INT J ELECTRON COMM
+JI Int. J. Electron. Commer.
+PD JAN 2
+PY 2024
+VL 28
+IS 1
+BP 84
+EP 107
+DI 10.1080/10864415.2023.2295067
+EA JAN 2024
+PG 24
+WC Business; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Computer Science
+GA JJ7O4
+UT WOS:001135278700001
+DA 2024-08-05
+ER
+
+EF

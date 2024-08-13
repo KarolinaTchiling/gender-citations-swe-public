@@ -1,0 +1,2361 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Groote, JF
+   Huisman, M
+AF Groote, Jan Friso
+   Huisman, Marieke
+TI Formal Methods for Industrial Critical Systems
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Deductive verification; Smart contracts; Interactive validation;
+   Spatio-temporal logics; Autonomous driving; Avionic software; Monotony
+   analysis stochastic specifications; Real-time operating systems
+AB To stimulate the development and application of formal methods in industry, we need to promote research and development for the improvement of formal methods and tools for industrial applications, and we need to exchange experiences of the industrial usage of these methods and tools. This special issue of Software Tools for Technology Transfer presents various tools and experience reports that are targeting the use of formal methods in industry. The papers in this special issue are extended versions of selected conference papers from the proceedings of the 27th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2022).
+C1 [Groote, Jan Friso] Eindhoven Univ Technol, POB 513, NL-5600 MB Eindhoven, Netherlands.
+   [Huisman, Marieke] Univ Twente, POB 217, NL-7500 AE Enschede, Netherlands.
+C3 Eindhoven University of Technology; University of Twente
+RP Huisman, M (corresponding author), Univ Twente, POB 217, NL-7500 AE Enschede, Netherlands.
+OI Huisman, Marieke/0000-0003-4467-072X; Groote, Jan
+   Friso/0000-0003-2196-6587
+CR Adelt J, 2024, INT J SOFTW TOOLS TE, V26, P229, DOI 10.1007/s10009-024-00743-4
+   Cassez F, 2024, INT J SOFTW TOOLS TE, V26, P131, DOI 10.1007/s10009-024-00738-1
+   Ducoffe M, 2024, INT J SOFTW TOOLS TE, V26, P189, DOI 10.1007/s10009-024-00741-6
+   Groote J.F., 2022, FORMAL METHODS IND C, DOI [10.1007/978-3-031-15008-1, DOI 10.1007/978-3-031-15008-1]
+   Hampus A, 2024, INT J SOFTW TOOLS TE, V26, P207, DOI 10.1007/s10009-024-00742-5
+   Pedro AM, 2024, INT J SOFTW TOOLS TE, V26, P169, DOI 10.1007/s10009-024-00740-7
+   Vu F, 2024, INT J SOFTW TOOLS TE, V26, P147, DOI 10.1007/s10009-024-00739-0
+NR 7
+TC 0
+Z9 0
+U1 2
+U2 2
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD APR
+PY 2024
+VL 26
+IS 2
+BP 127
+EP 129
+DI 10.1007/s10009-024-00744-3
+EA FEB 2024
+PG 3
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LY8F3
+UT WOS:001168878300001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Krings, S
+   Körner, P
+   Dunkelau, J
+   Rutenkolk, K
+AF Krings, Sebastian
+   Koerner, Philipp
+   Dunkelau, Jannik
+   Rutenkolk, Kristin
+TI A verified low-level implementation and visualization of the adaptive
+   exterior light and speed control system
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Model checking; Formal methods; Verification; Case study; Test-driven
+   development; MISRA C
+ID MYTHS
+AB In this article, we present an approach to the ABZ 2020 case study that differs from those usually presented at ABZ: Rather than using a (correct-by-construction) approach following a formal method, we use C for a low-level implementation instead. We strictly adhere to test-driven development for validation, and only afterwards apply model checking using CBMC for verification. While the approach has several benefits compared to the more rigorous approaches, it also provides less mathematical clarity and overall less thorough verification. In consequence, our realization of the ABZ case study serves as a baseline reference for comparison, allowing to assess the benefit provided by the various formal modeling languages, methods and tools.
+C1 [Koerner, Philipp; Dunkelau, Jannik; Rutenkolk, Kristin] Heinrich Heine Univ, Inst Informat, Univ Str 1, D-40225 Dusseldorf, Germany.
+C3 Heinrich Heine University Dusseldorf
+RP Körner, P (corresponding author), Heinrich Heine Univ, Inst Informat, Univ Str 1, D-40225 Dusseldorf, Germany.
+EM sebastian.krings@hhu.de; p.koerner@hhu.de; jannik.dunkelau@hhu.de;
+   kristin.rutenkolk@hhu.de
+FU Heinrich-Heine-Universitt Dsseldorf (3102)
+FX No Statement Available
+CR Abrial J.R., 1996, B BOOK ASSIGNING PRO, DOI DOI 10.1017/CBO9780511624162
+   Abrial J.-R, 2010, Modeling in Event-B: System and Software Engineering, DOI DOI 10.1017/CBO9781139195881
+   [Anonymous], 2019, GEN SPECIFICATION BA
+   Arcaini Paolo, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P302, DOI 10.1007/978-3-030-48077-6_25
+   Arcaini P, 2011, SOFTWARE PRACT EXPER, V41, P155, DOI 10.1002/spe.1019
+   Bagnara R, 2018, LECT NOTES COMPUT SC, V11002, P5, DOI 10.1007/978-3-319-99725-4_2
+   Baumeister H., 2004, COMBINING FORMAL SPE
+   Beck K., 2003, Test Driven Development: By Example
+   Biere A, 1999, LECT NOTES COMPUT SC, V1579, P193
+   Boogerd C, 2008, PROC IEEE INT CONF S, P277, DOI 10.1109/ICSM.2008.4658076
+   BOWEN JP, 1995, IEEE SOFTWARE, V12, P34, DOI 10.1109/52.391826
+   Brger E., 2003, P ASM BERL SPRING
+   Brookes T. M., 1996, FME '96: Industrial Benefit and Advances in Formal Methods. Third International Symposium of Formal Methods Europe. Proceedings, P214
+   Buse RPL, 2010, IEEE T SOFTWARE ENG, V36, P546, DOI 10.1109/TSE.2009.70
+   Cadar C, 2008, OSDI, V8, P209
+   Chalupa M, 2018, LECT NOTES COMPUT SC, V10806, P442, DOI 10.1007/978-3-319-89963-3_29
+   Chen MS, 2017, LECT NOTES COMPUT SC, V10134, P65, DOI 10.1007/978-3-319-52228-9_4
+   Clarke E., 2003, Proceedings 2003. Design Automation Conference (IEEE Cat. No.03CH37451), P368
+   Clarke E, 2004, LECT NOTES COMPUT SC, V2988, P168, DOI 10.1007/978-3-540-24730-2_15
+   Clements Paul, 2002, Software Product Lines: Practices and Patterns
+   Cunha Alcino, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P318, DOI 10.1007/978-3-030-48077-6_26
+   Fathy HK, 2006, PROC SPIE, V6228, DOI 10.1117/12.667794
+   Fitzgerald J. S., 1994, FME '94: Industrial Benefit of Formal Methods. Second International Symposium of Formal Methods Europe. Proceedings, P35
+   HALL A, 1990, IEEE SOFTWARE, V7, P11, DOI 10.1109/52.57887
+   Hansen Dominik, 2018, Abstract State Machines, Alloy, B, TLA, VDM, and Z. 6th International Conference, ABZ 2018. Proceedings: LNCS 10817, P292, DOI 10.1007/978-3-319-91271-4_20
+   Hatton L, 2007, INFORM SOFTWARE TECH, V49, P475, DOI 10.1016/j.infsof.2006.07.004
+   Houdek F., ADAPTIVE EXTERIOR LI
+   ISO, 2011, ROAD VEHICLES FUNCTI
+   Jackson D, 2012, SOFTWARE ABSTRACTIONS: LOGIC, LANGUAGE, AND ANALYSIS, P1
+   Johnson JC, 2019, PROC IEEE INT CONF S, P513, DOI 10.1109/ICSME.2019.00085
+   Kkla T., 2006, SOFTWARE PRODUCT LIN, DOI [10.1007/978-3-540-33253-4, DOI 10.1007/978-3-540-33253-4]
+   Körner P, 2021, FORM METHOD SYST DES, V58, P160, DOI 10.1007/s10703-020-00351-3
+   Krings Sebastian, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P382, DOI 10.1007/978-3-030-48077-6_30
+   Ladenberger L, 2017, INT J SOFTW TOOLS TE, V19, P187, DOI 10.1007/s10009-015-0395-9
+   Larsen PG, 1996, IEEE SOFTWARE, V13, P48, DOI 10.1109/52.493020
+   Leuschel Michael, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P335, DOI 10.1007/978-3-030-48077-6_27
+   Macedo N, 2016, FSE'16: PROCEEDINGS OF THE 2016 24TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON FOUNDATIONS OF SOFTWARE ENGINEERING, P373, DOI 10.1145/2950290.2950318
+   Mammar Amel, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P367, DOI 10.1007/978-3-030-48077-6_29
+   Mammar Amel, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P351, DOI 10.1007/978-3-030-48077-6_28
+   MISRA C, 2012, GUIDELINES USE C LAN
+   Short M, 2008, J SYST SOFTWARE, V81, P1163, DOI 10.1016/j.jss.2007.08.026
+   Vu F, 2019, LECT NOTES COMPUT SC, V11918, P456, DOI 10.1007/978-3-030-34968-4_25
+   Yang M., 2016, COMBINING FORMAL INF, P290
+   Yuan J, 1997, LECT NOTES COMPUT SC, V1254, P376
+NR 44
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD JUN
+PY 2024
+VL 26
+IS 3
+BP 403
+EP 419
+DI 10.1007/s10009-024-00750-5
+EA MAY 2024
+PG 17
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ8U1
+UT WOS:001232071800001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Leithner, M
+   Bombarda, A
+   Wagner, M
+   Gargantini, A
+   Simos, DE
+AF Leithner, Manuel
+   Bombarda, Andrea
+   Wagner, Michael
+   Gargantini, Angelo
+   Simos, Dimitris E.
+TI State of the CArt: evaluating covering array generators at scale
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Combinatorial testing; Covering array; Competition; Benchmark;
+   Combinatorial test generators; Test suite generation time; Test suite
+   size; Covering array generation
+ID INTERACTION TEST SUITES; IMPLEMENTATION; STRATEGY
+AB Providing a reusable methodology for the evaluation of covering array generation utilities and apply it to a corpus of such tools, obtaining an overview of supported features and constraints, performance, output size, file formats, and practical considerations that may ease or hinder adoption.Analysis of supported capabilities, input and output formats, and constraints, followed by an experimental evaluation of eight covering array generation tools, two of which were provided in updated versions, against a corpus of 295 publicly available benchmark models in six categories, producing arrays of strength two to six.Capabilities, particularly constraint support, vary widely amongst competitors. Metaheuristic algorithms, commonly focused on postoptimization, tend to produce small arrays at the cost of performance. Approaches based on the In-Parameter-Order paradigm offer a good balance between speed and output size that may prove conducive to real-world adoption.The choice of a covering array generation utility should be based on specific requirements related to the use case. Nevertheless, our evaluation identifies some candidates - CAgen, ACTS, and APPTS - which lead the field in terms of overall score. Others, such as PICT, offer unique features; however, a lack of standardization may lead to vendor lock-in.
+C1 [Bombarda, Andrea; Gargantini, Angelo] Univ Bergamo, Dept Engn, Bergamo, Italy.
+   [Leithner, Manuel; Wagner, Michael; Simos, Dimitris E.] SBA Res, Vienna, Austria.
+C3 University of Bergamo
+RP Leithner, M (corresponding author), SBA Res, Vienna, Austria.
+EM mleithner@sba-research.org; andrea.bombarda@unibg.it;
+   mwagner@sba-research.org; angelo.gargantini@unibg.it;
+   dsimos@sba-research.org
+RI Bombarda, Andrea/AHB-9415-2022
+OI Bombarda, Andrea/0000-0003-4244-9319
+FU SBA Research (SBA-K1); COMET Centre within the COMET - Competence
+   Centers for Excellent Technologies Programme - federal state of Vienna
+   [70NANB21H124]; U.S. Department of Commerce, National Institute of
+   Standards and Technology [B53C22006700001 - Spoke 1 - Pilot 1.4]
+FX SBA Research (SBA-K1) is a COMET Centre within the COMET - Competence
+   Centers for Excellent Technologies Programme and funded by BMK, BMAW,
+   and the federal state of Vienna. COMET is managed by FFG. This work was
+   performed partly under the financial assistance award 70NANB21H124 from
+   U.S. Department of Commerce, National Institute of Standards and
+   Technology. Andrea Bombarda is funded by PNRR ANTHEM (AdvaNced
+   Technologies for Human-centrEd Medicine) - CUP: B53C22006700001 - Spoke
+   1 - Pilot 1.4.
+CR Ahmed BS, 2011, J SYST SOFTWARE, V84, P2171, DOI 10.1016/j.jss.2011.06.004
+   Beyer D, 2019, LECT NOTES COMPUT SC, V11429, P167, DOI 10.1007/978-3-030-17502-3_11
+   Bombarda A., 2024, DESIGN IMPLEMENTATIO
+   Bombarda A, 2023, IEEE ICST WORKSHOP, P197, DOI 10.1109/ICSTW58534.2023.00044
+   Bombarda A, 2022, IEEE ICST WORKSHOP, P74, DOI 10.1109/ICSTW55395.2022.00027
+   Bombarda A, 2021, IEEE ICST WORKSHOP, P48, DOI 10.1109/ICSTW52544.2021.00021
+   Cohen DM, 1997, IEEE T SOFTWARE ENG, V23, P437, DOI 10.1109/32.605761
+   Cohen MB, 2008, IEEE T SOFTWARE ENG, V34, P633, DOI 10.1109/TSE.2008.50
+   Colbourn CJ, 2004, PROCEEDINGS OF THE IASTED INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, P345
+   Czerwonka J., 2008, Pairwise testing in the real world: Practical extensions to test-case sce- narios
+   Forbes M, 2008, J RES NATL INST STAN, V113, P287, DOI 10.6028/jres.113.022
+   Fu YJ, 2020, INFORM SOFTWARE TECH, V122, DOI 10.1016/j.infsof.2020.106288
+   Gao SW, 2015, J COMPUT SCI TECH-CH, V30, P957, DOI 10.1007/s11390-015-1574-6
+   Gargantini Angelo, 2014, Hardware and Software: Verification and Testing. 10th International Haifa Verification Conference, HVC 2014. Proceedings: LNCS 8855, P220, DOI 10.1007/978-3-319-13338-6_17
+   Gargantini A, 2018, IEEE ICST WORKSHOP, P308, DOI 10.1109/ICSTW.2018.00066
+   Garvin BJ, 2011, EMPIR SOFTW ENG, V16, P61, DOI 10.1007/s10664-010-9135-7
+   Garvin BJ, 2009, 1ST INTERNATIONAL SYMPOSIUM ON SEARCH BASED SOFTWARE ENGINEERING, PROCEEDINGS, P13, DOI 10.1109/SSBSE.2009.25
+   Järvisalo M, 2012, AI MAG, V33, P89
+   Kampel L, 2020, OPTIM LETT, V14, P1543, DOI 10.1007/s11590-019-01459-0
+   Kleine K, 2018, MATH COMPUT SCI, V12, P51, DOI 10.1007/s11786-017-0326-0
+   Kuhn DR, 2004, IEEE T SOFTWARE ENG, V30, P418, DOI 10.1109/TSE.2004.24
+   Lei Y, 1998, THIRD IEEE INTERNATIONAL HIGH-ASSURANCE SYSTEMS ENGINEERING SYMPOSIUM, PROCEEDINGS, P254, DOI 10.1109/HASE.1998.731623
+   Leithner M., 2022, RESULTS CT COMPETITI
+   Leithner M, 2018, IEEE ICST WORKSHOP, P318, DOI 10.1109/ICSTW.2018.00067
+   Nie CH, 2011, ACM COMPUT SURV, V43, DOI 10.1145/1883612.1883618
+   Nurmela KJ, 2004, DISCRETE APPL MATH, V138, P143, DOI 10.1016/S0166-218X(03)00291-9
+   Stardom J., 2001, METAHEURISTICS SEARC
+   Takemura K, 2022, IEEE ICST WORKSHOP, P72, DOI 10.1109/ICSTW55395.2022.00026
+   Torres-Jimenez J, 2019, IEEE ACCESS, V7, P42774, DOI 10.1109/ACCESS.2019.2907057
+   Torres-Jimenez J, 2017, OPTIM LETT, V11, P457, DOI 10.1007/s11590-016-1012-x
+   Torres-Jimenez J, 2014, INT SYMP SYMB NUMERI, P20, DOI 10.1109/SYNASC.2013.10
+   Wagner M., 2020, INT WORKSH COMB TEST, P3
+   Wagner M, 2022, IEEE ICST WORKSHOP, P87, DOI 10.1109/ICSTW55395.2022.00029
+   Wagner M, 2022, APPL MATH COMPUT, V421, DOI 10.1016/j.amc.2022.126952
+   Wagner M, 2021, LECT NOTES COMPUT SC, V12757, P571, DOI 10.1007/978-3-030-79987-8_40
+   Wang Y, 2022, IEEE ICST WORKSHOP, P82, DOI 10.1109/ICSTW55395.2022.00028
+   Wang Y, 2022, INFORM SOFTWARE TECH, V143, DOI 10.1016/j.infsof.2021.106768
+   Wu H, 2019, ARXIV
+   Yu LB, 2015, 8 IEEE INT C SOFTWAR
+   Yu LB, 2013, 2013 IEEE SIXTH INTERNATIONAL CONFERENCE ON SOFTWARE TESTING, VERIFICATION AND VALIDATION (ICST 2013), P370, DOI 10.1109/ICST.2013.52
+   Yu LB, 2013, 2013 IEEE SIXTH INTERNATIONAL CONFERENCE ON SOFTWARE TESTING, VERIFICATION AND VALIDATION (ICST 2013), P242, DOI 10.1109/ICST.2013.35
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD JUN
+PY 2024
+VL 26
+IS 3
+BP 301
+EP 326
+DI 10.1007/s10009-024-00745-2
+EA MAY 2024
+PG 26
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ8U1
+UT WOS:001233404700001
+DA 2024-08-05
+ER
+
+PT J
+AU Ducoffe, M
+   Gabreau, C
+   Ober, I
+   Ober, I
+   Vidot, EG
+AF Ducoffe, Melanie
+   Gabreau, Christophe
+   Ober, Ileana
+   Ober, Iulian
+   Vidot, Eric Guillaume
+TI Certification of avionic software based on machine learning: the case
+   for formal monotony analysis
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Machine learning; Neural network; Certification; Formal verification;
+   Monotony
+AB The use of machine learning (ML) in airborne safety-critical systems requires new methods for certification, as the current standards and practices were defined and refined over decades with classical programming in mind and do not support this new development paradigm. This article provides an overview of the main challenges to the demonstration of compliance with regulation requirements raised by the use of ML and focuses on one particular case where the formal verification may become mandatory in future regulations, which is the verification of (partial) monotony properties. For this case, we propose a method to evaluate the monotony property using mixed integer linear programming. Contrary to the existing literature, our analysis provides a lower and upper bound of the space volume where the property does not hold, that we denote "Non-Monotonic Space Coverage". This work has several advantages: (i) our formulation of the monotony property works on discrete inputs, (ii) the iterative nature of our algorithm allows for refining the analysis as needed, and (iii) from an industrial point of view, the results of this evaluation are valuable for the aeronautical domain, where it can support the certification demonstration. We applied this method to an avionic case study (braking distance estimation using a neural network) where the verification of the monotony property is of paramount interest from a safety perspective.
+C1 [Ducoffe, Melanie; Gabreau, Christophe; Vidot, Eric Guillaume] Airbus Operat SAS, Toulouse, France.
+   [Ober, Ileana] Univ Toulouse, Inst Rech Informat Toulouse, Toulouse, France.
+   [Ober, Iulian] Univ Toulouse, Federat ENAC ISAE SUPAERO ONERA, Toulouse, France.
+C3 Airbus; Airbus France S.A.S.; Universite de Toulouse; Universite
+   Federale Toulouse Midi-Pyrenees (ComUE); Universite Toulouse III - Paul
+   Sabatier; Institut National Polytechnique de Toulouse; Universite
+   Toulouse 1 Capitole; Universite de Toulouse - Jean Jaures; Centre
+   National de la Recherche Scientifique (CNRS); Universite de Toulouse
+RP Ober, I (corresponding author), Univ Toulouse, Federat ENAC ISAE SUPAERO ONERA, Toulouse, France.
+EM melanie.ducoffe@airbus.com; christophe.gabreau@airbus.com;
+   ileana.ober@irit.fr; iulian.ober@isae-supaero.fr;
+   eric-guillaume.vidot@airbus.com
+CR Amershi S, 2019, 2019 IEEE/ACM 41ST INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING: SOFTWARE ENGINEERING IN PRACTICE (ICSE-SEIP 2019), P291, DOI 10.1109/ICSE-SEIP.2019.00042
+   [Anonymous], 2021, EASA CS 25AMENDMENT2
+   Biannic J., 2016, AEROSP LAB, V12
+   Carlini N, 2017, P IEEE S SECUR PRIV, P39, DOI 10.1109/SP.2017.49
+   Chen SD, 2022, IEEE INT CONF ROBOT, P8978, DOI 10.1109/ICRA46639.2022.9812177
+   Cheng CH, 2017, LECT NOTES COMPUT SC, V10482, P251, DOI 10.1007/978-3-319-68167-2_18
+   Cofer D, 2020, LECT NOTES COMPUT SC, V12229, P361, DOI 10.1007/978-3-030-55754-6_21
+   Damour M, 2021, LECT NOTES COMPUT SC, V12852, P34, DOI 10.1007/978-3-030-83903-1_3
+   de Moura L, 2008, LECT NOTES COMPUT SC, V4963, P337, DOI 10.1007/978-3-540-78800-3_24
+   EASA, 2021, Report
+   Feelders AJ, 2000, LECT NOTES COMPUT<D>, V1910, P395
+   Gauffriau A., 2021, ARXIV
+   Grossmann IE, 2002, OPTIM ENG, V3, P227, DOI 10.1023/A:1021039126272
+   Gupta Abhishek, 2019, ARXIV
+   Gurobi Optimization LLC, 2023, GUROBI OPTIMIZER REF
+   Hao J, 2021, ADV ENG INFORM, V49, DOI 10.1016/j.aei.2021.101342
+   Jian Z.D., 2017, SIMULTECH 2017 P 7 I, DOI [10.5220/0006418100830092, DOI 10.5220/0006418100830092]
+   KARPF J, 1991, THIRD INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE & LAW, P297, DOI 10.1145/112646.112684
+   Katz G, 2019, LECT NOTES COMPUT SC, V11561, P443, DOI 10.1007/978-3-030-25540-4_26
+   Liu Xingchao, 2020, C NEURAL INFORM PROC, V33, P15427
+   Madry A, 2018, INT C LEARN REPR, DOI 10.48550/arXiv.1706.06083
+   Mamalet Franck, 2021, White Paper Machine Learning in Certified Systems
+   Marques-Silva J, 2022, AAAI CONF ARTIF INTE, P12342
+   Martin R., 2017, ASSURED SOFTWARE JOU
+   Müller MN, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3498704
+   Nguyen A., 2019, ARXIV
+   Phillips P.J, 2021, Technical Report NIST IR 8312, DOI DOI 10.6028/NIST.IR.8312
+   Picard S., 2020, 2020 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), P275, DOI 10.1109/ISSREW51248.2020.00085
+   Raghunathan A., 2018, Advances in Neural Information Processing Systems (NeurIPS18), P10877
+   Rushby J., 2015, INTERPRETATION EVALU
+   SCHWEIGER A, 2021, 2021 IEEEAIAA 40 DIG, P1, DOI DOI 10.1109/DASC52595.2021.9594364
+   Singh G., 2019, INT C LEARN REPR
+   Sudakov O, 2019, LECT NOTES COMPUT SC, V11555, P232, DOI 10.1007/978-3-030-22808-8_24
+   Tjeng Vincent, 2019, Evaluating robustness of neural networks with mixed integer programming
+   Tsuzuku Y, 2018, ADV NEUR IN, V31
+   Urban C, 2021, ARXIV
+   Urban C, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3428253
+   Wang S., 2021, ADV NEURAL INFORM PR
+   Wang SQ, 2018, PROCEEDINGS OF THE 27TH USENIX SECURITY SYMPOSIUM, P1599
+   Weng TW, 2018, PR MACH LEARN RES, V80
+   Xiang WM, 2018, IEEE T NEUR NET LEAR, V29, P5777, DOI 10.1109/TNNLS.2018.2808470
+   Xu K., 2020, P 34 C NEUR INF PROC, P1129
+   Zhang H, 2019, AAAI CONF ARTIF INTE, P5757
+   Zhang H, 2018, ADV NEUR IN, V31
+NR 44
+TC 1
+Z9 1
+U1 2
+U2 2
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD APR
+PY 2024
+VL 26
+IS 2
+BP 189
+EP 205
+DI 10.1007/s10009-024-00741-6
+EA MAR 2024
+PG 17
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LY8F3
+UT WOS:001181266900001
+DA 2024-08-05
+ER
+
+PT J
+AU Adelt, J
+   Gebker, J
+   Herber, P
+AF Adelt, Julius
+   Gebker, Julian
+   Herber, Paula
+TI Reusable formal models for concurrency and communication in custom
+   real-time operating systems
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Real-time systems; Formal verification; Reusability
+ID CHECKING; AUTOMATA
+AB In embedded systems, the execution semantics of the real-time operating system (RTOS), which is responsible for scheduling and timely execution of concurrent processes, is crucial for the correctness of the overall system. However, existing approaches for the formal verification of embedded systems typically abstract from the RTOS completely, or provide a detailed and synthesizable formal model of the RTOS. While the former may lead to unsafe systems, the latter is not compatible with industrial design processes. In this paper, we present an approach for reusable abstract formal models that can be configured for custom RTOS. Our key idea is to formally capture common execution mechanisms of RTOS like preemptive scheduling, event synchronization, and communication abstractly in configurable timed automata models. These abstract formal models can be configured for a concrete custom RTOS, and they can be combined into a formal system model together with a concrete application. Our reusable models significantly reduce the manual effort of defining a formal model that captures concurrency and real-time behavior, together with the functionality of an application. The resulting formal model enables analysis, verification, and graphical simulation. We validate our approach by formalizing and analyzing a rescue robot application running the custom open source RTOS EV3RT.
+C1 [Adelt, Julius; Gebker, Julian; Herber, Paula] Univ Munster, Munster, Germany.
+C3 University of Munster
+RP Adelt, J (corresponding author), Univ Munster, Munster, Germany.
+EM julius.adelt@uni-muenster.de; paula.herber@uni-muenster.de
+FU Universitt Mnster (1056)
+FX No Statement Available
+CR Abdeddaïm Y, 2002, LECT NOTES COMPUT SC, V2280, P113
+   Adelt J., 2022, FORMAL METHODS IND C, P14
+   ALUR R, 1994, THEOR COMPUT SCI, V126, P183, DOI 10.1016/0304-3975(94)90010-8
+   [Anonymous], 2007, TRON ITRON4 0 SPECIF
+   Bechennec JL, 2018, INT C CONTROL DECISI, P628, DOI 10.1109/CoDIT.2018.8394813
+   Béchennec JL, 2006, IEEE INT C EMERG, P641
+   Behrmann G, 2004, LECT NOTES COMPUT SC, V3185, P200
+   Bengtsson J., 1996, Hybrid Systems III. Verification and Control, P232, DOI 10.1007/BFb0020949
+   Bengtsson J, 2004, LECT NOTES COMPUT SC, V3098, P87, DOI 10.1007/978-3-540-27755-2_3
+   Beyer Dirk, 2011, Computer Aided Verification. Proceedings 23rd International Conference, CAV 2011, P184, DOI 10.1007/978-3-642-22110-1_16
+   Blom Stefan, 2017, Integrated Formal Methods. 13th International Conference, IFM 2017. Proceedings: LNCS 10510, P102, DOI 10.1007/978-3-319-66845-1_7
+   Cuoq Pascal, 2012, Software Engineering and Formal Methods. Proceedings of the 10th International Conference, SEFM 2012, P233, DOI 10.1007/978-3-642-33826-7_16
+   Deifel HP, 2017, PROCEEDINGS OF THE 17TH CONFERENCE ON FORMAL METHODS IN COMPUTER AIDED DESIGN (FMCAD 2017), P196, DOI 10.23919/FMCAD.2017.8102260
+   EV3RT Project, 2019, EV3RT
+   Gu RH, 2016, PROCEEDINGS OF OSDI'16: 12TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P653
+   Han PJ, 2021, INT J SOFTW TOOLS TE, V23, P721, DOI 10.1007/s10009-020-00597-6
+   Haur Imane, 2022, Formal Methods and Software Engineering: 23rd International Conference on Formal Engineering Methods, ICFEM 2022, Proceedings. Lecture Notes in Computer Science (13478), P140, DOI 10.1007/978-3-031-17244-1_9
+   Haur I, 2021, 29TH INTERNATIONAL CONFERENCE ON REAL TIME NETWORKS AND SYSTEMS (RTNS 2021), P216, DOI 10.1145/3453417.3453437
+   Herber P., 2008, P 6 IEEE ACM IFIP IN, P131, DOI DOI 10.1145/1450135.1450166
+   Klein G, 2009, SOSP'09: PROCEEDINGS OF THE TWENTY-SECOND ACM SIGOPS SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P207
+   Laplante, 2004, REAL TIME SYSTEMS DE, DOI [10.1002/0471648299, DOI 10.1002/0471648299]
+   OSEK, 2005, 1735632005 OSEK ISO
+   Shi JQ, 2012, IEEE INT C ENG COMP, P293, DOI 10.1109/ICECCS.2012.27
+   Tigori KTG, 2017, ACM T EMBED COMPUT S, V16, DOI 10.1145/3015777
+   TOPPERS Project, TOPPERS PROJECT TOYO
+   Vu DH, 2016, 2016 10TH INTERNATIONAL SYMPOSIUM ON THEORETICAL ASPECTS OF SOFTWARE ENGINEERING (TASE), P81, DOI 10.1109/TASE.2016.18
+   Waszniowski L, 2008, REAL-TIME SYST, V38, P39, DOI 10.1007/s11241-007-9036-z
+   Yanhong Huang, 2011, Proceedings of the 2011 IEEE 5th International Symposium on Theoretical Aspects of Software Engineering (TASE 2011), P142, DOI 10.1109/TASE.2011.11
+   Zhang HT, 2018, SOFTW TEST VERIF REL, V28, DOI 10.1002/stvr.1662
+   Zhang HT, 2015, IEICE T INF SYST, VE98D, P1765, DOI 10.1587/transinf.2015EDP7043
+   Zhang HT, 2013, ASIA PAC SOFWR ENG, P307, DOI 10.1109/APSEC.2013.49
+NR 31
+TC 1
+Z9 1
+U1 5
+U2 5
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD APR
+PY 2024
+VL 26
+IS 2
+BP 229
+EP 245
+DI 10.1007/s10009-024-00743-4
+EA FEB 2024
+PG 17
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LY8F3
+UT WOS:001168928300003
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Hampus, A
+   Nyberg, M
+AF Hampus, Anton
+   Nyberg, Mattias
+TI Formally verifying decompositions of stochastic specifications
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Specification theory; Refinement; Contracts; Automata
+ID SEMANTICS; AUTOMATA; SYSTEMS; DESIGN
+AB According to the principles of compositional verification, verifying that lower-level components satisfy their specification ensures that the whole system satisfies its top-level specification. The key step is to ensure that the lower-level specifications constitute a correct decomposition of the top-level specification. In a non-stochastic context, such decomposition can be analyzed using techniques of theorem proving. In industrial applications, especially in safety-critical systems, specifications are often of stochastic nature, for example, giving a bound on the probability that a system failure will occur before a given time. A decomposition of such a specification requires techniques beyond traditional theorem proving. The first contribution of the paper is a theoretical framework that allows the representation of, and reasoning about, stochastic and timed behavior of systems as well as specifications for such behavior. The framework is based on traces that describe the continuous-time evolution of a system, and specifications are formulated using timed automata combined with probabilistic acceptance conditions. The second contribution is a novel approach to verifying decompositions of such specifications by reducing the problem to checking emptiness of the solution space for a system of linear inequalities.
+C1 [Hampus, Anton; Nyberg, Mattias] KTH Royal Inst Sweden, Stockholm, Sweden.
+   [Nyberg, Mattias] Scania, Sodertalje, Sweden.
+C3 Scania
+RP Hampus, A (corresponding author), KTH Royal Inst Sweden, Stockholm, Sweden.
+EM ahampus@kth.se; mattias.nyberg@scania.com
+FU Royal Institute of Technology; Vinnova FFI, Sweden
+FX Supported by Vinnova FFI, Sweden, through the SafeDim project.
+CR ALUR R, 1994, THEOR COMPUT SCI, V126, P183, DOI 10.1016/0304-3975(94)90010-8
+   Alur R., 1999, Computer Aided Verification. 11th International Conference, CAV'99. Proceedings (Lecture Notes in Computer Science Vol.1633), P8
+   ALUR R, 1990, LECT NOTES COMPUT SC, V443, P322, DOI 10.1007/BFb0032042
+   Alur R, 1996, J ACM, V43, P116, DOI 10.1145/227595.227602
+   [Anonymous], 2018, 26262 ISO
+   [Anonymous], 2000, ACM Trans. Comput. Logic, DOI DOI 10.1145/343369.343402
+   [Anonymous], 2021, 21434 ISO
+   Aziz Adnan, 1996, Computer Aided Verification (Lecture Notes in Computer Science, P269, DOI [DOI 10.1007/3-540-61474-575, 10.1007/3-540-61474-5_75, DOI 10.1007/3-540-61474-5_75, DOI 10.1007/3-540-61474-5]
+   Baier C, 2005, INFORM COMPUT, V200, P149, DOI 10.1016/j.ic.2005.03.001
+   Ben-Gal I., 2008, Encyclopedia of statistics in quality and reliability, V1, DOI DOI 10.1002/9780470061572.EQR089
+   Bengtsson J, 2004, LECT NOTES COMPUT SC, V3098, P87, DOI 10.1007/978-3-540-27755-2_3
+   Benveniste A, 2008, LECT NOTES COMPUT SC, V5382, P200, DOI 10.1007/978-3-540-92188-2_9
+   Caillaud Benoit, 2010, Proceedings of the 2010 Seventh International Conference on the Quantitative Evaluation of Systems (QEST 2010), P123, DOI 10.1109/QEST.2010.23
+   Caleiro C, 2017, ELECTRON NOTES THEOR, V332, P39, DOI 10.1016/j.entcs.2017.04.004
+   Clarke E. M., 1989, Logic at Botik '89. Symposium on Logical Foundations of Computer Science. Proceedings, P81
+   Cuoq Pascal, 2012, Software Engineering and Formal Methods. Proceedings of the 10th International Conference, SEFM 2012, P233, DOI 10.1007/978-3-642-33826-7_16
+   Dantzig G. B., 1990, Origins of the Simplex Method." A History of Scientific Computing, P141, DOI DOI 10.1145/87252.88081
+   David A, 2010, HSSC 10: PROCEEDINGS OF THE 13TH ACM INTERNATIONAL CONFERENCE ON HYBRID SYSTEMS: COMPUTATION AND CONTROL, P91
+   de Moura L, 2008, LECT NOTES COMPUT SC, V4963, P337, DOI 10.1007/978-3-540-78800-3_24
+   de Roever WP, 1998, LECT NOTES COMPUT SC, V1536, P1, DOI 10.1007/3-540-49213-5_1
+   Delahaye B, 2011, LECT NOTES COMPUT SC, V6538, P324, DOI 10.1007/978-3-642-18275-4_23
+   Delahaye B, 2011, FORM METHOD SYST DES, V38, P1, DOI 10.1007/s10703-010-0107-8
+   Donatelli S, 2009, IEEE T SOFTWARE ENG, V35, P224, DOI 10.1109/TSE.2008.108
+   Gössler G, 2012, FORM METHOD SYST DES, V41, P211, DOI 10.1007/s10703-012-0162-4
+   Grunske L, 2008, ICSE'08 PROCEEDINGS OF THE THIRTIETH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, P31, DOI 10.1145/1368088.1368094
+   Hampus A, 2022, LECT NOTES COMPUT SC, V13487, P193, DOI 10.1007/978-3-031-15008-1_13
+   Hansen P, 2000, HANDBOOK OF DEFEASIBLE REASONING AND UNCERTAINTY MANAGEMENT SYSTEMS, VOL 5, P321
+   Heymann M, 2005, IEEE T AUTOMAT CONTR, V50, P376, DOI 10.1109/TAC.2005.843874
+   JONSSON B, 1991, SIXTH ANNUAL IEEE SYMPOSIUM ON LOGIC IN COMPUTER SCIENCE, P266
+   Jonsson B, 2002, THEOR COMPUT SCI, V282, P33, DOI 10.1016/S0304-3975(01)00044-5
+   Kern C., 1999, ACM Transactions on Design Automation of Electronic Systems, V4, P123, DOI 10.1145/307988.307989
+   Koller D., 2009, PROBABILISTIC GRAPHI
+   Lanotte R, 2007, FORM ASP COMPUT, V19, P93, DOI 10.1007/s00165-006-0015-2
+   Mereacre A., 2011, LOG METHODS COMPUT S, V7
+   MEYER B, 1992, COMPUTER, V25, P40, DOI 10.1109/2.161279
+   Nash JC, 2000, COMPUT SCI ENG, V2, P29, DOI 10.1109/5992.814654
+   Nuzzo P, 2019, ACM T EMBED COMPUT S, V18, DOI 10.1145/3243216
+   Nyberg Mattias, 2020, Leveraging Applications of Formal Methods, Verification and Validation. Applications. 9th International Symposium on Leveraging Applications of Formal Methods, ISoLA 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12478), P348, DOI 10.1007/978-3-030-61467-6_22
+   optimizer.appspot, LINEAR OPTIMIZATION
+   Paolieri M, 2016, IEEE T SOFTWARE ENG, V42, P153, DOI 10.1109/TSE.2015.2468717
+   Resnick S.I., 1999, PROBABILITY PATH
+   Segala R, 1994, LECT NOTES COMPUT SC, V836, P481
+   Slind K, 2008, LECT NOTES COMPUT SC, V5170, P28, DOI 10.1007/978-3-540-71067-7_6
+   VARDI MY, 1994, INFORM COMPUT, V115, P1, DOI 10.1006/inco.1994.1092
+   Westman J, 2018, FORM METHOD SYST DES, V52, P147, DOI 10.1007/s10703-017-0294-7
+NR 45
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD APR
+PY 2024
+VL 26
+IS 2
+BP 207
+EP 228
+DI 10.1007/s10009-024-00742-5
+EA FEB 2024
+PG 22
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LY8F3
+UT WOS:001168918400001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Raschke, A
+   Mery, D
+AF Raschke, Alexander
+   Mery, Dominique
+TI An automotive case study
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+C1 [Raschke, Alexander] Ulm Univ, Inst Software Engn & Programming Languages, Ulm, Germany.
+   [Mery, Dominique] Univ Lorraine, LORIA, Nancy, France.
+C3 Ulm University; Universite de Lorraine
+RP Raschke, A (corresponding author), Ulm Univ, Inst Software Engn & Programming Languages, Ulm, Germany.
+EM alexander.raschke@uni-ulm.de; dominique.mery@loria.fr
+FU Universitt Ulm (1055)
+FX We want to thank the authors for their patience during the long time it
+   took to produce this special issue. We would also like to thank the
+   reviewers for their willingness to volunteer their time for the review,
+   especially during the challenging pandemic period. Special thanks also
+   go to Frank Houdek, who sacrificed a lot of his free time to patiently
+   answer the many questions regarding the requirements document in detail.
+CR Arcaini P., JOURNEY ASMETA REQUI
+   Boniol F., 2014, CCIS, P1, DOI [10.1007/978-3-319-07512-9_1, DOI 10.1007/978-3-319-07512-9]
+   Butler M, 2020, INT J SOFTW TOOLS TE, V22, P249, DOI 10.1007/s10009-020-00562-3
+   Cunha A., VALIDATING MULTIPLE
+   Houdek Frank, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P281, DOI 10.1007/978-3-030-48077-6_24
+   Krings S., VERIFIED LOW LEVEL I
+   Mammar A., EVENT B MODEL AUTOMO
+   Mammar A., MODELING SPEED CONTR
+   Mashkoor A, 2016, LECT NOTES COMPUT SC, V9675, P329, DOI 10.1007/978-3-319-33600-8_29
+   Raschke A., 2020, RIGOROUS STATE BASED, DOI [10.1007/978-3-030-48077-6, DOI 10.1007/978-3-030-48077-6]
+NR 10
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD JUN
+PY 2024
+VL 26
+IS 3
+BP 327
+EP 330
+DI 10.1007/s10009-024-00753-2
+EA MAY 2024
+PG 4
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ8U1
+UT WOS:001227166700001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Filinski, A
+   Larsen, KF
+   Jensen, TP
+AF Filinski, Andrzej
+   Larsen, Ken Friis
+   Jensen, Thomas P.
+TI Axiomatising an information flow logic based on partial equivalence
+   relations
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article; Early Access
+DE Information flow; Formal semantics; Verification; Hoare logic
+ID PROOFS
+AB We present a relational program logic for reasoning about information flow properties formalised in an assertion language based on partial equivalence relations. We define and prove the soundness of the logic, a proof technique for precise, logic-based information flow properties. The logic extends Hoare logic and its unary state predicates to binary PER-based predicates for relating observationally equivalent states. A salient feature of the logic is that it is capable of reasoning about programs that test on secret data in a secure manner.
+C1 [Filinski, Andrzej; Larsen, Ken Friis; Jensen, Thomas P.] Univ Copenhagen, DIKU, Univ Pk, DK-2100 Copenhagen, Denmark.
+   [Jensen, Thomas P.] INRIA, Campus Beaulieu, F-35042 Rennes, France.
+C3 University of Copenhagen; Universite de Rennes; Inria
+RP Filinski, A (corresponding author), Univ Copenhagen, DIKU, Univ Pk, DK-2100 Copenhagen, Denmark.
+EM andrzej@di.ku.dk; kflarsen@di.ku.dk; thomas.jensen@inria.fr
+FU Copenhagen University; France 2030 project [ANR-22-PECY-0005]
+FX Open access funding provided by Copenhagen University. The third author
+   was partially funded by the France 2030 project ANR-22-PECY-0005
+   "Secureval".
+CR Amtoft T, 2004, LECT NOTES COMPUT SC, V3148, P100
+   Amtoft T, 2012, LECT NOTES COMPUT SC, V7215, P369, DOI 10.1007/978-3-642-28641-4_20
+   Amtoft T, 2010, LECT NOTES COMPUT SC, V6012, P43, DOI 10.1007/978-3-642-11957-6_4
+   Amtoft T, 2007, FMSE'07: PROCEEDINGS OF THE 2007 ACM WORKSHOP ON FORMAL METHODS IN SECURITY ENGINEERING, P2
+   Barthe G, 2004, P IEEE CSFW, P100, DOI 10.1109/CSFW.2004.1310735
+   Benton N, 2004, ACM SIGPLAN NOTICES, V39, P14, DOI 10.1145/982962.964003
+   Beringer L, 2007, 20TH IEEE COMPUTER SECURITY FOUNDATIONS SYMPOSIUM (CSFS20), PROCEEDINGS, P233, DOI 10.1109/CSF.2007.30
+   Darvas A, 2005, LECT NOTES COMPUT SC, V3450, P193
+   ebpf, the extended Berkeley Package Filter
+   Eilers M, 2020, ACM T PROGR LANG SYS, V42, DOI 10.1145/3324783
+   Ernst G, 2019, LECT NOTES COMPUT SC, V11562, P208, DOI 10.1007/978-3-030-25543-5_13
+   Giacobazzi R., 2004, SIGPLAN Notices, V39, P186, DOI 10.1145/982962.964017
+   Giacobazzi R, 2010, J LOGIC COMPUT, V20, P449, DOI 10.1093/logcom/exp053
+   HOARE CAR, 1969, COMMUN ACM, V12, P576, DOI 10.1145/363235.363259
+   Hunt S, 2005, LECT NOTES COMPUT SC, V3672, P171
+   Joshi R, 2000, SCI COMPUT PROGRAM, V37, P113, DOI 10.1016/S0167-6423(99)00024-6
+   Murray T, 2018, 2018 3RD IEEE EUROPEAN SYMPOSIUM ON SECURITY AND PRIVACY (EUROS&P 2018), P16, DOI 10.1109/EuroSP.2018.00010
+   Necula GC, 1996, PROCEEDINGS OF THE SECOND SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '96), P229, DOI 10.1145/248155.238781
+   Reynolds JohnC., 1998, Theories of Programming Languages, DOI [10.1017/CBO9780511626364, DOI 10.1017/CBO9780511626364]
+   Sabelfeld A, 2003, IEEE J SEL AREA COMM, V21, P5, DOI 10.1109/JSAC.2002.806121
+   Sabelfeld A., 2001, Higher-Order and Symbolic Computation, V14, P59, DOI 10.1023/A:1011553200337
+   Volpano D., 1996, Journal of Computer Security, V4, P167
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD 2024 JUN 25
+PY 2024
+DI 10.1007/s10009-024-00756-z
+EA JUN 2024
+PG 17
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WH7C6
+UT WOS:001254033900001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Olivieri, L
+   Spoto, F
+AF Olivieri, Luca
+   Spoto, Fausto
+TI Software verification challenges in the blockchain ecosystem
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article; Early Access
+DE Blockchain; Smart contracts; Blockchain-oriented software; Software
+   verification; Program analysis; Automatic verification
+ID SMART CONTRACTS
+AB Blockchain technology has created a new software development context, with its own peculiarities, mainly due to the guarantees that the technology must satisfy, that is, immutability, distributability, and decentralization of data. Its rapid evolution over the last decade implied a lack of adequate verification tools, exposing developers and users to critical vulnerabilities and bugs. This paper clarifies the extent of block chain-oriented software (BoS), that goes well beyond smart contracts. Moreover, it provides an overview of the challenges related to software verification in the blockchain context, encompassing smart contracts, blockchain layers, cross-chain applications, and, more generally, BoS. This study aims to highlight the shortcomings of the state-of-art and of the state-of-practice of software verification in that context and identify, at the same time, new research directions.
+C1 [Olivieri, Luca] CaFoscari Univ Venice, Venice, Italy.
+   [Spoto, Fausto] Univ Verona, Verona, Italy.
+C3 Universita Ca Foscari Venezia; University of Verona
+RP Spoto, F (corresponding author), Univ Verona, Verona, Italy.
+EM luca.olivieri@unive.it; fausto.spoto@univr.it
+OI Spoto, Fausto/0000-0003-2973-0384
+FU Universita degli Studidi Verona within the CRUI-CARE Agreement; SERICS
+   [PE00000014 - CUP H73C2200089001]; IN-EST - PNRR NextGeneration EU
+   [ECS00000043 - CUP H43C22000540006]
+FX Open access funding provided by Universita degli Studidi Verona within
+   the CRUI-CARE Agreement. Work partially supported by SERICS (PE00000014
+   - CUP H73C2200089001) and iN-EST (ECS00000043 - CUP H43C22000540006)
+   funded by PNRR NextGeneration EU.
+CR Aggarwal S, 2021, ADV COMPUT, V121, P211, DOI 10.1016/bs.adcom.2020.08.011
+   Al-Jaroodi J, 2019, IEEE ACCESS, V7, P36500, DOI 10.1109/ACCESS.2019.2903554
+   Allombert V., 2019, 17 INT C HIGH PERFOR, P1, DOI [DOI 10.1109/HPCS48598.2019.9188227, 10.1109/HPCS48598.2019.9188227]
+   Alshaikhli M, 2022, IEEE ACCESS, V10, P844, DOI 10.1109/ACCESS.2021.3138353
+   Androulaki E, 2018, EUROSYS '18: PROCEEDINGS OF THE THIRTEENTH EUROSYS CONFERENCE, DOI 10.1145/3190508.3190538
+   [Anonymous], 2018, MITRE: CVE-2018-10299
+   [Anonymous], 2018, MITRE: CVE-2018-11687
+   [Anonymous], 2020, Tendermint: What is tendermint
+   [Anonymous], 2010, MITRE: CVE-2010-5139
+   Antonopoulos A. M., 2017, Mastering Bitcoin: Programming the open Blockchain
+   Antonopoulos A.M., 2018, Mastering Ethereum: Building Smart Contracts and Dapps
+   Arceri V, 2023, PROCEEDINGS OF THE 12TH ACM SIGPLAN INTERNATIONAL WORKSHOP ON THE STATE OF THE ART IN PROGRAM ANALYSIS, SOAP 2023, P14, DOI 10.1145/3589250.3596141
+   ArcheType, 2024, ABOUT US
+   Atzei N, 2017, LECT NOTES COMPUT SC, V10204, P164, DOI 10.1007/978-3-662-54455-6_8
+   Baralla G, 2019, 2019 IEEE/ACM 2ND INTERNATIONAL WORKSHOP ON EMERGING TRENDS IN SOFTWARE ENGINEERING FOR BLOCKCHAIN (WETSEB 2019), P40, DOI 10.1109/WETSEB.2019.00012
+   Barboni Morena, 2022, 2022 IEEE/ACM 5th International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB), P21, DOI 10.1145/3528226.3528370
+   Barrett C.W., 2018, Handbook of Model Checking, P305, DOI [DOI 10.1007/978-3-319-10575-8_11, DOI 10.1007/978-3-319-10575-811]
+   Bartoletti M, 2024, Arxiv, DOI [arXiv:2404.04129, 10.48550/arXiv.2404.04129, DOI 10.48550/ARXIV.2404.04129]
+   Bonnici V., 2023, Proceedings of the 27th International Database Engineered Applications Symposium. IDEAS 23, P59, DOI [10.1145/3589462.3589501, DOI 10.1145/3589462.3589501]
+   Bosu A, 2019, EMPIR SOFTW ENG, V24, P2636, DOI 10.1007/s10664-019-09708-7
+   Buchman E., 2016, Ph.D. thesis
+   Buro S, 2023, FORM METHOD SYST DES, DOI 10.1007/s10703-022-00405-8
+   Buterin V, 2014, Ethereum: A next-generation smart contract and decentralized application platform
+   Chakraborty P, 2018, PROCEEDINGS OF THE 12TH ACM/IEEE INTERNATIONAL SYMPOSIUM ON EMPIRICAL SOFTWARE ENGINEERING AND MEASUREMENT (ESEM 2018), DOI 10.1145/3239235.3240298
+   Chhetri TR, 2022, SENSORS-BASEL, V22, DOI 10.3390/s22072763
+   Clarke EM, 1999, MODEL CHECKING, P1
+   CosmWasm, 2024, CosmWasm book
+   Destefanis G, 2018, 2018 IEEE 1ST INTERNATIONAL WORKSHOP ON BLOCKCHAIN ORIENTED SOFTWARE ENGINEERING (IWBOSE), P19, DOI 10.1109/IWBOSE.2018.8327567
+   docs.openzeppelin, OpenZeppelin: Proxy upgrade pattern
+   European Parliament and the Council, Document 02016R0679-20160504
+   European Parliament and the Council, 2023, Document 32023R2854. PE/49/2023/REV/1 OJ L, 2023/2854
+   Fabric H., 2023, Upgrade a chaincode
+   Ferrara Pietro, 2020, Software Verification. 12th International Conference, VSTTE 2020 and 13th International Workshop, NSV 2020. Revised Selected Papers. Lecture Notes in Computer Science (LNCS 12549), P3, DOI 10.1007/978-3-030-63618-0_1
+   Ferrara Pietro, 2018, Privacy Technologies and Policy. 6th Annual Privacy Forum (APF 2018). Revised Selected Papers: Lecture Notes in Computer Science (LNCS 11079), P63, DOI 10.1007/978-3-030-02547-2_4
+   Ferrara P., 2021, Proceedings of the 10th ACM SIGPLAN International Workshop on the State of the Art in Program Analysis. Soap 2021, P1, DOI [10.1145/3460946.3464316, DOI 10.1145/3460946.3464316]
+   Ferrara P., 2018, CEUR Workshop Proceedings Proceedings of ITASEC 18, P1
+   Ferrara P, 2021, INT J SOFTW ENG KNOW, V31, P973, DOI 10.1142/S0218194021500303
+   Fotiou N, 2018, EUR CONF NETW COMMUN, P256, DOI 10.1109/EuCNC.2018.8443212
+   Foundation S.D., Intro to stellar
+   Fowler M., 2006, Continuous Integration
+   Gallier JH, 2015, Logic for Computer Science: Foundations of Automatic Theorem Proving
+   Genet T, 2020, PROCEEDINGS OF THE 17TH INTERNATIONAL JOINT CONFERENCE ON E-BUSINESS AND TELECOMMUNICATIONS (SECRYPT), VOL 1, P39, DOI 10.5220/0009564100390051
+   Goodman L.M., 2014, Tezos whitepaper
+   Guo HQ, 2022, BLOCKCHAIN-RES APPL, V3, DOI 10.1016/j.bcra.2022.100067
+   Haque AKMB, 2021, IEEE ACCESS, V9, P50593, DOI 10.1109/ACCESS.2021.3069877
+   Hassan S, 2021, INTERNET POLICY REV, V10, DOI 10.14763/2021.2.1556
+   Hewa T, 2021, J NETW COMPUT APPL, V177, DOI 10.1016/j.jnca.2020.102857
+   Hhnle R., 2019, Computing and Software Science: State of the Art and Perspectives, P345, DOI [10.1007/978-3-319-91908-9_18, DOI 10.1007/978-3-319-91908-918, 10.1007/978-3-319-91908-918]
+   HOARE CAR, 1969, COMMUN ACM, V12, P576, DOI 10.1145/363235.363259
+   hyperledger-fabric.readthedocs.io, Hyperledger: Hyperledger fabric documentation
+   Interchain Foundation, 2024, Cosmos network
+   IOTA, 2024, Wasm VM for ISC
+   IOTA, 2024, EVM smart contracts
+   Islam Md Rafiqul, 2021, 2021 IEEE 12th Control and System Graduate Research Colloquium (ICSGRC), P227, DOI 10.1109/ICSGRC53186.2021.9515276
+   Iuon-Chang Lin, 2017, International Journal of Network Security, V19, P653, DOI 10.6633/IJNS.201709.19(5).01
+   Julien Bertrane J., 2011, SIGSOFT Softw. Eng. Notes, V36, P1, DOI [10.1145/1921532.1921553, DOI 10.1145/1921532.1921553]
+   Kar AK, 2021, TELEMAT INFORM, V58, DOI 10.1016/j.tele.2020.101532
+   Kawahara R, 2020, 2020 IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN AND CRYPTOCURRENCY (IEEE ICBC), DOI 10.1109/icbc48266.2020.9169472
+   Khan SN, 2021, PEER PEER NETW APPL, V14, P2901, DOI 10.1007/s12083-021-01127-0
+   Kiayias A, 2020, LECT NOTES COMPUT SC, V12059, P505, DOI 10.1007/978-3-030-51280-4_27
+   Koul R, 2018, 2018 3RD INTERNATIONAL CONFERENCE FOR CONVERGENCE IN TECHNOLOGY (I2CT)
+   Krichen M., 2022, 2022 15th International Conference on Security of Information and Networks (SIN), P01, DOI [10.1109/SIN56466.2022.9970534, DOI 10.1109/SIN56466.2022.9970534]
+   LAMPORT L, 1982, ACM T PROGR LANG SYS, V4, P382, DOI 10.1145/357172.357176
+   Lantz L., 2020, Mastering Blockchain: Unlocking the Power of Cryptocurrencies, Smart Contracts, and Decentralized Applications
+   LIGO, 2024, LIGO documentation
+   Liu J, 2019, IEEE ACCESS, V7, P77894, DOI 10.1109/ACCESS.2019.2921624
+   Lv Z, 2022, INT J DISTRIB SENS N, V18, DOI 10.1177/15501477211059945
+   Magazzeni D, 2017, COMPUTER, V50, P50, DOI 10.1109/MC.2017.3571045
+   Mahdi H., 2020, Baltica, V33, P101
+   Marchesi L., 2020, arXiv
+   Marchesi L, 2020, BLOCKCHAIN-RES APPL, V1, DOI 10.1016/j.bcra.2020.100002
+   Marijan D, 2022, COMPUT SCI REV, V45, DOI 10.1016/j.cosrev.2022.100492
+   Min T, 2019, 2019 IEEE GAMES, ENTERTAINMENT, MEDIA CONFERENCE (GEM), DOI 10.1109/gem.2019.8811555
+   Min T, 2019, IEEE CONF COMPU INTE
+   Molina F, 2021, 2021 IEEE/ACM 4TH INTERNATIONAL WORKSHOP ON EMERGING TRENDS IN SOFTWARE ENGINEERING FOR BLOCKCHAIN (WETSEB 2021), P1, DOI 10.1109/WETSEB52558.2021.00008
+   Mudge N., ERC-2535: diamonds, multi-facet proxy
+   Mühle A, 2018, COMPUT SCI REV, V30, P80, DOI 10.1016/j.cosrev.2018.10.002
+   Murray Y, 2019, INT CONF NEW TECHNOL, DOI 10.1109/ntms.2019.8763832
+   Nakamoto S., 2008, Bitcoin: A peer-to-peer electronic cash system
+   Negrini L., 2023, Proceedings of 1st Challenges of Software Verification, DOI [10.1007/978-981-19-9601-62, DOI 10.1007/978-981-19-9601-62]
+   Nomadic Labs, 2023, Michelson: the language of smart contracts in Tezos
+   Olivieri Luca, 2022, SOAP 2022: Proceedings of the 11th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis, P23, DOI 10.1145/3520313.3534658
+   Olivieri L., 2024, 5th Workshop on Artificial Intelligence and Formal Verification, Logic, Automata, and Synthesis (OVERLAY 2023), P61
+   Olivieri L., 2023, 37th European Conference on Object-Oriented Programming (ECOOP 2023), P1, DOI [10.4230/LIPIcs.ECOOP.2023.23, DOI 10.4230/LIPICS.ECOOP.2023.23]
+   Olivieri L., 2023, 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and Other Affiliated Events (PerCom Workshops), P80, DOI [10.1109/PerComWorkshops56833.2023.10150247, DOI 10.1109/PERCOMWORKSHOPS56833.2023.10150247]
+   Olivieri L., 2024, Distrib. Ledger Technol, DOI DOI 10.1145/3643567
+   Olivieri L, 2021, LECT NOTES COMPUT SC, V12676, P333, DOI 10.1007/978-3-662-63958-0_28
+   Otoni R, 2023, ACM T PRIV SECUR, V26, DOI 10.1145/3564699
+   Parity Technologies, 2024, Ink! documentation
+   Patrick C., 2021, Principles of Abstract Interpretation
+   Piscitello D., 1993, OPEN SYSTEMS NETWORK
+   Popper N., 2016, The New York Times
+   Porru S, 2017, PROC IEEE ACM INT C, P169, DOI 10.1109/ICSE-C.2017.142
+   Rival Xavier, 2020, Introduction to static analysis: an abstract interpretation perspective
+   Robinson P, 2021, COMPUT NETW, V200, DOI 10.1016/j.comnet.2021.108488
+   Saberi S, 2019, INT J PROD RES, V57, P2117, DOI 10.1080/00207543.2018.1533261
+   Schneidewind C, 2020, CCS '20: PROCEEDINGS OF THE 2020 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P621, DOI 10.1145/3372297.3417250
+   Singh A, 2020, COMPUT SECUR, V88, DOI 10.1016/j.cose.2019.101654
+   SmartPy, 2024, ABOUT US
+   Tauqeer A, 2022, INFORMATION, V13, DOI 10.3390/info13100447
+   Thin WYMM, 2018, IEEE INT C ENG COMP, P197, DOI 10.1109/ICECCS2018.2018.00031
+   Web3 Foundation, 2024, Polkadot network
+   Wesley S, 2022, LECT NOTES COMPUT SC, V13182, P425, DOI 10.1007/978-3-030-94583-1_21
+   Wood G., 2014, Ethereum Project Yellow Paper, V151, P1, DOI DOI 10.1017/CBO9781107415324.004
+   World Wide Web Consortium, 2024, WebAssembly overview
+   Yamashita K, 2019, 2019 IEEE 2ND INTERNATIONAL WORKSHOP ON BLOCKCHAIN ORIENTED SOFTWARE ENGINEERING (IWBOSE), P1, DOI [10.1109/IWBOSE.2019.8666486, 10.1109/iwbose.2019.8666486]
+   Yoo J, 2019, 2019 IEEE 2ND INTERNATIONAL WORKSHOP ON BLOCKCHAIN ORIENTED SOFTWARE ENGINEERING (IWBOSE), P11, DOI [10.1109/iwbose.2019.8666514, 10.1109/IWBOSE.2019.8666514]
+   Zhang R, 2019, ACM COMPUT SURV, V52, DOI 10.1145/3316481
+   Zheng ZB, 2020, FUTURE GENER COMP SY, V105, P475, DOI 10.1016/j.future.2019.12.019
+   Zou WQ, 2021, IEEE T SOFTWARE ENG, V47, P2084, DOI 10.1109/TSE.2019.2942301
+NR 110
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD 2024 JUL 12
+PY 2024
+DI 10.1007/s10009-024-00758-x
+EA JUL 2024
+PG 14
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YR0B0
+UT WOS:001270081000001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Mammar, A
+   Frappier, M
+   Laleau, R
+AF Mammar, Amel
+   Frappier, Marc
+   Laleau, Regine
+TI An Event-B model of an automotive adaptive exterior light system
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Adaptive exterior light system; Event-B method; Refinement; Verification
+AB This paper introduces an Event-B formal model of the adaptive exterior light system for cars, a case study proposed in the context of the ABZ2020 conference. The system describes the different provided lights and the conditions under which they are switched on/off in order to improve the visibility of the driver without dazzling the oncoming ones. The system can be viewed as a lights controller that reads different information form the available sensors (key state, exterior luminosity, etc.) and takes the adequate actions by acting on the actuators of the lights in order to ensure a good visibility for the driver according to the information read. Our model is built using stepwise refinement with the Event-B method. We consider all the features of the case study, all proof obligations have been discharged using the Rodin provers. Our model has been validated using ProB by applying the different provided scenarios. This validation has permitted us to point out and correct some mistakes, ambiguities and oversights in the first versions of the case study description document.
+C1 [Mammar, Amel] Telecom SudParis, Inst Polytech Paris, SAMOVAR, Evry, France.
+   [Frappier, Marc] Univ Sherbrooke, Fac Sci, Dept Informat, GRIC, Quebec City, PQ, Canada.
+   [Laleau, Regine] Univ Paris Est, LACL, UPEC, IUT Senart Fontainebleau, Creteil, France.
+C3 IMT - Institut Mines-Telecom; Institut Polytechnique de Paris; Telecom
+   SudParis; University of Sherbrooke; Universite
+   Paris-Est-Creteil-Val-de-Marne (UPEC)
+RP Mammar, A (corresponding author), Telecom SudParis, Inst Polytech Paris, SAMOVAR, Evry, France.
+EM amel.mammar@telecom-SudParis.eu
+FU ANR projet DISCCONT; NSERC (Natural Sciences and Engineering Research
+   Council of Canada)
+FX This work was supported in part by the ANR projet DISCCONT and NSERC
+   (Natural Sciences and Engineering Research Council of Canada).
+CR Abrial J.R., 1996, B BOOK ASSIGNING PRO, DOI DOI 10.1017/CBO9780511624162
+   Abrial J.-R, 2010, Modeling in Event-B: System and Software Engineering, DOI DOI 10.1017/CBO9781139195881
+   [Anonymous], 2006, Software abstractions: Logic, language, and analysis
+   Arcaini Paolo, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P302, DOI 10.1007/978-3-030-48077-6_25
+   Borger Egon, 2003, Abstract State Machines: A Method for High-Level System Design and Analysis
+   Clarke E, 2004, LECT NOTES COMPUT SC, V2988, P168, DOI 10.1007/978-3-540-24730-2_15
+   Clarke EM, 2008, LECT NOTES COMPUT SC, V5000, P196
+   Clearsy: Prouveur Interactif, MANUEL REFERENCE VER
+   Cunha Alcino, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P318, DOI 10.1007/978-3-030-48077-6_26
+   Hallerstede S, 2011, FORM ASP COMPUT, V23, P133, DOI 10.1007/s00165-009-0138-3
+   Houdek F., 2019, ADAPTIVE EXTERIOR LI
+   Iliasov A, 2010, LECT NOTES COMPUT SC, V5977, P174, DOI 10.1007/978-3-642-11811-1_14
+   Krings Sebastian, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P382, DOI 10.1007/978-3-030-48077-6_30
+   Leuschel Michael, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P335, DOI 10.1007/978-3-030-48077-6_27
+   Leuschel Michael, 2008, International Journal on Software Tools for Technology Transfer, V10, P185, DOI 10.1007/s10009-007-0063-9
+   Macedo N, 2016, FSE'16: PROCEEDINGS OF THE 2016 24TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON FOUNDATIONS OF SOFTWARE ENGINEERING, P373, DOI 10.1145/2950290.2950318
+   Mammar Amel, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P351, DOI 10.1007/978-3-030-48077-6_28
+   Mammar Amel, 2018, Abstract State Machines, Alloy, B, TLA, VDM, and Z. 6th International Conference, ABZ 2018. Proceedings: LNCS 10817, P353, DOI 10.1007/978-3-319-91271-4_24
+   Mammar A., 2015, MODELING LANDING GEA
+   Mammar A., 2014, CCIS, P80
+   Mammar A., 2018, EVENT B MODEL HYBRID
+   Mammar A., 2022, EVENT B MODEL AUTOMO
+   Mammar A, 2020, INT J SOFTW TOOLS TE, V22, P333, DOI 10.1007/s10009-019-00543-1
+   Mammar A, 2017, INT J SOFTW TOOLS TE, V19, P167, DOI 10.1007/s10009-015-0391-0
+   Mammar A, 2015, FORM ASP COMPUT, V27, P335, DOI 10.1007/s00165-014-0323-x
+   Marwedel P., 2021, EMBEDDED SYSTEMS FDN
+   PARNAS DL, 1995, SCI COMPUT PROGRAM, V25, P41, DOI 10.1016/0167-6423(95)96871-J
+   Pnueli A., 1977, 18th Annual Symposium on Foundations of Computer Science, P46, DOI 10.1109/SFCS.1977.32
+   Silva R, 2011, SOFTWARE PRACT EXPER, V41, P199, DOI 10.1002/spe.1002
+NR 29
+TC 0
+Z9 0
+U1 2
+U2 2
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD JUN
+PY 2024
+VL 26
+IS 3
+BP 331
+EP 346
+DI 10.1007/s10009-024-00748-z
+EA MAY 2024
+PG 16
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ8U1
+UT WOS:001222359200001
+DA 2024-08-05
+ER
+
+PT J
+AU Cunha, A
+   Macedo, N
+   Liu, C
+AF Cunha, Alcino
+   Macedo, Nuno
+   Liu, Chong
+TI Validating multiple variants of an automotive light system with Alloy 6
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Formal specification; Model checking; Feature-oriented design
+AB This paper reports on the development and validation of a formal model for an automotive adaptive exterior lights system (ELS) with multiple variants in Alloy 6, which is the most recent version of the Alloy lightweight formal specification language that supports mutable relations and temporal logic. We explore different strategies to address variability, one in pure Alloy and another through an annotative language extension. We then show how Alloy and its Analyzer can be used to validate systems of this nature, namely by checking that the reference scenarios are admissible, and to automatically verify whether the established requirements hold. A prototype was developed to translate the provided validation sequences into Alloy and back to further automate the validation process. The resulting ELS model was validated against the provided validation sequences and verified for most of requirements for all variants.
+C1 [Cunha, Alcino; Macedo, Nuno; Liu, Chong] INESC TEC, Porto, Portugal.
+   [Cunha, Alcino; Liu, Chong] Univ Minho, Braga, Portugal.
+   [Macedo, Nuno] Univ Porto, Fac Engn, Porto, Portugal.
+C3 INESC TEC; Universidade do Minho; Universidade do Porto
+RP Cunha, A (corresponding author), INESC TEC, Porto, Portugal.
+FU Universidade do Minho
+FX The authors would like to thank Frank Houdek for helping clarifying the
+   requirements.
+CR Apel S., 2011, 2011 26th IEEE/ACM International Conference on Automated Software Engineering, P372, DOI 10.1109/ASE.2011.6100075
+   Apel Sven, 2010, Proceedings of the 2010 IEEE 21st International Symposium on Software Reliability Engineering (ISSRE 2010), P161, DOI 10.1109/ISSRE.2010.11
+   Arcaini Paolo, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P302, DOI 10.1007/978-3-030-48077-6_25
+   Brunel Julien, 2018, Abstract State Machines, Alloy, B, TLA, VDM, and Z. 6th International Conference, ABZ 2018. Proceedings: LNCS 10817, P397, DOI 10.1007/978-3-319-91271-4_30
+   Brunel J, 2019, ELECTRON P THEOR COM, P63, DOI 10.4204/EPTCS.310.7
+   Brunel J, 2018, IEEE INT CONF AUTOM, P884, DOI 10.1145/3238147.3240475
+   Chong Liu, 2019, Dependable Software Engineering. Theories, Tools, and Applications. 5th International Symposium, SETTA 2019. Proceedings. Lecture Notes in Computer Science (LNCS 11951), P38, DOI 10.1007/978-3-030-35540-1_3
+   Couto R, 2018, ELECTRON P THEOR COM, P37, DOI 10.4204/EPTCS.284.4
+   Cunha Alcino, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P318, DOI 10.1007/978-3-030-48077-6_26
+   Cunha A, 2020, INT J SOFTW TOOLS TE, V22, P281, DOI 10.1007/s10009-019-00540-4
+   Dyer Tristan, 2021, Rigorous State-Based Methods. 8th International Conference, ABZ 2021. Proceedings. Lecture Notes in Computer Science (LNCS 12709), P99, DOI 10.1007/978-3-030-77543-8_7
+   Feigenspan J, 2013, EMPIR SOFTW ENG, V18, P699, DOI 10.1007/s10664-012-9208-x
+   Gammaitoni L, 2014, LECT NOTES COMPUT SC, V8477, P324, DOI 10.1007/978-3-662-43652-3_33
+   Houdek Frank, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P281, DOI 10.1007/978-3-030-48077-6_24
+   Houdek F., 2019, VALIDATION SEQUENCES, V8
+   Houdek F., 2019, ADAPTIVE EXTERIOR LI
+   Jackson D, 2012, SOFTWARE ABSTRACTIONS: LOGIC, LANGUAGE, AND ANALYSIS, P1
+   Kästner C, 2008, ICSE'08 PROCEEDINGS OF THE THIRTIETH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, P311, DOI 10.1145/1368088.1368131
+   Krings Sebastian, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P382, DOI 10.1007/978-3-030-48077-6_30
+   Leuschel Michael, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P335, DOI 10.1007/978-3-030-48077-6_27
+   Macedo N, 2022, J AUTOM REASONING, V66, P861, DOI 10.1007/s10817-022-09642-2
+   Macedo N, 2016, FSE'16: PROCEEDINGS OF THE 2016 24TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON FOUNDATIONS OF SOFTWARE ENGINEERING, P373, DOI 10.1145/2950290.2950318
+   Mammar Amel, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P367, DOI 10.1007/978-3-030-48077-6_29
+   Mammar Amel, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P351, DOI 10.1007/978-3-030-48077-6_28
+   Post Hendrik, 2008, 2008 23rd IEEE/ACM International Conference on Automated Software Engineering, P347, DOI 10.1109/ASE.2008.45
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD JUN
+PY 2024
+VL 26
+IS 3
+BP 365
+EP 377
+DI 10.1007/s10009-024-00752-3
+EA MAY 2024
+PG 13
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ8U1
+UT WOS:001230061200001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Huang, ZX
+   Dutta, S
+   Misailovic, S
+AF Huang, Zixin
+   Dutta, Saikat
+   Misailovic, Sasa
+TI Debugging convergence problems in probabilistic programs via program
+   representation learning with SixthSense
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Probabilistic programming; Debugging; Machine learning
+ID GENERATION
+AB Probabilistic programming aims to open the power of Bayesian reasoning to software developers and scientists, but identification of problems during inference and debugging are left entirely to the developers and typically require significant statistical expertise. A common class of problems when writing probabilistic programs is the lack of convergence of the probabilistic programs to their posterior distributions.We present SixthSense, a novel approach for predicting probabilistic program convergence ahead of run and its application to debugging convergence problems in probabilistic programs. SixthSense's training algorithm learns a classifier that can predict whether a previously unseen probabilistic program will converge. It encodes the syntax of a probabilistic program as motifs - fragments of the syntactic program paths. The decisions of the classifier are interpretable and can be used to suggest the program features that contributed significantly to program convergence or non-convergence. We also present an algorithm for augmenting a set of training probabilistic programs that uses guided mutation.We evaluated SixthSense on a broad range of widely used probabilistic programs. Our results show that SixthSense features are effective in predicting convergence of programs for given inference algorithms. SixthSense obtained accuracy of over 78% for predicting convergence, substantially above the state-of-the-art techniques for predicting program properties Code2Vec and Code2Seq. We show the ability of SixthSense to guide the debugging of convergence problems, which pinpoints the causes of non-convergence significantly better by Stan's built-in warnings.
+C1 [Huang, Zixin; Misailovic, Sasa] Univ Illinois, Dept Comp Sci, 201 North Goodwin Ave, Urbana, IL 61801 USA.
+   [Dutta, Saikat] Cornell Univ, Dept Comp Sci, 402 Gates Hall, Ithaca, NY 14853 USA.
+C3 University of Illinois System; University of Illinois Urbana-Champaign;
+   Cornell University
+RP Huang, ZX (corresponding author), Univ Illinois, Dept Comp Sci, 201 North Goodwin Ave, Urbana, IL 61801 USA.
+EM zixinh2@illinois.edu; saikatd@cornell.edu; misailo@illinois.edu
+FU NSF [CCF-1846354, CCF-1956374, CCF-2008883, CCF-2217144]; USDA NIFA
+   Grant [NIFA-2024827]; Facebook; Microsoft Azure Credits; C3.ai DTI
+   research award
+FX This research was supported in part by NSF Grants No. CCF-1846354,
+   CCF-1956374, CCF-2008883, CCF-2217144, USDA NIFA Grant No. NIFA-2024827,
+   a gift from Facebook, a Facebook Graduate Fellowship, Microsoft Azure
+   Credits, and C3.ai DTI research award. We would also like to thank Prof.
+   Jian Peng for the useful comments on an earlier draft.
+CR Allamanis M, 2021, ADV NEUR IN, V34
+   Allamanis M, 2016, PR MACH LEARN RES, V48
+   Alon U., 2019, P INT C LEARN REPR I
+   Alon U, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3290353
+   Andoni A, 2008, COMMUN ACM, V51, P117, DOI 10.1145/1327452.1327494
+   [Anonymous], 2019, MODELING CENSORED TI
+   [Anonymous], 2016, STAN USING TARGET SY
+   [Anonymous], 2011, PRIOR CHOICE RECOMME
+   [Anonymous], 2019, INFERENCE CASE STUDI
+   [Anonymous], 2018, STAN EXAMPLE MODELS
+   [Anonymous], 2020, TREE INTERPRETER PAC
+   Balunovic M, 2018, ADV NEUR IN, V31
+   Bingham E., 2001, KDD-2001. Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P245, DOI 10.1145/502512.502546
+   Carpenter B., 2016, J STAT SOFTW, V20
+   ChatGPT, 2022, OPTIMIZING LANGUAGE
+   Chen Mark, 2021, arXiv
+   Claret Guillaume., 2013, Foundations of Software Engineering, P92, DOI DOI 10.1145/2491411.2491423
+   Cubuk ED, 2019, PROC CVPR IEEE, P113, DOI 10.1109/CVPR.2019.00020
+   Dalal N, 2005, PROC CVPR IEEE, P886, DOI 10.1109/cvpr.2005.177
+   Davis J, 2006, Proceedings of the 23rd international conference on Machine learning, P233, DOI [10.1145/1143844.1143874, DOI 10.1145/1143844.1143874]
+   Deng B., 2017, ARXIV
+   Dutta Saikat, 2020, ISSTA '20: Proceedings of the 29th ACM SIGSOFT International Symposium on Software Testing and Analysis, P211, DOI 10.1145/3395363.3397366
+   Dutta S., 2022, ICST
+   Dutta S., 2018, ARXIV
+   Dutta S, 2022, LECT NOTES COMPUT SC, V13241, P123, DOI 10.1007/978-3-030-99429-7_7
+   Dutta S, 2021, ISSTA '21: PROCEEDINGS OF THE 30TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON SOFTWARE TESTING AND ANALYSIS, P413, DOI 10.1145/3460319.3464844
+   Dutta S, 2021, PROCEEDINGS OF THE 29TH ACM JOINT MEETING ON EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING (ESEC/FSE '21), P603, DOI 10.1145/3468264.3468615
+   Dutta S, 2019, ESEC/FSE'2019: PROCEEDINGS OF THE 2019 27TH ACM JOINT MEETING ON EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING, P729, DOI 10.1145/3338906.3338972
+   Dutta S, 2018, ESEC/FSE'18: PROCEEDINGS OF THE 2018 26TH ACM JOINT MEETING ON EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING, P574, DOI 10.1145/3236024.3236057
+   Fawcett T, 2006, PATTERN RECOGN LETT, V27, P861, DOI 10.1016/j.patrec.2005.10.010
+   Flaxman S, 2020, NATURE, V584, P257, DOI 10.1038/s41586-020-2405-7
+   Gelman A., 2013, Bayesian data analysis, V0, DOI DOI 10.1201/B16018
+   Gelman A., 2020, STAN FORUMS
+   Gelman A, 2015, J EDUC BEHAV STAT, V40, P530, DOI 10.3102/1076998615606113
+   Goodman N., 2012, ARXIV
+   Goodman Noah D, 2014, DESIGN IMPLEMENTATIO
+   Hoffman MD, 2014, J MACH LEARN RES, V15, P1593
+   Huang Z., 2023, UNCERTAINTY ARTIFICI, P900
+   Huang ZX, 2021, LECT NOTES COMPUT SC, V12971, P229, DOI 10.1007/978-3-030-88885-5_16
+   Istrate R., 2018, ARXIV
+   Iyer S, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P2073
+   Khalil E.B., 2016, 30 AAAI C ARTIFICIAL
+   Leyton-Brown K, 2014, COMMUN ACM, V57, P98, DOI 10.1145/2594413.2594424
+   Li YJ, 2022, SCIENCE, V378, P1092, DOI 10.1126/science.abq1158
+   Long F, 2016, ACM SIGPLAN NOTICES, V51, P298, DOI 10.1145/2914770.2837617
+   Mansinghka V., 2014, ARXIV
+   mc-stan, 2018, US
+   Mendis Charith, 2019, PR MACH LEARN RES, V97
+   Minka T., 2013, Infer.NET 2.5
+   Nandi C., 2017, MAPL
+   NEAL RM, 1994, J COMPUT PHYS, V111, P194, DOI 10.1006/jcph.1994.1054
+   NearPy, 2011, US
+   Northcutt CG, 2017, CONFERENCE ON UNCERTAINTY IN ARTIFICIAL INTELLIGENCE (UAI2017)
+   Obermeyer F., 2020, DEEP PROBABILISTIC P
+   Pradel M, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3276517
+   Pu YW, 2016, COMPANION PROCEEDINGS OF THE 2016 ACM SIGPLAN INTERNATIONAL CONFERENCE ON SYSTEMS, PROGRAMMING, LANGUAGES AND APPLICATIONS: SOFTWARE FOR HUMANITY (SPLASH COMPANION'16), P39, DOI 10.1145/2984043.2989222
+   Pyro, 2018, US
+   Raiffa H., 1961, Applied statistical decision theory
+   Raychev V, 2015, ACM SIGPLAN NOTICES, V50, P111, DOI [10.1145/2775051.2677009, 10.1145/2676726.2677009]
+   Robert C.P., 1999, Monte Carlo statistical methods
+   SAKIA RM, 1992, J ROY STAT SOC D-STA, V41, P169, DOI 10.2307/2348250
+   Simard PY, 2003, PROC INT CONF DOC, P958
+   Svyatkovskiy A, 2020, PROCEEDINGS OF THE 28TH ACM JOINT MEETING ON EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING (ESEC/FSE '20), P1433, DOI 10.1145/3368089.3417058
+   Taylor L., 2017, ARXIV
+   Tehrani N.K., 2020, PGM
+   Tran D., 2016, ARXIV
+   Wang K., 2019, ARXIV
+   Wood F, 2014, JMLR WORKSH CONF PRO, V33, P1024
+   Xia CS, 2022, PROCEEDINGS OF THE 30TH ACM JOINT MEETING EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING, ESEC/FSE 2022, P959, DOI 10.1145/3540250.3549101
+NR 69
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD JUN
+PY 2024
+VL 26
+IS 3
+BP 249
+EP 268
+DI 10.1007/s10009-024-00737-2
+EA FEB 2024
+PG 20
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ8U1
+UT WOS:001164440800001
+DA 2024-08-05
+ER
+
+PT J
+AU Hendriks, M
+   Verriet, J
+   Basten, T
+AF Hendriks, Martijn
+   Verriet, Jacques
+   Basten, Twan
+TI Visualization, transformation, and analysis of execution traces with the
+   eclipse TRACE4CPS trace tool
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Embedded systems; Cyber-physical systems; Execution traces; Performance
+   engineering; Performance analysis; Run-time verification; Trace-to-trace
+   transformation; Bottleneck analysis; Trace comparison;
+   Repetitive-structure analysis
+AB An execution trace is a model of a single system behavior. Execution traces occur everywhere in the system's lifecycle as they can typically be produced by executable models, by prototypes of (sub)systems, and by the system itself during its operation. An execution trace can be visualized and analyzed with various techniques, providing insight into the dynamic behavior, performance, bottlenecks, etc., of the system. In this paper, we present the Trace tool of the Eclipse Trace4cps project for the visualization and analysis of execution traces. A prominent application is the trace-based performance engineering of embedded or cyber-physical systems. Performance is an important system quality, as it can give a competitive advantage. Reasoning about system-level performance in such systems, however, is hard due to its cross-cutting nature. We show how the Trace tool can support this by various examples. Performance engineering is not the only application of the Trace tool, however: it supports system analysis in a wide range of situations.
+C1 [Hendriks, Martijn; Basten, Twan] Eindhoven Univ Technol, Eindhoven, Netherlands.
+   [Verriet, Jacques; Basten, Twan] TNO ESI, Eindhoven, Netherlands.
+C3 Eindhoven University of Technology
+RP Hendriks, M (corresponding author), Eindhoven Univ Technol, Eindhoven, Netherlands.
+EM m.hendriks@tue.nl
+RI Basten, Twan/ABG-3430-2021
+OI Basten, Twan/0000-0002-2274-7274
+FU TRANSACT EU project; ECSEL Joint Undertaking (JU) [101007260]; European
+   Union, Austria; European Union, Belgium; European Union, Denmark;
+   European Union, Finland; European Union, Germany; European Union,
+   Poland; European Union, the Netherlands; European Union, Norway;
+   European Union, Spain; Netherlands Organisation for Applied Scientific
+   Research TNO; ARTEMIS [621439]
+FX This work was partially supported by the TRANSACT EU project
+   (https://transact-ecsel.eu/). TRANSACT has received funding from the
+   ECSEL Joint Undertaking (JU) under grant agreement No. 101007260. The JU
+   receives support from the European Union's Horizon 2020 research and
+   innovation programme and Austria, Belgium, Denmark, Finland, Germany,
+   Poland, the Netherlands, Norway, and Spain.The research was carried out
+   as part of the Bright program under the responsibility of ESI (TNO) with
+   ITEC as the carrying industrial partner. The Bright research is
+   supported by the Netherlands Organisation for Applied Scientific
+   Research TNO.The research was carried out as part of the Octo+ program
+   under the responsibility of ESI (TNO) with Oce Technologies B.V. as the
+   carrying industrial partner. The Octo+ research is supported by the
+   Netherlands Organisation for Applied Scientific Research TNO.This
+   research was supported by the ARTEMIS joint undertaking under grant
+   agreement No. 621439 (ALMARVI).
+CR Akoglu L, 2015, DATA MIN KNOWL DISC, V29, P626, DOI 10.1007/s10618-014-0365-y
+   Alur R, 1996, J ACM, V43, P116, DOI 10.1145/227595.227602
+   ALUR R, 1993, INFORM COMPUT, V104, P35, DOI 10.1006/inco.1993.1025
+   [Anonymous], 1966, SOVIET PHYS DOKLADY
+   Barford P, 2000, ACM SIGCOMM COMP COM, V30, P127, DOI 10.1145/347057.347416
+   Basten T., 2010, 4 INT S LEVERAGING A
+   Beer I, 2009, LECT NOTES COMPUT SC, V5643, P94, DOI 10.1007/978-3-642-02658-4_11
+   Bjorn-Jorgensen P., 1997, 5 INT WORKSHOP HARDW
+   Bohme D., 2012, 26 INT PARALLEL DIST
+   Bose J.C.R.P., 2009, BUSINESS PROCESS MAN
+   Broenink T., 2020, IEEE C IND CYBERPHYS
+   ChronView, US
+   Dassault Systemes, STIMULUS
+   Derler P, 2012, P IEEE, V100, P13, DOI 10.1109/JPROC.2011.2160929
+   Deshmukh JV, 2017, FORM METHOD SYST DES, V51, P5, DOI 10.1007/s10703-017-0286-7
+   Donze A., 2010, P 8 INT C FORMAL MOD
+   Donze A., 2013, P 25 INT C COMPUTER
+   Donzé A, 2010, LECT NOTES COMPUT SC, V6174, P167, DOI 10.1007/978-3-642-14295-6_17
+   Drusinsky D., 2000, P 7 INT SPIN WORKSHO
+   Eclipse Foundation, ECLIPSE TRACECOMPASS
+   Eclipse Foundation, ECLIPSE LSAT
+   Eclipse Foundation, ECLIPSE TRACE4CPS
+   Eisner C, 2003, LECT NOTES COMPUT SC, V2725, P27
+   ELMAGHRABY SE, 1992, MANAGE SCI, V38, P1245, DOI 10.1287/mnsc.38.9.1245
+   Fainekos GE, 2009, THEOR COMPUT SCI, V410, P4262, DOI 10.1016/j.tcs.2009.06.021
+   Feng Y, 2018, INT C PROGRAM COMPRE, P86, DOI 10.1145/3196321.3196343
+   Ferrère T, 2019, LECT NOTES COMPUT SC, V11750, P59, DOI 10.1007/978-3-030-29662-9_4
+   Fitzgerald F., 2014, COLLABORATIVE DESIGN
+   Gad R., 2017, IEEE 41 ANN COMPUTER
+   Gao XB, 2010, PATTERN ANAL APPL, V13, P113, DOI 10.1007/s10044-008-0141-y
+   Geilen M., 2003, COMPUTER AIDED VERIF, DOI [10.1007/978-3-540-45069-6_37, DOI 10.1007/978-3-540-45069-6_37]
+   Ghamarian A.H., 2006, P 6 INT C APPL CONCU
+   Goldratt E.M., 1997, CRITICAL CHAIN
+   Havelund K., 2001, TESTING LINEAR TEMPO
+   Heemels M., 2006, BODERC MODEL BASED D
+   Hendriks M., 2016, 16 INT C APPL CONCUR
+   Hendriks M., 2012, INT C EMBEDDED UBIQU
+   Hendriks M., 2016, ESR201601
+   Hendriks M, 2017, INT J SOFTW TOOLS TE, V19, P487, DOI 10.1007/s10009-016-0436-z
+   Henzinger T.A., 2005, FORMAL MODELING ANAL, DOI [10.1007/11603009_18, DOI 10.1007/11603009_18]
+   Ho HM, 2014, LECT NOTES COMPUT SC, V8734, P178, DOI 10.1007/978-3-319-11164-3_15
+   Hollingsworth J.K., 1996, 1 ACM SIGMETRICS S P
+   Huang J., 2004, 10 INT C REAL TIME E
+   Kaldor J, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P34, DOI 10.1145/3132747.3132749
+   Kastor A, 2009, INT J PROJ MANAG, V27, P493, DOI 10.1016/j.ijproman.2008.08.006
+   Kelley J.E., 1959, E JOINT IRE AIEE ACM
+   Kleinrock L., 1975, Queueing Systems, Volume 1
+   KOYMANS R, 1990, REAL-TIME SYST, V2, P255, DOI 10.1007/BF01995674
+   Kupferman O, 2001, FORM METHOD SYST DES, V19, P291, DOI 10.1023/A:1011254632723
+   Lee E.A., 2018, PLATO NERD CREATIVE
+   Lee EA, 2008, ISORC 2008: 11TH IEEE SYMPOSIUM ON OBJECT/COMPONENT/SERVICE-ORIENTED REAL-TIME DISTRIBUTED COMPUTING - PROCEEDINGS, P363, DOI 10.1109/ISORC.2008.25
+   Lee I., 1999, P INT C PARALLEL DIS
+   Leucker M, 2009, J LOGIC ALGEBR PROGR, V78, P293, DOI 10.1016/j.jlap.2008.08.004
+   LITTLE JDC, 1961, OPER RES, V9, P383, DOI 10.1287/opre.9.3.383
+   Lockyer K.G., 1964, INTRO CRITICAL PATH
+   Luo J., 2002, ASP DAC
+   Maler O, 2004, LECT NOTES COMPUT SC, V3253, P152, DOI 10.1007/978-3-540-30206-3_12
+   Mannila H., 1997, 4 INT WORKSHOP TEMPO
+   Markey N, 2006, THEOR COMPUT SCI, V358, P273, DOI 10.1016/j.tcs.2006.01.019
+   MathWorks, ASSESS TEMPORAL LOGI
+   Montani S, 2017, EXPERT SYST APPL, V81, P398, DOI 10.1016/j.eswa.2017.03.063
+   Nickovic D, 2018, LECT NOTES COMPUT SC, V10806, P303, DOI 10.1007/978-3-319-89963-3_18
+   Nikovic D., 2020, AUTOMATED TECHNOLOGY
+   Nikovic D., 2010, P 8 INT C FORMAL MOD
+   Noble C. C., 2003, P 9 ACM SIGKDD INT C, P631
+   Noda K., 2012, 20 WORKING C REVERSE
+   OpenTracing, About us
+   Pinedo M., 2002, SCHEDULING THEORY AL
+   readthedocs, BEHAVE
+   Roos N., 2021, BITS CHIPS
+   Schulz M., 2005, INT C CLUSTER COMPUT
+   Sigelman Benjamin H., 2010, Dapper, a large-scale distributed systems tracing infrastructure
+   Takeda S., 2017, ATTACH ADHESIVES FIL, DOI [10.1007/978-3-319-45098-8_11, DOI 10.1007/978-3-319-45098-8_11]
+   Thati P, 2005, ELECTRON NOTES THEOR, V113, P145, DOI 10.1016/j.entcs.2004.01.029
+   van der Aalst W.M.P., 2002, 1 INT C ENG DEPLOYME
+   van der Aalst WMP, 2003, DATA KNOWL ENG, V47, P237, DOI 10.1016/S0169-023X(03)00066-1
+   van der Sanden B., 2021, 17 IEEE INT C AUTOMA
+   van der Sanden B., 2021, 2021 INT C EMBEDDED
+   Verriet J., 2023, P 11 INT C MODEL BAS
+   Walkinshaw N, 2013, ACM T SOFTW ENG METH, V22, DOI 10.1145/2430545.2430549
+   Walrand J., 2021, PROBABILITY ELECT EN, DOI [10.1007/978-3-030-49995-2, DOI 10.1007/978-3-030-49995-2]
+   WIEST JD, 1964, OPER RES, V12, P395, DOI 10.1287/opre.12.3.395
+   Wu M.-Y., 1990, IEEE Transactions on Parallel and Distributed Systems, V1, P330, DOI 10.1109/71.80160
+   Yang C.-Q., 1988, 8 INT C DISTRIBUTED
+   Yang Y, 2010, DES AUT TEST EUROPE, P1041
+   Zeng Z., 2009, PROC VLDB ENDOW
+NR 86
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD FEB
+PY 2024
+VL 26
+IS 1
+BP 101
+EP 126
+DI 10.1007/s10009-024-00736-3
+EA FEB 2024
+PG 26
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA HW1A5
+UT WOS:001157445600001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Cassez, F
+   Fuller, J
+   Quiles, HMA
+AF Cassez, Franck
+   Fuller, Joanne
+   Quiles, Horacio Mijail Anton
+TI Deductive verification of smart contracts with Dafny
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Formal verification; Ethereum; Smart contracts; Dafny
+AB We present a methodology to develop verified smart contracts. We write smart contracts, their specifications and implementations in the verification-friendly language Dafny. In our methodology the ability to write specifications, implementations and to reason about correctness is a primary concern. We propose a simple, concise, yet powerful solution for reasoning about contracts that have external calls. This includes arbitrary re-entrancy, which is a major source of bugs and attacks in smart contracts. Although we do not yet have a compiler from Dafny to Ethereum Virtual Machine bytecode, the results we obtain from the Dafny code can reasonably be assumed to translate to contracts written in languages like Solidity. As a result our approach can readily be used to develop and deploy safer contracts.
+C1 [Cassez, Franck] Mantle, R&D, Sydney, Australia.
+   [Fuller, Joanne; Quiles, Horacio Mijail Anton] ConsenSys, R&D, New York, NY USA.
+RP Cassez, F (corresponding author), Mantle, R&D, Sydney, Australia.
+EM franck.cassez@mantle.xyz; joanne.fuller@consensys.net;
+   horacio.mijail@consensys.net
+OI Anton Quiles, Horacio Mijail/0009-0009-7018-9711; Cassez,
+   Franck/0000-0002-4317-5025
+CR Ahrendt Wolfgang, 2020, Leveraging Applications of Formal Methods, Verification and Validation. Applications. 9th International Symposium on Leveraging Applications of Formal Methods, ISoLA 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12478), P9, DOI 10.1007/978-3-030-61467-6_2
+   Alt Leonardo, 2018, Leveraging Applications of Formal Methods, Verification and Validation. Industrial Practice. 8th International Symposium, ISoLA 2018. Proceedings: Lecture Notes in Computer Science (LNCS 11247), P376, DOI 10.1007/978-3-030-03427-6_28
+   Amani S., 2018, P 7 ACM SIGPLAN INT, P66, DOI [10.1145/3167084, DOI 10.1145/3167084]
+   da Horta LPA, 2020, 2020 IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN (BLOCKCHAIN 2020), P409, DOI 10.1109/Blockchain50366.2020.00059
+   Bhargavan K, 2016, PROCEEDINGS OF THE 2016 ACM WORKSHOP ON PROGRAMMING LANGUAGES AND ANALYSIS FOR SECURITY (PLAS'16), P91, DOI 10.1145/2993600.2993611
+   Bräm C, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3485523
+   Britten D., 2021, 3 INT WORKSH FORM ME, P3, DOI [10.4230/OASIcs.FMBC.2021.3, DOI 10.4230/OASICS.FMBC.2021.3]
+   Cassez F, 2022, LECT NOTES COMPUT SC, V13487, P50, DOI 10.1007/978-3-031-15008-1_5
+   Cassez F, 2021, LECT NOTES COMPUT SC, V13047, P445, DOI 10.1007/978-3-030-90870-6_24
+   Choo L., CRYPTO IS CRUMBLING
+   Dharanikota Samvid, 2021, 2021 Formal Methods in Computer Aided Design (FMCAD), P133, DOI 10.34727/2021/isbn.978-3-85448-046-4_22
+   Diligence C., SCRIBBLE
+   Diligence C, MYTHX
+   Fe Team, 2022, FE EM SMART CONTR LA
+   Foundation E., 2022, SOLIDITY DOCUMENTATI
+   Giordano F., REENTRANCY ISTANBUL
+   Gucluturk O. G., 2018, The DAO hack explained: Unfortunate take-off of smart contracts
+   Hajdu, 2020, P 2 WORKSH FORM METH, P2, DOI 10.4230/OASIcs.FMBC.2020.2
+   Hajdu A, 2020, LECT NOTES COMPUT SC, V12031, P161, DOI 10.1007/978-3-030-41600-3_11
+   Krishnakumar A., DEFYING EXPECTATIONS
+   Leino KRM, 2017, IEEE SOFTWARE, V34, P94
+   Marescotti Matteo, 2020, Leveraging Applications of Formal Methods, Verification and Validation. Applications. 9th International Symposium on Leveraging Applications of Formal Methods, ISoLA 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12478), P178, DOI 10.1007/978-3-030-61467-6_12
+   Marmsoler D, 2021, LECT NOTES COMPUT SC, V13085, P403, DOI 10.1007/978-3-030-92124-8_23
+   Nehai Z., 2019, Formal Methods, P299, DOI [10.1007/978-3-030-54994-722, DOI 10.1007/978-3-030-54994-722]
+   Nipkow T., 2002, Isabelle/HOL - a proof assistant for higher-order logic, P2283, DOI [10.1007/3-540-45949-9, DOI 10.1007/3-540-45949-9]
+   Otoni R, 2023, ACM T PRIV SECUR, V26, DOI 10.1145/3564699
+   Park D., 2020, FORMAL VERIFICATION
+   Park D, 2020, LECT NOTES COMPUT SC, V12224, P151, DOI 10.1007/978-3-030-53288-8_8
+   Paulin-Mohring C., 2011, LNCS, P45, DOI [10.1007/978-3-642-35746-6_3, DOI 10.1007/978-3-642-35746-6, DOI 10.1007/978-3-642-35746-6_3]
+   Pearce David J., 2019, Engineering Trustworthy Software Systems. 4th International School, SETSS 2018. Tutorial Lectures: Lecture Notes in Computer Science (LNCS 11430), P1, DOI 10.1007/978-3-030-17601-3_1
+   Schiffl J., 2020, DEDUCTIVE SOFTWARE V, P204, DOI [10.1007/978-3-030-64354-6_8, DOI 10.1007/978-3-030-64354-6_8]
+   Vyper Team, 2020, VYP DOC
+   Wesley S, 2022, LECT NOTES COMPUT SC, V13182, P425, DOI 10.1007/978-3-030-94583-1_21
+   Wood G., 2014, Ethereum Project Yellow Paper, V151, P1, DOI DOI 10.1017/CBO9781107415324.004
+   Wüstholz V, 2020, PROCEEDINGS OF THE 28TH ACM JOINT MEETING ON EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING (ESEC/FSE '20), P1398, DOI 10.1145/3368089.3417064
+   Zakrzewski J, 2018, LECT NOTES COMPUT SC, V11294, P229, DOI 10.1007/978-3-030-03592-1_13
+NR 36
+TC 1
+Z9 1
+U1 2
+U2 2
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD APR
+PY 2024
+VL 26
+IS 2
+BP 131
+EP 145
+DI 10.1007/s10009-024-00738-1
+EA FEB 2024
+PG 15
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LY8F3
+UT WOS:001168928300001
+DA 2024-08-05
+ER
+
+PT J
+AU Brodo, L
+   Bruni, R
+   Falaschi, M
+   Gori, R
+   Milazzo, P
+   Montagna, V
+   Pulieri, P
+AF Brodo, Linda
+   Bruni, Roberto
+   Falaschi, Moreno
+   Gori, Roberta
+   Milazzo, Paolo
+   Montagna, Valeria
+   Pulieri, Pasquale
+TI Causal analysis of positive Reaction Systems
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article; Early Access
+DE Reaction Systems; Positive reactions; Abstract interpretation; Ancestor
+   formula; Slicing
+ID NETWORKS
+AB Cause/effect analysis of complex systems is instrumental in better understanding many natural phenomena. Moreover, formal analysis requires the availability of suitable abstract computational models that somehow preserve the features of interest. Our contribution focuses on the analysis of Reaction Systems (RSs), a qualitative computational formalism inspired by biochemical reactions in living cells. The primary challenge lies in dealing with inhibition mechanisms. On the one hand, inhibitors enhance the expressiveness of the computational abstraction; on the other hand, they can introduce nonmonotonic behaviors that can be computationally hard to deal with in the analysis. We propose an encoding of RSs into an equivalent formulation without inhibitors (called Positive RSs, PRSs for short) that is easier to handle, because PRSs exhibit monotonic behaviors. The effectiveness of our transformation is witnessed by its impact on two different techniques for cause/effect analysis. The first, called slicing, allows detecting the causes of some unforeseen phenomenon by reasoning backward along a given computation. Here, PRSs can be exploited to improve the quality of the analysis. The second technique, predictor analysis, is addressed by introducing a novel tool called MuMa, which is based on must/maybe sets, whence the tool name, an original abstraction for approximating ancestor formulas. MuMa exploits PRSs to improve the performance of the analysis.
+C1 [Brodo, Linda] Univ Sassari, Dipartimento Sci Econom & Aziendali, Sassari, Italy.
+   [Bruni, Roberto; Gori, Roberta; Milazzo, Paolo; Montagna, Valeria; Pulieri, Pasquale] Univ Pisa, Dipartimento Informat, Pisa, Italy.
+   [Falaschi, Moreno] Univ Siena, Dipartimento Ingn Informaz & Sci Matematiche, Siena, Italy.
+C3 University of Sassari; University of Pisa; University of Siena
+RP Brodo, L (corresponding author), Univ Sassari, Dipartimento Sci Econom & Aziendali, Sassari, Italy.
+EM brodo@uniss.it; roberto.bruni@unipi.it; moreno.falaschi@unisi.it;
+   roberta.gori@unipi.it; paolo.milazzo@unipi.it;
+   v.montagna@studenti.unipi.it; p.pulieri@studenti.unipi.it
+FU Universit degli Studi di Sassari
+FX No Statement Available
+CR Alpuente M, 2016, J LOG ALGEBR METHODS, V85, P707, DOI 10.1016/j.jlamp.2016.03.001
+   Alpuente M, 2014, SCI COMPUT PROGRAM, V80, P385, DOI 10.1016/j.scico.2013.09.018
+   Alpuente M, 2011, LECT NOTES ARTIF INT, V6803, P34, DOI 10.1007/978-3-642-22438-6_5
+   [Anonymous], 2018, CellCollective Org: CD4+ T cell differentiation model webpage on the CellCollective platform
+   Azimi S, 2017, THEOR COMPUT SCI, V701, P20, DOI 10.1016/j.tcs.2017.03.047
+   Azimi S, 2014, FUND INFORM, V131, P299, DOI 10.3233/FI-2014-1016
+   Barbuti R, 2021, THEOR COMPUT SCI, V881, P3, DOI 10.1016/j.tcs.2020.07.031
+   Barbuti R, 2020, J MEMBRANE COMPUT, V2, P207, DOI 10.1007/s41965-020-00046-y
+   Barbuti R, 2021, SOFT COMPUT, V25, P1683, DOI 10.1007/s00500-020-05300-0
+   Barbuti R, 2018, LECT NOTES COMPUT SC, V11324, P23, DOI 10.1007/978-3-030-04070-3_2
+   Barbuti R, 2018, ACTA INFORM, V55, P227, DOI 10.1007/s00236-017-0296-3
+   Barbuti R, 2016, THEOR COMPUT SCI, V623, P114, DOI 10.1016/j.tcs.2015.11.041
+   Bodei C, 2015, THEOR COMPUT SCI, V587, P73, DOI 10.1016/j.tcs.2015.03.014
+   Brijder R., 2010, ECEASST, V30, DOI [10.14279/tuj.eceasst.30.429, DOI 10.14279/TUJ.ECEASST.30.429]
+   Brijder R, 2011, INT J FOUND COMPUT S, V22, P1499, DOI 10.1142/S0129054111008842
+   Brodo L., LNCS
+   Brodo L, 2023, LECT NOTES COMPUT SC, V13880, P107, DOI 10.1007/978-3-031-24841-2_8
+   Brodo L, 2021, LECT NOTES COMPUT SC, V13082, P15, DOI 10.1007/978-3-030-90425-8_2
+   Brodo L, 2021, THEOR COMPUT SCI, V875, P1, DOI 10.1016/j.tcs.2021.03.024
+   Brodo L, 2019, LECT NOTES COMPUT SC, V11760, P68, DOI 10.1007/978-3-030-31175-9_5
+   Busi N, 2007, LECT NOTES COMPUT SC, V4860, P160
+   Corolli L, 2012, THEOR COMPUT SCI, V454, P95, DOI 10.1016/j.tcs.2012.04.003
+   Cousot P., 1979, 6 ACM S PRINC PROGR, P269, DOI [DOI 10.1145/567752.567778, 10.1145/567752.567778]
+   Cousot P., 2021, PRINCIPLES ABSTRACT
+   Cousot Patrick, 1977, P 4 ACM S PRINC PROG, P238, DOI [DOI 10.1145/512950.512973, 10.1145/512950.512973]
+   Deng CQ, 2022, ACM T PROGR LANG SYS, V44, DOI 10.1145/3484938
+   Dennunzio Alberto, 2015, Language and Automata Theory and Applications. 9th International Conference, LATA 2015. Proceedings: LNCS 8977, P537, DOI 10.1007/978-3-319-15579-1_42
+   Dennunzio A, 2015, THEOR COMPUT SCI, V608, P16, DOI 10.1016/j.tcs.2015.05.046
+   Ehrenfeucht A, 2007, FUND INFORM, V75, P263
+   Falaschi M, 2020, FUND INFORM, V177, P331, DOI 10.3233/FI-2020-1992
+   Formenti Enrico, 2014, Language, Life, Limits. 10th Conference on Computability in Europe, CiE 2014. Proceedings: LNCS 8493, P194, DOI 10.1007/978-3-319-08019-2_20
+   Gori R, 2010, INFORM COMPUT, V208, P869, DOI 10.1016/j.ic.2010.03.004
+   KOREL B, 1988, INFORM PROCESS LETT, V29, P155, DOI 10.1016/0020-0190(88)90054-3
+   Mendoza L, 2006, THEOR BIOL MED MODEL, V3, DOI 10.1186/1742-4682-3-13
+   Ochoa Claudio, 2008, Higher-Order and Symbolic Computation, V21, P147, DOI 10.1007/s10990-008-9023-7
+   Okubo F, 2016, NAT COMPUT, V15, P215, DOI 10.1007/s11047-015-9504-7
+   Salomaa A, 2013, NAT COMPUT, V12, P369, DOI 10.1007/s11047-013-9372-y
+   Salomaa A, 2013, INT J FOUND COMPUT S, V24, P147, DOI 10.1142/S0129054113500044
+   Silva J, 2012, ACM COMPUT SURV, V44, DOI 10.1145/2187671.2187674
+   WEISER M, 1984, IEEE T SOFTWARE ENG, V10, P352, DOI 10.1109/TSE.1984.5010248
+NR 40
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD 2024 JUN 19
+PY 2024
+DI 10.1007/s10009-024-00757-y
+EA JUN 2024
+PG 18
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UW7U1
+UT WOS:001251175000001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Seidl, H
+   Erhard, J
+   Tilscher, S
+   Schwarz, M
+AF Seidl, Helmut
+   Erhard, Julian
+   Tilscher, Sarah
+   Schwarz, Michael
+TI Non-numerical weakly relational domains
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article; Early Access
+DE Weakly relational domains; 2-decomposable relational domains;
+   2-disjunctive constants; Directed domains
+ID VARIABLES
+AB The weakly relational domain of Octagons offers a decent compromise between precision and efficiency for numerical properties. Here, we are concerned with the construction of non-numerical relational domains. We provide a general construction of weakly relational domains, which we exemplify with an extension of constant propagation by disjunctions. Since for the resulting domain of 2-disjunctive formulas satisfiability is NP-complete, we provide a general construction for a further, more abstract, weakly relational domain where the abstract operations of restriction and least upper bound can be efficiently implemented. In the second step, we consider a relational domain that tracks conjunctions of inequalities between variables, and between variables and constants for arbitrary partial orders of values. Examples are sub(multi)sets, as well as prefix, substring or scattered substring orderings on strings. When the partial order is a lattice, we provide precise polynomial algorithms for satisfiability, restriction, and the best abstraction of disjunction. Complementary to the constructions for lattices, we find that, in general, satisfiability of conjunctions is NP-complete. We therefore again provide polynomial abstract versions of restriction, conjunction, and join. By using our generic constructions, these domains are extended to weakly relational domains that additionally track disjunctions. For all our domains, we indicate how abstract transformers for assignments and guards can be constructed.
+C1 [Seidl, Helmut; Erhard, Julian; Tilscher, Sarah; Schwarz, Michael] Tech Univ Munich, TUM Sch Computat Informat & Technol, Garching, Germany.
+C3 Technical University of Munich
+RP Seidl, H (corresponding author), Tech Univ Munich, TUM Sch Computat Informat & Technol, Garching, Germany.
+EM helmut.seidl@tum.de; julian.erhard@tum.de; sarah.tilscher@tum.de;
+   m.schwarz@tum.de
+FU Technische Universitt Mnchen (1025) [FR-21-7973]; Shota Rustaveli
+   National Science Foundation of Georgia [378803395/2428 ConVeY]; Deutsche
+   Forschungsgemeinschaft (DFG)
+FX We thank the referees for their careful reading and detailed feedback.
+   This work was supported by Shota Rustaveli National Science Foundation
+   of Georgia, project FR-21-7973, and Deutsche Forschungsgemeinschaft
+   (DFG), 378803395/2428 ConVeY.
+CR Abdulla PA, 2019, LECT NOTES COMPUT SC, V11781, P277, DOI 10.1007/978-3-030-31784-3_16
+   Alberta E, 2014, SCI COMPUT PROGRAM, V92, P2, DOI 10.1016/j.scico.2013.04.006
+   Arceri V, 2022, LECT NOTES COMPUT SC, V13182, P20, DOI 10.1007/978-3-030-94583-1_2
+   Bagnara R, 2008, LECT NOTES COMPUT SC, V4905, P8, DOI 10.1007/978-3-540-78163-9_6
+   Bagnara R, 2009, FORM METHOD SYST DES, V35, P279, DOI 10.1007/s10703-009-0073-1
+   Beckert B, 2000, INT SYM MVL, P331, DOI 10.1109/ISMVL.2000.848640
+   Chawdhary A, 2019, FORM METHOD SYST DES, V54, P232, DOI 10.1007/s10703-017-0314-7
+   Chen T, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3158091
+   Cousot P., 1992, Journal of Logic and Computation, V2, P511, DOI 10.1093/logcom/2.4.511
+   Cousot P., 1978, Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, P84, DOI [DOI 10.1145/512760.512770, 10.1145/512760.512770]
+   Cousot P., 2021, PRINCIPLES ABSTRACT
+   Cousot P., 1977, Conference Record of the Fourth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P238, DOI [10.1145/512950.512973, DOI 10.1145/512950.512973]
+   Day JD, 2023, P ACM PROGRAM LANG, V7, DOI 10.1145/3571203
+   Dor N, 2001, LECT NOTES COMPUT SC, V2126, P194
+   Fang Yu, 2011, Model Checking Software. Proceedings 18th International SPIN Workshop, P20, DOI 10.1007/978-3-642-22306-8_3
+   Ganesh V., 2011, What is decidable about strings?
+   KARR M, 1976, ACTA INFORM, V6, P133, DOI 10.1007/BF00268497
+   Mine A., 2006, Higher-Order and Symbolic Computation, V19, P31, DOI 10.1007/s10990-006-8609-1
+   Miné A, 2001, EIGHTH WORKING CONFERENCE ON REVERSE ENGINEERING, PROCEEDINGS, P310, DOI 10.1109/WCRE.2001.957836
+   Mine A., 2004, Domaines numeriques abstraits faiblement relationnels
+   Müller-Olm M, 2007, ACM T PROGR LANG SYS, V29, DOI 10.1145/1275497.1275504
+   Müller-Olm M, 2004, ACM SIGPLAN NOTICES, V39, P330, DOI 10.1145/982962.964029
+   Sankaranarayanan S, 2005, LECT NOTES COMPUT SC, V3385, P25
+   Schwarz Michael, 2023, Static Analysis: 30th International Symposium, SAS 2023, Proceedings. Lecture Notes in Computer Science (14284), P485, DOI 10.1007/978-3-031-44245-2_21
+   Schwarz Michael, 2023, Programming Languages and Systems: 32nd European Symposium on Programming, ESOP 2023, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2023, Proceedings. Lecture Notes in Computer Science (13990), P28, DOI 10.1007/978-3-031-30044-8_2
+   Simon A, 2003, LECT NOTES COMPUT SC, V2664, P71, DOI 10.1007/3-540-45013-0_7
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD 2024 JUN 14
+PY 2024
+DI 10.1007/s10009-024-00755-0
+EA JUN 2024
+PG 16
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UH5L2
+UT WOS:001247177400001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Winterer, L
+   Wimmer, R
+   Becker, B
+   Jansen, N
+AF Winterer, Leonore
+   Wimmer, Ralf
+   Becker, Bernd
+   Jansen, Nils
+TI Strong Simple Policies for POMDPs
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Partially Observable Markov Decision Process; POMDP; Mixed-Integer
+   Linear Programming; Decision-Making Under Uncertainty
+ID VERIFICATION
+AB The synthesis problem for partially observable Markov decision processes (POMDPs) is to compute a policy that provably adheres to one or more specifications. Yet, the general problem is undecidable, and policies require full (and thus potentially unbounded) traces of execution history. To provide good approximations of such policies, POMDP agents often employ randomization over action choices. We consider the problem of computing simpler policies for POMDPs, and provide several approaches to still ensure their expressiveness. Key aspects are (1) the combination of an arbitrary number of specifications the policies need to adhere to, (2) a restricted form of randomization, and (3) a light-weight preprocessing of the POMDP model to encode memory. We provide a novel encoding as a mixed-integer linear program as baseline to solve the underlying problems. Our experiments demonstrate that the policies we obtain are more robust, smaller, and easier to implement for an engineer than those obtained from state-of-the-art POMDP solvers.
+C1 [Winterer, Leonore; Wimmer, Ralf; Becker, Bernd] Albert Ludwigs Univ Freiburg, Freiburg, Germany.
+   [Wimmer, Ralf] Altair Engn GmbH, Boblingen, Germany.
+   [Jansen, Nils] Ruhr Univ, Bochum, Germany.
+C3 University of Freiburg; Ruhr University Bochum
+RP Jansen, N (corresponding author), Ruhr Univ, Bochum, Germany.
+EM n.jansen@rub.de
+FU Ruhr-Universitt Bochum (1007) [101077178]; ERC
+FX This work was partially supported by the ERC Starting Grant 101077178
+   (DEUCE).
+CR Altman E., 1999, STOCH MODEL SER, DOI 10.1201/9781315140223
+   Amato C, 2010, AUTON AGENT MULTI-AG, V21, P293, DOI 10.1007/s10458-009-9103-z
+   Andriushchenko Roman, 2023, Computer Aided Verification: 35th International Conference, CAV 2023, Proceedings. Lecture Notes in Computer Science (13966), P113, DOI 10.1007/978-3-031-37709-9_6
+   Andriushchenko R., 2022, P MACHINE LEARNING R, P85
+   Badings T, 2023, INT J SOFTW TOOLS TE, V25, P375, DOI 10.1007/s10009-023-00704-3
+   Baier C, 2008, PRINCIPLES OF MODEL CHECKING, P1
+   Bork A, 2020, LECT NOTES COMPUT SC, V12302, P288, DOI 10.1007/978-3-030-59152-6_16
+   Cassandra A.R., 1998, Exact and Approximate Algorithms for Partially Observable Markov Decision Processes
+   Cassandra A.R., 2013, ARXIV
+   CASSANDRA AR, 1994, PROCEEDINGS OF THE TWELFTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOLS 1 AND 2, P1023
+   Chatterjee K, 2022, MATH OPER RES, V47, P100, DOI 10.1287/moor.2020.1116
+   Chatterjee K, 2016, ARTIF INTELL, V234, P26, DOI 10.1016/j.artint.2016.01.007
+   Chatterjee K, 2015, IEEE INT CONF ROBOT, P325, DOI 10.1109/ICRA.2015.7139019
+   CHRISMAN L, 1992, AAAI-92 PROCEEDINGS : TENTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, P183
+   Cubuktepe M, 2017, LECT NOTES COMPUT SC, V10206, P133, DOI 10.1007/978-3-662-54580-5_8
+   Dehnert C, 2014, LECT NOTES COMPUT SC, V8837, P146, DOI 10.1007/978-3-319-11936-6_11
+   Draper D.L., 2013, ARXIV
+   Draper D.L., 1994, C UNC ART INT UAI, P178
+   FLOYD RW, 1962, COMMUN ACM, V5, P345, DOI 10.1145/367766.368168
+   Givan R, 2003, ARTIF INTELL, V147, P163, DOI 10.1016/S0004-3702(02)00376-4
+   Gurobi Optimization LLC, 2019, GUR OPT REF MAN
+   Hauskrecht M, 2000, J ARTIF INTELL RES, V13, P33, DOI 10.1613/jair.678
+   Isom J. D., 2008, AAAI, V1, P291
+   Junges S., 2020, ARXIV
+   Kaelbling LP, 1998, ARTIF INTELL, V101, P99, DOI 10.1016/S0004-3702(98)00023-X
+   Khonji M, 2019, PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P5583
+   KNUTH DE, 1992, AM MATH MON, V99, P403, DOI 10.2307/2325085
+   Kochenderfer MJ, 2015, MIT LINCOLN LAB, P11
+   Kumar A, 2016, P I C AUTOMAT PLAN S, P202
+   Kumar A, 2015, P I C AUTOMAT PLAN S, P156
+   Kurniawati Hanna, 2008, Robotics: Science and Systems, DOI DOI 10.15607/RSS.2008.IV.009
+   Kwiatkowska Marta, 2011, Computer Aided Verification. Proceedings 23rd International Conference, CAV 2011, P585, DOI 10.1007/978-3-642-22110-1_47
+   Littman M. L., 2017, arXiv
+   Madani O, 1999, SIXTEENTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE (AAAI-99)/ELEVENTH INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE (IAAI-99), P541
+   McCallum A., 1993, ICML, P190
+   Meuleau N, 1999, UNCERTAINTY IN ARTIFICIAL INTELLIGENCE, PROCEEDINGS, P427
+   Norman G, 2017, REAL-TIME SYST, V53, P354, DOI 10.1007/s11241-017-9269-4
+   Norman G, 2015, LECT NOTES COMPUT SC, V9268, P240, DOI 10.1007/978-3-319-22975-1_16
+   PAPADIMITRIOU CH, 1987, MATH OPER RES, V12, P441, DOI 10.1287/moor.12.3.441
+   Pineau J., 2003, International Joint Conference on Artificial Intelligence, V3, P1025
+   Pnueli A., 1977, 18th Annual Symposium on Foundations of Computer Science, P46, DOI 10.1109/SFCS.1977.32
+   Poupart P, 2015, AAAI CONF ARTIF INTE, P3342
+   Puterman M.L., 1994, Markov decision processes: discrete stochastic dynamic programming, DOI DOI 10.1002/9780470316887
+   Roijers DM, 2013, J ARTIF INTELL RES, V48, P67, DOI 10.1613/jair.3987
+   RuSSELL Stuart, 2010, Artificial Intelligence: A Modern Approach
+   Shani G, 2013, AUTON AGENT MULTI-AG, V27, P1, DOI 10.1007/s10458-012-9200-2
+   Silver D., 2010, Advances in neural information processing systems, P2164
+   Simmons Reid, 2004, P C UNC ART INT, P520
+   SMALLWOOD RD, 1973, OPER RES, V21, P1071, DOI 10.1287/opre.21.5.1071
+   Thrun S, 2002, COMMUN ACM, V45, P52, DOI 10.1145/504729.504754
+   Velasquez A, 2019, PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P5653
+   Vlassis N, 2012, ACM T COMPUT THEORY, V4, DOI 10.1145/2382559.2382563
+   Walraven E, 2017, AAAI CONF ARTIF INTE, P3672
+   Wimmer R, 2014, THEOR COMPUT SCI, V549, P61, DOI 10.1016/j.tcs.2014.06.020
+   Winterer L, 2021, IEEE T AUTOMAT CONTR, V66, P1040, DOI 10.1109/TAC.2020.2990140
+   Winterer L, 2020, LECT NOTES COMPUT SC, V12229, P115, DOI 10.1007/978-3-030-55754-6_7
+   Wongpiromsarn T, 2012, IEEE DECIS CONTR P, P7644, DOI 10.1109/CDC.2012.6426524
+   Wray KH, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), P1719
+NR 58
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD JUN
+PY 2024
+VL 26
+IS 3
+BP 269
+EP 299
+DI 10.1007/s10009-024-00747-0
+EA JUN 2024
+PG 31
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ8U1
+UT WOS:001241370200001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Angulo, G
+   Martin, DS
+   Ferrari, F
+   de Guzman, IGR
+   Perez-Castillo, R
+   de Camargo, VV
+AF Angulo, Guisella
+   Martin, Daniel San
+   Ferrari, Fabiano
+   de Guzman, Ignacio Garcia-Rodriguez
+   Perez-Castillo, Ricardo
+   de Camargo, Valter Vieira
+TI A process for creating KDM2PSM transformation engines
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Model transformation; KDM; PSM; Java model; Software modernization; Code
+   generation
+AB Architecture-Driven Modernization (ADM) is a special kind of reengineering that employs models along the process. The main ADM metamodel is the Knowledge Discovery Metamodel (KDM), which is a platform-independent metamodel able to represent several views of a system. Although a lot of research is currently focused on the reverse engineering phase of ADM, little has been devoted to the forward engineering one, mainly on the generation of Platform-Specific Models (PSMs) from KDM. The forward engineering phase is essential because it belongs to the end of the horseshoe model, completing the reengineering process. Besides, the lack of research and the absence of tooling support in this phase hinder the industrial adoption of ADM. Therefore, in this paper, we present a process for creating Transformation Engines (TEs) capable of transforming KDM instances in a chosen PSM. We highlight two main contributions in this work. The first is a process that software engineers can follow for building TEs capable of generating PSM instances (e.g., Java model, Python model, etc.) from KDM instances. Having that on their hands, modernization engineers can then use generators for generating language-specific source code from the PSM. The second is delivering a specific TE called RUTE-K2J, which is able to generate Java models from KDM models. The transformation rules of RUTE-K2J have been tested considering sets of common code structures that normally appear when modernizing systems. The test cases have shown that in this version of RUTE the transformation rules are able to correctly generate 92% of the source code submitted to the transformation.
+C1 [Angulo, Guisella; Ferrari, Fabiano; de Camargo, Valter Vieira] Univ Fed Sao Carlos, Comp Dept, Sao Carlos, SP, Brazil.
+   [Martin, Daniel San] Univ Catolica Norte, Engn Sch, Coquimbo, Chile.
+   [de Guzman, Ignacio Garcia-Rodriguez; Perez-Castillo, Ricardo] Univ Castilla La Mancha, Inst Technol & Informat Syst, Ciudad Real, Spain.
+C3 Universidade Federal de Sao Carlos; Universidad Catolica del Norte;
+   Universidad de Castilla-La Mancha
+RP Angulo, G (corresponding author), Univ Fed Sao Carlos, Comp Dept, Sao Carlos, SP, Brazil.
+EM guisella.angulo@estudante.ufscar.br; daniel.sanmartin@ucn.cl;
+   fcferrari@ufscar.br; Ignacio.GRodriguez@uclm.es;
+   Ricardo.PdelCastillo@uclm.es; valtervcamargo@ufscar.br
+OI San Martin Santibanez, Daniel Gustavo/0000-0001-5274-0148
+FU FAPESP, SP, Brazil [2016/03104-0]; Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior - Brasil (CAPES) [001]
+FX We would like to thank the financial support provided by FAPESP, SP,
+   Brazil, process number (2016/03104-0) and by the Coordenacao de
+   Aperfeicoamento de Pessoal de Nivel Superior - Brasil (CAPES) - Finance
+   Code 001.
+CR Angulo G, 2018, XII BRAZILIAN SYMPOSIUM ON SOFTWARE COMPONENTS, ARCHITECTURES, AND REUSE (SBCARS), P92, DOI 10.1145/3267183.3267193
+   [Anonymous], 2017, ISOIEC 195062012
+   [Anonymous], 2006, ECLIPSE ATL PROJECT
+   [Anonymous], 2018, ADM VENDOR DIRECTORY
+   [Anonymous], 2011, KNOWLEDGE DISCOVERY
+   Barbier F., 2011, 2 IND WORKSH REV ENG, P126
+   BENNETT K, 1995, IEEE SOFTWARE, V12, P19, DOI 10.1109/52.363157
+   Bruneliere Hugo., 2010, P IEEEACM INT C AUTO, P173
+   Izquierdo JLC, 2009, LECT NOTES COMPUT SC, V5562, P82, DOI 10.1007/978-3-642-02674-4_7
+   France R, 2007, FOSE 2007: FUTURE OF SOFTWARE ENGINEERING, P37, DOI 10.1109/FOSE.2007.14
+   Group O.M., 2009, ARCHITECTURE DRIVEN
+   Junior J.U., 2010, P 2010 ACM S APPL CO, P2289, DOI [10.1145/1774088.1774564, DOI 10.1145/1774088.1774564]
+   Mens T, 2006, ELECTRON NOTES THEOR, V152, P125, DOI 10.1016/j.entcs.2005.10.021
+   Pérez-Castillo R, 2022, SOFTW SYST MODEL, V21, P311, DOI 10.1007/s10270-021-00912-y
+   Pérez-Castillo R, 2014, J SOFTW-EVOL PROC, V26, P1128, DOI 10.1002/smr.1652
+   Pérez-Castillo R, 2009, WORK CONF REVERSE EN, P128, DOI 10.1109/WCRE.2009.20
+   Pérez-Castillo R, 2011, COMPUT STAND INTER, V33, P519, DOI 10.1016/j.csi.2011.02.007
+   Pérez-Castillo R, 2010, LECT NOTES COMPUT SC, V6142, P168, DOI 10.1007/978-3-642-13688-7_12
+   Rodriguez-Echeverria R., 2012, MODERNIZATION LEGACY, P236, DOI DOI 10.1007/978-3-642-27997-3_24
+   Sneed HM, 2005, WCRE: 12TH WORKING CONFERENCE ON REVERSE ENGINEERING 2005, PROCEEDINGS, P111
+   Trias F., 2014, TOOLKIT ADM BASED MI
+   Trias F, 2015, ELECTRON NOTES THEOR, V314, P23, DOI 10.1016/j.entcs.2015.05.003
+   Wagner C., 2014, MODEL DRIVEN SOFTWAR, DOI [10.1007/978-3-658-05270-6, DOI 10.1007/978-3-658-05270-6]
+   Wohlin C., 2012, Experimentation in Software Engineering, DOI [10.1007/978-3-642-29044-2., DOI 10.1007/978-3-642-29044-2]
+   Wulf C., 2012, A Three-Phase Approach to Efficiently Transform C# into KDM
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD FEB
+PY 2024
+VL 26
+IS 1
+BP 1
+EP 20
+DI 10.1007/s10009-024-00735-4
+EA JAN 2024
+PG 20
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA HW1A5
+UT WOS:001148745400001
+DA 2024-08-05
+ER
+
+PT J
+AU Vu, F
+   Happe, C
+   Leuschel, M
+AF Vu, Fabian
+   Happe, Christopher
+   Leuschel, Michael
+TI Generating interactive documents for domain-specific validation of
+   formal models
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Code generation; Validation; B method; Domain-specific; Interactive;
+   Visualization
+ID SIMULATION; LANGUAGE
+AB Especially in industrial applications of formal modeling, validation is as important as verification. Thus, it is important to integrate the stakeholders' and the domain experts' feedback as early as possible. In this work, we propose two approaches to enable this: (1) a static export of an animation trace into a single HTML file, and (2) a dynamic export of a classical B model as an interactive HTML document, both based on domain-specific visualizations. For the second approach, we extend the high-level code generator B2Program by JavaScript and integrate VisB visualizations alongside SimB simulations with timing, probabilistic and interactive elements. An important aspect of this work is to ease communication between modelers and domain experts. This is achieved by implementing features to run simulations, sharing animated traces with descriptions and giving feedback to each other. This work also evaluates the performance of the generated JavaScript code compared with existing approaches with Java and C++ code generation as well as the animator, constraint solver, and model checker ProB.
+C1 [Vu, Fabian; Happe, Christopher; Leuschel, Michael] Heinrich Heine Univ Dusseldorf, Inst Informat, Math Nat Wissensch Fak, Dusseldorf, Germany.
+C3 Heinrich Heine University Dusseldorf
+RP Vu, F (corresponding author), Heinrich Heine Univ Dusseldorf, Inst Informat, Math Nat Wissensch Fak, Dusseldorf, Germany.
+EM fabian.vu@uni-duesseldorf.de; leuschel@uni-duesseldorf.de
+OI Vu, Fabian/0000-0003-2556-5553
+FU Heinrich-Heine-Universitt Dsseldorf (3102)
+FX We would like to thank anonymous reviewers for their constructive
+   feedback.
+CR Abrial J.R., 1996, B BOOK ASSIGNING PRO
+   Abrial J.-R, 2010, Modeling in Event-B: System and Software Engineering, DOI DOI 10.1017/CBO9781139195881
+   [Anonymous], 1990, IEEE Std 610.12-1990, DOI DOI 10.1109/IEEESTD.1990.101064
+   Bagwell P., 2001, Es Grands Champs, P1195
+   Baier C, 2008, PRINCIPLES OF MODEL CHECKING, P1
+   Bendisposto J, 2021, LECT NOTES COMPUT SC, V12863, P193, DOI 10.1007/978-3-030-85248-1_12
+   Bengtsson J., 1996, Hybrid Systems III. Verification and Control, P232, DOI 10.1007/BFb0020949
+   Bonfanti S, 2020, J SOFTW-EVOL PROC, V32, DOI 10.1002/smr.2205
+   Bonfanti S, 2017, LECT NOTES COMPUT SC, V10227, P295, DOI 10.1007/978-3-319-57288-8_21
+   Bonichon R, 2015, LECT NOTES COMPUT SC, V8941, P1, DOI [10.1007/978-3-319-15075-8-1, 10.1007/978-3-319-15075-8_1]
+   Boniol F., 2014, CCIS, P1, DOI [10.1007/978-3-319-07512-9_1, DOI 10.1007/978-3-319-07512-9]
+   Butler M, 2005, LECT NOTES COMPUT SC, V3582, P221
+   Carioni A, 2008, LECT NOTES COMPUT SC, V5238, P71
+   Carlsson M., 1988, SICStus Prolog User's Manual. '
+   Cataño N, 2016, LECT NOTES COMPUT SC, V9690, P166, DOI 10.1007/978-3-319-40648-0_13
+   ClearSy, 2016, US REF MAN
+   Dolle D., 2003, Technique et Science Informatiques, V22, P11, DOI 10.3166/tsi.22.11-32
+   Edmunds A, 2014, LECT NOTES COMPUT SC, V8477, P284, DOI 10.1007/978-3-662-43652-3_25
+   Essame D., 2006, B 2007: Formal Specification and Development in B. 7th International Conference of B Users. Proceedings (Lecture Notes in Computer Science vol.4355), P252
+   Fifarek AW, 2017, LECT NOTES COMPUT SC, V10227, P420, DOI 10.1007/978-3-319-57288-8_30
+   Fischer T, 2019, LECT NOTES COMPUT SC, V11495, P159, DOI 10.1007/978-3-030-18744-6_10
+   Furst A, 2014, LECT NOTES COMPUT SC, V8739, P323, DOI 10.1007/978-3-319-10181-1_20
+   Garavel H, 1998, LECT NOTES COMPUT SC, V1384, P68
+   Gargantini Angelo, 2008, 2008 The Third International Conference on Software Engineering Advances (ICSEA), P373, DOI 10.1109/ICSEA.2008.62
+   Gargantini A., 2007, P ASM WORKSH
+   Gargantini A, 2008, J UNIVERS COMPUT SCI, V14, P1949
+   GeleSSus David, 2023, Rigorous State-Based Methods: 9th International Conference, ABZ 2023, Proceedings. Lecture Notes in Computer Science (14010), P284, DOI 10.1007/978-3-031-33163-3_22
+   Gelessus David, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P248, DOI 10.1007/978-3-030-48077-6_19
+   Giannakopoulou D, 2020, LECT NOTES COMPUT SC, V12045, P19, DOI 10.1007/978-3-030-44429-7_2
+   Giannakopoulou D, 2021, INFORM SOFTWARE TECH, V137, DOI 10.1016/j.infsof.2021.106590
+   Hansen Dominik, 2012, Integrated Formal Methods. Proceedings 9th International Conference, IFM 2012, P24, DOI 10.1007/978-3-642-30729-4_3
+   Hansen D, 2020, INT J SOFTW TOOLS TE, V22, P315, DOI 10.1007/s10009-020-00551-6
+   Hansen D, 2014, LECT NOTES COMPUT SC, V8477, P40, DOI 10.1007/978-3-662-43652-3_4
+   Holzmann Gerard, 2011, SPIN MODEL CHECKER P, V1st
+   Houdek Frank, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P281, DOI 10.1007/978-3-030-48077-6_24
+   Jorgensen P.W.V., 2015, P 12 OV WORKSH
+   Kant Gijs, 2015, Tools and Algorithms for the Construction and Analysis of Systems. 21st International Conference, TACAS 2015, held as part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2015. Proceedings: LNCS 9035, P692, DOI 10.1007/978-3-662-46681-0_61
+   Körner P, 2021, FORM METHOD SYST DES, V58, P160, DOI 10.1007/s10703-020-00351-3
+   Krings Sebastian, 2018, Abstract State Machines, Alloy, B, TLA, VDM, and Z. 6th International Conference, ABZ 2018. Proceedings: LNCS 10817, P71, DOI 10.1007/978-3-319-91271-4_6
+   Ladenberger Lukas, 2015, Formal Methods and Software Engineering. 17th International Conference on Formal Engineering Methods (ICFEM 2015). Proceedings: LNCS 9407, P153, DOI 10.1007/978-3-319-25423-4_10
+   Ladenberger L., 2016, THESIS U LANDESBIBLI
+   Ladenberger L, 2017, INT J SOFTW TOOLS TE, V19, P187, DOI 10.1007/s10009-015-0395-9
+   Ladenberger L, 2009, LECT NOTES COMPUT SC, V5825, P202, DOI 10.1007/978-3-642-04570-7_17
+   Larsen Peter Gorm., 2010, SIGSOFT Softw. Eng. Notes, V35, P1, DOI DOI 10.1145/1668862.1668864
+   Leuschel Michael, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P335, DOI 10.1007/978-3-030-48077-6_27
+   Leuschel Michael, 2016, Formal Methods: Foundations and Applications. 19th Brazilian Symposium, SBMF 2016. Proceedings: LNCS 10090, P3, DOI 10.1007/978-3-319-49815-7_1
+   Leuschel M, 2003, LECT NOTES COMPUT SC, V2805, P855
+   Leuschel Michael, 2008, International Journal on Software Tools for Technology Transfer, V10, P185, DOI 10.1007/s10009-007-0063-9
+   Leuschel M., 2008, B METHOD RES TEACHIN, P17
+   Leuschel M., 2014, P ROD WORKSH
+   Leuschel M, 2022, LECT NOTES COMPUT SC, V13274, P129, DOI 10.1007/978-3-031-07727-2_8
+   Mashkoor A, 2017, SOFTW SYST MODEL, V16, P789, DOI 10.1007/s10270-016-0514-4
+   Mery D., 2011, P 2 S INF COMM TECHN, P179, DOI DOI 10.1145/2069216.2069252
+   Oda T., 2021, P INT OV WORKSH, P5
+   Oda T., 2015, GRACE TECHNICAL REPO, P18
+   Oliver I, 2007, LECT NOTES COMPUT SC, V4355, P248
+   Parr T., 2013, STRINGTEMPLATE WEBSI
+   Rivera V, 2017, INT J SOFTW TOOLS TE, V19, P31, DOI 10.1007/s10009-015-0381-2
+   Servat T, 2007, LECT NOTES COMPUT SC, V4355, P274
+   Snook C, 2021, J SYST ARCHITECT, V112, DOI 10.1016/j.sysarc.2020.101833
+   Thule C, 2019, SIMUL MODEL PRACT TH, V92, P45, DOI 10.1016/j.simpat.2018.12.005
+   Voisinet J.C., 2002, PPPJ 2002, P137
+   Vu Fabian, 2022, Formal Methods and Software Engineering: 23rd International Conference on Formal Engineering Methods, ICFEM 2022, Proceedings. Lecture Notes in Computer Science (13478), P334, DOI 10.1007/978-3-031-17244-1_20
+   Vu Fabian, 2023, Rigorous State-Based Methods: 9th International Conference, ABZ 2023, Proceedings. Lecture Notes in Computer Science (14010), P59, DOI 10.1007/978-3-031-33163-3_5
+   Vu Fabian, 2021, Rigorous State-Based Methods. 8th International Conference, ABZ 2021. Proceedings. Lecture Notes in Computer Science (LNCS 12709), P81, DOI 10.1007/978-3-030-77543-8_6
+   Vu F, 2022, LECT NOTES COMPUT SC, V13487, P32, DOI 10.1007/978-3-031-15008-1_4
+   Vu F, 2019, LECT NOTES COMPUT SC, V11918, P456, DOI 10.1007/978-3-030-34968-4_25
+   Warford J.S., 2002, MVC DESIGN PATTERN, P175, DOI [10.1007/978-3-322-91603-7_9, DOI 10.1007/978-3-322-91603-7_9]
+   Watson N, 2018, ELECTRON P THEOR COM, P95, DOI 10.4204/EPTCS.284.8
+   Werth Michelle, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P260, DOI 10.1007/978-3-030-48077-6_21
+   Witulski J., 2018, PYTHON B IMPLEMENTAT
+   Yu Y, 1999, LECT NOTES COMPUT SC, V1703, P54
+NR 72
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD APR
+PY 2024
+VL 26
+IS 2
+BP 147
+EP 168
+DI 10.1007/s10009-024-00739-0
+EA FEB 2024
+PG 22
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LY8F3
+UT WOS:001168928300002
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Mammar, A
+   Frappier, M
+AF Mammar, Amel
+   Frappier, Marc
+TI Modeling of a speed control system using <sc>Event-B</sc>
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Speed control system; < sc > Event-B </sc > method; Refinement;
+   Verification
+ID DESIGN
+AB This paper presents an Event-B model of a speed control system, a part of the case study provided in the ABZ2020 conference. The case study describes how the system regulates the current speed of a car according to a set of criteria like the driver's desired speed, the position of a possible preceding vehicle, but also a given speed limit that the driver must not exceed. For that purpose, this controller reads different information from the available sensors (key state, desired speed) and takes adequate actions by acting on the actuators of the car's speed according to the information read. To formally model this system, we adopt a stepwise refinement approach with the Event-B method. We consider most of the features of the case study. All proof obligations of the invariant properties have been discharged using the Rodin provers. Our model has been validated using ProB by applying the different provided scenarios. This validation has permitted us to point out and correct some mistakes, ambiguities and oversights contained in the first versions of the case study.
+C1 [Mammar, Amel] Inst Polytech Paris, SAMOVAR, Telecom SudParis, Palaiseau, France.
+   [Frappier, Marc] Univ Sherbrooke, Fac Sci, Dept informat, GRIC, Quebec City, PQ, Canada.
+C3 IMT - Institut Mines-Telecom; Institut Polytechnique de Paris; Telecom
+   SudParis; University of Sherbrooke
+RP Mammar, A (corresponding author), Inst Polytech Paris, SAMOVAR, Telecom SudParis, Palaiseau, France.
+EM amel.mammar@telecom-SudParis.eu
+FU DISCONT ANR French project; NSERC (Natural Sciences and Engineering
+   Research Council of Canada)
+FX This work was supported in part by the DISCONT ANR French project and
+   NSERC (Natural Sciences and Engineering Research Council of Canada).
+CR Abrial Jean-Raymond, 2010, International Journal on Software Tools for Technology Transfer, V12, P447, DOI 10.1007/s10009-010-0145-y
+   Abrial J.R., 1996, B BOOK ASSIGNING PRO, DOI DOI 10.1017/CBO9780511624162
+   Abrial J.-R, 2010, Modeling in Event-B: System and Software Engineering, DOI DOI 10.1017/CBO9781139195881
+   Arcaini Paolo, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P302, DOI 10.1007/978-3-030-48077-6_25
+   atelierb, CLEARSY
+   Bendisposto J, 2021, LECT NOTES COMPUT SC, V12863, P193, DOI 10.1007/978-3-030-85248-1_12
+   Borger Egon, 2003, Abstract State Machines: A Method for High-Level System Design and Analysis
+   Butler Michael, 2013, Theories of Programming and Formal Methods. Essays Dedicated to Jifeng He on the Occasion of His 70th Birthday. LNCS 8051, P67, DOI 10.1007/978-3-642-39698-4_5
+   Clarke E, 2004, LECT NOTES COMPUT SC, V2988, P168, DOI 10.1007/978-3-540-24730-2_15
+   Clarke EM, 2008, LECT NOTES COMPUT SC, V5000, P196
+   Event-B Consortium, SMT SOLVERS PLUG
+   Event-B Consortium, US
+   Hoang TS, 2017, IEEE INT C ENG COMP, P100, DOI 10.1109/ICECCS.2017.27
+   Houdek F., 2019, ADAPTIVE EXTERIOR LI
+   Krings Sebastian, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P382, DOI 10.1007/978-3-030-48077-6_30
+   Leuschel Michael, 2008, International Journal on Software Tools for Technology Transfer, V10, P185, DOI 10.1007/s10009-007-0063-9
+   Leuschel M., 2014, FORMAL METHODS APPL, P427, DOI 10.1002/9781119002727.ch14
+   Mammar Amel, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P367, DOI 10.1007/978-3-030-48077-6_29
+   Mammar Amel, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P351, DOI 10.1007/978-3-030-48077-6_28
+   Mammar Amel, 2018, Abstract State Machines, Alloy, B, TLA, VDM, and Z. 6th International Conference, ABZ 2018. Proceedings: LNCS 10817, P353, DOI 10.1007/978-3-319-91271-4_24
+   Mammar A., 2014, CCIS, P80
+   Mammar A., 2023, EVENT B MODEL SPEED
+   Mammar A, 2020, INT J SOFTW TOOLS TE, V22, P333, DOI 10.1007/s10009-019-00543-1
+   Mammar A, 2017, INT J SOFTW TOOLS TE, V19, P167, DOI 10.1007/s10009-015-0391-0
+   Nakahori K, 2017, IEEE ICCE
+   PARNAS DL, 1995, SCI COMPUT PROGRAM, V25, P41, DOI 10.1016/0167-6423(95)96871-J
+   Pnueli A., 1977, 18th Annual Symposium on Foundations of Computer Science, P46, DOI 10.1109/SFCS.1977.32
+   ProB, US
+   Snook C, 2006, ACM T SOFTW ENG METH, V15, P92, DOI 10.1145/1125808.1125811
+   Snook C., US
+   Thai Son Hoang, 2018, Abstract State Machines, Alloy, B, TLA, VDM, and Z. 6th International Conference, ABZ 2018. Proceedings: LNCS 10817, P251, DOI 10.1007/978-3-319-91271-4_17
+   Fotso SJT, 2020, INT J SOFTW TOOLS TE, V22, P349, DOI 10.1007/s10009-019-00542-2
+   Werth Michelle, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P260, DOI 10.1007/978-3-030-48077-6_21
+NR 33
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD JUN
+PY 2024
+VL 26
+IS 3
+BP 347
+EP 363
+DI 10.1007/s10009-024-00749-y
+EA MAY 2024
+PG 17
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ8U1
+UT WOS:001223848100001
+DA 2024-08-05
+ER
+
+PT J
+AU Jacobs, S
+   Pérez, GA
+   Abraham, R
+   Bruyére, V
+   Cadilhac, M
+   Colange, M
+   Delfosse, C
+   van Dijk, T
+   Duret-Lutz, A
+   Faymonville, P
+   Finkbeiner, B
+   Khalimov, A
+   Klein, F
+   Luttenberger, M
+   Meyer, K
+   Michaud, T
+   Pommellet, A
+   Renkin, F
+   Schlehuber-Caissier, P
+   Sakr, M
+   Sickert, S
+   Staquet, G
+   Tamines, C
+   Tentrup, L
+   Walker, A
+AF Jacobs, Swen
+   Perez, Guillermo A.
+   Abraham, Remco
+   Bruyere, Veronique
+   Cadilhac, Michael
+   Colange, Maximilien
+   Delfosse, Charly
+   van Dijk, Tom
+   Duret-Lutz, Alexandre
+   Faymonville, Peter
+   Finkbeiner, Bernd
+   Khalimov, Ayrat
+   Klein, Felix
+   Luttenberger, Michael
+   Meyer, Klara
+   Michaud, Thibaud
+   Pommellet, Adrien
+   Renkin, Florian
+   Schlehuber-Caissier, Philipp
+   Sakr, Mouhammad
+   Sickert, Salomon
+   Staquet, Gaetan
+   Tamines, Clement
+   Tentrup, Leander
+   Walker, Adam
+TI The Reactive Synthesis Competition (SYNTCOMP): 2018-2021
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article; Early Access
+DE Reactive synthesis; Algorithmic verification; Zero-sum games
+AB We report on the last four editions of the reactive synthesis competition (SYNTCOMP 2018-2021). We briefly describe the evaluation scheme and the experimental setup of SYNTCOMP. Then we introduce new benchmark classes that have been added to the SYNTCOMP library and give an overview of the participants of SYNTCOMP. Finally, we present and analyze the results of our experimental evaluations, including a ranking of tools with respect to quantity and quality-that is, the total size in terms of logic and memory elements-of solutions.
+C1 [Jacobs, Swen; Finkbeiner, Bernd] CISPA Helmholtz Ctr Informat Secur, 5 Stuhlsatzenhaus, D-66123 Saarbrucken, Germany.
+   [Perez, Guillermo A.] Univ Antwerp Flanders Make, Middelheimlaan 1, B-2020 Antwerp, Belgium.
+   [Abraham, Remco; van Dijk, Tom] Univ Twente, Enschede, Netherlands.
+   [Bruyere, Veronique; Delfosse, Charly; Staquet, Gaetan; Tamines, Clement] Univ Mons, Mons, Belgium.
+   [Cadilhac, Michael] Depaul Univ, Chicago, IL USA.
+   [Colange, Maximilien; Duret-Lutz, Alexandre; Michaud, Thibaud; Pommellet, Adrien; Renkin, Florian; Schlehuber-Caissier, Philipp] EPITA Res Lab, Le Kremlin Bicetre, France.
+   [Faymonville, Peter; Klein, Felix; Tentrup, Leander] Saarland Univ, Saarbrucken, Germany.
+   [Khalimov, Ayrat] Univ Libre Bruxelles, Brussels, Belgium.
+   [Luttenberger, Michael; Meyer, Klara; Sickert, Salomon] Tech Univ, Munich, Germany.
+   [Sakr, Mouhammad] Univ Luxembourg, Luxembourg, Luxembourg.
+C3 University of Twente; University of Mons; DePaul University; Saarland
+   University; Universite Libre de Bruxelles; Technical University of
+   Munich; University of Luxembourg
+RP Jacobs, S (corresponding author), CISPA Helmholtz Ctr Informat Secur, 5 Stuhlsatzenhaus, D-66123 Saarbrucken, Germany.; Pérez, GA (corresponding author), Univ Antwerp Flanders Make, Middelheimlaan 1, B-2020 Antwerp, Belgium.
+EM jacobs@cispa.de; guillermo.perez@uantwerp.be
+OI Perez, Guillermo/0000-0002-1200-4952
+CR Perez GA, 2020, Arxiv, DOI arXiv:1912.05793
+   Abraham R., 2021, Symbolic LTL reactive synthesis
+   Apt K. R., 2011, Lectures in Game Theory for Computer Scientists
+   Babiak Tomas, 2013, Model Checking Software. 20th International Symposium, SPIN 2013. Proceedings, P81, DOI 10.1007/978-3-642-39176-7_6
+   Babiak T, 2015, LECT NOTES COMPUT SC, V9206, P479, DOI 10.1007/978-3-319-21690-4_31
+   Baier C, 2008, PRINCIPLES OF MODEL CHECKING, P1
+   Balint Adrian, 2011, Learning and Intelligent Optimization. 5th International Conference, LION 5. Selected Papers, P586, DOI 10.1007/978-3-642-25566-3_46
+   Biere A., 2007, Hardware model checking competition
+   Biere A., 2011, Aiger format and toolbox
+   Bloem R, 2014, LECT NOTES COMPUT SC, V8318, P1, DOI 10.1007/978-3-642-54013-4_1
+   Bohy Aaron, 2012, Computer Aided Verification. Proceedings 24th International Conference, CAV 2012, P652, DOI 10.1007/978-3-642-31424-7_45
+   Bohy A., 2014, Antichain based algorithms for the synthesis of reactive systems
+   Boker U, 2010, LEIBNIZ INT PR INFOR, V8, P412, DOI 10.4230/LIPIcs.FSTTCS.2010.412
+   Bruyere Veronique, 2019, Reachability Problems. 13th International Conference, RP 2019. Proceedings: Lecture Notes in Computer Science (LNCS 11674), P63, DOI 10.1007/978-3-030-30806-3_6
+   Cadilhac Michael, 2023, Tools and Algorithms for the Construction and Analysis of Systems: 29th International Conference, TACAS 2023, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2022, Proceedings. Lecture Notes in Computer Science (13994), P192, DOI 10.1007/978-3-031-30820-8_14
+   Camacho A, 2018, PROCEEDINGS OF THE TWENTY-SEVENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P4683
+   Casares A., 2021, 48 INT C AUT LANG PR, DOI [10.4230/LIPIcs.ICALP.2021.123, DOI 10.4230/LIPICS.ICALP.2021.123]
+   Casares A, 2022, LECT NOTES COMPUT SC, V13244, P99, DOI 10.1007/978-3-030-99527-0_6
+   Chatterjee K, 2007, LECT NOTES COMPUT SC, V4423, P153
+   Church A., 1964, J. Symb. Log., V29
+   Church A., 1957, Summaries of the Summer Institute of Symbolic Logic, P3
+   Clarke E.M., 2018, Handbook of Model Checking, V10, DOI DOI 10.1007/978-3-319-10575-8
+   de Alfaro L, 2010, INFORM COMPUT, V208, P666, DOI 10.1016/j.ic.2009.05.007
+   de Berg Mark, 2008, Computational Geometry, V3rd, DOI DOI 10.1007/978-3-540-77974-2
+   Duret-Lutz A, 2016, LECT NOTES COMPUT SC, V9938, P122, DOI 10.1007/978-3-319-46520-3_8
+   Ehlers R, 2011, LECT NOTES COMPUT SC, V6605, P272, DOI 10.1007/978-3-642-19835-9_25
+   Ehlers R, 2010, LECT NOTES COMPUT SC, V6174, P365, DOI 10.1007/978-3-642-14295-6_33
+   Esparza J, 2020, J ACM, V67, DOI 10.1145/3417995
+   Esparza J, 2018, LICS'18: PROCEEDINGS OF THE 33RD ANNUAL ACM/IEEE SYMPOSIUM ON LOGIC IN COMPUTER SCIENCE, P384, DOI 10.1145/3209108.3209161
+   Faymonville P, 2017, LECT NOTES COMPUT SC, V10427, P325, DOI 10.1007/978-3-319-63390-9_17
+   Finkbeiner B., 2021, Proceedings for the 13th NASA Formal Methods Symposium (NFM21), DOI [10.1007/978-3-030-76384-88, DOI 10.1007/978-3-030-76384-88]
+   Finkbeiner B, 2019, PROCEEDINGS OF THE 12TH ACM SIGPLAN INTERNATIONAL SYMPOSIUM ON HASKELL (HASKELL '19), P162, DOI 10.1145/3331545.3342601
+   Finkbeiner B, 2019, LECT NOTES COMPUT SC, V11561, P609, DOI 10.1007/978-3-030-25540-4_35
+   Finkbeiner B, 2016, LECT NOTES COMPUT SC, V9779, P118, DOI 10.1007/978-3-319-41528-4_7
+   Friedmann O, 2009, LECT NOTES COMPUT SC, V5799, P182, DOI 10.1007/978-3-642-04761-9_15
+   Geier G, 2019, 2019 FORMAL METHODS IN COMPUTER AIDED DESIGN (FMCAD), P138, DOI [10.23919/FMCAD.2019.8894261, 10.23919/fmcad.2019.8894261]
+   Jacobs Swen, 2023, Zenodo, DOI 10.5281/ZENODO.7588780
+   Jacobs S, 2014, Arxiv, DOI arXiv:1405.5793
+   Jacobs S, 2021, LECT NOTES COMPUT SC, V12760, P435, DOI 10.1007/978-3-030-81688-9_20
+   Jacobs S, 2017, ELECTRON P THEOR COM, P116, DOI 10.4204/EPTCS.260.10
+   Jacobs S, 2017, INT J SOFTW TOOLS TE, V19, P367, DOI 10.1007/s10009-016-0416-3
+   Jacobs S, 2016, ELECTRON P THEOR COM, P112, DOI 10.4204/EPTCS.229.10
+   Kretínsky J, 2018, LECT NOTES COMPUT SC, V11138, P543, DOI 10.1007/978-3-030-01090-4_34
+   Lijzenga O, 2020, ELECTRON P THEOR COM, P18, DOI 10.4204/EPTCS.326.2
+   Luttenberger M, 2012, Arxiv, DOI arXiv:0806.2923
+   Luttenberger M, 2020, ACTA INFORM, V57, P3, DOI 10.1007/s00236-019-00349-3
+   Meyer P.J., 2021, 10 WORKSH SYNTH
+   Meyer PJ, 2018, LECT NOTES COMPUT SC, V10981, P578, DOI 10.1007/978-3-319-96145-3_31
+   Müller D, 2017, ELECTRON P THEOR COM, P180, DOI 10.4204/EPTCS.256.13
+   Piterman N, 2007, LOG METH COMPUT SCI, V3, DOI 10.2168/LMCS-3(3:5)2007
+   Pnueli A., 1977, 18th Annual Symposium on Foundations of Computer Science, P46, DOI 10.1109/SFCS.1977.32
+   Renkin F., 2021, 10 WORKSH SYNTH
+   Renkin F, 2022, LECT NOTES COMPUT SC, V13273, P114, DOI 10.1007/978-3-031-08679-3_8
+   Renkin F, 2020, LECT NOTES COMPUT SC, V12302, P127, DOI 10.1007/978-3-030-59152-6_7
+   Safra S., 1988, 29th Annual Symposium on Foundations of Computer Science (IEEE Cat. No.88CH2652-6), P319, DOI 10.1109/SFCS.1988.21948
+   Seidl M, 2014, DES AUT TEST EUROPE
+   Sickert S, 2020, IEEE S LOG, P831, DOI 10.1145/3373718.3394743
+   Somenzi F., 2005, CUDD package
+   Stump A, 2014, LECT NOTES ARTIF INT, V8562, P367, DOI 10.1007/978-3-319-08587-6_28
+   Tentrup L, 2019, LECT NOTES COMPUT SC, V11628, P388, DOI 10.1007/978-3-030-24258-9_27
+   van Dijk T, 2019, ELECTRON P THEOR COM, P123, DOI 10.4204/EPTCS.305.9
+   van Dijk T, 2018, LECT NOTES COMPUT SC, V10805, P291, DOI 10.1007/978-3-319-89960-2_16
+   van Dijk T, 2017, INT J SOFTW TOOLS TE, V19, P675, DOI 10.1007/s10009-016-0433-2
+   Vardi MosheY., 1984, Proceedings of the sixteenth annual ACM symposium on Theory of computing, STOC '84, P446, DOI [10.1145/800057.808711, DOI 10.1145/800057.808711]
+NR 64
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD 2024 JUN 11
+PY 2024
+DI 10.1007/s10009-024-00754-1
+EA JUN 2024
+PG 17
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TU7S9
+UT WOS:001243845500001
+DA 2024-08-05
+ER
+
+PT J
+AU Arcaini, P
+   Bonfanti, S
+   Gargantini, A
+   Riccobene, E
+   Scandurra, P
+AF Arcaini, Paolo
+   Bonfanti, Silvia
+   Gargantini, Angelo
+   Riccobene, Elvinia
+   Scandurra, Patrizia
+TI A journey with ASMETA from requirements to code: application to an
+   automotive system with adaptive features
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Automotive system modeling; Abstract state machines; ASMETA;
+   Self-adaptation; Code generation
+ID MODEL
+AB Modern automotive systems with adaptive control features require rigorous analysis to guarantee correct operation. We report our experience in modeling the automotive case study from the ABZ2020 conference using the ASMETA toolset, based on the Abstract State Machine formal method. We adopted a seamless system engineering method: from an incremental formal specification of high-level requirements to increasingly refined ASMETA models, to the C++ code generation from the model. Along this process, different validation and verification activities were performed. We explored modeling styles and idioms to face the modeling complexity and ensure that the ASMETA models can best capture and reflect specific behavioral patterns. Through this realistic automotive case study, we evaluated the applicability and usability of our formal modeling approach.
+C1 [Arcaini, Paolo] Natl Inst Informat, Tokyo, Japan.
+   [Bonfanti, Silvia; Gargantini, Angelo; Scandurra, Patrizia] Univ Bergamo, Bergamo, Italy.
+   [Riccobene, Elvinia] Univ Milan, Milan, Italy.
+C3 Research Organization of Information & Systems (ROIS); National
+   Institute of Informatics (NII) - Japan; University of Bergamo;
+   University of Milan
+RP Bonfanti, S (corresponding author), Univ Bergamo, Bergamo, Italy.
+EM arcaini@nii.ac.jp; silvia.bonfanti@unibg.it; angelo.gargantini@unibg.it;
+   elvinia.riccobene@unimi.it; patrizia.scandurra@unibg.it
+RI Arcaini, Paolo/J-3616-2017
+OI Arcaini, Paolo/0000-0002-6253-4062; Bonfanti, Silvia/0000-0001-9679-4551
+FU Universit degli studi di Bergamo
+FX We thank the student Giorgio Brugali who performed the translation from
+   the ASMETA models to Arduino code and realized the Arduino
+   implementation.
+CR Arcaini Paolo, 2020, Formal Methods. FM 2019 International Workshops. Revised Selected Papers. Lecture Notes in Computer Science (LNCS 12232), P61, DOI 10.1007/978-3-030-54994-7_6
+   Arcaini Paolo, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P302, DOI 10.1007/978-3-030-48077-6_25
+   Arcaini P., 2021, LOGIC COMPUTATION RI, P215, DOI [10.1007/978-3-030-76020-5_13, DOI 10.1007/978-3-030-76020-513]
+   Arcaini P, 2020, J SYST SOFTWARE, V164, DOI 10.1016/j.jss.2020.110558
+   Arcaini P, 2018, ELECTRON P THEOR COM, P26, DOI 10.4204/EPTCS.284.3
+   Arcaini P, 2018, SCI COMPUT PROGRAM, V158, P148, DOI 10.1016/j.scico.2017.07.003
+   Arcaini P, 2017, INT J SOFTW TOOLS TE, V19, P247, DOI 10.1007/s10009-015-0394-x
+   Arcaini P, 2017, ACM T AUTON ADAP SYS, V11, DOI 10.1145/3019598
+   Arcaini P, 2016, LECT NOTES COMPUT SC, V9763, P253, DOI 10.1007/978-3-319-41591-8_17
+   Arcaini P, 2016, FORM ASP COMPUT, V28, P567, DOI 10.1007/s00165-016-0371-5
+   Arcaini P, 2016, LECT NOTES COMPUT SC, V9675, P231, DOI 10.1007/978-3-319-33600-8_14
+   Arcaini P, 2015, 2015 ACM/IEEE INTERNATIONAL CONFERENCE ON FORMAL METHODS AND MODELS FOR CODESIGN (MEMOCODE), P80, DOI 10.1109/MEMCOD.2015.7340473
+   Arcaini P, 2011, SOFTWARE PRACT EXPER, V41, P155, DOI 10.1002/spe.1019
+   Arcaini P, 2010, LECT NOTES COMPUT SC, V5977, P61, DOI 10.1007/978-3-642-11811-1_6
+   Arcaini Paolo., 2010, NASA Formal Methods Symposium, P4
+   Banach R, 2014, SCI COMPUT PROGRAM, V94, P109, DOI 10.1016/j.scico.2014.04.013
+   Blass A., 2003, ACM Transactions on Computational Logic, V4, P578, DOI 10.1145/937555.937561
+   Bombarda Andrea, 2021, Rigorous State-Based Methods. 8th International Conference, ABZ 2021. Proceedings. Lecture Notes in Computer Science (LNCS 12709), P105, DOI 10.1007/978-3-030-77543-8_8
+   Bombarda Andrea, 2019, Software Technology: Methods and Tools. 51st International Conference, TOOLS 2019. Proceedings. Lecture Notes in Computer Science (LNCS 11771), P89, DOI 10.1007/978-3-030-29852-4_7
+   BOMBARDA A, 2021, ELECTRON P THEOR COM, P13, DOI DOI 10.4204/EPTCS.349.2
+   Bombarda A, 2019, LECT NOTES COMPUT SC, V11812, P67, DOI 10.1007/978-3-030-31280-0_5
+   Bonfanti Silvia, 2018, Abstract State Machines, Alloy, B, TLA, VDM, and Z. 6th International Conference, ABZ 2018. Proceedings: LNCS 10817, P369, DOI 10.1007/978-3-319-91271-4_25
+   Bonfanti S, 2021, LECT NOTES COMPUT SC, V12857, P20, DOI 10.1007/978-3-030-86044-8_2
+   Bonfanti S, 2020, J SOFTW-EVOL PROC, V32, DOI 10.1002/smr.2205
+   Borger E., 2003, Formal Aspects of Computing, V15, P237, DOI 10.1007/s00165-003-0012-7
+   Borger E., 2003, ABSTRACT STATE MACHI, DOI [10.1007/978-3-642-18216-7, DOI 10.1007/978-3-642-18216-7]
+   Börger E, 2016, ACTA INFORM, V53, P469, DOI 10.1007/s00236-015-0249-7
+   Borger Egon, 2018, Modeling Companion for Software Practitioners, DOI [10.1007/978-3-662-56641-1, DOI 10.1007/978-3-662-56641-1]
+   Cunha Alcino, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P318, DOI 10.1007/978-3-030-48077-6_26
+   Farahbod R, 2007, FUND INFORM, V77, P71
+   Gaspari P, 2019, 13TH EUROPEAN CONFERENCE ON SOFTWARE ARCHITECTURE (ECSA 2019), VOL 2, P156, DOI 10.1145/3344948.3344993
+   Houdek Frank, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P281, DOI 10.1007/978-3-030-48077-6_24
+   Kephart JO, 2003, COMPUTER, V36, P41, DOI 10.1109/MC.2003.1160055
+   Krings Sebastian, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P382, DOI 10.1007/978-3-030-48077-6_30
+   Leuschel Michael, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P335, DOI 10.1007/978-3-030-48077-6_27
+   Lezuo R, 2014, ACM SIGPLAN NOTICES, V49, P13, DOI [10.1145/10.1145/2597809.2597813, 10.1145/2666357.2597813]
+   Mammar Amel, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P367, DOI 10.1007/978-3-030-48077-6_29
+   Mammar Amel, 2020, Rigorous State-Based Methods. 7th International Conference, ABZ 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12071), P351, DOI 10.1007/978-3-030-48077-6_28
+   Mirandola R, 2014, J SYST SOFTWARE, V89, P109, DOI 10.1016/j.jss.2013.11.002
+   Riccobene E, 2014, LECT NOTES COMPUT SC, V8477, P204, DOI 10.1007/978-3-662-43652-3_17
+   Schmid J., 2001, FORMAL METHODS TOOLS
+   Sommerville I., 2010, Software Engineering, V9th
+NR 42
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD JUN
+PY 2024
+VL 26
+IS 3
+BP 379
+EP 401
+DI 10.1007/s10009-024-00751-4
+EA MAY 2024
+PG 23
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ8U1
+UT WOS:001226716000001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Pedro, AM
+   Silva, T
+   Sequeira, T
+   Lourenço, J
+   Seco, JC
+   Ferreira, C
+AF Pedro, Andre Matos
+   Silva, Tomas
+   Sequeira, Tiago
+   Lourenco, Joao
+   Seco, Joao Costa
+   Ferreira, Carla
+TI Monitoring of spatio-temporal properties with nonlinear SAT solvers
+SO INTERNATIONAL JOURNAL ON SOFTWARE TOOLS FOR TECHNOLOGY TRANSFER
+LA English
+DT Article
+DE Formalization of traffic rules; Autonomous vehicles; Spatio-temporal
+   logic; Runtime verification; Rutime monitoring; Non-linear SAT solvers
+ID MODEL; SAFETY; RCC-8; LOGIC
+AB The automotive industry is increasingly dependent on computing systems with different critical requirements. The verification and validation methods for these systems are now leveraging complex AI methods, for which the decision algorithms introduce non-determinism, especially in autonomous driving. This paper presents a runtime verification technique agnostic to the target system, which focuses on monitoring spatio-temporal properties that abstract the evolution of objects' behavior in their spatial and temporal flow. First, a formalization of three known traffic rules (from the Vienna convention on road traffic) is presented, where a spatio-temporal logic fragment is used. Then, these logical expressions are translated to a monitoring model written in first-order logic, where they are processed by a non-linear satisfiability solver. Finally, the translation allows the solver to check the validity of the encoded properties according to an instance of a specific traffic scenario (a trace). The results obtained from our tool, which automatically generates a monitor from a formula, show that our approach is feasible for online monitoring in a real-world environment.
+C1 [Pedro, Andre Matos; Silva, Tomas; Sequeira, Tiago] VORTEX CoLab, Vila Nova De Gaia, Portugal.
+   [Silva, Tomas; Lourenco, Joao; Seco, Joao Costa; Ferreira, Carla] NOVA Univ Lisbon, NOVA LINCS, FCT, Caparica, Portugal.
+C3 Universidade Nova de Lisboa
+RP Pedro, AM (corresponding author), VORTEX CoLab, Vila Nova De Gaia, Portugal.
+RI de Matos Pedro, André/B-3717-2019
+OI de Matos Pedro, André/0000-0001-9452-0995; Ferreira,
+   Carla/0000-0003-3680-7634; Costa Seco, Joao/0000-0002-2840-3966
+FU Universidade Nova de Lisboa
+FX We would like to express our sincere gratitude to the anonymous
+   reviewers for their invaluable feedback and constructive criticism of
+   this article. Their insightful comments and recommendations have greatly
+   improved the quality and clarity of this paper.
+CR Aiello M, 2007, HANDBOOK OF SPATIAL LOGICS, P1, DOI 10.1007/978-1-4020-5587-4
+   Akintunde ME, 2022, AUTON AGENT MULTI-AG, V36, DOI 10.1007/s10458-021-09529-3
+   Alves Gleifer Vaz, 2020, Formal Methods. FM 2019 International Workshops. Revised Selected Papers. Lecture Notes in Computer Science (LNCS 12232), P217, DOI 10.1007/978-3-030-54994-7_16
+   Alves GV, 2021, J SENS ACTUAT NETW, V10, DOI 10.3390/jsan10030041
+   [Anonymous], 2005, We Will Show Them! Essays in Honour of Dov Gabbay, Volume Two
+   [Anonymous], 2003, IJCAI 03
+   Aréchiga N, 2019, IEEE INT VEH SYM, P58, DOI 10.1109/IVS.2019.8813875
+   Association for Standardisation of Automation and Measuring Systems, US
+   Bartocci E, 2017, MEMOCODE 2017: PROCEEDINGS OF THE 15TH ACM-IEEE INTERNATIONAL CONFERENCE ON FORMAL METHODS AND MODELS FOR SYSTEM DESIGN, P147, DOI 10.1145/3127041.3127050
+   Bartocci E, 2018, IEEE T CONTROL NETW, V5, P308, DOI 10.1109/TCNS.2016.2609138
+   Bennett B, 2002, APPL INTELL, V17, P239, DOI 10.1023/A:1020083231504
+   Bhuiyan H, 2020, FRONT ARTIF INTEL AP, V334, P3, DOI 10.3233/FAIA200844
+   Borg M., 2018, J AUTOM SOFTW ENG, V1, P12
+   Bresolin D., 2010, Proceedings of the 2010 17th International Symposium on Temporal Representation and Reasoning (TIME 2010), P95, DOI 10.1109/TIME.2010.22
+   Buonamici FB, 2020, INT J SOFTW TOOLS TE, V22, P195, DOI 10.1007/s10009-019-00511-9
+   Cardoso R.C., 2021, Curr. Robot. Rep, V2, P273, DOI DOI 10.1007/S43154-021-00058-1
+   Ciancia Vincenzo, 2014, Theoretical Computer Science. 8th IFIP TC 1/WG 2.2 International Conference, TCS 2014. Proceedings: LNCS 8705, P222, DOI 10.1007/978-3-662-44602-7_18
+   Ciancia V, 2018, INT J SOFTW TOOLS TE, V20, P289, DOI 10.1007/s10009-018-0483-8
+   Ciancia V, 2016, LECT NOTES COMPUT SC, V9952, P657, DOI 10.1007/978-3-319-47166-2_46
+   Ciancia V, 2016, LECT NOTES COMPUT SC, V9700, P156, DOI 10.1007/978-3-319-34096-8_6
+   Ciancia V, 2015, LECT NOTES COMPUT SC, V9509, P297, DOI 10.1007/978-3-662-49224-6_24
+   de Moura L, 2008, LECT NOTES COMPUT SC, V4963, P337, DOI 10.1007/978-3-540-78800-3_24
+   Dosovitskiy A., 2017, P 1 ANN C ROB LEARN, P1, DOI DOI 10.48550/ARXIV.1711.03938
+   Emerson E.A., 1990, Formal Models and Semantics, P995, DOI [10.1016/B978-0-444-88074-1.50021-4, 10.1016/B978-0-444-88074-1.50021-4.]
+   Gabelaia D, 2005, J ARTIF INTELL RES, V23, P167, DOI 10.1613/jair.1537
+   Gerevini A, 2002, FRONT ARTIF INTEL AP, V77, P312
+   Grosu R, 2009, COMMUN ACM, V52, P97, DOI 10.1145/1467247.1467271
+   Haghighi I., 2015, P 18 INT C HYBR SYST, P189, DOI DOI 10.1145/2728606.2728633
+   Hilscher M, 2011, LECT NOTES COMPUT SC, V6991, P404, DOI 10.1007/978-3-642-24559-6_28
+   Huang XW, 2020, COMPUT SCI REV, V37, DOI 10.1016/j.cosrev.2020.100270
+   Kane A., 2015, THESIS CARNEGIE MELL
+   Kutz O., 2003, ACM Transactions on Computational Logic, V4, P260, DOI 10.1145/635499.635504
+   Leucker M, 2009, J LOGIC ALGEBR PROGR, V78, P293, DOI 10.1016/j.jlap.2008.08.004
+   Li TF, 2021, MOBILE NETW APPL, V26, P2392, DOI 10.1007/s11036-021-01779-5
+   Li TF, 2020, 2020 IEEE 20TH INTERNATIONAL CONFERENCE ON SOFTWARE QUALITY, RELIABILITY, AND SECURITY (QRS 2020), P309, DOI 10.1109/QRS51102.2020.00048
+   Li TF, 2020, J CLOUD COMPUT-ADV S, V9, DOI 10.1186/s13677-020-00209-3
+   Linker S, 2015, LOG METH COMPUT SCI, V11, DOI 10.2168/LMCS-11(3:4)2015
+   Ma MY, 2020, ACM IEEE INT CONF CY, P51, DOI 10.1109/ICCPS48487.2020.00013
+   Maierhofer S, 2020, IEEE INT VEH SYM, P752, DOI 10.1109/IV47402.2020.9304549
+   Mehmed A., 2020, THESIS MALARDALEN U
+   Muller P., 1998, P 6 INT C PRINC KNOW, P131
+   Nenzi L, 2018, LOG METH COMPUT SCI, V14, DOI 10.23638/LMCS-14(4:2)2018
+   Pedro AD, 2022, LECT NOTES COMPUT SC, V13487, P155, DOI 10.1007/978-3-031-15008-1_11
+   Prakken H, 2017, ARTIF INTELL LAW, V25, P341, DOI 10.1007/s10506-017-9210-0
+   REIF J, 1985, J COMPUT SYST SCI, V30, P41, DOI 10.1016/0022-0000(85)90003-0
+   Riedmaier S, 2020, IEEE ACCESS, V8, P87456, DOI 10.1109/ACCESS.2020.2993730
+   Rizaldi Albert, 2017, Integrated Formal Methods. 13th International Conference, IFM 2017. Proceedings: LNCS 10510, P50, DOI 10.1007/978-3-319-66845-1_4
+   Sahin YE, 2020, P AMER CONTR CONF, P454, DOI [10.23919/ACC45564.2020.9147917, 10.23919/acc45564.2020.9147917]
+   Sánchez C, 2019, FORM METHOD SYST DES, V54, P279, DOI 10.1007/s10703-019-00337-w
+   Schwammberger M, 2021, ELECTRON P THEOR COM, P1, DOI 10.4204/EPTCS.348.1
+   Schwammberger M, 2018, THEOR COMPUT SCI, V744, P143, DOI 10.1016/j.tcs.2018.05.028
+   Shao ZC, 2013, IEEE INT C ENG COMP, P101, DOI 10.1109/ICECCS.2013.23
+   Sun HY, 2015, ASIA PAC SOFWR ENG, P254, DOI 10.1109/APSEC.2015.58
+   Tsigkanos C., 2018, SOFTWARE ENG SOFTWAR, P113
+   United Nations, 1968, VIENNA CONVENTION RO
+   Vasile Cristian-Ioan, 2017, 2017 IEEE International Conference on Robotics and Automation (ICRA), P1481, DOI 10.1109/ICRA.2017.7989177
+   Wolter F, 2000, FRONT ARTIF INTEL AP, V54, P244
+   Xu BQ, 2016, IEEE INT C ENG COMP, P33, DOI [10.1109/ICECCS.2016.22, 10.1109/ICECCS.2016.014]
+NR 58
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1433-2779
+EI 1433-2787
+J9 INT J SOFTW TOOLS TE
+JI Int. J. Softw. Tools Technol. Transf.
+PD APR
+PY 2024
+VL 26
+IS 2
+BP 169
+EP 188
+DI 10.1007/s10009-024-00740-7
+EA FEB 2024
+PG 20
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LY8F3
+UT WOS:001167199900001
+OA hybrid
+DA 2024-08-05
+ER
+
+EF

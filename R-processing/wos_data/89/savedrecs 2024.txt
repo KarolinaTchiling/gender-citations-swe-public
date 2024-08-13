@@ -1,0 +1,1070 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yang, JF
+   Ying, XH
+   Shi, YJ
+   Wang, RB
+AF Yang, Jinfa
+   Ying, Xianghua
+   Shi, Yongjie
+   Wang, Ruibin
+TI Improving static and temporal knowledge graph embedding using affine
+   transformations of entities
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Knowledge graph; Static knowledge graph embedding; Temporal knowledge
+   graph embedding; Link prediction
+AB To find a suitable embedding for a knowledge graph (KG) remains a big challenge nowadays. By measuring the distance or plausibility of triples and quadruples in static and temporal knowledge graphs, many reliable knowledge graph embedding (KGE) models are proposed. However, these classical models may not be able to represent and infer various relation patterns well, such as TransE cannot represent symmetric relations, DistMult cannot represent inverse relations, RotatE cannot represent multiple relations, etc .. In this paper, we improve the ability of these models to represent various relation patterns by introducing the affine transformation framework. Specifically, we first utilize a set of affine transformations related to each relation or timestamp to operate on entity vectors, and then these transformed vectors can be applied not only to static KGE models, but also to temporal KGE models. The main advantage of using affine transformations is their good geometry properties with interpretability. Our experimental results demonstrate that the proposed intuitive design with affine transformations provides a statistically significant increase in performance with adding a few extra processing steps and keeping the same number of embedding parameters. Taking TransE as an example, we employ the scale transformation (the special case of an affine transformation). Surprisingly, it even outperforms RotatE to some extent on various datasets. We also introduce affine transformations into RotatE, Distmult, ComplEx, TTransE and TComplEx respectively, and experiments demonstrate that affine transformations consistently and significantly improve the performance of state-of-the-art KGE models on both static and temporal knowledge graph benchmarks.
+C1 [Yang, Jinfa; Ying, Xianghua; Shi, Yongjie; Wang, Ruibin] Peking Univ, Sch Intelligence Sci & Technol, Natl Key Lab Gen Artificial Intelligence, Beijing, Peoples R China.
+C3 Peking University
+RP Ying, XH (corresponding author), Peking Univ, Sch Intelligence Sci & Technol, Natl Key Lab Gen Artificial Intelligence, Beijing, Peoples R China.
+EM xhying@pku.edu.cn
+FU National Natural Science Founda-tion of China (NSFC) [62371009,
+   61971008]
+FX <B>Acknowledgments</B> This work was supported by the National Natural
+   Science Founda-tion of China (NSFC) (No. 62371009 and No. 61971008) .
+CR Balazevic I, 2019, ADV NEUR IN, V32
+   Bollacker K., 2008, P 2008 ACM SIGMOD IN, P1247, DOI 10.1145/1376616.1376746
+   Bordes A., 2013, P ANN C NEUR INF PRO
+   Cao ZS, 2021, AAAI CONF ARTIF INTE, V35, P6894
+   Chen K, 2022, PROCEEDINGS OF THE 60TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022), VOL 1: (LONG PAPERS), P5843
+   Nguyen DQ, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020), P3429
+   Dasgupta SS, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P2001
+   Dettmers T, 2018, AAAI CONF ARTIF INTE, P1811
+   Duchi J, 2011, J MACH LEARN RES, V12, P2121
+   García-Durán A, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), P4816
+   Goel R, 2020, AAAI CONF ARTIF INTE, V34, P3988
+   Hogan A, 2021, ACM COMPUT SURV, V54, DOI 10.1145/3447772
+   Huang ZS, 2017, LECT NOTES COMPUT SC, V10594, P149, DOI 10.1007/978-3-319-69182-4_16
+   Ji GL, 2016, AAAI CONF ARTIF INTE, P985
+   Ji GL, 2015, PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING, VOL 1, P687
+   Jiang T., 2016, Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers, P1715
+   Kazemi SM, 2018, ADV NEUR IN, V31
+   Kingma D. P., 2014, arXiv
+   Lacroix T., 2020, ICLR
+   Lacroix T, 2018, PR MACH LEARN RES, V80
+   Lautenschlager J., 2015, Harvard Dataverse, V3, P28
+   Leblay J, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P1771, DOI 10.1145/3184558.3191639
+   Lehmann J, 2015, SEMANT WEB, V6, P167, DOI 10.3233/SW-140134
+   Lin YK, 2015, AAAI CONF ARTIF INTE, P2181
+   Lu SQ, 2020, PROCEEDINGS OF THE 43RD INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '20), P709, DOI 10.1145/3397271.3401089
+   Ma YP, 2019, J WEB SEMANT, V59, DOI 10.1016/j.websem.2018.12.008
+   Mahdisoltani F., 2014, CIDR
+   McGuinness D.L., 2004, W3C recommendation, V10, DOI DOI 10.2004-03
+   MILLER GA, 1995, COMMUN ACM, V38, P39, DOI 10.1145/219717.219748
+   Nickel M., 2011, ICML, P809
+   Paszke A, 2019, ADV NEUR IN, V32
+   Sadeghian A, 2021, AAAI CONF ARTIF INTE, V35, P6471
+   Singh K, 2020, J WEB SEMANT, V65, DOI 10.1016/j.websem.2020.100594
+   Suchanek F.M., 2007, P 16 INT C WORLD WID, P697, DOI 10.1145/1242572.1242667
+   Sun ZY, 2022, INT J COAL PREP UTIL, V42, P221, DOI [10.1080/19392699.2019.1590346, 10.1109/eurosime.2019.8724592]
+   Tiddi I, 2022, ARTIF INTELL, V302, DOI 10.1016/j.artint.2021.103627
+   Toutanova D., 2015, P 3 WORKSH CONT VECT, P57, DOI [10.18653/V1/W15-4007, DOI 10.18653/V1/W15-4007]
+   Trouillon T, 2016, PR MACH LEARN RES, V48
+   Vashishth S, 2020, AAAI CONF ARTIF INTE, V34, P3009
+   Wang Z, 2014, AAAI CONF ARTIF INTE, P1112
+   Xu CJ, 2020, Arxiv, DOI arXiv:1911.07893
+   Xu Chengjin, 2020, P 28 INT C COMPUTATI, P1583, DOI DOI 10.18653/V1/2020.COLING-MAIN.139
+   Yang B., 2015, P INT C LEARN REPR I
+   Yang J., 2022, P 29 INT C COMP LING, P2011
+   Yang JF, 2021, FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, EMNLP 2021, P508
+   Zaporojets Klim, 2022, P ANN C NEUR INF PRO, V35, P1850
+   Zhang S, 2019, ADV NEUR IN, V32
+   Zhang ZQ, 2020, AAAI CONF ARTIF INTE, V34, P3065
+   Zhou K, 2020, KDD '20: PROCEEDINGS OF THE 26TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P1006, DOI 10.1145/3394486.3403143
+NR 49
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD OCT
+PY 2024
+VL 82
+AR 100824
+DI 10.1016/j.websem.2024.100824
+EA JUN 2024
+PG 11
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD4E8
+UT WOS:001252910900001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, WJ
+   Wang, H
+   Wang, JY
+   Guo, H
+   Sun, YY
+   Hou, MS
+   Yu, B
+   Wang, HL
+   Peng, QC
+   Zhang, C
+   Liu, C
+AF Liu, Wenjun
+   Wang, Hai
+   Wang, Jieyang
+   Guo, Huan
+   Sun, Yuyan
+   Hou, Mengshu
+   Yu, Bao
+   Wang, Hailan
+   Peng, Qingcheng
+   Zhang, Chao
+   Liu, Cheng
+TI A popular topic detection method based on microblog images and short
+   text information
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Topic detection; Image description; Semantic similarity; Internet New
+   Word Detection; Short Text
+ID WORDS; MODEL; BTM
+AB Popular topic detection is a topic identification by the information of documents posted by users in social networking platforms. In a large body of research literature, most popular topic detection methods identify the distribution of unknown topics by integrating information from documents based on social networking platforms. However, among these popular topic detection methods, most of them have a low accuracy in topic detection due to the short text content and the abundance of useless punctuation marks and emoticons. Image information in short texts has also been overlooked, while this information may contain the real topic matter of the user 's posted content. In order to solve the above problems and improve the quality of topic detection, this paper proposes a popular topic detection method based on microblog images and short text information. The method uses an image description model to obtain more information about short texts, identifies hot words by a new word discovery algorithm in the preprocessing stage, and uses a PTM model to improve the quality and effectiveness of topic detection during topic detection and aggregation. The experimental results show that the topic detection method in this paper improves the values of evaluation indicators compared with the other three topic detection methods. In conclusion, the popular topic detection method proposed in this paper can improve the performance of topic detection by integrating microblog images and short text information, and outperforms other topic detection methods selected in this paper.
+C1 [Liu, Wenjun; Wang, Hai; Guo, Huan; Sun, Yuyan; Yu, Bao; Wang, Hailan; Peng, Qingcheng] XiHua Univ, Sch Comp & Software Engn, Chengdu 610039, Peoples R China.
+   [Liu, Wenjun; Wang, Jieyang; Hou, Mengshu; Liu, Cheng] Univ Elect Sci & Technol China UESTC, Sch Comp Sci & Engn, Chengdu 611731, Peoples R China.
+   [Hou, Mengshu] Chengdu Technol Univ, Sch Big Data & Artificial Intelligence, Chengdu 611730, Peoples R China.
+   [Zhang, Chao] Sichuan Police Coll, Intelligent Policing Key Lab Sichuan Prov, Luzhou 646000, Peoples R China.
+   [Liu, Cheng] 30th Res Inst China Elect Technol Grp Corp, Sci & Technol Commun Secur Lab, Chengdu, Peoples R China.
+C3 Xihua University; University of Electronic Science & Technology of
+   China; Chengdu Technological University; Sichuan Police College; China
+   Electronics Technology Group
+RP Liu, WJ (corresponding author), XiHua Univ, Sch Comp & Software Engn, Chengdu 610039, Peoples R China.; Liu, WJ; Hou, MS (corresponding author), Univ Elect Sci & Technol China UESTC, Sch Comp Sci & Engn, Chengdu 611731, Peoples R China.; Hou, MS (corresponding author), Chengdu Technol Univ, Sch Big Data & Artificial Intelligence, Chengdu 611730, Peoples R China.; Zhang, C (corresponding author), Sichuan Police Coll, Intelligent Policing Key Lab Sichuan Prov, Luzhou 646000, Peoples R China.
+EM liuwenjun@mail.xhu.edu.cn; mshou@uestc.edu.cn;
+   galoiszhang@scpolicec.edu.cn
+OI hou, mengshu/0000-0002-5283-7318
+FU National Natural Science Foundation of China [62072075]; Intelligent
+   Policing Key Laboratory of Sichuan Province [ZNJW2024KFQN012]; National
+   College Student Innovation and Entrepreneurship Training Project
+   [202210623025]; College Student Innovation and Entrepreneurship Training
+   Project of Sichuan Province [S202310623044]
+FX This work is supported by the National Natural Science Foundation of
+   China (Grant No. 62072075) , the Intelligent Policing Key Laboratory of
+   Sichuan Province (Grant No. ZNJW2024KFQN012) , the National College
+   Student Innovation and Entrepreneurship Training Project (Grant No.
+   202210623004) , the National College Student Innovation and
+   Entrepreneurship Training Project (Grant No. 202210623025) , and the
+   College Student Innovation and Entrepreneurship Training Project of
+   Sichuan Province (Grant No. S202310623044) .
+CR Capó M, 2022, IEEE T KNOWL DATA EN, V34, P1618, DOI 10.1109/TKDE.2020.3002926
+   Chang CY, 2021, INFORM RETRIEVAL J, V24, P298, DOI 10.1007/s10791-021-09394-4
+   Chen Q, 2017, NEUROCOMPUTING, V242, P40, DOI 10.1016/j.neucom.2017.02.020
+   Chen YW, 2021, PATTERN RECOGN, V109, DOI 10.1016/j.patcog.2020.107624
+   Cheng XQ, 2014, IEEE T KNOWL DATA EN, V26, P2928, DOI 10.1109/TKDE.2014.2313872
+   Duan JY, 2020, IEICE T INF SYST, VE103D, P2228, DOI 10.1587/transinf.2019EDP7330
+   Geng X, 2019, IEEE T COMPUT SOC SY, V6, P289, DOI 10.1109/TCSS.2019.2897641
+   Ghoorchian K, 2020, PROG ARTIF INTELL, V9, P195, DOI 10.1007/s13748-020-00206-2
+   Guo X, 2013, J INF SCI, V39, P459, DOI 10.1177/0165551512473066
+   Hernandez-Mendoza M, 2022, APPL SCI-BASEL, V12, DOI 10.3390/app12189081
+   Hua WQ, 2020, COMPUT INTEL NEUROSC, V2020, DOI 10.1155/2020/2971565
+   Huang FL, 2020, IEEE ACCESS, V8, P221963, DOI 10.1109/ACCESS.2020.3039963
+   Lee JB, 2019, APPL NETW SCI, V4, DOI 10.1007/s41109-019-0157-9
+   Lenz D, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0226685
+   Li CZ, 2021, IEEE ACCESS, V9, P3858, DOI 10.1109/ACCESS.2020.3047458
+   Li W, 2018, KNOWL-BASED SYST, V146, P203, DOI 10.1016/j.knosys.2018.02.004
+   Liu W, 2020, IEEE ACCESS, V8, P98044, DOI 10.1109/ACCESS.2020.2995776
+   Ma TH, 2019, EXPERT SYST APPL, V115, P346, DOI 10.1016/j.eswa.2018.08.010
+   Mu WC, 2022, J BIG DATA-GER, V9, DOI 10.1186/s40537-022-00585-4
+   Mu XF, 2019, IEEE ACCESS, V7, P146524, DOI 10.1109/ACCESS.2019.2943721
+   Niu WN, 2022, APPL INTELL, V52, P18187, DOI 10.1007/s10489-022-03500-9
+   Qian Y, 2019, J INF SCI, V45, P196, DOI 10.1177/0165551518786676
+   Qiu LQ, 2019, IEEE ACCESS, V7, P120273, DOI 10.1109/ACCESS.2019.2932458
+   Saigal P, 2020, SN APPL SCI, V2, DOI 10.1007/s42452-020-2266-6
+   Sayyadi H, 2013, ACM T INTERNET TECHN, V13, DOI 10.1145/2542214.2542215
+   Su JS, 2019, NEUROCOMPUTING, V367, P144, DOI 10.1016/j.neucom.2019.08.012
+   Wu D, 2020, IEEE ACCESS, V8, P32215, DOI 10.1109/ACCESS.2020.2973430
+   Wu JH, 2019, IEEE INT CON MULTI, P1480, DOI 10.1109/ICME.2019.00256
+   Xiao KJ, 2021, INFORM SCIENCES, V570, P262, DOI 10.1016/j.ins.2021.04.029
+   Yang L, 2016, COGN COMPUT, V8, P577, DOI 10.1007/s12559-015-9380-6
+   Zhang CD, 2019, IEEE ACCESS, V7, P9225, DOI 10.1109/ACCESS.2018.2886366
+   Zhang J, 2023, SYMMETRY-BASEL, V15, DOI 10.3390/sym15101889
+   Zhang L, 2018, J COMPUT SCI-NETH, V28, P369, DOI 10.1016/j.jocs.2017.08.016
+   Zhang P, 2020, IEEE T KNOWL DATA EN, V32, P2322, DOI 10.1109/TKDE.2019.2922179
+   Zhao K, 2021, ALGORITHMS, V14, DOI 10.3390/a14120352
+   Zheng W, 2019, IEEE ACCESS, V7, P21795, DOI 10.1109/ACCESS.2019.2897910
+   Zhu TY, 2014, SCI WORLD J, DOI 10.1155/2014/360934
+   Zhu ZL, 2019, IEEE ACCESS, V7, P26996, DOI 10.1109/ACCESS.2019.2893980
+   Zuo Y, 2023, IEEE T KNOWL DATA EN, V35, P972, DOI 10.1109/TKDE.2021.3073195
+NR 39
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JUL
+PY 2024
+VL 81
+AR 100820
+DI 10.1016/j.websem.2024.100820
+EA MAY 2024
+PG 16
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UM8S6
+UT WOS:001248575200001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Papamichalopoulos, M
+   Papadakis, G
+   Mandilaras, G
+   Siampou, M
+   Mamoulis, N
+   Koubarakis, M
+AF Papamichalopoulos, Marios
+   Papadakis, George
+   Mandilaras, George
+   Siampou, Maria
+   Mamoulis, Nikos
+   Koubarakis, Manolis
+TI Three-dimensional Geospatial Interlinking with JedAI-spatial
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Link Discovery; Geospatial Interlinking; DE-9IM topological relations;
+   Batch & progressive methods; Parallelization
+ID IMPLEMENTATION; JOINS
+AB Geospatial data constitutes a considerable part of Semantic Web data, but so far, its sources are inadequately interlinked in the Linked Open Data cloud. Geospatial Interlinking aims to cover this gap by associating geometries with topological relations like those of the Dimensionally Extended 9 -Intersection Model. Due to its quadratic time complexity, various algorithms aim to carry out Geospatial Interlinking efficiently. We present JedAI-spatial , a novel, open -source system that organizes these algorithms according to three dimensions: (i) Space Tiling , which determines the approach that reduces the search space, (ii) Budget -awareness , which distinguishes interlinking algorithms into batch and progressive ones, and (iii) Execution mode , which discerns between serial algorithms, running on a single CPU -core, and parallel ones, running on top of Apache Spark. We analytically describe JedAI-spatial's architecture and capabilities and perform thorough experiments to provide interesting insights about the relative performance of its algorithms.
+C1 [Papamichalopoulos, Marios; Papadakis, George; Mandilaras, George; Siampou, Maria; Koubarakis, Manolis] Natl & Kapodistrian Univ Athens, Athens, Greece.
+   [Mamoulis, Nikos] Univ Ioannina, Ioannina, Greece.
+C3 National & Kapodistrian University of Athens; University of Ioannina
+RP Papadakis, G (corresponding author), Natl & Kapodistrian Univ Athens, Athens, Greece.
+EM cs3190006@di.uoa.gr; gpapadis@di.uoa.gr; gmandi@di.uoa.gr;
+   m.siampou@di.uoa.gr; nikos@cs.uoi.gr; koubarak@di.uoa.gr
+OI Papadakis, George/0000-0002-7298-9431; Koubarakis,
+   Manolis/0000-0002-1954-8338
+FU Horizon Europe project STELAR [101070122]
+FX <B>Acknowledgment</B> This research was partially funded by the Horizon
+   Europe project STELAR (GA No. 101070122) .
+CR Ahmed A.F., 2018, OM ISWC, P197
+   Brinkhoff T., 1993, SIGMOD Record, V22, P237, DOI 10.1145/170036.170075
+   Carbone P., 2015, Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, V36, P28, DOI DOI 10.1109/IC2EW.2016.56
+   Chan EPF, 1997, LECT NOTES COMPUT SC, V1262, P69
+   CLEMENTINI E, 1994, COMPUT GRAPH-UK, V18, P815, DOI 10.1016/0097-8493(94)90007-8
+   Clementini E., 1993, Advances in Spatial Databases. Third International Symposium, SSD '93 Proceedings, P277
+   Dittrich J.-P., 2000, Proceedings of 16th International Conference on Data Engineering (Cat. No.00CB37073), P535, DOI 10.1109/ICDE.2000.839452
+   EGENHOFER MJ, 1991, INT J GEOGR INF SYST, V5, P161, DOI 10.1080/02693799108927841
+   Eldawy A, 2015, PROC INT CONF DATA, P1352
+   Finkel R. A., 1974, Acta Informatica, V4, P1, DOI 10.1007/BF00288933
+   Gpapadis, 2022, Zenodo, DOI 10.5281/ZENODO.6520193
+   Guttman A., 1984, SIGMOD Record, V14, P47, DOI 10.1145/971697.602266
+   Hagos DH, 2021, IEEE J-STARS, V14, P9038, DOI 10.1109/JSTARS.2021.3107982
+   Jentzsch A., 2010, ISWC (Posters & Demos)
+   Kim KH, 2001, SIGMOD REC, V30, P139, DOI 10.1145/376284.375679
+   Leutenegger ST, 1997, PROC INT CONF DATA, P497, DOI 10.1109/ICDE.1997.582015
+   Ngomo A., 2011, 22 INT JOINT C ART I, P2312, DOI DOI 10.5591/978-1-57735-516-8/IJCAI11-385
+   Ngomo ACN, 2013, LECT NOTES COMPUT SC, V8218, P395, DOI 10.1007/978-3-642-41335-3_25
+   Pandey V, 2018, PROC VLDB ENDOW, V11, P1661, DOI 10.14778/3236187.3236213
+   Papadakis G, 2022, ACM TRANS SPAT ALGOR, V8, DOI 10.1145/3510025
+   Papadakis G, 2021, PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2021 (WWW 2021), P833, DOI 10.1145/3442381.3449850
+   Papamichalopoulos M., 2022, arXiv
+   Patel J. M., 1996, SIGMOD Record, V25, P259, DOI 10.1145/235968.233338
+   Santipantakis G.M., 2020, Big Data Analytics for Time-Critical Mobility Forecasting, P155
+   Santipantakis GM, 2019, PROCEEDINGS OF THE INTERNATIONAL WORKSHOP ON SEMANTIC BIG DATA (SBD 2019), DOI 10.1145/3323878.3325805
+   Saveta T, 2015, LECT NOTES COMPUT SC, V9366, P375, DOI 10.1007/978-3-319-25007-6_22
+   Sherif MA, 2017, AAAI CONF ARTIF INTE, P175
+   Sidlauskas D, 2014, PROC VLDB ENDOW, V8, P97, DOI 10.14778/2735461.2735470
+   Smeros P., 2016, WORKSH LINK DAT WEB
+   Sowell B, 2013, PROC VLDB ENDOW, V6, P1882, DOI 10.14778/2556549.2556570
+   Sriharsha R., 2021, Magellan: Geospatial analytics using spark
+   Tang MJ, 2020, FRONT BIG DATA, V3, DOI 10.3389/fdata.2020.00030
+   Tang MJ, 2016, PROC VLDB ENDOW, V9, P1565, DOI 10.14778/3007263.3007310
+   The Apache Software Foundation, 2022, Apache livy: A REST service for apache spark
+   The Apache Software Foundation, 2022, Apache Sedona
+   Tsitsigkos D, 2019, 27TH ACM SIGSPATIAL INTERNATIONAL CONFERENCE ON ADVANCES IN GEOGRAPHIC INFORMATION SYSTEMS (ACM SIGSPATIAL GIS 2019), P516, DOI 10.1145/3347146.3359343
+   Villamizar M, 2017, SERV ORIENTED COMPUT, V11, P233, DOI 10.1007/s11761-017-0208-y
+   Xie D, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1071, DOI 10.1145/2882903.2915237
+   You SM, 2015, 2015 13TH IEEE INTERNATIONAL CONFERENCE ON DATA ENGINEERING WORKSHOPS (ICDEW), P34, DOI 10.1109/ICDEW.2015.7129541
+   Yu J, 2015, 23RD ACM SIGSPATIAL INTERNATIONAL CONFERENCE ON ADVANCES IN GEOGRAPHIC INFORMATION SYSTEMS (ACM SIGSPATIAL GIS 2015), DOI 10.1145/2820783.2820860
+NR 40
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JUL
+PY 2024
+VL 81
+AR 100817
+DI 10.1016/j.websem.2024.100817
+EA APR 2024
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SL7J3
+UT WOS:001234670500001
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Vassiliades, A
+   Patkos, T
+   Efthymiou, V
+   Bikakis, A
+   Bassiliades, N
+   Plexousakis, D
+AF Vassiliades, Alexandros
+   Patkos, Theodore
+   Efthymiou, Vasilis
+   Bikakis, Antonis
+   Bassiliades, Nick
+   Plexousakis, Dimitris
+TI Extraction of object-action and object-state associations from Knowledge
+   Graphs
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Association extraction; Knowledge Graphs; Semantics-based extraction;
+   Topology-based extraction; Linking entities
+ID SEMANTIC SIMILARITY; WEB
+AB Infusing autonomous artificial systems with knowledge about the physical world they inhabit is a critical and long -held aim for the Artificial Intelligence community. Training systems with relevant data is a typical approach; however, finding the data required is not always possible, especially when much of this knowledge is commonsense. In this paper, we present a comparison of topology -based and semantics -based methods for extracting information about object -action and object -state association relations from knowledge graphs, such as ConceptNet, WordNet, ATOMIC, YAGO, WebChild and DBpedia. Moreover, we propose a novel method for extracting information about object -action and object -state associations from knowledge graphs. Our method is composed of a set of techniques for locating, enriching, evaluating, cleaning and exposing knowledge from such resources, relying on semantic similarity methods. Some important aspects of our method are the flexibility in deciding how to deal with the noise that exists in the data, and the capability to determine the importance of a path through training, rather than through manual annotation.
+C1 [Vassiliades, Alexandros; Bassiliades, Nick] Aristotle Univ Thessaloniki, Sch Informat, Thessaloniki 54124, Central Macedon, Greece.
+   [Vassiliades, Alexandros; Patkos, Theodore; Efthymiou, Vasilis; Plexousakis, Dimitris] Fdn Res & Technol Hellas, Inst Comp Sci, Iraklion 70013, Crete, Greece.
+   [Bikakis, Antonis] UCL, Dept Informat Studies, London WC1E 6BT, England.
+C3 Aristotle University of Thessaloniki; Foundation for Research &
+   Technology - Hellas (FORTH); University of London; University College
+   London
+RP Vassiliades, A (corresponding author), Aristotle Univ Thessaloniki, Sch Informat, Thessaloniki 54124, Central Macedon, Greece.
+EM valexande@csd.auth.gr; patkos@ics.forth.gr; vefthym@ics.forth.gr;
+   a.bikakis@ucl.ac.uk; nbassili@csd.auth.gr; dp@ics.forth.gr
+RI Bassiliades, Nick/E-3703-2015
+OI Bassiliades, Nick/0000-0001-6035-1038; Plexousakis,
+   Dimitris/0000-0002-0863-8266; Bikakis, Antonis/0000-0003-4162-1818;
+   Patkos, Theodore/0000-0001-6796-1015
+FU Hellenic Foundation for Research and Innovation (HFRI) , Greece; General
+   Secretariat for Research and Technology (GSRT) , Greece [188]
+FX This project has received funding from the Hellenic Foundation for
+   Research and Innovation (HFRI) , Greece and the General Secretariat for
+   Research and Technology (GSRT) , Greece, under grant agreement No 188.
+CR Aboubakr N., 2019, Ph.D. thesis
+   Aditya S, 2015, Arxiv, DOI arXiv:1511.03292
+   Alayrac JB, 2017, IEEE I CONF COMP VIS, P2146, DOI 10.1109/ICCV.2017.234
+   Amador-Domínguez E, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19081774
+   Auer S, 2007, LECT NOTES COMPUT SC, V4825, P722, DOI 10.1007/978-3-540-76298-0_52
+   Beetz M, 2018, IEEE INT CONF ROBOT, P512
+   Beetz M, 2015, IEEE INT CONF ROBOT, P1549, DOI 10.1109/ICRA.2015.7139395
+   Chernova S, 2020, SPR PROC ADV ROBOT, V10, P353, DOI 10.1007/978-3-030-28619-4_29
+   Chiatti A., 2022, CEUR
+   Daruna A, 2019, IEEE INT CONF ROBOT, P9777, DOI [10.1109/ICRA.2019.8794070, 10.1109/icra.2019.8794070]
+   Devlin J, 2019, Arxiv, DOI arXiv:1810.04805
+   Devlin J, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P4171
+   Dey Palash, 2020, AAMAS 20, P321
+   Fathi A, 2013, PROC CVPR IEEE, P2579, DOI 10.1109/CVPR.2013.333
+   Fellbaum C, 1998, LANG SPEECH & COMMUN, P1
+   Fire A, 2017, IEEE COMPUT SOC CONF, P48, DOI 10.1109/CVPRW.2017.13
+   Fire A, 2016, ACM T INTEL SYST TEC, V7, DOI 10.1145/2809782
+   Fu ZH, 2020, PROCEEDINGS OF THE 43RD INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '20), P69, DOI 10.1145/3397271.3401051
+   Gan L, 2020, PROCEEDINGS OF THE 43RD INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '20), P2001, DOI 10.1145/3397271.3401213
+   Gardner M., 2014, P 2014 C EMP METH NA, P397, DOI 10.3115/v1
+   Hernandez J.M., 2011, Classification of graph metrics, P1
+   Icarte RT, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1283
+   Isola P, 2015, PROC CVPR IEEE, P1383, DOI 10.1109/CVPR.2015.7298744
+   Jiang M, 2020, PROC SPIE, V11413, DOI 10.1117/12.2556746
+   Kipf T.N., 2017, INT C LEARN REPR, P1
+   Lee CW, 2018, PROC CVPR IEEE, P1576, DOI 10.1109/CVPR.2018.00170
+   Lin Yankai, 2015, P 2015 C EMP METH NA, P705, DOI [DOI 10.18653/V1/D15-1082, 10.18653/V1/D15-1082]
+   Malaviya C, 2020, AAAI CONF ARTIF INTE, V34, P2925
+   Murugesan K., 2020, CoRR abs/2005.00811
+   Kipf TN, 2017, Arxiv, DOI arXiv:1609.02907
+   Rebele T, 2016, LECT NOTES COMPUT SC, V9982, P177, DOI 10.1007/978-3-319-46547-0_19
+   Rossi A, 2021, ACM T KNOWL DISCOV D, V15, DOI 10.1145/3424672
+   Sap M, 2019, AAAI CONF ARTIF INTE, P3027
+   Speer R, 2017, AAAI CONF ARTIF INTE, P4444
+   Tandon N, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017): SYSTEM DEMONSTRATIONS, P115, DOI 10.18653/v1/P17-4020
+   Tipper SP, 2006, PSYCHON B REV, V13, P493, DOI 10.3758/BF03193875
+   Vassiliades Alexandros, 2020, Semantic Systems. In the Era of Knowledge Graphs. 16th International Conference on Semantic Systems, SEMANTiCS 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12378), P36, DOI 10.1007/978-3-030-59833-4_3
+   Vassiliades A, 2021, STUD SEMANTIC WEB, V53, P241, DOI 10.3233/SSW210048
+   Wang HJ, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.046105
+   Wang XL, 2016, PROC CVPR IEEE, P2658, DOI 10.1109/CVPR.2016.291
+   Xian YK, 2019, PROCEEDINGS OF THE 42ND INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '19), P285, DOI 10.1145/3331184.3331203
+   Xu HP, 2018, PROCEEDINGS OF THE TWENTY-SEVENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1043
+   Young J, 2017, IN SY AP IN WE HC, V10577, P299, DOI 10.1007/978-3-319-70407-4_39
+   Young J, 2016, FRONT ARTIF INTEL AP, V285, P1458, DOI 10.3233/978-1-61499-672-9-1458
+   Yu CM, 2017, J INF SCI, V43, P683, DOI 10.1177/0165551516664039
+   Zareian Alireza, 2020, Computer Vision - ECCV 2020. 16th European Conference. Proceedings. Lecture Notes in Computer Science (LNCS 12368), P606, DOI 10.1007/978-3-030-58592-1_36
+   Zheng D, 2020, PROCEEDINGS OF THE 43RD INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '20), P739, DOI 10.1145/3397271.3401172
+   Zhou YL, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P2460, DOI 10.1145/3308558.3313486
+   Zhu GG, 2018, EXPERT SYST APPL, V101, P8, DOI 10.1016/j.eswa.2018.02.011
+   Zhu GG, 2017, IEEE T KNOWL DATA EN, V29, P72, DOI 10.1109/TKDE.2016.2610428
+   Zhu J., 2009, P 18 INT C WORLD WID, P101, DOI DOI 10.1145/1526709.1526724
+   Zhu YK, 2014, LECT NOTES COMPUT SC, V8690, P408, DOI 10.1007/978-3-319-10605-2_27
+   Zou XH, 2020, J PHYS CONF SER, V1487, DOI 10.1088/1742-6596/1487/1/012016
+NR 53
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JUL
+PY 2024
+VL 81
+AR 100816
+DI 10.1016/j.websem.2024.100816
+EA MAR 2024
+PG 17
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA QB0R8
+UT WOS:001218308400001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Gama, J
+   Ribeiro, RP
+   Mastelini, S
+   Davari, N
+   Veloso, B
+AF Gama, Joao
+   Ribeiro, Rita P.
+   Mastelini, Saulo
+   Davari, Narjes
+   Veloso, Bruno
+TI From fault detection to anomaly explanation: A case study on predictive
+   maintenance
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Explainable AI; Online anomaly detection; Predictive maintenance
+AB Predictive Maintenance applications are increasingly complex, with interactions between many components. Black -box models are popular approaches based on deep -learning techniques due to their predictive accuracy. This paper proposes a neural -symbolic architecture that uses an online rule -learning algorithm to explain when the black -box model predicts failures. The proposed system solves two problems in parallel: (i) anomaly detection and (ii) explanation of the anomaly. For the first problem, we use an unsupervised state-of-the-art autoencoder. For the second problem, we train a rule learning system that learns a mapping from the input features to the autoencoder's reconstruction error. Both systems run online and in parallel. The autoencoder signals an alarm for the examples with a reconstruction error that exceeds a threshold. The causes of the signal alarm are hard for humans to understand because they result from a non-linear combination of sensor data. The rule that triggers that example describes the relationship between the input features and the autoencoder's reconstruction error. The rule explains the failure signal by indicating which sensors contribute to the alarm and allowing the identification of the component involved in the failure. The system can present global explanations for the black box model and local explanations for why the black box model predicts a failure. We evaluate the proposed system in a real -world case study of Metro do Porto and provide explanations that illustrate its benefits.
+C1 [Gama, Joao; Veloso, Bruno] Univ Porto, Fac Econ, P-4200464 Porto, Portugal.
+   [Ribeiro, Rita P.] Univ Porto, Fac Sci, P-4169007 Porto, Portugal.
+   [Mastelini, Saulo] Univ Sao Paulo, ICMC, BR-13566590 Sao Carlos, SP, Brazil.
+   [Gama, Joao; Ribeiro, Rita P.; Mastelini, Saulo; Davari, Narjes; Veloso, Bruno] INESC TEC, P-4200465 Porto, Portugal.
+C3 Universidade do Porto; Universidade do Porto; Universidade de Sao Paulo;
+   INESC TEC
+RP Gama, J (corresponding author), Univ Porto, Fac Econ, P-4200464 Porto, Portugal.
+EM jgama@fep.up.pt
+RI Ribeiro, Rita P./K-4293-2013; Gama, Joao/A-2070-2008
+OI Ribeiro, Rita P./0000-0002-6852-8077; Gama, Joao/0000-0003-3357-1195
+FU CHIST-ERA, Portugal - FCT, Portugal [CHIST-ERA-19-XAI-012,
+   CHIST-ERA/0004/2019]; FAPESP, Brazil [2021/10488-7]
+FX This work was supported by the CHIST-ERA, Portugal grant
+   CHIST-ERA-19-XAI-012 and project CHIST-ERA/0004/2019, funded by FCT,
+   Portugal. Saulo Mastelini also acknowledges the support of FAPESP,
+   Brazil grant 2021/10488-7.
+CR Aguiar G, 2023, Arxiv, DOI arXiv:2204.03719
+   Aminian E, 2021, DATA MIN KNOWL DISC, V35, P2389, DOI 10.1007/s10618-021-00793-1
+   Barros M., 2020, IoT Streams for DataDriven Predictive Maintenance and IoT, Edge, and Mobile for Embedded Machine Learning, P61
+   Branco P, 2016, ACM COMPUT SURV, V49, DOI 10.1145/2907070
+   Davari N, 2021, 2021 IEEE 8TH INTERNATIONAL CONFERENCE ON DATA SCIENCE AND ADVANCED ANALYTICS (DSAA), DOI 10.1109/DSAA53316.2021.9564181
+   Duarte J, 2016, ACM T KNOWL DISCOV D, V10, DOI 10.1145/2829955
+   Gama J, 2004, LECT NOTES ARTIF INT, V3171, P286
+   Guidotti R, 2019, ACM COMPUT SURV, V51, DOI 10.1145/3236009
+   Halford M., 2020, arXiv
+   Hall P., 2019, An introduction to machine learning interpretability
+   Japkowicz N, 1995, INT JOINT CONF ARTIF, P518
+   Khoshafian S., 2020, Pega Manuf, P1
+   Lundberg SM, 2017, ADV NEUR IN, V30
+   Mastelini SM, 2021, PATTERN RECOGN LETT, V145, P37, DOI 10.1016/j.patrec.2021.01.033
+   Molnar C., 2022, Interpretable Machine Learning, V2, DOI DOI 10.1007/S10290-014-0202-9
+   Moreira C, 2021, DECIS SUPPORT SYST, V150, DOI 10.1016/j.dss.2021.113561
+   Nguyen HD, 2021, INT J INFORM MANAGE, V57, DOI 10.1016/j.ijinfomgt.2020.102282
+   Ribeiro MT, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1135, DOI 10.1145/2939672.2939778
+   Ribeiro R.P., 2011, Ph.D. thesis
+   Ribeiro RP, 2020, MACH LEARN, V109, P1803, DOI 10.1007/s10994-020-05900-9
+   Ribeiro RP, 2016, MACH LEARN, V105, P127, DOI 10.1007/s10994-016-5584-6
+   Sarker MK, 2021, AI COMMUN, V34, P197, DOI 10.3233/AIC-210084
+   Serradilla O, 2022, APPL INTELL, V52, P10934, DOI 10.1007/s10489-021-03004-y
+   Veloso B, 2022, SCI DATA, V9, DOI 10.1038/s41597-022-01877-3
+   Veloso Bruno, 2022, Zenodo, DOI 10.5281/ZENODO.6854240
+NR 25
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JUL
+PY 2024
+VL 81
+AR 100821
+DI 10.1016/j.websem.2024.100821
+EA MAY 2024
+PG 9
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XU7N5
+UT WOS:001264256900001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Hoseini, S
+   Theissen-Lipp, J
+   Quix, C
+AF Hoseini, Sayed
+   Theissen-Lipp, Johannes
+   Quix, Christoph
+TI A survey on semantic data management as intersection of ontology-based
+   data access, semantic modeling and data lakes
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Semantic data management; Semantic web; Big data; Data lakes;
+   Ontology-based data-access
+ID KNOWLEDGE GRAPHS; INTEGRATION; GENERATION; INFERENCE; RDF
+AB In recent years, data lakes emerged as a way to manage large amounts of heterogeneous data for modern data analytics. One way to prevent data lakes from turning into inoperable data swamps is semantic data management. Such approaches propose the linkage of metadata to knowledge graphs based on the Linked Data principles to provide more meaning and semantics to the data in the lake. Such a semantic layer may be utilized not only for data management but also to tackle the problem of data integration from heterogeneous sources, in order to make data access more expressive and interoperable. In this survey, we review recent approaches with a specific focus on the application within data lake systems and scalability to Big Data. We classify the approaches into (i) basic semantic data management, (ii) semantic modeling approaches for enriching metadata in data lakes, and (iii) methods for ontology -based data access. In each category, we cover the main techniques and their background, and compare latest research. Finally, we point out challenges for future work in this research area, which needs a closer integration of Big Data and Semantic Web technologies.
+C1 [Hoseini, Sayed] Hsch Niederrhein Univ Appl Sci, Dept Elect Engn & Comp Sci, Reinartzstr 43, D-47805 Krefeld, Germany.
+   [Hoseini, Sayed; Theissen-Lipp, Johannes] Rhein Westfal TH Aachen, Databases & Informat Syst, Ahornstr 55, D-52074 Aachen, Germany.
+   [Quix, Christoph] Fraunhofer Inst Appl Informat Technol FIT, Dept Data Sci & Artificial Intelligence, D-53757 St Augustin, Germany.
+C3 RWTH Aachen University; Fraunhofer Gesellschaft
+RP Hoseini, S (corresponding author), Hsch Niederrhein Univ Appl Sci, Dept Elect Engn & Comp Sci, Reinartzstr 43, D-47805 Krefeld, Germany.
+EM sayed.hoseini@hs-niederrhein.de
+RI Lipp, Johannes/AAZ-4722-2020
+OI Lipp, Johannes/0000-0002-2639-1949
+FU German Federal Ministry of Education and Research in the funding program
+   "Forschung an Fachhochschulen" [13FH557KX0]
+FX This work has been sponsored by the German Federal Ministry of Education
+   and Research in the funding program "Forschung an Fachhochschulen",
+   project $i<^>2$DACH (grant no. 13FH557KX0) .
+CR Abdelmageed N., 2021, P SEMTAB, V3103, P42
+   Abdelmageed N., 2021, P WORKSH KNOWL GRAPH, V2873
+   Adamou A., 2020, Data Lakes, V2, P145
+   [Anonymous], 2016, P ICYCSEE, DOI [DOI 10.1007/978-981-10-2053-7_15, 10.1007/978-981-10-2053-7\_{1}{5}, 10.1007/978-981-10-2053, DOI 10.1007/978-981-10-2053]
+   Araujo T.H.D., 2017, P 9 SEM ONT RES, V1908, P55
+   Aryan PR, 2017, 2017 1ST INTERNATIONAL CONFERENCE ON INFORMATICS AND COMPUTATIONAL SCIENCES (ICICOS), P113, DOI 10.1109/ICICOS.2017.8276347
+   Avogadro R., 2021, P SEMTAB, V3103, P79
+   Baget JF, 2015, LECT NOTES COMPUT SC, V9202, P328, DOI 10.1007/978-3-319-21542-6_21
+   Bagosi T., 2014, Proc. CSWS, Revised Selected Papers, in: CCIS, V480, P67, DOI [DOI 10.1007/978-3-662-45495-4, DOI 10.1007/978-3-662-45495-4_, 10.1007/978-3-662-45495-4_6, DOI 10.1007/978-3-662-45495-4_6]
+   Bagozi A, 2019, LECT NOTES COMPUT SC, V11877, P22, DOI 10.1007/978-3-030-33246-4_2
+   Beheshti A, 2018, PROC VLDB ENDOW, V11, P1942, DOI 10.14778/3229863.3236230
+   Belcao M, 2021, LECT NOTES COMPUT SC, V12922, P463, DOI 10.1007/978-3-030-88361-4_27
+   Bereta K, 2021, IEEE INT C SEMANT CO, P268, DOI 10.1109/ICSC50631.2021.00053
+   Bianchini D, 2021, IEEE INT SM C CONF, DOI 10.1109/ISC253183.2021.9562913
+   Bianchini D, 2020, LECT NOTES COMPUT SC, V12392, P322, DOI 10.1007/978-3-030-59051-2_22
+   Bianchini D, 2018, LECT NOTES COMPUT SC, V11229, P372, DOI 10.1007/978-3-030-02610-3_21
+   Bilidas D., 2018, P DESCR LOG WORKSH, V2211
+   Vu B, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P1944, DOI 10.1145/3308558.3313711
+   Bionda E, 2019, 2019 IEEE INTERNATIONAL CONFERENCE ON ENVIRONMENT AND ELECTRICAL ENGINEERING AND 2019 IEEE INDUSTRIAL AND COMMERCIAL POWER SYSTEMS EUROPE (EEEIC / I&CPS EUROPE)
+   Bizer C, 2011, SEMANTIC SERVICES, INTEROPERABILITY AND WEB APPLICATIONS: EMERGING CONCEPTS, P205, DOI 10.4018/978-1-60960-593-3.ch008
+   Bonaque R, 2016, PROC VLDB ENDOW, V9, P1513, DOI 10.14778/3007263.3007297
+   Botoeva E, 2019, INTELL ARTIF, V13, P21, DOI 10.3233/IA-190023
+   Braun G.A., 2019, P STYR AUT ONT, V2518
+   Burgdorf A, 2022, IEEE INT C SEMANT CO, P209, DOI 10.1109/ICSC52841.2022.00042
+   Burgdorf A, 2022, DATA, V7, DOI 10.3390/data7020017
+   Buron M, 2020, PROC VLDB ENDOW, V13, P2933, DOI 10.14778/3415478.3415512
+   Calvanese D, 2021, PROCEEDINGS OF THE 14TH BIANNUAL CONFERENCE OF THE ITALIAN SIGCHI CHAPTER (CHIITALY 2021), DOI 10.1145/3464385.3464744
+   Calvanese D, 2011, SEMANT WEB, V2, P43, DOI 10.3233/SW-2011-0029
+   Calvanese Diego., 2018, ENCY DATABASE SYSTEM, P2590, DOI [DOI 10.1007/978-1-4614-8265-9_80667, 10.1007/978-1-4614-8265-980667]
+   Chaves-Fraga D, 2021, SEMANT WEB, V12, P869, DOI 10.3233/SW-210432
+   Chessa A., 2022, P WORKSH KNOWL GRAPH, V3184, P123
+   Chortaras A., 2018, P LDOW WORKSH, V2073
+   Chronis Y., 2016, P EDBT ICDT WORKSH, V1558
+   Corcho O, 2020, SEMANT WEB, V11, P153, DOI 10.3233/SW-190384
+   Couto JC, 2022, IBER CONF INF SYST, DOI 10.23919/CISTI54924.2022.9820576
+   Cure Olivier, 2011, Database and Expert Systems Applications. Proceedings 22nd International Conference, DEXA 2011, P481, DOI 10.1007/978-3-642-23088-2_36
+   Curè O, 2013, INT J DISTRIB SYST T, V4, P17, DOI 10.4018/jdst.2013070102
+   Daga E, 2021, Arxiv, DOI arXiv:2106.02361
+   de Medeiros LF, 2015, LECT NOTES COMPUT SC, V9114, P326, DOI 10.1007/978-3-319-19890-3_21
+   De Meester B, 2017, LECT NOTES COMPUT SC, V10250, P33, DOI 10.1007/978-3-319-58451-5_3
+   Delva T., 2021, P KNOWL GRAPH CONSTR, V2873
+   Deng X, 2020, PROC VLDB ENDOW, V14, P307, DOI 10.14778/3430915.3430921
+   Diamantini Claudia, 2021, iiWAS2021: The 23rd International Conference on Information Integration and Web Intelligence, P183, DOI 10.1145/3487664.3487783
+   Diamantini C, 2022, LECT NOTES COMPUT SC, V13389, P179, DOI 10.1007/978-3-031-15740-0_14
+   Diamantini C, 2018, COMM COM INF SC, V909, P165, DOI 10.1007/978-3-030-00063-9_17
+   Dibowski H., 2021, Using knowledge graphs to manage a data lake
+   Dibowski H., 2020, P 13 INT WORKSH SCAL, V2757, P65
+   Dibowski H., 2020, SSWS ISWC
+   Dimou A., 2014, P LDOW WORKSH, V1184
+   Ehrlinger L., 2016, P SEMANTICS SUCCESS, V1695
+   Eichler R, 2021, DATA KNOWL ENG, V136, DOI 10.1016/j.datak.2021.101931
+   El Massari H, 2022, LECT NOTE DATA ENG, V110, P193, DOI 10.1007/978-3-030-94188-8_19
+   Endris KM, 2019, LECT NOTES COMPUT SC, V11706, P379, DOI 10.1007/978-3-030-27615-7_29
+   Farid M, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P2089, DOI 10.1145/2882903.2899391
+   Fathy Naglaa, 2020, ICSIE 2020: Proceedings of the 2020 9th International Conference on Software and Information Engineering (ICSIE), P113, DOI 10.1145/3436829.3436855
+   Fathy Naglaa, 2019, 2019 Ninth International Conference on Intelligent Computing and Information Systems (ICICIS), P387, DOI 10.1109/ICICIS46948.2019.9014856
+   Feng Z., 2021, P IEEE SERVICES, P33, DOI DOI 10.1109/SERVICES51467.2021.00033
+   Fernandez RC, 2018, PROC INT CONF DATA, P1001, DOI 10.1109/ICDE.2018.00094
+   Fernandez RC, 2018, PROC INT CONF DATA, P989, DOI 10.1109/ICDE.2018.00093
+   Futia G, 2020, SOFTWAREX, V12, DOI 10.1016/j.softx.2020.100516
+   Gagliardelli L., 2022, CEUR WORKSH P, V3135
+   Galhotra S, 2020, CIKM '20: PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, P3381, DOI 10.1145/3340531.3417426
+   García-González H, 2020, PEERJ COMPUT SCI, DOI 10.7717/peerj-cs.318
+   Gottschalk S., 2022, Semantic Web, P1
+   Gu ZZ, 2024, SEMANT WEB, V15, P107, DOI 10.3233/SW-223201
+   Gupta S., 2012, LNCS, V7540, P430, DOI [DOI 10.1007/978-3-662-46641-4_40, 10.1007/978-3-662-46641-4\_40, 10.1007/, DOI 10.1007/978-3-662-46641-4]
+   Hai RH, 2023, IEEE T KNOWL DATA EN, V35, P12571, DOI 10.1109/TKDE.2023.3270101
+   Hai RH, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P2097, DOI 10.1145/2882903.2899389
+   Halevy A, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P795, DOI 10.1145/2882903.2903730
+   Haller D., 2020, CEUR WS, V2738, P241
+   Haller D, 2020, COMM COM INF SC, V1168, P112, DOI 10.1007/978-3-030-43887-6_10
+   Helal A, 2021, PROC VLDB ENDOW, V14, P2675, DOI 10.14778/3476311.3476317
+   Heyvaert P, 2018, LECT NOTES COMPUT SC, V11155, P213, DOI 10.1007/978-3-319-98192-5_40
+   Heyvaert P, 2018, J WEB SEMANT, V49, P31, DOI 10.1016/j.websem.2017.12.003
+   Heyvaert P, 2017, LECT NOTES COMPUT SC, V10250, P205, DOI 10.1007/978-3-319-58451-5_15
+   Heyvaert P, 2016, LECT NOTES COMPUT SC, V9678, P709, DOI 10.1007/978-3-319-34129-3_43
+   Hogan A, 2021, ACM COMPUT SURV, V54, DOI 10.1145/3447772
+   Hulsebos M, 2019, KDD'19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1500, DOI 10.1145/3292500.3330993
+   Iglesias E, 2020, CIKM '20: PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, P3039, DOI 10.1145/3340531.3412881
+   Iglesias-Molina A., 2020, P ISWC DEM TRACK, V2721, P25
+   Ji SX, 2022, IEEE T NEUR NET LEAR, V33, P494, DOI 10.1109/TNNLS.2021.3070843
+   Jimenez-Ruiz E, 2017, P BTW, VP-265, P145
+   Jovanovic P, 2021, INFORM SYST FRONT, V23, P9, DOI 10.1007/s10796-020-10001-y
+   Junior A.C., 2016, P IIWAS, P267, DOI DOI 10.1145/3011141.3011152
+   Kalayci Elem Guzel, 2020, The Semantic Web - ISWC 2020. 19th International Semantic Web Conference. Lecture Notes in Computer Science (LNCS 12507), P464, DOI 10.1007/978-3-030-62466-8_29
+   Khan Y, 2019, IEEE ACCESS, V7, P9598, DOI 10.1109/ACCESS.2018.2888601
+   Kharlamov E, 2017, J WEB SEMANT, V44, P54, DOI 10.1016/j.websem.2017.02.001
+   Kharlamov E, 2017, J WEB SEMANT, V44, P3, DOI 10.1016/j.websem.2017.05.005
+   Kharlamov E, 2013, LECT NOTES COMPUT SC, V7955, P125, DOI 10.1007/978-3-642-41242-4_11
+   Knoblock Craig A., 2012, The Semantic Web: Research and Applications. Proceedings 9th Extended Semantic Web Conference (ESWC 2012), P375, DOI 10.1007/978-3-642-30284-8_32
+   Korini K, 2023, Arxiv, DOI arXiv:2306.00745
+   Lefrançois M, 2017, LECT NOTES ARTIF INT, V10180, P131, DOI 10.1007/978-3-319-58694-6_16
+   Lehmann J, 2017, LECT NOTES COMPUT SC, V10588, P147, DOI 10.1007/978-3-319-68204-4_15
+   Lenzerini M., 2002, PODS, P233
+   Liu J, 2019, SEMANTIC WEB CHALLEN, P41
+   Liu JX, 2023, J WEB SEMANT, V76, DOI 10.1016/j.websem.2022.100761
+   Liu P., 2020, P DIG HUM C
+   Mami MN, 2019, Arxiv, DOI arXiv:1910.03118
+   Mami MN, 2020, LECT NOTES COMPUT SC, V12124, P307, DOI 10.1007/978-3-030-62327-2_47
+   Mami MN, 2019, LECT NOTES COMPUT SC, V11779, P229, DOI 10.1007/978-3-030-30796-7_15
+   Mami MN, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P3574, DOI 10.1145/3308558.3314132
+   Mami MN, 2016, LECT NOTES COMPUT SC, V9829, P376, DOI 10.1007/978-3-319-43946-4_25
+   Mansfield M, 2021, PROCEEDINGS OF THE 11TH KNOWLEDGE CAPTURE CONFERENCE (K-CAP '21), P129, DOI 10.1145/3460210.3493569
+   Mathur S., 2018, P AIAI IR C AI COGN, V2259, P90
+   Michel F, 2019, LECT NOTES COMPUT SC, V11360, P125, DOI 10.1007/978-3-662-58664-8_5
+   Pham M, 2016, LECT NOTES COMPUT SC, V9981, P446, DOI 10.1007/978-3-319-46523-4_27
+   Mora-Cantallops M, 2019, DATA TECHNOL APPL, V53, P250, DOI 10.1108/DTA-12-2018-0110
+   Mugnier ML, 2016, AAAI CONF ARTIF INTE, P1051
+   Nadal S., 2019, CEUR WS, V2456, P185
+   Nadal S, 2023, IEEE T KNOWL DATA EN, V35, P509, DOI 10.1109/TKDE.2021.3077044
+   Nahhas S., 2023, 1 INT C ADV INN SMAR, P1, DOI DOI 10.1109/ICAISC56366.2023.10085121
+   Nargesian F, 2019, PROC VLDB ENDOW, V12, P1986, DOI 10.14778/3352063.3352116
+   Nguyen P., 2020, P SEMTAB, V2775, P86
+   Nguyen P., 2019, P WORKSH ONT MATCH, V2536, P191
+   Noy N, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P1365, DOI 10.1145/3308558.3313685
+   Noy N, 2019, COMMUN ACM, V62, P36, DOI 10.1145/3331166
+   Paulus A., 2018, P ICEIS, P69, DOI DOI 10.5220/0006800700690080
+   Paulus A, 2021, ICEIS: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS - VOL 2, P403, DOI 10.5220/0010499604030412
+   Paulus A, 2021, IEEE INT C SEMANT CO, P70, DOI 10.1109/ICSC50631.2021.00016
+   Pinkel Christoph, 2018, Semantic Web - Interoperability, Usability, Applicability, V9, P25, DOI 10.3233/SW-170268
+   Poggi A, 2008, LECT NOTES COMPUT SC, V4900, P133, DOI 10.1007/978-3-540-77688-8_5
+   Pomp A., 2019, Int. J. Robot. Comput.
+   Pomp A, 2021, PROCEEDINGS OF THE 30TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, CIKM 2021, P4774, DOI 10.1145/3459637.3481995
+   Pomp A, 2019, IEEE INT C SEMANT CO, P98, DOI 10.1109/ICOSC.2019.8665620
+   Pomp A, 2018, TECHNOLOGIES, V6, DOI 10.3390/technologies6030086
+   Pomp A, 2017, ICEIS: PROCEEDINGS OF THE 19TH INTERNATIONAL CONFERENCE ON ENTERPRISE INFORMATION SYSTEMS - VOL 2, P644, DOI 10.5220/0006324906440655
+   Priyatna F, 2014, WWW'14: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P479, DOI 10.1145/2566486.2567981
+   Quix C., 2019, Encyclopedia of Big Data Technologies, DOI DOI 10.1007/978-3-319-63962-87-1
+   Quix C., 2016, Complex Syst. Inform. Model. Q., V9, P67, DOI [10.7250/csimq.2016-9.04, DOI 10.7250/CSIMQ.2016-9.04, DOI 10.7250/csimq.2016-9.04]
+   Ramirez M, 2021, LECT NOTES COMPUT SC, V12731, P304, DOI 10.1007/978-3-030-77385-4_18
+   Ramnandan SK, 2015, LECT NOTES COMPUT SC, V9088, P403, DOI 10.1007/978-3-319-18818-8_25
+   Rihan Hai, 2018, Advances in Databases and Information Systems. 22nd European Conference, ADBIS 2018. Proceedings: Lecture Notes in Computer Science (LNCS 11019), P35, DOI 10.1007/978-3-319-98398-1_3
+   Rohde P.D., 2020, P EDBT ICDT WORKSH, V2578
+   Sawadogo P, 2021, J INTELL INF SYST, V56, P97, DOI 10.1007/s10844-020-00608-7
+   Scholly E., 2021, P DOLAP, P31
+   Schwade F, 2020, AMCIS 2020 PROCEEDINGS
+   Sequeda JF, 2013, J WEB SEMANT, V22, P19, DOI 10.1016/j.websem.2013.08.002
+   Shigapov R., 2020, P SEMTAB 2020, V2775, P17
+   Sicilia A, 2017, SEMANT WEB, V8, P969, DOI 10.3233/SW-160246
+   Sicilia A, 2016, LECT NOTES COMPUT SC, V10024, P577, DOI 10.1007/978-3-319-49004-5_37
+   Simsek U., 2019, P ESWC WORKSH, V2489, P46
+   Stach Christoph, 2021, iiWAS2021: The 23rd International Conference on Information Integration and Web Intelligence, P187, DOI 10.1145/3487664.3487784
+   Strotgen J., 2019, P ISWC SAT TRACKS, V2456, P323
+   Suhara Y, 2022, INT CONF MANAGE DATA, P1493, DOI 10.1145/3514221.3517906
+   Szekely P, 2015, LECT NOTES COMPUT SC, V9367, P205, DOI 10.1007/978-3-319-25010-6_12
+   Taheriyan M, 2016, LECT NOTES COMPUT SC, V9981, P549, DOI 10.1007/978-3-319-46523-4_33
+   Taheriyan M, 2016, J WEB SEMANT, V37-38, P152, DOI 10.1016/j.websem.2015.12.003
+   Taheriyan M, 2013, LECT NOTES COMPUT SC, V8218, P607, DOI 10.1007/978-3-642-41335-3_38
+   Ustundag A, 2018, SPRINGER SER ADV MAN, P1, DOI 10.1007/978-3-319-57870-5
+   Vu B, 2021, LECT NOTES COMPUT SC, V12922, P304, DOI 10.1007/978-3-030-88361-4_18
+   Wecel K., 2022, Big, Open and Linked Data: Effects and Value for the Economy, P35
+   Xiao G., 2020, P DESCR LOG WORKSH, V2663
+   Xiao GH, 2019, DATA INTELLIGENCE, V1, P201, DOI 10.1162/dint_a_00011
+   Xiao GH, 2018, PROCEEDINGS OF THE TWENTY-SEVENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P5511
+   Yahya M, 2021, APPL SCI-BASEL, V11, DOI 10.3390/app11115110
+   Zaharia M., 2021, P CIDR
+   Zanella A, 2014, IEEE INTERNET THINGS, V1, P22, DOI 10.1109/JIOT.2014.2306328
+   Zhang D, 2020, PROC VLDB ENDOW, V13, P1835, DOI 10.14778/3407790.3407793
+   Zhou BF, 2021, PROCEEDINGS OF THE 10TH INTERNATIONAL JOINT CONFERENCE ON KNOWLEDGE GRAPHS (IJCKG 2021), P54, DOI 10.1145/3502223.3502230
+   Zhou BF, 2021, J WEB SEMANT, V71, DOI 10.1016/j.websem.2021.100664
+   Zhou BF, 2020, CIKM '20: PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, P3489, DOI 10.1145/3340531.3417436
+NR 161
+TC 1
+Z9 1
+U1 2
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JUL
+PY 2024
+VL 81
+AR 100819
+DI 10.1016/j.websem.2024.100819
+EA APR 2024
+PG 20
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SU8M8
+UT WOS:001237052300001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Eibeck, A
+   Zhang, SC
+   Lim, MQ
+   Kraft, M
+AF Eibeck, Andreas
+   Zhang, Shaocong
+   Lim, Mei Qi
+   Kraft, Markus
+TI A simple and efficient approach to unsupervised instance matching and
+   its application to linked data of power plants
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Semantic web; Linked data; Knowledge graph; Instance matching; Record
+   linkage
+ID ENTITY; MANAGEMENT
+AB Knowledge graphs store and link semantically annotated data about real -world entities from a variety of domains and on a large scale. The World Avatar is based on a dynamic decentralised knowledge graph and on semantic technologies to realise complex cross -domain scenarios. Accurate computational results for such scenarios require the availability of complete, high -quality data. This work focuses on instance matching - one of the subtasks of automatically populating the knowledge graph with data from a wide spectrum of external sources. Instance matching compares two data sets and seeks to identify instances (data, records) referring to the same real -world entity. We introduce AutoCal, a new instance matcher which does not require labelled data and runs out of the box for a wide range of domains without tuning method -specific parameters. AutoCal achieves results competitive to recently proposed unsupervised matchers from the field of Machine Learning. We also select an unsupervised state-of-the-art matcher from the field of Deep Learning for a thorough comparison. Our results show that neither AutoCal nor the state-of-the-art matcher is superior regarding matching quality while AutoCal has only moderate hardware requirements and runs 2.7 to 60 times faster. In summary, AutoCal is specifically well -suited to be used in an automated environment. We present its prototypical integration into the World Avatar and apply AutoCal to the domain of power plants which is relevant for practical environmental scenarios of the World Avatar.
+C1 [Eibeck, Andreas; Zhang, Shaocong; Lim, Mei Qi; Kraft, Markus] CARES Cambridge Ctr Adv Res & Educ Singapore, 1 Create Way,CREATE Tower,05-05, Singapore 138602, Singapore.
+   [Kraft, Markus] Univ Cambridge, Dept Chem Engn & Biotechnol, Philippa Fawcett Dr, Cambridge CB3 0AS, England.
+   [Kraft, Markus] Nanyang Technol Univ, Sch Chem & Biomed Engn, 62 Nanyang Dr, Singapore 637459, Singapore.
+   [Kraft, Markus] Alan Turing Inst, 2QR,John Dodson House,96 Euston Rd, London NW1 2DB, England.
+C3 University of Cambridge; Nanyang Technological University
+RP Kraft, M (corresponding author), Univ Cambridge, Dept Chem Engn & Biotechnol, Philippa Fawcett Dr, Cambridge CB3 0AS, England.
+EM mk306@cam.ac.uk
+FU National Research Foundation (NRF) , Prime Minister's Office, Singapore
+   under its Campus for Research Excellence and Technological Enterprise
+   (CREATE) programme; Towards Turing 2.0 under the EPSRC Grant
+   [EP/W037211/1]; Alan Turing Institute
+FX This project is funded by the National Research Foundation (NRF) , Prime
+   Minister's Office, Singapore under its Campus for Research Excellence
+   and Technological Enterprise (CREATE) programme. Part of this work was
+   supported by Towards Turing 2.0 under the EPSRC Grant EP/W037211/1 & The
+   Alan Turing Institute.
+CR Akroyd J, 2021, DATA-CENTRIC ENG, V2, DOI 10.1017/dce.2021.10
+   Atherton J., 2023, Breakdown of British wind curtailment using a multi-source knowledge graph approach
+   Atherton J, 2023, ENERG ENVIRON SCI, V16, P4020, DOI 10.1039/d3ee01355c
+   Barlaug N, 2021, ACM T KNOWL DISCOV D, V15, DOI 10.1145/3442200
+   Berners-Lee T, 2001, SCI AM, V284, P34, DOI 10.1038/scientificamerican0501-34
+   Bizer C, 2011, SEMANTIC SERVICES, INTEROPERABILITY AND WEB APPLICATIONS: EMERGING CONCEPTS, P205, DOI 10.4018/978-1-60960-593-3.ch008
+   Cappuzzo R, 2020, SIGMOD'20: PROCEEDINGS OF THE 2020 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1335, DOI 10.1145/3318464.3389742
+   Chadzynski A, 2022, ENERGY AI, V8, DOI 10.1016/j.egyai.2022.100137
+   Christen P., 2012, Data Matching
+   Cohen W., 2003, KDD Workshop on Data Cleaning and Object Consolidation, V3, P73
+   De Bruin J, 2019, Zenodo
+   Devananda A, 2020, ENERGY AI, V1, DOI 10.1016/j.egyai.2020.100008
+   Ebraheem M, 2018, PROC VLDB ENDOW, V11, P1454, DOI 10.14778/3236187.3236198
+   Eibeck A., 2022, Research data, DOI [10.17863/CAM.82548, DOI 10.17863/CAM.82548]
+   Eibeck A., 2022, OntoMatch
+   Eibeck A, 2019, COMPUT CHEM ENG, V131, DOI 10.1016/j.compchemeng.2019.106586
+   Farazi F, 2020, ACS OMEGA, V5, P18342, DOI 10.1021/acsomega.0c02055
+   Ferrara A, 2011, INT J SEMANT WEB INF, V7, P46, DOI 10.4018/jswis.2011070103
+   Ge C., 2021, IEEE Trans. Knowl. Data Eng.
+   GRUBER TR, 1993, KNOWL ACQUIS, V5, P199, DOI 10.1006/knac.1993.1008
+   Gutierrez C, 2021, COMMUN ACM, V64, P96, DOI [10.1145/3447772, 10.1145/3418294]
+   Jurek A, 2017, INFORM SYST, V71, P40, DOI 10.1016/j.is.2017.06.006
+   Jurek-Loughrey A., 2019, Linking and Mining Heterogeneous and Multi-View Data, P55
+   Kejriwa M, 2015, LECT NOTES COMPUT SC, V9088, P388, DOI 10.1007/978-3-319-18818-8_24
+   Köpcke H, 2010, DATA KNOWL ENG, V69, P197, DOI 10.1016/j.datak.2009.10.003
+   Konda P, 2016, PROC VLDB ENDOW, V9, P1197
+   Köpcke H, 2010, PROC VLDB ENDOW, V3, P484
+   Lehmann J, 2015, SEMANT WEB, V6, P167, DOI 10.3233/SW-140134
+   Li P, 2021, INT CONF MANAGE DATA, P1064, DOI 10.1145/3448016.3452824
+   Li YL, 2020, Arxiv, DOI arXiv:2004.00584
+   Mudgal S, 2018, INT CONF MANAGE DATA, P19, DOI 10.1145/3183713.3196926
+   Nentwig M, 2017, SEMANT WEB, V8, P419, DOI 10.3233/SW-150210
+   OHare Kevin, 2019, Linking and Mining Heterogeneous and Multi-view Data, P79, DOI [10.1007/978-3-030-01872-6, DOI 10.1007/978-3-030-01872-6]
+   Papadakis G., 2011, P 4 ACM INT C WEB SE, P535, DOI DOI 10.1145/1935826.1935903
+   Paulheim H, 2017, SEMANT WEB, V8, P489, DOI 10.3233/SW-160218
+   Reimers N, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P3982
+   Shao JY, 2020, IEEE DATA MINING, P1250, DOI 10.1109/ICDM50108.2020.00158
+   Sherif MA, 2017, LECT NOTES COMPUT SC, V10249, P103, DOI 10.1007/978-3-319-58068-5_7
+   Wu RZ, 2020, SIGMOD'20: PROCEEDINGS OF THE 2020 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1149, DOI 10.1145/3318464.3389743
+   Zhou L, 2018, COMPUT CHEM ENG, V118, P49, DOI 10.1016/j.compchemeng.2018.07.010
+   Zhou L, 2017, APPL ENERG, V204, P1284, DOI 10.1016/j.apenergy.2017.05.002
+   Zhou XC, 2019, COMPUT CHEM ENG, V130, DOI 10.1016/j.compchemeng.2019.106577
+NR 42
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD APR
+PY 2024
+VL 80
+AR 100815
+DI 10.1016/j.websem.2024.100815
+EA FEB 2024
+PG 13
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MN6I5
+UT WOS:001194336400001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Shimizu, C
+   Eells, A
+   Gonzalez, S
+   Zhou, L
+   Hitzler, P
+   Sheill, A
+   Foley, C
+   Rehberger, D
+AF Shimizu, Cogan
+   Eells, Andrew
+   Gonzalez, Seila
+   Zhou, Lu
+   Hitzler, Pascal
+   Sheill, Alicia
+   Foley, Catherine
+   Rehberger, Dean
+TI Ontology design facilitating Wikibase integration - and a worked example
+   for historical data
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Wikibase; Modular ontology modeling; Ontology design pattern
+AB Wikibase - which is the software underlying Wikidata - is a powerful platform for knowledge graph creation and management. However, it has been developed with a crowd -sourced knowledge graph creation scenario in mind, which in particular means that it has not been designed for use case scenarios in which a tightly controlled high -quality schema, in the form of an ontology, is to be imposed, and indeed, independently developed ontologies do not necessarily map seamlessly to the Wikibase approach. In this paper, we provide the key ingredients needed in order to combine traditional ontology modeling with use of the Wikibase platform, namely a set of axiom patterns that bridge the paradigm gap, together with usage instructions and a worked example for historical data.
+C1 [Shimizu, Cogan] Wright State Univ, Dept Comp Sci & Engn, Dayton, OH 45435 USA.
+   [Shimizu, Cogan; Eells, Andrew; Zhou, Lu; Hitzler, Pascal] Kansas State Univ, Dept Comp Sci, Manhattan, KS USA.
+   [Gonzalez, Seila; Sheill, Alicia; Foley, Catherine; Rehberger, Dean] Michigan State Univ, MATRIX, E Lansing, MI USA.
+C3 University System of Ohio; Wright State University Dayton; Kansas State
+   University; Michigan State University
+RP Shimizu, C (corresponding author), Wright State Univ, Dept Comp Sci & Engn, Dayton, OH 45435 USA.
+EM cogan.shimizu@coganshimizu.com; andreweells@ksu.edu;
+   seilagonzaleze@gmail.com; luzhou@ksu.edu; hitzler@ksu.edu;
+   asheill@msu.edu; foleyc@msu.edu; rehberge@msu.edu
+FU National Science Foundation, United States [2032628 EAGER]; Open Science
+   in Semantic Web Research [2033521 A1]; KnowWhereGraph: Enriching and
+   Linking Cross-Domain Knowledge Graphs using Spatially-Explicit AI
+   Technologies [2333532]; Mellon Foundation through the Enslaved: Peoples
+   of the Historical Slave Trade
+FX The authors acknowledge support by the National Science Foundation,
+   United States under Grant 2032628 EAGER: Open Science in Semantic Web
+   Research , Grant 2033521 A1: KnowWhereGraph: Enriching and Linking
+   Cross-Domain Knowledge Graphs using Spatially-Explicit AI Technologies ,
+   and Grant 2333532 Proto-OKN Theme 3: An Education Gateway for the
+   Proto-OKN , as well as the Mellon Foundation through the Enslaved:
+   Peoples of the Historical Slave Trade .
+CR [Anonymous], 2021, Wikibase/indexing/RDF dump format
+   Denaux R, 2010, LECT NOTES ARTIF INT, V5972, P246, DOI 10.1007/978-3-642-14418-9_15
+   Doerr M, 2003, AI MAG, V24, P75
+   Eberhart A, 2021, LECT NOTES COMPUT SC, V12731, P230, DOI 10.1007/978-3-030-77385-4_14
+   Eells A., 2021, P 12 WORKSH ONT DES
+   Erxleben F, 2014, LECT NOTES COMPUT SC, V8796, P50, DOI 10.1007/978-3-319-11964-9_4
+   Faiz M., 2019, CEUR Workshop Proceedings, V2459, P2
+   Galton A., 1991, P 12 INT JOINT C ART, P1177
+   Gangemi A., 2009, Handbook on ontologies, P221, DOI DOI 10.1007/978-3-540-92673-3
+   Gangemi A, 2016, STUD SEMANTIC WEB, V25, P105
+   Hammar Karl., 2016, WOP@ISWC, volume 32 of Studies on the Semantic Web, P1
+   Hartig O., 2017, CEUR Workshop Proceedings, V1912
+   Hitzler P., 2010, Foundations of semantic web technologies
+   Kr”tzsch M, 2013, Arxiv, DOI [arXiv:1201.4089, DOI 10.48550/ARXIV.1201.4089]
+   Mascardi V., 2006, Technical Report DISI-TR-06-21
+   Peterson D., 2012, W3C XML Schema Definition Language (XSD) 1.1 Part 2: Datatypes
+   Presutti V., 2009, CEUR Workshop Proceedings, V516
+   Safwat H, 2017, LANG RESOUR EVAL, V51, P191, DOI 10.1007/s10579-016-9351-x
+   Sahoo S., 2013, PROV-O: The PROV Ontology
+   Shimizu C, 2023, SEMANT WEB, V14, P459, DOI 10.3233/SW-222886
+   Shimizu C, 2020, J WEB SEMANT, V63, DOI 10.1016/j.websem.2020.100567
+   Shimizu Cogan., 2019, Knowledge Graphs and Semantic Web - First Iberoamerican Conference, KGSWC 2019, Villa Clara, Cuba, June 23-30, 2019, Proceedings, V1029, P149
+   Shimizu Cogan., 2019, P 10 WORKSH ONT DES, V2459, P47
+   Skjæveland MG, 2018, LECT NOTES COMPUT SC, V11136, P477, DOI 10.1007/978-3-030-00671-6_28
+   Wilkinson MD, 2016, SCI DATA, V3, DOI 10.1038/sdata.2016.18
+   Zhou L, 2020, CIKM '20: PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, P3197, DOI 10.1145/3340531.3412768
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD OCT
+PY 2024
+VL 82
+AR 100823
+DI 10.1016/j.websem.2024.100823
+EA JUN 2024
+PG 15
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XL9G6
+UT WOS:001261951000001
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Valiente, MC
+   Pavón, J
+AF Valiente, Maria -Cruz
+   Pavon, Juan
+TI Web3-DAO: An ontology for decentralized autonomous organizations
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Blockchain; Web3; DAO; Decentralized autonomous organization; Digital
+   governance; E-government; Online entity; Ontology; Voting system
+ID PRINCIPLES; GOVERNANCE
+AB Decentralized autonomous organizations (DAOs) are relatively a newly emerging type of online entity related to governance or business models where all their members work together and participate in the decision-making processes affecting the DAO in a decentralized, collective, fair, and democratic manner. In a DAO, members interaction is mediated by software agents running on a blockchain that encode the governance of the specific entity in terms of rules that optimize their business and goals. In this context, most popular DAO software frameworks provide decision-making models aiming to facilitate digital governance and the collaboration among their members intertwining social and economic concerns. However, these models are complex, not interoperable among them and lack a common understanding and shared knowledge concerning DAOs, as well as the computational semantics needed to enable automated validation, simulation or execution. Thus, this paper presents an ontology (Web3-DAO), which can support machine-readable digital governance of DAOs adding semantics to their decision-making models. The proposed ontology captures the domain logic that allows the sharing of updated information and decisions for all the members that interact with a DAO by the interoperability of their own assessment and decision tools. Furthermore, the ontology detects semantic ambiguities, uncertainties and contradictions. The Web3-DAO ontology is available in open access at https://github.com/Grasi a/semantic-web3-dao.
+C1 [Valiente, Maria -Cruz; Pavon, Juan] Univ Complutense Madrid, Inst Knowledge Technol, Madrid, Spain.
+C3 Complutense University of Madrid
+RP Valiente, MC (corresponding author), Univ Complutense Madrid, Inst Knowledge Technol, Madrid, Spain.
+EM mcvaliente@ucm.es
+FU European Research Council [ERC- 2017-STG, 759207, PID2021-127956OB-I00];
+   Spanish Ministry of Science and Innovation
+FX This work was partially supported by the project P2P Models (http
+   s://p2pmodels.eu) funded by the European Research Council ERC- 2017-STG
+   [grant no.: 759207] ; and DAOapplications (grant no.:
+   PID2021-127956OB-I00) funded by the Spanish Ministry of Science and
+   Innovation.
+CR [Anonymous], 2014, RDF Schema 1.1
+   [Anonymous], 2019, Framework for "Investment Contract" Analysis of Digital Assets
+   Anwar H., 2018, Blockchains, V101
+   Aragon, How to structure DAO proposals and build proposal processes.
+   Aragon, 2021, How to DAO: Answers for Beginners.
+   Aragon, 2021, A DAO Defined: The Big Picture.
+   arepr, About us
+   Baader F., 2010, DESCRIPTION LOGIC HD, V2nd
+   Beck R, 2018, J ASSOC INF SYST, V19, P1020, DOI 10.17705/1jais.00518
+   Bella G, 2022, STUD COMPUT INTELL, V1026, P249, DOI 10.1007/978-3-030-96627-0_23
+   Bella G, 2024, Arxiv, DOI [arXiv:2109.02899, 10.48550/arXiv.2109.02899, DOI 10.48550/ARXIV.2109.02899]
+   Black JS, 1997, HUM RELAT, V50, P859, DOI 10.1177/001872679705000705
+   Brickley D., 2014, FOAF Vocabulary Speci cation
+   Buterin V., 2014, DAOs, DACs, DAs and More: an Incomplete Terminology Guide
+   Buterin V, 2014, white paper 3.37, DOI DOI 10.1145/2939672.2939785
+   Cantone D, 2022, STUD COMPUT INTELL, V1026, P237, DOI 10.1007/978-3-030-96627-0_22
+   DAO Analyzer, Dashboard.
+   DAOhaus, about us
+   Davidson S., 2016, Economics of Blockchain, DOI [10.2139/ssrn.2744751, DOI 10.2139/SSRN.2744751]
+   De Filippi P., 2018, Blockchain and the law: The rule of code
+   Decrypt, America's First Legal DAO Approved in Wyoming.
+   DeepDAO, about us
+   Dhillon V., 2017, Blockchain Enabled Applications.
+   dmi.unict, OASIS-Ontology for Agents, Systems, and Integration of Services
+   DuPont Q, 2018, RIPE SER GLOB POLIT, P157
+   ethereum, ERC 721 Non-Fungible Token Standard
+   eur-lex.europa, The European Parliament and the Council of the European Union, 2014/65/EU Directive (MiFID II)
+   Faqir-Rhazoui Y, 2021, EXTENDED ABSTRACTS OF THE 2021 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'21), DOI 10.1145/3411763.3451755
+   Fernando J., 2022, Investopedia
+   Fischer A, 2021, INTERNET POLICY REV, V10, DOI 10.14763/2021.2.1554
+   gnosis, Gnosis Chain
+   Gruber TR, 1995, INT J HUM-COMPUT ST, V43, P907, DOI 10.1006/ijhc.1995.1081
+   Guarino N, 1998, FR ART INT, V46, P3
+   Hassan S., 2017, P2P models whitepaper
+   Hassan S, 2021, INTERNET POLICY REV, V10, DOI 10.14763/2021.2.1556
+   Vo MHL, 2020, J INFORM TELECOMMUN, V4, P1, DOI 10.1080/24751839.2019.1686681
+   MolochDAO, about us
+   Musen Mark A, 2015, AI Matters, V1, P4
+   Nakamoto S., 2008, Bitcoin: a peer-to-peer electronic cash system, V4, P15
+   Peña-Calvin A, 2023, IEEE T COMPUT SOC SY, DOI 10.1109/TCSS.2023.3299254
+   Ramesh R., 2014, Int. J. Sci. Res. Manag. (IJSRM)., V2, P1241
+   Robbins SP., 2010, Management, V10th
+   Swan M., 2015, Blockchain: Blueprint for a New Economy
+   UML, 2017, Unified Modeling Language Specification.
+   Uschold M, 1996, KNOWL ENG REV, V11, P93, DOI 10.1017/S0269888900007797
+   Uschold M., 1995, WORKSHOP BASIC ONTOL
+   Valiente MC, 2022, COMM COM INF SC, V1537, P171, DOI 10.1007/978-3-030-98876-0_15
+   W3C OWL Working Group, 2012, OWL 2 Web Ontology Language, Profiles
+   Weston G, 2022, Crypto Token-A Comprehensive Guide, 101 Blockchains
+   Zhou ZX, 2022, COMPUT IND ENG, V170, DOI 10.1016/j.cie.2022.108318
+   Ziegler C., 2022, ICIS 2022 P
+NR 51
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD OCT
+PY 2024
+VL 82
+AR 100830
+DI 10.1016/j.websem.2024.100830
+EA JUN 2024
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XM0E4
+UT WOS:001261974800001
+OA hybrid
+DA 2024-08-05
+ER
+
+EF

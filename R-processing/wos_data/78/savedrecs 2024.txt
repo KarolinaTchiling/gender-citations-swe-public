@@ -1,0 +1,1112 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chapman, A
+   Lauro, L
+   Missier, P
+   Torlone, R
+AF Chapman, Adriane
+   Lauro, Luca
+   Missier, Paolo
+   Torlone, Riccardo
+TI Supporting Better Insights of Data Science Pipelines with Fine-grained
+   Provenance
+SO ACM TRANSACTIONS ON DATABASE SYSTEMS
+LA English
+DT Article
+DE Provenance; data science; data preparation; preprocessing
+ID MODEL
+AB Successful data-driven science requires complex data engineering pipelines to clean, transform, and alter data in preparation for machine learning, and robust results can only be achieved when each step in the pipeline can be justified, and its effect on the data explained. In this framework, we aim at providing data scientists with facilities to gain an in-depth understanding of how each step in the pipeline affects the data, from the raw input to training sets ready to be used for learning. Starting from an extensible set of data preparation operators commonly used within a data science setting, in this work we present a provenance management infrastructure for generating, storing, and querying very granular accounts of data transformations, at the level of individual elements within datasets whenever possible. Then, from the formal definition of a core set of data science preprocessing operators, we derive a provenance semantics embodied by a collection of templates expressed in PROV, a standard model for data provenance. Using those templates as a reference, our provenance generation algorithm generalises to any operator with observable input/output pairs. We provide a prototype implementation of an application-level provenance capture library to produce, in a semiautomatic way, complete provenance documents that account for the entire pipeline. We report on the ability of that reference implementation to capture provenance in real ML benchmark pipelines and over TCP-DI synthetic data. We finally show how the collected provenance can be used to answer a suite of provenance benchmark queries that underpin some common pipeline inspection questions, as expressed on the Data Science Stack Exchange.
+C1 [Chapman, Adriane] Univ Southampton, Sch Elect & Comp Sci, Highfield Campus, Southampton SO17 1SX, Hants, England.
+   [Lauro, Luca; Torlone, Riccardo] Univ Roma Tre, Dipartimento Ingn, Via Vasca Navale 79, I-00146 Rome, Italy.
+   [Missier, Paolo] Newcastle Univ, Sch Comp, Urban Sci Bldg,1 Sci Sq, Newcastle Upon Tyne NE4 5TG, Tyne & Wear, England.
+C3 University of Southampton; Roma Tre University; Newcastle University -
+   UK
+RP Chapman, A (corresponding author), Univ Southampton, Sch Elect & Comp Sci, Highfield Campus, Southampton SO17 1SX, Hants, England.
+EM Adriane.Chapman@soton.ac.uk; luca.lauro@uniroma3.it;
+   riccardo.torlone@uniroma3.it
+RI Missier, Paolo/AAF-1882-2020
+OI Missier, Paolo/0000-0002-0978-2446; Chapman, Adriane/0000-0002-3814-2587
+CR Agrawal P, 2019, INT CONF MANAGE DATA, P1803, DOI 10.1145/3299869.3314050
+   Alaa AhmedM., 2019, P ADV NEURAL INFORM, P11301
+   Allen MD, 2010, LECT NOTES COMPUT SC, V6378, P98, DOI 10.1007/978-3-642-17819-1_12
+   Amsterdamer Y, 2011, PROC VLDB ENDOW, V5, P346, DOI 10.14778/2095686.2095693
+   Arab Bahareh Sadat, 2018, IEEE Data Engineering Bulletin, V41, P51
+   Blount Tom, 2021, P 13 INT WORKSH THEO
+   Buneman P, 2001, LECT NOTES COMPUT SC, V1973, P316
+   Cabibbo L, 1998, LECT NOTES COMPUT SC, V1377, P183
+   Chapman A, 2020, PROC VLDB ENDOW, V14, P507, DOI 10.14778/3436905.3436911
+   Chapman A, 2009, ACM SIGMOD/PODS 2009 CONFERENCE, P523
+   Cheney J, 2007, FOUND TRENDS DATABAS, V1, P379, DOI 10.1561/1900000006
+   Cheung Alvin, 2015, Ph.D. Dissertation
+   Chiticariu L., 2005, Proceedings of the 2005 ACM SIGMOD international conference on Management of data, P942, DOI DOI 10.1145/1066157.1066296
+   Cohen-Boulakia S, 2008, CONCURR COMP-PRACT E, V20, P497, DOI 10.1002/cpe.1232
+   D'Amour A, 2020, FAT* '20: PROCEEDINGS OF THE 2020 CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, P525, DOI 10.1145/3351095.3372878
+   Demsar J, 2013, J MACH LEARN RES, V14, P2349
+   Garcia S., 2016, Big Data Analytics, V1, P1
+   Ghorbani A, 2019, PR MACH LEARN RES, V97
+   Glavic B, 2009, ACM SIGMOD/PODS 2009 CONFERENCE, P1055
+   Glavic B, 2009, PROC INT CONF DATA, P174, DOI 10.1109/ICDE.2009.15
+   Grafberger S, 2023, COMPANION OF THE WORLD WIDE WEB CONFERENCE, WWW 2023, P1512, DOI 10.1145/3543873.3587557
+   Grafberger S, 2022, VLDB J, V31, P1103, DOI 10.1007/s00778-021-00726-w
+   Grafberger S, 2021, INT CONF MANAGE DATA, P2736, DOI 10.1145/3448016.3452759
+   Green T. J., 2007, PODS, P31, DOI DOI 10.1145/1265530.1265535
+   Guedes T, 2018, PROCEEDINGS OF WORKS 2018: 13TH IEEE/ACM WORKSHOP ON WORKFLOWS IN SUPPORT OF LARGE-SCALE SCIENCE (WORKS), P31, DOI 10.1109/WORKS.2018.00009
+   Huynh Trung Dong, 2018, Prov Python
+   Ikeda R, 2012, PROC INT CONF DATA, P1249, DOI 10.1109/ICDE.2012.118
+   Interlandi M, 2015, PROC VLDB ENDOW, V9, P216
+   Konstantinou N, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1599, DOI 10.1145/3035918.3058730
+   Lakkaraju H, 2017, Arxiv, DOI [arXiv:1707.01154, 10.48550/arXiv.1707.01154]
+   Lee S, 2017, PROC INT CONF DATA, P485, DOI 10.1109/ICDE.2017.105
+   Lerner B, 2022, R J, V14, P141
+   Lourenço R, 2020, SIGMOD'20: PROCEEDINGS OF THE 2020 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P463, DOI 10.1145/3318464.3389763
+   McPhillips T, 2015, Arxiv, DOI arXiv:1502.02403
+   Mirza B, 2019, GENES-BASEL, V10, DOI 10.3390/genes10020087
+   Moreau L., 2012, PROV-DM: The PROV Data Model
+   Moreau Luc, 2013, Constraints of the PROV Data Model
+   Mothilal RK, 2020, FAT* '20: PROCEEDINGS OF THE 2020 CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, P607, DOI 10.1145/3351095.3372850
+   Namaki MH, 2020, KDD '20: PROCEEDINGS OF THE 26TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P1542, DOI 10.1145/3394486.3403205
+   Narayanan Arvind, 2018, P C FAIRN ACC TRANSP, V1170
+   Niu X, 2017, PROC INT CONF DATA, P473, DOI 10.1109/ICDE.2017.104
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+   Petersohn D, 2020, PROC VLDB ENDOW, V13, P2033, DOI 10.14778/3407790.3407807
+   Pimentel JF, 2019, ACM COMPUT SURV, V52, DOI 10.1145/3311955
+   Pimentel JF, 2017, PROC VLDB ENDOW, V10, P1841, DOI 10.14778/3137765.3137789
+   Pimentel JF, 2016, LECT NOTES COMPUT SC, V9672, P199, DOI 10.1007/978-3-319-40593-3_21
+   Pina D, 2023, COMPANION OF THE WORLD WIDE WEB CONFERENCE, WWW 2023, P1542, DOI 10.1145/3543873.3587561
+   Poess M, 2014, PROC VLDB ENDOW, V7, P1367, DOI 10.14778/2733004.2733009
+   Psallidas F, 2018, PROC VLDB ENDOW, V11, P719, DOI 10.14778/3184470.3184475
+   Raghunathan TW, 2001, Surv Methodol, V27, P85
+   Ribeiro MT, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1135, DOI 10.1145/2939672.2939778
+   Rupprecht L, 2020, PROC VLDB ENDOW, V13, P3354, DOI 10.14778/3415478.3415556
+   Schelter Sebastian, 2018, P SYSML C
+   Scherzinger S, 2019, INT CON DISTR COMP S, P1620, DOI 10.1109/ICDCS.2019.00161
+   Shang ZY, 2019, INT CONF MANAGE DATA, P1171, DOI 10.1145/3299869.3319863
+   Studer S, 2021, MACH LEARN KNOW EXTR, V3, P392, DOI 10.3390/make3020020
+   Tang MJ, 2019, PROC INT CONF DATA, P1964, DOI 10.1109/ICDE.2019.00215
+   Vartak M, 2018, INT CONF MANAGE DATA, P1285, DOI 10.1145/3183713.3196934
+   Wu YJ, 2020, SIGMOD'20: PROCEEDINGS OF THE 2020 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P447, DOI 10.1145/3318464.3380571
+   Yan Zhepeng, 2016, P 8 USENIX WORKSH TH
+   Zhang Qian, 2017, Biodiversity Information Science and Standards, V1
+   Zheng N, 2019, PROC INT CONF DATA, P184, DOI 10.1109/ICDE.2019.00025
+NR 62
+TC 1
+Z9 1
+U1 3
+U2 3
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0362-5915
+EI 1557-4644
+J9 ACM T DATABASE SYST
+JI ACM Trans. Database Syst.
+PD JUN
+PY 2024
+VL 49
+IS 2
+AR 6
+DI 10.1145/3644385
+PG 42
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RQ9L1
+UT WOS:001229243600002
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Currim, S
+   Snodgrass, RT
+   Suh, YK
+AF Currim, Sabah
+   Snodgrass, Richard T.
+   Suh, Young-Kyoon
+TI Identifying the Root Causes of DBMS Suboptimality
+SO ACM TRANSACTIONS ON DATABASE SYSTEMS
+LA English
+DT Article
+DE Query optimization; database performance evaluation; empirical studies;
+   query suboptimality
+AB The query optimization phase within a database management system (DBMS) ostensibly finds the fastest query execution plan from a potentially large set of enumerated plans, all of which correctly compute the same result of the specified query. Sometimes the cost-based optimizer selects a slower plan, for a variety of reasons. Previous work has focused on increasing the performance of specific components, often a single operator, within an individual DBMS. However, that does not address the fundamental question: from where does this suboptimality arise, across DBMSes generally? In particular, the contribution of each of many possible factors to DBMS suboptimality is currently unknown. To identify the root causes of DBMS suboptimality, we first introduce the notion of empirical suboptimality of a query plan chosen by the DBMS, indicated by the existence of a query plan that performs more efficiently than the chosen plan, for the same query. A crucial aspect is that this can be measured externally to the DBMS, and thus does not require access to its source code. We then propose a novel predictive model to explain the relationship between various factors in query optimization and empirical suboptimality. Our model associates suboptimality with the factors of complexity of the schema, of the underlying data on which the query is evaluated, of the query itself, and of the DBMS optimizer. The model also characterizes concomitant interactions among these factors. This model induces a number of specific hypotheses that were tested on multiple DBMSes. We performed a series of experiments that examined the plans for thousands of queries run on four popular DBMSes. We tested the model on over a million of these query executions, using correlational analysis, regression analysis, and causal analysis, specifically Structural Equation Modeling (SEM). We observed that the dependent construct of empirical suboptimality prevalence correlates positively with nine specific constructs characterizing four identified factors that explain in concert much of the variance of suboptimality of two extensive benchmarks, across these disparate DBMSes. This predictive model shows that it is the common aspects of these DBMSes that predict suboptimality, not the particulars embedded in the inordinate complexity of each of these DBMSes. This paper thus provides a new methodology to study mature query optimizers, identifies underlying DBMS-independent causes for the observed suboptimality, and quantifies the relative contribution of each of these causes to the observed suboptimality. Thiswork thus provides a roadmap for fundamental improvements of cost-based query optimizers.
+C1 [Currim, Sabah] Univ Arizona, Off Budget & Planning, Adm Bldg Room 101,1401 East Univ Blvd, Tucson, AZ 85721 USA.
+   [Snodgrass, Richard T.] Univ Arizona, Dept Comp Sci, Gould Simpson 917,1040 E 4th St,POB 210077, Tucson, AZ 85721 USA.
+   [Suh, Young-Kyoon] Kyungpook Natl Univ, Sch Comp Sci & Engn, IT 5 Room 520,80 Daehak Ro, Daegu 41566, South Korea.
+C3 University of Arizona; University of Arizona; Kyungpook National
+   University (KNU)
+RP Suh, YK (corresponding author), Kyungpook Natl Univ, Sch Comp Sci & Engn, IT 5 Room 520,80 Daehak Ro, Daegu 41566, South Korea.
+EM scurrim@arizona.edu; rts@cs.arizona.edu; yksuh@knu.ac.kr
+OI Suh, Young-Kyoon/0000-0003-3124-2566
+FU NSF [IIS-0639106, IIS-0415101, EIA-0080123]; NRF [NRF-2021R1I1A3056669,
+   NRF-2018R1A6A1A03025109]
+FX This work was supported in part by NSF grants IIS-0639106, IIS-0415101,
+   and EIA-0080123, and by NRF grants NRF-2021R1I1A3056669 and
+   NRF-2018R1A6A1A03025109.
+CR Angles R, 2008, ACM COMPUT SURV, V40, DOI 10.1145/1322432.1322433
+   Asoh DA, 2007, INT J KNOWL MANAG, V3, P1, DOI 10.4018/jkm.2007040101
+   Avnur R, 2000, SIGMOD REC, V29, P261, DOI 10.1145/335191.335420
+   Babcock Brian., 2005, P 2005 ACM SIGMOD IN, P119, DOI DOI 10.1145/1066157.1066172
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   Bellamkonda S, 2013, PROC VLDB ENDOW, V6, P1102, DOI 10.14778/2536222.2536235
+   CAMPBELL DJ, 1988, ACAD MANAGE REV, V13, P40, DOI 10.2307/258353
+   Chaudhuri S., 1998, Proceedings of the Seventeenth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems. PODS 1998, P34, DOI 10.1145/275487.275492
+   Cheney J, 2010, ELECTRON P THEOR COM, P63, DOI 10.4204/EPTCS.26.6
+   Cohen P.R., 2016, Empirical Methods for Artificial Intelligence, V11, P88
+   Currim S, 2017, ACM T DATABASE SYST, V42, DOI 10.1145/2996454
+   Currim Sabah, 2013, P ACM SIGMOD INT C M, P421
+   Fisher, 1971, DESIGN EXPT
+   GRAEFE G, 1993, COMPUT SURV, V25, P73, DOI 10.1145/152610.152611
+   Harish D., 2007, Proceedings of the 33rd International Conference on Very Large Data Bases VLDB '07, P1081
+   Haritsa JR, 2010, PROC VLDB ENDOW, V3, P1517, DOI 10.14778/1920841.1921027
+   Harmouch H, 2017, PROC VLDB ENDOW, V11, P499, DOI 10.1145/3164135.3164145
+   Hevner AR, 2004, MIS QUART, V28, P75, DOI 10.2307/25148625
+   Hu LT, 1999, STRUCT EQU MODELING, V6, P1, DOI 10.1080/10705519909540118
+   Hulgeri A., 2002, Proceedings of the Twenty-eighth International Conference on Very Large Data Bases, P167
+   IMDb.com, 2020, IMDb Datasets
+   Ioannidis Y.E., 2003, P 29 INT C VER LARG, P19
+   Ioannidis YE, 1996, ACM COMPUT SURV, V28, P121, DOI 10.1145/234313.234367
+   ISO, 2008, ISO SQL:2008 International Standard. Technical Report.
+   JARKE M, 1984, COMPUT SURV, V16, P111, DOI 10.1145/356924.356928
+   Kabra N., 1998, SIGMOD Record, V27, P106, DOI 10.1145/276305.276315
+   Khoussainova N, 2012, PROC VLDB ENDOW, V5, P598, DOI 10.14778/2180912.2180913
+   Leis V, 2015, PROC VLDB ENDOW, V9, P204
+   Li QZ, 2007, PROC INT CONF DATA, P1, DOI 10.1109/ICEMI.2007.4350546
+   MANNINO MV, 1988, COMPUT SURV, V20, P192, DOI 10.1145/62061.62063
+   Meliou A., 2010, IEEE Data Eng. Bull., P59
+   Meliou A, 2014, PROC VLDB ENDOW, V7, P1715, DOI 10.14778/2733004.2733070
+   Melton Jim, 2003, Advanced SQL: 1999
+   Moody D. L., 1998, Conceptual Modeling - ER'98. 17th International Conference on Conceptual Modeling. Proceedings, P211
+   ONeil P, 1996, ACTA INFORM, V33, P351, DOI 10.1007/s002360050048
+   Pearl J., 2012, Handbook of structural equation modelling, P68, DOI DOI 10.21236/ADA557445
+   Pearl J, 2010, INT J BIOSTAT, V6, DOI 10.2202/1557-4679.1203
+   Re C, 2008, LECT NOTES ARTIF INT, V5291, P5, DOI 10.1007/978-3-540-87993-0_3
+   Reddy Naveen., 2005, VLDB, P1228
+   Reiss Frederick R., 2003, P ACM SIGMOD INT C M, P385
+   Rosseel Y, 2012, J STAT SOFTW, V48, P1, DOI 10.18637/jss.v048.i02
+   Salimi Babak, 2016, P 8 USENIX C THEORY, P7
+   Sarawagi S, 2000, SIGMOD REC, V29, P589
+   Selinger P.G., 1979, Proceedings of the 1979 ACM SIGMOD International Conference on Management of Data (SIGMOD), P23
+   Suh YK, 2022, P ACM MEAS ANAL COMP, V6, DOI [10.1145/3508024, 10.1145/3489048.3522644]
+   Suh YK, 2017, INFORM SYST, V66, P119, DOI 10.1016/j.is.2016.12.004
+   Suh YK, 2014, PROC VLDB ENDOW, V7, P1641, DOI 10.14778/2733004.2733050
+   Warner B R., 2018, The SAGE Encyclopedia of Communication Research Methods, P122, DOI [10.4135/9781483381411, DOI 10.4135/9781483381411]
+   Winslett M, 2002, SIGMOD RECORD, V31, P50
+   Wu E, 2013, PROC INT CONF DATA, P865, DOI 10.1109/ICDE.2013.6544881
+NR 50
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0362-5915
+EI 1557-4644
+J9 ACM T DATABASE SYST
+JI ACM Trans. Database Syst.
+PD FEB
+PY 2024
+VL 49
+IS 1
+AR 4
+DI 10.1145/3636425
+PG 40
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MM3K2
+UT WOS:001193996800004
+DA 2024-08-05
+ER
+
+PT J
+AU Carmeli, N
+   Grohe, M
+   Kimelfeld, B
+   Livshits, E
+   Tibi, M
+AF Carmeli, Nofar
+   Grohe, Martin
+   Kimelfeld, Benny
+   Livshits, Ester
+   Tibi, Muhammad
+TI Database Repairing with Soft Functional Dependencies
+SO ACM TRANSACTIONS ON DATABASE SYSTEMS
+LA English
+DT Article
+DE Database inconsistency; database repairs; integrity constraints; soft
+   constraints; functional dependencies
+ID APPROXIMATE; COMPLEXITY; DISCOVERY
+AB A common interpretation of soft constraints penalizes the database for every violation of every constraint, where the penalty is the cost (weight) of the constraint. A computational challenge is that of finding an optimal subset: a collection of database tuples that minimizes the total penalty when each tuple has a cost of being excluded. When the constraints are strict (i.e., have an infinite cost), this subset is a "cardinality repair" of an inconsistent database; in soft interpretations, this subset corresponds to a "most probable world" of a probabilistic database, a "most likely intention" of a probabilistic unclean database, and so on. Within the class of functional dependencies, the complexity of finding a cardinality repair is thoroughly understood. Yet, very little is known about the complexity of finding an optimal subset for the more general soft semantics. The work described in this manuscript makes significant progress in that direction. In addition to general insights about the hardness and approximability of the problem, we present algorithms for two special cases (and some generalizations thereof): a single functional dependency, and a bipartite matching. The latter is the problem of finding an optimal "almost matching" of a bipartite graph where a penalty is paid for every lost edge and every violation of monogamy. For these special cases, we also investigate the complexity of additional computational tasks that arise when the soft constraints are used as a means to represent a probabilistic database in the case of a probabilistic unclean database.
+C1 [Carmeli, Nofar] Univ Montpellier, CNRS, Inria, LIRMM, 860 Rue St Priest, F-34090 Montpellier, France.
+   [Grohe, Martin] Rhein Westfal TH Aachen, Ahornstr 55, D-52074 Aachen, Germany.
+   [Kimelfeld, Benny; Tibi, Muhammad] Technion, Technion Israel Inst Technol, IL-3200003 Haifa, Israel.
+   [Livshits, Ester] Univ Edinburgh, 10 Crichton St, Edinburgh EH8 9AB, Midlothian, Scotland.
+C3 Centre National de la Recherche Scientifique (CNRS); Universite
+   Paul-Valery; Universite Perpignan Via Domitia; Universite de
+   Montpellier; Inria; RWTH Aachen University; Technion Israel Institute of
+   Technology; University of Edinburgh
+RP Carmeli, N (corresponding author), Univ Montpellier, CNRS, Inria, LIRMM, 860 Rue St Priest, F-34090 Montpellier, France.
+EM nofar.carmeli@inria.fr; grohe@informatik.rwth-aachen.de;
+   bennyk@cs.technion.ac.il; ester.livshits@ed.ac.uk;
+   m7mdtb@cs.technion.ac.il
+OI Kimelfeld, Benny/0000-0002-7156-1572
+FU Israel Science Foundation (ISF) [768/19]; German Research Foundation
+   (DFG) [GR 1492/16-1, KI 2348/1-1]
+FX This work has been funded by the Israel Science Foundation (ISF) under
+   grant 768/19, and the German Research Foundation (DFG) under grants GR
+   1492/16-1 and KI 2348/1-1.
+CR Ahuja R, 1993, Network Flows, Theory, Algorithms and Applications
+   [Anonymous], 2009, ICDT
+   Arasu A, 2009, PROC INT CONF DATA, P952, DOI 10.1109/ICDE.2009.43
+   Bárány V, 2017, ACM T DATABASE SYST, V42, DOI 10.1145/3132700
+   Beskales G, 2013, PROC INT CONF DATA, P541, DOI 10.1109/ICDE.2013.6544854
+   Blunsom Phil., 2008, Proceedings of the Conference on Empirical Methods in Natural Language Processing, P215
+   Chiang F, 2011, PROC INT CONF DATA, P446, DOI 10.1109/ICDE.2011.5767833
+   Chu X, 2013, PROC VLDB ENDOW, V6, P1498, DOI 10.14778/2536258.2536262
+   Combi C, 2015, COMPUT BIOL MED, V62, P306, DOI 10.1016/j.compbiomed.2014.08.004
+   Dalvi N, 2007, VLDB J, V16, P523, DOI 10.1007/s00778-006-0004-3
+   Dalvi N, 2012, J ACM, V59, DOI 10.1145/2395116.2395119
+   De Sa C, 2016, SIGMOD REC, V45, P60, DOI [10.1145/2949741.2949756, 10.1145/3060586]
+   De Sa Christopher, 2019, 22 INT C DATABASE TH, V6, P1, DOI [DOI 10.4230/LIPICS.ICDT.2019.6, 10.4230/LIPICS.ICDT.2019.6]
+   Ermon Stefano, 2011, P ADV NEURAL INFORM, P2744
+   Ge C, 2021, PROC VLDB ENDOW, V14, P1886, DOI 10.14778/3467861.3467876
+   GOLDBERG AV, 1990, MATH OPER RES, V15, P430, DOI 10.1287/moor.15.3.430
+   Gribkoff Eric, 2014, P 1 INT WORKSH BIG U
+   Heidari A, 2019, INT CONF MANAGE DATA, P829, DOI 10.1145/3299869.3319888
+   HOCHBAUM DS, 1982, SIAM J COMPUT, V11, P555, DOI 10.1137/0211045
+   Huhtala Y, 1999, COMPUT J, V42, P100, DOI 10.1093/comjnl/42.2.100
+   Jha Abhay Kumar, 2008, P 27 ACM SIGMOD SIGA, P119
+   Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386
+   Kruse S, 2018, PROC VLDB ENDOW, V11, P759, DOI 10.14778/3192965.3192968
+   Livshits E, 2021, INT CONF MANAGE DATA, P1182, DOI 10.1145/3448016.3457310
+   Livshits E, 2020, PROC VLDB ENDOW, V13, P1682, DOI 10.14778/3401960.3401966
+   Livshits E, 2020, ACM T DATABASE SYST, V45, DOI 10.1145/3360904
+   Lopatenko A, 2006, LECT NOTES COMPUT SC, V4353, P179
+   Lowd D, 2007, LECT NOTES ARTIF INT, V4702, P200
+   Miao DJ, 2020, PROC VLDB ENDOW, V13, P2061, DOI 10.14778/3407790.3407809
+   Nofar Carmeli, 2021, 24 INT C DAT THEOR I
+   Pena EHM, 2019, PROC VLDB ENDOW, V13, P266, DOI 10.14778/3368289.3368293
+   Pennerath F, 2020, KDD '20: PROCEEDINGS OF THE 26TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P1254, DOI 10.1145/3394486.3403178
+   Rekatsinas T, 2017, PROC VLDB ENDOW, V10, P1190
+   Richardson M, 2006, MACH LEARN, V62, P107, DOI 10.1007/s10994-006-5833-1
+   Sen P, 2009, VLDB J, V18, P1065, DOI 10.1007/s00778-009-0153-2
+   Suciu D, 2020, PODS'20: PROCEEDINGS OF THE 39TH ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P19, DOI 10.1145/3375395.3389129
+   VALIANT LG, 1979, SIAM J COMPUT, V8, P410, DOI 10.1137/0208032
+NR 37
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0362-5915
+EI 1557-4644
+J9 ACM T DATABASE SYST
+JI ACM Trans. Database Syst.
+PD JUN
+PY 2024
+VL 49
+IS 2
+AR 8
+DI 10.1145/3651156
+PG 34
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RQ9L1
+UT WOS:001229243600004
+OA hybrid, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Arroyuelo, D
+   Gómez-Brandón, A
+   Hogan, A
+   Navarro, G
+   Reutter, J
+   Rojas-Ledesma, J
+   Soto, A
+AF Arroyuelo, Diego
+   Gomez-Brandon, Adrian
+   Hogan, Aidan
+   Navarro, Gonzalo
+   Reutter, Juan
+   Rojas-Ledesma, Javiel
+   Soto, Adrian
+TI The Ring: Worst-case Optimal Joins in Graph Databases using (Almost) No
+   Extra Space
+SO ACM TRANSACTIONS ON DATABASE SYSTEMS
+LA English
+DT Article
+DE Worst-case optimal joins; graph patterns; graph databases; graph
+   indexing; column stores; wavelet trees
+ID BINARY; REPRESENTATION; ALGORITHMS; QUERIES
+AB We present an indexing scheme for triple-based graphs that supports join queries in worst-case optimal (wco) time within compact space. This scheme, called a ring, regards each triple as a cyclic string of length 3. Each rotation of the triples is lexicographically sorted and the values of the last attribute are stored as a column, so we obtain the order of the next column by stably re-sorting the triples by its attribute. We show that, by representing the columns with a compact data structure called a wavelet tree, this ordering enables forward and backward navigation between columns without needing pointers. These wavelet trees further support wco join algorithms and cardinality estimations for query planning. While traditional data structures such as B-Trees, tries, and so on, require 6 index orders to support all possible wco joins over triples, we can use one ring to index them all. This ring replaces the graph and uses only sublinear extra space, thus supporting wco joins in almost no space beyond storing the graph itself. Experiments querying a large graph (Wikidata) in memory show that the ring offers nearly the best overall query times while using only a small fraction of the space required by several state-of-the-art approaches.
+   We then turn our attention to some theoretical results for indexing tables of arity d higher than 3 in such a way that supports wco joins. While a single ring of length d no longer suffices to cover all d! orders, we need much fewer rings to index them all: O(2(d)) rings with a small constant. For example, we need 5 rings instead of 120 orders for d = 5. We show that our rings become a particular case of what we dub order graphs, whose nodes are attribute orders and where stably sorting by some attribute leads us from an order to another, thereby inducing an edge labeled by the attribute. The index is then the set of columns associated with the edges, and a set of rings is just one possible graph shape. We show that other shapes, like for example a single ring instead of several ones of length d, can lead us to even smaller indexes, and that other more general shapes are also possible. For example, we handle d = 5 attributes within space equivalent to 4 rings.
+C1 [Arroyuelo, Diego; Reutter, Juan] Pontificia Univ Catolica, DCC, Escuela Ingn, Vicuna Mackenna 4860, Santiago 7821093, Chile.
+   [Arroyuelo, Diego; Reutter, Juan] Pontificia Univ Catolica, IMFD, Vicuna Mackenna 4860, Santiago 7821093, Chile.
+   [Gomez-Brandon, Adrian] Univ A Coruna, Campus Elvina, La Coruna 15071, Spain.
+   [Gomez-Brandon, Adrian] CITIC, Campus Elvina, La Coruna 15071, Spain.
+   [Gomez-Brandon, Adrian] IMFD, Campus Elvina, La Coruna 15071, Spain.
+   [Hogan, Aidan; Navarro, Gonzalo; Rojas-Ledesma, Javiel] Univ Chile, Beauchef 851,Edificio Norte,Tercer Piso, Santiago 8370456, Chile.
+   [Hogan, Aidan; Navarro, Gonzalo; Rojas-Ledesma, Javiel] IMFD, Beauchef 851,Edificio Norte,Tercer Piso, Santiago 8370456, Chile.
+   [Reutter, Juan] Pontificia Univ Catolica, Inst Ingn Matemat & Computac, Vicuna Mackenna 4860, Santiago 7821093, Chile.
+   [Soto, Adrian] Univ Adolfo Ibanez, Diagonal Torres 2640, Santiago 7941169, Chile.
+   [Soto, Adrian] IMFD, Diagonal Torres 2640, Santiago 7941169, Chile.
+C3 Universidade da Coruna; Universidade da Coruna; Universidade da Coruna;
+   Universidad de Chile; Universidad Adolfo Ibanez
+RP Arroyuelo, D (corresponding author), Pontificia Univ Catolica, DCC, Escuela Ingn, Vicuna Mackenna 4860, Santiago 7821093, Chile.; Arroyuelo, D (corresponding author), Pontificia Univ Catolica, IMFD, Vicuna Mackenna 4860, Santiago 7821093, Chile.
+EM diego.arroyuelo@uc.cl; adrian.gbrandon@udc.es; ahogan@dcc.uchile.cl;
+   gnavarro@dcc.uchile.cl; jreutter@ing.puc.cl; jrojas@dcc.uchile.cl;
+   adrian.soto@uai.cl
+RI Reutter, Juan/D-1296-2014; Gomez-Brandon, Adrian/N-6039-2018; Navarro,
+   Gonzalo/A-2927-2008
+OI Reutter, Juan/0000-0002-2186-0312; Gomez-Brandon,
+   Adrian/0000-0002-1216-2176; Hogan, Aidan/0000-0001-9482-1982; Navarro,
+   Gonzalo/0000-0002-2286-741X
+FU ANID - Millennium Science Initiative Program [ICN17_002]; MCIN/AEI
+   [PID2020-114635RB-I00, TED2021-129245B-C21, PDC2021-120917-C21]; EU/ERDF
+   "A way of making Europe" [PID2022-141027NB-C21]; GAIN/Xunta de Galicia:
+   GRC [ED431C 2021/53, CIGUS 2023-2026]; FONDECYT [1221926, 1230755,
+   1221799]
+FX This work was supported by ANID - Millennium Science Initiative Program
+   - Code ICN17_002. Gomez-Brandon was supported in part by
+   MCIN/AEI/10.13039/5011000-11033: grants PID2020-114635RB-I00; by
+   MCIN/AEI/10.13039/501100011033 and EU/ERDF "A way of making Europe":
+   PID2022-141027NB-C21; by MCIN/AEI/10.13039/501100011033 and
+   "NextGenerationEU"/PRTR: grants TED2021-129245B-C21, PDC2021-120917-C21
+   and by GAIN/Xunta de Galicia: GRC: grants ED431C 2021/53, and CIGUS
+   2023-2026. Hogan was supported by FONDECYT Grant No. 1221926. Navarro
+   was supported by FONDECYT Grant No. 1230755. Reutter was supported by
+   FONDECYT Grant No. 1221799.
+CR Aberger CR, 2017, ACM T DATABASE SYST, V42, DOI 10.1145/3129246
+   Abo Khamis M., 2019, P 22 INT C DAT THEOR, V21
+   Alvarez-García S, 2015, KNOWL INF SYST, V44, P439, DOI 10.1007/s10115-014-0770-y
+   Angles R, 2017, ACM COMPUT SURV, V50, DOI 10.1145/3104031
+   Arroyuelo D, 2024, VLDB J, V33, P349, DOI 10.1007/s00778-023-00811-2
+   Arroyuelo D, 2021, INT CONF MANAGE DATA, P102, DOI 10.1145/3448016.3457256
+   Atre Medha., 2010, WWW, P41, DOI DOI 10.1145/1772690.1772696
+   Atserias A, 2013, SIAM J COMPUT, V42, P1737, DOI 10.1137/110859440
+   Barbay J, 2013, INFORM COMPUT, V232, P19, DOI 10.1016/j.ic.2013.10.003
+   Bauer MJ, 2013, THEOR COMPUT SCI, V483, P134, DOI 10.1016/j.tcs.2012.02.002
+   Bonifati A, 2020, VLDB J, V29, P655, DOI 10.1007/s00778-019-00558-9
+   Bonifati A, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P127, DOI 10.1145/3308558.3313472
+   Brisaboa NR, 2023, J SUPERCOMPUT, V79, P5643, DOI 10.1007/s11227-022-04890-w
+   Brisaboa NR, 2017, INFORM SYST, V69, P106, DOI 10.1016/j.is.2017.05.003
+   Burrows M., 1994, A Block Sorting Lossless Data Compression Algorithm, V124, P1
+   Claude F, 2015, INFORM SYST, V47, P15, DOI 10.1016/j.is.2014.06.002
+   Cure Olivier, 2014, The Semantic Web: Trends and Challenges. 11th International Conference (ESWC 2014). Proceedings: LNCS 8465, P302, DOI 10.1007/978-3-319-07443-6_21
+   Erling O., 2009, NETWORKED KNOWLEDGE, P7, DOI DOI 10.1007/978-3-642-02184-82
+   Erling O., 2012, IEEE Data Engineering Bulletin, V35, P3
+   Fernández JD, 2013, J WEB SEMANT, V19, P22, DOI 10.1016/j.websem.2013.01.002
+   Ferragina P, 2005, J ACM, V52, P552, DOI 10.1145/1082036.1082039
+   Ferragina P, 2007, ACM T ALGORITHMS, V3, DOI 10.1145/1240233.1240243
+   Francis N, 2018, INT CONF MANAGE DATA, P1433, DOI 10.1145/3183713.3190657
+   Freitag M, 2020, PROC VLDB ENDOW, V13, P1891, DOI 10.14778/3407790.3407797
+   Gagie T, 2013, THEOR COMPUT SCI, V483, P36, DOI 10.1016/j.tcs.2012.08.004
+   Gagie T, 2012, THEOR COMPUT SCI, V426, P25, DOI 10.1016/j.tcs.2011.12.002
+   Gog S, 2014, LECT NOTES COMPUT SC, V8504, P326, DOI 10.1007/978-3-319-07959-2_28
+   Gottlob G., 1999, Proceedings of the Eighteenth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, P21, DOI 10.1145/303976.303979
+   Gottlob G, 2012, J ACM, V59, DOI 10.1145/2220357.2220363
+   Grossi R, 2003, SIAM PROC S, P841
+   Harris Steve, 2013, W3C RECOMMENDATION, V21, P778
+   Harth A, 2005, Third Latin American Web Congress, Proceedings, P71, DOI 10.1109/LAWEB.2005.25
+   Hogan A, 2019, LECT NOTES COMPUT SC, V11778, P258, DOI 10.1007/978-3-030-30793-6_15
+   Kalinsky O., 2017, Proceedings of the 20th International Conference on Extending Database Technology, EDBT 2017, Venice, Italy, March 21-24, 2017, P282
+   Khamis MA, 2017, PODS'17: PROCEEDINGS OF THE 36TH ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P429, DOI 10.1145/3034786.3056105
+   Khamis MA, 2016, ACM T DATABASE SYST, V41, DOI 10.1145/2967101
+   Malyshev S, 2018, LECT NOTES COMPUT SC, V11137, P376, DOI 10.1007/978-3-030-00668-6_23
+   Martínez-Prieto MA, 2016, INFORM SYST, V56, P73, DOI 10.1016/j.is.2015.08.008
+   Mhedhbi A, 2019, PROC VLDB ENDOW, V12, P1692, DOI 10.14778/3342263.3342643
+   MonetDB, 2013, About us
+   Munro J. I., 1996, Foundations of Software Technology and Theoretical Computer Science. 16th Conference Proceedings, P37
+   Munro JI, 2016, THEOR COMPUT SCI, V638, P91, DOI 10.1016/j.tcs.2015.11.011
+   Navarro G, 2016, COMPACT DATA STRUCTURES: A PRACTICAL APPROACH, P1, DOI 10.1017/CBO9781316588284
+   Navarro G., 2020, P 23 INT C DAT THEOR, V21
+   Navarro G, 2014, J DISCRET ALGORITHMS, V25, P2, DOI 10.1016/j.jda.2013.07.004
+   Neumann T, 2010, VLDB J, V19, P91, DOI 10.1007/s00778-009-0165-y
+   Ngo H. Q., 2012, PODS, P37
+   Ngo HQ, 2018, PODS'18: PROCEEDINGS OF THE 37TH ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P111, DOI 10.1145/3196959.3196990
+   Nguyen D., 2015, P 3 INT WORKSH GRAPH, V2
+   Olteanu D, 2016, SIGMOD REC, V45, P5, DOI 10.1145/3003665.3003667
+   Ottaviano G, 2014, SIGIR'14: PROCEEDINGS OF THE 37TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P273, DOI 10.1145/2600428.2609615
+   Raasveldt M, 2019, INT CONF MANAGE DATA, P1981, DOI 10.1145/3299869.3320212
+   Raman R, 2007, ACM T ALGORITHMS, V3, DOI 10.1145/1290672.1290680
+   Stonebraker Mike, 2018, Making Databases Work: the Pragmatic Wisdom of Michael Stonebraker, P491
+   Thompson B, 2014, EMER DIRECT DATAB, P193
+   Tziavelis N, 2020, SIGMOD'20: PROCEEDINGS OF THE 2020 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P2659, DOI 10.1145/3318464.3383132
+   Veldhuizen T. L., 2014, ICDT, P96, DOI 10.5441/002/icdt.2014.13
+   Vo BD, 2007, THEOR COMPUT SCI, V387, P273, DOI 10.1016/j.tcs.2007.07.016
+   Vrandecic D, 2014, COMMUN ACM, V57, P78, DOI 10.1145/2629489
+   Weiss C, 2008, PROC VLDB ENDOW, V1, P1008, DOI 10.14778/1453856.1453965
+   Yannakakis M., 1981, Proceedings of the Seventh International Conference on Very Large Data Bases, P82
+NR 61
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0362-5915
+EI 1557-4644
+J9 ACM T DATABASE SYST
+JI ACM Trans. Database Syst.
+PD JUN
+PY 2024
+VL 49
+IS 2
+AR 5
+DI 10.1145/3644824
+PG 45
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RQ9L1
+UT WOS:001229243600001
+DA 2024-08-05
+ER
+
+PT J
+AU Fan, WF
+   Lu, P
+   Pang, KH
+   Jin, RC
+   Yu, WY
+AF Fan, Wenfei
+   Lu, Ping
+   Pang, Kehan
+   Jin, Ruochun
+   Yu, Wenyuan
+TI Linking Entities across Relations and Graphs
+SO ACM TRANSACTIONS ON DATABASE SYSTEMS
+LA English
+DT Article
+DE Entity resolution; Knowledge graph; Relational database;
+   Parallelization,Incremental algorithm; Relative boundedness
+ID RESOLUTION; SEARCH
+AB This article proposes a notion of parametric simulation to link entities across a relational database D and a graph G. Taking functions and thresholds for measuring vertex closeness, path associations, and important properties as parameters, parametric simulation identifies tuples t in D and vertices v in G that refer to the same real-world entity, based on both topological and semantic matching. We develop machine learning methods to learn the parameter functions and thresholds. We show that parametric simulation is in quadratic-time by providing such an algorithm. Moreover, we develop an incremental algorithm for parametric simulation; we show that the incremental algorithm is bounded relative to its batch counterpart, i.e., it incurs the minimum cost for incrementalizing the batch algorithm. Putting these together, we develop HER, a parallel system to checkwhether (t, v) makes a match, find all vertex matches of t inG, and compute allmatches acrossD and G, all in quadratic-time; moreover, HER supports incremental computation of these in response to updates to D andG. Using real-life and synthetic data, we empirically verify that HER is accurate with F-measure of 0.94 on average, and is able to scale with database D and graph G for both batch and incremental computations.
+C1 [Fan, Wenfei] Shenzhen Inst Comp Sci, Shenzhen, Peoples R China.
+   [Fan, Wenfei] Univ Edinburgh, 10 Crichton St, Edinburgh EH8 9AB, Midlothian, Scotland.
+   [Fan, Wenfei; Lu, Ping; Pang, Kehan] Beihang Univ, 37 Xue Yuan Rd, Beijing 100191, Peoples R China.
+   [Jin, Ruochun] Natl Univ Def Technol, 109 Deya Rd, Changsha 410073, Hunan, Peoples R China.
+C3 Shenzhen Institute of Computing Sciences; University of Edinburgh;
+   Beihang University; National University of Defense Technology - China
+RP Lu, P (corresponding author), Beihang Univ, 37 Xue Yuan Rd, Beijing 100191, Peoples R China.; Jin, RC (corresponding author), Natl Univ Def Technol, 109 Deya Rd, Changsha 410073, Hunan, Peoples R China.
+EM wenfei@inf.ed.ac.uk; luping@buaa.edu.cn; pangkh@act.buaa.edu.cn;
+   jinrc@nudt.edu.cn; wenyuan.yu@yandex.com
+OI Yu, Wenyuan/0009-0006-5641-2452; Fan, Wenfei/0000-0001-5149-2656
+FU NSFC [62372030]; NUDT Youth Independent Innovation Science Fund Project
+   [62302503];  [ZK23-15]
+FX Fan is supported in part by Royal SocietyWolfson ResearchMerit
+   AwardWRM/R1/180014. Lu is supported in part by NSFC 62372030. Jin is
+   supported by NSFC 62302503 and NUDT Youth Independent Innovation Science
+   Fund Project (Grant No. ZK23-15).
+CR Aghaei S, 2022, 2022 IEEE/WIC/ACM INTERNATIONAL JOINT CONFERENCE ON WEB INTELLIGENCE AND INTELLIGENT AGENT TECHNOLOGY, WI-IAT, P296, DOI 10.1109/WI-IAT55865.2022.00050
+   Alamdari AH, 2012, 2012 SIXTH INTERNATIONAL SYMPOSIUM ON TELECOMMUNICATIONS (IST), P936, DOI 10.1109/ISTEL.2012.6483120
+   [Anonymous], 2020, GraphScope
+   [Anonymous], 2020, GRAPE
+   [Anonymous], 2020, DBpedia version 2016-10
+   [Anonymous], 2020, US
+   [Anonymous], 2020, SemTab Challenge 2020
+   [Anonymous], 2021, Pre-trained GloVe word embedding of different dimensions
+   [Anonymous], 2020, Deepmatcher
+   [Anonymous], SemTab Challenge
+   [Anonymous], 2015, FB15k-237
+   [Anonymous], 2020, IMDB graph dataset
+   [Anonymous], 2020, Freebase/Wikidata Mappings
+   [Anonymous], 2020, IMDB relational dataset
+   [Anonymous], 2020, DBpedia As Tables
+   [Anonymous], 2020, Open source implementation of LexMa
+   Bast H, 2014, WWW'14 COMPANION: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON WORLD WIDE WEB, P95, DOI 10.1145/2567948.2577016
+   Bergstra J, 2012, J MACH LEARN RES, V13, P281
+   Berners-Lee T., 1998, Relational Databases on the Semantic Web
+   Bourse F, 2014, PROCEEDINGS OF THE 20TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'14), P1456, DOI 10.1145/2623330.2623660
+   Cappuzzo R, 2020, SIGMOD'20: PROCEEDINGS OF THE 2020 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1335, DOI 10.1145/3318464.3389742
+   Chen Shuang, 2020, SEMTAB ISWC, P65
+   Chen ZQ, 2018, PROC INT CONF DATA, P1156, DOI 10.1109/ICDE.2018.00107
+   Christophides V, 2021, ACM COMPUT SURV, V53, DOI 10.1145/3418896
+   Christophides Vassilis, 2019, ACM Comput. Surv., V53, P6
+   Cutrona Vincenzo, 2020, The Semantic Web - ISWC 2020. 19th International Semantic Web Conference. Lecture Notes in Computer Science (LNCS 12507), P328, DOI 10.1007/978-3-030-62466-8_21
+   Cutrona Vincenzo, Tough Tables: Carefully Benchmarking Semantic Table Annotators
+   Das S, 2011, R2RML: RDB to RDF Mapping Language. Recommendation
+   DBLP, 2020, DBLP relational data
+   DBLP, 2020, DBLP RDF data
+   Deng T, 2022, PROC INT CONF DATA, P2060, DOI 10.1109/ICDE53745.2022.00200
+   Devlin J, 2018, ARXIV
+   Dong YX, 2017, KDD'17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P135, DOI 10.1145/3097983.3098036
+   Fan WF, 2022, PROC INT CONF DATA, P634, DOI 10.1109/ICDE53745.2022.00052
+   Fan WF, 2021, INT CONF MANAGE DATA, P459, DOI 10.1145/3448016.3452796
+   Fan WF, 2020, ACM T DATABASE SYST, V45, DOI 10.1145/3397491
+   Fan WF, 2020, ACM T DATABASE SYST, V45, DOI 10.1145/3397198
+   Fan WF, 2018, ACM T DATABASE SYST, V43, DOI 10.1145/3282488
+   Fan WF, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P155, DOI 10.1145/3035918.3035944
+   Fan WF, 2015, PROC VLDB ENDOW, V8, P1590
+   Fan WF, 2010, PROC VLDB ENDOW, V3, P264, DOI 10.14778/1920841.1920878
+   Feng Jun, 2016, COLING 2016 26 INT C, P641
+   Fu XY, 2020, WEB CONFERENCE 2020: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2020), P2331, DOI 10.1145/3366423.3380297
+   Gao TY, 2021, 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021), P6894
+   Garey M. R., 1979, Computers and intractability. A guide to the theory of NP-completeness
+   Gazzarri L, 2021, PROC INT CONF DATA, P1248, DOI 10.1109/ICDE51399.2021.00112
+   github, 2020, About us
+   Gottlob G, 2001, J ACM, V48, P431, DOI 10.1145/382780.382783
+   Hazber MAG, 2019, PROCEEDINGS OF THE 2019 3RD INTERNATIONAL CONFERENCE ON MANAGEMENT ENGINEERING, SOFTWARE ENGINEERING AND SERVICE SCIENCES (ICMSS 2019), P66, DOI 10.1145/3312662.3312692
+   Helmy Tamer Hossam Eldin, 2014, Int. J. Comput. Netw. Applic., V1, P15
+   Henzinger MR, 1995, AN S FDN CO, P453, DOI 10.1109/SFCS.1995.492576
+   Hou BY, 2022, IEEE T KNOWL DATA EN, V34, P1803, DOI 10.1109/TKDE.2020.3006142
+   Hu S, 2018, IEEE T KNOWL DATA EN, V30, P824, DOI 10.1109/TKDE.2017.2766634
+   Hyunyoon Yun, 1993, Database Systems for Advanced Applications '93. Proceedings of the Third International Symposium on Database Systems for Advanced Applications, P379
+   Isele Robert, 2010, COLD, V665
+   Italiano IC, 2006, COMPUTER, V39, P53, DOI 10.1109/MC.2006.104
+   Jeh G., 2002, P 8 ACM SIGKDD INT C, P538
+   Jimenez-Ruiz E., 2020, CEUR WORKSHOP P, V2775, P1
+   KARGER D. R., 2011, P C NEUR INF PROC SY, P1953
+   Kasai J, 2019, Arxiv, DOI arXiv:1906.08042
+   Kolaitis Phokion G., 2007, On the Expressive Power of Logics on Finite Models, P27
+   Konda Pradap, 2016, Proc. VLDB, V9, P12
+   Koren Y, 2009, COMPUTER, V42, P30, DOI 10.1109/MC.2009.263
+   Kropatsch Walter, 1996, Vision Image and Signal Processing
+   Kusumoto M, 2014, SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P325, DOI 10.1145/2588555.2610526
+   Kwashie S, 2019, PROC VLDB ENDOW, V12, P653, DOI 10.14778/3311880.3311883
+   Li B, 2020, AAAI CONF ARTIF INTE, V34, P8172
+   Li M, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), P684
+   Lin Yankai, 2015, P 2015 C EMP METH NA, P705, DOI [DOI 10.18653/V1/D15-1082, 10.18653/V1/D15-1082]
+   Ma S, 2014, ACM T DATABASE SYST, V39, DOI 10.1145/2528937
+   Melis G, 2017, Arxiv, DOI arXiv:1707.05589
+   Michel F., 2014, A survey of RDB to RDF translation approaches and tools
+   Mikolov T, 2013, Arxiv, DOI [arXiv:1301.3781, DOI 10.48550/ARXIV.1301.3781]
+   Milner R., 1989, Communication and concurrency
+   Mudgal S, 2018, INT CONF MANAGE DATA, P19, DOI 10.1145/3183713.3196926
+   Nargesian F, 2019, PROC VLDB ENDOW, V12, P1986, DOI 10.14778/3352063.3352116
+   Ngomo A., 2011, 22 INT JOINT C ART I, P2312, DOI DOI 10.5591/978-1-57735-516-8/IJCAI11-385
+   Nguyen P., 2020, P SEMTAB, V2775, P86
+   ORACLE, 2012, An Oracle White Paper: Best Practices for Real-Time DataWarehousing
+   Papadakis G, 2020, INFORM SYST, V93, DOI 10.1016/j.is.2020.101565
+   Papadakis G, 2018, PROC VLDB ENDOW, V11, P1950, DOI 10.14778/3229863.3236232
+   Papadakis G, 2013, IEEE T KNOWL DATA EN, V25, P2665, DOI 10.1109/TKDE.2012.150
+   Pennington J., 2014, P 2014 C EMP METH NA, P1532
+   Pirrò G, 2015, LECT NOTES COMPUT SC, V9366, P622, DOI 10.1007/978-3-319-25007-6_36
+   Qian K, 2017, CIKM'17: PROCEEDINGS OF THE 2017 ACM CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, P1379, DOI 10.1145/3132847.3132949
+   Qin L, 2009, ACM SIGMOD/PODS 2009 CONFERENCE, P681
+   Reimers N, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), P567
+   Saeedi A, 2020, LECT NOTES COMPUT SC, V12123, P393, DOI 10.1007/978-3-030-49461-2_23
+   Saeedi A, 2018, LECT NOTES COMPUT SC, V10843, P576, DOI 10.1007/978-3-319-93417-4_37
+   Schroff F, 2015, PROC CVPR IEEE, P815, DOI 10.1109/CVPR.2015.7298682
+   Shigapov R., 2020, P SEMTAB 2020, V2775, P17
+   Suchanek FM, 2011, PROC VLDB ENDOW, V5, P157, DOI 10.14778/2078331.2078332
+   Sun C, 2019, LECT NOTES ARTIF INT, V11856, P194, DOI 10.1007/978-3-030-32381-3_16
+   Sunt YZ, 2011, PROC VLDB ENDOW, V4, P992
+   Tang N, 2021, PROC VLDB ENDOW, V14, P1254, DOI 10.14778/3457390.3457391
+   Trivedi R, 2018, PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL), VOL 1, P252, DOI 10.18653/v1/P18-1024
+   Tyagi Shalini, 2020, CEURWORKSHOP P, V2775, P59
+   UK, Government open data
+   VALIANT LG, 1990, COMMUN ACM, V33, P103, DOI 10.1145/79173.79181
+   Lin XV, 2018, Arxiv, DOI arXiv:1808.10568
+   W3C, 2012, Relational Databases to RDF (RDB2RDF)
+   Wang Y, 2022, IEEE T KNOWL DATA EN, V34, P3225, DOI 10.1109/TKDE.2020.3019488
+   Whang SE, 2013, IEEE T KNOWL DATA EN, V25, P1111, DOI 10.1109/TKDE.2012.43
+   Wikipedia, 2020, about us
+   Wu YT, 2019, PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P5278
+   Xiong F, 2022, J WEB ENG, V21, P307, DOI 10.13052/jwe1540-9589.2128
+   Yan BS, 2011, 2011 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2011), P220, DOI 10.1109/ASONAM.2011.119
+   Yang Y., 2001, P 24 ANN INT ACM SIG, P137, DOI DOI 10.1145/383952.383975
+   Yu WR, 2019, VLDB J, V28, P401, DOI 10.1007/s00778-018-0536-3
+   Zhang QH, 2019, PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P5429
+   Zhang S, 2020, WEB CONFERENCE 2020: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2020), P1298, DOI 10.1145/3366423.3380205
+   Zhao C, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P2413, DOI 10.1145/3308558.3313578
+   Zobel J, 1998, ACM T DATABASE SYST, V23, P453, DOI 10.1145/296854.277632
+NR 113
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0362-5915
+EI 1557-4644
+J9 ACM T DATABASE SYST
+JI ACM Trans. Database Syst.
+PD FEB
+PY 2024
+VL 49
+IS 1
+AR 2
+DI 10.1145/3639363
+PG 50
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MM3K2
+UT WOS:001193996800002
+DA 2024-08-05
+ER
+
+PT J
+AU Zhang, C
+   Farouk, T
+AF Zhang, Chao
+   Farouk, Toumani
+TI Sharing Queries with Nonequivalent User-defined Aggregate Functions
+SO ACM TRANSACTIONS ON DATABASE SYSTEMS
+LA English
+DT Article
+DE Query processing; query rewriting; user-defined aggregate functions
+ID GROUP-BY; DATA ANALYTICS; OPTIMIZATION; ENGINE; JOIN
+AB This article presents Sharing User-Defined Aggregate Function (SUDAF), a declarative framework that allows users to write User-defined Aggregate Functions (UDAFs) as mathematical expressions and use them in Structured Query Language statements. SUDAF rewrites partial aggregates of UDAFs using built-in aggregate functions and supports efficient dynamic caching and reusing of partial aggregates. Our experiments show that rewriting UDAFs using built-in functions can significantly speed up queries with UDAFs, and the proposed sharing approach can yield up to two orders of magnitude improvement in query execution time. The article studies also an extension of SUDAF to support sharing partial results between arbitrary queries with UDAFs. We show a connection with the problem of query rewriting using views and introduce a new class of rewritings, called SUDAF rewritings, which enables to use views that have aggregate functions different from the ones used in the input query. We investigate the underlying rewriting-checking and rewriting-existing problem. Our main technical result is a reduction of these problems to, respectively, rewriting-checking and rewriting-existing of the so-called aggregate candidates, a class of rewritings that has been deeply investigated in the literature.
+C1 [Zhang, Chao] Univ Waterloo, David R Cheriton Sch Comp Sci, 200 Univ Ave West, Waterloo, ON N2L 3G1, Canada.
+   [Farouk, Toumani] Univ Clermont Auvergne, CNRS, LIMOS, 1 Rue Chebarde, F-63178 Aubiere, France.
+C3 University of Waterloo; Centre National de la Recherche Scientifique
+   (CNRS); Universite Clermont Auvergne (UCA)
+RP Zhang, C (corresponding author), Univ Waterloo, David R Cheriton Sch Comp Sci, 200 Univ Ave West, Waterloo, ON N2L 3G1, Canada.
+EM chao.zhang@uwaterloo.ca; farouk.toumani@uca.fr
+FU French government IDEX-ISITE initiative [16-IDEX-0001 (CAP 20-25)]; CPER
+   of the "Region Auvergne-Rhone-Alpes"; French Government; European
+   community
+FX This research was financed by the French government IDEX-ISITE
+   initiative 16-IDEX-0001 (CAP 20-25) and by the CPER of the "Region
+   Auvergne-Rhone-Alpes," the French Government, and FEDER from the
+   European community.
+CR Afrati F, 2011, J COMPUT SYST SCI, V77, P1079, DOI 10.1016/j.jcss.2010.10.003
+   Agarwal S, 1996, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON VERY LARGE DATA BASES, P506
+   [Anonymous], 2023, Central moments
+   [Anonymous], 2023, Standardized moments
+   [Anonymous], 2023, CREATE AGGREGATE
+   [Anonymous], 2023, Embedded Python
+   [Anonymous], 2023, User Defined Aggregate Functions
+   [Anonymous], 2018, Moment-based quantile sketches for aggregations
+   Apache Flink, 2023, About us
+   Apache Hadoop, 2023, About us
+   apache Hive, 2023, About us
+   Apache Parquet, 2023, About us
+   Apache spark, 2023, About us
+   Arasu A., 2004, VLDB, V30, P336, DOI DOI 10.1016/B978-012088469-8.50032-2
+   Armbrust M, 2015, SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1383, DOI 10.1145/2723372.2742797
+   Bello R. G., 1998, Proceedings of the Twenty-Fourth International Conference on Very-Large Databases, P659
+   Berg L, 2019, PROC VLDB ENDOW, V12, P1814, DOI 10.14778/3352063.3352073
+   Blacher Mark, 2022, P 12 C INN DAT SYST
+   Boncz Peter A., 2005, P 2 BIENN C INN DAT
+   Chaudhuri S., 1996, Advances in Database Technology - EDBT '96. 5th International Conference on Extending Database Technology. Proceedings, P167, DOI 10.1007/BFb0014151
+   Chaudhuri S., 1997, SIGMOD Record, V26, P65, DOI 10.1145/248603.248616
+   Chaudhuri Surajit, 1994, P 20 INT C VER LARG, P354
+   Chen Zhimin., 2005, SIGMOD 05, P263
+   Cohen S., 1999, Proceedings of the Eighteenth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, P155, DOI 10.1145/303976.303992
+   Cohen S, 2006, ACM T DATABASE SYST, V31, P672, DOI 10.1145/1138394.1138400
+   Cohen S, 2007, J ACM, V54, DOI 10.1145/1219092.1219093
+   Cohen Sara., 2006, SIGMOD 06, P49
+   Crotty A, 2015, PROC VLDB ENDOW, V8, P1466
+   Dayal U., 1987, Proceedings of the Thirteenth International Conference on Very Large Data Bases: 1987 13th VLDB, P197
+   Dean J, 2004, USENIX ASSOCIATION PROCEEDINGS OF THE SIXTH SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDE '04), P137
+   Deshpande P. M., 1998, SIGMOD Record, V27, P259, DOI 10.1145/276305.276328
+   Diamantini C, 2018, INFORM SYST, V78, P23, DOI 10.1016/j.is.2018.05.002
+   Duta Christian, 2020, P 10 C INN DAT SYST
+   Phan DH, 2016, PROC INT CONF DATA, P301, DOI 10.1109/ICDE.2016.7498249
+   Eich M, 2018, VLDB J, V27, P617, DOI 10.1007/s00778-017-0476-3
+   Emani KV, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1781, DOI 10.1145/2882903.2882926
+   Emani KV, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1663, DOI 10.1145/3035918.3058747
+   Feng ZQ, 2015, PROC INT CONF DATA, P291, DOI 10.1109/ICDE.2015.7113292
+   Foufoulas Yannis, 2023, 2023 IEEE 39th International Conference on Data Engineering (ICDE), P3593, DOI 10.1109/ICDE55515.2023.00276
+   Foufoulas Y, 2023, PROC VLDB ENDOW, V16, P3874, DOI 10.14778/3611540.3611574
+   Foufoulas Y, 2022, PROC VLDB ENDOW, V15, P2270, DOI 10.14778/3547305.3547328
+   Foufoulas Y, 2022, PROC VLDB ENDOW, V15, P3730, DOI 10.14778/3554821.3554886
+   Galindo-Legaria CA, 2001, SIGMOD RECORD, V30, P571, DOI 10.1145/376284.375748
+   Gan E, 2018, PROC VLDB ENDOW, V11, P1647, DOI 10.14778/3236187.3236212
+   Goldstein J, 2001, SIGMOD REC, V30, P331, DOI 10.1145/376284.375706
+   Grabisch M, 2011, INFORM SCIENCES, V181, P1, DOI 10.1016/j.ins.2010.08.043
+   Grabisch M, 2008, I S INTELL SYST INFO, P17, DOI 10.1109/SISY.2008.4664901
+   GRAEFE G, 1994, IEEE T KNOWL DATA EN, V6, P120, DOI 10.1109/69.273032
+   Graefe G., 1995, IEEE Data Eng. Bull., V18, P19
+   Gray J, 1997, DATA MIN KNOWL DISC, V1, P29, DOI 10.1023/A:1009726021843
+   Grumbach S, 2004, ACTA INFORM, V40, P529, DOI 10.1007/s00236-004-0101-y
+   Grumbach S, 2003, J COMPUT SYST SCI, V66, P133, DOI 10.1016/S0022-0000(02)00033-8
+   Grumbach S., 1999, Proceedings of the Eighteenth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, P174, DOI 10.1145/303976.303994
+   Gupta A., 1995, VLDB '95. Proceedings of the 21st International Conference on Very Large Data Bases, P358
+   Gupta S, 2020, SIGMOD'20: PROCEEDINGS OF THE 2020 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P559, DOI 10.1145/3318464.3389736
+   Hagedorn Stefan, 2021, P 11 C INN DAT SYST
+   Hirn D, 2021, INT CONF MANAGE DATA, P723, DOI 10.1145/3448016.3457272
+   Huebsch Ryan., 2007, SIGMOD 07, P485
+   Hueske F, 2013, PROC INT CONF DATA, P1292, DOI 10.1109/ICDE.2013.6544927
+   IBM DB2, 2023, About us
+   Idreos S, 2012, IEEE Data Eng. Bull.
+   Jaedicke M., 1998, SIGMOD Record, V27, P379, DOI 10.1145/276305.276338
+   Karanasos Konstantinos, 2020, P 10 C INN DAT SYST
+   KIM W, 1982, ACM T DATABASE SYST, V7, P443, DOI 10.1145/319732.319745
+   Klabe Steffen, 2022, P 12 C INN DAT SYST
+   Kohn A, 2021, INT CONF MANAGE DATA, P1001, DOI 10.1145/3448016.3457288
+   Krishnamurthy Sailesh., 2006, P 2006 ACM SIGMOD IN, P623
+   Kumar A, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1717, DOI 10.1145/3035918.3054775
+   Lattner C, 2004, INT SYM CODE GENER, P75, DOI 10.1109/cgo.2004.1281665
+   Levy Alon Y, 1994, VLDB, P96
+   Lin Vaclav, 2006, P 22 INT C DAT ENG, P1
+   Moerkotte G, 2011, PROC VLDB ENDOW, V4, P843
+   MUMICK IS, 1990, SIGMOD REC, V19, P247, DOI 10.1145/93605.98734
+   MURALIKRISHNA M, 1992, PROC INT CONF VERY L, P91
+   Nayak Tanuj, 2021, Ph. D. Dissertation
+   Nutt W., 1998, Proceedings of the Seventeenth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems. PODS 1998, P214, DOI 10.1145/275487.275512
+   Oraclize, 2023, ABOUT US
+   Palkar S, 2018, PROC VLDB ENDOW, V11, P1002, DOI 10.14778/3213880.3213890
+   Park Kwanghyun, 2022, arXiv
+   Poess Meikel, 2006, VLDB, V6, P1049
+   PostgreSQL, 2023, About us
+   Prout A, 2022, INT CONF MANAGE DATA, P2340, DOI 10.1145/3514221.3526055
+   PSQL, 2023, About us
+   Raasveldt M, 2016, 28TH INTERNATIONAL CONFERENCE ON SCIENTIFIC AND STATISTICAL DATABASE MANAGEMENT (SSDBM) 2016), DOI 10.1145/2949689.2949703
+   Ramachandra K, 2019, PROC VLDB ENDOW, V12, P1810, DOI 10.14778/3352063.3352072
+   Ramachandra K, 2017, PROC VLDB ENDOW, V11, P432, DOI 10.1145/3164135.3164140
+   Schleich M, 2020, PROC VLDB ENDOW, V13, P2945, DOI 10.14778/3415478.3415515
+   Schleich M, 2019, INT CONF MANAGE DATA, P1642, DOI 10.1145/3299869.3324961
+   Schule Maximilian E., 2023, EDBT, P40
+   Seshadri P, 1996, PROC INT CONF DATA, P450, DOI 10.1109/ICDE.1996.492194
+   Sichert M, 2022, PROC VLDB ENDOW, V15, P1119, DOI 10.14778/3510397.3510408
+   Simhadri V, 2014, PROC INT CONF DATA, P532, DOI 10.1109/ICDE.2014.6816679
+   Singh Mumick I., 1994, SIGMOD Record, V23, P103, DOI 10.1145/191843.191860
+   Small CG., 2007, FUNCTIONAL EQUATIONS
+   Spiegelberg L, 2021, INT CONF MANAGE DATA, P1718, DOI 10.1145/3448016.3457244
+   SQLite, 2023, About us
+   Srivastava D, 1996, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON VERY LARGE DATA BASES, P318
+   Telecom Italia, 2015, Telecommunications-SMS, Call, Internet-MI, DOI [10.7910/DVN/EGZHFV.https://doi.org/10.7910/DVN/EGZHFV, DOI 10.7910/DVN/EGZHFV.HTTPS://DOI.ORG/10.7910/DVN/EGZHFV]
+   Uzunbaz S, 2020, PROCEEDINGS OF THE 32TH INTERNATIONAL CONFERENCE ON SCIENTIFIC AND STATISTICAL DATABASE MANAGEMENT, SSDBM 2020, DOI 10.1145/3400903.3400932
+   Wang H., 2000, Research Issues in Structured and Semistructured Database Programming. 7th International Workshop on Database Programming Languages, DBPL'99. Revised Papers (Lecture Notes in Computer Science Vol.1949), P43
+   Wasay A, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P557, DOI 10.1145/3035918.3064051
+   WolframMathematica, 2023, About us
+   Xin D, 2007, IEEE T KNOWL DATA EN, V19, P111, DOI 10.1109/TKDE.2007.250589
+   Yan W. P., 1995, VLDB '95. Proceedings of the 21st International Conference on Very Large Data Bases, P345
+   YeSQL, 2023, Rich and fast user-defined functions in relational databases
+   Yogatama B, 2023, 19TH INTERNATIONAL WORKSHOP ON DATA MANAGEMENT ON NEW HARDWARE, DAMON 2023, P19, DOI 10.1145/3592980.3595307
+   Zhang C, 2020, PROC INT CONF DATA, P1750, DOI 10.1109/ICDE48307.2020.00161
+   Zhang Chao, 2020, P 23 INT C EXT DAT T, P241
+   Zhang Rui., 2005, SIGMOD 05, P299
+NR 109
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0362-5915
+EI 1557-4644
+J9 ACM T DATABASE SYST
+JI ACM Trans. Database Syst.
+PD JUN
+PY 2024
+VL 49
+IS 2
+AR 7
+DI 10.1145/3649133
+PG 46
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RQ9L1
+UT WOS:001229243600003
+DA 2024-08-05
+ER
+
+PT J
+AU Wang, ZG
+   Tang, CZ
+   Zhang, XD
+   Yu, QM
+   Zang, BY
+   Guan, HB
+   Chen, HB
+AF Wang, Zhaoguo
+   Tang, Chuzhe
+   Zhang, Xiaodong
+   Yu, Qianmian
+   Zang, Binyu
+   Guan, Haibing
+   Chen, Haibo
+TI Ad Hoc Transactions through the Looking Glass: An Empirical Study of
+   Application-Level Transactions inWeb Applications
+SO ACM TRANSACTIONS ON DATABASE SYSTEMS
+LA English
+DT Article
+DE Ad hoc transactions
+ID CONCURRENCY-CONTROL; GRANULARITY LOCKING; MODEL; CONSISTENCY
+AB Many transactions inweb applications are constructed ad hoc in the application code. For example, developers might explicitly use locking primitives or validation procedures to coordinate critical code fragments. We refer to database operations coordinated by application code as ad hoc transactions. Until now, little is known about them. This paper presents the first comprehensive study on ad hoc transactions. By studying 91 ad hoc transactions among eight popular open-source web applications, we found that (i) every studied application uses ad hoc transactions (up to 16 per application), 71 of which play critical roles; (ii) compared with database transactions, concurrency control of ad hoc transactions is much more flexible; (iii) ad hoc transactions are error-prone-53 of them have correctness issues, and 33 of them are confirmed by developers; and (iv) ad hoc transactions have the potential for improving performance in contentious workloads by utilizing application semantics such as access patterns. Based on these findings, we discuss the implications of ad hoc transactions to the database research community.
+C1 [Wang, Zhaoguo; Tang, Chuzhe; Zhang, Xiaodong; Yu, Qianmian; Zang, Binyu; Chen, Haibo] Shanghai Jiao Tong Univ, Inst Parallel & Distributed Syst, SEIEE, 800 Dongchuan Rd, Shanghai, Peoples R China.
+   [Wang, Zhaoguo; Tang, Chuzhe; Zhang, Xiaodong; Yu, Qianmian; Zang, Binyu; Chen, Haibo] Minist Educ, Engn Res Ctr Domain Specif Operating Syst, Shanghai, Peoples R China.
+   [Guan, Haibing] Shanghai Jiao Tong Univ, Shanghai Key Lab Scalable Comp & Syst, 800 Dongchuan Rd, Shanghai, Peoples R China.
+C3 Shanghai Jiao Tong University; Shanghai Jiao Tong University
+RP Wang, ZG; Chen, HB (corresponding author), Shanghai Jiao Tong Univ, Inst Parallel & Distributed Syst, SEIEE, 800 Dongchuan Rd, Shanghai, Peoples R China.; Wang, ZG; Chen, HB (corresponding author), Minist Educ, Engn Res Ctr Domain Specif Operating Syst, Shanghai, Peoples R China.
+EM zhaoguowang@sjtu.edu.cn; haibochen@sjtu.edu.cn
+FU National Natural Science Foundation of China [62272304, 62132014,
+   62172272]
+FX This work is supported by the National Natural Science Foundation of
+   China under Grant Nos. 62272304, 62132014, and 62172272.
+CR Adya A., 2000, Proceedings of 16th International Conference on Data Engineering (Cat. No.00CB37073), P67, DOI 10.1109/ICDE.2000.839388
+   Adya A., 1999, Weak Consistency: A Generalized Theory and Optimistic Implementations for Distributed Transactions
+   Alvaro P, 2011, P ASILOMAR CA 5 BIEN, P249
+   ANDREWS T, 1987, SIGPLAN NOTICES, V22, P430, DOI 10.1145/38807.38847
+   [Anonymous], 2008, Queue
+   Atkinson M., 1990, Deductive and Object-Oriented Databases. Proceedings of the First International Conference (DOOD89), P223
+   Atomikos, 2023, Atomikos ExtremeTransactions
+   BADRINATH BR, 1992, ACM T DATABASE SYST, V17, P163, DOI 10.1145/128765.128771
+   Bailis P, 2015, SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1327, DOI 10.1145/2723372.2737784
+   Bailis P, 2014, PROC VLDB ENDOW, V8, P185, DOI 10.14778/2735508.2735509
+   Balegas V, 2018, PROC VLDB ENDOW, V12, P404, DOI 10.14778/3297753.3297760
+   Balegas Valter, 2015, Proceedings of the Tenth European Conference on Computer Systems, DOI DOI 10.1145/2741948.2741972
+   BANERJEE J, 1987, ACM T INFORM SYST, V5, P3, DOI 10.1145/22890.22945
+   Barbar'a Daniel., 1994, VLDB J, V3, P325, DOI [DOI 10.1007/BF01232643, 10.1007/BF01232643]
+   BARBARD D, 1992, LECT NOTES COMPUT SC, V580, P373
+   Berenson H., 1995, SIGMOD Record, V24, P1, DOI 10.1145/568271.223785
+   Bernstein A. J., 2000, Proceedings of 16th International Conference on Data Engineering (Cat. No.00CB37073), P57, DOI 10.1109/ICDE.2000.839387
+   Bernstein P.A., 1987, Concurrency Control and Recovery in Database Systems
+   Broadleaf Commerce, 2021, BroadleafCommerce
+   Chen TH, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2014), P1001, DOI 10.1145/2568225.2568259
+   Cheng Chaoyi, 2023, P 13 BIENN C INN DAT
+   Civilized Discourse Construction Kit, 2021, Mini Sql
+   Civilized Discourse Construction Kit, 2021, Discourse
+   Claire, 2019, Avoid Race Condition when Streaming Deleted Statuses
+   colgrove daniel, 2021, Comments on Issue 2472
+   Dashti M, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P235, DOI 10.1145/3035918.3035919
+   DB-Engines, 2021, DB-Engines Ranking of Relational DBMS
+   Dey A, 2013, PROC VLDB ENDOW, V6, P1434, DOI 10.14778/2536274.2536331
+   Dey A, 2015, PROC INT CONF DATA, P125, DOI 10.1109/ICDE.2015.7113278
+   Diaspora Inc, 2021, diaspora
+   Django Software Foundation, 2021, Django
+   Dong Zhiyuan, 2023, 2023 IEEE 39th International Conference on Data Engineering (ICDE), P2864, DOI 10.1109/ICDE55515.2023.00219
+   Dong ZY, 2020, J COMPUT SCI TECH-CH, V35, P382, DOI 10.1007/s11390-020-9700-5
+   Double Chain Tech, 2021, SCM Biz Suite
+   Elastic, 2023, Seata: Simple Extensible Autonomous Transaction Architecture
+   Elastic, 2023, Elastic search
+   ESWARAN KP, 1976, COMMUN ACM, V19, P624, DOI 10.1145/360363.360369
+   FIT 2 CLOUD, 2021, Jump Server
+   Garcia-Molina H., 1987, PROC 1987 ACM SIGMOD, V16, P249, DOI [DOI 10.1145/38713.38742, DOI 10.1145/38714.38742]
+   GARCIAMOLINA H, 1983, ACM T DATABASE SYST, V8, P186, DOI 10.1145/319983.319985
+   Garza J. F., 1988, SIGMOD Record, V17, P37, DOI 10.1145/971701.50206
+   Git Lab B.V, 2021, Git Lab
+   Graefe Goetz, 2007, P BTW 2007 C DAT SYS, P18
+   Graefe Goetz, 2013, P 2013 ACM SIGMOD IN, P85, DOI [10.1145/2463676.2465325, DOI 10.1145/2463676.2465325]
+   GRAY J, 1981, COMPUT SURV, V13, P223, DOI 10.1145/356842.356847
+   Gray J. N., 1975, P 1 INT C VERY LARGE, DOI DOI 10.1145/1282480.1282513
+   Gray Jim, 1992, Transaction Processing: Concepts and Techniques, V1st
+   Grechanik M., 2013, Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering, P356, DOI DOI 10.1145/2491411.2491412
+   Grechanik M, 2013, 2013 IEEE SIXTH INTERNATIONAL CONFERENCE ON SOFTWARE TESTING, VERIFICATION AND VALIDATION (ICST 2013), P174, DOI 10.1109/ICST.2013.19
+   H2 Database Engine, 2019, Prepared XA transaction lost?
+   HAERDER T, 1983, COMPUT SURV, V15, P287, DOI 10.1145/289.291
+   Helland P., 2007, CIDR, P132
+   Helland Pat, 2016, Queue, V14, P69, DOI [10.1145/3012426.3025012, DOI 10.1145/3012426.3025012]
+   Hellerstein JM, 2020, COMMUN ACM, V63, P72, DOI 10.1145/3369736
+   HERLIHY M, 1990, ACM T DATABASE SYST, V15, P96, DOI 10.1145/77643.77647
+   Huang YH, 2020, PROC VLDB ENDOW, V13, P629, DOI 10.14778/3377369.3377373
+   Iteration Labs, 2021, Huginn
+   Jordan J.R., 1981, SIGMOD, P143, DOI DOI 10.1145/582318.582340
+   Kraft P, 2023, PROC VLDB ENDOW, V16, P2742, DOI 10.14778/3611479.3611484
+   Kumar A., 1988, SIGMOD Record, V17, P117, DOI 10.1145/971701.50215
+   KUNG HT, 1981, ACM T DATABASE SYST, V6, P213, DOI 10.1145/319566.319567
+   Lang Jean -Philippe, 2021, Redmine
+   Lee SY, 1996, IEEE T KNOWL DATA EN, V8, P144, DOI 10.1109/69.485643
+   Levandoski J, 2015, PROC VLDB ENDOW, V8, P2146, DOI 10.14778/2831360.2831368
+   Li C., 2012, Proceedings of the 10th USENIX Conference on Operating Systems Design and Implementation, P265
+   Li Cheng, 2014, P 2014 USENIX C USEN, P281
+   Lomet D, 2004, PROC INT CONF DATA, P18, DOI 10.1109/ICDE.2004.1319981
+   MAO Y., 2012, EUROSYS, P183
+   Microsoft, 2020, Table Hints (Transact -SQL)
+   Microsoft, 2017, Designing Transactional Web Applications
+   Microsoft, 2021, Remarks on SET TRANSACTION ISOLATION LEVEL (Transact -SQL)
+   Mihalcea Vlad, 2015, High -Performance Java Persistence
+   Mihalcea Vlad, 2021, Hibernate ORM 5.5.7.Final User Guide
+   MOHAN C, 1990, VERY LARGE DATA BASES, P392
+   MOHAN C, 1992, ACM T DATABASE SYST, V17, P94, DOI 10.1145/128765.128770
+   Mohan C., 1992, Proceedings of the 1992 ACM SIGMOD international conference on Management of data, SIGMOD 1992, P371, DOI DOI 10.1145/141484.130338
+   Narula N., 2014, P 11 USENIX C OPERAT, P511
+   Neumann T, 2015, SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P677, DOI 10.1145/2723372.2749436
+   OASIS Web Services Transaction (WS -TX) TC, 2009, Web Services Atomic Transaction (WS-AtomicTransaction)
+   OASIS Web Services Transaction (WS -TX) TC, 2009, Web Services Coordination (WS -Coordination)
+   ONEIL PE, 1986, ACM T DATABASE SYST, V11, P405, DOI 10.1145/7239.7265
+   Oracle, 2020, MySQL 8.0 Reference Manual (Including MySQL NDB Cluster 8.0)
+   Pillai Thanumalayan Sankaranarayana, 2014, P 11 USENIX S OP SYS, P433
+   Preguiça N, 2003, PROCEEDINGS OF MOBISYS 2003, P43, DOI 10.1145/1066116.1189038
+   Project Concerto, 2021, Sku Inconsistent Caused by Concurrent Checkout
+   Project Concerto, 2021, API Controller did not Implement Order Version Check
+   Project Concerto, 2021, Implementation Issue in Order Lock
+   Project Concerto, 2021, Crash while Processing Payments Leads to Unexpected Behavior
+   Project Concerto, 2021, Session Order Lock may be Discarded Unexpectedly
+   Project Concerto, 2021, A More Efficient Redis Lock
+   Project Concerto, 2021, Possible Race Condition when Paying with Store Credit
+   Project Concerto, 2021, Redis lock's TTL May Leads to Potential Bugs
+   Project Concerto, 2021, Race Condition in Downsize_Upload Script
+   Project Concerto, 2021, Mixing Active Record & Mini_sql Leads to Unexpected Behavior
+   Pu C., 1988, Proceedings of the Fourteenth International Conference on Very Large Databases, P26
+   Rails Core Team, 2021, Ruby on Rails
+   Rails Core Team, 2021, Active Record
+   Red Hat, 2021, Hibernate ORM
+   Reimer Manuel., 1983, VLDB, P81
+   Ren K, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1583, DOI 10.1145/2882903.2882958
+   Renzema Willem, 2016, Willem Renzema's Answer to "How to Properly use Transactions and Locks to Ensure Database Integrity?
+   Resolve Digital, 2021, Refinery CMS
+   Rochko Eugen, 2019, Comments on Commit a359be23
+   Rochko Eugen, 2021, Mastodon
+   Roy S, 2015, SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1311, DOI 10.1145/2723372.2723720
+   Saleor Commerce, 2021, Saleor Commerce
+   Seata, 2023, Application Model and Scenario Analysis for TCC Mode
+   Shapiro M, 2011, LECT NOTES COMPUT SC, V6976, P386, DOI 10.1007/978-3-642-24550-3_29
+   Shrira L, 2008, LECT NOTES COMPUT SC, V5346, P42, DOI 10.1007/978-3-540-89856-6_3
+   Silberschatz A., 2011, DATABASE SYSTEM CONC
+   Spree Commerce, 2021, Spree Commerce
+   Spring, 2023, Spring Framework Data Access
+   Stripe, 2023, Stripe, Payment Processing Platform for the Internet
+   Tang CZ, 2022, INT CONF MANAGE DATA, P4, DOI 10.1145/3514221.3526120
+   The Postgre SQL Global Development Group, 2021, Postgre SQL 13.3 Documentation
+   Tu S, 2013, SOSP'13: PROCEEDINGS OF THE TWENTY-FOURTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P18, DOI 10.1145/2517349.2522713
+   Wang JC, 2021, PROCEEDINGS OF THE 15TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '21), P199
+   Warszawski T, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P5, DOI 10.1145/3035918.3064037
+   WEIHL WE, 1988, IEEE T COMPUT, V37, P1488, DOI 10.1109/12.9728
+   Wentang, 2022, How do Cloud Users use Cloud Database Systems?
+   Wu YJ, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1689, DOI 10.1145/2882903.2915202
+   X/Open, 1991, Distributed Transaction Processing: The XA Specification
+   X/Open Company Limited, 1991, Distributed Transaction Processing: The XA Specification
+   Xiong Weiwei, 2010, P 9 USENIX S OP SYST, P163
+   Yan C, 2017, CIKM'17: PROCEEDINGS OF THE 2017 ACM CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, P1299, DOI 10.1145/3132847.3132954
+   Yang JW, 2018, ESEC/FSE'18: PROCEEDINGS OF THE 2018 26TH ACM JOINT MEETING ON EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING, P884, DOI 10.1145/3236024.3264589
+   Yang JW, 2018, PROCEEDINGS 2018 IEEE/ACM 40TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE), P800, DOI 10.1145/3180155.3180194
+   Yu HF, 2002, ACM T COMPUT SYST, V20, P239, DOI 10.1145/566340.566342
+   Yu HF, 2000, USENIX ASSOCIATION PROCEEDINGS OF THE FOURTH SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P305
+   Zhang Xiaodong, 2021, The Synchronized used to Prevent Concurrency Doesn't Work as Expected
+NR 130
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0362-5915
+EI 1557-4644
+J9 ACM T DATABASE SYST
+JI ACM Trans. Database Syst.
+PD FEB
+PY 2024
+VL 49
+IS 1
+AR 3
+DI 10.1145/3638553
+PG 43
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MM3K2
+UT WOS:001193996800003
+DA 2024-08-05
+ER
+
+PT J
+AU Gottlob, G
+   Lanzinger, M
+   Okulmus, C
+   Pichler, R
+AF Gottlob, Georg
+   Lanzinger, Matthias
+   Okulmus, Cem
+   Pichler, Reinhard
+TI Fast Parallel Hypertree Decompositions in Logarithmic Recursion Depth
+SO ACM TRANSACTIONS ON DATABASE SYSTEMS
+LA English
+DT Article
+DE Hypergraph decomposition; hypertree width; parallel algorithms
+AB Various classic reasoning problems with natural hypergraph representations are known to be tractable if a hypertree decomposition (HD) of low width exists. The resulting algorithms are attractive for practical use in fields like databases and constraint satisfaction. However, algorithmic use of HDs relies on the difficult task of first computing a decomposition of the hypergraph underlying a given problem instance, which is then used to guide the algorithm for this particular instance. The performance of purely sequential methods for computing HDs is inherently limited, yet the problem is, theoretically, amenable to parallelisation. In this article, we propose the first algorithm for computing hypertree decompositions that is well suited for parallelisation. The newly proposed algorithm log-k-decomp requires only a logarithmic number of recursion levels and additionally allows for highly parallelised pruning of the search space by restriction to so-called balanced separators. We provide a detailed experimental evaluation over the HyperBench benchmark and demonstrate that log-k-decomp outperforms the current state of the art significantly.
+C1 [Gottlob, Georg] Univ Calabria, Dipartimento Matemat & Informat, Via P Bucci,Edificio 30B, I-87036 Arcavacata Di Rende, Italy.
+   [Gottlob, Georg; Lanzinger, Matthias] Univ Oxford, Dept Comp Sci, 7 Parks Rd, Oxford OX1 3QG, England.
+   [Lanzinger, Matthias; Pichler, Reinhard] TU Wien, Inst Log & Computat, Favoritenstr 9-11, A-1040 Vienna, Austria.
+   [Okulmus, Cem] Umea Univ, Dept Comp Sci, Univ Storget 4, S-90187 Umea, Sweden.
+C3 University of Calabria; University of Oxford; Technische Universitat
+   Wien; Umea University
+RP Gottlob, G (corresponding author), Univ Calabria, Dipartimento Matemat & Informat, Via P Bucci,Edificio 30B, I-87036 Arcavacata Di Rende, Italy.; Gottlob, G (corresponding author), Univ Oxford, Dept Comp Sci, 7 Parks Rd, Oxford OX1 3QG, England.
+EM georg.gottlob@sjc.ox.ac.uk; matthias.lanzinger@tuwien.ac.at;
+   okulmus@cs.umu.se; pichler@dbai.tuwien.ac.at
+OI Okulmus, Cem/0000-0002-7742-0439; Pichler, Reinhard/0000-0002-1760-122X
+FU Austrian Science Fund (FWF) [P30930-N35]; Vienna Science and Technology
+   Fund (WWTF) [10.47379/VRG18013, 10.47379/NXT22018, 10.47379/ICT2201];
+   Christian Doppler Research Association (CDG) JRC LIVE; Royal Society
+   [RP\R1\201074]; Royal Society project "RAISON DATA" [RP\R1\201074];
+   Wallenberg AI, Autonomous Systems and Software Program (WASP) - Knut and
+   Alice Wallenberg Foundation
+FX This work was supported by the Austrian Science Fund (FWF) project
+   P30930-N35 and by the Vienna Science and Technology Fund (WWTF)
+   [10.47379/VRG18013, 10.47379/NXT22018, 10.47379/ICT2201] and by the
+   Christian Doppler Research Association (CDG) JRC LIVE. Georg Gottlob is
+   a Royal Society Research Professor and acknowledges support by the Royal
+   Society for the present work in the context of the project "RAISON DATA"
+   (Project reference: RP\R1\201074). Matthias Lanzing acknowledges support
+   by the Royal Society project "RAISON DATA" (Project reference:
+   RP\R1\201074). The work of Cem Okulmus is supported by the Wallenberg
+   AI, Autonomous Systems and Software Program (WASP) funded by the Knut
+   and Alice Wallenberg Foundation.
+CR Aberger CR, 2017, ACM T DATABASE SYST, V42, DOI 10.1145/3129246
+   Adler I, 2007, EUR J COMBIN, V28, P2167, DOI 10.1016/j.ejc.2007.04.013
+   Afrati Foto N., 2017, LIPIcs, V4, DOI [10.4230/LIPIcs.ICDT.2017.4, DOI 10.4230/LIPICS.ICDT.2017.4]
+   Akatov Dmitri, 2010, Ph. D. Dissertation
+   [Anonymous], 1976, P 17 ANN S FDN COMPU
+   Ayaz Dzulfikar M., 2019, P 14 INT S PARAMETER, V25
+   BODLAENDER HL, 1990, LECT NOTES COMPUT SC, V411, P232
+   Bodlaender HL, 1998, SIAM J COMPUT, V27, P1725, DOI 10.1137/S0097539795289859
+   COOK SA, 1985, INFORM CONTROL, V64, P2, DOI 10.1016/S0019-9958(85)80041-3
+   FAGIN R, 1983, J ACM, V30, P514, DOI 10.1145/2402.322390
+   Fichte JK, 2018, LECT NOTES COMPUT SC, V11008, P109, DOI 10.1007/978-3-319-98334-9_8
+   Fischl W, 2019, PROCEEDINGS OF THE 38TH ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS (PODS '19), P464, DOI 10.1145/3294052.3319683
+   Ghionna L, 2007, PROC INT CONF DATA, P11
+   Ghionna Lucantonio, 2011, P 20 ACM C INFORM KN, P2573, DOI [10.1145/2063576.2064023, DOI 10.1145/2063576.2064023]
+   Gottlob G, 2005, J ARTIF INTELL RES, V24, P357, DOI 10.1613/jair.1683
+   Gottlob G, 2002, J COMPUT SYST SCI, V64, P579, DOI 10.1006/jcss.2001.1809
+   Gottlob G, 2002, THEOR COMPUT SCI, V270, P761, DOI 10.1016/S0304-3975(01)00108-6
+   Gottlob G, 2001, J ACM, V48, P431, DOI 10.1145/382780.382783
+   Gottlob G, 2000, ARTIF INTELL, V124, P243, DOI 10.1016/S0004-3702(00)00078-3
+   Gottlob G, 2022, PROCEEDINGS OF THE 41ST ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS (PODS '22), P325, DOI 10.1145/3517804.3524153
+   Gottlob G, 2022, CONSTRAINTS, V27, P284, DOI 10.1007/s10601-022-09332-1
+   Gottlob G, 2021, J ACM, V68, DOI 10.1145/3457374
+   Gottlob G, 2013, J ACM, V60, DOI 10.1145/2505987
+   Gottlob G, 2009, J ACM, V56, DOI 10.1145/1568318.1568320
+   Gottlob Georg, 2023, Zenodo, DOI [10.5281/zenodo.7180787, DOI 10.5281/ZENODO.7180787]
+   Gottlob Georg, 2008, ACM J. Exp. Algor., V13, DOI DOI 10.1145/1412228.1412229
+   Gottlob Georg, 2020, P 45 INT S MATH FDN, V41
+   LAGERGREN J, 1990, ANN IEEE SYMP FOUND, P173
+   Pichler R, 2013, J COMPUT SYST SCI, V79, P984, DOI 10.1016/j.jcss.2013.01.012
+   RUZZO WL, 1980, J COMPUT SYST SCI, V21, P218, DOI 10.1016/0022-0000(80)90036-7
+   Schidler Andre, 2021, P 30 INT JOINT C ART, P1418, DOI [10.24963/ijcai.2021/196, DOI 10.24963/IJCAI.2021/196]
+   Thain D, 2005, CONCURR COMP-PRACT E, V17, P323, DOI 10.1002/cpe.938
+   Yannakakis M., 1981, Proceedings of the Seventh International Conference on Very Large Data Bases, P82
+NR 33
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0362-5915
+EI 1557-4644
+J9 ACM T DATABASE SYST
+JI ACM Trans. Database Syst.
+PD FEB
+PY 2024
+VL 49
+IS 1
+AR 1
+DI 10.1145/3638758
+PG 43
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MM3K2
+UT WOS:001193996800001
+OA Green Published, Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+EF

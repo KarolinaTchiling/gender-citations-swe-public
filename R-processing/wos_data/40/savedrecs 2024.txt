@@ -1,0 +1,1843 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Abts, D
+   Kim, J
+AF Abts, Dennis
+   Kim, John
+TI Enabling Artificial Intelligence Supercomputers With Domain-Specific
+   Networks
+SO IEEE MICRO
+LA English
+DT Article
+DE Parallel processing; Training; Costs; Supercomputers; Internet;
+   Hardware; Bandwidth
+AB Systems designed for artificial intelligence (AI) training and inference exhibit characteristics of both capacity and capability systems that require both tight coupling and strong scaling for model parallelism as well as weak scaling for data parallelism in distributed systems. In addition, managing enormous, 100 billion-parameter language models and trillion-token datasets introduces formidable computational challenges for today's supercomputing infrastructure. Communication and computation are two intertwined aspects of parallel computing, including AI domain-specific supercomputers, and this article explores the vital role of interconnection networks in large-scale systems. This work argues how domain-specific networks are a critical enabling technology necessary for AI supercomputers. In particular, we advocate for flexible, low-latency interconnects capable of delivering high throughput across massive scales with tens of thousands of endpoints. Additionally, we stress the importance of reliability and resilience in handling long-duration training workloads and the demanding inference needs of domain-specific workloads.
+C1 [Abts, Dennis] Nvidia, Santa Clara, CA 95050 USA.
+   [Kim, John] Korea Adv Inst Sci & Technol, Sch Elect Engn, Daejeon 34141, South Korea.
+C3 Nvidia Corporation; Korea Advanced Institute of Science & Technology
+   (KAIST)
+RP Kim, J (corresponding author), Korea Adv Inst Sci & Technol, Sch Elect Engn, Daejeon 34141, South Korea.
+EM dabts@nvidia.com; jjk12@kaist.edu
+OI Abts, Dennis/0009-0007-7108-9013
+CR Abts D, 2022, CONF PROC INT SYMP C, P567, DOI 10.1145/3470496.3527405
+   Abts D, 2020, ANN I S COM, P145, DOI 10.1109/ISCA45697.2020.00023
+   Hennessy JL, 2019, COMMUN ACM, V62, P48, DOI 10.1145/3282307
+   Jouppi NP, 2023, CONF PROC INT SYMP C, P1147, DOI 10.1145/3579371.3589350
+   Kim J, 2008, CONF PROC INT SYMP C, P77, DOI 10.1109/ISCA.2008.19
+   Klenk B, 2020, ANN I S COM, P996, DOI 10.1109/ISCA45697.2020.00085
+   Kwon Y., 2023, HOT CHIPS35TH S, P1, DOI [10.1109/HCS59251.2023.10254717, DOI 10.1109/HCS59251.2023.10254717]
+   MacNeice P, 2000, COMPUT PHYS COMMUN, V126, P330, DOI 10.1016/S0010-4655(99)00501-9
+   OpenAI, 2023, GPT-4 Technical Report
+   Shaw DE, 2021, INT CONF HIGH PERFOR, DOI 10.1145/3458817.3487397
+   Sukumar SR, 2021, PROCEEDINGS OF PEHC 2021: WORKSHOP ON PROGRAMMING ENVIRONMENTS FOR HETEROGENEOUS COMPUTING, P34, DOI 10.1109/PEHC54839.2021.00010
+   Talpes E., 2022, 2022 IEEE HOT CHIPS, P1, DOI DOI 10.1109/HCS55958.2022.9895534
+NR 12
+TC 1
+Z9 1
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 41
+EP 49
+DI 10.1109/MM.2023.3330079
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NC5P9
+UT WOS:001198266500008
+DA 2024-08-05
+ER
+
+PT J
+AU Greenstein, S
+AF Greenstein, Shane
+TI After the Gold Rush
+SO IEEE MICRO
+LA English
+DT Article
+AB What determines market prospects during and after a commercial gold rush, such as the boom presently taking place in commercial generative AI? Many firms face similar technical challenges and commercial risks, and the resolution of one firm's challenge correlates with that of another. That provides a way of cataloging risks, and the general prospects of some categories of firms, even though it does not lead to insight related to the prospects of specific firms.
+C1 [Greenstein, Shane] Harvard Sch Business, Boston, MA 02163 USA.
+C3 Harvard University
+RP Greenstein, S (corresponding author), Harvard Sch Business, Boston, MA 02163 USA.
+EM sgreenstein@hbs.edu
+OI Greenstein, Shane/0000-0001-7015-9568
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 76
+EP 78
+DI 10.1109/MM.2023.3339186
+PG 3
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500009
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Bhargava, R
+   Troester, K
+AF Bhargava, Ravi
+   Troester, Kai
+TI AMD Next-Generation "Zen 4" Core and 4th Gen AMD EPYC Server CPUs
+SO IEEE MICRO
+LA English
+DT Article
+DE Registers; Microarchitecture; Servers; Throughput; Vectors; Computer
+   architecture; Charge coupled devices
+AB The 4th gen AMD EPYC server processor family brings the "Zen 4" core to the data center and cloud market and introduces a family of unique processors that leverage advanced chiplet architecture to efficiently optimize each processor to specific market needs. The "Zen 4" core is the latest generation of AMD's high-performance and power-efficient x86 cores. Based on the "Zen 3" microarchitecture, it delivers a major step in power efficiency and performance with the inclusion of power-efficient AVX-512 support. The "Zen 4c" core further improves power efficiency by targeting a lower boost frequency. The 4th gen AMD EPYC processor family expands to include "Bergamo," a high core-count, power-efficient, cloud-focused processor, and "Siena," a high-capability processor with a streamlined, power-efficient form factor. These complement the record-breaking performance of "Genoa" and massive performance per core of "Genoa-X." AMD's customer-focused approach and chiplet design enable timely delivery of these industry-leading processors.
+C1 [Bhargava, Ravi] Univ Texas Austin, Austin, TX 78712 USA.
+   [Troester, Kai] AMD, Boxboro, MA USA.
+C3 University of Texas System; University of Texas Austin
+RP Bhargava, R (corresponding author), Univ Texas Austin, Austin, TX 78712 USA.
+EM ravi.bhargava@amd.com; kai.troester@amd.com
+CR [Anonymous], 2005, ADV MICRODEVICES
+   Criss K, 2020, PROCEEDINGS OF THE INTERNATIONAL SYMPOSIUM ON MEMORY SYSTEMS, MEMSYS 2020, P317, DOI 10.1145/3422575.3422803
+   Lepak K., 2017, 29 HOT CHIPS S CUP C
+   Munger Benjamin, 2023, 2023 IEEE International Solid- State Circuits Conference (ISSCC), P38, DOI 10.1109/ISSCC42615.2023.10067540
+   Naffziger S, 2020, ISSCC DIG TECH PAP I, P44, DOI 10.1109/ISSCC19947.2020.9063103
+   Wuu John, 2022, 2022 IEEE International Solid- State Circuits Conference (ISSCC), P428, DOI 10.1109/ISSCC42614.2022.9731565
+NR 6
+TC 1
+Z9 1
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 8
+EP 17
+DI 10.1109/MM.2024.3375070
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000011
+DA 2024-08-05
+ER
+
+PT J
+AU Greenstein, S
+AF Greenstein, Shane
+TI <i>The Worlds I See: Curiosity, Exploration, and the Discovery at the
+   Dawn of AI</i>
+SO IEEE MICRO
+LA English
+DT Article
+AB Fei-Fei Li is known for leading the development of ImageNet, which helped catalyze machine learning approaches to vision recognition, and for being an essential voice shaping the science behind artificial intelligence (AI) today. She offers an extended, thoughtful, and heartfelt memoir in this book.1 Beautifully written and grounded in many rich, thought-provoking observations, the book describes her journey from being a child immigrant from China to her present position as a Stanford professor.
+C1 [Greenstein, Shane] Harvard Sch Business, Boston, MA 02163 USA.
+C3 Harvard University
+RP Greenstein, S (corresponding author), Harvard Sch Business, Boston, MA 02163 USA.
+EM sgreenstein@hbs.edu
+CR Li F.-F., 2023, The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 82
+EP 84
+DI 10.1109/MM.2024.3390268
+PG 3
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000009
+DA 2024-08-05
+ER
+
+PT J
+AU Oshio, R
+   Sugahara, T
+   Sawada, A
+   Kimura, M
+   Zhang, RY
+   Nakashima, Y
+AF Oshio, Reon
+   Sugahara, Takuya
+   Sawada, Atsushi
+   Kimura, Mutsumi
+   Zhang, Renyuan
+   Nakashima, Yasuhiko
+TI A Compressed Spiking Neural Network Onto a Memcapacitive In-Memory
+   Computing Array
+SO IEEE MICRO
+LA English
+DT Article
+DE Training; Neuromorphics; Quantization (signal); Integrated circuit
+   modeling; Neurons; Membrane potentials; Mathematical models; Deep
+   learning; Approximation algorithms; SPICE; Machine learning
+AB Spiking neural networks (SNNs) enable the execution of deep learning-compatible tasks and approximation algorithms with low latency and low power consumption by operating on a neuromorphic system. Adopting analog in-memory computing (AiMC) in a neuromorphic system can build a system that has an advantage in memory density over a pure digital implementation. However, sensing the AiMC output with simple circuitry inevitably leads to unintended nonlinearities. In this study, we design a neuromorphic circuit using memcapacitive AiMC synapses with ultra-low power. We combine circuit nonlinearity-aware training (CNAT) with network compression techniques to prevent the SNN from losing accuracy caused by the neuron circuit's nonlinearity and the synapse's low resolution. The training runs on a machine learning framework and does not need to incorporate computationally intensive SPICE simulations. As simulated, our circuit performs MNIST classifications with almost no loss from ideal accuracy (97.64%) and consumes 15.7 nJ per inference.
+C1 [Oshio, Reon; Sugahara, Takuya; Sawada, Atsushi; Zhang, Renyuan; Nakashima, Yasuhiko] Nara Inst Sci & Technol, Grad Sch Sci & Technol, Ikoma 6300192, Japan.
+   [Kimura, Mutsumi] Ryukoku Univ, Grad Sch Sci & Technol, Otsu 5202194, Japan.
+C3 Nara Institute of Science & Technology; Ryukoku University
+RP Oshio, R (corresponding author), Nara Inst Sci & Technol, Grad Sch Sci & Technol, Ikoma 6300192, Japan.
+EM oshio.reon.ok2@is.naist.jp; sugahara.takuya.ss4@is.naist.jp;
+   sawada.atsushi.sb7@is.naist.jp; kimura.mutsumi.ki1@is.naist.jp;
+   rzhang@is.naist.jp; nakashim@is.naist.jp
+OI Nakashima, Yasuhiko/0000-0002-9457-5061
+FU VLSI Design and Education Centre (VDEC) of the University of Tokyo;
+   Synopsys, Inc;  [19K11876]
+FX This work was partly carried out using the circuit simulator HSPICE,
+   licensed under the joint support of the VLSI Design and Education Centre
+   (VDEC) of the University of Tokyo and Synopsys, Inc. The authors would
+   like to thank Grant-in-Aid for Scientific Research (C) 19K11876 for
+   inspiring the memcapacitor idea.
+CR Davies M, 2021, P IEEE, V109, P911, DOI 10.1109/JPROC.2021.3067593
+   Demasius KU, 2021, NAT ELECTRON, V4, P748, DOI 10.1038/s41928-021-00649-y
+   Nguyen DA, 2022, MICROPROCESS MICROSY, V90, DOI 10.1016/j.micpro.2022.104458
+   Eshraghian JK, 2022, 2022 IEEE INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE CIRCUITS AND SYSTEMS (AICAS 2022): INTELLIGENT TECHNOLOGY IN THE POST-PANDEMIC ERA, P352, DOI 10.1109/AICAS54282.2022.9869966
+   Hennessy J., 2017, Computer Architecture, Sixth Edition: A Quantitative Approach, V6th
+   Hur J, 2022, ADV INTELL SYST-GER, V4, DOI 10.1002/aisy.202100258
+   Hwang S, 2022, IEEE ELECTR DEVICE L, V43, P549, DOI 10.1109/LED.2022.3149029
+   Liu C., 2021, P IEEE INT C ASIC AS, P1
+   Oshio R, 2022, PROC IEEE COOL CHIPS, DOI 10.1109/COOLCHIPS54332.2022.9772674
+   Stuijt J, 2021, FRONT NEUROSCI-SWITZ, V15, DOI 10.3389/fnins.2021.664208
+   Takuya S, 2021, PROC IEEE COOL CHIPS, DOI 10.1109/COOLCHIPS52128.2021.9410323
+   Xiao TP, 2020, APPL PHYS REV, V7, DOI 10.1063/1.5143815
+NR 12
+TC 1
+Z9 1
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 8
+EP 16
+DI 10.1109/MM.2023.3285529
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500002
+DA 2024-08-05
+ER
+
+PT J
+AU Lee, HHS
+AF Lee, Hsien-Hsin S.
+TI An Incoming World of Decoupling Siliconomy
+SO IEEE MICRO
+LA English
+DT Article
+AB This issue presents top works selected from 2023 Hot Chips symposium (HotChips 2023.) Beyond their influence to our daily lives, semiconductor chips have also emerged as a critical asset in nation-to-nation geopolitics.
+C1 [Lee, Hsien-Hsin S.] Intel Corp, Hudson, MA 01749 USA.
+C3 Intel Corporation
+RP Lee, HHS (corresponding author), Intel Corp, Hudson, MA 01749 USA.
+EM lee.sean@gmail.com
+CR Bhargava R, 2024, IEEE MICRO, V44, P8, DOI 10.1109/MM.2024.3375070
+   Gholami A, 2024, IEEE MICRO, V44, P33, DOI 10.1109/MM.2024.3373763
+   Gibbs M, 2024, IEEE MICRO, V44, P67, DOI 10.1109/MM.2023.3329218
+   Howard J, 2024, IEEE MICRO, V44, P25, DOI 10.1109/MM.2024.3387828
+   Subramony D., 2024, IEEE Micro, V44, P18, DOI [10.1109/MM.2024.3394479.A3.J, DOI 10.1109/MM.2024.3394479.A3.J]
+   Winfield T., 2024, IEEE Micro, V44, P58, DOI [10.1109/MM.2024.3360255.A8.M, DOI 10.1109/MM.2024.3360255.A8.M]
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 4
+EP 5
+DI 10.1109/MM.2024.3394671
+PG 2
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000010
+DA 2024-08-05
+ER
+
+PT J
+AU Howard, J
+   Fryman, JB
+   Abedin, S
+AF Howard, Jason
+   Fryman, Joshua B.
+   Abedin, Shamsul
+TI The First Direct Mesh-to-Mesh Photonic Fabric
+SO IEEE MICRO
+LA English
+DT Article
+DE Bandwidth; Computer architecture; Freeports; Sockets; Optical switches;
+   Pipelines; Optical fiber communication
+AB Intel developed the Programmable Integrated Unified Memory Architecture (PIUMA) to address the inefficiencies seen in conventional processor architectures for at-scale sparse graph analytics. PIUMA adopted copackaged optical (CPO) modules to provide 1 TB/s/direction of network bandwidth. PIUMA-fused traditional network switch logic into the compute logic to make a disaggregated switch fabric in a HyperX topology. Utilizing the latest CPO technology, PIUMA converts the on-die mesh protocol directly to the optical fabric and back to seamlessly glue together all PIUMA chips in a system into a large virtual die. Measured silicon demonstrates a best-case latency of <46 ns per connection mesh stop to mesh stop through the optical fabric in the first prototype, which is not fully optimized. This was all combined into a customized application-specified integrated circuit of 316 mm(2) in 7-nm manufacturing and advanced packaging technology to enable the direct CPO fabric requirements.
+C1 [Howard, Jason] Intel Corp, Extreme Scale Comp team, Intels Off CTO, Hillsboro, OR 97124 USA.
+   [Fryman, Joshua B.] Intel Corp, Intels Off CTO Datacenter Technol, Hillsboro, OR 97124 USA.
+   [Abedin, Shamsul] Intel Corp, Intels Off CTO, Hillsboro, OR 97124 USA.
+C3 Intel Corporation; Intel Corporation; Intel Corporation
+RP Howard, J (corresponding author), Intel Corp, Extreme Scale Comp team, Intels Off CTO, Hillsboro, OR 97124 USA.
+EM jason.m.howard@intel.com; joshua.b.fryman@intel.com;
+   shamsul.abedin@intel.com
+CR Carlson TE, 2014, ACM T ARCHIT CODE OP, V11, P127, DOI 10.1145/2629677
+   Eyerman S, 2018, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE, AND ANALYSIS (SC'18)
+   Heirman W, 2021, ACM T ARCHIT CODE OP, V18, DOI 10.1145/3452141
+   Ossowski P., 2022, LLVM DEV M
+NR 4
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 25
+EP 32
+DI 10.1109/MM.2024.3387828
+PG 8
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000006
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, JQ
+   Gong, N
+AF Liu, Jianqing
+   Gong, Na
+TI Privacy by Memory Design: Visions and Open Problems
+SO IEEE MICRO
+LA English
+DT Article
+DE Differential privacy; Random access memory; Privacy; Microprocessors;
+   Databases; Very large scale integration; Transistors; Threat assessment;
+   Design engineering; Memory management
+ID MATHEMATICAL-MODELS; VIDEO MEMORY
+AB The threat to data privacy has never been more alarming than it is today. Among existing privacy-enhancing technologies, differential privacy (DP) is widely accepted as the de facto standard for privacy preservation. Yet, the software-based implementation of DP mechanisms is neither friendly for lightweight devices nor secure against side-channel attacks. In this article, we propose a first-of-its-kind design regime that realizes DP in hardware memories. The salient feature of this novel design lies in its transformation of the notorious memory noises at subnominal voltages into the desired DP noises, thereby achieving power savings and privacy preservation simultaneously: a "win-win" outcome. We demonstrate the feasibility of this design regime using a 1-Kb memory prototype based on 45-nm technology. For future prospects, a research road map that contains open research problems is delineated for the broad research community.
+C1 [Liu, Jianqing] North Carolina State Univ, Raleigh, NC 27606 USA.
+   [Gong, Na] Univ S Alabama, Mobile, AL 26688 USA.
+C3 North Carolina State University; University of South Alabama
+RP Liu, JQ (corresponding author), North Carolina State Univ, Raleigh, NC 27606 USA.
+EM jliu96@ncsu.edu; nagong@southalabama.edu
+OI Gong, Na/0000-0002-3297-7436; Liu, Jianqing/0000-0001-7568-015X
+FU National Science Foundation
+FX No Statement Available
+CR Das H, 2021, IEEE T VLSI SYST, V29, P1693, DOI 10.1109/TVLSI.2021.3098533
+   Dwork C, 2006, LECT NOTES COMPUT SC, V3876, P265, DOI 10.1007/11681878_14
+   Fu JY, 2021, IEEE INTERNET THINGS, V8, P9672, DOI 10.1109/JIOT.2020.3023623
+   Gong N, 2017, IEEE T VLSI SYST, V25, P2625, DOI 10.1109/TVLSI.2017.2715002
+   Gottscho M, 2015, ACM T ARCHIT CODE OP, V12, DOI 10.1145/2792982
+   Holohan N, 2019, Arxiv, DOI arXiv:1907.02444
+   Liu JM, 2012, CONF PROC INT SYMP C, P1, DOI 10.1109/ISCA.2012.6237001
+   Liu JQ, 2018, IEEE INTERNET THINGS, V5, P1206, DOI 10.1109/JIOT.2018.2799820
+   Mironov I, 2012, CCS, P650, DOI [DOI 10.1145/2382196.2382264, DOI 10.1145/2382196]
+   Na Gong, 2012, 2012 IEEE 25th International SOC Conference (SOCC), P21, DOI 10.1109/SOCC.2012.6398371
+   Xu YW, 2021, IEEE T SUST COMPUT, V6, P559, DOI 10.1109/TSUSC.2020.2999882
+   Xu YW, 2020, IEEE T CIRC SYST VID, V30, P256, DOI 10.1109/TCSVT.2018.2890383
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 49
+EP 58
+DI 10.1109/MM.2023.3337094
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500004
+DA 2024-08-05
+ER
+
+PT J
+AU Oliveira, R
+   Gavrilovska, A
+AF Oliveira, Rafael
+   Gavrilovska, Ada
+TI Comprex: In-Network Compression for Accelerating IoT Analytics at Scale
+SO IEEE MICRO
+LA English
+DT Article
+DE Internet of Things; Kernel; Engines; Servers; Throughput; Scalability;
+   Runtime
+AB To enable the Internet of Things (IoT) to scale at the level of next-generation smart cities and grids, there is a need for a cost-effective infrastructure for hosting IoT analytics applications. Offload and acceleration via smartNICs have been shown to provide benefits to these workloads. However, even with offload, long-term analysis on IoT data still needs to operate on a massive number of device updates, often in the form of small messages. Despite offloading, the ingestion of these updates continues to present server bottlenecks. In this article, we present domain-specific compression and batching engines that leverage the unique properties of IoT messages to reduce the load on analytics servers and improve their scalability. Using a prototype system based on InnovaFlex programmable smartNICs and several representative IoT benchmarks, we demonstrate that these techniques achieve up to 7$\times$x improvement over existing offload approaches.
+C1 [Oliveira, Rafael; Gavrilovska, Ada] Georgia Inst Technol, Sch Comp Sci, Atlanta, GA 30318 USA.
+C3 University System of Georgia; Georgia Institute of Technology
+RP Oliveira, R (corresponding author), Georgia Inst Technol, Sch Comp Sci, Atlanta, GA 30318 USA.
+EM roliveira86@gatech.edu; ada@cc.gatech.edu
+FU National Science Foundation [SPX-1822972, CNS-2016701]; ADA center, via
+   the SRC program; ADA center, via the DARPA JUMP program; PRISM center,
+   via the SRC program; PRISM center, via the DARPA JUMP program
+FX We thank the anonymous reviewers for their valuable feedback. Hardik
+   Sharma, Haggai Eran, Hadi Esmaelizadeh, and Mark Silberstein helped in
+   various stagesof this project. This work was supported in part by
+   National Science Foundation awards SPX-1822972 and CNS-2016701, and by
+   the ADA and PRISM centers, via the joint SRC and DARPA JUMP programs.
+CR Abali B, 2020, ANN I S COM, P1, DOI 10.1109/ISCA45697.2020.00012
+   Eran H, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P345
+   Hoefler T, 2017, SC'17: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS, DOI 10.1145/3126908.3126970
+   Krishnan V, 2020, SYMP HI PER INT, P17, DOI 10.1109/HOTI51249.2020.00018
+   Lin JX, 2020, PROCEEDINGS OF THE 14TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '20), P243
+   Lu X., 2020, 3 USENIX WORKSHOP HO, P1
+   Oliveira R, 2023, SYMP HI PER INT, P15, DOI 10.1109/HOTI59126.2023.00017
+   Schonbein W, 2019, PROCEEDINGS OF SC19: THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS, DOI 10.1145/3295500.3356153
+   Shukla A, 2017, Arxiv, DOI arXiv:1701.08530
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 20
+EP 30
+DI 10.1109/MM.2023.3343498
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NC5P9
+UT WOS:001198266500004
+DA 2024-08-05
+ER
+
+PT J
+AU Kim, B
+   Cha, S
+   Park, S
+   Lee, J
+   Lee, S
+   Kang, SH
+   So, J
+   Kim, K
+   Jung, J
+   Lee, JG
+   Lee, S
+   Paik, Y
+   Kim, H
+   Kim, JS
+   Lee, WJ
+   Ro, Y
+   Cho, Y
+   Kim, JH
+   Song, J
+   Yu, J
+   Lee, S
+   Cho, J
+   Sohn, K
+AF Kim, Byeongho
+   Cha, Sanghoon
+   Park, Sangsoo
+   Lee, Jieun
+   Lee, Sukhan
+   Kang, Shin-haeng
+   So, Jinin
+   Kim, Kyungsoo
+   Jung, Jin
+   Lee, Jong-Geon
+   Lee, Sunjung
+   Paik, Yoonah
+   Kim, Hyeonsu
+   Kim, Jin-Seong
+   Lee, Won-Jo
+   Ro, Yuhwan
+   Cho, Yeongon
+   Kim, Jin Hyun
+   Song, Joonho
+   Yu, Jaehoon
+   Lee, Seungwon
+   Cho, Jeonghyeon
+   Sohn, Kyomin
+TI The Breakthrough Memory Solutions for Improved Performance on LLM
+   Inference
+SO IEEE MICRO
+LA English
+DT Article
+DE Memory management; Random access memory; Bandwidth; Decoding; Task
+   analysis; Microprocessors; Computational modeling
+AB Large language models (LLMs) have changed our lives, but they require unprecedented computing resources-especially large memory capacity and high bandwidth to process weights. However, while the logic process was developing, the speed of development of the memory process could not keep up, causing problems that resulted in the performance of LLMs being hindered by memory. Samsung has introduced breakthrough processing-in-memory/processing-near-memory (PIM/PNM) solutions that enhance the main memory bandwidth. With the high bandwidth memory PIM-based GPU-cluster system and LPDDR5-PIM-based system, the performance of transformer-based LLMs improved by up to 1.9x and 2.7x, respectively. The Compute eXpress Link (CXL)-based PNM solution serves memory-centric computing systems by implementing logic inside the CXL memory controller. This results in a performance gain of more than 4.4x with an energy reduction of about 53% with PNM. Furthermore, we provide PIM/PNM software stacks, including an AI compiler targeting the acceleration of AI models.
+C1 [Kim, Byeongho; Park, Sangsoo; Lee, Jieun; Lee, Sukhan; Kang, Shin-haeng; So, Jinin; Kim, Kyungsoo; Jung, Jin; Kim, Jin Hyun; Sohn, Kyomin] Samsung Elect, Hwaseong 443743, South Korea.
+   [Cha, Sanghoon; Lee, Sunjung; Paik, Yoonah; Kim, Hyeonsu; Kim, Jin-Seong; Lee, Won-Jo; Ro, Yuhwan; Cho, Yeongon; Song, Joonho; Yu, Jaehoon; Cho, Jeonghyeon] Samsung Elect, Samsung Adv Inst Technol SAIT, Hwaseong 443743, South Korea.
+   [Lee, Jong-Geon] Samsung Elect, Hwaseong 443743, Gyeonggi Do, South Korea.
+   [Yu, Jaehoon] Samsung Elect, Comp Architecture Tech Unit, Samsung Adv Inst Technol SAIT, Hwaseong 443743, South Korea.
+C3 Samsung; Samsung Electronics; Samsung Electronics; Samsung; Samsung
+   Electronics; Samsung; Samsung Electronics; Samsung
+RP Kim, B (corresponding author), Samsung Elect, Hwaseong 443743, South Korea.
+EM bh1122.kim@samsung.com; s.h.cha@samsung.com; ss23.park@samsung.com;
+   jieun308.lee@samsung.com; sh1026.lee@samsung.com; s-h.kang@samsung.com;
+   jinin.so@samsung.com; ks322.kim@samsung.com; jina.jung@samsung.com;
+   jg1021.lee@samsung.com; sj7748.lee@samsung.com; yoonah.paik@samsung.com;
+   hyeonsu.kim@samsung.com; jseong82.kim@samsung.com; w-j.lee@samsung.com;
+   yuhwan.ro@samsung.com; yeongon.cho@samsung.com; kjh5555@samsung.com;
+   joonho71.song@samsung.com; jae-hoon.yu@samsung.com;
+   seungw.lee@samsung.com; caleb1@samsung.com; kyomin.sohn@samsung.com
+CR [Anonymous], How much does electricity cost by state?
+   Brown T. B., 2020, P 34 INT C NEURAL IN, P1
+   Dao T., 2022, P 36 C NEUR INF PROC
+   Hong S, 2022, INT SYMP MICROARCH, P616, DOI 10.1109/MICRO56248.2022.00051
+   Ke L, 2022, IEEE MICRO, V42, P116, DOI 10.1109/MM.2021.3097700
+   Kim J. H., 2023, P IEEE HOT CHIPS 35, P1, DOI [10.1109/HCS59251.2023.10254711, DOI 10.1109/HCS59251.2023.10254711]
+   Lee S, 2021, CONF PROC INT SYMP C, P43, DOI 10.1109/ISCA52012.2021.00013
+   Park S. J, 2022, P IEEE HOT CHIPS 34, P1, DOI [10.1109/HCS55958.2022.9895633, DOI 10.1109/HCS55958.2022.9895633]
+   Sun Y, 2023, Arxiv, DOI arXiv:2303.15375
+   Xiao G., 2023, P INT C MACH LEARN I
+NR 10
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 40
+EP 48
+DI 10.1109/MM.2024.3375352
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000008
+DA 2024-08-05
+ER
+
+PT J
+AU Levy, S
+   Schonbein, W
+AF Levy, Scott
+   Schonbein, Whit
+TI Special Issue on Hot Interconnects 30
+SO IEEE MICRO
+LA English
+DT Article
+AB The IEEE Hot Interconnects Symposium celebrated its 30th year in 2023 with an exceptional series of presentations from industry and academia on the design, implementation, and effective use of high-performance interconnects. A core role of the Symposium is to promote the dissemination of cutting-edge research in the field. To this end, the 2023 Symposium included eight peer-reviewed presentations. This special issue of IEEE Micro presents revised and expanded versions of five of the best of these contributions.
+C1 [Levy, Scott; Schonbein, Whit] Sandia Natl Labs, Albuquerque, NM 87185 USA.
+C3 United States Department of Energy (DOE); Sandia National Laboratories
+RP Levy, S (corresponding author), Sandia Natl Labs, Albuquerque, NM 87185 USA.
+EM sllevy@sandia.gov; wwschon@sandia.gov
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 6
+EP 7
+DI 10.1109/MM.2024.3373338
+PG 2
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NC5P9
+UT WOS:001198266500007
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Kubo, T
+   Takamaeda-Yamazaki, S
+AF Kubo, Tatsuya
+   Takamaeda-Yamazaki, Shinya
+TI Cachet: Low-Overhead Integrity Verification on Metadata Cache in Secure
+   Nonvolatile Memory Systems
+SO IEEE MICRO
+LA English
+DT Article
+DE Metadata; Nonvolatile memory; Computer crashes; Encryption; Registers;
+   Random access memory; Data privacy; Data integrity; Security management
+ID ENCRYPTION
+AB Data confidentiality, integrity, and persistence are essential in secure nonvolatile memory (NVM) systems. However, coupling authenticated memory encryption with security metadata persistence incurs nonnegligible performance overheads. Particularly, the integrity update process for the metadata cache bottlenecks execution performance. In this article, we propose Cachet, a novel integrity verification scheme. Instead of integrity trees, which require multiple hash calculations to update their integrity, Cachet employs set hash functions to authenticate the metadata cache. The observation that underlies Cachet is that the integrity of the metadata cache is never verified at runtime, and the recovery process necessitates the restoration of all data within the metadata cache. Cachet allows the metadata integrity update with two parallel hash calculations, without imposing additional overheads during system recovery. Our evaluation results show that Cachet reduces execution time by 21%, NVM writes by 30%, and power consumption overheads by 22% compared to state-of-the-art solutions.
+C1 [Kubo, Tatsuya; Takamaeda-Yamazaki, Shinya] Univ Tokyo, Tokyo 1138656, Japan.
+C3 University of Tokyo
+RP Kubo, T (corresponding author), Univ Tokyo, Tokyo 1138656, Japan.
+EM tatsuya.kubo@is.s.u-tokyo.ac.jp; shinya@is.s.u-tokyo.ac.jp
+OI Takamaeda-Yamazaki, Shinya/0000-0003-3441-1695
+FU Japan Society for the Promotion of Science
+FX No Statement Available
+CR Alwadi M, 2022, IEEE T DEPEND SECURE, V19, P1049, DOI 10.1109/TDSC.2020.3020085
+   Chen ZG, 2021, IEEE T COMPUT AID D, V40, P1340, DOI 10.1109/TCAD.2020.3015925
+   Clarke D, 2003, LECT NOTES COMPUT SC, V2894, P188
+   Costan V., 2016, IACR Cryptology ePrint Archive, V2016, P1, DOI DOI 10.1159/000088809
+   Huang JM, 2023, INT S HIGH PERF COMP, P152, DOI 10.1109/HPCA56546.2023.10071003
+   Inoue A, 2022, IEEE T INF FOREN SEC, V17, P2628, DOI 10.1109/TIFS.2022.3188146
+   Lei MY, 2022, ACM T ARCHIT CODE OP, V19, DOI 10.1145/3488724
+   Mathew S, 2015, IEEE J SOLID-ST CIRC, V50, P1048, DOI 10.1109/JSSC.2014.2384039
+   Potlapally NR, 2003, ISLPED'03: PROCEEDINGS OF THE 2003 INTERNATIONAL SYMPOSIUM ON LOW POWER ELECTRONICS AND DESIGN, P30, DOI 10.1145/871506.871518
+   Rogers B, 2007, INT SYMP MICROARCH, P183, DOI 10.1109/MICRO.2007.16
+   Suh GE, 2003, 36TH INTERNATIONAL SYMPOSIUM ON MICROARCHITECTURE, PROCEEDINGS, P339
+   Ye M., 2018, Tech.Rep.SAND2018-9727C
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 38
+EP 48
+DI 10.1109/MM.2023.3335354
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500010
+DA 2024-08-05
+ER
+
+PT J
+AU Sharma, DD
+   Choudhary, S
+AF Sharma, Debendra Das
+   Choudhary, Swadesh
+TI Pipelined and Partitionable Forward Error Correction and Cyclic
+   Redundancy Check Circuitry Implementation for PCI Express 6.0 and
+   Compute Express Link 3.0
+SO IEEE MICRO
+LA English
+DT Article
+DE Forward error correction; Logic gates; Symbols; Decoding; Protocols;
+   Layout; Cyclic redundancy check
+AB The sixth generation of PCIe (PCIe 6.0) specification adopted four-level pulse-amplitude modulation signaling at 64 GT/s for maintaining the same channel reach, cost, and power profile as previous generations. Lightweight forward error correction (FEC), a strong cyclic redundancy check (CRC), and link-level replay mechanisms deliver low latency, high bandwidth efficiency, and high reliability. Compute Express Link (CXL) uses PCIe 6.0 physical layer with latency-optimization mechanisms. Our nonpipelined implementation of FEC and the CRC is incorporated into PCIe 6.0 and CXL 3.0 specifications. We also propose a partitionable and pipelined implementation for FEC and the CRC for lowering gate count and latency. Synthesis results from the Synopsys Design Compiler demonstrates that for a 16-lane (x16) PCIe/CXL link partitionable to up to x4s, with four independent controllers using independently partitionable logic, we achieve a gate count of approximately 100,000 for the transmit and receive side with a FEC + CRC delay of less than 1 ns in each direction.
+C1 [Sharma, Debendra Das; Choudhary, Swadesh] Intel Corp, Santa Clara, CA 95052 USA.
+C3 Intel Corporation
+RP Sharma, DD (corresponding author), Intel Corp, Santa Clara, CA 95052 USA.
+EM debendra.das.sharma@intel.com; swadesh.choudhary@intel.com
+OI Das Sharma, Debendra/0000-0003-1530-7788
+CR [Anonymous], 2019, AN 835: PAM4 Signaling Fundamentals
+   B&B Electronics, Wikipedia
+   computeexpresslink, ComputeExpress Link
+   Das Sharma D, 2021, IEEE MICRO, V41, P23, DOI 10.1109/MM.2020.3039925
+   Lin D. J., 1983, Error Control Coding:Fundamentals and Applications, V11
+   Liu C., 2019, Signal Integrity J.
+   members.pcisig, PCI-SIG
+   Pradhan DK., 1986, FAULT TOLERANT COMPU, V1
+   Sharma Das, 2023, IEEE S HIGH PERF INT
+   Sharma DD, 2022, IEEE MICRO, V42, P37, DOI 10.1109/MM.2021.3137807
+   Wang T., IEEE Standard802.3 NG-ECDC
+NR 11
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 50
+EP 59
+DI 10.1109/MM.2023.3328832
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NC5P9
+UT WOS:001198266500001
+DA 2024-08-05
+ER
+
+PT J
+AU Kim, S
+   Kim, S
+   Hong, SY
+   Kim, S
+   Choi, J
+   Han, DHY
+   Yoo, HJ
+AF Kim, Sangyeob
+   Kim, Soyeon
+   Hong, Seongyon
+   Kim, Sangjin
+   Choi, Jiwon
+   Han, Donghyeon
+   Yoo, Hoi-Jun
+TI COOL-NPU: Complementary Online Learning Neural Processing Unit
+SO IEEE MICRO
+LA English
+DT Article
+DE Training; Neurons; Synapses; Encoding; Object detection; Computer
+   architecture; Power demand; Electronic learning
+AB The authors propose a complementary online learning neural processing unit (COOL-NPU) to implement a highly accurate and high-energy-efficient online learning system. It reduces the energy consumption by combining the training methods of convolutional neural network (CNN) and spiking neural network (SNN) and eliminates the power overhead due to the redundant weight update by training trigger with SNN gradient. The proposed SNN core reduces the energy consumption of SNN-gradient generation by two-step encoding and reduces inference power by hierarchical cache with lookup table -mode. In addition, it supports neuron-level event-driven backward operation to maximize the effect of the training trigger. Fabricated with Samsung 28-nm CMOS technology, the COOL-NPU achieves 6.94 mJ/frame and 0.73 mAP for object detection, resulting in 47.7% energy reduction with a slight accuracy loss compared to previous state of the art.
+C1 [Kim, Sangyeob; Kim, Soyeon; Hong, Seongyon; Kim, Sangjin; Choi, Jiwon; Yoo, Hoi-Jun] Korea Adv Inst Sci & Technol, Daejeon 34141, South Korea.
+   [Han, Donghyeon] MIT, Cambridge, MA 02139 USA.
+C3 Korea Advanced Institute of Science & Technology (KAIST); Massachusetts
+   Institute of Technology (MIT)
+RP Kim, S (corresponding author), Korea Adv Inst Sci & Technol, Daejeon 34141, South Korea.
+EM sangyeob.kim@kaist.ac.kr; soyeon.kim@kaist.ac.kr; sy.hong@kaist.ac.kr;
+   sangjinkim@kaist.ac.kr; jw.choi@kaist.ac.kr; hdh4797@gmail.com;
+   hjyoo@kaist.ac.kr
+OI Choi, Jiwon/0000-0003-1922-0612; Han, Donghyeon/0000-0002-5212-2072;
+   Kim, Sangjin/0000-0001-6665-9973
+CR Chen GK, 2018, SYMP VLSI CIRCUITS, P255, DOI 10.1109/VLSIC.2018.8502423
+   Han D, 2021, IEEE J SOLID-ST CIRC, V56, P2858, DOI 10.1109/JSSC.2021.3066400
+   Kang S, 2021, IEEE J SOLID-ST CIRC, V56, P2845, DOI 10.1109/JSSC.2021.3066572
+   Kim S, 2023, PROC IEEE COOL CHIPS, DOI 10.1109/COOLCHIPS57690.2023.10121940
+   Lee J, 2019, ISSCC DIG TECH PAP I, V62, P142, DOI 10.1109/ISSCC.2019.8662302
+   Li SX, 2021, IEEE T CIRCUITS-I, V68, P1543, DOI 10.1109/TCSI.2021.3052885
+   Liu Ying, 2022, 2022 IEEE International Solid- State Circuits Conference (ISSCC), P372, DOI 10.1109/ISSCC42614.2022.9731795
+   Park J, 2020, IEEE J SOLID-ST CIRC, V55, P108, DOI 10.1109/JSSC.2019.2942367
+   Rathi N, 2023, IEEE T NEUR NET LEAR, V34, P3174, DOI 10.1109/TNNLS.2021.3111897
+   Wu JB, 2022, IEEE T PATTERN ANAL, V44, P7824, DOI 10.1109/TPAMI.2021.3114196
+   Wu JB, 2023, IEEE T NEUR NET LEAR, V34, P446, DOI 10.1109/TNNLS.2021.3095724
+   Yan ZL, 2021, AAAI CONF ARTIF INTE, V35, P10577
+NR 12
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 28
+EP 37
+DI 10.1109/MM.2023.3330169
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500003
+DA 2024-08-05
+ER
+
+PT J
+AU Gholami, A
+   Yao, ZW
+   Kim, S
+   Hooper, C
+   Mahoney, MW
+   Keutzer, K
+AF Gholami, Amir
+   Yao, Zhewei
+   Kim, Sehoon
+   Hooper, Coleman
+   Mahoney, Michael W.
+   Keutzer, Kurt
+TI AI and Memory Wall
+SO IEEE MICRO
+LA English
+DT Article
+DE Computational modeling; Training; Transformers; Bandwidth; Arithmetic;
+   Hardware; Data models
+AB The availability of unprecedented unsupervised training data, along with neural scaling laws, has resulted in an unprecedented surge in model size and compute requirements for serving/training large language models. However, the main performance bottleneck is increasingly shifting to memory bandwidth. Over the past 20 years, peak server hardware floating-point operations per second have been scaling at 3.0x per two years, outpacing the growth of dynamic random-access memory and interconnect bandwidth, which have only scaled at 1.6 and 1.4 times every two years, respectively. This disparity has made memory, rather than compute, the primary bottleneck in AI applications, particularly in serving. Here, we analyze encoder and decoder transformer models and show how memory bandwidth can become the dominant bottleneck for decoder models. We argue for a redesign in model architecture, training, and deployment strategies to overcome this memory limitation.
+C1 [Gholami, Amir; Kim, Sehoon; Hooper, Coleman] Univ Calif Berkeley, Berkeley, CA 94720 USA.
+   [Yao, Zhewei] Snowflake Inc, Bellevue, WA 98004 USA.
+   [Mahoney, Michael W.] Univ Calif Berkeley, Dept Stat, Berkeley, CA 94720 USA.
+   [Keutzer, Kurt] Univ Calif Berkeley, Dept Elect Engn & Comp Sci, Berkeley AI Res Lab, Grad Sch, Berkeley, CA 94720 USA.
+C3 University of California System; University of California Berkeley;
+   University of California System; University of California Berkeley;
+   University of California System; University of California Berkeley
+RP Gholami, A (corresponding author), Univ Calif Berkeley, Berkeley, CA 94720 USA.
+EM amirgh@berkeley.edu; zheweiy@berkeley.edu; sehoonkim@berkeley.edu;
+   chooper@berkeley.edu; mmahoney@stat.berkeley.edu; keutzer@berkeley.edu
+CR Brown TB, 2020, Arxiv, DOI [arXiv:2005.14165, 10.48550/arXiv.2005.14165, DOI 10.48550/ARXIV.2005.14165]
+   Devlin J, 2019, Arxiv, DOI arXiv:1810.04805
+   Gholami A., 2022, A survey of quantization methods for efficient neural network inference, P291
+   Hoefler T, 2021, J MACH LEARN RES, V23
+   Rajbhandari S, 2020, PROCEEDINGS OF SC20: THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS (SC20), DOI 10.1109/SC41405.2020.00024
+   Williams S, 2009, COMMUN ACM, V52, P65, DOI 10.1145/1498765.1498785
+   Yao A., 2021, AAAIConf. Artif. Intell., V35, P673, DOI [10.1609/aaai.v35i12.17275n, DOI 10.1609/AAAI.V35I12.17275N]
+NR 7
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 33
+EP 39
+DI 10.1109/MM.2024.3373763
+PG 7
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000012
+DA 2024-08-05
+ER
+
+PT J
+AU Han, D
+   Ryu, J
+   Kim, S
+   Kim, S
+   Park, J
+   Yoo, HJ
+AF Han, Donghyeon
+   Ryu, Junha
+   Kim, Sangyeob
+   Kim, Sangjin
+   Park, Jongjun
+   Yoo, Hoi-Jun
+TI A Low-Power Artificial-Intelligence-Based 3-D Rendering Processor With
+   Hybrid Deep Neural Network Computing
+SO IEEE MICRO
+LA English
+DT Article
+DE Rendering (computer graphics); Three-dimensional displays; Artificial
+   neural networks; Computer architecture; Visual perception; Throughput;
+   Task analysis; Low-power electronics; Metaverse
+AB A low-power artificial intelligence (AI)-based 3-D rendering processor is proposed for metaverse solutions in mobile platforms. It suggests a brain-inspired rendering acceleration architecture designed with a visual perception core. It removes useless computations by realizing 1) spatial attention, 2) temporal familiarity, and 3) top-down attention. The remaining deep neural network (DNN) inference tasks are accelerated by a hybrid neural engine that utilizes both coarse-grained and fine-grained sparsity exploitation simultaneously. It divides the DNN tasks into sparse and dense data and allocates them to the two different neural engines, which focus on zero skipping and data reusability, respectively. Thanks to the centrifugal sampling-based workload prediction, it can dynamically divide DNN computations while minimizing peak signal-to-noise ratio loss caused by the prediction. Fabricated with 28-nm CMOS technology, the processor successfully demonstrates a maximum 118 frames-per-second rendering while consuming 99.95% lower power compared with modern GPUs.
+C1 [Han, Donghyeon] MIT, Cambridge, MA 02139 USA.
+   [Ryu, Junha; Kim, Sangyeob; Kim, Sangjin; Park, Jongjun; Yoo, Hoi-Jun] Korea Adv Inst Sci & Technol, Daejeon 34141, South Korea.
+C3 Massachusetts Institute of Technology (MIT); Korea Advanced Institute of
+   Science & Technology (KAIST)
+RP Han, DHY (corresponding author), MIT, Cambridge, MA 02139 USA.
+EM hdh4797@gmail.com; junha.ryu@kaist.ac.kr; sangyeob.kim@kaist.ac.kr;
+   sangjinkim@kaist.ac.kr; pjjkey@kaist.ac.kr; hjyoo@kaist.ac.kr
+OI Ryu, Junha/0000-0001-8147-3085; Park, Jongjun/0009-0001-0168-1990; Han,
+   Donghyeon/0000-0002-5212-2072; Kim, Sangjin/0000-0001-6665-9973
+FU Institute of Information & Communications Technology Planning Evaluation
+FX No Statement Available
+CR [Anonymous], Tesla V100
+   [Anonymous], GTX 1080 Ti
+   Han D, 2023, PROC IEEE COOL CHIPS, DOI 10.1109/COOLCHIPS57690.2023.10122036
+   Huang YH, 2022, PROC CVPR IEEE, P18321, DOI 10.1109/CVPR52688.2022.01780
+   Kang S, 2021, IEEE J EM SEL TOP C, V11, P634, DOI 10.1109/JETCAS.2021.3120417
+   Li C, 2022, ICCAD-IEEE ACM INT, DOI 10.1145/3508352.3549380
+   Liu L., 2020, Advances in Neural Information Processing Systems, V33, P15651
+   Mildenhall B, 2022, COMMUN ACM, V65, P99, DOI 10.1145/3503250
+   Rao CL, 2022, Arxiv, DOI arXiv:2203.01414
+   Reiser C, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P14315, DOI 10.1109/ICCV48922.2021.01407
+   WHITTED T, 1980, COMMUN ACM, V23, P343, DOI 10.1145/358876.358882
+NR 11
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 17
+EP 27
+DI 10.1109/MM.2023.3328965
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500001
+DA 2024-08-05
+ER
+
+PT J
+AU Gibbs, M
+   Woodward, K
+   Kanjo, E
+AF Gibbs, Michael
+   Woodward, Kieran
+   Kanjo, Eiman
+TI Combining Multiple Tiny Machine Learning Models for Multimodal
+   Context-Aware Stress Recognition on Constrained Microcontrollers
+SO IEEE MICRO
+LA English
+DT Article
+DE Human factors; Stress; Sensors; Human activity recognition;
+   Microcontrollers; Computational modeling; Context modeling
+AB As stress continues to be a major health concern, there is growing interest in developing effective stress management systems that can detect and mitigate stress. Deep neural networks (DNNs) have shown their effectiveness in accurately classifying stress, but most of the existing solutions rely on the cloud or large, obtrusive devices for inference. The emergence of tiny machine learning provides an opportunity to bridge this gap and enable ubiquitous intelligent systems. In this article, we propose a context-aware stress detection approach that uses a microcontroller to continuously infer physical activity to mitigate motion artifacts when inferring stress from heart rate and electrodermal activity. We deploy two DNNs onto a single resource-constrained microcontroller for real-world stress recognition, with the resultant stress and activity recognition models achieving 88% and 98% accuracy, respectively. Our proposed context-aware approach improves the accuracy and privacy of stress detection systems while eliminating the need to store or transmit sensitive health data.
+C1 [Gibbs, Michael; Woodward, Kieran] Nottingham Trent Univ, Smart Sensing Lab, Nottingham NG14FQ, England.
+   [Kanjo, Eiman] Nottingham Trent Univ, Smart Sensing Lab, Nottingham NG1 4FQ, England.
+   [Woodward, Kieran] Imperial Coll London, London SW7 2AZ, England.
+C3 Nottingham Trent University; Nottingham Trent University; Imperial
+   College London
+RP Gibbs, M (corresponding author), Nottingham Trent Univ, Smart Sensing Lab, Nottingham NG14FQ, England.
+EM michael.gibbs@ntu.ac.uk; kieran.woodward@ntu.ac.uk;
+   eiman.kanjo@ntu.ac.uk
+CR de Santos Sierra A., 2010, Proceedings of the 2010 Sixth International Conference on Intelligent Information Hiding and Multimedia Signal Processing (IIHMSP 2010), P364, DOI 10.1109/IIHMSP.2010.95
+   Dedovic K, 2005, J PSYCHIATR NEUROSCI, V30, P319
+   Ghibellini Alessandro, 2022, 2022 IEEE 19th Annual Consumer Communications & Networking Conference (CCNC), P707, DOI 10.1109/CCNC49033.2022.9700665
+   Gupta Shubham, 2022, Journal of Physics: Conference Series, V2273, DOI 10.1088/1742-6596/2273/1/012025
+   Healey JA, 2005, IEEE T INTELL TRANSP, V6, P156, DOI 10.1109/TITS.2005.848368
+   Kwapisz G. M., 2011, SIGKDD Explor. Newsl, V12, P74, DOI 10.1145/1964897.1964918
+   Lee SM, 2017, INT CONF BIG DATA, P131, DOI 10.1109/BIGCOMP.2017.7881728
+   Schneiderman N, 2005, ANNU REV CLIN PSYCHO, V1, P607, DOI 10.1146/annurev.clinpsy.1.102803.144141
+   Tjonck K., 2021, P 30 INT SCI C EL ET, P1, DOI [10.1109/ET52713.2021.9579991, DOI 10.1109/ET52713.2021.9579991]
+   Vieluf S, 2019, FRONT PHYSIOL, V10, DOI 10.3389/fphys.2019.00240
+   Woodward K, 2021, IEEE INT SM C CONF, DOI 10.1109/ISC253183.2021.9562774
+   Zebin T, 2019, IEEE ACCESS, V7, P133509, DOI 10.1109/ACCESS.2019.2941836
+NR 12
+TC 1
+Z9 1
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 67
+EP 75
+DI 10.1109/MM.2023.3329218
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000005
+OA Green Published
+DA 2024-08-05
+ER
+
+PT J
+AU Sumbul, HE
+   Seo, JS
+   Morris, DH
+   Beigne, E
+AF Sumbul, H. Ekin
+   Seo, Jae-sun
+   Morris, Daniel H.
+   Beigne, Edith
+TI A Fully Digital and Row-Pipelined Compute-in-Memory Neural Network
+   Accelerator With System-on-Chip-Level Benchmarking for Augmented/Virtual
+   Reality Applications
+SO IEEE MICRO
+LA English
+DT Article
+DE Common Information Model (computing); Energy efficiency; Artificial
+   neural networks; Random access memory; Computer architecture; Arrays;
+   Throughput
+AB Compute-in-memory (CIM) has emerged as an effective technique to address memory access bottlenecks for deep neural networks (DNNs). Augmented/virtual reality (AR/VR) devices require running high-performance DNN inference at tight power budgets, making CIMs ideal candidates for low-power on-device acceleration. While high energy efficiencies have been reported at the CIM macro levels, the energy efficiencies of CIM-based accelerators at the system-on-chip (SoC) level have been underexplored for realistic system integration considerations. In this work, we present a CIM accelerator architecture comprising 16 row-pipelined, fully digital CIM macros and provide a comprehensive analysis of CIM energy-efficiency benefits at the SoC level targeting representative AR/VR workloads. Two key results are as follows. 1) Realistic SoC-level CIM accelerator energy efficiency may be similar to 50% lower than the CIM macro-level peak energy efficiency when additional logic, memory hierarchies, and NN-dependent suboptimal compute utilization are considered. 2) The CIM accelerator still demonstrates up to similar to 2.1x energy savings at the SoC level compared to a systolic-array-based DNN accelerator at iso-peak throughput.
+C1 [Sumbul, H. Ekin; Seo, Jae-sun; Morris, Daniel H.; Beigne, Edith] Meta, Real Labs, Sunnyvale, CA 94089 USA.
+RP Sumbul, HE (corresponding author), Meta, Real Labs, Sunnyvale, CA 94089 USA.
+EM ekinsumbul@meta.com; jaesunseo@meta.com; dhmorris@meta.com;
+   edith.beigne@gmail.com
+CR Abrash M, 2021, INT EL DEVICES MEET, DOI 10.1109/IEDM19574.2021.9720526
+   Akinyelu AA, 2020, IEEE ACCESS, V8, P142581, DOI 10.1109/ACCESS.2020.3013540
+   Desoli Giuseppe, 2023, 2023 IEEE International Solid- State Circuits Conference (ISSCC), P260, DOI 10.1109/ISSCC42615.2023.10067422
+   Eckert C, 2023, IEEE T COMPUT, V72, P1539, DOI 10.1109/TC.2022.3214151
+   Fujiwara H., 2022 IEEE International Solid- State Circuits Conference (ISSCC), V2022, P1, DOI [10.1109/ISSCC42614.2022.9731754, DOI 10.1109/ISSCC42614.2022.9731754]
+   Hannun A, 2019, Arxiv, DOI arXiv:1904.02619
+   Liu Shiwei, 2023, 2023 IEEE International Solid- State Circuits Conference (ISSCC), P250, DOI 10.1109/ISSCC42615.2023.10067360
+   Ma SG, 2021, PROC CVPR IEEE, P64, DOI 10.1109/CVPR46437.2021.00013
+   Sumbul H. E., 2022, P IEEE CUST INT CIRC, P1, DOI [10.1109/CICC53496.2022.9772810, DOI 10.1109/CICC53496.2022.9772810]
+   Yang LT, 2022, IEEE MICRO, V42, P116, DOI 10.1109/MM.2022.3202254
+   Zhang B, 2023, IEEE J SOLID-ST CIRC, V58, P1436, DOI 10.1109/JSSC.2022.3211290
+   Zimmer B, 2020, IEEE J SOLID-ST CIRC, V55, P920, DOI 10.1109/JSSC.2019.2960488
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 61
+EP 70
+DI 10.1109/MM.2023.3338059
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NC5P9
+UT WOS:001198266500005
+DA 2024-08-05
+ER
+
+PT J
+AU Egawa, R
+   Wada, Y
+AF Egawa, Ryusuke
+   Wada, Yasutaka
+TI Special Issue on COOL Chips
+SO IEEE MICRO
+LA English
+DT Article
+DE Special issues and sections; Low-power electronics; Chip scale
+   packaging; High-speed electronics; Performance evaluation; Energy
+   consumption
+AB This introduction to the special issue on low-power, high speed chips (COOL chips) discusses state-of-the-art COOL chips and the challenges facing researchers. It introduces four articles exploring different solutions for reducing power consumption and enhancing chip performance.
+C1 [Egawa, Ryusuke] Tokyo Denki Univ, Tokyo 1208551, Japan.
+   [Wada, Yasutaka] Meisei Univ, Tokyo 1918506, Japan.
+C3 Tokyo Denki University; Meisei University
+RP Egawa, R (corresponding author), Tokyo Denki Univ, Tokyo 1208551, Japan.
+EM egawa@mail.dendai.ac.jp; yasutaka.wada@meisei-u.ac.jp
+NR 0
+TC 0
+Z9 0
+U1 5
+U2 5
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 6
+EP 7
+DI 10.1109/MM.2024.3353949
+PG 2
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500007
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Lie, S
+AF Lie, Sean
+TI Inside the Cerebras Wafer-Scale Cluster
+SO IEEE MICRO
+LA English
+DT Article
+DE Computational modeling; Graphics processing units; Computer
+   architecture; Training; Parallel processing; Semiconductor device
+   modeling; Complexity theory
+AB The compute and memory demands of machine learning have driven the industry to use clusters of thousands of GPUs to train state-of-the-art models. However, scaling performance on GPU clusters is inherently complex, requires many forms of parallelism, and often has poor scaling performance. The Cerebras Wafer-Scale Cluster provides exafloating-point-operations-per-second-level compute while avoiding these limitations by using only data parallelism. The cluster is built around the CS-2 system with the Wafer-Scale Engine 2 processor that enables even the largest models to run on a single chip without partitioning. This unique property allows the cluster architecture to decouple memory and compute. Model weights are stored in an external memory device, MemoryX, and compute scaling is enabled using a special broadcast-reduce fabric, SwarmX. This article describes the challenges of GPU scaling and details the internal design of the Cerebras Wafer-Scale Cluster architecture and its unique ability to overcome these challenges.
+C1 [Lie, Sean] Cerebras Syst, Sunnyvale, CA 94085 USA.
+RP Lie, S (corresponding author), Cerebras Syst, Sunnyvale, CA 94085 USA.
+EM sean_lie@hotmail.com
+CR Achiam OJ, 2023, Arxiv, DOI arXiv:2303.08774
+   [Anonymous], "V100 data sheet
+   [Anonymous], 2023, DeepSpeed
+   [Anonymous], "H100 data sheet
+   [Anonymous], 2014, "InfiniBandTMarchitecture specification release 1.2.1annex A17: RoCEv2
+   [Anonymous], "A100 data sheet
+   [Anonymous], "P100 data sheet
+   Devlin J, 2019, Arxiv, DOI arXiv:1810.04805
+   Dey N., arXiv
+   "Epoch database, "Epoch
+   Lie S., 2021, P IEEE HOT CHIPS 33, P1
+   Lie S, 2023, IEEE MICRO, V43, P18, DOI 10.1109/MM.2023.3256384
+   Moore GE, 1965, ELECTRONICS, V38, P114
+   Sengupta N., 2023, PREPRINT
+   Touvron H, 2023, Arxiv, DOI [arXiv:2302.13971, DOI 10.48550/ARXIV.2302.13971]
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 49
+EP 57
+DI 10.1109/MM.2024.3386628
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000007
+DA 2024-08-05
+ER
+
+PT J
+AU Yi, JJ
+AF Yi, Joshua J.
+TI Analysis of Historical Patenting Behavior and Patent Characteristics of
+   Computer Architecture Companies-Part X: Patent Families
+SO IEEE MICRO
+LA English
+DT Article
+AB This article is the next article in the series on the patenting behavior and characteristics of computer architecture companies. This article continues to analyze the characteristics for patent families.
+C1 [Yi, Joshua J.] PLLC, Law Off Joshua J Yi, Austin, TX 78750 USA.
+RP Yi, JJ (corresponding author), PLLC, Law Off Joshua J Yi, Austin, TX 78750 USA.
+EM josh@joshuayipatentlaw.com
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 76
+EP 80
+DI 10.1109/MM.2024.3394670
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000002
+DA 2024-08-05
+ER
+
+PT J
+AU Lee, HHS
+AF Lee, Hsien-Hsin S.
+TI Beyond Wires: The Future of Interconnects
+SO IEEE MICRO
+LA English
+DT Article
+AB This issue introduces a selection of outstanding papers originally presented at Hot Interconnects (HotI-30) in 2023 and features an article from Meta Reality Labs exploring the use of compute-in-memory for AR/VR applications.
+C1 [Lee, Hsien-Hsin S.] Intel Corp, Hudson, MA 01749 USA.
+C3 Intel Corporation
+RP Lee, HHS (corresponding author), Intel Corp, Hudson, MA 01749 USA.
+EM lee.sean@gmail.com
+OI Lee, Hsien-Hsin Sean/0000-0002-8926-8243
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 4
+EP 5
+DI 10.1109/MM.2024.3373336
+PG 2
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NC5P9
+UT WOS:001198266500009
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Nugier, C
+   Migliore, V
+AF Nugier, Cyrius
+   Migliore, Vincent
+TI Acceleration of a Classic McEliece Postquantum Cryptosystem With Cache
+   Processing
+SO IEEE MICRO
+LA English
+DT Article
+DE Computer architecture; Public key; Cryptography; Sensors; Security;
+   Registers; NIST Standards; Cache storage
+AB The National Institute of Standards and Technology's postquantum cryptography standardization process is in its fourth round, with a first key encapsulation mechanism standard based on learning with errors and three candidates based on error-correcting codes. These primitives' implementation are designed to be optimal on classical hardware architecture targets. However, emerging architectures with processing in memory (PIM), made to be multipurpose, contrary to cryptographic coprocessors, have proven their efficiency in multiple use cases and show better overall computational speed. In this article, we show that classic McEliece performance can be improved on PIM architectures. Notably, the public-key-generation benefits of a 12.6x speedup on architectures with bit-line operations. We also describe an open source RISC-V simulator specifically developed for our experiments, including both in-cache and vectored operations. We discuss how these architecture changes may open the possibility of redesigning primitives or parameter sets for better efficiency.
+C1 [Nugier, Cyrius] Univ Toulouse, Lab Anal & Architecture Syst, Cryptog, F-31031 Toulouse, France.
+   [Migliore, Vincent] Univ Toulouse, F-31031 Toulouse, France.
+C3 Universite de Toulouse; Universite de Toulouse
+RP Nugier, C (corresponding author), Univ Toulouse, Lab Anal & Architecture Syst, Cryptog, F-31031 Toulouse, France.
+EM cnugier@laas.fr; vmiglior@laas.fr
+OI Nugier, Cyrius/0000-0003-1276-0296
+CR Aga S, 2017, INT S HIGH PERF COMP, P481, DOI 10.1109/HPCA.2017.21
+   [Anonymous], 2019, Round 2 of the NIST PQC "competition"-What was NIST thinking?
+   [Anonymous], 2021, PQC standardization process: Announcing four candidates to be standardized, plus fourth round candidates
+   Bernstein D. J., 2021, eBACS: ECRYPT Benchmarking of Cryptographic Systems
+   Eckert C, 2018, CONF PROC INT SYMP C, P383, DOI 10.1109/ISCA.2018.00040
+   Fujiki D, 2019, PROCEEDINGS OF THE 2019 46TH INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE (ISCA '19), P397, DOI 10.1145/3307650.3322257
+   Jeloka S, 2016, IEEE J SOLID-ST CIRC, V51, P1009, DOI 10.1109/JSSC.2016.2515510
+   Kohútka L, 2017, MEDD C EMBED COMPUT, P34
+   Kothariand G., 2020, MARSS-RISCV: Micro-Architectural System Simulator for RISC-V
+   McEliece R. J., 1978, CODING THV, V4244, P114
+   Migliore V., 2023, RISC-V Simulator with PIM Operations
+   Wang JC, 2020, IEEE J SOLID-ST CIRC, V55, P76, DOI 10.1109/JSSC.2019.2939682
+NR 12
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 59
+EP 68
+DI 10.1109/MM.2023.3304425
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500005
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Yi, JJ
+AF Yi, Joshua J.
+TI Analysis of Historical Patenting Behavior and Patent Characteristics of
+   Computer Architecture Companies- Part VIII: Patent Families
+SO IEEE MICRO
+LA English
+DT Article
+DE Patents; Computer architecture; Behavioral sciences; Information
+   analysis; Business
+AB This article is the next article in the series on the patenting behavior and characteristics of computer architecture companies. This article analyzes the characteristics for patent families.
+C1 [Yi, Joshua J.] Law Off Joshua J Yi PLLC, Austin, TX 78750 USA.
+RP Yi, JJ (corresponding author), Law Off Joshua J Yi PLLC, Austin, TX 78750 USA.
+EM josh@joshuayipatentlaw.com
+NR 0
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 70
+EP 74
+DI 10.1109/MM.2024.3353948
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500008
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Dai, LY
+   Qi, H
+   Chen, WC
+   Lu, XY
+AF Dai, Liuyao
+   Qi, Hao
+   Chen, Weicong
+   Lu, Xiaoyi
+TI High-Speed Data Communication With Advanced Networks in Large Language
+   Model Training
+SO IEEE MICRO
+LA English
+DT Article
+DE Training; Parallel processing; Data models; Computational modeling;
+   Decoding; TCPIP; Synchronization
+AB Large language models (LLMs) like Generative Pre-trained Transformer, Bidirectional Encoder Representations from Transformers, and T5 are pivotal in natural language processing. Their distributed training is influenced by high-speed interconnects. This article characterizes their training performance across various interconnects and communication protocols: TCP/IP, Internet Protocol over InfiniBand, (IPoIB), and Remote Direct Memory Access (RDMA), using data and model parallelism. RDMA-100 Gbps outperforms IPoIB-100 Gbps and TCP/IP-10 Gbps, with average gains of 2.5x and 4.8x in data parallelism, while in model parallelism, the gains were 1.1x and 1.2x. RDMA achieves the highest interconnect utilization (up to 60 Gbps), compared to IPoIB with up to 20 Gbps and TCP/IP with up to 9 Gbps. Larger models demand increased communication bandwidth, with AllReduce in data parallelism consuming up to 91% of training time, and forward receive and back-embedding AllReduce in model parallelism taking up to 90%. The larger-scale experiment confirms that communication predominates iterations. Our findings underscore the significance of communication in distributed LLM training and present opportunities for optimization.
+C1 [Dai, Liuyao; Qi, Hao; Chen, Weicong] Univ Calif Merced, Dept Comp Sci & Engn, Parallel & Distributed Syst Lab, Merced, CA 95343 USA.
+   [Lu, Xiaoyi] Univ Calif Merced, Dept Comp Sci & Engn, Merced, CA 95343 USA.
+C3 University of California System; University of California Merced;
+   University of California System; University of California Merced
+RP Dai, LY (corresponding author), Univ Calif Merced, Dept Comp Sci & Engn, Parallel & Distributed Syst Lab, Merced, CA 95343 USA.
+EM ldai8@ucmerced.edu; hqi6@ucmerced.edu; wchen97@ucmerced.edu;
+   xiaoyi.lu@ucmerced.edu
+OI Dai, Liuyao/0000-0002-0907-6920; Lu, Xiaoyi/0000-0001-7581-8905; Chen,
+   Weicong/0000-0003-0573-8808
+FU Office of Advanced Cyberinfrastructure
+FX No Statement Available
+CR [Anonymous], GPT-4
+   CERF VG, 1974, IEEE T COMMUN, VCO22, P637, DOI 10.1109/TCOM.1974.1092259
+   Dean J., 2012, Advances in Neural Information Processing Systems, P1232
+   Devlin J, 2019, Arxiv, DOI arXiv:1810.04805
+   Huang Yanping, 2019, GPipe: Efficient Training of Giant Neural Networks Using Pipeline Parallelism
+   Kashyap V., 2006, Tech. Rep., RFC 4392
+   Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386
+   Narayanan D, 2021, INT CONF HIGH PERFOR, DOI 10.1145/3458817.3476209
+   Qi H, 2023, SYMP HI PER INT, P53, DOI 10.1109/HOTI59126.2023.00022
+   Radford A., 2019, OpenAI blog, V1, P9
+   Raffel C, 2020, J MACH LEARN RES, V21
+   Recio R., 2007, document RFC 5040
+NR 12
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 31
+EP 40
+DI 10.1109/MM.2024.3360081
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NC5P9
+UT WOS:001198266500002
+DA 2024-08-05
+ER
+
+PT J
+AU Subramony, M
+   Kramer, D
+   Paul, I
+AF Subramony, Mahesh
+   Kramer, David
+   Paul, Indrani
+TI AMD Ryzen 7040 Series
+SO IEEE MICRO
+LA English
+DT Article
+DE Engines; Program processors; Computer architecture; DNA; Artificial
+   intelligence; Fabrics; Power system management
+AB The AMD Ryzen 7040 Series processors are designed to strike the right balance between domain-specific accelerators and general-purpose compute. The system on chip features "Zen 4," RDNA 3, AMD XDNA architecture, and additional accelerators with a focus on delivering power-efficient performance.
+C1 [Subramony, Mahesh; Kramer, David; Paul, Indrani] AMD, Austin, TX 78735 USA.
+RP Subramony, M (corresponding author), AMD, Austin, TX 78735 USA.
+EM mahesh.subramony@amd.com; david.kramer@amd.com; indrani.paul@amd.com
+RI Paul, Indrani/KFS-2581-2024
+OI Paul, Indrani/0000-0001-9165-9430
+CR [Anonymous], 2023, P IEEE HOT CHIPS 35, P1, DOI [10.1109/HCS59251.2023.10254701, DOI 10.1109/HCS59251.2023.10254701]
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 18
+EP 24
+DI 10.1109/MM.2024.3394479
+PG 7
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000003
+DA 2024-08-05
+ER
+
+PT J
+AU Winfield, I
+   Ouradnik, T
+   Madril, J
+   Matthews, M
+   Romero, G
+AF Winfield, Ian
+   Ouradnik, Tim
+   Madril, Joseph
+   Matthews, Michael
+   Romero, Guillermo
+TI High-Performance Cooling for Power Electronics via Electrochemical
+   Additive Manufacturing
+SO IEEE MICRO
+LA English
+DT Article
+DE Thermal resistance; Three-dimensional printing; Substrates; Cold plates;
+   Performance evaluation; Copper; Ceramics
+AB The rise in adoption of electric vehicles has driven rapid development of traction inverter components. The advanced SiC and GaN devices used in these inverters have high power densities, creating a thermal management challenge and, therefore, issues with device performance and reliability. This paper introduces an advanced liquid-cooled thermal management solution for power electronics. Utilizing a novel 3-D metal printing technology called electrochemical additive manufacturing (ECAM), copper cooling structures are printed directly onto the ceramic substrate of the component, thereby eliminating thermal interface materials and significantly reducing the thermal resistance of the system-level stack. Additionally, improving fin efficiency and heat transfer through high surface area, triply periodic minimal surface cooling structures is demonstrated. The use of ECAM-printed cooling structures in traction inverter applications is shown to have great potential for realizing significant gains in performance, via thermal resistance improvements in the range of 60%-120%.
+C1 [Winfield, Ian; Ouradnik, Tim; Madril, Joseph; Matthews, Michael] Fabric8Labs Inc, San Diego, CA 92121 USA.
+   [Romero, Guillermo] Innoventa LLC, Phoenix, AZ 85044 USA.
+RP Winfield, I (corresponding author), Fabric8Labs Inc, San Diego, CA 92121 USA.
+EM ian.winfield@fabric8labs.com; tim.ouradnik@fabric8labs.com;
+   joseph.madril@fabric8labs.com; michael.matthews@fabric8labs.com;
+   mromero@innoventa.com
+CR [Anonymous], 2023, Global EV Outlook 2023
+   Broughton J, 2018, J ELECTRON PACKAGING, V140, DOI 10.1115/1.4040828
+   Dharmalingam V., 2022, INT REFRIGERATION AI
+   ev-volumes, Global EV Sales for 2023
+   Jörg J, 2017, INTERSOC C THERMAL T, P471
+   Laloya E, 2016, IEEE T POWER ELECTR, V31, P7896, DOI 10.1109/TPEL.2015.2513433
+   McPherson B, 2017, 2017 IEEE INTERNATIONAL WORKSHOP ON INTEGRATED POWER PACKAGING (IWIPP)
+   Meysenc L, 2005, IEEE T POWER ELECTR, V20, P687, DOI 10.1109/TPEL.2005.846548
+   Schulz-Harder K., 2006, P INT C INT POW SYST, P1
+   Su GJ, 2018, IEEE ENER CONV, P1233, DOI 10.1109/ECCE.2018.8558063
+   van Erp R, 2020, IEEE T POWER ELECTR, V35, P7235, DOI 10.1109/TPEL.2019.2959736
+   Wang P, 2013, J ELECTRON PACKAGING, V135, DOI 10.1115/1.4023215
+   Yang XH, 2017, APPL THERM ENG, V117, P289, DOI 10.1016/j.applthermaleng.2016.12.089
+NR 13
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 58
+EP 66
+DI 10.1109/MM.2024.3360255
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000001
+DA 2024-08-05
+ER
+
+PT J
+AU Greenstein, S
+AF Greenstein, Shane
+TI Party Like It's 1999?
+SO IEEE MICRO
+LA English
+DT Article
+AB Generative AI has created a gold rush today, but that rush has not yet grown into either a productivity boom or a financial bubble. There are good reasons to think this rush could become either one. Some productivity gains seems likely, but the emergence of a financial bubble is more difficult to predict. Do today's conditions resemble those that created a bubble in the late 1990s? We consider a few crucial similarities and differences between the dot-com boom and telecom bubble of the late 1990s and the recent experience with generative AI
+C1 [Greenstein, Shane] Harvard Sch Business, Boston, MA 02163 USA.
+C3 Harvard University
+RP Greenstein, S (corresponding author), Harvard Sch Business, Boston, MA 02163 USA.
+EM sgreenstein@hbs.edu
+OI Greenstein, Shane/0000-0001-7015-9568
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 78
+EP 80
+DI 10.1109/MM.2024.3372349
+PG 3
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NC5P9
+UT WOS:001198266500003
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Lee, HHS
+AF Lee, Hsien-Hsin S.
+TI Computing With COOL Chips
+SO IEEE MICRO
+LA English
+DT Article
+AB In this issue, IEEE MICRO welcomes the newly inaugurated Editor-in-Chief Dr. Hsien-Hsin Sean Lee and introduces the Special Issue on COOL chips for the state-of-the-art in low-power design for computing.
+C1 [Lee, Hsien-Hsin S.] Intel Corp, Hudson, MA 01749 USA.
+C3 Intel Corporation
+RP Lee, HHS (corresponding author), Intel Corp, Hudson, MA 01749 USA.
+EM lee.sean@gmail.com
+OI Lee, Hsien-Hsin Sean/0000-0002-8926-8243
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD JAN
+PY 2024
+VL 44
+IS 1
+BP 4
+EP 5
+DI 10.1109/MM.2024.3354368
+PG 2
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JP2C7
+UT WOS:001174294500006
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Litz, H
+   Vassilieva, N
+AF Litz, Heiner
+   Vassilieva, Natalia
+TI Special Issue on Hot Chips 2023
+SO IEEE MICRO
+LA English
+DT Article
+AB This special issue of IEEE Micro is devoted to selected top-pick articles presented at Hot Chips 2023. The Hot Chips Conference serves as a leading venue for presenting the technical details of innovative microchips on a wide range of topics, including computing, memory, interconnection, and cooling technologies. This particular issue features articles from AMD, Intel, UC Berkeley, Samsung, Cerebras, and Fabric8Labs on different topics including server CPUs, photonic interconnects, processing-in-memory, and artificial intelligence accelerators, as well as new cooling technologies.
+C1 [Litz, Heiner] Univ Calif Santa Cruz, Santa Cruz, CA 95064 USA.
+   [Vassilieva, Natalia] Cerebras Syst, Sunnyvale, CA 94085 USA.
+C3 University of California System; University of California Santa Cruz
+RP Litz, H (corresponding author), Univ Calif Santa Cruz, Santa Cruz, CA 95064 USA.
+EM hlitz@ucsc.edu; natalia@cerebras.net
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAY-JUN
+PY 2024
+VL 44
+IS 3
+BP 6
+EP 7
+DI 10.1109/MM.2024.3396008
+PG 2
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD7R4
+UT WOS:001253002000004
+DA 2024-08-05
+ER
+
+PT J
+AU Li, YK
+   Kashyap, A
+   Guo, YF
+   Lu, XY
+AF Li, Yuke
+   Kashyap, Arjun
+   Guo, Yanfei
+   Lu, Xiaoyi
+TI Compression Analysis for BlueField-2/-3 Data Processing Units: Lossy and
+   Lossless Perspectives
+SO IEEE MICRO
+LA English
+DT Article
+DE Engines; Task analysis; Data compression; Throughput; Memory management;
+   Hardware acceleration; Distributed databases
+AB A data processing unit (DPU) with programmable smart network interface card containing system-on-chip (SoC) cores is now a valuable addition to the host CPU, finding use in high-performance computing (HPC) and data center clusters for its advanced features, notably, a hardware-based data compression engine (C-engine). With the convergence of big data, HPC, and machine learning, data volumes burden communication and storage, making efficient compression vital. This positions DPUs as tools to accelerate compression workloads and enhance data-intensive applications. This article characterizes lossy (e.g., SZ3) and lossless (e.g., DEFLATE, lz4, and zlib) compression algorithms using seven real-world datasets on Nvidia BlueField-2/-3 DPUs. We explore the potential opportunities for offloading these compression workloads from the host. Our findings demonstrate that the C-engine within the DPU can achieve up to 26.8x speedup compared to its SoC core. We also provide insights on harnessing BlueField for compression, presenting seven crucial takeaways to steer future compression research with DPUs.
+C1 [Li, Yuke; Kashyap, Arjun] Univ Calif Merced, Dept Comp Sci & Engn, Parallel & Distributed Syst Lab, Merced, CA 95343 USA.
+   [Guo, Yanfei] Argonne Natl Lab, Lemont, IL 60439 USA.
+   [Lu, Xiaoyi] Univ Calif Merced, Dept Comp Sci & Engn, Merced, CA 95343 USA.
+C3 University of California System; University of California Merced; United
+   States Department of Energy (DOE); Argonne National Laboratory;
+   University of California System; University of California Merced
+RP Li, YK (corresponding author), Univ Calif Merced, Dept Comp Sci & Engn, Parallel & Distributed Syst Lab, Merced, CA 95343 USA.
+EM yli304@ucmerced.edu; akashyap5@ucmerced.edu; yguo@anl.gov;
+   xiaoyi.lu@ucmerced.edu
+OI Lu, Xiaoyi/0000-0001-7581-8905
+FU National Science Foundation
+FX No Statement Available
+CR [Anonymous], "LZ4-Extremely fast compression." LZ4.
+   [Anonymous], Nvidia bluefield data processing units
+   Burtscher M, 2009, IEEE T COMPUT, V58, P18, DOI 10.1109/TC.2008.131
+   Gailly J-1, 2022, zlib
+   HPC Advisory Council, About us
+   Li YK, 2023, SYMP HI PER INT, P33, DOI 10.1109/HOTI59126.2023.00019
+   Liang X, 2023, IEEE T BIG DATA, V9, P485, DOI 10.1109/TBDATA.2022.3201176
+   Liu C, 2021, THORAC CANCER, V12, P1154, DOI 10.1111/1759-7714.13883
+   Lu XY, 2014, SYMP HI PER INT, P9, DOI 10.1109/HOTI.2014.15
+   Wei X, 2023, PROCEEDINGS OF THE 17TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, OSDI 2023, P987
+   Xu H, 2021, INT CON DISTR COMP S, P561, DOI 10.1109/ICDCS51616.2021.00060
+   Zhen Zhang, 2020, NetAI '20: Proceedings of the Workshop on Network Meets AI & ML, P8, DOI 10.1145/3405671.3405810
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 8
+EP 19
+DI 10.1109/MM.2023.3343636
+PG 12
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NC5P9
+UT WOS:001198266500006
+DA 2024-08-05
+ER
+
+PT J
+AU Yi, JJ
+AF Yi, Joshua J.
+TI Analysis of Historical Patenting Behavior and Patent Characteristics of
+   Computer Architecture Companies-Part IX: Patent Families
+SO IEEE MICRO
+LA English
+DT Article
+AB This article is the next article in the series on the patenting behavior and characteristics of computer architecture companies. This article continues to analyze the characteristics for patent families.
+C1 [Yi, Joshua J.] PLLC, Law Off Joshua J Yi, Austin, TX 78750 USA.
+RP Yi, JJ (corresponding author), PLLC, Law Off Joshua J Yi, Austin, TX 78750 USA.
+EM josh@joshuayipatentlaw.com
+NR 0
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 0272-1732
+EI 1937-4143
+J9 IEEE MICRO
+JI IEEE Micro
+PD MAR-APR
+PY 2024
+VL 44
+IS 2
+BP 72
+EP 77
+DI 10.1109/MM.2024.3373342
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MV6U9
+UT WOS:001196459000001
+OA Bronze
+DA 2024-08-05
+ER
+
+EF

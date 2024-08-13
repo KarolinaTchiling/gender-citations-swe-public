@@ -1,0 +1,676 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Baste, J
+AF Baste, Julien
+TI Composing dynamic programming tree-decomposition-based algorithms
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE graph partition; treewidth; parameterized complexity; dynamic
+   programming; core model
+ID GRAPH; COMPATIBILITY; VERTEX
+AB Given two integers & ell; and p as well as & ell; graph classes ?-l 1 , ... , ?-l e , the problems GraphPart ( ?-l 1 , ... , ?-l e , p ) , VertPart ( ?-l 1 , ... , ?-l e ) , and EdgePart ( ?-l 1 , ... , ?-l e ) ask, given graph Gas input, whether V ( G ) , V ( G ) , E ( G ) respectively can be partitioned into & ell; sets S 1 , ... , S e such that, for each i between 1 and & ell;, G [ S z ] E ?-l z , G [ S z ] E ?-l z , ( V ( G ) , S z ) E ?-l z respectively. Moreover in GraphPart ( ?-l 1 , ... , ?-l e , p ) , we request that the number of edges with endpoints in different sets of the partition is bounded by p. We show that if there exist dynamic programming treedecomposition-based algorithms for recognizing the graph classes ?-l z , for each i, then we can constructively create a dynamic programming tree-decomposition-based algorithms for GraphPart ( ?-l 1 , ... , ?-l e , p ) , VertPart ( ?-l 1 , . . . , ?-l e ) , and EdgePart ( ?-l 1 , ... , ?-l e ) . We apply this approach to known problems. For well-studied problems, like V ERTEX C OVER and G RAPH q-C OLORING , we obtain running times that are comparable to those of the best known problemspecific algorithms. For an exotic problem from bioinformatics, called D ISPLAY G RAPH , this approach improves the known algorithm parameterized by treewidth.
+C1 [Baste, Julien] Univ Lille, CNRS, Centrale Lille, UMR 9189,CRIStAL, F-59000 Lille, France.
+C3 Universite de Lille; Centre National de la Recherche Scientifique
+   (CNRS); Centrale Lille
+RP Baste, J (corresponding author), Univ Lille, CNRS, Centrale Lille, UMR 9189,CRIStAL, F-59000 Lille, France.
+CR Andreev K, 2006, THEOR COMPUT SYST, V39, P929, DOI 10.1007/s00224-006-1350-7
+   Baste J, 2022, ARTIF INTELL, V303, DOI 10.1016/j.artint.2021.103644
+   Baste J, 2017, B MATH BIOL, V79, P920, DOI 10.1007/s11538-017-0260-y
+   Bodlaender HL, 2015, INFORM COMPUT, V243, P86, DOI 10.1016/j.ic.2014.12.008
+   Bryant D, 2006, THEOR COMPUT SCI, V351, P296, DOI 10.1016/j.tcs.2005.10.033
+   Chang GJ, 2004, J COMB OPTIM, V8, P295, DOI 10.1023/B:JOCO.0000038912.82046.17
+   COURCELLE B, 1990, INFORM COMPUT, V85, P12, DOI 10.1016/0890-5401(90)90043-H
+   Cygan M., 2015, Parameterized algorithms
+   GOLDSCHMIDT O, 1994, MATH OPER RES, V19, P24, DOI 10.1287/moor.19.1.24
+   Grady L, 2006, IEEE T PATTERN ANAL, V28, P469, DOI 10.1109/TPAMI.2006.57
+   Impagliazzo R, 2001, J COMPUT SYST SCI, V63, P512, DOI 10.1006/jcss.2001.1774
+   Janssen R., 2019, Journal of Graph Algorithms and Applications, V23, P715, DOI DOI 10.7155/JGAA.00508
+   Karp RM., 1972, Complexity of Computer Computations, P85, DOI DOI 10.1007/978-1-4684-2001-2_9
+   Kloks T., 1994, Treewidth. Computations and approximations, DOI 10.1007/BFb0045375
+   Mezuman E., 2012, Proceedings of Machine Learning Research, V22, P770
+   Qian TY, 2010, LECT NOTES COMPUT SC, V6488, P77, DOI 10.1007/978-3-642-17616-6_9
+   Rao M, 2007, THEOR COMPUT SCI, V377, P260, DOI 10.1016/j.tcs.2007.03.043
+   Schaeffer SE, 2007, COMPUT SCI REV, V1, P27, DOI 10.1016/j.cosrev.2007.05.001
+   Scornavacca Celine, 2014, Journal of Graph Algorithms and Applications, V18, P385, DOI 10.7155/jgaa.00327
+   Shanthi AS, 2013, PROCEDIA ENGINEER, V64, P395, DOI 10.1016/j.proeng.2013.09.112
+   Sharan R, 2003, BIOINFORMATICS, V19, P1787, DOI 10.1093/bioinformatics/btg232
+   Shi JB, 2000, IEEE T PATTERN ANAL, V22, P888, DOI 10.1109/34.868688
+   Torres AS, 2012, AIP CONF PROC, V1479, P802, DOI 10.1063/1.4756259
+   WU Z, 1993, IEEE T PATTERN ANAL, V15, P1101, DOI 10.1109/34.244673
+   Yang AF, 2007, DISCRETE MATH, V307, P2438, DOI 10.1016/j.disc.2006.10.017
+   [Yang Aifeng 杨爱峰], 2004, Applied Mathematics. Series B, A Journal of Chinese Universities, V19, P245, DOI 10.1007/s11766-004-0031-z
+   Yuan JJ, 2003, DISCRETE MATH, V263, P323, DOI 10.1016/S0012-365X(02)00791-4
+NR 27
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 12500v4
+PG 16
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA XH6P2
+UT WOS:001260833600002
+DA 2024-08-05
+ER
+
+PT J
+AU Fang, WJ
+AF Fang, Wenjie
+TI Bijective proof of a conjecture on unit interval posets
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE Dyck path; zeta map; unit interval poset; plane tree
+ID ENUMERATION
+AB In a recent preprint, Matherne, Morales and Selover conjectured that two different representations of unit interval posets are related by the famous zeta map in q, t-Catalan combinatorics. This conjecture was proved recently by G & ccaron;linas, Segovia and Thomas using induction. In this short note, we provide a bijective proof of the same conjecture with a reformulation of the zeta map using left-aligned colored trees, first proposed in the study of parabolic Tamari lattices.
+C1 [Fang, Wenjie] Univ Gustave Eiffel, LIGM, CNRS, ESIEE Paris, Marne La Vallee, France.
+C3 Institut Polytechnique de Paris; Ecole des Ponts ParisTech; Universite
+   Gustave-Eiffel; ESIEE Paris; Centre National de la Recherche
+   Scientifique (CNRS)
+RP Fang, WJ (corresponding author), Univ Gustave Eiffel, LIGM, CNRS, ESIEE Paris, Marne La Vallee, France.
+FU UniversiteGustave Eiffel
+FX We thank Adrien Segovia for bringing this conjecture to our attention.
+   We also thank the anonymous reviewers for their detailed and helpful
+   comments. This work is not supported by any funding with precise
+   predefined goal, but it is supported by the publicly funded laboratory
+   LIGM of UniversiteGustave Eiffel.
+CR Andrews GE, 2002, T AM MATH SOC, V354, P3835, DOI 10.1090/S0002-9947-02-03064-7
+   Ceballos C, 2020, J COMB THEORY A, V172, DOI 10.1016/j.jcta.2020.105210
+   Chavez A, 2018, J COMB THEORY A, V154, P507, DOI 10.1016/j.jcta.2017.09.005
+   Flajolet P, 2009, ANALYTIC COMBINATORICS, P1, DOI 10.1017/CBO9780511801655
+   Gelinas F, 2022, Arxiv, DOI arXiv:2212.12171
+   Guay-Paquet M, 2013, Arxiv, DOI arXiv:1306.2400
+   Guay-Paquet M, 2014, ANN COMB, V18, P645, DOI 10.1007/s00026-014-0249-2
+   Haglund J, 2008, The q, t-Catalan Numbers and the Space of Diagonal Harmonics, V41
+   Lewis JB, 2013, J COMB THEORY A, V120, P1305, DOI 10.1016/j.jcta.2013.03.012
+   Matherne JP, 2022, Arxiv, DOI arXiv:2201.07333
+   SCOTT D, 1964, J MATH PSYCHOL, V1, P233, DOI 10.1016/0022-2496(64)90002-1
+   Skandera M, 2003, J COMB THEORY A, V103, P237, DOI 10.1016/S0097-3165(03)00072-4
+   STANLEY RP, 1993, J COMB THEORY A, V62, P261, DOI 10.1016/0097-3165(93)90048-D
+   WINE RL, 1957, ANN MATH STAT, V28, P256, DOI 10.1214/aoms/1177707051
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 2
+PG 8
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA JC0U0
+UT WOS:001170846600001
+DA 2024-08-05
+ER
+
+PT J
+AU Darbinyan, SK
+AF Darbinyan, Samvel Kh.
+TI A new sufficient condition for a 2-strong digraph to be Hamiltonian
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE digraph; Hamiltonian cycle; Hamiltonian-connected; k-strong; degree
+ID CYCLES
+AB In this paper we prove the following new sufficient condition for a digraph to be Hamiltonian:
+   Let D be a 2 -strong digraph of order n >= 9 . If n - 1 vertices of D have degrees at least n + k and the remaining vertex has degree at least n - k - 4 , where k is a non-negative integer, then D is Hamiltonian.
+   This is an extension of Ghouila-Houri's theorem for 2-strong digraphs and is a generalization of an early result of the author (DAN Arm. SSR (91(2):6-8, 1990). The obtained result is best possible in the sense that for k = 0 there is a digraph of order n = 8 (respectively, n = 9) with the minimum degree n - 4 = 4 (respectively, with the minimum degree n - 5 = 4) whose n - 1 vertices have degrees at least n - 1, but it is not Hamiltonian.
+   We also give a new sufficient condition for a 3-strong digraph to be Hamiltonian-connected.
+C1 [Darbinyan, Samvel Kh.] NAS RA, Inst Informat & Automat Problems, Yerevan, Armenia.
+C3 National Academy of Sciences of Armenia; Institute for Informatics &
+   Automation Problems (IIAP) - NAS RA
+RP Darbinyan, SK (corresponding author), NAS RA, Inst Informat & Automat Problems, Yerevan, Armenia.
+FX I am grateful to Professor Gregory Gutin for motivating me to present
+   the complete proof of Theorem 1.7, and very thankful to the anonymous
+   referees for a careful reading of our manuscript and for their detailed
+   and helpful comments that have improved the presentation. Also thanks to
+   Dr. Parandzem Hakobyan for formatting the manuscript of this paper.
+CR Adamus J, 2021, DISCRETE MATH, V344, DOI 10.1016/j.disc.2020.112240
+   Adamus J, 2017, GRAPH COMBINATOR, V33, P43, DOI 10.1007/s00373-016-1751-6
+   Adamus J, 2014, DISCRETE MATH THEOR, V16, P293
+   Adamus J, 2012, DISCRETE MATH, V312, P1117, DOI 10.1016/j.disc.2011.11.032
+   Bang-Jensen J, 2000, Digraphs: Theory, Algorithms and Applications
+   BERMOND JC, 1981, J GRAPH THEOR, V5, P1, DOI 10.1002/jgt.3190050102
+   BONDY JA, 1977, DISCRETE MATH, V19, P195, DOI 10.1016/0012-365X(77)90034-6
+   Darbinyan SK, 2024, PATTERN RECOGN IMAGE, V34, P62, DOI 10.1134/S105466182401005X
+   Darbinyan S.Kh., 1982, Aakd. Nauk Armyan. SSR Dokl., V75, P147
+   Darbinyan S.Kh., Aakd. Nauk Armyan. SSR Dokl, V91, P57
+   Darbinyan S.Kh., 2018, Akad. Nauk Armyan. SSR Dokl., V91, P3
+   Darbinyan S.Kh, 1986, Aakd. Nauk Armyan. SSR Dokl., V82, P6
+   Darbinyan S.Kh, 2022, Mathematical Problems of Computer Science, V58, P20, DOI [10.51408/1963-0089, DOI 10.51408/1963-0089]
+   GHOUILAHOURI A, 1960, CR HEBD ACAD SCI, V251, P495
+   Goldberg M.K., 1971, Vichislitelnaya Matematika i Vichislitelnaya Teknika, V2, P56
+   Gould RJ, 2014, GRAPH COMBINATOR, V30, P1, DOI 10.1007/s00373-013-1377-x
+   HAGGKVIST R, 1976, J COMB THEORY B, V20, P20, DOI 10.1016/0095-8956(76)90063-0
+   Kühn D, 2012, EUR J COMBIN, V33, P750, DOI 10.1016/j.ejc.2011.09.030
+   Meyniel M., 1973, J. Combin. Theory Ser. B, V14, P137, DOI [10.1016/0012-365X(77)90034-6, DOI 10.1016/0012-365X(77)90034-6]
+   Nash-Williams C. St. J. A, 1969, Springer Verlag Lecture Notes, V110, P237
+   OVERBECKLARISCH M, 1976, J COMB THEORY B, V21, P76, DOI 10.1016/0095-8956(76)90030-7
+   THOMASSEN C, 1981, P LOND MATH SOC, V42, P231
+   Wang R., 2022, Discrete Math. and Theoretical Computer Science, V23, DOI [10.46298/dmtcs.5851, DOI 10.46298/DMTCS.5851]
+   Wang RF, 2022, DRY TECHNOL, V40, P2153, DOI 10.1080/07373937.2021.1927073
+   Wang RX, 2022, GRAPH COMBINATOR, V38, DOI 10.1007/s00373-021-02404-8
+   Wang RX, 2021, J GRAPH THEOR, V97, P194, DOI 10.1002/jgt.22649
+   WOODALL DR, 1972, P LOND MATH SOC, V24, P739
+   Zhang ZB, 2013, SIAM J DISCRETE MATH, V27, P274, DOI 10.1137/110837188
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 7
+PG 21
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA XH6P2
+UT WOS:001260833600001
+DA 2024-08-05
+ER
+
+PT J
+AU Coudert, D
+   Coulomb, S
+   Ducoffe, G
+AF Coudert, David
+   Coulomb, Samuel
+   Ducoffe, Guillaume
+TI Leanness Computation: Small Values and Special Graph Classes
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE Leanness; Geodetic graphs; SETH-based lower bounds; Graph algorithms
+ID HYPERBOLICITY; CHORDALITY; ALGORITHMS; COMPLEXITY
+AB Let u and v be vertices in a connected graph G = (V, E). For any integer k such that 0 <= k <= d(G)(u, G (u, v), the k-slice S-k(u, k (u, v) contains all vertices x on a shortest uv-path such that d(G)(u, G (u, x) = k. The leanness of G is the maximum diameter of a slice. This metric graph invariant has been studied under different names, such as ,,interval thinness" and ,,fellow traveler property". Graphs with leanness equal to 0, a.k.a. geodetic graphs, , also have received special attention in Graph Theory. The practical computation of leanness in real-life complex networks has been studied recently (Mohammed et al., COMPLEX NETWORKS'21). '21). In this paper, we give a finer-grained complexity analysis of two related problems, namely: deciding whether the leanness of a graph G is at most some small value & ell;; and computing the leanness on specific graph classes. We obtain improved algorithms in some cases, and time complexity lower bounds under plausible hypotheses.
+C1 [Coudert, David] Univ Cote Azur, CNRS, Inria, I3S, Sophia Antipolis, France.
+   [Coulomb, Samuel] Ecole Normale Super, Paris, France.
+   [Ducoffe, Guillaume] Natl Inst Res & Dev Informat, Bucharest, Romania.
+   [Ducoffe, Guillaume] Univ Bucharest, Bucharest, Romania.
+C3 Centre National de la Recherche Scientifique (CNRS); Universite Cote
+   d'Azur; Inria; Universite PSL; Ecole Normale Superieure (ENS); National
+   Institute R&D Informatics Bucharest; University of Bucharest
+RP Coudert, D (corresponding author), Univ Cote Azur, CNRS, Inria, I3S, Sophia Antipolis, France.
+FU French government, through the UCA JEDI Investments in the Future
+   project [ANR-15-IDEX-01]; Romanian Ministry of Research, Innovation and
+   Digitalization, CCCDI-UEFISCDI within PNCDI III
+   [PN-III-P2-2.1-PED-2021-2142]
+FX This work was supported by the French government, through the UCA JEDI
+   Investments in the Future project managed by the National Research
+   Agency (ANR) with the reference number ANR-15-IDEX-01.This work was
+   supported by a grant of the Romanian Ministry of Research, Innovation
+   and Digitalization, CCCDI-UEFISCDI, project number
+   PN-III-P2-2.1-PED-2021-2142, within PNCDI III.
+CR Bandelt HJ, 2008, CONTEMP MATH, V453, P49
+   BANDELT HJ, 1986, J COMB THEORY B, V41, P182, DOI 10.1016/0095-8956(86)90043-2
+   Bodwin G., 2019, P 30 ANN ACM SIAM S, P2071, DOI [10.5555/3310435.3310560, DOI 10.5555/3310435.3310560]
+   Bondy JA., 2008, Graph theory, DOI [DOI 10.1007/978-1-84628-970-5, 10.1007/978-1-84628-970-5]
+   Borassi M, 2016, ELECTRON NOTES THEOR, V322, P51, DOI 10.1016/j.entcs.2016.03.005
+   Borassi M, 2015, LECT NOTES COMPUT SC, V9294, P215, DOI 10.1007/978-3-662-48350-3_19
+   Brinkmann G., 2001, Annals of Combinatorics, V5, P61, DOI [DOI 10.1007/S00026, 10.1007/s00026-001-8007-7, DOI 10.1007/S00026-001-8007-7]
+   Chalopin J, 2020, MEM AM MATH SOC, V268, P1, DOI 10.1090/memo/1309
+   CHANG GJ, 1984, SIAM J ALGEBRA DISCR, V5, P332, DOI 10.1137/0605034
+   Chepoi V, 2017, PROCEEDINGS OF THE TWENTY-EIGHTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P2264
+   Chepoi V, 2008, PROCEEDINGS OF THE TWENTY-FOURTH ANNUAL SYMPOSIUM ON COMPUTATIONAL GEOMETRY (SGG'08), P59, DOI 10.1145/1377676.1377687
+   Cohen N., 2015, Journal of Experimental Algorithmics (JEA), V20, P1, DOI [10.1145/2780652, DOI 10.1145/2780652]
+   Cohen N, 2017, THEOR COMPUT SCI, V690, P114, DOI 10.1016/j.tcs.2017.06.001
+   CORNEIL DG, 1981, DISCRETE APPL MATH, V3, P163, DOI 10.1016/0166-218X(81)90013-5
+   Coudert David, 2022, ACM Journal of Experimental Algorithmics, DOI 10.1145/3569169
+   Coudert D., 2022, ALENEX 2022, P78, DOI [10.1137/1.9781611977042.7, DOI 10.1137/1.9781611977042.7]
+   Coudert D, 2016, THEOR COMPUT SCI, V639, P72, DOI 10.1016/j.tcs.2016.05.025
+   Dalirrooyfard M, 2022, ANN IEEE SYMP FOUND, P531, DOI 10.1109/FOCS54457.2022.00057
+   Dragan FF, 2019, DISCRETE MATH, V342, P326, DOI 10.1016/j.disc.2018.10.017
+   Epstein D.B.A, 1992, Word processing in groups, DOI DOI 10.1201/9781439865699
+   Gromov M., 1987, Essays in group theory, V#8, P75, DOI [DOI 10.1007/978-1-4613-9586-73, 10.1007/978-1-4613-9586-7_3]
+   HOPCROFT J, 1973, COMMUN ACM, V16, P372, DOI 10.1145/362248.362272
+   Impagliazzo R, 2001, J COMPUT SYST SCI, V62, P367, DOI 10.1006/jcss.2000.1727
+   Kennedy WS, 2016, 2016 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA), P3344, DOI 10.1109/BigData.2016.7840994
+   Koolen JH, 2002, EUR J COMBIN, V23, P683, DOI 10.1006/eujc.2002.0591
+   Lincoln A, 2018, SODA'18: PROCEEDINGS OF THE TWENTY-NINTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1236
+   Mohammed AO, 2022, STUD COMPUT INTELL, V1015, P194, DOI 10.1007/978-3-030-93409-5_17
+   Nebesky L, 1998, CZECH MATH J, V48, P701, DOI 10.1023/A:1022435605919
+   Novikov PS., 1955, T MAT I STEKLOVA, V44, P3
+   Ore O., 1962, AM MATH SOC COLLOQ P
+   PAPASOGLU P, 1995, INVENT MATH, V121, P323, DOI 10.1007/BF01884301
+   Plesnik J., 1977, Mathematica Slovaca, V27, P65
+   Seidel R, 1995, J COMPUT SYST SCI, V51, P400, DOI 10.1006/jcss.1995.1078
+   Stemple J. G., 1968, Journal of Combinatorial Theory, V4, P101, DOI [10.1016/S0021-9800(68)80035-3, DOI 10.1016/S0021-9800(68)80035-3]
+   SYSLO MM, 1979, DISCRETE MATH, V26, P47, DOI 10.1016/0012-365X(79)90060-8
+   TARJAN RE, 1984, SIAM J COMPUT, V13, P566, DOI 10.1137/0213035
+   Williams R, 2005, THEOR COMPUT SCI, V348, P357, DOI 10.1016/j.tcs.2005.09.023
+   Williams V., 2024, P 2024 ACM SIAM S DI, P3792, DOI [10.1137/1.9781611977912.134, DOI 10.1137/1.9781611977912.134]
+   Wu YK, 2011, ELECTRON J COMB, V18
+NR 39
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 13
+PG 22
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YH1F6
+UT WOS:001267498900001
+DA 2024-08-05
+ER
+
+PT J
+AU Czerwinski, S
+AF Czerwinski, Sebastian
+TI On harmonious coloring of hypergraphs
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE Harmonious coloring; Hypergraphs
+ID BOUNDS
+AB A harmonious coloring of a k-uniform hypergraph H is a vertex coloring such that no two vertices in the same edge have the same color, and each k-element subset of colors appears on at most one edge. The harmonious number h(H) is the least number of colors needed for such a coloring. The paper contains a new proof of the upper bound h(H) =O(k root k!m) on the harmonious number of hypergraphs of maximum degree triangle with m edges. We use the local cut lemma of A. Bernshteyn.
+C1 [Czerwinski, Sebastian] Univ Zielona Gora, Inst Math, Zielona Gora, Poland.
+C3 University of Zielona Gora
+RP Czerwinski, S (corresponding author), Univ Zielona Gora, Inst Math, Zielona Gora, Poland.
+FX Acknowledgments I would like to thank the anonymous reviewer for his/her
+   suggestions and comments.
+CR Aflaki A, 2012, ELECTRON J COMB, V19
+   Aigner M., 1992, Ann. Discrete Math., V52, P1, DOI [10.1016/S0167-5060(08)70896-3, DOI 10.1016/S0167-5060(08)70896-3]
+   Akbari S, 2012, DISCRETE MATH, V312, P1633, DOI 10.1016/j.disc.2012.02.009
+   Balister PN, 2002, DISCRETE MATH, V252, P17, DOI 10.1016/S0012-365X(01)00287-4
+   Ballister PN, 2003, J GRAPH THEOR, V42, P95, DOI 10.1002/jgt.10076
+   Bazgan C, 1999, J COMB THEORY B, V75, P288, DOI 10.1006/jctb.1998.1884
+   Bernshteyn A, 2017, EUR J COMBIN, V63, P95, DOI 10.1016/j.ejc.2017.03.005
+   Bernshteyn A, 2016, DISCRETE MATH, V339, P2543, DOI 10.1016/j.disc.2016.05.002
+   Bosek B, 2016, APPL ANAL DISCR MATH, V10, P73, DOI 10.2298/AADM160411008B
+   Burris AC, 1997, J GRAPH THEOR, V26, P73, DOI 10.1002/(SICI)1097-0118(199710)26:2<73::AID-JGT2>3.0.CO;2-C
+   Edwards K, 1997, J LOND MATH SOC, V55, P435, DOI 10.1112/S0024610797004857
+   EDWARDS K, 1994, J GRAPH THEOR, V18, P257, DOI 10.1002/jgt.3190180305
+   Edwards K., 1997, London Math. Soc. Lecture Note Ser., V241, P13, DOI [10.1017/CBO9780511662119.003, DOI 10.1017/CBO9780511662119.003]
+   Edwards K., 1996, Combin. Probab. Comput., V5, P15, DOI [10.1017/S0963548300001802, DOI 10.1017/S0963548300001802]
+   Esperet L, 2013, EUR J COMBIN, V34, P1019, DOI 10.1016/j.ejc.2013.02.007
+   Grytczuk J, 2013, RANDOM STRUCT ALGOR, V42, P214, DOI 10.1002/rsa.20411
+   KRASIKOV I, 1994, J GRAPH THEOR, V18, P205, DOI 10.1002/jgt.3190180212
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 11101
+PG 5
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ZE9X8
+UT WOS:001273749200001
+DA 2024-08-05
+ER
+
+PT J
+AU Dourado, MC
+   Gutierrez, M
+   Protti, F
+   Tondato, S
+AF Dourado, Mitre C.
+   Gutierrez, Marisa
+   Protti, Fabio
+   Tondato, Silvia
+TI Weakly toll convexity and proper interval graphs
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE Convex Geometry; Convexity; Proper Interval Graph; Weakly Toll Walk
+AB A walk u0, u1, . . . , uk-1, uk in a graph G is a weakly toll walk if u0ui is an element of E(G) implies ui = u1 and u,;uk is an element of E(G) implies u,; = uk-1. A set S of vertices of G is weakly toll convex if for any two nonadjacent vertices x, y is an element of S, any vertex in a weakly toll walk between x and y is also in S. The weakly toll convexity is the graph convexity defined over weakly toll convex sets. If S and S \ {x} are convex sets, then x is an extreme vertex of S. A graph convexity is said to be a convex geometry if it satisfies the Minkowski-Krein-Milman property, which states that every convex set is the convex hull of its extreme vertices. It is known that chordal, Ptolemaic, weakly polarizable, and interval graphs can be characterized as convex geometries with respect to the monophonic, geodesic, m3, and toll convexities, respectively. Inspired by previous results in (Alc & oacute;n, Bre & sacute;ar, Gologranc, Gutierrez, & Sacute;umenjak, Peterin, and Tepeh, 2015), in this paper we prove that a graph is a convex geometry with respect to the weakly toll convexity if and only if it is a proper interval graph. Furthermore, some well-known graph invariants are studied with respect to the weakly toll convexity, namely the weakly toll number and the weakly toll hull number. In particular, we determine these invariants for trees and we find bounds for interval graphs.
+C1 [Dourado, Mitre C.] Univ Fed Rio De Janeiro, Inst Computacao, Rio De Janeiro, Brazil.
+   [Gutierrez, Marisa; Tondato, Silvia] Univ Nacl La Plata, Fac Ciencias Exactas, CMaLP, La Plata, Argentina.
+   [Protti, Fabio] Univ Fed Fluminense, Inst Computacao, Niteroi, RJ, Brazil.
+   [Gutierrez, Marisa] Consejo Nacl Invest Cient & Tecn, Rosario, Argentina.
+C3 Universidade Federal do Rio de Janeiro; National University of La Plata;
+   Universidade Federal Fluminense; Consejo Nacional de Investigaciones
+   Cientificas y Tecnicas (CONICET)
+RP Dourado, MC (corresponding author), Univ Fed Rio De Janeiro, Inst Computacao, Rio De Janeiro, Brazil.
+FU Conselho Nacional de Desenvolvimento Cientimath;fico e Tecnologico
+   (CNPq) , Brazil [201.083/2021, 211.753/2021]; FAPERJ [304117/2019-6]; 
+   [305404/2020-2]
+FX M. C. Dourado is partially supported by Conselho Nacional de
+   Desenvolvimento Cient & imath;fico e Tecnologico (CNPq) , Brazil, Grant
+   number 305404/2020-2 and FAPERJ (211.753/2021) . F. Protti is partially
+   supported by CNPq (304117/2019-6) and FAPERJ (201.083/2021) .
+CR Alcón L, 2015, EUR J COMBIN, V46, P161, DOI 10.1016/j.ejc.2015.01.002
+   Buneman P., 1974, Discrete Mathematics, V9, P205, DOI 10.1016/0012-365X(74)90002-8
+   Cáceres J, 2008, EUR J COMBIN, V29, P726, DOI 10.1016/j.ejc.2007.03.007
+   Dirac G.A., 1961, Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg, V25, P71, DOI DOI 10.1007/BF02992776
+   Dourado MC, 2023, Arxiv, DOI arXiv:2203.15878
+   Dragan FF, 1999, SIAM J DISCRETE MATH, V12, P119, DOI 10.1137/S0895480195321718
+   DUCHET P, 1988, J COMB THEORY B, V44, P307, DOI 10.1016/0095-8956(88)90039-1
+   FARBER M, 1986, SIAM J ALGEBRA DISCR, V7, P433, DOI 10.1137/0607049
+   FULKERSON DR, 1965, PAC J MATH, V15, P835, DOI 10.2140/pjm.1965.15.835
+   Gavril F., 1974, Journal of Combinatorial Theory, Series B, V16, P47, DOI 10.1016/0095-8956(74)90094-X
+   GIMBEL J, 1988, DISCRETE APPL MATH, V21, P257, DOI 10.1016/0166-218X(88)90071-6
+   Gutierrez M, 2023, DISCRETE MATH, V346, DOI 10.1016/j.disc.2022.113133
+   Krein M., 1940, Studia Mathematica, V9, P133
+   Lekkerkerker C G, 1962, Fund. Math, V51, P45, DOI DOI 10.4064/FM-51-1-45-64
+   Pelayo IM, 2013, SPRINGERBRIEF MATH, P1, DOI 10.1007/978-1-4614-8699-2
+   Roberts F S, 1969, Proof techniques in graph theory, P139
+   van de Vel M.L.J., 1993, Theory of Convex Structures
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 4
+PG 16
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OG6K5
+UT WOS:001206153500001
+DA 2024-08-05
+ER
+
+PT J
+AU Casselgren, CJ
+   Granholm, JB
+   Petros, FB
+AF Casselgren, Carl Johan
+   Granholm, Jonas B.
+   Petros, Fikre B.
+TI Extending partial edge colorings of iterated cartesian products of
+   cycles and paths
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE Precoloring extension; Edge coloring; Cartesian product; List coloring
+ID PRECOLORING EXTENSION
+AB We consider the problem of extending partial edge colorings of iterated cartesian products of even cycles and paths, focusing on the case when the precolored edges satisfy either an Evans-type condition or is a matching. In particular, we prove that if G = Cd2k is the dth power of the cartesian product of the even cycle C2k with itself, and at most 2d-1 edges of G are precolored, then there is a proper 2d-edge coloring of G that agrees with the partial coloring. We show that the same conclusion holds, without restrictions on the number of precolored edges, if any two precolored edges are at distance at least 4 from each other. For odd cycles of length at least 5, we prove that if G = Cd2k +1 is the dth power of the cartesian product of the odd cycle C2k +1 with itself (k >= 2), and at most 2d edges of G are precolored, then there is a proper (2d+1)-edge coloring of G that agrees with the partial coloring. Our results generalize previous ones on precoloring extension of hypercubes [Journal of Graph Theory 95 (2020) 410-444].
+C1 [Casselgren, Carl Johan; Granholm, Jonas B.] Linkopings Univ, Linkoping, Sweden.
+   [Petros, Fikre B.] Addis Ababa Univ, Addis Ababa, Ethiopia.
+C3 Linkoping University; Addis Ababa University
+RP Casselgren, CJ (corresponding author), Linkopings Univ, Linkoping, Sweden.
+FU International Science Program in Uppsala, Sweden; Swedish Research
+   council VR [2017-05077]
+FX Petros thank the International Science Program in Uppsala, Sweden, for
+   financial support. Casselgren was supported by a grant from the Swedish
+   Research council VR (2017-05077) .
+CR Andersen L.D., 1994, J COMB DES, V4, P197, DOI DOI 10.1002/JCD.3180020404
+   ANDERSEN LD, 1983, P LOND MATH SOC, V47, P507
+   Asratian A.S., 1998, Cambridge Tracts in Mathematics
+   Casselgren C.J., EXTENDING PART UNPUB
+   Casselgren C.J., DISCUSSIONES MATHEMA
+   Casselgren CJ, 2021, AUSTRALAS J COMB, V81, P233
+   Casselgren CJ, 2020, J GRAPH THEOR, V95, P410, DOI 10.1002/jgt.22561
+   Easton T, 2001, DISCRETE APPL MATH, V113, P167, DOI 10.1016/S0166-218X(00)00282-1
+   Edwards K, 2018, ELECTRON J COMB, V25
+   Evans T., 1960, AM MATH MONTHLY, V67, P958
+   Fiala J, 2003, J GRAPH THEOR, V43, P156, DOI 10.1002/jgt.10088
+   Girao A, 2019, J GRAPH THEOR, V92, P255, DOI 10.1002/jgt.22451
+   Haggkvist R., 1976, C MATH SOC J BOLYAI, V18, P495
+   MARCOTTE O, 1990, J GRAPH THEOR, V14, P565, DOI 10.1002/jgt.3190140508
+   RYSER HJ, 1951, P AM MATH SOC, V2, P550, DOI 10.2307/2032005
+   Smetaniuk B., 1981, ARS COMBINATORIA, V11, P155
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 11377
+DI 10.46298/dmtcs.11377
+PG 26
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA TS5P2
+UT WOS:001243264500001
+OA Green Submitted, gold
+DA 2024-08-05
+ER
+
+PT J
+AU Wu, DY
+   Zhang, YP
+   Wang, XM
+AF Wu, Deyu
+   Zhang, Yipei
+   Wang, Xiumei
+TI A note on removable edges in near-bricks
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE removable edge; perfect matching; near-brick; brick
+ID DECOMPOSITIONS
+AB An edge e of a matching covered graph G is removable if G - e is also matching covered. Carvalho, Lucchesi, and Murty showed that every brick G different from K 4 and C 6 has at least triangle - 2 removable edges, where triangle is the maximum degree of G . In this paper, we generalize the result to irreducible near -bricks, where a graph is irreducible if it contains no single ear of length three or more.
+C1 [Wu, Deyu] Zhengzhou Univ Sci & Technol, Dept Basic Courses, Zhengzhou, Peoples R China.
+   [Zhang, Yipei] North China Univ Water Resources & Elect Power, Sch Math & Stat, Zhengzhou, Peoples R China.
+   [Wang, Xiumei] Zhengzhou Univ, Sch Math & Stat, Zhengzhou, Peoples R China.
+C3 North China University of Water Resources & Electric Power; Zhengzhou
+   University
+RP Zhang, YP (corresponding author), North China Univ Water Resources & Elect Power, Sch Math & Stat, Zhengzhou, Peoples R China.
+EM zyipei@163.com
+FU National Natural Science Foundation of China [12171440]
+FX This work is supported by the National Natural Science Foundation of
+   China under grant number 12171440.
+CR Carvalho MH, 1999, COMBINATORICA, V19, P151, DOI 10.1007/s004930050051
+   de Carvalho MH, 2002, J COMB THEORY B, V85, P94, DOI 10.1006/jctb.2001.2091
+   EDMONDS J, 1982, COMBINATORICA, V2, P247, DOI 10.1007/BF02579233
+   Fabres PA, 2021, J GRAPH THEOR, V96, P490, DOI 10.1002/jgt.22628
+   LOVASZ L, 1987, J COMB THEORY B, V43, P187, DOI 10.1016/0095-8956(87)90021-9
+   Zhang YP, 2022, DISCRETE APPL MATH, V320, P1, DOI 10.1016/j.dam.2022.04.026
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 8
+PG 7
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA WC4E3
+UT WOS:001252648200001
+DA 2024-08-05
+ER
+
+PT J
+AU Lafrenière, N
+   Zhuang, Y
+AF Lafreniere, Nadia
+   Zhuang, Yan
+TI On the rix statistic and valley-hopping
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE rixed points; fixed points; valley -hopping; modified Foata-Strehl
+   action; permutation statistics; homo; mesy
+AB This paper studies the relationship between the modified Foata-Strehl action (a.k.a. valley-hopping)-a group action on permutations used to demonstrate the gamma-positivity of the Eulerian polynomials-and the number of rixed points rix-a recursively -defined permutation statistic introduced by Lin in the context of an equidistribution problem. We give a linear -time iterative algorithm for computing the set of rixed points, and prove that the rix statistic is homomesic under valley -hopping. We also demonstrate that a bijection phi introduced by Lin and Zeng in the study of the rix statistic sends orbits of the valley -hopping action to orbits of a cyclic version of valley -hopping, which implies that the number of fixed points fix is homomesic under cyclic valley -hopping.
+C1 [Lafreniere, Nadia] Dartmouth Coll, Dept Math, Hanover, NH 03755 USA.
+   [Zhuang, Yan] Davidson Coll, Dept Math & Comp Sci, Davidson, NC USA.
+C3 Dartmouth College; Davidson College
+RP Lafrenière, N (corresponding author), Dartmouth Coll, Dept Math, Hanover, NH 03755 USA.
+FU AMS-Simons Travel Grant; NSF [DMS-2316181]
+FX & lowast;YZ was partially supported by an AMS-Simons Travel Grant and
+   NSF grant DMS-2316181.
+CR Athanasiadis C.A., 2018, Semin. Lothar. Comb., V77, pB77i
+   Brändén P, 2008, EUR J COMBIN, V29, P514, DOI 10.1016/j.ejc.2006.12.010
+   Cooper MC, 2020, ADV APPL MATH, V115, DOI 10.1016/j.aam.2020.101999
+   Elder Jennifer, 2024, Math. Comp., V93, P921
+   FOATA D, 1974, MATH Z, V137, P257, DOI 10.1007/BF01237393
+   LaCroix M, 2020, Arxiv, DOI arXiv:2008.03292
+   Lin ZC, 2015, J COMB THEORY A, V135, P112, DOI 10.1016/j.jcta.2015.04.006
+   Lin ZC, 2013, ELECTRON J COMB, V20
+   Roby T, 2016, IMA VOL MATH APPL, V159, P619, DOI 10.1007/978-3-319-24298-9_25
+   Rubey M., FindStat-The combinatorial statistics database
+   SHAPIRO LW, 1983, SIAM J ALGEBRA DISCR, V4, P459, DOI 10.1137/0604046
+   Shareshian J, 2010, ADV MATH, V225, P2921, DOI 10.1016/j.aim.2010.05.009
+   Sheridan-Rossi Elizabeth, 2020, PhD thesis
+   Sun H, 2014, ELECTRON J COMB, V21
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 3
+PG 27
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA KD0Y0
+UT WOS:001177915700001
+DA 2024-08-05
+ER
+
+PT J
+AU Adenbaum, B
+   Wilson, A
+AF Adenbaum, Ben
+   Wilson, Alexander
+TI Coloring Groups
+SO DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+LA English
+DT Article
+DE Groups from graphs; toggle group; independence poset
+AB We introduce coloring groups, which are permutation groups obtained from a proper edge coloring of a graph. These groups generalize the generalized toggle groups of Striker (which themselves generalize the toggle groups introduced by Cameron and Fon-der-Flaass). We present some general results connecting the structure of a coloring group to the structure of its graph coloring, providing graph-theoretic characterizations of the centralizer and primitivity of a coloring group. We apply these results particularly to generalized toggle groups arising from trees as well as coloring groups arising from the independence posets introduced by Thomas and Williams.
+C1 [Adenbaum, Ben] Dartmouth Coll, Dept Math, Hanover, NH 03755 USA.
+   [Wilson, Alexander] Oberlin Coll, Dept Math, Oberlin, OH USA.
+C3 Dartmouth College; University System of Ohio; Oberlin College
+RP Adenbaum, B (corresponding author), Dartmouth Coll, Dept Math, Hanover, NH 03755 USA.
+FX Acknowledgements The authors would like to thank Jonathan Bloom and
+   Jessica Striker for their guidance and many, many helpful conversations.
+   They would also like to thank Nate Lesnevich for his insights on an
+   early version of this project.
+CR Bloom Jonathan S., 2023, Transitive generalized toggle groups containing a cycle
+   CAMERON PJ, 1995, EUR J COMBIN, V16, P545, DOI 10.1016/0195-6698(95)90036-5
+   Einstein David, 2021, Algebraic Combinatorics, V4, P201
+   Grinberg D, 2015, ELECTRON J COMB, V22
+   Grinberg Darij, 2016, Electron. J. Combin., V23
+   Jones GA, 2014, B AUST MATH SOC, V89, P159, DOI 10.1017/S000497271300049X
+   Striker J, 2018, DISCRETE MATH THEOR, V20
+   Striker J, 2012, EUR J COMBIN, V33, P1919, DOI 10.1016/j.ejc.2012.05.003
+   The GAP Group, 2022, GAP-Groups, Algorithms, and Programming
+   The Sage Developers, 2020, SageMath, the Sage Mathematics Software System (Version 9.1)
+   Thomas H, 2006, ORDER, V23, P249, DOI 10.1007/s11083-006-9046-9
+   Thomas H, 2019, J COMB, V10, P545, DOI 10.4310/JOC.2019.v10.n3.a5
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU DISCRETE MATHEMATICS THEORETICAL COMPUTER SCIENCE
+PI NANCY
+PA 62 RUE DU CARDINAL MATHIEU, F-54000 NANCY, FRANCE
+SN 1462-7264
+EI 1365-8050
+J9 DISCRETE MATH THEOR
+JI Discret. Math. Theor. Comput. Sci.
+PY 2024
+VL 26
+IS 2
+AR 9
+PG 21
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA XY2Y1
+UT WOS:001265186800001
+DA 2024-08-05
+ER
+
+EF

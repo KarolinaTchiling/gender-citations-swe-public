@@ -1,0 +1,2904 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gregg, B
+AF Gregg, Brendan
+TI Visualizing System Latency
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+EM brendan.gregg@oracle.com
+CR Cantrill B., 2006, ACM Queue, V4, P26, DOI 10.1145/1117389.1117401
+   GREGG B, 2009, DRAM LATENCY    0206
+   GREGG B, SHOUTING DATACENTER
+   Leventhal A, 2008, COMMUN ACM, V51, P47, DOI 10.1145/1364782.1364796
+NR 4
+TC 8
+Z9 9
+U1 0
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JUL
+PY 2010
+VL 53
+IS 7
+BP 48
+EP 54
+DI 10.1145/1785414.1785435
+PG 7
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 618OD
+UT WOS:000279364300026
+OA Bronze, Green Published
+DA 2024-07-18
+ER
+
+PT J
+AU Vannoy, SA
+   Palvia, P
+AF Vannoy, Sandra A.
+   Palvia, Prashant
+TI The Social Influence Model of Technology Adoption
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+ID ACCEPTANCE
+C1 [Vannoy, Sandra A.] Appalachian State Univ, Dept Comp Informat Syst, Boone, NC 28608 USA.
+   [Palvia, Prashant] Univ N Carolina, McDowell Res Ctr, Greensboro, NC 27412 USA.
+C3 University of North Carolina; Appalachian State University; University
+   of North Carolina; University of North Carolina Greensboro
+RP Vannoy, SA (corresponding author), Appalachian State Univ, Dept Comp Informat Syst, Boone, NC 28608 USA.
+EM vannoysa@appstate.edu; pcpalvia@uncg.edu
+RI Tavares, António JV/A-7115-2008
+CR Agre PE, 2003, COMMUN ACM, V46, P39, DOI 10.1145/606272.606298
+   Axelrod R., 2000, 6 ADV COOPERATION TH
+   Baron S, 2006, INT J SERV IND MANAG, V17, P111, DOI 10.1108/09564230610656962
+   Chapin FS, 1936, AM SOCIOL REV, V1, P1, DOI 10.2307/2083858
+   DAVIS FD, 1989, MIS QUART, V13, P319, DOI 10.2307/249008
+   Dholakia UM, 2004, INT J RES MARK, V21, P241, DOI 10.1016/j.ijresmar.2003.12.004
+   Fishbein Martin., 1975, Attitude, Intention and Behavior: An Introduction to Theory and Research
+   HOROWITZ IL, 1962, SOC FORCES, V41, P177, DOI 10.2307/2573609
+   Parameswaran M, 2007, J ASSOC INF SYST, V8, P336, DOI 10.17705/1jais.00132
+   Schepers J, 2007, INFORM MANAGE-AMSTER, V44, P90, DOI 10.1016/j.im.2006.10.007
+   Wilska Terhi-Anna., 2003, Journal of Consumer Policy, V26, P441, DOI DOI 10.1023/A:1026331016172
+   ZAMBRANO E, 2000, INT ENCY SOCIAL BEHA
+NR 12
+TC 83
+Z9 108
+U1 1
+U2 12
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JUN
+PY 2010
+VL 53
+IS 6
+BP 149
+EP 153
+DI 10.1145/1743546.1743585
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA 609DR
+UT WOS:000278635800043
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Conitzer, V
+AF Conitzer, Vincent
+TI Making Decisions Based on the Preferences of Multiple Agents
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Review
+ID VOTING SCHEMES; COMBINATORIAL; AUCTIONS
+C1 Duke Univ, Durham, NC 27706 USA.
+C3 Duke University
+RP Conitzer, V (corresponding author), Duke Univ, Durham, NC 27706 USA.
+EM conitzer@cs.duke.edu
+FU NSF [IIS-0812113]; Alfred P. Sloan Foundation; Yahoo! Faculty Research
+   Grant
+FX This work is supported by NSF award number IIS-0812113, a Research
+   Fellowship from the Alfred P. Sloan Foundation, and a Yahoo! Faculty
+   Research Grant. I thank the reviewers for very detailed and helpful
+   feedback. I also thank Tuomas Sandholm for feedback on the kidney
+   exchange section, and David Pennock for feedback on the prediction
+   markets section. All errors and omissions are my own (though of course I
+   faced constraints on length and number of citations).
+CR Abraham DJ, 2007, EC'07: PROCEEDINGS OF THE EIGHTH ANNUAL CONFERENCE ON ELECTRONIC COMMERCE, P295
+   [Anonymous], 2006, Combinatorial auc- tions
+   BARTHOLDI J, 1989, SOC CHOICE WELFARE, V6, P157, DOI 10.1007/BF00303169
+   BARTHOLDI JJ, 1989, SOC CHOICE WELFARE, V6, P227, DOI 10.1007/BF00295861
+   Boutilier C, 2004, J ARTIF INTELL RES, V21, P135, DOI 10.1613/jair.1234
+   Bouveret S, 2005, 19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05), P935
+   CHEN Y, 2007, ACM SIGECOM EXCHANGE, V7, P61
+   Clarke EH., 1971, Public choice, V11, P17, DOI DOI 10.1007/BF01726210
+   CONITZER V, 2004, P EC 2004, P51
+   Conitzer V., 2006, P 21 NAT C ART INT 1, P620
+   Conitzer V, 2007, J ACM, V54, DOI 10.1145/1236457.1236461
+   Conitzer Vincent, 2002, P 18 ANN C UNC ART I, P103
+   Cramton P., 2006, COMBINATORIAL AUCTIO
+   FEIGENBAUM J, 2007, DISTRIBUTED ALGORITH
+   Ghosh A, 2008, PROCEEDINGS OF THE NINETEENTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1019
+   GIBBARD A, 1973, ECONOMETRICA, V41, P587, DOI 10.2307/1914083
+   GROVES T, 1973, ECONOMETRICA, V41, P617, DOI 10.2307/1914085
+   GUO M, 2009, GAMES EC BE IN PRESS
+   Hemaspaandra E, 2007, J COMPUT SYST SCI, V73, P73, DOI 10.1016/j.jcss.2006.09.002
+   Lahaie S, 2007, ALGORITHMIC GAME THEORY, P699
+   Lang J, 2007, 20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1366
+   Lehmann D, 2002, J ACM, V49, P577, DOI 10.1145/585265.585266
+   Lipton Richard J., 2004, P 5 ACM C EL COMM EC, P125
+   Muller R., 2006, COMBINATORIAL AUCTIO, P319
+   Nisan N, 2001, GAME ECON BEHAV, V35, P166, DOI 10.1006/game.1999.0790
+   Parkes DC, 2007, ALGORITHMIC GAME THEORY, P411
+   Roth AE, 2004, Q J ECON, V119, P457, DOI 10.1162/0033553041382157
+   Rothkopf MH, 1998, MANAGE SCI, V44, P1131, DOI 10.1287/mnsc.44.8.1131
+   Sandholm T, 2002, ARTIF INTELL, V135, P1, DOI 10.1016/S0004-3702(01)00159-X
+   Sandholm T, 2007, AI MAG, V28, P45
+   Sandholm Tuomas, 2006, Combinatorial Auctions, P233
+   Sandholm Tuomas., 2006, COMBINATORIAL AUCTIO, P337
+   SATTERTHWAITE MA, 1975, J ECON THEORY, V10, P187, DOI 10.1016/0022-0531(75)90050-2
+   Shoham Y, 2008, COMMUN ACM, V51, P74, DOI 10.1145/1378704.1378721
+   Varian HR, 2008, COMMUN ACM, V51, P9, DOI 10.1145/1378704.1378708
+   VICKREY W, 1961, J FINANC, V16, P8, DOI 10.2307/2977633
+   Wolfers J, 2004, J ECON PERSPECT, V18, P107, DOI 10.1257/0895330041371321
+   Xia Lirong., 2008, Proceedings of the Twenty-third AAAI Conference on Artificial Intelligence (AAAI-08), P202
+   Yokoo M, 2004, GAME ECON BEHAV, V46, P174, DOI 10.1016/S0899-8256(03)00045-9
+   YOUNG P, 1995, J ECON PERSPECT, V9, P51, DOI 10.1257/jep.9.1.51
+NR 40
+TC 45
+Z9 59
+U1 1
+U2 13
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD MAR
+PY 2010
+VL 53
+IS 3
+BP 84
+EP 94
+DI 10.1145/1666420.1666442
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA 563VJ
+UT WOS:000275162900028
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Bacon, D
+   van Dam, W
+AF Bacon, Dave
+   van Dam, Wim
+TI Recent Progress in Quantum Algorithms
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Review
+ID COMPUTATION
+C1 [Bacon, Dave] Univ Washington, Dept Phys, Dept Comp Sci & Engn, Seattle, WA 98195 USA.
+   [van Dam, Wim] Univ Calif Santa Barbara, Dept Comp Sci, Dept Phys, Santa Barbara, CA 93106 USA.
+C3 University of Washington; University of Washington Seattle; University
+   of California System; University of California Santa Barbara
+RP Bacon, D (corresponding author), Univ Washington, Dept Phys, Dept Comp Sci & Engn, Seattle, WA 98195 USA.
+EM dabacon@cs.washington.edu; vandam@cs.ucsb.edu
+RI Bacon, Dave/A-3112-2008
+FU Direct For Computer & Info Scie & Enginr; Division of Computing and
+   Communication Foundations [0916400] Funding Source: National Science
+   Foundation
+CR Aharonov D., 1997, P 20 9 ANN ACM S THE, P176, DOI 10.1145/258533.258579
+   AHARONOV Y, 1993, PHYS REV A, V48, P1687, DOI 10.1103/PhysRevA.48.1687
+   Ambainis A, 2007, SIAM J COMPUT, V37, P210, DOI 10.1137/S0097539705447311
+   Ambainis A, 2005, PROCEEDINGS OF THE SIXTEENTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1099
+   [Anonymous], 2007, ARXIVQUANTPH0702144
+   Bell J.S., 1964, Physics, V1, P195, DOI [10.1103/PhysicsPhysiqueFizika.1.195, DOI 10.1103/PHYSICSPHYSIQUEFIZIKA.1.195, 10.1103/Physics-PhysiqueFizika.1.195]
+   Buhrman H, 2006, PROCEEDINGS OF THE SEVENTHEENTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P880, DOI 10.1145/1109557.1109654
+   Childs A. M., 2003, P 35 ANN ACM S THEOR, P59, DOI [DOI 10.1145/780542.780552, 10.1145/780542.780552]
+   Farhi E, 1998, PHYS REV A, V58, P915, DOI 10.1103/PhysRevA.58.915
+   FEYNMAN RP, 1982, INT J THEOR PHYS, V21, P467, DOI 10.1007/BF02650179
+   Grover L. K., 1996, P 28 ANN ACM S THEOR, P212, DOI [DOI 10.1145/237814.237866, 10.1145/237814.237866]
+   Häffner H, 2005, NATURE, V438, P643, DOI 10.1038/nature04279
+   Hallgren Sean, 2002, P 34 ACM STOC, P653, DOI [10.1145/509907.510001, DOI 10.1145/509907.510001]
+   Kedlaya KS, 2006, COMPUT COMPLEX, V15, P1, DOI 10.1007/s00037-006-0204-7
+   Kitaev AY, 1997, QUANTUM COMMUNICATION, COMPUTING, AND MEASUREMENT, P181
+   Knill E, 1998, P ROY SOC A-MATH PHY, V454, P365, DOI 10.1098/rspa.1998.0166
+   Knill E, 1998, SCIENCE, V279, P342, DOI 10.1126/science.279.5349.342
+   Leibfried D, 2005, NATURE, V438, P639, DOI 10.1038/nature04251
+   Magniez F, 2005, PROCEEDINGS OF THE SIXTEENTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1109
+   Nielsen M. A., 2000, Quantum Computation and Quantum Information
+   Regev O, 2002, ANN IEEE SYMP FOUND, P520, DOI 10.1109/SFCS.2002.1181976
+   RIVEST RL, 1978, COMMUN ACM, V21, P120, DOI [10.1145/359340.359342, 10.1145/357980.358017]
+   SHOR PW, 1994, AN S FDN CO, P124
+   Shor PW, 1996, AN S FDN CO, P56, DOI 10.1109/SFCS.1996.548464
+   SPURUGUZIK A, 2005, SCIENCE, V309, P5741
+   WOEHR J, COMMUNICATION
+NR 26
+TC 61
+Z9 66
+U1 0
+U2 26
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD FEB
+PY 2010
+VL 53
+IS 2
+BP 84
+EP 93
+DI 10.1145/1646353.1646375
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 549ER
+UT WOS:000274029100017
+DA 2024-07-18
+ER
+
+PT J
+AU Saxe, E
+AF Saxe, Eric
+TI Power-Efficient Software
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Sun Microsyst Inc, Solaris Kernel Dev Grp, Santa Clara, CA 95054 USA.
+C3 Sun Microsystems, Inc.
+RP Saxe, E (corresponding author), Sun Microsyst Inc, Solaris Kernel Dev Grp, Santa Clara, CA 95054 USA.
+NR 0
+TC 33
+Z9 36
+U1 0
+U2 3
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD FEB
+PY 2010
+VL 53
+IS 2
+BP 44
+EP 48
+DI 10.1145/1646353.1646370
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 549ER
+UT WOS:000274029100012
+OA Bronze
+DA 2024-07-18
+ER
+
+PT J
+AU Kim, S
+   Lee, I
+   Lee, K
+   Jung, S
+   Park, J
+   Kim, YB
+   Kim, SR
+   Kim, J
+AF Kim, Seongwoon
+   Lee, Inseong
+   Lee, Kiho
+   Jung, Seungki
+   Park, Joonah
+   Kim, Yeun Bae
+   Kim, Sang Ryong
+   Kim, Jinwoo
+TI Mobile Web 2.0 With Multi-Display Buttons
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 [Kim, Seongwoon; Park, Joonah; Kim, Yeun Bae] Samsung Adv Inst Technol, Giheung, South Korea.
+   [Lee, Inseong; Lee, Kiho; Jung, Seungki; Kim, Jinwoo] Yonsei Univ, HCI Lab, Seoul 120749, South Korea.
+   [Kim, Sang Ryong] Samsung Elect, Mobile R&D AV Div, Suwon, South Korea.
+C3 Samsung; Yonsei University; Samsung; Samsung Electronics
+RP Kim, S (corresponding author), Samsung Adv Inst Technol, Giheung, South Korea.
+EM seongwoon.kim@samsung.com; inseong.lee@gmail.com; nmills@gmail.com;
+   seungki81@gmail.com; joonah@samsung.com; kimybae@samsung.com;
+   srkim@samsung.com; jinwoo@yonsei.ac.kr
+FU Samsung Advanced Institute of Technology (SAIT)
+FX This work is supported by Samsung Advanced Institute of Technology
+   (SAIT).
+CR Ames M., 2007, P SIGCHI C HUMAN FAC, P971
+   ANDREWS R, 2005, WIRED NEWS
+   [Anonymous], IEEE COMPUTER, DOI DOI 10.1109/2.222119
+   deVries E, 1997, INT J HUM-COMPUT ST, V46, P31, DOI 10.1006/ijhc.1996.0082
+   Hong W, 2004, J MANAGE INFORM SYST, V21, P149
+   Murugesan San, 2007, IT Professional, V9, P34, DOI 10.1109/MITP.2007.78
+   Pirolli P., 2003, ACM Transactions on Computer-Human Interaction, V10, P20, DOI 10.1145/606658.606660
+   Sarvas R., 2004, P 12 ANN ACM INT C M
+   SCHWEIGER W, 2005, P ICA NY
+   Shneiderman B, 2006, COMMUN ACM, V49, P69, DOI 10.1145/1121949.1121985
+   STARNAUD B, 2007, P NSF OECD WORKSH SO
+   Toms EG, 2000, INT J HUM-COMPUT ST, V52, P423, DOI 10.1006/ijhc.1999.0345
+NR 12
+TC 19
+Z9 20
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JAN
+PY 2010
+VL 53
+IS 1
+BP 136
+EP 141
+DI 10.1145/1629175.1629208
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 540CD
+UT WOS:000273307400033
+DA 2024-07-18
+ER
+
+PT J
+AU Lin, R
+   Kraus, S
+AF Lin, Raz
+   Kraus, Sarit
+TI Can Automated Agents Proficiently Negotiate With Humans?
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Review
+ID INCOMPLETE INFORMATION; ARCHITECTURE; MODEL
+C1 [Kraus, Sarit] Bar Ilan Univ, Dept Comp Sci, Ramat Gan, Israel.
+   [Kraus, Sarit] Univ Maryland, Inst Adv Comp Studies, College Pk, MD 20742 USA.
+C3 Bar Ilan University; University System of Maryland; University of
+   Maryland College Park
+RI Lin, Raz/AAF-7136-2020
+FU U.S. army research laboratory; U.S. army research office
+   [W911NF-08-1-0144]; NSF [0705587]
+FX This research is based upon work supported in part by the U.S. army
+   research laboratory and the U.S. army research office under grant number
+   W911NF-08-1-0144 and under NSF grant 0705587.
+CR [Anonymous], 2007, Autonomous Bidding Agents: Strategies and Lessons from the Trading Agent Competition
+   [Anonymous], P 8 INT C INT VIRT A
+   BOLTON G, 1989, AM ECON REV, V81, P1096
+   Byde A, 2003, IEEE INTERNATIONAL CONFERENCE ON E-COMMERCE, P59, DOI 10.1109/COEC.2003.1210234
+   Charness G, 2002, Q J ECON, V117, P817, DOI 10.1162/003355302760193904
+   Chavez A., 1996, PAAM 96. Proceedings of the First International Conference on the Practical Application of Intelligent Agents and Multi-Agent Technology, P75
+   Erev I, 1998, AM ECON REV, V88, P848
+   Farrell J, 1996, J ECON PERSPECT, V10, P103, DOI 10.1257/jep.10.3.103
+   FICICI SG, 2008, P AAMAS, P315
+   Fisher R., 1991, GETTING YES NEGOTIAT, V2nd
+   Gal Y, 2004, PROCEEDING OF THE NINETEENTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND THE SIXTEENTH CONFERENCE ON INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE, P226
+   Grossklags J, 2006, IEEE T SYST MAN CY C, V36, P56, DOI 10.1109/TSMCC.2005.860575
+   Grosz B.J., 2004, P 3 INT JOINT C AUTO, P782
+   Hindriks KV, 2008, LECT NOTES ARTIF INT, V5180, P264, DOI 10.1007/978-3-540-85834-8_21
+   Hoppman P. T., 1996, NEGOTIATION PROCESS
+   Jonker CM, 2007, AUTON AGENT MULTI-AG, V15, P221, DOI 10.1007/s10458-006-9009-y
+   Katz R., 2007, P 22 NAT C ART INT, P821
+   Katz Ron., 2006, Proceedings of the fifth international joint conference on Autonomous agents and multiagent systems, P697
+   Keeney R. L., 1976, DECISION MULTIPLE OB
+   Kenny P., 2007, Proceedings of i/itsec, V174, P911
+   Kraus S, 1998, ARTIF INTELL, V104, P1, DOI 10.1016/S0004-3702(98)00078-2
+   KRAUS S, 1995, COMPUT INTELL, V11, P132, DOI 10.1111/j.1467-8640.1995.tb00026.x
+   Kraus S, 2001, INTEL ROB AUTON AGEN
+   Kraus S, 2008, ARTIF INTELL, V172, P1, DOI 10.1016/j.artint.2007.05.007
+   Lin R, 2008, ARTIF INTELL, V172, P823, DOI 10.1016/j.artint.2007.09.007
+   MCKELVEY RD, 1992, ECONOMETRICA, V60, P803, DOI 10.2307/2951567
+   Muthoo A, 1999, BARGAINING THEORY AP
+   Oshrat Y., 2009, P 8 INT C AUT AG MUL
+   RAIFFA H., 1982, The Art and Science of Negotiation
+   Rasmusen E., 2001, Games and Information: An Introduction to Game Theory
+   Ross W, 1996, INT J CONFL MANAGE, V7, P314, DOI 10.1108/eb022786
+   RUBINSTEIN A, 1982, ECONOMETRICA, V50, P97, DOI 10.2307/1912531
+   RUBINSTEIN A, 1985, ECONOMETRICA, V53, P1151, DOI 10.2307/1911016
+   Sanfey AG, 2003, SCIENCE, V300, P1755, DOI 10.1126/science.1082976
+   SELTEN R, 1986, J ECON BEHAV ORGAN, V7, P47, DOI 10.1016/0167-2681(86)90021-1
+   Tennenholtz M, 1996, MOR KAUF R, P553
+   TVERSKY A, 1981, SCIENCE, V211, P453, DOI 10.1126/science.7455683
+   Zhang XQ, 2005, AUTON AGENT MULTI-AG, V10, P5, DOI 10.1007/s10458-004-5020-3
+   2008, BARGAINING NEGOTIATI
+   2008, ONLINE NEGOTIATION C
+NR 40
+TC 92
+Z9 101
+U1 1
+U2 7
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD JAN
+PY 2010
+VL 53
+IS 1
+BP 78
+EP 88
+DI 10.1145/1629175.1629199
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA 540CD
+UT WOS:000273307400024
+DA 2024-07-18
+ER
+
+PT J
+AU Izadi, S
+   Hodges, S
+   Butler, A
+   West, D
+   Rrustemi, A
+   Molloy, M
+   Buxton, W
+AF Izadi, Shahram
+   Hodges, Steve
+   Butler, Alex
+   West, Darren
+   Rrustemi, Alban
+   Molloy, Mike
+   Buxton, William
+TI ThinSight: A Thin Form-Factor Interactive Surface Technology
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+AB ThinSight is a thin form-factor interactive surface technology based on optical sensors embedded inside a regular liquid crystal display (LCD). These augment the display with the ability to sense a variety of objects near the surface, including fingertips and hands, to enable multitouch interaction. Optical sensing also allows other physical items to be detected, allowing interactions using various tangible objects. A major advantage of ThinSight over existing camera and projector-based systems is its compact formfactor, making it easier to deploy in a variety of settings. We describe how the ThinSight hardware is embedded behind a regular LCD, allowing sensing without degradation of display capability, and illustrate the capabilities of our system through a number of proof-of-concept hardware prototypes and applications.
+EM shahrami@microsoft.com; shodges@microsoft.com; dab@microsoft.com
+OI West, Darren/0000-0001-7316-8056
+CR ABILEAH A, 2007, P EDT 07 SAN DIEG CA
+   [Anonymous], P 14 ANN ACM S US IN
+   [Anonymous], 2002, P SIGCHI C HUMAN FAC, DOI DOI 10.1145/503376.503413
+   BURGI L, 2006, ORG ELECT, V7
+   Buxton B., 2007, MULTITOUCH SYSTEMS I
+   Han J.Y., 2005, Proceedings of the ACM Symposium on User Interface Software and Technology, P115, DOI DOI 10.1145/1095034.1095054
+   Hodges S., 2007, P 20 ANN ACM S US IN, P259, DOI DOI 10.1145/1294211.1294258
+   *HP, HP TOUCHSMART
+   Hudson S.E., 2004, P 17 ANN ACM S USER, P287
+   IZADI S, 2008, IEEE WORKSH HOR INT, P181
+   Izadi S, 2007, SECOND ANNUAL IEEE INTERNATIONAL WORKSHOP ON HORIZONTAL INTERACTIVE HUMAN-COMPUTER SYSTEMS, PROCEEDINGS, P3, DOI 10.1109/TABLETOP.2007.34
+   *JAZZMUTANT, JAZZMUTANT LEM
+   Krueger M.K., 1991, Artificial Reality, V2
+   Lee S., 1985, P SIGCHI C HUMAN FAC, P21, DOI DOI 10.1145/317456.317461
+   LOVISCACH J, 2007, P 20 ANN ACM S US IN, P169
+   Malik S., 2004, ACM INT C MULTIMODAL, P289, DOI DOI 10.1145/1027933.1027980
+   Matsushita N., 1997, Proceedings of the ACM Symposium on User Interface Software and Technology. 10th Annual Symposium. UIST '97, P209, DOI 10.1145/263407.263549
+   Matsushita N., 2000, UIST. Proceedings of the 13th Annual ACM Symposium on User Interface Software and Technology, P211, DOI 10.1145/354401.354774
+   MATSUSHITA T, LCD FINGER SHADOW SE
+   *N TRIG, DUO TOUCH SENS
+   Sergi a, 2007, Proceedings of the 1st international conference on Tangible and embedded interaction-TEI'07, P139, DOI [10.1145/1226969.1226998, DOI 10.1145/1226969.1226998]
+   *TACT CONTR INC, ARR SENS
+   van Loenen Evert, 2007, TANG PLAY WORKSH IUI
+   Wellner P., 1993, COMMUN ACM, V36, P87
+   Westerman W., 1999, THESIS U DELAWARE
+   Wilson A.C., 2004, INDIGENIZING ACAD, P69, DOI [10.1145/1027933.1027946, DOI 10.1145/1027933.1027946]
+   Wilson A.D., 2005, P 18 ANN ACM S USER, P83, DOI [10.1145/1095034.1095047, DOI 10.1145/1095034.1095047]
+NR 27
+TC 2
+Z9 31
+U1 0
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD DEC
+PY 2009
+VL 52
+IS 12
+BP 90
+EP 98
+DI 10.1145/1610252.1610277
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 530WI
+UT WOS:000272622600028
+DA 2024-07-18
+ER
+
+PT J
+AU Hirschheim, R
+AF Hirschheim, Rudy
+TI Offshoring and the New World Order
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Louisiana State Univ, EJ Ourso Coll Business, Baton Rouge, LA 70803 USA.
+C3 Louisiana State University System; Louisiana State University
+RP Hirschheim, R (corresponding author), Louisiana State Univ, EJ Ourso Coll Business, Baton Rouge, LA 70803 USA.
+EM rudy@lsu.edu
+CR Carmel E., 2005, Offshoring Information Technology: Sourcing and Outsourcing to a Global Workforce
+   Davis GB, 2006, J ASSOC INF SYST, V7, P770, DOI 10.17705/1jais.00108
+   Dibbern J., 2004, Data Base for Advances in Information Systems, V35, P6, DOI 10.1145/1035233.1035236
+   Friedman T. L., 2005, The World Is Flat: A Brief History of the Twenty-First Century
+   GEARY LH, 2004, MONEY CNN COM   0109
+   Harrison AE, 2006, ACAD MANAGE PERSPECT, V20, P6, DOI 10.5465/AMP.2006.23270303
+   KONRAD R, 2005, HOUSTON CHRONIC 0619
+   Mann Catherine., 2003, GLOBALIZATION IT SER
+   McLaren J, 2000, AM ECON REV, V90, P1239, DOI 10.1257/aer.90.5.1239
+   PASTORE R, 2005, CIO MAGAZINE    0615
+   Sheshabalaya Ashutosh., 2004, Rising Elephant: The Growing Clash With India Over White Collar Jobs
+   VEGSO J, 2005, COMPUTING RES NE MAY, V17
+NR 12
+TC 9
+Z9 15
+U1 0
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD NOV
+PY 2009
+VL 52
+IS 11
+BP 132
+EP 135
+DI 10.1145/1592761.1592792
+PG 4
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 512AV
+UT WOS:000271215300037
+DA 2024-07-18
+ER
+
+PT J
+AU Phillips, JC
+   Stone, JE
+AF Phillips, James C.
+   Stone, John E.
+TI Probing Biomolecular Machines with Graphics Processors
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+ID MOLECULAR-DYNAMICS; UNITS
+C1 [Phillips, James C.; Stone, John E.] Univ Illinois, Beckman Inst Adv Sci & Technol, Theoret & Computat Biophys Grp, Urbana, IL 61801 USA.
+C3 University of Illinois System; University of Illinois Urbana-Champaign
+RP Phillips, JC (corresponding author), Univ Illinois, Beckman Inst Adv Sci & Technol, Theoret & Computat Biophys Grp, Urbana, IL 61801 USA.
+EM jim@ks.uiuc.edu; johns@ks.uiuc.edu
+RI Phillips, James C./R-7100-2019; Stone, John E/F-3741-2011
+OI Phillips, James C./0000-0002-2296-3591; Stone, John/0000-0001-7215-762X
+CR AKIZAWA H, 2006, J SUPERCOMPUT, V36, P219
+   Anderson JA, 2008, J COMPUT PHYS, V227, P5342, DOI 10.1016/j.jcp.2008.01.047
+   [Anonymous], P GSPX MULT APPL C O
+   BUCK I, P 2004 ACM SIGGRAPH, P777
+   Davis DM, 2007, PROCEEDINGS OF THE HPCMP USERS GROUP CONFERENCE 2007, P305
+   Dynerman D, 2009, J COMPUT BIOL, V16, P523, DOI 10.1089/cmb.2008.0157
+   ELSEN E, 2007, N BODY SIMULATIONS G
+   FAN Z, P 2004 ACM IEEE C SU, P47
+   FIMTSEV IS, 2008, J CHEM THEORY COMPUT, V4, P222
+   Friedrichs MS, 2009, J COMPUT CHEM, V30, P864, DOI 10.1002/jcc.21209
+   Göddeke D, 2007, PARALLEL COMPUT, V33, P685, DOI 10.1016/j.parco.2007.09.002
+   Hardy DJ, 2009, PARALLEL COMPUT, V35, P164, DOI 10.1016/j.parco.2008.12.005
+   Humphrey W, 1996, J MOL GRAPH MODEL, V14, P33, DOI 10.1016/0263-7855(96)00018-5
+   Lindholm E, 2008, IEEE MICRO, V28, P39, DOI 10.1109/MM.2008.31
+   McCool M, 2004, ACM T GRAPHIC, V23, P787, DOI 10.1145/1015706.1015801
+   [Munshi A. Group KOW. Group KOW.], 2008, The opencl specification
+   Nickolls John, 2008, ACM Queue, V6, DOI 10.1145/1365490.1365500
+   Owens JD, 2008, P IEEE, V96, P879, DOI 10.1109/JPROC.2008.917757
+   PHILLIPS J, 2008, P 2008 ACM IEEE C SU
+   Phillips JC, 2005, J COMPUT CHEM, V26, P1781, DOI 10.1002/jcc.20289
+   Rodrigues ChristopherI., 2008, Proceedings of the 2008 conference on Computing frontiers - CF '08, P273
+   Showerman M., 2009, P 10 LCI INT C HIGH
+   Stone J. E., 2009, ACM INT C P SERIES, P9
+   Stone JE, 2007, J COMPUT CHEM, V28, P2618, DOI 10.1002/jcc.20829
+   2007, NVIDIA CUDA  COMPUTE
+NR 25
+TC 6
+Z9 8
+U1 0
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD OCT
+PY 2009
+VL 52
+IS 10
+BP 34
+EP 41
+DI 10.1145/1562764.1562780
+PG 8
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 512AT
+UT WOS:000271215000017
+OA Bronze
+DA 2024-07-18
+ER
+
+PT J
+AU Loiacono, ET
+   Romano, NC
+   McCoy, S
+AF Loiacono, Eleanor T.
+   Romano, Nicholas C., Jr.
+   McCoy, Scott
+TI The State of Corporate Website Accessibility
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 [Loiacono, Eleanor T.] Worcester Polytech Inst, Dept Management, Worcester, MA 01609 USA.
+   [Romano, Nicholas C., Jr.] Oklahoma State Univ, Spears Sch Business, Dept Management Sci & Informat Syst, Tulsa, OK USA.
+   [McCoy, Scott] Coll William & Mary, Mason Sch Business, Williamsburg, VA USA.
+C3 Worcester Polytechnic Institute; Oklahoma State University System;
+   Oklahoma State University - Tulsa; William & Mary
+RP Loiacono, ET (corresponding author), Worcester Polytech Inst, Dept Management, Worcester, MA 01609 USA.
+EM eloiacon@wpi.edu; nicholas.romano@okstate.edu; scott.mccoy@mason.wm.edu
+RI Loiacono, Eleanor T/G-3946-2012
+OI Loiacono, Eleanor/0000-0002-4059-702X
+CR HACKETT S, 2004, P 6 INT ACM SIGACCES, P32
+   Jaeger PT, 2006, TELECOMMUN POLICY, V30, P112, DOI 10.1016/j.telpol.2005.10.001
+   LAW C, 7 INT ACM SIGACCESS, P20
+   Lazar J, 2004, COMPUT HUM BEHAV, V20, P269, DOI 10.1016/j.chb.2003.10.018
+   Loiacono ET, 2004, COMMUN ACM, V47, P82, DOI 10.1145/1035134.1035138
+   Miller Scott., 2003, HISPANICS REPLACE AF
+   Paciotti G.F., 2005, NSTI NANOTECH, V1, P7
+   REIMER S, TEENS HAVE LOT SPEND
+   Romano NC, 2002, INT J ELECTRON COMM, V7, P81
+   Schwaig K.S., 2005, The Database for Advances in Information Systems, V36, P49
+   Sullivan T, 2000, CUU 2000 CONFERENCE PROCEEDINGS, P139, DOI 10.1145/355460.355549
+NR 11
+TC 29
+Z9 38
+U1 0
+U2 7
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD SEP
+PY 2009
+VL 52
+IS 9
+BP 128
+EP 132
+DI 10.1145/1562164.1562197
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA 489KK
+UT WOS:000269418800033
+DA 2024-07-18
+ER
+
+PT J
+AU Lim, A
+   Ma, H
+   Wen, Q
+   Xu, Z
+   Cheang, B
+AF Lim, Andrew
+   Ma, Hong
+   Wen, Qi
+   Xu, Zhou
+   Cheang, Brenda
+TI Distinguishing Citation Quality for Journal Impact Assessment
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 [Lim, Andrew] City Univ Hong Kong, Dept Management Sci, Kowloon, Hong Kong, Peoples R China.
+   [Xu, Zhou] Hong Kong Polytech Univ, Fac Business, Dept Logist, Hong Kong, Hong Kong, Peoples R China.
+   [Cheang, Brenda] Red Jasper Ltd, Hong Kong, Hong Kong, Peoples R China.
+C3 City University of Hong Kong; Hong Kong Polytechnic University
+RP Lim, A (corresponding author), City Univ Hong Kong, Dept Management Sci, Kowloon, Hong Kong, Peoples R China.
+EM msalim@city.edu.hk; lgtzx@polyu.edu.hk
+RI Xu, Zhou/F-5612-2011; Lim, Andrew/A-8597-2010; Cheang,
+   Brenda/B-1512-2010
+OI Xu, Zhou/0000-0003-1528-116X; LIM, Andrew/0000-0002-2174-2957; Lim,
+   Andrew/0000-0003-0510-8080; Cheang, Brenda/0000-0002-4998-5168
+CR Horn R. A., 2012, MATRIX ANAL
+   Katerattanakul P, 2003, COMMUN ACM, V46, P111, DOI 10.1145/944217.944221
+   KATERATTANAKUL P, COMMUN ACM, V49, P114
+   KATERATTANAKUL P, J INFORM TECHNOLOGY, V7, P1
+   Mylonopoulos NA, 2001, COMMUN ACM, V44, P29, DOI 10.1145/383694.383701
+   Nerur S, 2005, COMMUN ACM, V48, P71, DOI 10.1145/1096000.1096007
+   Page L., 1999, PAGERANK CITATION RA
+   Pieters R, 2002, J ECON LIT, V40, P483, DOI 10.1257/002205102320161348
+   PINSKI GAN, INFORM PROCESSING MA, V12, P297
+   PUNJ G, 1983, J MARKETING RES, V20, P134, DOI 10.2307/3151680
+   Saunders C., 2006, MIS J RANKING
+   VERMUNT JK, LOG LINEAR EVENT HIS
+NR 12
+TC 16
+Z9 16
+U1 0
+U2 10
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD AUG
+PY 2009
+VL 52
+IS 8
+BP 111
+EP 116
+DI 10.1145/1536616.1536645
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA 478DL
+UT WOS:000268567900034
+OA Green Accepted
+DA 2024-07-18
+ER
+
+PT J
+AU Coates, A
+   Abbeel, P
+   Ng, AY
+AF Coates, Adam
+   Abbeel, Pieter
+   Ng, Andrew Y.
+TI Apprenticeship Learning for Helicopter Control
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+AB Autonomous helicopter flight is widely regarded to be a highly challenging control problem. As helicopters are highly unstable and exhibit complicated dynamical behavior, it is particularly difficult to design controllers that achieve high performance over a broad flight regime.
+   While these aircraft are notoriously difficult to control, there are expert human pilots who are nonetheless capable of demonstrating a wide variety of maneuvers, including aerobatic maneuvers at the edge of the helicopter's performance envelope. In this paper, we present algorithms for modeling and control that leverage these demonstrations to build high-performance control systems for autonomous helicopters. More specifically, we detail our experiences with the Stanford Autonomous Helicopter, which is now capable of extreme aerobatic flight meeting or exceeding the performance of our own expert pilot.
+C1 [Coates, Adam; Ng, Andrew Y.] Stanford Univ, Dept Comp Sci, Stanford, CA 94305 USA.
+   [Abbeel, Pieter] Univ Calif Berkeley, Div Comp Sci, Berkeley, CA 94720 USA.
+C3 Stanford University; University of California System; University of
+   California Berkeley
+RP Coates, A (corresponding author), Stanford Univ, Dept Comp Sci, Stanford, CA 94305 USA.
+EM acoates@cs.stanford.edu; pabbeel@eecs.berkeley.edu; ang@cs.stanford.edu
+FU DARPA Learning Locomotion program [FA8650-05-C-7261]
+FX We thank Garett Oku for piloting and building our helicopters. Adam
+   Coates is supported by a Stanford Graduate Fellowship. This work was
+   also supported in part by the DARPA Learning Locomotion program under
+   contract number FA8650-05-C-7261.
+CR Abbeel P., 2007, Proceedings of the 19th International Conference on Neural Information Processing Systems, P1
+   Abbeel P., 2004, INT C MACH LEARN ICM
+   ABBEEL P, 2006, NIPS, V18, P1
+   ABBEEL P, 2008, ISER, V11
+   Abbeel Pieter., 2006, Proceedings of the 23rd International Conference on Machine Learning, P1
+   An Chae H, 1988, Model-based control of a robot manipulator
+   Anderson BDO., 2014, OPTIMAL CONTROL LINE
+   ATKESON C, 1997, P ICML
+   Bagnell JA, 2001, IEEE INT CONF ROBOT, P1615, DOI 10.1109/ROBOT.2001.932842
+   BOUTILIER C, 1996, P UAI
+   CALINON S, 2007, IEEE T SYSTEMS MAN B, V37
+   Coates A., 2008, P 25 INT C MACH LEAR, P144
+   DEMPSTER AP, 1977, J ROY STAT SOC
+   GAVRILETS V, 2002, AIAA GUID NAV CONTR
+   Jacobson D. H., 1970, DIFFERENTIAL DYNAMIC
+   La Civita M, 2006, J GUID CONTROL DYNAM, V29, P485, DOI 10.2514/1.15796
+   LACIVITA M, 2003, THESIS CARNEGIE MELL
+   Leishman J.G., 2000, Principles of Helicopter Aerodynamics
+   Listgarten J., 2005, NIPS, V17
+   LISTGARTEN J, 2006, THESIS U TORONTO
+   Needleman S. B., 1970, J MOL BIOL
+   Neu G., 2007, P UAI
+   Ng A.Y., 2004, NIPS, V16
+   Ng A.Y., 2004, ISER
+   Ng AY., 2000, P 17 INT C MACH LEAR, V1, P2, DOI DOI 10.2460/AJVR.67.2.323
+   RAMACHANDRAN D, 2007, P IJCAI
+   Ratliff N., 2006, P ICML
+   Roberts JM, 2003, IEEE INT CONF ROBOT, P546
+   SAKOE H, 1978, IEEE T ACOUST SPEECH, V26, P43, DOI 10.1109/TASSP.1978.1163055
+   Saripalli S., 2003, VISUALLY GUIDED LAND
+   SEDDON J, 1990, AIAA ED SERIES
+   Syed U., 2008, NIPS, V20
+NR 32
+TC 61
+Z9 70
+U1 0
+U2 16
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD JUL
+PY 2009
+VL 52
+IS 7
+BP 97
+EP 105
+DI 10.1145/1538788.1538812
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 467DG
+UT WOS:000267716300031
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Feldman, SI
+AF Feldman, Stuart I.
+TI ACM's Annual Report
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JAN
+PY 2009
+VL 52
+IS 1
+BP 33
+EP 37
+DI 10.1145/1435417.1435425
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 392JT
+UT WOS:000262299700017
+DA 2024-07-18
+ER
+
+PT J
+AU Jutla, DN
+   Kanevsky, D
+AF Jutla, Dawn N.
+   Kanevsky, Dimitri
+TI <i>wise</i>Pad Services for Vision-, Hearing-, and Speech-Impaired Users
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 [Jutla, Dawn N.] St Marys Univ, Sobey Sch Business, Dept Finance Informat Syst & Management Sci, St Marys, NC USA.
+   [Kanevsky, Dimitri] IBM Corp, Thomas J Watson Res Ctr, Speech & Language Algorithms Dept, Yorktown Hts, NY 10598 USA.
+C3 International Business Machines (IBM)
+RP Jutla, DN (corresponding author), St Marys Univ, Sobey Sch Business, Dept Finance Informat Syst & Management Sci, St Marys, NC USA.
+EM dawn.jutla@smu.ca; kanevsky@us.ibm.com
+CR BASSON SH, 2007, Patent No. 7221405
+   FEIN RA, 1999, Patent No. 5924108
+   Haritaoglu Ismail., 2001, P 3 INT C UBIQUITOUS, P247
+   JUTLA DN, 2006, WHATS NEXT CHARLES S
+   KANEVSKY D, 2008, Patent No. 20080174547
+   KANEVSKY D, 2005, Patent No. 6912580
+   Toossi M, 2002, MON LABOR REV, V125, P15
+NR 7
+TC 3
+Z9 4
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JAN
+PY 2009
+VL 52
+IS 1
+BP 64
+EP 69
+DI 10.1145/1435417.1435434
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 392JT
+UT WOS:000262299700021
+DA 2024-07-18
+ER
+
+PT J
+AU Hinchey, M
+   Jackson, M
+   Cousot, P
+   Cook, B
+   Bowen, JP
+   Margaria, T
+AF Hinchey, Mike
+   Jackson, Michael
+   Cousot, Patrick
+   Cook, Byron
+   Bowen, Jonathan P.
+   Margaria, Tiziana
+TI Software engineering and formal methods
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+ID MYTHS
+C1 [Hinchey, Mike] Univ Limerick, Limerick, Ireland.
+   [Cousot, Patrick] Ecole Normale Super, Paris, France.
+   [Cook, Byron] Univ Cambridge, Microsofts Lab, Cambridge CB2 1TN, England.
+   [Margaria, Tiziana] Univ Potsdam, Inst Informat, Potsdam, Germany.
+C3 University of Limerick; Universite PSL; Ecole Normale Superieure (ENS);
+   University of Cambridge; University of Potsdam
+EM mike.hinchey@lero.ie; jacksonma@acm.org; Patrick.Cousot@ens.fr;
+   bycook@microsoft.com; jpbowen@gmail.com; margarita@cs.uni-potsdam.de
+RI Margaria, Tiziana/AAO-2272-2021; Bowen, Jonathan P./A-3383-2008
+OI Bowen, Jonathan P./0000-0002-8748-6140; Margaria,
+   Tiziana/0000-0002-5547-9739; Hinchey, Mike/0000-0001-5110-561X
+CR [Anonymous], 2002, UCBCSD021175
+   BOWEN JP, 1995, IEEE SOFTWARE, V12, P34, DOI 10.1109/52.391826
+   BOWEN JP, 1999, FORMAL APPROACHES CO
+   COOK B, P 2006 ACM SIGPLAN C, P415
+   Cook B, 2007, PLDI'07: PROCEEDINGS OF THE 2007 ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION, P320, DOI 10.1145/1250734.1250771
+   COUSOT P, 2007, P 1 IEEE IFIP INT S, P3
+   Delmas D, 2007, LECT NOTES COMPUT SC, V4634, P437
+   FERDINAND C, 2006, LECT NOTES COMPUTER, V4147, P1
+   GOTSMAN A, P 2007 ACM SIGPLAN C, P226
+   Gray J., 2001, P HIGH DEP COMP CONS
+   HALL A, 1990, IEEE SOFTWARE, V7, P11, DOI 10.1109/52.57887
+   Laprie J., 1992, Dependable Computing and Fault-tolerant Systems Series, V5
+   STEFFEN B, 1996, ACM COMPUTING SURVEY
+   WOLPER P, 1997, STTT, V1, P6
+   [No title captured]
+NR 15
+TC 28
+Z9 34
+U1 0
+U2 5
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD SEP
+PY 2008
+VL 51
+IS 9
+BP 54
+EP 59
+DI 10.1145/1378727.1378742
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 345IJ
+UT WOS:000258989500023
+OA Bronze
+DA 2024-07-18
+ER
+
+PT J
+AU Mohan, K
+   Jain, R
+AF Mohan, Kannan
+   Jain, Radhika
+TI Using traceability to mitigate cognitive biases in software development
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+ID DECISION-SUPPORT-SYSTEMS; HEURISTICS
+C1 [Mohan, Kannan; Jain, Radhika] CUNY, Baruch Coll, Zicklin Sch Business, New York, NY 10021 USA.
+C3 City University of New York (CUNY) System; Baruch College (CUNY)
+RP Mohan, K (corresponding author), CUNY, Baruch Coll, Zicklin Sch Business, New York, NY 10021 USA.
+EM kannan_mohan@baruch.cuny.edu; radhika_jain@baruch.cuny.edu
+CR Arnott D, 2006, INFORM SYST J, V16, P55, DOI 10.1111/j.1365-2575.2006.00208.x
+   Domges R, 1998, COMMUN ACM, V41, P54, DOI 10.1145/290133.290149
+   FISHER K, 2000, J PORTFOLIO MANAGE, V1, P10
+   Harvey N, 2004, INT J FORECASTING, V20, P391, DOI 10.1016/j.ijforecast.2003.09.012
+   KAHNEMAN D, 1973, PSYCHOL REV, V80, P237, DOI 10.1037/h0034747
+   Kirs PJ, 2001, INFORM MANAGE, V38, P153, DOI 10.1016/S0378-7206(00)00062-8
+   KYDD CT, 1989, OMEGA-INT J MANAGE S, V17, P335, DOI 10.1016/0305-0483(89)90047-9
+   Parsons J, 2004, IEEE T SOFTWARE ENG, V30, P873, DOI 10.1109/TSE.2004.94
+   Ramesh B, 2001, IEEE T SOFTWARE ENG, V27, P58, DOI 10.1109/32.895989
+   STACY W, 1995, COMMUN ACM, V38, P57, DOI 10.1145/203241.203256
+   TVERSKY A, 1974, SCIENCE, V185, P1124, DOI 10.1126/science.185.4157.1124
+NR 11
+TC 12
+Z9 14
+U1 0
+U2 4
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD SEP
+PY 2008
+VL 51
+IS 9
+BP 110
+EP 114
+DI 10.1145/1378727.1389970
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA 345IJ
+UT WOS:000258989500033
+DA 2024-07-18
+ER
+
+PT J
+AU Weitzner, DJ
+   Abelson, H
+   Berners-Lee, T
+   Feigenbaum, J
+   Hendler, J
+   Sussman, GJ
+AF Weitzner, Daniel J.
+   Abelson, Harold
+   Berners-Lee, Tim
+   Feigenbaum, Joan
+   Hendler, James
+   Sussman, Gerald Jay
+TI Information accountability
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 [Weitzner, Daniel J.] MIT, Decentralized Informat Grp, Cambridge, MA 02139 USA.
+   [Weitzner, Daniel J.; Berners-Lee, Tim] MIT, Comp Sci & Artificial Intelligence Lab, Cambridge, MA 02139 USA.
+   [Feigenbaum, Joan] Yale Univ, New Haven, CT USA.
+   [Hendler, James] Rensselaer Polytech Inst, Troy, NY USA.
+C3 Massachusetts Institute of Technology (MIT); Massachusetts Institute of
+   Technology (MIT); Yale University; Rensselaer Polytechnic Institute
+RP Weitzner, DJ (corresponding author), MIT, Decentralized Informat Grp, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM djweitzner@csail.mit.edu; hal@mit.edu; timbl@mit.edu;
+   joan.feigenbaum@yale.edu; hendler@cs.rpi.edu; gjs@mit.edu
+OI Weitzner, Daniel/0000-0002-2368-5300; Berners-Lee,
+   Timothy/0000-0003-1279-3709; Hendler, James/0000-0003-3056-1960
+CR Barth A., 2004, Proceedings of the 2004 ACM workshop on Privacy in the electronic society, P45
+   DEMPSEY J, 2004, G WASHINGTON LAW REV, V72
+   GOLBECK G, 2000, CONCURRENCY COMPUTAT
+   Jobs S., 2007, THOUGHTS MUSIC
+   KAGAL L, 2008, P IEEE WORKSH POL DI
+   LUNT T, 2003, PROTECTING PRIVACY T
+   Samarati P, 2001, IEEE T KNOWL DATA EN, V13, P1010, DOI 10.1109/69.971193
+   SOLOVE DANIEL J., 2004, INFORM AGE, P228
+   Sweeney L, 2002, INT J UNCERTAIN FUZZ, V10, P557, DOI 10.1142/S0218488502001648
+   SZOMSZOR M, 2003, P INT C ONT DAT APPL, P603
+   Westin A. F., 1967, PRIVACY FREEDOM
+NR 11
+TC 173
+Z9 204
+U1 0
+U2 29
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD JUN
+PY 2008
+VL 51
+IS 6
+BP 82
+EP 87
+DI 10.1145/1349026.1349043
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 310LH
+UT WOS:000256530600021
+DA 2024-07-18
+ER
+
+PT J
+AU Trimi, S
+   Sheng, H
+AF Trimi, Silvana
+   Sheng, Hong
+TI Emerging trends in M-government
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 [Trimi, Silvana] Univ Nebraska, Lincoln, NE 68588 USA.
+   [Sheng, Hong] Univ Missouri, Dept Business Adm, Rolla, MO 65401 USA.
+C3 University of Nebraska System; University of Nebraska Lincoln;
+   University of Missouri System; Missouri University of Science &
+   Technology
+RP Trimi, S (corresponding author), Univ Nebraska, Lincoln, NE 68588 USA.
+EM strimi@unl.edu; hsheng@umr.edu
+RI Trimi, Silvana/V-4464-2017
+OI Trimi, Silvana/0000-0002-9482-3731
+CR [Anonymous], 2004, E GOVT M GOVT EMERGI
+   [Anonymous], P INT S E M GOV
+   Banerjee P., 2004, Electronic Government, V1, P29, DOI 10.1504/EG.2004.004135
+   *INF COMM JAP, 2002, FEAT STIRR U JAP
+   Jeong K., 2003, P ICA 37 C
+   Kamssu A. J., 2005, International Journal of Mobile Communications, V3, P249, DOI 10.1504/IJMC.2005.006583
+   Lee SM, 2005, COMMUN ACM, V48, P99, DOI 10.1145/1089107.1089112
+   LEE SM, 2006, INT J ELECT GOVT RES, V3, P113, DOI DOI 10.1504/EG.2006.009213
+NR 8
+TC 80
+Z9 86
+U1 2
+U2 28
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD MAY
+PY 2008
+VL 51
+IS 5
+BP 53
+EP 58
+DI 10.1145/1342327.1342338
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 302OS
+UT WOS:000255978400015
+DA 2024-07-18
+ER
+
+PT J
+AU Denning, PJ
+   Yaholkovsky, P
+AF Denning, Peter J.
+   Yaholkovsky, Peter
+TI Getting to "We"
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 [Denning, Peter J.] Naval Postgrad Sch Monterey, Cebrowski Inst Informat Innovat & Superior, Monterey, CA USA.
+C3 United States Department of Defense; United States Navy; Naval
+   Postgraduate School
+RP Denning, PJ (corresponding author), Naval Postgrad Sch Monterey, Cebrowski Inst Informat Innovat & Superior, Monterey, CA USA.
+EM pjd@nps.edu; yaholkovsky@attglobal.net
+CR Barrett F.J., 2005, APPRECIATIVE INQUIRY
+   Denning P, 2002, COMMUN ACM, V45, P15
+   Denning PJ, 2007, COMMUN ACM, V50, P21, DOI 10.1145/1232743.1232763
+   Fisher R., 1992, GETTING YES NEGOTIAT
+   Hagel J., 2006, Creation Nets: Harnessing the Potential of Open Innovation
+   *LOND S COLL COMM, 1995, ESS PREP PEW PARTN C
+   PERELMAN L, 2008, PERI S
+   ROBERTS NC, 2001, INT PUBLIC MANAGEMEN
+   STRAUSS D, 2002, MAKE MAKE COLLABORAT
+NR 9
+TC 32
+Z9 42
+U1 0
+U2 4
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD APR
+PY 2008
+VL 51
+IS 4
+BP 19
+EP 24
+DI 10.1145/1330311.1330316
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 285MK
+UT WOS:000254780700006
+DA 2024-07-18
+ER
+
+PT J
+AU Taylor, NJ
+   Loiacono, ET
+   Watson, RT
+AF Taylor, Nolan J.
+   Loiacono, Eleanor T.
+   Watson, Richard T.
+TI Alternative scenarios to the "Banner" years
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+ID WEB
+C1 [Taylor, Nolan J.] Indiana Univ, Kelley Sch Business, Indianapolis, IN 46204 USA.
+   [Loiacono, Eleanor T.] Worcester Polytech Inst, Worcester, MA 01609 USA.
+   [Watson, Richard T.] Univ Georgia, Terry Coll Business, J Rex Fuqua Distinguished Chair Internet Strategy, Athens, GA 30602 USA.
+C3 Indiana University System; Indiana University Indianapolis; IU Kelley
+   School of Business; Worcester Polytechnic Institute; University System
+   of Georgia; University of Georgia
+RP Taylor, NJ (corresponding author), Indiana Univ, Kelley Sch Business, Indianapolis, IN 46204 USA.
+EM notaylor@iupui.edu; eloiacon@wpi.edu; rwatson@terry.uga.edu
+RI Taylor, Nolan/AAH-2690-2020; Loiacono, Eleanor T/G-3946-2012
+OI Watson, Richard/0000-0003-0664-8337; Loiacono,
+   Eleanor/0000-0002-4059-702X
+CR ARMITT C, 2004, NEW MEDIA AGE, P12
+   BAYLES ME, 2002, P SIGCHI C HUM FACT, P363
+   Briggs R, 1997, J ADVERTISING RES, V37, P33
+   Burke M., 2004, EXTENDED ABSTRACTS C, P1139
+   Danaher PJ, 2003, J ADVERTISING RES, V43, P252, DOI 10.1017/S0021849903030319
+   DeLorme DE, 1999, J ADVERTISING, V28, P71, DOI 10.1080/00913367.1999.10673584
+   Gibson LD, 1996, J ADVERTISING RES, V36, P9
+   Mandel N, 2002, J CONSUM RES, V29, P235, DOI 10.1086/341573
+   MILLER N, 1959, J ABNORM SOC PSYCH, V59, P1, DOI 10.1037/h0049330
+   SMITH JM, 1982, ADVERSE DRUG REACT T, V1, P93
+   Stevenson JS, 2000, J ADVERTISING RES, V40, P29, DOI 10.2501/JAR-40-1-2-29-34
+   2007, INT ADVERTISING BURE
+NR 12
+TC 1
+Z9 3
+U1 0
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD FEB
+PY 2008
+VL 51
+IS 2
+BP 53
+EP 58
+DI 10.1145/1314215.1314225
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA 260PR
+UT WOS:000253022900012
+DA 2024-07-18
+ER
+
+PT J
+AU Brooks, R
+AF Brooks, Rodney
+TI The next 50 years
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+AB Since this issue celebrates 50 years of Communications it seems appropriate to speculate what the next 50 years may bring, in time for the 100th anniversary. For this look into the future, I cover three areas of "computing machinery": the theoretical understanding of computation; the technological substrate of computing machines; and the applications that computing machines bring to our lives.
+C1 MIT, Comp Sci & Artificial Intelligence Lab, Cambridge, MA 02139 USA.
+C3 Massachusetts Institute of Technology (MIT)
+RP Brooks, R (corresponding author), MIT, Comp Sci & Artificial Intelligence Lab, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+EM brooks@csail.mit.edu
+NR 0
+TC 8
+Z9 10
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JAN
+PY 2008
+VL 51
+IS 1
+BP 63
+EP 64
+DI 10.1145/1327452.1327481
+PG 2
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 246GE
+UT WOS:000251994700020
+DA 2024-07-18
+ER
+
+PT J
+AU Conti, G
+AF Conti, Gregory
+TI Could googling take down a President?
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+AB In the August 1984 Communications, Ken Thompson taught us to question our notion of trust, recognizing that even our most carefully crafted code might not generate trustworthy executable programs if the compiler is compromised [5]. Looking to the future, however, I realize Thompson didn't go far,enough. Today, we must question our trust in all aspects of the information environment, including online companies and even the infrastructure of the Internet. We live in an era of rampant data disclosure and ubiquitous implied trust-two factors that will come to haunt us in the near future.
+C1 US Mil Acad, Informat Technol & Operat Ctr, West Point, NY 10996 USA.
+C3 United States Department of Defense; United States Army; United States
+   Military Academy
+RP Conti, G (corresponding author), US Mil Acad, Informat Technol & Operat Ctr, West Point, NY 10996 USA.
+EM conti@acm.org
+CR BARBARO M, 2006, NY TIMES        0809
+   BATTELLE J, 2003, DATABASE INTENTIONS
+   Conti G., 2007, ACM P 3 S USABLE PRI, P112, DOI 10.1145/1280680.1280695
+   CONTI G, 2006, P NEW SEC PAR WORKSH, P67
+   THOMPSON K, 1984, COMMUN ACM, V27, P761, DOI 10.1145/358198.358210
+NR 5
+TC 2
+Z9 3
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD JAN
+PY 2008
+VL 51
+IS 1
+BP 71
+EP 73
+DI 10.1145/1327452.1327485
+PG 3
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 246GE
+UT WOS:000251994700023
+DA 2024-07-18
+ER
+
+PT J
+AU Diffie, W
+AF Diffie, Whitfield
+TI Information security: 50 years behind 50 years ahead
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+AB What was the state of information security-the combination of computer and communication security-as Communications first went to press? Cryptography was both secret and primitive, able to protect the confidentiality of communications but unable to perform. most of the functions we ask of it today. Computer security was nonexistent.
+EM whitfield.diffie@sun.com
+NR 0
+TC 0
+Z9 4
+U1 0
+U2 6
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JAN
+PY 2008
+VL 51
+IS 1
+BP 55
+EP 57
+DI 10.1145/1327452.1327478
+PG 3
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 246GE
+UT WOS:000251994700017
+DA 2024-07-18
+ER
+
+PT J
+AU Lepouras, G
+   Vassilakis, C
+   Halatsis, C
+   Georgiadis, P
+AF Lepouras, George
+   Vassilakis, Costas
+   Halatsis, Constantin
+   Georgiadis, Panagiotis
+TI Domain expert user development: The SmartGov approach
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ Peloponnese, Dept Comp Sci & Technol, Tripolis, Greece.
+   Univ Athens, Dept Informat & Telecommun, Athens, Greece.
+C3 University of Peloponnese; National & Kapodistrian University of Athens
+RP Lepouras, G (corresponding author), Univ Peloponnese, Dept Comp Sci & Technol, Tripolis, Greece.
+EM gl@uop.gr; costas@uop.gr; halatsis@di.uoa.gr; georgiad@di.uoa.gr
+RI Costas, Vassilakis/AAH-5948-2019; Lepouras, Georgios/AAM-3058-2021
+OI Costas, Vassilakis/0000-0001-9940-1821; Lepouras,
+   Georgios/0000-0001-6094-3308
+CR *EUR COMM, 1999, PUBL SECT INF KEY RE
+   *EUR COMM, 2001, COMM LIST BAS PUBL S
+   *SMARTGOV CONS, 2004, SMARTGOV PROJ DEL D9
+   *SMARTGOV CONS, 2002, SMARTGOV PROJ DEL D4
+   Sutcliffe A, 2004, COMMUN ACM, V47, P31, DOI 10.1145/1015864.1015883
+   Vassilakis C., 2003, Telematics and Informatics, V20, P315, DOI 10.1016/S0736-5853(03)00011-X
+   Vassilakis C., 2004, E SERVICE J, V4, P41
+   Vredenburg K., 2002, Proceedings of CHI'2002 Conference on Human Factors in Computing Systems Proceedings, P471
+NR 8
+TC 6
+Z9 6
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD SEP
+PY 2007
+VL 50
+IS 9
+BP 79
+EP 83
+DI 10.1145/1284621.1284623
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 206XB
+UT WOS:000249215100019
+DA 2024-07-18
+ER
+
+PT J
+AU Thatcher, ME
+   Pingry, DE
+AF Thatcher, Matt E.
+   Pingry, David E.
+TI Modeling the value paradox - Assesing the value of IT investments has
+   stumped managers and academics for years. If viewed as a commodity
+   however, IT should be measured in the context in the investment takes
+   place.
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+ID TECHNOLOGY INVESTMENTS; PRODUCT QUALITY
+C1 Univ Nevada, Coll Business, Las Vegas, NV 89154 USA.
+   Univ Arizona, Eller Col Management, Tucson, AZ USA.
+C3 Nevada System of Higher Education (NSHE); University of Nevada Las
+   Vegas; University of Arizona
+RP Thatcher, ME (corresponding author), Univ Nevada, Coll Business, Las Vegas, NV 89154 USA.
+EM matt.thatcher@unlv.edu; pingry@eller.arizona.edu
+CR Carr NG, 2003, HARVARD BUS REV, V81, P41
+   Carr Nicholas., 2004, Does IT Matter? Information Technology and the Corrosion of Competitive Advantage
+   Clemons E., 1988, Computerworld, V22, P79
+   Landers P., 2004, WALL STREET J   0224, pA1
+   Thatcher ME, 2004, INFORM SYST RES, V15, P268, DOI 10.1287/isre.1040.0029
+   Thatcher ME, 2004, J MANAGE INFORM SYST, V21, P61, DOI 10.1080/07421222.2004.11045804
+   Thatcher ME, 2001, J MANAGE INFORM SYST, V18, P17, DOI 10.1080/07421222.2001.11045685
+   TRAVIS P, 2005, INFORM WEEK     0404
+NR 8
+TC 23
+Z9 31
+U1 0
+U2 4
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD AUG
+PY 2007
+VL 50
+IS 8
+BP 41
+EP 45
+DI 10.1145/1278201.1278204
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science
+GA 206VF
+UT WOS:000249210300018
+DA 2024-07-18
+ER
+
+PT J
+AU Wu, H
+   Gordon, M
+AF Wu, Harris
+   Gordon, Michael
+TI Collaborative structuring - Organizing document repositories effectively
+   and efficiently
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Old Dominion Univ, Coll Business & Publ Adm, Norfolk, VA 23529 USA.
+   Univ Michigan, Ross Sch Med, Ann Arbor, MI 48109 USA.
+C3 Old Dominion University; University of Michigan System; University of
+   Michigan
+RP Wu, H (corresponding author), Old Dominion Univ, Coll Business & Publ Adm, Norfolk, VA 23529 USA.
+EM hwu@odu.edu; mdgordon@umich.edu
+CR Anderson J.R., 1995, COGNITIVE PSYCHOL IT
+   Broughton V., 2001, New Review of Hypermedia and Multimedia, V7, P67, DOI 10.1080/13614560108914727
+   FURNAS GW, 1994, HUMAN FACTORS IN COMPUTING SYSTEMS, CHI '94 CONFERENCE PROCEEDINGS - CELEBRATING INTERDEPENDENCE, P330, DOI 10.1145/191666.191778
+   Jobson J.D., 1992, APPL MULTIVARIATE DA
+   Maedche A, 2003, IEEE INTELL SYST, V18, P26, DOI 10.1109/MIS.2003.1193654
+   MAEDCHE A, 2002, IEEE INTELL SYST APP, V2, P26
+   Resnick P, 1997, COMMUN ACM, V40, P56, DOI 10.1145/245108.245121
+   Watts D. J., 2003, Six degrees: The science of a connected age
+NR 8
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD JUL
+PY 2007
+VL 50
+IS 7
+BP 86
+EP 91
+DI 10.1145/1272516.1272519
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 188KD
+UT WOS:000247917900013
+DA 2024-07-18
+ER
+
+PT J
+AU Friedlander, A
+   Mankin, A
+   Maughan, WD
+   Crocker, SD
+AF Friedlander, Amy
+   Mankin, Allison
+   Maughan, W. Douglas
+   Crocker, Stephen D.
+TI DNSSEC: A protocol toward securing the Internet infrastructure
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Shinkuro Inc, DNSSEC Deployment Coordinat Project, Washington, DC USA.
+   Natl Sci Fdn, Arlington, VA 22230 USA.
+   US Dept Homeland Secur, Sci & Technol Directorate, Washington, DC USA.
+C3 National Science Foundation (NSF)
+RP Friedlander, A (corresponding author), Shinkuro Inc, DNSSEC Deployment Coordinat Project, Washington, DC USA.
+EM amy@shinkuro.com; mankin@shinkuro.com; Douglas.Maughan@dhs.gov;
+   steve@shinkuro.com
+CR ARENDS R, 2004, 4035 RFC
+   ARENDS R, 2004, 4034 RFC
+   ARENDS R, 2004, 4033 RFC
+   Atkins D., 2004, 3833 RFC
+   CHANDRAMOULI R, 2006, SPECIAL PUBLICATION
+   Cole J.I., 2003, The UCLA Internet report: Surveying the digital future, Year Three
+   Fox S., 2005, The Future of the Internet
+   Haugsness K., 2005, DNS CACHE POISONING
+   *ICANN, DNSSEC MIN WORKSH IC
+   ROSS R, 2006, INFORM SECURITY SPEC
+   SOUPPAYA M, 2005, SPECIAL PUBLICATION
+NR 11
+TC 13
+Z9 17
+U1 0
+U2 3
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD JUN
+PY 2007
+VL 50
+IS 6
+BP 44
+EP 50
+DI 10.1145/1247001.1247004
+PG 7
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 172XJ
+UT WOS:000246837500014
+DA 2024-07-18
+ER
+
+PT J
+AU Da Cunha, AD
+   Greathead, D
+AF Da Cunha, Alessandra Devito
+   Greathead, David
+TI Does personality matter? An analysis of code-review ability
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ Newcastle Upon Tyne, Ctr Software Reliabil, Newcastle Upon Tyne NE1 7RU, Tyne & Wear, England.
+C3 Newcastle University - UK
+RP Da Cunha, AD (corresponding author), Univ Newcastle Upon Tyne, Ctr Software Reliabil, Newcastle Upon Tyne NE1 7RU, Tyne & Wear, England.
+EM a.devito-cunha@ncl.ac.uk; david.greathead@ncl.ac.uk
+CR [Anonymous], 1985, MANUAL GUIDE DEV USE
+   Bishop-Clark C., 1994, Journal of Research on Computing in Education, V26, P358
+   BOEHM BW, 1981, SOFTWARE ENGN EC
+   Capretz LF, 2003, INT J HUM-COMPUT ST, V58, P207, DOI 10.1016/S1071-5819(02)00137-4
+   DACUNHA D, 2003, THESIS U NEWCASTLE
+   Furnham A, 2002, PERS INDIV DIFFER, V33, P1325, DOI 10.1016/S0191-8869(02)00016-8
+   Myers I. B., 1995, Gifts differing: understanding personality type
+   Myers I.B., 1990, Introduction to type: A description of the theory and applications of the Myers-Briggs type indicator
+   Pressman R.S., 1992, Software engineering: a practitioner's approach, P654
+   SHNEIDERMAN B, 1980, SOFTWARE PSYCHOLOGY, P320
+   Smither R.D., 1998, The psychology of work and human performance, V3rd, P590
+   Weinberg G.M., 1998, PSYCHOL COMPUTER PRO, Vxv, P288
+NR 12
+TC 67
+Z9 75
+U1 1
+U2 9
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD MAY
+PY 2007
+VL 50
+IS 5
+BP 109
+EP 112
+DI 10.1145/1230819.1241672
+PG 4
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 163ZX
+UT WOS:000246203500019
+DA 2024-07-18
+ER
+
+PT J
+AU Goodell, G
+   Syverson, P
+AF Goodell, Geoffrey
+   Syverson, Paul
+TI The right place at the right time
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+EM goodell@eecs.harvard.edu
+NR 0
+TC 5
+Z9 5
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD MAY
+PY 2007
+VL 50
+IS 5
+BP 113
+EP 117
+DI 10.1145/1230819.1241689
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 163ZX
+UT WOS:000246203500020
+DA 2024-07-18
+ER
+
+PT J
+AU Jacoby, GA
+   Luqi
+AF Jacoby, Grant A.
+   Luqi
+TI Intranet model and metrics
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 USA, Washington, DC 20310 USA.
+   Informat Technol Operat Ctr, Dept Elect Engn & Comp Sci, West Point, NY USA.
+   USN, Postgrad Sch, Dept Comp Sci, Monterey, CA 93943 USA.
+C3 United States Military Academy; United States Department of Defense;
+   United States Navy; Naval Postgraduate School
+RP Jacoby, GA (corresponding author), USA, Washington, DC 20310 USA.
+EM grant.jacoby@usma.edu; luqi@nps.edu
+CR Baskerville R., 1999, Communications of the Association for Information Systems, V19
+   Favaro J, 2002, IEEE SOFTWARE, V19, P15, DOI 10.1109/52.991325
+   JACOBY G, 2003, THESIS NAVAL POST GR
+NR 3
+TC 4
+Z9 8
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD FEB
+PY 2007
+VL 50
+IS 2
+BP 43
+EP 50
+DI 10.1145/1216016.1216019
+PG 8
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 133DX
+UT WOS:000243993500012
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Ganz, W
+AF Ganz, W
+TI Germany: Service engineering
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Fraunhofer Inst Ind Engn, Stuttgart, Germany.
+C3 Fraunhofer Gesellschaft
+RP Ganz, W (corresponding author), Fraunhofer Inst Ind Engn, Stuttgart, Germany.
+EM walter.ganz@iao.fhg.de
+NR 0
+TC 9
+Z9 9
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JUL
+PY 2006
+VL 49
+IS 7
+BP 79
+EP 79
+DI 10.1145/1139922.1139954
+PG 1
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 055JU
+UT WOS:000238447400021
+DA 2024-07-18
+ER
+
+PT J
+AU Carr, CL
+AF Carr, CL
+TI Reciprocity: of IS-user service relationship quality and cooperation
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ Pittsburgh, Katz Grad Sch Business, Management Informat Syst Interest Grp, Pittsburgh, PA 15260 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); University
+   of Pittsburgh
+RP Carr, CL (corresponding author), Univ Pittsburgh, Katz Grad Sch Business, Management Informat Syst Interest Grp, Pittsburgh, PA 15260 USA.
+EM clcarr@katz.pitt.edu
+CR ANDERSON EW, 1994, J MARKETING, V58, P53, DOI 10.2307/1252310
+   [Anonymous], 1983, EMERGING PERSPECTIVE
+   Bagozzi R.P., 1995, J ACAD MARKET SCI, V23, P272
+   BAGOZZI RP, 1991, ADMIN SCI QUART, V36, P421, DOI 10.2307/2393203
+   Bendapudi N, 1997, J RETAILING, V73, P15, DOI 10.1016/S0022-4359(97)90013-0
+   Berry L.L., 1995, J ACAD MARKET SCI, V23, P236, DOI [DOI 10.1177/009207039502300402, 10.1177/009207039502300402]
+   Claycomb C., 2002, J SERV MARK, V16, P1
+   MORGAN RM, 1994, J MARKETING, V58, P20, DOI 10.2307/1252308
+   PARASURAMAN A, 1988, J RETAILING, V64, P12
+   Spreng R.A., 1995, J SERV MARK, V9, P15, DOI DOI 10.1108/08876049510079853
+NR 10
+TC 41
+Z9 48
+U1 0
+U2 7
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JUN
+PY 2006
+VL 49
+IS 6
+BP 77
+EP 83
+DI 10.1145/1132469.1132471
+PG 7
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 043TH
+UT WOS:000237624000024
+DA 2024-07-18
+ER
+
+PT J
+AU Rolia, J
+   Cherkasova, L
+   Arlitt, M
+   Machiraju, V
+AF Rolia, J
+   Cherkasova, L
+   Arlitt, M
+   Machiraju, V
+TI Supporting application quality of service in shared resource pools
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Hewlett Packard Labs, Internet Syst & Storage Lab, Palo Alto, CA 94304 USA.
+C3 Hewlett-Packard
+RP Rolia, J (corresponding author), Hewlett Packard Labs, Internet Syst & Storage Lab, Palo Alto, CA 94304 USA.
+EM jerry.rolia@hp.com; lucy.cherkasova@hp.com; martin.arlitt@hp.com;
+   vijay.machiraju@hp.com
+CR Banga G., 1999, P 3 S OP SYST DES IM
+   DRAGOVIC B, 2003, P 19 ACM S OP SYST P
+   Duda K. J., 1999, P 17 ACM S OP SYST P
+   Elton E., 1995, MODERN PORTFOLIO THE, V5th
+   KRISHNAMURTHY D, 2004, THESIS CARLETON U
+   ROLIA J, 2005, P 1 INT WORKSH SELF
+   Rolia Jerry., 2005, Proceedings of the 5th international workshop on Software and performance, WOSP '05, P229
+   SINGHAL S, 2005, P 9 INT S INT NETW M
+   WHITAKER A, 2002, P 5 S OP SYST DES IM
+NR 9
+TC 11
+Z9 13
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD MAR
+PY 2006
+VL 49
+IS 3
+BP 55
+EP 60
+DI 10.1145/1118178.1118202
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 021SO
+UT WOS:000236006000018
+OA Bronze
+DA 2024-07-18
+ER
+
+PT J
+AU Séquin, CH
+AF Séquin, CH
+TI Rapid prototyping:: A 3D visualization tool takes on sculpture and
+   mathematical forms
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ Calif Berkeley, Dept Comp Sci & Elect Engn, Div Comp Sci, Berkeley, CA 94720 USA.
+C3 University of California System; University of California Berkeley
+RP Séquin, CH (corresponding author), Univ Calif Berkeley, Dept Comp Sci & Elect Engn, Div Comp Sci, Berkeley, CA 94720 USA.
+EM sequin@cs.berkeley.edu
+CR COLLINS B, 2003, P INT SOC ARTS MATH, P383
+   COLLINS B, 1998, P BRIDGES 98 WINF KS, P21
+   FERGUSON C, 1994, H FERGUSON MATH STON
+   FRANCIS GK, 1992, LEONARDO, V25, P313, DOI 10.2307/1575857
+   Max, 1977, TURNING SPHERE INSID
+   REINMUTH S, 2000, P MILL OP S ARTS INT, P209
+   SEQUIN C, 2000, P MILL OP S ARTS INT, P71
+   Sequin CH, 1997, LEONARDO, V30, P89, DOI 10.2307/1576417
+   SEQUIN CH, 1983, P 20 DES C MIAM BEAC, P374
+   SMULLIN F, 1981, 18 DES AUT C NASHV T
+   *U CA, SLIDE SCEN LANG INT
+NR 11
+TC 18
+Z9 18
+U1 0
+U2 3
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD JUN
+PY 2005
+VL 48
+IS 6
+BP 66
+EP 73
+DI 10.1145/1064830.1064860
+PG 8
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 929QE
+UT WOS:000229360000019
+DA 2024-07-18
+ER
+
+PT J
+AU Ramnath, R
+   Landsbergen, D
+AF Ramnath, R
+   Landsbergen, D
+TI IT-enabled sense-and-respond strategies in complex public organizations
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Ohio State Univ, Practice Collaborat Appl Software Technol Project, Dept Comp Sci & Engn, Columbus, OH 43210 USA.
+   Ohio State Univ, Sch Publ Policy & Management, John Glenn Inst Scholar, Columbus, OH 43210 USA.
+C3 University System of Ohio; Ohio State University; University System of
+   Ohio; Ohio State University
+RP Ohio State Univ, Practice Collaborat Appl Software Technol Project, Dept Comp Sci & Engn, Columbus, OH 43210 USA.
+EM ramnath@cis.ohio-state.edu; landsbergen.1@osu.edu
+RI Ramnath, Rajiv/AAF-1865-2019; Ramnath, Rajiv/D-5690-2012; Landsbergen,
+   David/D-3537-2012
+CR Agranoff R, 2001, J PUBL ADM RES THEOR, V11, P295, DOI 10.1093/oxfordjournals.jpart.a003504
+   Cassidy A., 1998, PRACTICAL GUIDE INFO
+   HACKNEY R, 2000, COMMUN AIS, V3
+   Haeckel S.H., 1999, ADAPTIVE ENTERPRISE
+   HAECKEL SH, 1992, MEMBERS SPOTLIGH OCT
+   Kaplan R.S., 1996, BALANCED SCORECARD
+   LEE JW, 1991, TECHNOLOGY MANAGEMEN
+   Nelson RichardR., 1982, An Evolutionary of Economic Change
+   Ramanathan J, 2005, COMMUN ACM, V48, P51, DOI 10.1145/1060710.1060739
+   RAMNATH R, 2004, P MKWI 2004 MULT
+   Reschenthaler GB., 1996, J PUBL ADM RES THEOR, V6, P125
+   ZACHMAN JA, 1987, IBM SYST J, V26, P276, DOI 10.1147/sj.263.0276
+NR 12
+TC 11
+Z9 13
+U1 0
+U2 7
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD MAY
+PY 2005
+VL 48
+IS 5
+BP 58
+EP 64
+DI 10.1145/1060710.1060740
+PG 7
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 929QC
+UT WOS:000229359800018
+DA 2024-07-18
+ER
+
+PT J
+AU Davison, RM
+   Vogel, DR
+   Harris, RW
+AF Davison, RM
+   Vogel, DR
+   Harris, RW
+TI The E-transformation of Western China
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 City Univ Hong Kong, Dept Informat Syst, Hong Kong, Hong Kong, Peoples R China.
+   Roger Harris Associates, Hong Kong, Hong Kong, Peoples R China.
+C3 City University of Hong Kong
+RP City Univ Hong Kong, Dept Informat Syst, Hong Kong, Hong Kong, Peoples R China.
+EM isrobert@cityu.edu.hk; isdoug@cityu.edu.hk; harris38@netvigator.com
+RI Davison, Robert M/E-4383-2013
+OI Davison, Robert M/0000-0002-7243-3521
+CR [Anonymous], J APPL MANAGEMENT ST
+   BAYRON H, 2004, CHINA FLEXES EC DIPL
+   CLARK R, 2004, PHONES TIBET
+   DAVISON RM, 1999, ELECT J INFORM SYST, V1
+   Ding L., 2004, TEL POL RES C WASH D
+   Go F. M., 2003, Information Technology and Tourism, V6, P55, DOI 10.3727/109830503108751225
+   Harris R, 2001, P INT C INF TECHN CO, P71
+   Martinsons MG, 2002, INFORM MANAGE-AMSTER, V39, P571, DOI 10.1016/S0378-7206(02)00009-5
+   SAVADOVE B, 2004, S CHINA MORNING 0427
+NR 9
+TC 22
+Z9 23
+U1 0
+U2 5
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD APR
+PY 2005
+VL 48
+IS 4
+BP 62
+EP 66
+DI 10.1145/1053291.1053320
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 929QA
+UT WOS:000229359600018
+DA 2024-07-18
+ER
+
+PT J
+AU Nardi, BA
+   Schiano, DJ
+   Gumprecht, M
+   Swartz, L
+AF Nardi, BA
+   Schiano, DJ
+   Gumprecht, M
+   Swartz, L
+TI Why we blog
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ Calif Irvine, Sch Informat & Comp Sci, Irvine, CA 92717 USA.
+   Stanford Univ, Ctr Study Language & Informat, Stanford, CA 94305 USA.
+   Stanford Univ, Herbert H Clarks Lab, Stanford, CA 94305 USA.
+   Stanford Univ, Dept Comp Sci, Stanford, CA 94305 USA.
+   Stanford Univ, Symbol Syst Program, Stanford, CA 94305 USA.
+C3 University of California System; University of California Irvine;
+   Stanford University; Stanford University; Stanford University; Stanford
+   University
+RP Univ Calif Irvine, Sch Informat & Comp Sci, Irvine, CA 92717 USA.
+EM nardi@uci.edu; schiano@acm.org; mgumbrec@psych.stanford.edu;
+   lswartz@cs.stanford.edu
+RI Hodgson, Paula/A-5052-2009
+CR [Anonymous], WORKSH WEBL EC AGGR
+   [Anonymous], P 37 ANN HAW INT C S
+   EFIMOVA L, 2003, BLOG TALK EUR C WEBL
+   Fischer G., 2001, P 24 ANN INFORM SYST, P1
+   Gillmor D., 2003, E J NEWS VIEWS SILIC
+   Handel M., 2002, P 2002 ACM C COMP SU, P1, DOI [10.1145/587078.587080, DOI 10.1145/587078.587080]
+   Mortensen Torril., 2002, Researching ICTs in context
+   NARDI B, 2005, J COMPUT SUPP COOP W
+   Preece J, 1999, INTERACT COMPUT, V12, P63, DOI 10.1016/S0953-5438(98)00056-3
+   Schiano D.J., 1998, P SIGCHI C HUMAN FAC, P352
+   Wellman B, 2002, COMMUN ACM, V45, P91, DOI 10.1145/506218.506221
+NR 11
+TC 511
+Z9 662
+U1 3
+U2 83
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD DEC
+PY 2004
+VL 47
+IS 12
+BP 41
+EP 46
+DI 10.1145/1035134.1035163
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 874DG
+UT WOS:000225330500013
+DA 2024-07-18
+ER
+
+PT J
+AU Sawyer, S
+AF Sawyer, S
+TI Software development teams
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Penn State Univ, Sch Informat Sci & Technol, University Pk, PA 16802 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park
+RP Penn State Univ, Sch Informat Sci & Technol, University Pk, PA 16802 USA.
+EM sawyer@ist.psu.edu
+CR BAKER FT, 1972, IBM SYST J, V11, P56, DOI 10.1147/sj.111.0056
+   Bijker W.E., 1995, Of Bicycles, Bakelites and Bulbs: Towards a Theory of Sociotechnical Change
+   BROOKS FP, 1974, DATAMATION, V20, P44
+   Carmel E., 1998, Information Technology & People, V11, P7, DOI 10.1108/09593849810204503
+   Cusumano M, 1997, COMMUN ACM, V40, P53, DOI 10.1145/255656.255698
+   Guinan PJ, 1997, IBM SYST J, V36, P124, DOI 10.1147/sj.361.0124
+   Madey G, 2002, AM C INF SYST AMCIS2, P1806
+   Sawyer S., 1996, INFORM TECHNOLOGY PE, V10, P46
+   VESSEY I, 1995, COMMUN ACM, V38, P83, DOI 10.1145/204865.204882
+   Zachary G.P., 1994, Showstopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft
+NR 10
+TC 46
+Z9 60
+U1 0
+U2 6
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD DEC
+PY 2004
+VL 47
+IS 12
+BP 95
+EP 99
+DI 10.1145/1035134.1035140
+PG 5
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 874DG
+UT WOS:000225330500022
+DA 2024-07-18
+ER
+
+PT J
+AU Biehl, M
+   Prater, E
+   McIntyre, JR
+AF Biehl, M
+   Prater, E
+   McIntyre, JR
+TI Remote repair, diagnostics, and maintenance
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 York Univ, Schulich Sch Business, Toronto, ON M3J 2R7, Canada.
+   Univ Texas, Dept Informat Syst & Operat Management, Arlington, TX 76019 USA.
+   Georgia Inst Technol, DuPree Coll Management, Atlanta, GA 30332 USA.
+C3 York University - Canada; University of Texas System; University of
+   Texas Arlington; University System of Georgia; Georgia Institute of
+   Technology
+RP York Univ, Schulich Sch Business, Toronto, ON M3J 2R7, Canada.
+EM mbiehl@schulich.yorku.ca; eprater@uta.edu; ciber@mgt.gatech.edu
+CR BYLINSKY G, 1998, FORTUNE, P174
+   *CAD CAM, 2000, MANUFACTURING ENG, V129, P194
+   *CNC PC, 2000, MANUFACTURING ENG, V129, P36
+   COLE B, 1999, ELECT ENG TIMES, P71
+   *FHG, 1997, TEL EINF NUTZ
+   Gordon R., 1998, COMPETITION CHANGE, V3, P41, DOI 10.1177/102452949800300103
+   HIBBERT L, 2000, PROFESSIONAL EN 0906, P40
+   Jiang PY, 2001, INT J COMPUT INTEG M, V14, P83, DOI 10.1080/09511920150214929
+   LEBLANC L, 1996, OFFSHORE, V56, P26
+   MCINTYRE J, 1997, JAPANESE TECHNICAL S
+   McIntyre J.e., 2000, Teleservice fur die Industrielle Produktion: Potentiale und Umsetzungshilfen, P85
+   MORWALD R, 1999, MOD PLAST, P63
+NR 12
+TC 9
+Z9 9
+U1 0
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD NOV
+PY 2004
+VL 47
+IS 11
+BP 101
+EP 106
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 866EA
+UT WOS:000224755400020
+DA 2024-07-18
+ER
+
+PT J
+AU Javahery, H
+   Seffah, A
+   Radhakrishnan, T
+AF Javahery, H
+   Seffah, A
+   Radhakrishnan, T
+TI Beyond power: making bioinformatics tools user-centered
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+AB User-centered design techniques can broaden the appeal, use, and effectiveness of Web-based bioinformatics tools.
+C1 Concordia Univ, Dept Comp Sci, Human Ctr Software Engn Grp, Montreal, PQ H3G 1M8, Canada.
+C3 Concordia University - Canada
+RP Javahery, H (corresponding author), Concordia Univ, Dept Comp Sci, Human Ctr Software Engn Grp, Montreal, PQ H3G 1M8, Canada.
+EM h_javahe@cs.concordia.ca; seffah@cs.concordia.ca;
+   krishnan@cs.concordia.ca
+CR [Anonymous], 1999, 13407 ISO
+   [Anonymous], 1999, SOFTWARE ERGONOMIE 9, DOI DOI 10.1007/978-3-322-99786-91
+   *HUM CTR SOFTW ENG, BIOUS PROJ
+   Javahery H., 2002, P TAMODIA 2002, P104
+   Mayhew D.J., 1999, USABILITY ENG LIFECY
+   Nielsen J., 1994, Heuristic evaluation
+   Seffah A., 2003, Interactions, V10, P36, DOI 10.1145/889692.889693
+   Welie M.V., 2000, P 7 PATT LANG PROGR
+NR 8
+TC 28
+Z9 29
+U1 0
+U2 9
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD NOV
+PY 2004
+VL 47
+IS 11
+BP 58
+EP 63
+DI 10.1145/1029496.1029527
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 866EA
+UT WOS:000224755400014
+DA 2024-07-18
+ER
+
+PT J
+AU Suardi, L
+AF Suardi, L
+TI How to manage your software product life cycle with MAUI
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 BMC Software Inc, Integrat Blueprint Team, Houston, TX 77042 USA.
+   BMC Software Inc, OpenPortal Team, Houston, TX USA.
+C3 BMC Software; BMC Software
+RP BMC Software Inc, Integrat Blueprint Team, Houston, TX 77042 USA.
+EM luigi_suardi@bmc.com
+CR [Anonymous], 1992, PRACTICAL SOFTWARE M
+   [Anonymous], 1997, PRACTICAL SOFTWARE M
+   Fogel K., 1999, OPEN SOURCE DEV CVS
+   Jacobson Ivar., 1999, AW OBJ TECHNOL S
+   SPULER D, 1999, ENTERPRISE APPL MANA
+NR 5
+TC 4
+Z9 9
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD MAR
+PY 2004
+VL 47
+IS 3
+BP 89
+EP 94
+DI 10.1145/971617.971621
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 778RC
+UT WOS:000189253700024
+DA 2024-07-18
+ER
+
+PT J
+AU Chau, PYK
+   Hu, PJH
+AF Chau, PYK
+   Hu, PJH
+TI Technology implementation for telemedicine programs
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ Hong Kong, Sch Business, Hong Kong, Hong Kong, Peoples R China.
+   Univ Utah, David Eccles Sch Business, Salt Lake City, UT USA.
+C3 University of Hong Kong; Utah System of Higher Education; University of
+   Utah
+RP Univ Hong Kong, Sch Business, Hong Kong, Hong Kong, Peoples R China.
+EM Pchau@business.hku.hk; Actph@business.utah.edu
+RI Chau, Patrick Yam Keung/A-4422-2010
+CR AU G, 1996, J ORG COMP ELECT COM, V6, P385
+   Bashshur R L, 1995, Telemed J, V1, P19, DOI 10.1089/tmj.1.1995.1.19
+   COOPER RB, 1990, MANAGE SCI, V36, P123, DOI 10.1287/mnsc.36.2.123
+   Gattiker U.E., 1990, Technology management in organization
+   Huston TL, 2000, COMMUN ACM, V43, P91, DOI 10.1145/336460.336481
+   *INT TEL UN, 1996, 2155 ITU
+   Kwon T.H., 1987, CRITICAL ISSUES INFO, P227, DOI DOI 10.5555/54905
+   PEREDNIA DA, 1995, JAMA-J AM MED ASSOC, V273, P483, DOI 10.1001/jama.273.6.483
+   Reid J., 1996, A telemedicine primer: Understanding the issues
+   ROGER JA, 2000, COMMUN ACM, V43, P19
+   Sheng O. R. L., 1998, Journal of Organizational Computing and Electronic Commerce, V8, P247, DOI 10.1207/s15327744joce0804_1
+   Whiston S.C., 1993, J CAREER DEV, V19, P175
+NR 12
+TC 17
+Z9 20
+U1 0
+U2 3
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD FEB
+PY 2004
+VL 47
+IS 2
+BP 87
+EP 92
+DI 10.1145/966389.966396
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 768UX
+UT WOS:000188554400022
+DA 2024-07-18
+ER
+
+PT J
+AU Davis, S
+   Siau, K
+   Dhenuvakonda, K
+AF Davis, S
+   Siau, K
+   Dhenuvakonda, K
+TI A fit-gap analysis of e-business curricula vs. industry needs
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ Nebraska, Coll Informat Sci & Technol, Omaha, NE 68182 USA.
+   Univ Nebraska, Lincoln, NE USA.
+   Sprint, Integrated Business Solut Ctr, Overland Pk, KS USA.
+C3 University of Nebraska System; University of Nebraska System; University
+   of Nebraska Lincoln
+RP Univ Nebraska, Coll Informat Sci & Technol, Omaha, NE 68182 USA.
+EM davis@mail.unomaha.edu; ksiau@unl.edu; Kumar314@yahoo.com
+RI Siau, Keng/AFV-8999-2022
+OI SIAU, Keng Leng/0000-0001-8139-4467
+CR Bartholome LW, 2002, COMMUN ACM, V45, P19
+   Berners-Lee T, 2001, SCI AM, V284, P34, DOI 10.1038/scientificamerican0501-34
+   *BUR LAB STAT, 2002, OCC OUTL HDB SYST AN
+   Clarke R., 1999, Electronic Commerce Definitions
+   *ITAA, 2001, CAN YOU START BUILD
+   Keng Siau, 2001, Journal of Database Management, V12, P4, DOI 10.4018/jdm.2001070101
+   Pinker EJ, 2002, COMMUN ACM, V45, P76, DOI 10.1145/506218.506219
+   Siau K, 2003, IEEE T INF TECHNOL B, V7, P1, DOI 10.1109/TITB.2002.805449
+   Siau K, 2002, COMMUN ACM, V45, P75
+   SIAU K, 2000, J INFORMATICS ED RES, V2, P21
+   2000, FORRESTER ONLINE RET
+   2001, CYBERATLAS CAREER SI
+NR 12
+TC 10
+Z9 11
+U1 0
+U2 4
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD DEC
+PY 2003
+VL 46
+IS 12
+BP 167
+EP 177
+DI 10.1145/953460.953497
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 746XT
+UT WOS:000186773500029
+DA 2024-07-18
+ER
+
+PT J
+AU Falk, A
+   Faber, T
+   Bannister, J
+   Chien, A
+   Grossman, R
+   Leigh, J
+AF Falk, A
+   Faber, T
+   Bannister, J
+   Chien, A
+   Grossman, R
+   Leigh, J
+TI Transport protocols for high performance
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ So Calif, Inst Informat Sci, Comp Networks Div, Marina Del Rey, CA 90292 USA.
+   Univ So Calif, Dept Elect Engn Syst, Marina Del Rey, CA 90292 USA.
+   Sci Applicat Int Corp, Dept Comp Sci & Engn, San Diego, CA 92121 USA.
+   Univ Calif San Diego, Networked Syst, San Diego, CA 92103 USA.
+   Univ Illinois, Lab Adv Comp, Chicago, IL 60680 USA.
+   Univ Illinois, Natl Ctr Data Min, Chicago, IL 60680 USA.
+   Two Cultures Grp, Chicago, IL USA.
+   Univ Illinois, Elect Visualizat Lab, Chicago, IL 60680 USA.
+C3 University of Southern California; University of Southern California;
+   Science Applications International Corporation (SAIC); University of
+   California System; University of California San Diego; University of
+   Illinois System; University of Illinois Chicago; University of Illinois
+   Chicago Hospital; University of Illinois System; University of Illinois
+   Chicago; University of Illinois Chicago Hospital; University of Illinois
+   System; University of Illinois Chicago; University of Illinois Chicago
+   Hospital
+RP Univ So Calif, Inst Informat Sci, Comp Networks Div, Marina Del Rey, CA 90292 USA.
+EM falk@isi.edu; faber@isi.edu; joseph@isi.edu; achien@ucsd.edu;
+   grossman@uic.edu; spiff@eecs.uic.edu
+RI Grossman, Robert/B-1865-2009
+OI Grossman, Robert/0000-0003-3741-5739
+CR ALLMAN M, 1995, P ACTS RES C NASA LE
+   DELAAT C, 2003, J FUT COMPUT SYST, V19
+   Floyd S., 2003, Highspeed tcp for large congestion windows
+   GROSSMAN R, 2002, EXPT STUDIES USING P
+   He E, 2002, 2002 IEEE INTERNATIONAL CONFERENCE ON CLUSTER COMPUTING, PROCEEDINGS, P317, DOI 10.1109/CLUSTR.2002.1137760
+   Jacobson V., 1988, Computer Communication Review, V18, P314, DOI 10.1145/52325.52356
+   JAIN A, 2002, QUICK START TCP IP
+   Katabi D, 2002, ACM SIGCOMM COMP COM, V32, P89, DOI 10.1145/964725.633035
+   LAURIA M, 1998, P 7 HIGH PERF DISTR
+   Leigh J, 2001, SPRING EUROGRAP, P199
+   SIVAKUMAR H, 2003, J SUPERCOMPUT
+   SIVAKUMAR H, 2000, P SC2000 DALL TX NOV
+   VONEICKEN T, 1992, ACM COMP AR, V20, P256, DOI 10.1145/146628.140382
+NR 13
+TC 13
+Z9 14
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD NOV
+PY 2003
+VL 46
+IS 11
+BP 42
+EP 49
+DI 10.1145/948383.948408
+PG 8
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 742XM
+UT WOS:000186543400016
+DA 2024-07-18
+ER
+
+PT J
+AU Lewis, W
+   Watson, RT
+   Pickren, A
+AF Lewis, W
+   Watson, RT
+   Pickren, A
+TI An empirical assessment of IT disaster risk
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 SunGuard Planning Syst, Wayne, PA USA.
+RP Lewis, W (corresponding author), Univ Georgia, Terry Coll Business, Ctr Informat Syst Leadership Management Informat, Athens, GA 30602 USA.
+RI Watson, Richard T/C-3175-2009
+OI Watson, Richard/0000-0003-0664-8337
+CR DOHERTY NA, 1985, CORPORATE RISK MANAG
+   GLENNEN A, 1997, INSURANCE BROKERS MO, V47, P11
+   HOSSACK IB, 1983, INTR STAT APPL GEN I
+   HUGHES ML, 1997, TECHNORISK WHOS RESP
+   *INT DRI, 2002, PROF PRACT BUS CONT
+   Jacobs J., 1997, CPA J, V67, P20
+   Mehr R.I., 1963, Risk management in the business enterprise
+   PELLAND D, 1997, RISK MANAGEMENT, V44, P72
+   ROTHBERG ML, 1989, COMPUT DECIS, V21, P16
+   SMITH JM, 2000, RISK MANAGEMENT, V47, P23
+NR 10
+TC 5
+Z9 8
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD SEP
+PY 2003
+VL 46
+IS 9
+BP 201
+EP 206
+DI 10.1145/903893.903938
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 726JR
+UT WOS:000185596400013
+DA 2024-07-18
+ER
+
+PT J
+AU Loo, AW
+AF Loo, AW
+TI The future of peer-to-peer computing
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Lignan Univ, Dept Informat Syst, Tuen Mun, Hong Kong, Peoples R China.
+RP Loo, AW (corresponding author), Lignan Univ, Dept Informat Syst, Tuen Mun, Hong Kong, Peoples R China.
+EM alfred@ln.edu.hk
+RI Tavares, António JV/A-7115-2008
+CR BARKAI D, 2002, P2P COMPUTING
+   Foster I, 2001, INT J HIGH PERFORM C, V15, P200, DOI 10.1177/109434200101500302
+   Foster I., 2002, OPEN GRID SERVICE IN
+   GOLDMAN J, 1999, CLIENT SERVER INFORM
+   Hunter J., 2001, JAVA SERVLET PROGRAM
+   LOO A, 2000, INTERNET RES, V10, P2
+   Schwartz DG, 1995, Cooperating Heterogeneous Systems
+NR 7
+TC 12
+Z9 15
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD SEP
+PY 2003
+VL 46
+IS 9
+BP 56
+EP 61
+DI 10.1145/903893.903894
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 715BE
+UT WOS:000184950000015
+DA 2024-07-18
+ER
+
+PT J
+AU Evans, WS
+   Fraser, CW
+AF Evans, WS
+   Fraser, CW
+TI Grammar-based compression of interpreted code
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ British Columbia, Vancouver, BC V5Z 1M9, Canada.
+C3 University of British Columbia
+RP Evans, WS (corresponding author), Univ British Columbia, Vancouver, BC V5Z 1M9, Canada.
+CR CAMERON RD, 1988, IEEE T INFORM THEORY, V34, P843, DOI 10.1109/18.9782
+   Choueka Y., 1985, Proc. of the 8th ACM-SIGIR Conference, P122
+   Clausen LR, 2000, ACM T PROGR LANG SYS, V22, P471, DOI 10.1145/353926.353933
+   ERNST J, P ACM SIGPLAN 97 C P, P358
+   EVANS W, P ACM SIGPLAN 01 C P, P148
+   Hoogerbrugge J, 1999, SOFTWARE PRACT EXPER, V29, P1005, DOI 10.1002/(SICI)1097-024X(199909)29:11<1005::AID-SPE270>3.0.CO;2-F
+   LATENDRESSE M, 2000, P WORKSH SCHEM FUNCT, P45
+   Liao S., 1999, ACM Transactions on Design Automation of Electronic Systems, V4, P12, DOI 10.1145/298865.298867
+   PROEBSTING TA, 1995, PRINCIPLES PROGRAMMI, P322
+   STONE RG, 1986, COMPUT J, V29, P307, DOI 10.1093/comjnl/29.4.307
+   THOMPSON RA, 1971, THEORY MACHINES COMP
+   Tunstall B. P., 1967, PhD diss
+NR 12
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD AUG
+PY 2003
+VL 46
+IS 8
+BP 61
+EP 66
+DI 10.1145/859670.859699
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 705CZ
+UT WOS:000184347300019
+DA 2024-07-18
+ER
+
+PT J
+AU Lee, JK
+   Sohn, MA
+AF Lee, JK
+   Sohn, MA
+TI The Extensible rule Markup Language
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Korea Adv Inst Sci & Technol, Grad Sch Management, Seoul, South Korea.
+C3 Korea Advanced Institute of Science & Technology (KAIST)
+RP Lee, JK (corresponding author), Korea Adv Inst Sci & Technol, Grad Sch Management, Seoul, South Korea.
+RI Lee, Jae Kyu/C-1910-2011
+CR BERNERSLEE T, 2001, SCI AM           MAY
+   BOLEY H, 2001, P INT SEM WEB WORK S
+   BOLEY H, 2001, RULE MARKUP LANGUAGE
+   *FIR INC, 2001, ESERV CONC
+   GAINES R, 1997, KNOWLEDGE ACQUISITON
+   Grosof N., 2001, WORKSH E BUS INT WEB
+   LEE J, 2000, PAC RIM INT C ART IN
+   LEE J, 2001, HDB ELECT COMMERCE B
+   Liebowitz J., 2001, KNOWLEDGE MANAGEMENT
+   O'Leary DE, 1998, IEEE INTELL SYST APP, V13, P34, DOI 10.1109/5254.683180
+   SOHN M, 2001, XRML VERSION 0 5
+   SONG YU, 2000, J INTELL INF SYST, V6, P1
+NR 12
+TC 45
+Z9 49
+U1 0
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD MAY
+PY 2003
+VL 46
+IS 5
+BP 59
+EP 64
+DI 10.1145/769800.769802
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 671UB
+UT WOS:000182481500016
+DA 2024-07-18
+ER
+
+PT J
+AU Earp, JB
+   Baumer, D
+AF Earp, JB
+   Baumer, D
+TI Innovative Web use to learn about consumer behavior and online privacy
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 N Carolina State Univ, Coll Management, Raleigh, NC 27695 USA.
+C3 North Carolina State University
+RP Earp, JB (corresponding author), N Carolina State Univ, Coll Management, Raleigh, NC 27695 USA.
+CR Furnell SM, 1999, INTERNET RES, V9, P372, DOI 10.1108/10662249910297778
+   Volokh E, 2000, COMMUN ACM, V43, P84, DOI 10.1145/345124.345155
+NR 2
+TC 76
+Z9 96
+U1 1
+U2 16
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1515 BROADWAY, NEW YORK, NY 10036 USA
+SN 0001-0782
+J9 COMMUN ACM
+JI Commun. ACM
+PD APR
+PY 2003
+VL 46
+IS 4
+BP 81
+EP 83
+DI 10.1145/641205.641209
+PG 3
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 661LW
+UT WOS:000181892900022
+DA 2024-07-18
+ER
+
+PT J
+AU Kubiatowicz, J
+AF Kubiatowicz, J
+TI Extracting guarantees from chaos
+SO COMMUNICATIONS OF THE ACM
+LA English
+DT Article
+C1 Univ Calif Berkeley, Berkeley, CA 94720 USA.
+C3 University of California System; University of California Berkeley
+RP Univ Calif Berkeley, Berkeley, CA 94720 USA.
+EM kubitron@cs.berkeley.edu
+CR ALBERT R, 2000, NATURE          0727, V406
+   [Anonymous], P SIGMETRICS
+   GOLDBERG AV, 1998, P IEEE INT FOR RES T
+   HILDRUM K, 2002, P S PAR ALG ARCH SPA
+   Kubiatowicz J., 2000, P ARCH SUPP PROGR LA
+   LAMPORT L, 1982, ACM T PROGR LANG SYS, V4, P382, DOI 10.1145/357172.357176
+   Oram A., 2001, Peer-to-Peer: Harnessing the Power of Disruptive Technologies
+   RATNASAMY S, 2001, P SIGCOMM
+   Rhea S, 2001, IEEE INTERNET COMPUT, V5, P40, DOI 10.1109/4236.957894
+   Rowstron A, 2003, IFIPACM INT C DISTRI
+   STOICA I, 2001, P SIGCOMM AUG
+   WEATHERSPOON H, 2002, P 1 INT WORKSH PEER
+NR 12
+TC 22
+Z9 26
+U1 0
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 2 PENN PLAZA, STE 701, NEW YORK, NY 10121-0701 USA
+SN 0001-0782
+EI 1557-7317
+J9 COMMUN ACM
+JI Commun. ACM
+PD FEB
+PY 2003
+VL 46
+IS 2
+BP 33
+EP 38
+DI 10.1145/606272.606297
+PG 6
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 640JF
+UT WOS:000180684800014
+OA Bronze, Green Submitted
+DA 2024-07-18
+ER
+
+EF

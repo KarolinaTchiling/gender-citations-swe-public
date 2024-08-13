@@ -1,0 +1,2817 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Balcan, MF
+   Dick, T
+   Sandholm, T
+   Vitercik, E
+AF Balcan, Maria-Florina
+   Dick, Travis
+   Sandholm, Tuomas
+   Vitercik, Ellen
+TI Learning to Branch: Generalization Guarantees and Limits of
+   Data-Independent Discretization
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Parameter tuning; integer programming; tree search; branch-and-bound;
+   learning theory; constraint satisfaction problems
+ID ALGORITHM; CONFIGURATION
+AB Tree search algorithms, such as branch-and-bound, are the most widely used tools for solving combinatorial and non-convex problems. For example, they are the foremost method for solving (mixed) integer programs and constraint satisfaction problems. Tree search algorithms come with a variety of tunable parameters that are notoriously challenging to tune by hand. A growing body of research has demonstrated the power of using a data-driven approach to automatically optimize the parameters of tree search algorithms. These techniques use a training set of integer programs sampled from an application-specific instance distribution to find a parameter setting that has strong average performance over the training set. However, with too few samples, a parameter setting may have strong average performance on the training set but poor expected performance on future integer programs from the same application. Our main contribution is to provide the first sample complexity guarantees for tree search parameter tuning. These guarantees bound the number of samples sufficient to ensure that the average performance of tree search over the samples nearly matches its future expected performance on the unknown instance distribution. In particular, the parameters we analyze weight scoring rules used for variable selection. Proving these guarantees is challenging because tree size is a volatile function of these parameters: we prove that, for any discretization (uniform or not) of the parameter space, there exists a distribution over integer programs such that every parameter setting in the discretization results in a tree with exponential expected size, yet there exist parameter settings between the discretized points that result in trees of constant size. In addition, we provide data-dependent guarantees that depend on the volatility of these tree-size functions: our guarantees improve if the tree-size functions can be well approximated by simpler functions. Finally, via experiments, we illustrate that learning an optimal weighting of scoring rules reduces tree size.
+C1 [Balcan, Maria-Florina; Sandholm, Tuomas] Carnegie Mellon Univ, 5000 Forbes Ave, Pittsburgh, PA 15213 USA.
+   [Dick, Travis] Google, 111 8th Ave, New York, NY 10011 USA.
+   [Sandholm, Tuomas] Strateg Machine Inc, Pittsburgh, PA 15213 USA.
+   [Sandholm, Tuomas] Strategy Robot Inc, Pittsburgh, PA 15213 USA.
+   [Sandholm, Tuomas] Optimized Markets Inc, Pittsburgh, PA 15213 USA.
+   [Vitercik, Ellen] Stanford Univ, 475 Via Ortega, Stanford, CA 94305 USA.
+C3 Carnegie Mellon University; Google Incorporated; Stanford University
+RP Balcan, MF (corresponding author), Carnegie Mellon Univ, 5000 Forbes Ave, Pittsburgh, PA 15213 USA.
+EM ninamf@cs.cmu.edu; tdick@google.com; sandholm@cs.cmu.edu;
+   vitercik@stanford.edu
+OI Vitercik, Ellen/0000-0003-4891-1367; Sandholm,
+   Tuomas/0000-0001-8861-9366
+FU National Science Foundation [CCF-1422910, CCF-1535967, CCF-1733556,
+   CCF-1910321, IIS-1617590, IIS-1618714, IIS-1718457, SES-1919453,
+   RI-2312342, RI-1901403]; Microsoft Research Faculty Fellowship; Amazon
+   Research Award; AWS Machine Learning Research Award; Bloomberg Research
+   Grant; NSF Graduate Research Fellowship; Carnegie Mellon University's
+   Center for Machine Learning and Health; IBM PhD Fellowship; ARO
+   [W911NF2210266, W911NF-17-1-0082, W911NF2010081]; ONR
+   [N00014-23-1-2876]; Defense Advanced Research Projects Agency
+   [HR0011202000]; Vannevar Bush Faculty Fellowship
+FX This work was supported in part by the National Science Foundation under
+   grants CCF-1422910, CCF-1535967, CCF-1733556, CCF-1910321, IIS-1617590,
+   IIS-1618714, IIS-1718457, SES-1919453, RI-2312342, and RI-1901403; a
+   Microsoft Research Faculty Fellowship; an Amazon Research Award; an AWS
+   Machine Learning Research Award; a Bloomberg Research Grant; a NSF
+   Graduate Research Fellowship; a fellowship from Carnegie Mellon
+   University's Center for Machine Learning and Health; an IBM PhD
+   Fellowship; the ARO under awards W911NF2210266, W911NF-17-1-0082, and
+   W911NF2010081; ONR award N00014-23-1-2876; the Defense Advanced Research
+   Projects Agency under cooperative agreement HR0011202000; the Vannevar
+   Bush Faculty Fellowship.
+CR Achterberg T, 2005, OPER RES LETT, V33, P42, DOI 10.1016/j.orl.2004.04.002
+   Achterberg T, 2009, MATH PROGRAM COMPUT, V1, P1, DOI 10.1007/s12532-008-0001-1
+   Achterberg Tobias, 2007, THESIS
+   Ahmadi Saba, 2022, arXiv
+   Alvarez AM, 2017, INFORMS J COMPUT, V29, P185, DOI 10.1287/ijoc.2016.0723
+   Ansótegui C, 2009, LECT NOTES COMPUT SC, V5732, P142, DOI 10.1007/978-3-642-04244-7_14
+   Anthony M., 2009, NEURAL NETWORK LEARN
+   Balcan MF, 2018, PR MACH LEARN RES, V80
+   Balcan MF, 2021, AAAI CONF ARTIF INTE, V35, P12225
+   Balcan MF, 2020, PR MACH LEARN RES, V119
+   Balcan MF, 2020, AAAI CONF ARTIF INTE, V34, P3227
+   Balcan MF, 2020, PR MACH LEARN RES, V108
+   Balcan MF, 2018, ANN IEEE SYMP FOUND, P603, DOI 10.1109/FOCS.2018.00064
+   Balcan Maria-Florina, 2020, P INT C LEARN REPR I
+   Balcan Maria-Florina, 2017, P C LEARN THEOR COLT
+   Balcan Maria-Florina, 2022, P ANN C NEUR INF PRO
+   Balcan Maria-Florina, 2021, ADV NEURAL INFORM PR, V34
+   Balcan Maria-Florina, 2020, P C UNC ART INT UAI
+   Bartlett Peter, 2022, P C LEARN THEOR COLT
+   Beale E. M. L., 1979, Discrete Optimisation, P201
+   Bengio Y, 2020, LECT NOTES COMPUT SC, V12296, P99, DOI 10.1007/978-3-030-58942-4_7
+   Bengio Y, 2021, EUR J OPER RES, V290, P405, DOI 10.1016/j.ejor.2020.07.063
+   Benichou M., 1971, Mathematical Programming, V1, P76
+   Bessiere C., 1996, Principles and Practice of Constraint Programming - CP96. Second International Conference - CP96. Proceedings, P61
+   Blum A, 2021, PR MACH LEARN RES, V130
+   Bonami P, 2018, LECT NOTES COMPUT SC, V10848, P595, DOI 10.1007/978-3-319-93031-2_43
+   Cohen-Addad V, 2017, PR MACH LEARN RES, V54, P412
+   Dey SS, 2022, Arxiv, DOI arXiv:2103.09807
+   Dey Santanu S., 2021, P ANN ACM SIAM S DIS
+   Di Liberto G, 2016, EUR J OPER RES, V248, P943, DOI 10.1016/j.ejor.2015.08.018
+   Gasse M, 2019, ADV NEUR IN, V32
+   GAUTHIER JM, 1977, MATH PROGRAM, V12, P26, DOI 10.1007/BF01593767
+   Gilpin A, 2011, DISCRETE OPTIM, V8, P147, DOI 10.1016/j.disopt.2010.07.001
+   Gomes CP, 2001, ARTIF INTELL, V126, P43, DOI 10.1016/S0004-3702(00)00081-3
+   Gupta R, 2017, SIAM J COMPUT, V46, P992, DOI 10.1137/15M1050276
+   HARALICK RM, 1980, ARTIF INTELL, V14, P263, DOI 10.1016/0004-3702(80)90051-X
+   He H, 2014, ADV NEUR IN, V27
+   Horvitz Eric, 2001, P C UNC ART INT UAI
+   Hsu Chen-Yu, 2019, P INT C LEARN REPR I
+   Hutter Frank, 2011, Learning and Intelligent Optimization. 5th International Conference, LION 5. Selected Papers, P507, DOI 10.1007/978-3-642-25566-3_40
+   Hutter F, 2014, ARTIF INTELL-AMST, V206, P79, DOI 10.1016/j.artint.2013.10.003
+   Hutter F, 2010, LECT NOTES COMPUT SC, V6140, P186, DOI 10.1007/978-3-642-13520-0_23
+   Hutter F, 2009, J ARTIF INTELL RES, V36, P267, DOI 10.1613/jair.2861
+   IBM ILOG Inc, 2007, CPLEX 11.0 Release Notes.
+   IBM ILOG Inc, 2017, CPLEX 12.8 Parameters Reference.
+   Jeroslow R. G., 1974, Mathematical Programming, V6, P105, DOI 10.1007/BF01580225
+   Kadioglu S, 2010, FRONT ARTIF INTEL AP, V215, P750, DOI 10.3233/978-1-60750-606-5-751
+   Khalil EB, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P659
+   Khalil EB, 2016, AAAI CONF ARTIF INTE, P724
+   Kleinberg R, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P2023
+   Kleinberg R, 2019, ADV NEUR IN, V32
+   Kolesar Peter J., 1967, Management Science, V13, P723, DOI [10.1287/mnsc.13.9.723, DOI 10.1287/MNSC.13.9.723]
+   Koltchinskii V, 2001, IEEE T INFORM THEORY, V47, P1902, DOI 10.1109/18.930926
+   Kruber M, 2017, LECT NOTES COMPUT SC, V10335, P202, DOI 10.1007/978-3-319-59776-8_16
+   Kumar R, 2018, 32 C NEURAL INFORM P
+   Lagoudakis Michail G., 2001, LICS/SAT, V9, P344
+   LAND AH, 1960, ECONOMETRICA, V28, P497, DOI 10.2307/1910129
+   Le Bodic P, 2017, MATH PROGRAM, V166, P369, DOI 10.1007/s10107-016-1101-8
+   Leyton-Brown K., 2000, EC'00. Proceedings of the 2nd ACM Conference on Electronic Commerce, P66, DOI 10.1145/352871.352879
+   Leyton-Brown K, 2017, P NATL ACAD SCI USA, V114, P7202, DOI 10.1073/pnas.1701997114
+   Leyton-Brown K, 2009, J ACM, V56, DOI 10.1145/1538902.1538906
+   Liang JH, 2016, LECT NOTES COMPUT SC, V9710, P123, DOI 10.1007/978-3-319-40970-2_9
+   Liberatore P, 2000, ARTIF INTELL, V116, P315, DOI 10.1016/S0004-3702(99)00097-1
+   Linderoth JT, 1999, INFORMS J COMPUT, V11, P173, DOI 10.1287/ijoc.11.2.173
+   Lobjois L, 1998, FIFTEENTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE (AAAI-98) AND TENTH CONFERENCE ON INNOVATIVE APPLICATIONS OF ARTIFICAL INTELLIGENCE (IAAI-98) - PROCEEDINGS, P353
+   Lykouris T, 2018, PR MACH LEARN RES, V80
+   Maria-Florina Balcan, 2020, Beyond Worst Case Analysis of Algorithms
+   Massart Pascal, 2000, Annales de la Facultedes sciences de Toulouse, V9, P245
+   Mitzenmacher M, 2018, ADV NEUR IN, V31
+   Mohri M., 2012, Foundations of Machine Learning
+   Pushak Y, 2018, LECT NOTES COMPUT SC, V11102, P271, DOI 10.1007/978-3-319-99259-4_22
+   Rice J. R., 1976, Advances in computers, vol.15, P65, DOI 10.1016/S0065-2458(08)60520-3
+   Sabharwal Ashish, 2017, P INT C AI OR TECHN
+   Sakaue Shinsaku, 2022, P ANN C NEUR INF PRO
+   Sandholm T, 2002, ARTIF INTELL, V135, P1, DOI 10.1016/S0004-3702(01)00159-X
+   Sandholm Tuomas, 2013, The Handbook of Market Design
+   Sayag T, 2006, LECT NOTES COMPUT SC, V3884, P242
+   Shalev-Shwartz S., 2014, Understanding machine learning: from theory to algorithms, DOI [DOI 10.1017/CBO9781107298019, 10.1017/cbo9781107298019]
+   Song JL, 2019, Arxiv, DOI arXiv:1804.00846
+   Song Jialin, 2020, P ANN C NEUR INF PRO
+   Speck David, 2021, P 31 INT C AUT PLANN, V31, P597
+   Spielman DA, 2004, J ACM, V51, P385, DOI 10.1145/990308.990310
+   Streeter Matthew, 2009, Advances in Neural Information Processing Systems, P1577
+   Streeter Matthew, 2007, P AAAI C ART INT AAA
+   Tang Yunhao, 2020, P INT C MACH LEARN I
+   Weisz G, 2018, PR MACH LEARN RES, V80
+   Xia W, 2018, AAAI CONF ARTIF INTE, P6657
+   Xu L, 2008, J ARTIF INTELL RES, V32, P565, DOI 10.1613/jair.2490
+   Xu L, 2010, AAAI CONF ARTIF INTE, P210
+   Xu Lin, 2011, P RCRA WORKSH EXP EV
+NR 90
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 13
+DI 10.1145/3637840
+PG 73
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800001
+DA 2024-08-05
+ER
+
+PT J
+AU Bhargava, V
+   Ghosh, S
+   Guo, ZY
+   Kumar, M
+   Umans, C
+AF Bhargava, Vishwas
+   Ghosh, Sumanta
+   Guo, Zeyu
+   Kumar, Mrinal
+   Umans, Chris
+TI Fast Multivariate Multipoint Evaluation over All Finite Fields
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Multivariate multipoint evaluation; kakeya sets; hermite interpolation;
+   polynomial evaluation; finite fields
+AB Multivariate multipoint evaluation is the problem of evaluating a multivariate polynomial, given as a coefficient vector, simultaneously at multiple evaluation points. In this work, we show that there exists a deterministic algorithm for multivariate multipoint evaluation over any finite field F that outputs the evaluations of anm-variate polynomial of degree less than d in each variable at N points in time, (d(m) + N)(1+o(1)) center dot poly(m, d, log |F|), for all m epsilon N and all sufficiently large d epsilon N. A previous work of Kedlaya and Umans (FOCS 2008 and SICOMP 2011) achieved the same time complexity when the number of variables m is at most do(1) and had left the problem of removing this condition as an open problem. Arecentwork of Bhargava, Ghosh, Kumar, andMohapatra (STOC 2022) answered this question when the underlying field is not too large and has characteristic less than do(1). In this work, we remove this constraint on the number of variables over all finite fields, thereby answering the question of Kedlaya and Umans over all finite fields. Our algorithm relies on a non-trivial combination of ideas from three seemingly different previously known algorithms for multivariate multipoint evaluation, namely the algorithms of Kedlaya and Umans, that of Bjorklund, Kaski, and Williams (IPEC 2017 and Algorithmica 2019), and that of Bhargava, Ghosh, Kumar, and Mohapatra, together with a result of Bombieri and Vinogradov from analytic number theory about the distribution of primes in an arithmetic progression. We also present a second algorithm for multivariate multipoint evaluation that is completely elementary and, in particular, avoids the use of the Bombieri-Vinogradov theorem. However, it requires a mild assumption that the field size is bounded by an exponential tower in d of bounded height. More specifically, our second algorithm solves the multivariate multipoint evaluation problem over a finite field F in time, (d(m) + N)(1+o(1)) center dot poly(m, d, log |F|), for all m epsilon N and all sufficiently large d epsilon N, provided that the size of the finite field F is at most (exp(exp(exp(center dot center dot center dot (exp(d))))), where the height of this tower of exponentials is fixed.
+C1 [Bhargava, Vishwas] Univ Waterloo, Cheriton Sch Comp Sci, 200 Univ Ave West, Waterloo, ON N2L 3G1, Canada.
+   [Ghosh, Sumanta] Chennai Math Inst, Chennai, Tamil Nadu, India.
+   [Guo, Zeyu] Ohio State Univ, 487 Dreese Lab,2015 Neil Ave, Columbus, OH 43210 USA.
+   [Kumar, Mrinal] Tata Inst Fundamental Res, Homi Bhabha Rd, Mumbai 400005, Maharashtra, India.
+   [Umans, Chris] CALTECH, 1200 E Calif Blvd, Pasadena, CA 91125 USA.
+C3 University of Waterloo; Chennai Mathematical Institute; University
+   System of Ohio; Ohio State University; Tata Institute of Fundamental
+   Research (TIFR); California Institute of Technology
+RP Bhargava, V (corresponding author), Univ Waterloo, Cheriton Sch Comp Sci, 200 Univ Ave West, Waterloo, ON N2L 3G1, Canada.
+EM vishwas1384@gmail.com; besusumanta@gmail.com; zguotcs@gmail.com;
+   mrinalkumar08@gmail.com; umans@cs.caltech.edu
+FU Department of Atomic Energy, Government of India [12-RD-TFR-5.01-0500]
+FX Research supported by the Department of Atomic Energy, Government of
+   India, under project 12-R&D-TFR-5.01-0500. Part of this work was done
+   while at IIT Bombay.
+CR Bhargava V, 2022, ACM S THEORY COMPUT, P403, DOI 10.1145/3519935.3519968
+   Björklund A, 2019, ALGORITHMICA, V81, P4010, DOI 10.1007/s00453-018-0513-7
+   BOMBIERI E, 1965, MATHEMATIKA, V12, P201, DOI 10.1112/S0025579300005313
+   BORODIN A, 1974, J COMPUT SYST SCI, V8, P366, DOI 10.1016/S0022-0000(74)80029-2
+   Forbes Michael, 2014, Ph. D. Disser- tation
+   Jukna S., 2011, EXTREMAL COMBINATORI, DOI DOI 10.1007/978-3-642-17364-6
+   Kedlaya Kiran, 2015, Lecture Notes for the Course 'Analytic Number Theory'
+   Kedlaya KS, 2011, SIAM J COMPUT, V40, P1767, DOI 10.1137/08073408X
+   Lang Serge, 2002, Algebra, V3rd, DOI DOI 10.1007/978-1-4613-0041-0
+   Maynard J, 2012, Arxiv, DOI arXiv:1201.1777
+   Maynard J, 2021, Arxiv, DOI arXiv:2006.06572
+   Nüsken M, 2004, LECT NOTES COMPUT SC, V3221, P544
+   SHOUP V., 2008, A Computational Introduction to Number Theory and Algebra, V2nd, DOI DOI 10.1017/CBO9780511814549
+   SIEGEL C. L., 1935, Acta Arith., V1, P83
+   Umans C, 2008, ACM S THEORY COMPUT, P481
+   van der Hoeven J, 2020, J COMPLEXITY, V56, DOI 10.1016/j.jco.2019.04.001
+   van Der Hoeven Joris, 2023, J. Complex., V74
+   Vinogradov A. I., 1965, Izvest. Rossiisk. Akad. Nauk. Ser. Mat., V29, P903
+   von zur Gathen J., 2013, Modern Computer Algebra, DOI [DOI 10.1017/CBO9781139856065, 10.1017/CBO9781139856065]
+   Walfisz Arnold, 1936, Math. Zeitschr., V40, P592, DOI [10.1007/BF01218882, DOI 10.1007/BF01218882]
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD JUN
+PY 2024
+VL 71
+IS 3
+DI 10.1145/3652025
+PG 32
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XG0Z2
+UT WOS:001260425800006
+OA Bronze, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Altschuler, JM
+   Chewi, S
+AF Altschuler, Jason M.
+   Chewi, Sinho
+TI Faster High-accuracy Log-concave Sampling via Algorithmic Warm Starts
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Metropolis-adjusted Langevin algorithm; log-concave sampling; proximal
+   sampler; shifted divergence; underdamped Langevin; warm start
+ID RENYI DIVERGENCE; LANGEVIN; EQUATIONS; MCMC
+AB It is a fundamental problem to understand the complexity of high-accuracy sampling from a strongly logconcave density pi on R-d. Indeed, in practice, high-accuracy samplers such as the Metropolis-adjusted Langevin algorithm (MALA) remain the de facto gold standard; and in theory, via the proximal sampler reduction, it is understood that such samplers are key for sampling even beyond log-concavity (in particular, for sampling under isoperimetric assumptions). This article improves the dimension dependence of this sampling problem to O-similar to(d(1/2)). The previous best result forMALA was O-similar to(d). This closes the long line of work on the complexity ofMALA and, moreover, leads to state-of-the-art guarantees for high-accuracy sampling under strong log-concavity and beyond (thanks to the aforementioned reduction). Our starting point is that the complexity ofMALA improves to O-similar to(d(1/2)), but only under a warm start (an initialization with constant Renyi divergence w.r.t. p). Previous algorithms for finding a warm start took O(d) time and thus dominated the computational effort of sampling. Our main technical contribution resolves this gap by establishing the first O-similar to(d(1/2)) Renyi mixing rates for the discretized underdamped Langevin diffusion. For this, we develop new differential-privacy-inspired techniques based on Renyi divergences with Orlicz-Wasserstein shifts, which allow us to sidestep longstanding challenges for proving fast convergence of hypocoercive differential equations.
+C1 [Altschuler, Jason M.] UPenn, 265 37th St, Philadelphia, PA 19104 USA.
+   [Chewi, Sinho] IAS, 1 Einstein Dr, Princeton, NJ USA.
+C3 Institute for Advanced Study - USA
+RP Altschuler, JM (corresponding author), UPenn, 265 37th St, Philadelphia, PA 19104 USA.
+EM alt@upenn.edu; schewi@ias.edu
+OI Altschuler, Jason/0000-0001-7367-0097
+FU NYU Faculty Fellowship; NSF TRIPODS program [DMS-2022448]
+FX J. M. Altschuler acknowledges funding from an NYU Faculty Fellowship. S.
+   Chewi acknowledges funding from NSF TRIPODS program (award DMS-2022448).
+CR Abadi M, 2016, PROCEEDINGS OF OSDI'16: 12TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P265
+   Abadi M, 2016, CCS'16: PROCEEDINGS OF THE 2016 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P308, DOI 10.1145/2976749.2978318
+   Albritton D, 2021, Arxiv, DOI arXiv:1902.04037
+   Alonso-Gutierrez David, 2015, Lecture Notes in Mathematics, V2131
+   Altschuler JM, 2022, ADV NEUR IN
+   Altschuler JM, 2023, Arxiv, DOI arXiv:2311.14520
+   Altschuler Jason M., 2023, C LEARN THEOR, V195, P2509
+   Asoodeh S, 2020, IEEE INT SYMP INFO, P896, DOI [10.1109/ISIT44484.2020.9174133, 10.1109/isit44484.2020.9174133]
+   Bakry D., 2014, Analysis and geometry of Markov diffusion operators, V103
+   Balle Borja, 2019, Privacy Amplification by Mixing and Diffusion Mechanisms
+   Baudoin F, 2017, J FUNCT ANAL, V273, P2275, DOI 10.1016/j.jfa.2017.06.021
+   BESAG J, 1995, STAT SCI, V10, P3, DOI 10.1214/ss/1177010123
+   Bou-Rabee Nawaf, 2022, arXiv
+   Boucheron S., 2013, Concentration inequalities: a nonasymptotic theory of independence, DOI DOI 10.1093/ACPROF:OSO/9780199535255.001.0001
+   Cao Y, 2023, ARCH RATION MECH AN, V247, DOI 10.1007/s00205-023-01922-4
+   Cao Y, 2021, COMMUN MATH SCI, V19, P1827
+   Cao Y, 2019, J STAT PHYS, V176, P1172, DOI 10.1007/s10955-019-02339-8
+   Chen HB, 2021, J FUNCT ANAL, V281, DOI 10.1016/j.jfa.2021.109236
+   Chen Sitan, 2023, INT C LEARN REPR
+   Chen Yongxin, 2022, P 35 C LEARNING THEO, P2984
+   Chen YS, 2022, ANN IEEE SYMP FOUND, P110, DOI 10.1109/FOCS54457.2022.00018
+   Chen YS, 2020, J MACH LEARN RES, V21
+   Chen Zongchen, 2019, Leibniz Int. Proc. Inform., V145
+   Cheng X., 2018, Conference on learning theory, PMLR, P300
+   Chewi S., 2021, PMLR, V134, P1260
+   Chewi Sinho, 2023, Logconcave Sampling
+   Chewi Sinho, 2022, P MACHINE LEARNING R, P1
+   Chourasia Rishav, 2021, ADV NEURAL INFORM PR, V34, P14771
+   Cormen TH, 2022, Introduction to algorithms, V4th
+   Dalalyan AS, 2020, BERNOULLI, V26, P1956, DOI 10.3150/19-BEJ1178
+   Dalalyan Arnak S., 2022, J. Mach. Learn. Res., V23, P1
+   Dolbeault J, 2009, CR MATH, V347, P511, DOI 10.1016/j.crma.2009.02.025
+   Dwivedi Raaz, 2018, C LEARNING THEORY CO, P793
+   Dwork C, 2016, Arxiv, DOI arXiv:1603.01887
+   Dwork C, 2013, FOUND TRENDS THEOR C, V9, P211, DOI 10.1561/0400000042
+   Erdogdu M.A., 2022, PMLR, V151, P8151
+   ERMAK DL, 1980, J COMPUT PHYS, V35, P169, DOI 10.1016/0021-9991(80)90084-4
+   Fan Jiaojiao, 2023, 36 ANN C LEARNING TH, V195, P1473
+   Feldman V, 2020, ACM S THEORY COMPUT, P439, DOI 10.1145/3357713.3384335
+   Feldman V, 2018, ANN IEEE SYMP FOUND, P521, DOI 10.1109/FOCS.2018.00056
+   Foster James, 2021, arXiv
+   Frostig R, 2015, PR MACH LEARN RES, V37, P2540
+   Ganesh A., 2020, Adv. Neural Inf. Process. Syst, V33, P7222
+   Gelman A, 2015, J EDUC BEHAV STAT, V40, P530, DOI 10.3102/1076998615606113
+   Gopi GLL22 S., 2022, C LEARNING THEORY, V178, P1948
+   Gopi Sivakanth, 2023, PMLR, P2399
+   Gopi Sivakanth, 2023, P 2023 ANN ACM SIAM, P5068
+   GROSS L, 1975, AM J MATH, V97, P1061, DOI 10.2307/2373688
+   Guha Aritra, 2023, P MACHINE LEARNING R, V202, P11847
+   Guillin A, 2012, J DIFFER EQUATIONS, V253, P20, DOI 10.1016/j.jde.2012.03.014
+   He Y., 2020, Advances in Neural Information Processing Systems, V33, P7366
+   HORMANDE.L, 1967, ACTA MATH-UPPSALA, V119, P147, DOI 10.1007/BF02392081
+   Ierkens JB, 2019, ANN STAT, V47, P1288, DOI 10.1214/18-AOS1715
+   Jordan R, 1998, SIAM J MATH ANAL, V29, P1, DOI 10.1137/S0036141096303359
+   KANNAN R, 1995, DISCRETE COMPUT GEOM, V13, P541, DOI 10.1007/BF02574061
+   Kell M, 2017, ADV CALC VAR, V10, P125, DOI 10.1515/acv-2014-004
+   Klartag B, 2021, Arxiv, DOI arXiv:2107.09496
+   Klartag B, 2022, GEOM FUNCT ANAL, V32, P1134, DOI 10.1007/s00039-022-00612-9
+   Kolmogoroff A, 1934, ANN MATH, V35, P116, DOI 10.2307/1968123
+   Le Gall Jean-Francois, 2016, Brownian motion, martingales, and stochastic calculus (French), V274
+   Lee Y.T., 2020, PMLR, V125, P2565
+   Lee Yin Tat, 2021, Advances in Neural Information Processing Systems, V34, P18812
+   Lee Yin Tat, 2021, C LEARNING THEORY, V134, P2993
+   Li M, 2023, BERNOULLI, V29, P3093, DOI 10.3150/22-BEJ1576
+   Liang JM, 2022, Arxiv, DOI arXiv:2110.04597
+   Liang Jiaming, 2023, Trans. Mach. Learn. Res.
+   Lin H, 2015, ADV NEUR IN, V28
+   Liu Y, 2020, ELECTRON J PROBAB, V25, DOI 10.1214/19-EJP403
+   LOVASZ L, 1993, RANDOM STRUCT ALGOR, V4, P359, DOI 10.1002/rsa.3240040402
+   Lu JF, 2022, STAT COMPUT, V32, DOI 10.1007/s11222-022-10109-y
+   Ma YA, 2021, BERNOULLI, V27, P1942, DOI 10.3150/20-BEJ1297
+   McSherry F, 2007, ANN IEEE SYMP FOUND, P94, DOI 10.1109/FOCS.2007.66
+   Mironov I, 2017, P IEEE CSFW, P263, DOI 10.1109/CSF.2017.11
+   Monmarché P, 2021, ELECTRON J STAT, V15, P4117, DOI 10.1214/21-EJS1888
+   Neal RM, 2011, CH CRC HANDB MOD STA, P113
+   Nemirovskij AS, 1983, Problem Complexity and Method Efficiency in Optimization
+   Nesterov Yu. E., 1983, Doklady Akademii Nauk SSSR, V269, P543
+   Otto F, 2000, J FUNCT ANAL, V173, P361, DOI 10.1006/jfan.1999.3557
+   Rao M. M., 1991, Monographs and Textbooks in Pure and Applied Mathematics, V146
+   Roberts GO, 1998, J ROY STAT SOC B, V60, P255, DOI 10.1111/1467-9868.00123
+   Roussel J, 2018, ESAIM-MATH MODEL NUM, V52, P1051, DOI 10.1051/m2an/2017044
+   Ryffel Theo, 2022, arXiv
+   Shen RQ, 2019, ADV NEUR IN, V32
+   Sordello M, 2021, LECT NOTES ARTIF INT, V12976, P796, DOI 10.1007/978-3-030-86520-7_49
+   Sturm KT, 2011, B SCI MATH, V135, P795, DOI 10.1016/j.bulsci.2011.07.013
+   Titsias MK, 2018, J ROY STAT SOC B, V80, P749, DOI 10.1111/rssb.12269
+   TROPPER MM, 1977, J STAT PHYS, V17, P491, DOI 10.1007/BF01014351
+   van Erven T, 2014, IEEE T INFORM THEORY, V60, P3797, DOI 10.1109/TIT.2014.2320500
+   Vempala Santosh, 2019, Advances in Neural Information Processing Systems, V32, P8092
+   Vershynin R., 2018, High-dimensional probability: An introduction with applications in data science, DOI [DOI 10.1017/9781108231596, 10.1017/9781108231596]
+   Villani C, 2009, GRUNDLEHR MATH WISS, V338, P5
+   Villani C, 2009, MEM AM MATH SOC, V202, P1, DOI 10.1090/S0065-9266-09-00567-5
+   Wibisono A., 2018, P MACHINE LEARNING R, P2093
+   Wibisono A, 2019, Arxiv, DOI arXiv:1911.01469
+   Wu KR, 2022, J MACH LEARN RES, V23, P1
+   Ye Jiayuan, 2022, Advances in Neural Information Processing Systems, V35, P703
+   Zhang Matthew S., 2023, C LEARNING THEORY CO, V195, P36
+NR 97
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD JUN
+PY 2024
+VL 71
+IS 3
+DI 10.1145/3653446
+PG 55
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XG0Z2
+UT WOS:001260425800008
+OA Bronze, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Bonnet, É
+   Giocanti, U
+   de Mendez, PO
+   Simon, P
+   Thomassé, S
+   Toruñczyk, S
+AF Bonnet, Edouard
+   Giocanti, Ugo
+   de Mendez, Patrice Ossona
+   Simon, Pierre
+   Thomasse, Stephan
+   Torunczyk, Szymon
+TI Twin-Width IV: Ordered Graphs and Matrices
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Twin-width; ordered graphs; matrices; finite model theory; growth jump;
+   parameterized complexity
+ID MONADIC 2ND-ORDER LOGIC; MINORS
+AB We establish a list of characterizations of bounded twin-width for hereditary classes of totally ordered graphs: as classes of at most exponential growth studied in enumerative combinatorics, as monadically NIP classes studied in model theory, as classes that do not transduce the class of all graphs studied in finite model theory, and as classes for which model checking first-order logic is fixed-parameter tractable studied in algorithmic graph theory. This has several consequences. First, it allows us to show that every hereditary class of ordered graphs either has at most exponential growth, or has at least factorial growth. This settles a question first asked by Balogh et al. [5] on the growth of hereditary classes of ordered graphs, generalizing the Stanley-Wilf conjecture/Marcus-Tardos theorem. Second, it gives a fixed-parameter approximation algorithm for twinwidth on ordered graphs. Third, it yields a full classification of fixed-parameter tractable first-order model checking on hereditary classes of ordered binary structures. Fourth, it provides a model-theoretic characterization of classes with bounded twin-width. Finally, it settles the small conjecture [8] in the case of ordered graphs.
+C1 [Bonnet, Edouard; Thomasse, Stephan] ENS Lyon, LIP, UMR5668, 46 Allee Italie, F-69007 Lyon, France.
+   [Giocanti, Ugo] Univ Grenoble Alpes, Lab G SCOP, CNRS, Ave Felix Viallet, F-38000 Grenoble, France.
+   [de Mendez, Patrice Ossona] CAMS CNRS UMR 8557, Paris, France.
+   [de Mendez, Patrice Ossona] Charles Univ Prague, Prague, Czech Republic.
+   [Simon, Pierre] Univ Calif Berkeley, Berkeley, CA USA.
+   [Torunczyk, Szymon] Univ Warsaw, Krakowskie Przedmiescie 26-28, PL-00927 Warsaw, Poland.
+C3 Ecole Normale Superieure de Lyon (ENS de LYON); Communaute Universite
+   Grenoble Alpes; Institut National Polytechnique de Grenoble; Universite
+   Grenoble Alpes (UGA); Centre National de la Recherche Scientifique
+   (CNRS); Charles University Prague; University of California System;
+   University of California Berkeley; University of Warsaw
+RP Bonnet, É (corresponding author), ENS Lyon, LIP, UMR5668, 46 Allee Italie, F-69007 Lyon, France.
+EM edouard.bonnet@ens-lyon.fr; ugo.giocanti@grenoble-inp.fr; pom@ehess.fr;
+   simon@math.berkeley.edu; stephan.thomasse@ens-lyon.fr;
+   szymtor@mimuw.edu.pl
+OI Bonnet, Edouard/0000-0002-1653-5822
+FU European Research Council (ERC) under the European Union [810115,
+   948057]; French National Research Agency [ANR Twin-width
+   ANR-21-CE48-0014-01, ANR DIGRAPHS ANR-19-CE48-0013-01]
+FX This paper is part of a project that has received funding from the
+   European Research Council (ERC) under the European Union's Horizon 2020
+   research and innovation programme (grant agreements No 810115 -DYNASNET
+   and No. 948057 - BOBR), and partially supported by the French National
+   Research Agency under research grant ANR Twin-width ANR-21-CE48-0014-01,
+   and ANR DIGRAPHS ANR-19-CE48-0013-01.
+CR Adler H, 2014, EUR J COMBIN, V36, P322, DOI 10.1016/j.ejc.2013.06.048
+   ARNBORG S, 1988, LECT NOTES COMPUT SC, V317, P38
+   Baldwin John T., 1985, Notre Dame Journal of Formal Logic, V26, P229, DOI 10.1305/ndjfl/1093870870
+   Balogh J., 2006, Topics in Discrete Mathematics, V26, P179
+   Balogh J, 2006, EUR J COMBIN, V27, P1263, DOI 10.1016/j.ejc.2006.05.004
+   Bodirsky Manuel, 2015, Ramsey Classes: Examples and Constructions, P1, DOI [10.1017/CBO9781316106853.002, DOI 10.1017/CBO9781316106853.002]
+   Bonnet É, 2020, ANN IEEE SYMP FOUND, P601, DOI 10.1109/FOCS46700.2020.00062
+   Bonnet Edouard, 2020, arXiv
+   Bonnet Edouard, 2021, P 2021 ACM SIAM S DI, P1977, DOI [DOI 10.1137/1.9781611976465.118, 10.1137/1.9781611976465.118]
+   Bova Simone, 2015, 24 EACSL ANN C COMP
+   Cibulka J, 2019, Arxiv, DOI arXiv:1607.07491
+   Courcelle B, 2000, THEOR COMPUT SYST, V33, P125, DOI 10.1007/s002249910009
+   COURCELLE B, 1994, THEOR COMPUT SCI, V126, P53, DOI 10.1016/0304-3975(94)90268-2
+   COURCELLE B, 1990, INFORM COMPUT, V85, P12, DOI 10.1016/0890-5401(90)90043-H
+   Courcelle B, 2007, J COMB THEORY B, V97, P91, DOI 10.1016/j.jctb.2006.04.003
+   Dawar A, 2007, IEEE S LOG, P270, DOI 10.1109/LICS.2007.31
+   Ding GL, 1996, J COMB THEORY B, V66, P334, DOI 10.1006/jctb.1996.0026
+   Downey R. G., 1997, Combinatorics, Complexity, and Logic. Proceedings of DMTCS'96, P194
+   Dvorák Z, 2013, J ACM, V60, DOI 10.1145/2499483
+   FLUM J., 2006, TEXT THEORET COMP S
+   Frick M, 2001, J ACM, V48, P1184, DOI 10.1145/504794.504798
+   Gajarsky J, 2016, PROCEEDINGS OF THE 31ST ANNUAL ACM-IEEE SYMPOSIUM ON LOGIC IN COMPUTER SCIENCE (LICS 2016), P176, DOI 10.1145/2933575.2935314
+   Gajarsky J, 2018, Arxiv, DOI arXiv:1805.01823
+   Gajarsky J, 2015, ANN IEEE SYMP FOUND, P963, DOI 10.1109/FOCS.2015.63
+   Gajarsky Jakub, 2018, 43 INT S MATH FDN CO
+   Gajarsky Jakub, 2018, 45 INT C AUT LANG PR, DOI [10.4230/LIPIcs.ICALP.2018.126, DOI 10.4230/LIPICS.ICALP.2018.126]
+   Gravier S, 2004, EUR J COMBIN, V25, P719, DOI 10.1016/j.ejc.2003.10.004
+   Grohe M, 2017, J ACM, V64, DOI 10.1145/3051095
+   Gunby B, 2019, EUR J COMBIN, V82, DOI 10.1016/j.ejc.2019.07.003
+   Hlineny P, 2019, COMP GEOM-THEOR APPL, V78, P1, DOI 10.1016/j.comgeo.2018.10.001
+   Impagliazzo R, 2001, J COMPUT SYST SCI, V62, P367, DOI 10.1006/jcss.2000.1727
+   Klazar M, 2000, FORMAL POWER SERIES AND ALGEBRAIC COMBINATORICS, P250
+   Klazar M, 2008, ELECTRON J COMB, V15
+   Kreutzer S, 2012, LOG METH COMPUT SCI, V8, DOI 10.2168/LMCS-8(1:27)2012
+   Kreutzer S, 2010, IEEE S LOG, P189, DOI 10.1109/LICS.2010.39
+   Marcus A, 2004, J COMB THEORY A, V107, P153, DOI 10.1016/j.jcta.2004.04.002
+   Nesetril J, 2011, EUR J COMBIN, V32, P600, DOI 10.1016/j.ejc.2011.01.006
+   Ramsey FP, 1930, P LOND MATH SOC, V30, P264, DOI 10.1112/plms/s2-30.1.264
+   Seese D., 1996, Mathematical Structures in Computer Science, V6, P505
+   SEESE D, 1991, ANN PURE APPL LOGIC, V53, P169, DOI 10.1016/0168-0072(91)90054-P
+   Seese Detlef, 1995, Electronic Notes in Theoretical Computer Science, V2, P246, DOI [10.1016/S1571-0661(05)80203-8SEGRAGRA1995, DOI 10.1016/S1571-0661(05)80203-8SEGRAGRA1995]
+   Shelah Saharon, 1986, Lecture Notes in Mathematics, V1182
+   Shelah Saharon, 1971, Annals of Mathematical Logic, V3, P271, DOI DOI 10.1016/0003-4843(71)90015-5
+   Simon Pierre, 2021, arXiv
+NR 44
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD JUN
+PY 2024
+VL 71
+IS 3
+DI 10.1145/3651151
+PG 45
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XG0Z2
+UT WOS:001260425800005
+OA Bronze, Green Published, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Esparza, J
+   Rubio, R
+   Sickert, S
+AF Esparza, Javier
+   Rubio, Ruben
+   Sickert, Salomon
+TI Efficient Normalization of Linear Temporal Logic
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Linear temporal logic; normal form; weak alternating automata;
+   deterministic automata
+ID AUTOMATA
+AB In the mid 1980s, Lichtenstein, Pnueli, and Zuck proved a classical theorem stating that every formula of Past LTL (the extension of Linear Temporal Logic (LTL) with past operators) is equivalent to a formula of the form boolean AND(n)(i=1) GF(fi) boolean OR FG psi(i), where phi(i) and psi(i) contain only past operators. Some years later, Chang, Manna, and Pnueli built on this result to derive a similar normal form for LTL. Both normalization procedures have a non-elementary worst-case blow-up, and follow an involved path from formulas to counter-free automata to star-free regular expressions and back to formulas. We improve on both points. We present direct and purely syntactic normalization procedures for LTL, yielding a normal form very similar to the one by Chang, Manna, and Pnueli, that exhibit only a single exponential blow-up. As an application, we derive a simple algorithm to translate LTL into deterministic Rabin automata. The algorithm normalizes the formula, translates it into a special very weak alternating automaton, and applies a simple determinization procedure, valid only for these special automata.
+C1 [Esparza, Javier] Tech Univ Munich, Garching, Germany.
+   [Rubio, Ruben] Univ Complutense Madrid, Madrid, Spain.
+   [Sickert, Salomon] Hebrew Univ Jerusalem, Jerusalem, Israel.
+   [Rubio, Ruben] Univ Complutense Madrid, Fac Informat, Calle Profesor Jose Garcia Santesmases 9, Madrid 28040, Spain.
+   [Sickert, Salomon] Hebrew Univ Jerusalem, Sch Comp Sci & Engn, Rothberg Family Bldg,Edmond J Safra Campus, IL-91904 Jerusalem, Israel.
+C3 Technical University of Munich; Complutense University of Madrid; Hebrew
+   University of Jerusalem; Complutense University of Madrid; Hebrew
+   University of Jerusalem
+RP Esparza, J (corresponding author), Tech Univ Munich, Fak Informat, Boltzmannstr 3, D-85748 Garching, Germany.
+EM esparza@in.tum.de; rubenrub@ucm.es; sickert@tum.de
+RI Rubio, Ruben/V-3138-2017
+OI Rubio, Ruben/0000-0003-2983-3404
+FU Deutsche Forschungsgemeinschaft (DFG) [183790222, 317422601, 436811179];
+   European Research Council (ERC) under the European Union [787367];
+   Agencia Estatal de Investigacion (AEI) [PID2019-108528RB-C22]; Spanish
+   Ministry of Universities [FPU17/02319, EST21/00536]
+FX This work was partially supported by the Deutsche Forschungsgemeinschaft
+   (DFG) under projects 183790222, 317422601, and 436811179; by the
+   European Research Council (ERC) under the European Union's Horizon 2020
+   research and innovation programme under grant agreement 787367 (PaVeS);
+   by the Agencia Estatal de Investigacion (AEI) under project
+   PID2019-108528RB-C22; and by the Spanish Ministry of Universities under
+   grants FPU17/02319 and EST21/00536.
+CR [Anonymous], 2001, An Automata Theoretic Approach to Branching
+   [Anonymous], 1994, Temporal Logic: Mathematical Foundations and Computational Aspects
+   [Anonymous], 2008, Texts in Logic and Games
+   Babiak Tomas, 2013, Model Checking Software. 20th International Symposium, SPIN 2013. Proceedings, P81, DOI 10.1007/978-3-642-39176-7_6
+   Boker U, 2022, LECT NOTES COMPUT SC, V13242, P140, DOI 10.1007/978-3-030-99253-8_8
+   Buchi J. Richard, 1960, Mathematical Logic Quarterly, V6, P66, DOI DOI 10.1002/MALQ.19600060105
+   Casares A., 2021, 48 INT C AUT LANG PR, V198, P123
+   Casares A, 2022, LECT NOTES COMPUT SC, V13244, P99, DOI 10.1007/978-3-030-99527-0_6
+   Cerná I, 2003, LECT NOTES COMPUT SC, V2747, P318
+   CHANDRA AK, 1981, J ACM, V28, P114, DOI 10.1145/322234.322243
+   CHANG E, 1992, LECT NOTES COMPUT SC, V623, P474
+   CHOUEKA Y, 1974, J COMPUT SYST SCI, V8, P117, DOI 10.1016/S0022-0000(74)80051-6
+   Duret-Lutz A, 2022, LECT NOTES COMPUT SC, V13372, P174, DOI 10.1007/978-3-031-13188-2_9
+   Esparza Javier, 2022, Principles of Systems Design: Essays Dedicated to Thomas A. Henzinger on the Occasion of His 60th Birthday. Lecture Notes in Computer Science (13660), P208, DOI 10.1007/978-3-031-22337-2_10
+   Esparza J, 2020, J ACM, V67, DOI 10.1145/3417995
+   Etessami K, 1997, IEEE S LOG, P228, DOI 10.1109/LICS.1997.614950
+   GABBAY D, 1989, LECT NOTES COMPUT SC, V398, P409
+   Gabbay D, 1980, P 7 ACM SIGPLAN SIGA, P163, DOI DOI 10.1145/567446.567462
+   Guelev DP, 2008, J LOGIC COMPUT, V18, P615, DOI 10.1093/logcom/exn002
+   Gurumurthy S, 2003, LECT NOTES COMPUT SC, V2860, P96
+   John T, 2022, INNOV SYST SOFTW ENG, V18, P385, DOI 10.1007/s11334-022-00445-7
+   John T, 2021, LECT NOTES COMPUT SC, V12971, P15, DOI 10.1007/978-3-030-88885-5_2
+   Kretínsky J, 2018, LECT NOTES COMPUT SC, V11138, P543, DOI 10.1007/978-3-030-01090-4_34
+   Lichtenstein O., 1985, Logics of Programs. Proceedings, P196
+   Loding C., 2000, Theoretical Computer Science. Exploring New Frontiers of Theoretical Informatics. International Conference IFIP TCS 2000. Proceedings (Lecture Notes in Computer Science Vol.1872), P521
+   MALER O, 1990, ANN IEEE SYMP FOUND, P672
+   Maler O, 2010, LECT NOTES COMPUT SC, V6200, P260, DOI 10.1007/978-3-642-13754-9_12
+   Maler Oded, 1994, On the cascaded decomposition of automata, its complexity and its application to logic
+   MANNA Z, 1990, PROCEEDINGS OF THE NINTH ANNUAL ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED COMPUTING, P377, DOI 10.1145/93385.93442
+   MANNA Z, 1991, THEOR COMPUT SCI, V83, P97, DOI 10.1016/0304-3975(91)90041-Y
+   Manna Z., 1992, The temporal logic of reactive and concurrent systems-specification, DOI [10.1007/978-1-4612-0931-7, DOI 10.1007/978-1-4612-0931-7]
+   McNaughton Robert, 1971, MIT Research Monograph, V65
+   Meyer PJ, 2018, LECT NOTES COMPUT SC, V10981, P578, DOI 10.1007/978-3-319-96145-3_31
+   MIYANO S, 1984, THEOR COMPUT SCI, V32, P321, DOI 10.1016/0304-3975(84)90049-5
+   Muller D. E., 1988, Proceedings of the Third Annual Symposium on Logic in Computer Science (Cat. No.88CH2608-8), P422, DOI 10.1109/LICS.1988.5139
+   MULLER DE, 1986, LECT NOTES COMPUT SC, V226, P275
+   Oliveira D, 2021, LOG J IGPL, V29, P251, DOI 10.1093/jigpal/jzz081
+   Pelánek R, 2006, LECT NOTES COMPUT SC, V3845, P238
+   Piterman N., 2018, Handbook of Model Checking, P27, DOI [DOI 10.1007/978-3-319-10575-8_2, 10.1007/978-3-319-10575-8_2]
+   Pnueli A., 1977, 18th Annual Symposium on Foundations of Computer Science, P46, DOI 10.1109/SFCS.1977.32
+   PNUELI A, 1981, THEOR COMPUT SCI, V13, P45, DOI 10.1016/0304-3975(81)90110-9
+   Reynolds M, 2000, IEEE S LOG, P229
+   Safra S., 1988, 29th Annual Symposium on Foundations of Computer Science (IEEE Cat. No.88CH2652-6), P319, DOI 10.1109/SFCS.1988.21948
+   Schneider Klaus, 2004, TEXT THEORET COMP S, DOI 10.1007/978-3-662-10778-2
+   Sickert S, 2020, IEEE S LOG, P831, DOI 10.1145/3373718.3394743
+   THOMAS W, 1981, INFORM CONTROL, V48, P261, DOI 10.1016/S0019-9958(81)90663-X
+   Vardi M. Y., 1994, Theoretical Aspects of Computer Software. International Symposium TACS '94 Proceedings, P575
+   Vardi MY., 1996, LECT NOTES COMPUTER, P238, DOI [DOI 10.1007/3-540-60915-6_6, DOI 10.1007/3-540-60915-6]
+   Zuck Lenore D., 1986, Ph.D. Dissertation
+NR 49
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 16
+DI 10.1145/3651152
+PG 42
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800010
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Hu, X
+   Tao, YF
+AF Hu, Xiao
+   Tao, Yufei
+TI Parallel Acyclic Joins: Optimal Algorithms and Cyclicity Separation
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+ID COMPLEXITY
+AB We study equi-join computation in the massively parallel computation (MPC) model. Currently, a main open question under this topic is whether it is possible to design an algorithm that can process any join with load O( N polylog N/p(1/rho*)) - measured in the number of words communicated per machine - where N is the total number of tuples in the input relations, rho* is the join's fractional edge covering number, and p is the number of machines. We settle the question in the negative for the class of tuple-based algorithms (all the known MPC join algorithms fall in this class) by proving the existence of a join query with. rho* = 2 that requires a load of Omega(N/p(1/3)) to evaluate. Our lower bound provides solid evidence that the "AGM bound" alone is not sufficient for characterizing the hardness of join evaluation in MPC (a phenomenon that does not exist in RAM). The hard join instance identified in our argument is cyclic, which leaves the question of whether O( N polylog N/p(1/rho*)) is still possible for acyclic joins. We answer this question in the affirmative by showing that any acyclic join can be evaluated with load O( N/p(1/rho*)), which is asymptotically optimal (there are no polylogarithmic factors in our bound). The separation between cyclic and acyclic joins is yet another phenomenon that is absent in RAM. Our algorithm owes to the discovery of a new mathematical structure - we call "canonical edge cover" - of acyclic hypergraphs, which has numerous non-trivial properties and makes an elegant addition to database theory.
+C1 [Hu, Xiao] Univ Waterloo, 200 Univ AveW, Waterloo, ON N2L 3G1, Canada.
+   [Tao, Yufei] Chinese Univ Hong Kong, Shatin, Hong Kong, Peoples R China.
+C3 University of Waterloo; Chinese University of Hong Kong
+RP Hu, X (corresponding author), Univ Waterloo, 200 Univ AveW, Waterloo, ON N2L 3G1, Canada.
+FU HKRGC [14207820, 14203421, 14222822]
+FX This work was supported in part by GRF projects 14207820, 14203421, and
+   14222822 from HKRGC.
+CR Abiteboul S., 1995, Foundations of Databases, DOI DOI 10.5555/551350
+   Afrati FN, 2011, IEEE T KNOWL DATA EN, V23, P1282, DOI 10.1109/TKDE.2011.47
+   Afrati Foto N., 2017, P INT C DAT THEOR IC
+   AGGARWAL A, 1988, COMMUN ACM, V31, P1116, DOI 10.1145/48529.48535
+   Alway Kaleb, 2021, P INT C DAT THEOR IC
+   Atserias A, 2013, SIAM J COMPUT, V42, P1737, DOI 10.1137/110859440
+   Beame P, 2017, J ACM, V64, DOI 10.1145/3125644
+   Berkholz C, 2017, PODS'17: PROCEEDINGS OF THE 36TH ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P303, DOI 10.1145/3034786.3034789
+   Dean J, 2004, USENIX ASSOCIATION PROCEEDINGS OF THE SIXTH SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDE '04), P137
+   Gottlob G, 2001, J ACM, V48, P431, DOI 10.1145/382780.382783
+   Hu X, 2021, PODS '21: PROCEEDINGS OF THE 40TH SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P181, DOI 10.1145/3452021.3458319
+   Hu X, 2019, PROCEEDINGS OF THE 38TH ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS (PODS '19), P450, DOI 10.1145/3294052.3319698
+   Hu X, 2019, ACM T DATABASE SYST, V44, DOI 10.1145/3311967
+   Hu X, 2016, PODS'16: PROCEEDINGS OF THE 35TH ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P135, DOI 10.1145/2902251.2902292
+   Idris M, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1259, DOI 10.1145/3035918.3064027
+   Ketsman B, 2022, LOG METH COMPUT SCI, V18, DOI [10.46298/LMCS-18(2:6)2022, 10.46298/LMCS-18]
+   Ketsman B, 2017, PODS'17: PROCEEDINGS OF THE 36TH ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P417, DOI 10.1145/3034786.3034788
+   Khamis MA, 2016, ACM T DATABASE SYST, V41, DOI 10.1145/2967101
+   Koutris Paraschos., 2016, 19th International Conference on Database Theory, ICDT, V48, p8:1, DOI DOI 10.4230/LIPICS.ICDT.2016.8
+   Melnik S, 2010, PROC VLDB ENDOW, V3, P330
+   Navarro Gonzalo, 2020, P INT C DAT THEOR IC, V155, p21:1
+   Ngo H. Q., 2012, PODS, P37
+   Ngo HQ, 2018, J ACM, V65, DOI 10.1145/3180143
+   Ngo HQ, 2014, PODS'14: PROCEEDINGS OF THE 33RD ACM SIGMOD-SIGACT-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P234, DOI 10.1145/2594538.2594547
+   Ngo HQ, 2013, SIGMOD REC, V42, P5, DOI 10.1145/2590989.2590991
+   Pagh Anna., 2006, Proceedings of the twenty-fifth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems, P225
+   Qiao M, 2021, PODS '21: PROCEEDINGS OF THE 40TH SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P166, DOI 10.1145/3452021.3458321
+   Sheng C, 2012, ACM T DATABASE SYST, V37, DOI 10.1145/2188349.2188354
+   Tao Yufei, 2022, P INT C DAT THEOR IC
+   Tao Yufei, 2020, P INT C DAT THEOR IC
+   Tao Yufei, 2018, P INT C DAT THEOR IC, V98
+   Thusoo A, 2010, PROC INT CONF DATA, P996, DOI 10.1109/ICDE.2010.5447738
+   Veldhuizen T. L., 2014, ICDT, P96, DOI 10.5441/002/icdt.2014.13
+   Yannakakis M., 1981, Proceedings of the Seventh International Conference on Very Large Data Bases, P82
+   Zaharia Matei., 2012, NSDI 12
+NR 35
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD FEB
+PY 2024
+VL 71
+IS 1
+AR 6
+DI 10.1145/3633512
+PG 44
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK4O2
+UT WOS:001193503800006
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Dütting, P
+   Feng, Z
+   Narasimhan, H
+   Parkes, DC
+   Ravindranath, SS
+AF Dutting, Paul
+   Feng, Zhe
+   Narasimhan, Harikrishna
+   Parkes, David C.
+   Ravindranath, Sai Srivatsa
+TI Optimal Auctions through Deep Learning: Advances in Differentiable
+   Economics
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+ID MECHANISM DESIGN; REVENUE MAXIMIZATION; DUALITY
+AB Designing an incentive compatible auction that maximizes expected revenue is an intricate task. The singleitem case was resolved in a seminal piece of work by Myerson in 1981, but more than 40 years later, a full analytical understanding of the optimal design still remains elusive for settings with two or more items. In this work, we initiate the exploration of the use of tools from deep learning for the automated design of optimal auctions. We model an auction as a multi-layer neural network, frame optimal auction design as a constrained learning problem, and show how it can be solved using standard machine learning pipelines. In addition to providing generalization bounds, we present extensive experimental results, recovering essentially all known solutions that come from the theoretical analysis of optimal auction design problems and obtaining novel mechanisms for settings in which the optimal mechanism is unknown.
+C1 [Dutting, Paul] Google Res, Brandschenkestr 110, CH-8002 Zurich, Switzerland.
+   [Feng, Zhe; Narasimhan, Harikrishna] Google Res, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA.
+   [Parkes, David C.; Ravindranath, Sai Srivatsa] Harvard Univ, Sci & Engn Complex,150 Western Ave, Allston, MA 02134 USA.
+C3 Google Incorporated; Google Incorporated; Harvard University
+RP Dütting, P (corresponding author), Google Res, Brandschenkestr 110, CH-8002 Zurich, Switzerland.
+EM duetting@google.com; zhef@google.com; hnarasimham@google.com;
+   parkes@g.harvard.edu; saisr@g.harvard.edu
+FU NSF [CCF-1841550]; Google Fellowship
+FX This work was supported in part through NSF award CCF-1841550, as well
+   as a Google Fellowship for Z. Feng.
+CR Allen-Zhu Z, 2019, PR MACH LEARN RES, V97
+   [Anonymous], 2015, P 29 ANN C NEUR INF
+   [Anonymous], 2018, P 35 INT C MACHINE L
+   Anthony M., 2009, NEURAL NETWORK LEARN
+   Ausubel L., 2006, Combinatorial Auctions, P115
+   Ausubel L. M., 2006, COMBINATORIAL AUCTIO, V17, P22, DOI DOI 10.7551/MITPRESS/9780262033428.003.0002
+   Babaioff M, 2014, ANN IEEE SYMP FOUND, P21, DOI 10.1109/FOCS.2014.11
+   Balaguer Jan, 2022, P 2022 ICLR WORKSHOP
+   Balcan M. F., 2016, ADV NEURAL INFORM PR, P2083
+   Bichler M, 2023, INFORMS J COMPUT, V35, P523, DOI 10.1287/ijoc.2023.1281
+   Bichler M, 2021, NAT MACH INTELL, V3, P687, DOI 10.1038/s42256-021-00365-4
+   Birkhoff G., 1946, Univ. Nac. Tucumn. Revista A, V5, P147
+   Boutilier C., 2001, P 17 INT JOINT C ART, P1211
+   Brero Gianluca, 2021, P ICML WORKSHOP REIN
+   Brero Gianluca, P 35 AAAI C ARTIFICI, P5219
+   Brero Gianluca, 2022, Advances in Neural Information Processing Systems, V35, P37892
+   Brinkman E, 2017, EC'17: PROCEEDINGS OF THE 2017 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P205, DOI 10.1145/3033274.3085153
+   Budish E, 2013, AM ECON REV, V103, P585, DOI 10.1257/aer.103.2.585
+   Cai Y, 2017, ACM S THEORY COMPUT, P170, DOI 10.1145/3055399.3055465
+   Cai Y, 2012, STOC'12: PROCEEDINGS OF THE 2012 ACM SYMPOSIUM ON THEORY OF COMPUTING, P459
+   Cai Y, 2013, ANN IEEE SYMP FOUND, P618, DOI 10.1109/FOCS.2013.72
+   Cai Y, 2012, ANN IEEE SYMP FOUND, P130, DOI 10.1109/FOCS.2012.88
+   Cai Yang, 2021, P 2021 ACM SIAM S DI, P1337
+   Chawla S, 2010, ACM S THEORY COMPUT, P311
+   Choromanska A., 2015, C LEARN THEOR, P1756
+   Cole R, 2014, STOC'14: PROCEEDINGS OF THE 46TH ANNUAL 2014 ACM SYMPOSIUM ON THEORY OF COMPUTING, P243, DOI 10.1145/2591796.2591867
+   Conitzer V, 2022, LECT NOTES COMPUT SC, V13112, P76, DOI 10.1007/978-3-030-94676-0_5
+   Conitzer Vincent, 2002, P 18 ANN C UNC ART I, P103
+   Conitzer Vincent, 2004, P 5 ACM C EL COMM, P132
+   Curry M, 2023, PROCEEDINGS OF THE THIRTY-SECOND INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, IJCAI 2023, P2633
+   Curry MJ, 2022, PR MACH LEARN RES, V151, P6062
+   Curry Michael J., 2020, Advances in Neural Information Processing Systems, V33, P1
+   Daskalakis C., 2012, P 13 ACM C EL COMM E, P370, DOI DOI 10.1145/2229012.2229042
+   Daskalakis C., 2013, EC 2013 P 14 ACM C E, P269
+   Daskalakis C, 2017, ECONOMETRICA, V85, P735, DOI 10.3982/ECTA12618
+   Day R, 2008, INT J GAME THEORY, V36, P393, DOI 10.1007/s00182-007-0100-7
+   Du SS, 2019, 36 INT C MACHINE LEA, V97
+   Duan Z., 2023, P 2023 INT C AUT AG, P233
+   Duan ZJ, 2024, Arxiv, DOI arXiv:2305.12162
+   Duan Zhijian, 2022, ICML, V162, P5609
+   Dütting P, 2021, COMMUN ACM, V64, P109, DOI 10.1145/3470442
+   Dutting P., 2019, PMLR, P1706
+   Dutting P., 2014, ACM Transactions on Economics and Computation, V3, P5
+   Feng Z., 2022, Machine Learning for Matching Markets, P591
+   Feng Z, 2018, PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS (AAMAS' 18), P354
+   Fudenberg D, 2019, AM ECON REV, V109, P4112, DOI 10.1257/aer.20180654
+   Giannakopoulos Y, 2018, SIAM J COMPUT, V47, P121, DOI 10.1137/16M1072218
+   Glorot X., 2010, P 13 INT C ART INT S, P249
+   Goeree JK, 2016, THEOR ECON, V11, P41, DOI 10.3982/TE1198
+   Goktas D, 2023, Arxiv, DOI arXiv:2302.06607
+   Golowich N, 2018, PROCEEDINGS OF THE TWENTY-SEVENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P261
+   Gonczarowski YA, 2018, ANN IEEE SYMP FOUND, P416, DOI 10.1109/FOCS.2018.00047
+   Gonczarowski YA, 2017, ACM S THEORY COMPUT, P856, DOI 10.1145/3055399.3055427
+   Guesnerie R., 1995, A contribution to the pure theory of taxation
+   Guo MY, 2010, AAAI CONF ARTIF INTE, P1676
+   Haghpanah N, 2021, REV ECON STUD, V88, P1127, DOI 10.1093/restud/rdaa053
+   HAMMOND PJ, 1979, REV ECON STUD, V46, P263, DOI 10.2307/2297050
+   Hart S, 2017, J ECON THEORY, V172, P313, DOI 10.1016/j.jet.2017.09.001
+   Hartford J. S., 2016, Advances in Neural Information Processing Systems, P2424
+   Hartford J, 2017, PR MACH LEARN RES, V70
+   Heidekrüger S, 2021, Arxiv, DOI arXiv:2101.11946
+   Huang ZY, 2018, SIAM J COMPUT, V47, P651, DOI 10.1137/16M1065719
+   Ivanov Dmitry, 2022, P 36 C NEURAL INFORM, P1
+   Jehiel P, 2007, J ECON THEORY, V134, P494, DOI 10.1016/j.jet.2006.02.001
+   Jordan Patrick R., 2010, P 9 INT C AUT AG MUL, P1131
+   Kawaguchi K, 2016, ADV NEUR IN, V29
+   Kiekintveld Christopher, 2008, P 7 INT JOINT C AUT, P1095
+   Kingma D. P., 2014, arXiv
+   Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386
+   Kuo KV, 2020, Arxiv, DOI arXiv:2010.06398
+   Lahaie S., 2011, P 25 AAAI C ARTIFICI, P695
+   Lanctot M., 2017, P C ADV NEUR INF PRO, P4190, DOI DOI 10.1137/S0363012903437976.LI
+   Levin J, 2016, AM ECON REV, V106, P2528, DOI 10.1257/aer.20141212
+   Louizos C, 2017, ADV NEUR IN, V30
+   Manelli AM, 2006, J ECON THEORY, V127, P1, DOI 10.1016/j.jet.2005.08.007
+   Mohri M, 2016, J MACH LEARN RES, V17
+   Morgenstern J., 2016, C LEARN THEOR COLT P, P1298
+   MYERSON RB, 1981, MATH OPER RES, V6, P58, DOI 10.1287/moor.6.1.58
+   Narasimhan H., 2016, P 25 INT JOINT C ART, P433
+   Palacios-Huerta Ignacio, 2022, Journal of Economic Literature
+   PALFREY TR, 1983, ECONOMETRICA, V51, P463, DOI 10.2307/1912001
+   Pavlov G, 2011, BE J THEOR ECON, V11
+   Peri Neehar, 2021, P 35 C NEURAL INFORM
+   Peterson JC, 2021, SCIENCE, V372, P1209, DOI 10.1126/science.abe2629
+   Rahme J, 2021, AAAI CONF ARTIF INTE, V35, P5664
+   Rahme Jad, 2021, P 9 INT C LEARNING R
+   Ravindranath SS, 2023, Arxiv, DOI arXiv:2107.03427
+   ROCHET JC, 1987, J MATH ECON, V16, P191, DOI 10.1016/0304-4068(87)90007-3
+   Rubinstein A, 2018, ACM T ECON COMPUT, V6, DOI 10.1145/3105448
+   Rudin C, 2009, J MACH LEARN RES, V10, P2193
+   Sandholm T, 2015, OPER RES, V63, P1000, DOI 10.1287/opre.2015.1398
+   Shalev-Shwartz S., 2014, Understanding machine learning: from theory to algorithms, DOI [DOI 10.1017/CBO9781107298019, 10.1017/cbo9781107298019]
+   Shen WR, 2020, AAAI CONF ARTIF INTE, V34, P2236
+   Shen WR, 2019, AAMAS '19: PROCEEDINGS OF THE 18TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS, P215
+   Sill J, 1998, ADV NEUR IN, V10, P661
+   Stein Alex, 2023, arXiv
+   Syrgkanis V., 2017, P 20 C NEURAL INFORM, P5358
+   Tacchetti Andrea, 2022, P 2022 ICLR WORKSHOP
+   Thompson D, 2017, AAAI CONF ARTIF INTE, P720
+   Viqueira EA, 2020, PR MACH LEARN RES, V115, P1094
+   Vorobeychik Y, 2012, AUTON AGENT MULTI-AG, V25, P313, DOI 10.1007/s10458-011-9177-2
+   Vorobeychik Yevgeniy, 2006, 7 ACM C EL COMM, P306
+   Wang K, 2022, AAAI CONF ARTIF INTE, P5219
+   Wang Xintong, 2023, P ACM WEB C 2023 WWW, P3592, DOI [10.1145/3543507.3583523, DOI 10.1145/3543507.3583523]
+   Wellman M P, 2006, P 21 NAT C ART INT 1, P1552
+   Yao A. C.-C., 2015, P 26 ANN ACM SIAM S, P92
+   Yao ACC, 2017, EC'17: PROCEEDINGS OF THE 2017 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P3, DOI 10.1145/3033274.3085120
+   Zhang ZL, 2021, WSDM '21: PROCEEDINGS OF THE 14TH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P993, DOI 10.1145/3437963.3441771
+   Zheng S, 2022, SCI ADV, V8, DOI 10.1126/sciadv.abk2607
+NR 109
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD FEB
+PY 2024
+VL 71
+IS 1
+AR 5
+DI 10.1145/3630749
+PG 53
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK4O2
+UT WOS:001193503800005
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Georges, AL
+   Guéneau, A
+   Van Strydonck, T
+   Timany, A
+   Trieu, A
+   Devriese, D
+   Birkedal, L
+AF Georges, Aina Linn
+   Gueneau, Armael
+   Van Strydonck, Thomas
+   Timany, Amin
+   Trieu, Alix
+   Devriese, Dominique
+   Birkedal, Lars
+TI Cerise: Program Verification on a Capability Machine in the Presence of
+   Untrusted Code
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+AB A capability machine is a type of CPU allowing fine-grained privilege separation using capabilities, machine words that represent certain kinds of authority. We present a mathematical model and accompanying proof methods that can be used for formal verification of functional correctness of programs running on a capability machine, even when they invoke and are invoked by unknown (and possibly malicious) code. We use a program logic called Cerise for reasoning about known code, and an associated logical relation, for reasoning about unknown code. The logical relation formally captures the capability safety guarantees provided by the capability machine. The Cerise program logic, logical relation, and all the examples considered in the paper have been mechanized using the Iris program logic framework in the Coq proof assistant. The methodology we present underlies recent work of the authors on formal reasoning about capability machines [Georges et al. 2021; Skorstengaard et al. 2019a; Van Strydonck et al. 2022], but was left somewhat implicit in those publications. In this paper we present a pedagogical introduction to the methodology, in a simpler setting (no exotic capabilities), and starting from minimal examples. We work our way up to new results about a heap-based calling convention and implementations of sophisticated object-capability patterns of the kind previously studied for high-level languages with object-capabilities, demonstrating that the methodology scales to such reasoning.
+C1 [Georges, Aina Linn] Max Planck Inst Software Syst, Campus E1 5, D-66123 Saarbrucken, Germany.
+   [Gueneau, Armael] Univ Paris Saclay, CNRS, Lab Methodes Formelles, ENS Paris Saclay,Inria, Bat 650 Ada Lovelace,Rue Raimond Castaing, F-91190 Gif Sur Yvette, France.
+   [Van Strydonck, Thomas; Devriese, Dominique] Katholieke Univ Leuven, Imec Distrinet, Celestijnenlaan 200A Bus 2402, B-3001 Heverlee, Belgium.
+   [Timany, Amin; Birkedal, Lars] Aarhus Univ, Abogade 34, DK-8200 Aarhus N, Denmark.
+   [Trieu, Alix] ANSSI, 51 Blvd Tour Maubourg, F-75700 Paris 07, SP, France.
+C3 Max Planck Society; Universite Paris Saclay; Universite Paris Cite;
+   Centre National de la Recherche Scientifique (CNRS); Inria; KU Leuven;
+   Aarhus University
+RP Georges, AL (corresponding author), Max Planck Inst Software Syst, Campus E1 5, D-66123 Saarbrucken, Germany.
+EM algeorges@mpi-sws.org; armael.gueneau@inria.fr;
+   thomas.vanstrydonck@cs.kuleuven.be; timany@cs.au.dk;
+   alix.trieu@ssi.gouv.fr; dominique.devriese@kuleuven.be;
+   birkedal@cs.au.dk
+RI Timany, Amin/KXS-1704-2024; Devriese, Dominique/C-5493-2014
+OI Timany, Amin/0000-0002-2237-851X; Birkedal, Lars/0000-0003-1320-0098;
+   Devriese, Dominique/0000-0002-3862-6856
+FU Villum Investigator grant [25804]; Center for Basic Research in Program
+   Verification (CPV); VILLUM Foundation; Research Foundation -Flanders
+   (FWO); Danish Council for Independent Research for the Natural Sciences
+   (FNU) [6108-00363]; Air Force Office of Scientific Research
+   [FA9550-21-1-0054]; Research Fund KU Leuven; Flemish Research Programme
+   Cybersecurity
+FX This work was supported in part by a Villum Investigator grant (no.
+   25804), Center for Basic Research in Program Verification (CPV), from
+   the VILLUM Foundation; by the Research Foundation -Flanders (FWO); by
+   DFF project 6108-00363 from The Danish Council for Independent Research
+   for the Natural Sciences (FNU); by the Air Force Office of Scientific
+   Research under award number FA9550-21-1-0054, by the Research Fund KU
+   Leuven; and by the Flemish Research Programme Cybersecurity. Thomas Van
+   Strydonck held a Research Fellowship of the Research Foundation
+   -Flanders (FWO) during the work on this project. Amin Timany was
+   postdoctoral fellow of the Flemish Research Foundation (FWO) during
+   parts of this project.
+CR Abramsky S, 1998, THIRTEENTH ANNUAL IEEE SYMPOSIUM ON LOGIC IN COMPUTER SCIENCE, PROCEEDINGS, P334, DOI 10.1109/LICS.1998.705669
+   Amar Saar, 2023, Technical Report MSR-TR-2023-6
+   [Anonymous], 1992, Compiling with Continuations
+   Armstrong A, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3290384
+   Bauereiss T, 2022, LECT NOTES COMPUT SC, V13240, P174, DOI 10.1007/978-3-030-99336-8_7
+   Birkedal Lars, 2022, Lecture Notes on Iris: Higher -Order Concurrent Separation Logic
+   Bourgeat T, 2021, Arxiv, DOI arXiv:2104.00762
+   CARTER NP, 1994, SIGPLAN NOTICES, V29, P319, DOI 10.1145/195470.195579
+   Chisnall D, 2017, TWENTY-SECOND INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXII), P569, DOI 10.1145/3037697.3037725
+   DENNIS JB, 1966, COMMUN ACM, V9, P143, DOI 10.1145/365230.365252
+   Devriese D, 2016, 1ST IEEE EUROPEAN SYMPOSIUM ON SECURITY AND PRIVACY, P147, DOI 10.1109/EuroSP.2016.22
+   Dreyer D, 2012, J FUNCT PROGRAM, V22, P477, DOI 10.1017/S095679681200024X
+   El-Korashy A, 2021, P IEEE COMPUT SECUR, P265, DOI 10.1109/CSF51468.2021.00036
+   Filardo NW, 2020, P IEEE S SECUR PRIV, P608, DOI 10.1109/SP40000.2020.00098
+   Georges AL, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3527318
+   Georges AL, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3434287
+   Huyghebaert Sander, 2023, ACM C COMP COMM SEC
+   Jung R, 2018, J FUNCT PROGRAM, V28, DOI 10.1017/S0956796818000151
+   Jung R, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3158154
+   Keuchel S, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3547628
+   Krebbers R, 2017, ACM SIGPLAN NOTICES, V52, P205, DOI 10.1145/3093333.3009855
+   Levy HM., 1984, Capability-based computer systems
+   Liu Zongyuan, 2023, P ACM PROG LANG PLDI
+   Maene P, 2018, IEEE T COMPUT, V67, P361, DOI 10.1109/TC.2017.2647955
+   Mulder I, 2023, P ACM PROGRAM LANG, V7, DOI 10.1145/3586043
+   Mulder I, 2022, PROCEEDINGS OF THE 43RD ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '22), P809, DOI 10.1145/3519939.3523432
+   Nienhuis K, 2020, P IEEE S SECUR PRIV, P1003, DOI 10.1109/SP40000.2020.00055
+   Richardson Alexander, 2020, Complete Spatial Safety for C and C++ Using CHERI Capabilities
+   Sammler M, 2022, PROCEEDINGS OF THE 43RD ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '22), P825, DOI 10.1145/3519939.3523434
+   Sammler M, 2021, PROCEEDINGS OF THE 42ND ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '21), P158, DOI 10.1145/3453483.3454036
+   Sammler M, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3371100
+   Skorstengaard Lau, 2018, Programming Languages and Systems. 27th European Symposium on Programming, ESOP 2018, held as part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018. Proceedings: LNCS 10801, P475, DOI 10.1007/978-3-319-89884-1_17
+   Skorstengaard L, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3290332
+   Skorstengaard L, 2020, ACM T PROGR LANG SYS, V42, DOI 10.1145/3363519
+   Sumii E, 2004, ACM SIGPLAN NOTICES, V39, P161, DOI 10.1145/982962.964015
+   Swasey D, 2017, P ACM PROGRAM LANG, V1, DOI 10.1145/3133913
+   Van Strydonck T, 2022, P IEEE COMPUT SECUR, P80, DOI 10.1109/CSF54842.2022.9919645
+   Van Strydonck T, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3341688
+   Van Strydonck Thomas, 2023, 8 IEEE EUR S SEC PRI
+   Vindum SF, 2021, CPP '21: PROCEEDINGS OF THE 10TH ACM SIGPLAN INTERNATIONAL CONFERENCE ON CERTIFIED PROGRAMS AND PROOFS, P76, DOI 10.1145/3437992.3439930
+   Watson RNM, 2016, IEEE MICRO, V36, P38, DOI 10.1109/MM.2016.84
+   Watson Robert N. M., 2020, Technical Report UCAM-CL-TR-951,, DOI [10.48456/tr-951, DOI 10.48456/TR-951]
+   Woodruff J, 2019, IEEE T COMPUT, V68, P1455, DOI 10.1109/TC.2019.2914037
+   Xia HY, 2019, MICRO'52: THE 52ND ANNUAL IEEE/ACM INTERNATIONAL SYMPOSIUM ON MICROARCHITECTURE, P545, DOI 10.1145/3352460.3358288
+   Yu Jason Zhijingcheng, 2023, 32 USENIX SEC S USEN
+NR 45
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD FEB
+PY 2024
+VL 71
+IS 1
+AR 3
+DI 10.1145/3623510
+PG 59
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK4O2
+UT WOS:001193503800003
+OA Green Published
+DA 2024-08-05
+ER
+
+PT J
+AU Vale, AO
+   Shao, Z
+   Chen, YX
+AF Vale, Arthur Oliveira
+   Shao, Zhong
+   Chen, Yixuan
+TI A Compositional Theory of Linearizability
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Linearizability; game semantics; concurrency; program logic
+ID LOGIC; ABSTRACTION; SEMANTICS
+AB Compositionality is at the core of programming languages research and has become an important goal toward scalable verification of large systems. Despite that, there is no compositional account of linearizability, the gold standard of correctness for concurrent objects.
+   In this article, we develop a compositional semantics for linearizable concurrent objects. We start by showcasing a common issue, which is independent of linearizability, in the construction of compositional models of concurrent computation: interaction with the neutral element for composition can lead to emergent behaviors, a hindrance to compositionality. Category theory provides a solution for the issue in the form of the Karoubi envelope. Surprisingly, and this is themain discovery of ourwork, this abstract construction is deeply related to linearizability and leads to a novel formulation of it. Notably, this new formulation neither relies on atomicity nor directly upon happens-before ordering and is only possible because of compositionality, revealing that linearizability and compositionality are intrinsically related to each other.
+   We use this new, and compositional, understanding of linearizability to revisit much of the theory of linearizability, providing novel, simple, algebraic proofs of the locality property and of an analogue of the equivalence with observational refinement. We show our techniques can be used in practice by connecting our semantics with a simple program logic that is nonetheless sound concerning this generalized linearizability.
+C1 [Vale, Arthur Oliveira; Shao, Zhong; Chen, Yixuan] Yale Univ, New Haven, CT USA.
+   [Vale, Arthur Oliveira; Shao, Zhong; Chen, Yixuan] Yale Univ, Dept Comp Sci, POB 208285, New Haven, CT 06520 USA.
+C3 Yale University; Yale University
+RP Vale, AO (corresponding author), Yale Univ, Dept Comp Sci, POB 208285, New Haven, CT 06520 USA.
+EM arthur.oliveiravale@yale.edu; zhong.shao@yale.edu; yixuan.chen@yale.edu
+OI Shao, Zhong/0000-0001-8184-7649
+FU NSF [2019285, 1763399, 2313433, 2118851]; Defense Advanced Research
+   Projects Agency (DARPA); Naval Information Warfare Center Pacific (NIWC
+   Pacific) [N66001-21-C-4018]
+FX This material is based upon work supported in part by NSF grants
+   2019285, 1763399, 2313433, and 2118851, and by the Defense Advanced
+   Research Projects Agency (DARPA) and Naval Information Warfare Center
+   Pacific (NIWC Pacific) under Contract No. N66001-21-C-4018. Any
+   opinions, findings, and conclusions or recommendations expressed in this
+   material are those of the authors and do not necessarily reflect the
+   views of the funding agencies.
+CR Abramsky S., 1999, Proceedings. 14th Symposium on Logic in Computer Science (Cat. No. PR00158), P431, DOI 10.1109/LICS.1999.782638
+   Abramsky S, 2000, INFORM COMPUT, V163, P409, DOI 10.1006/inco2000.2930
+   Abramsky Samson, 1999, P COMP LOG, P1, DOI [10.1007/978-3-642-58622-4_1, DOI 10.1007/978-3-642-58622-4_1]
+   Aguilera Marcos K., 2003, Technical Report Technical Report HPL- 2003-241
+   Birkedal Lars, 2021, Proceedings of the ACM on Programming Languages, V5, DOI 10.1145/3473586
+   BLASS A, 1992, ANN PURE APPL LOGIC, V56, P183, DOI 10.1016/0168-0072(92)90073-9
+   Castañeda A, 2015, LECT NOTES COMPUT SC, V9363, P420, DOI 10.1007/978-3-662-48653-5_28
+   Castellan S, 2017, LOG METH COMPUT SCI, V13, DOI 10.23638/LMCS-13(3:35)2017
+   Cerone A, 2014, LECT NOTES COMPUT SC, V8573, P98
+   Dinsdale-Young T, 2010, LECT NOTES COMPUT SC, V6183, P504, DOI 10.1007/978-3-642-14107-2_24
+   Feng XY, 2007, LECT NOTES COMPUT SC, V4421, P173
+   Filipovic I, 2010, THEOR COMPUT SCI, V411, P4379, DOI 10.1016/j.tcs.2010.09.021
+   Fu M, 2010, LECT NOTES COMPUT SC, V6269, P388, DOI 10.1007/978-3-642-15375-4_27
+   Gaucher Philippe, 2020, Cahiers de Topologie et Geometrie Differentielle Categoriques LXI, V2, P208
+   Ghica Dan R., 2013, Computation, Logic, Games, and Quantum Foundations. The Many Facets of Samson Abramsky. Essays Dedicated to Samson Abramsky on the Occasion of His 60th Birthday: LNCS 7860, P52, DOI 10.1007/978-3-642-38164-5_5
+   Ghica Dan R., 2023, Samson Abramsky on Logic and Structure in Computer Science and Beyond, P219, DOI [10.1007/978-3-031-24117-8_6, DOI 10.1007/978-3-031-24117-8_6]
+   Ghica DR, 2004, LECT NOTES COMPUT SC, V2987, P211
+   Goubault Eric, Leibniz International Proceedings in Informatics (LIPIcs),, V125, DOI [10.4230/LIPIcs. OPODIS.2018.28, DOI 10.4230/LIPICS.OPODIS.2018.28]
+   Gu RH, 2018, ACM SIGPLAN NOTICES, V53, P646, DOI 10.1145/3192366.3192381
+   Gu RH, 2015, ACM SIGPLAN NOTICES, V50, P595, DOI [10.1145/2676726.2676975, 10.1145/2775051.2676975]
+   Gu RH, 2016, PROCEEDINGS OF OSDI'16: 12TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P653
+   Guerraoui Rachid, 2014, Networked Systems. Second International Conference, NETYS 2014. Revised Selected Papers. LNCS: 8593, P57, DOI 10.1007/978-3-319-09581-3_5
+   HAYASHI S, 1985, THEOR COMPUT SCI, V41, P95, DOI 10.1016/0304-3975(85)90062-3
+   Hemed N, 2015, LECT NOTES COMPUT SC, V9363, P371, DOI 10.1007/978-3-662-48653-5_25
+   HERLIHY MP, 1990, ACM T PROGR LANG SYS, V12, P463, DOI 10.1145/78969.78972
+   Hoofman R., 1995, Mathematical Structures in Computer Science, V5, P1, DOI 10.1017/S096012950000061X
+   Hyland JME, 2000, INFORM COMPUT, V163, P285, DOI [10.1006/inco.2000.2917, 10.1006/inco2000.2917]
+   Hyland Martin, 1997, P SEM LOG COMP, P131, DOI DOI 10.1017/CBO9780511526619.005
+   Hyland M, 2006, ELECTRON NOTES THEOR, V161, P43, DOI 10.1016/j.entcs.2006.04.024
+   Jung R, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3371113
+   Jung R, 2018, J FUNCT PROGRAM, V28, DOI 10.1017/S0956796818000151
+   Jung R, 2015, ACM SIGPLAN NOTICES, V50, P637, DOI [10.1145/2775051.2676980, 10.1145/2676726.2676980]
+   Khyzha A, 2017, LECT NOTES COMPUT SC, V10201, P639, DOI 10.1007/978-3-662-54434-1_24
+   Khyzha A, 2016, LECT NOTES COMPUT SC, V9995, P426, DOI 10.1007/978-3-319-48989-6_26
+   Koenig J, 2020, IEEE S LOG, P633, DOI 10.1145/3373718.3394799
+   Laird James, 2001, Electronic Notes in Theoretical Computer Science, V45, P232, DOI [10.1016/S1571-0661(04)80965-4, DOI 10.1016/S1571-0661(04)80965-4]
+   Leroy X, 2009, COMMUN ACM, V52, P107, DOI 10.1145/1538788.1538814
+   Lesani M, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3527324
+   Liang HJ, 2016, ACM SIGPLAN NOTICES, V51, P385, DOI 10.1145/2914770.2837635
+   Liang HJ, 2014, ACM T PROGR LANG SYS, V36, DOI 10.1145/2576235
+   Melliès PA, 2007, LECT NOTES COMPUT SC, V4703, P395
+   Melliès PA, 2020, IEEE S LOG, P742, DOI 10.1145/3373718.3394762
+   Moens M-A., 2002, Cahiers de Topologie et Gomtrie Diffrentielle Catgoriques, V43, P163
+   Murawski AS, 2019, J LOG ALGEBR METHODS, V104, P86, DOI 10.1016/j.jlamp.2019.01.002
+   Nanevski A, 2014, LECT NOTES COMPUT SC, V8410, P290
+   Neiger G., 1994, Proceedings of the Thirteenth Annual ACM Symposium on Principles of Distributed Computing, DOI 10.1145/197917.198176
+   Piedeleu Robin, 2019, Ph.D. Dissertation.
+   Pinto PD, 2014, LECT NOTES COMPUT SC, V8586, P207
+   Reddy U. S., 1996, LISP and Symbolic Computation, V9, P7, DOI 10.1007/BF01806032
+   Reddy Uday S., 1993, Technical Report
+   Rideau S, 2011, IEEE S LOG, P409, DOI 10.1109/LICS.2011.13
+   Schellhorn G, 2014, ACM T COMPUT LOG, V15, DOI 10.1145/2629496
+   Svendsen K, 2014, LECT NOTES COMPUT SC, V8410, P149
+   Turon A, 2013, ACM SIGPLAN NOTICES, V48, P377, DOI [10.1145/2500365.2500600, 10.1145/2544174.2500600]
+   Vafeiadis V., 2006, Proceedings of the 2006 ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming PPoPP'06, P129, DOI 10.1145/1122971.1122992
+   Vafeiadis V, 2007, LECT NOTES COMPUT SC, V4703, P256
+   Vale AO, 2023, P ACM PROGRAM LANG, V7, DOI 10.1145/3571231
+   Vale AO, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3498703
+   Veith Helmut, 2016, International Proceedings in Informatics (LIPIcs),, V59, DOI [10.4230/LIPIcs.CONCUR.2016.6, DOI 10.4230/LIPICS.CONCUR.2016.6]
+NR 59
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 14
+DI 10.1145/3643668
+PG 107
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800007
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Chaudhury, BR
+   Garg, J
+   Mehlhorn, K
+AF Chaudhury, Bhaskar Ray
+   Garg, Jugal
+   Mehlhorn, Kurt
+TI EFX Exists for Three Agents
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+ID APPROXIMATE COMPETITIVE-EQUILIBRIUM; NASH SOCIAL-WELFARE; FAIR DIVISION;
+   SCALE
+AB We study the problem of distributing a set of indivisible goods among agents with additive valuations in a fair manner. The fairness notion under consideration is envy-freeness up to any good (EFX). Despite significant efforts by many researchers for several years, the existence of EFX allocations has not been settled beyond the simple case of two agents. In this article, we show constructively that an EFX allocation always exists for three agents. Furthermore, we falsify the conjecture of Caragiannis et al. by showing an instance with three agents for which there is a partial EFX allocation (some goods are not allocated) with higher Nash welfare than that of any complete EFX allocation.
+C1 [Chaudhury, Bhaskar Ray] Univ Illinois, 210 B,Transportat Bldg,104 S Mathews Ave, Urbana, IL 61801 USA.
+   [Garg, Jugal] Univ Illinois, 216 B,Transportat Bldg,104 S Mathews Ave, Urbana, IL 61801 USA.
+   [Mehlhorn, Kurt] Max Planck Inst Informat, Saarland Informat Campus,Bldg E1 4, D-66123 Saarbrucken, Germany.
+C3 University of Illinois System; University of Illinois Urbana-Champaign;
+   University of Illinois System; University of Illinois Urbana-Champaign;
+   Max Planck Society
+RP Chaudhury, BR (corresponding author), Univ Illinois, 210 B,Transportat Bldg,104 S Mathews Ave, Urbana, IL 61801 USA.
+EM braycha@illinois.edu; jugal@illinois.edu; mehlhorn@mpi-inf.mpg.de
+FU NSF [CCF-1942321]
+FX J. Garg was supported by NSF grant CCF-1942321.
+CR Amanatidis G, 2017, ACM T ALGORITHMS, V13, DOI 10.1145/3147173
+   Anari N, 2018, SODA'18: PROCEEDINGS OF THE TWENTY-NINTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P2274
+   Anari Nima., 2017, Proceedings of the 8th Innovations in Theoretical Computer Science Conference (ITCS), p36:1
+   Baklanov A, 2021, AAAI CONF ARTIF INTE, V35, P5143
+   Barman S, 2018, ACM EC'18: PROCEEDINGS OF THE 2018 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P557, DOI 10.1145/3219166.3219176
+   Barman S, 2017, EC'17: PROCEEDINGS OF THE 2017 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P647, DOI 10.1145/3033274.3085136
+   Bouveret S, 2016, AUTON AGENT MULTI-AG, V30, P259, DOI 10.1007/s10458-015-9287-3
+   Budish E, 2017, OPER RES, V65, P314, DOI 10.1287/opre.2016.1544
+   Budish E, 2011, J POLIT ECON, V119, P1061, DOI 10.1086/664613
+   Caragiannis I, 2019, ACM EC '19: PROCEEDINGS OF THE 2019 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P527, DOI 10.1145/3328526.3329574
+   Caragiannis I, 2016, EC'16: PROCEEDINGS OF THE 2016 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P305, DOI 10.1145/2940716.2940726
+   Chaudhury Bhaskar Ray, 2020, EC '20: Proceedings of the 21st ACM Conference on Economics and Computation, DOI 10.1145/3391403.3399511
+   Chaudhury BR, 2020, PROCEEDINGS OF THE THIRTY-FIRST ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS (SODA'20), P2658
+   Chaudhury Bhaskar Ray, 2018, P 38 IARCS ANN C FD
+   Cole R, 2018, SIAM J COMPUT, V47, P1211, DOI 10.1137/15M1053682
+   Cole R, 2017, EC'17: PROCEEDINGS OF THE 2017 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P459, DOI 10.1145/3033274.3085109
+   Garg Jugal, 2020, EC '20: Proceedings of the 21st ACM Conference on Economics and Computation, P379, DOI 10.1145/3391403.3399526
+   Garg J, 2018, SODA'18: PROCEEDINGS OF THE TWENTY-NINTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P2326
+   Garg J, 2020, PROCEEDINGS OF THE THIRTY-FIRST ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS (SODA'20), P2673
+   Garg Jugal, 2019, P 2 S SIMPLICITY ALG, V69
+   Ghodsi M, 2018, ACM EC'18: PROCEEDINGS OF THE 2018 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P539, DOI 10.1145/3219166.3219238
+   Goldman J, 2014, ACM SIGECOM EXCH, V13, P41
+   Halpern Daniel, 2020, Lecture Notes in Computer Science, P370
+   Kurokawa D, 2018, ACM T ECON COMPUT, V6, DOI 10.1145/3274641
+   Kurokawa D, 2018, J ACM, V65, DOI 10.1145/3140756
+   Lee E, 2017, INFORM PROCESS LETT, V122, P17, DOI 10.1016/j.ipl.2017.01.012
+   Lipton Richard J., 2004, P 5 ACM C EL COMM EC, P125
+   Moulin H, 2019, ANNU REV ECON, V11, P407, DOI 10.1146/annurev-economics-080218-025559
+   Plaut B, 2018, SODA'18: PROCEEDINGS OF THE TWENTY-NINTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P2584
+   Procaccia AD, 2020, COMMUN ACM, V63, P118, DOI 10.1145/3382131
+   spliddit, About us
+   Steinhaus H, 1948, ECONOMETRICA, V16, P101, DOI DOI 10.1016/j.mathsocsci.2017.09.004
+NR 32
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD FEB
+PY 2024
+VL 71
+IS 1
+AR 4
+DI 10.1145/3616009
+PG 27
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK4O2
+UT WOS:001193503800004
+DA 2024-08-05
+ER
+
+PT J
+AU Stein, D
+   Staton, S
+AF Stein, Dario
+   Staton, Sam
+TI Probabilistic Programming with Exact Conditions
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+ID COMPUTATION; CATEGORIES
+AB We spell out the paradigm of exact conditioning as an intuitive and powerful way of conditioning on observations in probabilistic programs. This is contrasted with likelihood-based scoring known from languages such as Stan. We study exact conditioning in the cases of discrete and Gaussian probability, presenting prototypical languages for each case and giving semantics to them. We make use of categorical probability (namely Markov and CD categories) to give a general account of exact conditioning, which avoids limits and measure theory, instead focusing on restructuring dataflow and program equations. The correspondence between such categories and a class of programming languages is made precise by defining the internal language of a CD category.
+C1 [Stein, Dario] Radboud Univ Nijmegen, Erasmuspl 1, Nijmegen, Netherlands.
+   [Staton, Sam] Univ Oxford, Pk Rd, Oxford OX1 3QD, England.
+C3 Radboud University Nijmegen; University of Oxford
+RP Stein, D (corresponding author), Radboud Univ Nijmegen, Erasmuspl 1, Nijmegen, Netherlands.
+EM dario.stein@ru.nl; sam.staton@cs.ox.ac.uk
+FU Royal Society University Research Fellowship; AFOSR [FA9550-21-1-003];
+   ERC Project BLAST
+FX This material is partly based on work supported by a Royal Society
+   University Research Fellowship, ERC Project BLAST, and AFOSR Award No.
+   FA9550-21-1-003.
+CR Baez JC, 2015, THEOR APPL CATEG, V30, P836
+   Bogachev VI, 2020, J MATH ANAL APPL, V486, DOI 10.1016/j.jmaa.2020.123883
+   Bonchi F, 2019, IEEE S LOG, DOI 10.1109/lics.2019.8785877
+   Bonchi F, 2017, INFORM COMPUT, V252, P2, DOI 10.1016/j.ic.2016.03.002
+   Carpenter B, 2017, J STAT SOFTW, V76, P1, DOI 10.18637/jss.v076.i01
+   Cho K, 2019, MATH STRUCT COMP SCI, V29, P938, DOI 10.1017/S0960129518000488
+   Clarke B, 2024, Arxiv, DOI arXiv:2001.07488
+   De Raedt L, 2015, MACH LEARN, V100, P5, DOI 10.1007/s10994-015-5494-z
+   Eaton ML., 2007, LECT NOTES MONOGRAPH, V53, P512, DOI [10.1214/lnms/1196285102, DOI 10.1214/LNMS/1196285102, 10.]
+   Fong B., 2012, Master's thesis
+   Fric R, 2010, STUD LOGICA, V94, P215, DOI 10.1007/s11225-010-9232-z
+   Fritz T., 2020, Representable Markov Categories and Comparison of Statistical Experiments in Categorical Probability, P107
+   Fritz T, 2020, ADV MATH, V370, DOI 10.1016/j.aim.2020.107239
+   Fritz Tobias, 2020, Compositionality, V2, P3, DOI [DOI 10.32408/COMPOSITIONALITY-2-3, 10.32408/compositionality-2-3]
+   Führmann C, 2002, LECT NOTES COMPUT SC, V2303, P144
+   Gehr T, 2016, LECT NOTES COMPUT SC, V9779, P62, DOI 10.1007/978-3-319-41528-4_4
+   Golubtsov Peter V., 2002, Information Theory and Information Processing, V2, P62
+   Goodman N.D., 2016, Probabilistic Models of Cognition
+   Goodman Noah D, 2014, DESIGN IMPLEMENTATIO
+   Hermida C, 2012, THEOR COMPUT SCI, V430, P3, DOI 10.1016/j.tcs.2012.01.001
+   Heunen C, 2021, ELECTRON P THEOR COM, P102, DOI 10.4204/EPTCS.343.5
+   Huot M, 2019, ELECTRON P THEOR COM, P213, DOI 10.4204/EPTCS.287.12
+   Infernet, Infer.NET Tutorial 3: Learning a Gaussian
+   Jacobs B, 2020, MATH STRUCT COMP SCI, V30, P44, DOI 10.1017/S0960129519000082
+   Jacobs J, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3434339
+   Jaynes E. T., 2003, Probability theory: The logic of science, DOI 10.1017/CBO9780511790423
+   JOYAL A, 1991, ADV MATH, V88, P55, DOI 10.1016/0001-8708(91)90003-P
+   Kallenberg O., 1997, Foundations of Modern Probability
+   Kammar O, 2012, POPL 12: PROCEEDINGS OF THE 39TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P349
+   Lauritzen SL, 2001, STAT COMPUT, V11, P191, DOI 10.1023/A:1008935617754
+   Levy PB, 2003, INFORM COMPUT, V185, P182, DOI 10.1016/S0890-5401(03)00088-9
+   MacLane S., 1971, Categories for the Working Mathematician. Graduate Texts in Mathematics
+   Minka T., 2018, INFERNET 03
+   MOGGI E, 1991, INFORM COMPUT, V93, P55, DOI 10.1016/0890-5401(91)90052-4
+   MOGGI E, 1989, FOURTH ANNUAL SYMPOSIUM ON LOGIC IN COMPUTER SCIENCE, P14
+   Murray LM, 2018, PR MACH LEARN RES, V84
+   Narayanan Praveen, 2019, WORKSH PROGR TRANSF
+   Power J., 1997, Mathematical Structures in Computer Science, V7, P453, DOI 10.1017/S0960129597002375
+   Power J, 2006, THEOR COMPUT SCI, V364, P254, DOI 10.1016/j.tcs.2006.08.006
+   Proschan MA, 1998, AM STAT, V52, P248, DOI 10.2307/2685937
+   Selinger P, 2011, LECT NOTES PHYS, V813, P289, DOI 10.1007/978-3-642-12821-9_4
+   Shan CC, 2017, ACM SIGPLAN NOTICES, V52, P130, DOI 10.1145/3093333.3009852
+   Smithe TSC, 2020, Arxiv, DOI arXiv:2006.01631
+   Staton S, 2017, LECT NOTES COMPUT SC, V10201, P855, DOI 10.1007/978-3-662-54434-1_32
+   Staton S, 2013, LECT NOTES COMPUT SC, V7794, P401, DOI 10.1007/978-3-642-37075-5_26
+   Staton Sam, 2018, P 45 INT C AUT LANG
+   Stein Dario, 2021, Compositional Semantics for Probabilistic Programs with Exact Conditioning
+   Stein Dario, 2021, Structural Foundations for Probabilistic Programming Languages
+   Stein Dario, 2021, GaussianInfer
+   van de Meent Jan-Willem, 2018, arXiv, DOI DOI 10.48550/ARXIV.1809.10756
+   Walia R, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3341702
+   Zhang Z., 2005, The Schur Complement and Its Applications, DOI [10.1007/b105056, DOI 10.1007/B105056]
+NR 52
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD FEB
+PY 2024
+VL 71
+IS 1
+AR 2
+DI 10.1145/3632170
+PG 53
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK4O2
+UT WOS:001193503800002
+OA hybrid, Green Submitted, Green Published
+DA 2024-08-05
+ER
+
+PT J
+AU Kong, YQ
+AF Kong, Yuqing
+TI Dominantly Truthful Peer Prediction Mechanisms with a Finite Number of
+   Tasks
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Peer prediction; information elicitation; mutual information;
+   information theory
+ID SCORING RULES
+AB In the setting where participants are asked multiple similar possibly subjective multi-choice questions (e.g., Do you like Panda Express? Y/N; Do you like Chick-fil-A? Y/N), a series of peer prediction mechanisms have been designed to incentivize honest reports and some of them achieve dominantly truthfulness: Truth-telling is a dominant strategy and strictly dominates other "non-permutation strategy" with some mild conditions. However, those mechanisms require the participants to perform an infinite number of tasks. When the participants perform a finite number of tasks, these mechanisms only achieve approximated dominant truthfulness. The existence of a dominantly truthful multi-task peer prediction mechanism that only requires a finite number of tasks remains to be an open question that may have a negative result, even with full prior knowledge.
+   This article answers this open question by proposing a family of mechanisms, VMI-Mechanisms, that are dominantly truthful with a finite number of tasks. A special case of this family, DMI-Mechanism, only requires >= 2C tasks where C is the number of choices for each question (C = 2 for binary-choice questions). The implementation of these mechanisms does not require any prior knowledge (detail-free) and only requires >= 2 participants. To the best of our knowledge, any mechanism of the family is the first dominantly truthful peer prediction mechanism that works for a finite number of tasks.
+   The core of these new mechanisms is a new family of information-monotone information measures: volume mutual information (VMI). VMI is based on a simple geometric information measure design method, the volume method. The volume method measures the informativeness of an object by "counting" the number of objects that are less informative than it. In other words, the more objects that the object of interest dominates, the more informative it is considered to be.
+   Finally, in the setting where agents need to invest efforts to obtain their private signals, we show how to select the mechanism to optimally incentivize efforts among a proper set of VMI-Mechanisms.
+C1 [Kong, Yuqing] Peking Univ, CFCS, Sch CS, 5 Yiheyuan Rd, Beijing 100871, Peoples R China.
+C3 Peking University
+RP Kong, YQ (corresponding author), Peking Univ, CFCS, Sch CS, 5 Yiheyuan Rd, Beijing 100871, Peoples R China.
+EM yuqing.kong@pku.edu.cn
+FU National Natural Science Foundation of China [62372007]
+FX This work is supported by National Natural Science Foundation of China
+   award number 62372007.
+CR Abeler J, 2019, ECONOMETRICA, V87, P1115, DOI 10.3982/ECTA14673
+   Agarwal A, 2020, ACM T ECON COMPUT, V8, DOI 10.1145/3381519
+   ALI SM, 1966, J ROY STAT SOC B, V28, P131
+   Bregman L.M., 1967, USSR Computational Mathematics and Mathematical Physics, V7, P200, DOI [10.1016/0041-5553(67)90040-7, DOI 10.1016/0041-5553(67)90040-7]
+   Burrell Noah., P 24 ACM C EC COMPUT, DOI DOI 10.1145/3580507.3597744
+   Cai Y., 2015, P 28 C LEARN THEOR, P280
+   Coniglio S, 2020, ALGORITHMICA, V82, P1189, DOI 10.1007/s00453-019-00648-8
+   Conitzer T., 2006, P 7 ACM C ELECT COMM, P82, DOI DOI 10.1145/1134707.1134717
+   Csiszar I., 2004, Foundations and Trends in Communications and Information Theory, V1, P1, DOI 10.1561/0100000004
+   Dasgupta A., 2013, P 22 INT C WORLD WID, P319
+   Faltings B, 2023, PROCEEDINGS OF THE THIRTY-SECOND INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, IJCAI 2023, P6601
+   Faltings Boi, 2014, HCOMP 2014, P59, DOI DOI 10.1609/HCOMP.V2I1.13145
+   Frongillo R, 2017, ACM T ECON COMPUT, V5, DOI 10.1145/3070903
+   Gao A, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P5140
+   Gao X. A., 2014, P 15 ACM C EC COMPUT, P507, DOI DOI 10.1145/2600057.2602865
+   Gneiting T, 2007, J AM STAT ASSOC, V102, P359, DOI 10.1198/016214506000001437
+   Goel N, 2019, 33 AAAI C ARTIFICIAL
+   Hartline Jason D., 2023, P 36 C LEARN THEOR G, V195, P2624
+   Henderson H. V., 1981, Linear Multilinear Algebra, V9, P271, DOI DOI 10.1080/03081088108817379
+   Jurca R, 2007, EC'07: PROCEEDINGS OF THE EIGHTH ANNUAL CONFERENCE ON ELECTRONIC COMMERCE, P200
+   Jurca R, 2009, J ARTIF INTELL RES, V34
+   Kamble V, 2023, MANAGE SCI, V69, P377, DOI 10.1287/mnsc.2022.4375
+   Kong Y., 2016, PROC INT C WEB INTER, P251, DOI DOI 10.1007/978-3-662-54110-4_18
+   Kong Y., 2018, ITCS, V94, P1, DOI DOI 10.4230/LIPICS.ITCS.2018.13
+   Kong YQ, 2020, AAAI CONF ARTIF INTE, V34, P2095
+   Kong YQ, 2020, PROCEEDINGS OF THE THIRTY-FIRST ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS (SODA'20), P2398
+   Kong YQ, 2018, ACM EC'18: PROCEEDINGS OF THE 2018 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P177, DOI 10.1145/3219166.3219194
+   Kong YQ, 2018, ACM EC'18: PROCEEDINGS OF THE 2018 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P195, DOI 10.1145/3219166.3219172
+   Kong YQ, 2019, ACM T ECON COMPUT, V7, DOI 10.1145/3296670
+   Kong Yuqing, 2022, LEIBNIZ INT P INFORM, V215, P1, DOI [10.4230/LIPIcs.ITCS.2022.95, DOI 10.4230/LIPICS.ITCS.2022.95]
+   Li Yingkai, 2022, EC '22: Proceedings of the 23rd ACM Conference on Economics and Computation, P988, DOI 10.1145/3490486.3538338
+   Liu Y, 2022, ACM T ECON COMPUT, V10, DOI 10.1145/3565559
+   Liu Y, 2017, AAAI CONF ARTIF INTE, P607
+   Mandal D, 2020, AAAI CONF ARTIF INTE, V34, P2160
+   Mandal Debmalya, 2016, P CROWDML WORKSH NIP
+   Merkle EC, 2013, DECIS ANAL, V10, P292, DOI 10.1287/deca.2013.0280
+   Miller N, 2005, MANAGE SCI, V51, P1359, DOI 10.1287/mnsc.1050.0379
+   Neyman E., 2021, EC'21: The 22nd ACM conference on economics and computation, budapest, hungary, july 18-23, 2021, P718, DOI 10.1145/3465456.3467639
+   OSBAND K, 1989, J POLIT ECON, V97, P1091, DOI 10.1086/261644
+   Prelec D, 2004, SCIENCE, V306, P462, DOI 10.1126/science.1102081
+   Prelec D, 2017, NATURE, V541, P532, DOI 10.1038/nature21054
+   Radanovic G, 2015, PROCEEDINGS OF THE 2015 INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS & MULTIAGENT SYSTEMS (AAMAS'15), P1081
+   Radanovic G, 2015, AAAI CONF ARTIF INTE, P1014
+   Radanovic G, 2014, AAAI CONF ARTIF INTE, P770
+   Radanovic G, 2016, ACM T INTEL SYST TEC, V7, DOI 10.1145/2856102
+   Radanovic Goran, 2013, P 27 AAAI C ART INT, P833, DOI DOI 10.1609/AAAI.V27I1.8677
+   Rigol Natalia, 2016, Working Paper
+   Riley Blake, 2014, P 4 WORKSH SOC COMP
+   Schoenebeck G, 2022, ACM T ECON COMPUT, V10, DOI 10.1145/3565560
+   Schoenebeck G, 2021, PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2021 (WWW 2021), P3974, DOI 10.1145/3442381.3449840
+   Schoenebeck Grant, 2021, LEIBNIZ INT P INFORM, V78, P1, DOI [10.4230/LIPIcs, DOI 10.4230/LIPICS]
+   Seneta E, 2006, SPRINGER SER STAT, P1, DOI 10.1007/0-387-32792-4
+   Shannon C. E., 2001, Bell Sys. Technical J, V5, P3, DOI [DOI 10.1002/J.1538-7305.1948.TB01338.X, 10.1145/584091.584093]
+   Shnayder V., 2016, Proceedings of the 25th International Joint Conference on Artificial Intelligence, P2611
+   Shnayder V, 2016, EC'16: PROCEEDINGS OF THE 2016 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P179, DOI 10.1145/2940716.2940790
+   Shnayder Victor, 2016, P AAAI C HUM COMP CR, V4, P199, DOI [10.1609/hcomp.v4i1.13285, DOI 10.1609/HCOMP.V4I1.13285]
+   Shuran Zheng, 2021, EC '21: Proceedings of the 22nd ACM Conference on Economics and Computation, P907, DOI 10.1145/3465456.3467642
+   Simon Leon, 1984, Lectures on Geometric Measure Theory, V3
+   von Ahn Luis., 2004, CHI, DOI DOI 10.1145/985692.985733
+   von Stengel B, 2010, GAME ECON BEHAV, V69, P446, DOI 10.1016/j.geb.2009.11.008
+   Wang Juntao, 2021, P AAAI C HUM COMP CR, V9, P131, DOI DOI 10.1609/HCOMP.V9I1.18946
+   WINKLER RL, 1969, J AM STAT ASSOC, V64, P1073, DOI 10.2307/2283486
+   Witkowski J., 2012, 26 AAAI C ART INT
+   Witkowski Jens., 2013, Proc. HCOMP '13, P190, DOI DOI 10.1609/HCOMP.V1I1.13089
+   Witkowski Jens, 2012, P 13 ACM C EL COMM, P964, DOI [DOI 10.1145/2229012.2229085, 10.1145/2229012.2229085]
+   Witkowski Jens, 2013, P 3 WORKSH SOC COMP
+   Xu YL, 2019, ADV NEUR IN, V32
+   Zhang P, 2014, AAMAS'14: PROCEEDINGS OF THE 2014 INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS & MULTIAGENT SYSTEMS, P245
+NR 68
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 9
+DI 10.1145/3638239
+PG 49
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800002
+DA 2024-08-05
+ER
+
+PT J
+AU Lichter, M
+   Schweitzer, P
+AF Lichter, Moritz
+   Schweitzer, Pascal
+TI Choiceless Polynomial Time with Witnessed Symmetric Choice
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Choiceless Polynomial Time; symmetric choice; isomorphism; canonization;
+   logic for polynomial time
+ID LOGICS; COMPLEXITY
+AB We extend Choiceless Polynomial Time (CPT), the currently only remaining promising candidate in the quest for a logic capturing PTIME, so that this extended logic has the following property: for every class of structures for which isomorphism is definable, the logic automatically captures PTIME.
+   For the construction of this logic, we extend CPT by a witnessed symmetric choice operator. This operator allows for choices from definable orbits. But, to ensure polynomial-time evaluation, automorphisms have to be provided to certify that the choice set is indeed an orbit.
+   We argue that, in this logic, definable isomorphism implies definable canonization. Thereby, our construction removes the non-trivial step of extending isomorphism definability results to canonization. This step was a part of proofs that show that CPT or other logics capture PTIME on a particular class of structures. The step typically required substantial extra effort.
+C1 [Lichter, Moritz] Rhein Westfal TH Aachen, Ahornstr. 55, D-52074 Aachen, Germany.
+   [Schweitzer, Pascal] Tech Univ Darmstadt, Schlossgartenstr 7, D-64289 Darmstadt, Germany.
+C3 RWTH Aachen University; Technical University of Darmstadt
+RP Lichter, M (corresponding author), Rhein Westfal TH Aachen, Ahornstr. 55, D-52074 Aachen, Germany.
+EM lichter@lics.rwth-aachen.de; schweiter@mathematik.tu-darmstadt.de
+FU European Research Council (ERC) under the European Union [820148]
+FX The research leading to these results received funding from the European
+   Research Council (ERC) under the European Union's Horizon 2020 research
+   and innovation programme (EngageS: grant agreement no. 820148).
+CR Abu Zaid F, 2014, LECT NOTES COMPUT SC, V8634, P50, DOI 10.1007/978-3-662-44522-8_5
+   Blass A, 2002, J SYMBOLIC LOGIC, V67, P1093, DOI 10.2178/jsl/1190150152
+   Blass A, 1999, ANN PURE APPL LOGIC, V100, P141, DOI 10.1016/S0168-0072(99)00005-6
+   CAI JY, 1992, COMBINATORICA, V12, P389, DOI 10.1007/BF01305232
+   CHANDRA A, 1982, J COMPUT SYST SCI, V25, P99, DOI 10.1016/0022-0000(82)90012-5
+   Chen G., 2019, Lect. Coherent Config
+   Dawar A, 2003, LECT NOTES COMPUT SC, V2803, P169
+   Dawar A, 2003, J LOGIC COMPUT, V13, P503, DOI 10.1093/logcom/13.4.503
+   Dawar A, 2008, ANN PURE APPL LOGIC, V152, P31, DOI 10.1016/j.apal.2007.11.011
+   Dawar A, 2023, J LOGIC COMPUT, V33, P961, DOI 10.1093/logcom/exac058
+   Dawar A, 2009, IEEE S LOG, P113, DOI 10.1109/LICS.2009.24
+   Ebbinghaus Ebb85Heinz-Dieter, 1985, Model-Theoretic Logics, P25
+   Fagin R., 1973, SIAM AMS P, V7, P43
+   Gire F, 1998, INFORM COMPUT, V144, P40, DOI 10.1006/inco.1998.2712
+   Grädel E, 2015, LECT NOTES COMPUT SC, V9300, P193, DOI 10.1007/978-3-319-23534-9_11
+   Grädel E, 2015, IEEE S LOG, P677, DOI 10.1109/LICS.2015.68
+   Grohe M., 2017, DESCRIPTIVE COMPLEXI, DOI DOI 10.1017/9781139028868
+   Grohe M., 2021, P 2021 ACM SIAM S DI, P2600, DOI DOI 10.1137/1.9781611976465.154
+   Grohe M, 2008, IEEE S LOG, P267, DOI 10.1109/LICS.2008.11
+   Grohe M, 2019, IEEE S LOG, DOI 10.1109/lics.2019.8785682
+   Gurevich Yuri, 1997, Bull. EATCS, V63, P1
+   Gurevich Yuri, 1988, Logic and the Challenge of Computer Science, P1
+   IMMERMAN N, 1987, SIAM J COMPUT, V16, P760, DOI 10.1137/0216051
+   Kiefer S, 2015, LECT NOTES COMPUT SC, V9234, P319, DOI 10.1007/978-3-662-48057-1_25
+   Lichter M, 2023, J ACM, V70, DOI 10.1145/3572918
+   Lichter Moritz, 2021, P 29 EACSL ANN C COM, V183, DOI [10.4230/LIPIcs.CSL.2021.31, DOI 10.4230/LIPICS.CSL.2021.31]
+   Lichter Moritz, 2023, LIPIcs, V261, DOI [10.4230/LIPICS.ICALP.2023.133, DOI 10.4230/LIPICS.ICALP.2023.133]
+   Lichter Moritz, 2022, P 37 ANN ACM IEEE S, DOI DOI 10.1145/3531130.3533348
+   MATHON R, 1979, INFORM PROCESS LETT, V8, P131, DOI 10.1016/0020-0190(79)90004-8
+   Pago Benedikt, 2021, arXiv
+   Pago Benedikt, 2021, LIPIcs, V183, DOI [10.4230/LIPIcs.CSL.2021.33, DOI 10.4230/LIPICS.CSL.2021.33]
+   Pakusa Wied, 2015, Ph. D. Dissertation
+   Pakusa Wied, 2016, LIPIcs, V62, DOI [DOI 10.4230/LIPICS.CSL2016.19, 10.4230/LIPIcs, DOI 10.4230/LIPICS]
+   Rossman B, 2010, LECT NOTES COMPUT SC, V6300, P565, DOI 10.1007/978-3-642-15025-8_28
+   Schweitzer P, 2019, ACM S THEORY COMPUT, P1247, DOI 10.1145/3313276.3316338
+NR 35
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 7
+DI 10.1145/3648104
+PG 70
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800008
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Dinitz, M
+   Fineman, J
+   Gilbert, S
+   Newport, C
+AF Dinitz, Michael
+   Fineman, Jeremy
+   Gilbert, Seth
+   Newport, Calvin
+TI Smoothed Analysis of Information Spreading in Dynamic Networks
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Smoothed analysis; dynamic networks; gossip
+ID ALGORITHMS
+AB The best known solutions for k-message broadcast in dynamic networks of size n require Omega(nk) rounds. In this article, we see if these bounds can be improved by smoothed analysis. To do so, we study perhaps the most natural randomized algorithm for disseminating tokens in this setting: at every timestep, choose a token to broadcast randomly from the set of tokens you know. We show that with even a small amount of smoothing (i.e., one random edge added per round), this natural strategy solves k-message broadcast in O-similar to (n + k(3)) rounds, with high probability, beating the best known bounds for k = o(root n) and matching the Omega(n+k) lower bound for static networks for k = O(n(1/3)) (ignoring logarithmic factors). In fact, the main result we show is even stronger and more general: Given l-smoothing (i.e., l random edges added per round), this simple strategy terminates in O(kn(2/ 3) log(1/3)(n)l (-1/3)) rounds. We then prove this analysis close to tight with an almost-matching lower bound. To better understand the impact of smoothing on information spreading, we next turn our attention to static networks, proving a tight bound of O-similar to ( k root n) rounds to solve k-message broadcast, which is better than what our strategy can achieve in the dynamic setting. This confirms the intuition that although smoothed analysis reduces the difficulties induced by changing graph structures, it does not eliminate them altogether. Finally, we apply tools developed to support our smoothed analysis to prove an optimal result for k-message broadcast in so-calledwell-mixed networks in the absence of smoothing. By comparing this result to an existing lower bound forwell-mixed networks, we establish a formal separation between oblivious and strongly adaptive adversaries with respect to well-mixed token spreading, partially resolving an open question on the impact of adversary strength on the k-message broadcast problem.
+C1 [Dinitz, Michael] Johns Hopkins Univ, Comp Sci, Baltimore, MD 21218 USA.
+   [Fineman, Jeremy; Newport, Calvin] Georgetown Univ, Comp Sci, Washington, DC USA.
+   [Gilbert, Seth] Natl Univ Singapore, Comp Sci, Singapore, Singapore.
+C3 Johns Hopkins University; Georgetown University; National University of
+   Singapore
+RP Dinitz, M (corresponding author), Johns Hopkins Univ, Comp Sci, Baltimore, MD 21218 USA.
+EM mdinitz@cs.jhu.edu; jfineman@cs.georgetown.edu;
+   seth.gilbert@comp.nus.edu.sg; cn248@georgetown.edu
+FU Singapore MOE [T2EP20122-0021]; NSF [CCF-1733842]
+FX Seth Gilbert supported in part by Singapore MOE grant T2EP20122-0021.;
+   Calvin Newport supported in part by NSF grant CCF-1733842.
+CR Augustine John, 2012, P ACM SIAM S DISCR A
+   Avin C, 2008, LECT NOTES COMPUT SC, V5125, P121, DOI 10.1007/978-3-540-70575-8_11
+   Chatterjee S, 2020, PROCEEDINGS OF THE 21ST INTERNATIONAL CONFERENCE ON DISTRIBUTED COMPUTING AND NETWORKING (ICDCN 2020), DOI 10.1145/3369740.3369778
+   Clementi A, 2015, DISTRIB COMPUT, V28, P55, DOI 10.1007/s00446-014-0219-2
+   Denysyuk Oksana, 2014, P INT S DISTR COMP
+   Dinitz M, 2018, DISTRIB COMPUT, V31, P273, DOI 10.1007/s00446-017-0300-8
+   Doerr B., 2020, THEORY EVOLUTIONARY, DOI [10.1007/978-3-030-29414-4_1, DOI 10.1007/978-3-030-29414-4_1]
+   Dutta C, 2013, PROCEEDINGS OF THE TWENTY-FOURTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS (SODA 2013), P717
+   Ghaffari Mohsen, 2013, P ACM S PRINC DISTR
+   Haeupler B, 2011, PODC 11: PROCEEDINGS OF THE 2011 ACM SYMPOSIUM PRINCIPLES OF DISTRIBUTED COMPUTING, P381
+   Kuhn Fabian, 2011, SIGACT News, V42, P82, DOI 10.1145/1959045.1959064
+   Kuhn F, 2011, PODC 11: PROCEEDINGS OF THE 2011 ACM SYMPOSIUM PRINCIPLES OF DISTRIBUTED COMPUTING, P1
+   Kuhn F, 2010, ACM S THEORY COMPUT, P513
+   Meir Uri, 2020, P 34 INT S DISCR COM, DOI [10.4230/LIPIcs.DISC.2020.36, DOI 10.4230/LIPICS.DISC.2020.36]
+   Molla Anisur Rahaman, 2020, Stabilization, Safety, and Security of Distributed Systems. 22nd International Symposium, SSS 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12514), P183, DOI 10.1007/978-3-030-64348-5_14
+   Newport Calvin, 2014, P INT S DISTR COMP
+   Spielman DA, 2004, J ACM, V51, P385, DOI 10.1145/990308.990310
+   Spielman DA, 2009, COMMUN ACM, V52, P76, DOI 10.1145/1562764.1562785
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD JUN
+PY 2024
+VL 71
+IS 3
+DI 10.1145/3661831
+PG 24
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XG0Z2
+UT WOS:001260425800001
+OA Green Published, Bronze, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Ron-Zewi, N
+   Rothblum, R
+AF Ron-Zewi, Noga
+   Rothblum, Ron
+TI Local Proofs Approaching the Witness Length
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Interactive oracle proofs; probabilistically-checkable proofs;
+   interactive proofs; tensor codes; multiplication codes
+ID INTERACTIVE PROOFS; TENSOR PRODUCT; CODES; HARDNESS; PCPS; COMPLEXITY;
+   TIME
+AB Interactive oracle proofs (IOPs) are a hybrid between interactive proofs and PCPs. In an IOP, the prover is allowed to interact with a verifier (like in an interactive proof) by sending relatively long messages to the verifier, who in turn is only allowed to query a few of the bits that were sent (like in a PCP). Efficient IOPs are currently at the core of leading practical implementations of highly efficient proof-systems. In this work we construct, for a large class of NP relations, IOPs in which the communication complexity approaches the witness length. More precisely, for any NP relation for which membership can be decided in polynomial-time with bounded polynomial space (i.e., space n(xi) for some sufficiently small constant xi> 0; e.g., SAT, Hamiltonicity, Clique, Vertex-Cover) and for any constant gamma > 0, we construct an IOP with communication complexity (1 +gamma) center dot n, where n is the original witness length. The number of rounds, as well as the number of queries made by the IOP verifier, are constant. This result improves over prior works on short IOPs/PCPs in two ways. First, the communication complexity in these short IOPs is proportional to the complexity of verifying the NP witness, which can be polynomially larger than the witness size. Second, even ignoring the difference between witness length and nondeterministic verification time, prior works incur (at the very least) a large constant multiplicative overhead to the communication complexity. In particular, as a special case, we also obtain an IOP for CircuitSAT with communication complexity ( 1 +gamma) center dot t, for circuits of size t and any constant gamma > 0. This improves upon the prior state-of-the-art work of Ben Sasson et al. (ICALP, 2017) who construct an IOP for CircuitSAT with communication length c center dot t for a large (unspecified) constant c >= 1. Our proof leverages the local testability and (relaxed) local correctability of high-rate tensor codes, as well as their support of a sumcheck-like procedure. In particular, we bypass the barrier imposed by the low rate of multiplication codes (e.g., Reed-Solomon, Reed-Muller, or AG codes)-a key building block of all known short PCP/IOP constructions.
+C1 [Ron-Zewi, Noga] Univ Haifa, Dept Comp Sci, Haifa, Israel.
+   [Rothblum, Ron] Technion Israel Inst Technol, Comp Sci, Haifa, Israel.
+C3 University of Haifa; Technion Israel Institute of Technology
+RP Ron-Zewi, N (corresponding author), Univ Haifa, Dept Comp Sci, Haifa, Israel.
+EM nogazewi@gmail.com; rothblum@gmail.com
+FU University of Haifa; ISF [735/20]; European Union (ERC, ECCC)
+   [101076663]
+FX yNoga Ron-Zewi supported by the Milgrom family grant for Collaboration
+   between the Technion and University of Haifa, by ISF grant 735/20, and
+   by the European Union (ERC, ECCC, 101076663). Views and opinions
+   expressed are however those of the author(s) only and do not necessarily
+   reflect those of the European Union or the European Research Council.
+   Neither the European Union nor the granting authority can be held
+   responsible for them.
+CR Abboud A, 2017, ANN IEEE SYMP FOUND, P25, DOI 10.1109/FOCS.2017.12
+   [Anonymous], 1991, P 23 ANN ACM S THEOR, DOI DOI 10.1145/103418.103428
+   Applebaum B, 2017, ANN IEEE SYMP FOUND, P836, DOI 10.1109/FOCS.2017.82
+   Arnon G, 2022, LECT NOTES COMPUT SC, V13276, P64, DOI 10.1007/978-3-031-07085-3_3
+   Arnon Gal, 2022, LIPIcs, DOI [10.4230/LIPIcs.CCC.2022.24, DOI 10.4230/LIPICS.CCC.2022.24]
+   Arora S, 1998, J ACM, V45, P501, DOI 10.1145/278298.278306
+   Arora S, 1998, J ACM, V45, P70, DOI 10.1145/273865.273901
+   Babai L., 1991, Computational Complexity, V1, P3, DOI 10.1007/BF01200056
+   Ben-Eliezer Omri, 2020, P 11 INN THEOR COMP, V9, P1, DOI [10.4230/LIPIcs.ITCS.2020.9, DOI 10.4230/LIPICS.ITCS.2020.9]
+   Ben-Sasson E., 2018, 45 INT C AUT LANG PR, P14, DOI [10.4230/LIPIcs.ICALP.2018.14, DOI 10.4230/LIPICS.ICALP.2018.14]
+   Ben-Sasson E, 2008, SIAM J COMPUT, V38, P551, DOI 10.1137/050646445
+   Ben-Sasson E, 2006, SIAM J COMPUT, V36, P889, DOI 10.1137/S0097539705446810
+   Ben-Sasson E, 2006, RANDOM STRUCT ALGOR, V28, P387, DOI 10.1002/rsa.20120
+   Ben-Sasson E, 2019, LECT NOTES COMPUT SC, V11694, P701, DOI 10.1007/978-3-030-26954-8_23
+   Ben-Sasson E, 2019, LECT NOTES COMPUT SC, V11476, P103, DOI 10.1007/978-3-030-17653-2_4
+   Ben-Sasson E, 2016, J ACM, V63, DOI 10.1145/2901294
+   Ben-Sasson E, 2016, LECT NOTES COMPUT SC, V9986, P31, DOI 10.1007/978-3-662-53644-5_2
+   Ben-Sasson E, 2015, COMPUT COMPLEX, V24, P601, DOI 10.1007/s00037-013-0074-8
+   Ben-Sasson E, 2013, STOC'13: PROCEEDINGS OF THE 2013 ACM SYMPOSIUM ON THEORY OF COMPUTING, P585
+   Ben-Sasson Eli, 2020, P 11 INN THEOR COMP, V5, P1, DOI [10.4230/LIPIcs.ITCS, DOI 10.4230/LIPICS.ITCS]
+   Ben-Sasson Eli, 2017, P 44 INT C AUT LANG, DOI [10.4230/LIPIcs.ICALP.2017.40, DOI 10.4230/LIPICS.ICALP.2017.40]
+   Bootle J, 2022, LECT NOTES COMPUT SC, V13276, P275, DOI 10.1007/978-3-031-07085-3_10
+   Bootle J, 2020, LECT NOTES COMPUT SC, V12551, P19, DOI 10.1007/978-3-030-64378-2_2
+   Chen Lijie, 2019, P 30 ANN ACM SIAM S, P1
+   Dinur I, 2007, J ACM, V54, DOI 10.1145/1236457.1236459
+   Dinur I, 2006, SIAM J COMPUT, V36, P975, DOI 10.1137/S0097539705446962
+   Dinur I, 2022, ACM S THEORY COMPUT, P357, DOI 10.1145/3519935.3520024
+   Dinur I, 2006, LECT NOTES COMPUT SC, V4110, P304
+   Dinur Irit, 2016, EL C COMP COMPL ECCC, V23, P128
+   Ergün F, 2004, INFORM COMPUT, V189, P135, DOI 10.1016/j.ic.2003.09.005
+   Feige U, 1996, J ACM, V43, P268, DOI 10.1145/226643.226652
+   Fortnow L, 2011, J COMPUT SYST SCI, V77, P91, DOI 10.1016/j.jcss.2010.06.007
+   Goldreich O, 2008, COMPUTATIONAL COMPLEXITY: A CONCEPTUAL PERSPECTIVE, P1, DOI 10.1017/CBO9780511804106
+   Goldreich Oded, 2018, Foundations and Trends in Theoretical Computer Science, V13, P158, DOI 10.1561/0400000084
+   Goldreich O, 2002, COMPUT COMPLEX, V11, P1, DOI 10.1007/s00037-002-0169-0
+   Goldreich O, 1998, INFORM PROCESS LETT, V67, P205, DOI 10.1016/S0020-0190(98)00116-1
+   Goldreich O, 2012, INFORM PROCESS LETT, V112, P351, DOI 10.1016/j.ipl.2012.01.007
+   Goldwasser S, 2015, J ACM, V62, DOI 10.1145/2699436
+   Golovnev Alexander, 2021, Report 2021/1043
+   Gur T, 2018, COMPUT COMPLEX, V27, P99, DOI 10.1007/s00037-016-0136-9
+   Gur Tom, 2018, P 9 INN THEOR COMP S, V27, P1
+   Håstad J, 2001, J ACM, V48, P798, DOI 10.1145/502090.502098
+   IMMERMAN N, 1988, SIAM J COMPUT, V17, P935, DOI 10.1137/0217058
+   JUSTESEN J, 1972, IEEE T INFORM THEORY, V18, P652, DOI 10.1109/TIT.1972.1054893
+   Kalai YT, 2008, LECT NOTES COMPUT SC, V5126, P536, DOI 10.1007/978-3-540-70583-3_44
+   Kalai YT, 2015, LECT NOTES COMPUT SC, V9216, P422, DOI 10.1007/978-3-662-48000-7_21
+   Karp RM., 1972, Complexity of Computer Computations, P85, DOI DOI 10.1007/978-1-4684-2001-2_9
+   Kilian J., 1992, Proceedings of the Twenty-Fourth Annual ACM Symposium on the Theory of Computing, P723, DOI 10.1145/129712.129782
+   Kopparty S, 2017, J ACM, V64, DOI 10.1145/3051093
+   Kopparty S, 2014, J ACM, V61, DOI 10.1145/2629416
+   LUND C, 1992, J ACM, V39, P859, DOI 10.1145/146585.146605
+   Manurangsi Pasin, 2017, P 44 INT C AUT LANG
+   Meir O, 2014, COMPUT COMPLEX, V23, P355, DOI 10.1007/s00037-014-0080-5
+   Meir O, 2013, SIAM J COMPUT, V42, P380, DOI 10.1137/110829660
+   Micali S, 2000, SIAM J COMPUT, V30, P1253, DOI 10.1137/S0097539795284959
+   Mie T, 2009, ANN MATH ARTIF INTEL, V56, P313, DOI 10.1007/s10472-009-9169-y
+   Muller D. E., 1954, Transactions of the I.R.E. Professional Group on Electronic Computers, V3, P6, DOI 10.1109/IREPGELC.1954.6499441
+   Nassar S, 2022, LECT NOTES COMPUT SC, V13507, P504, DOI 10.1007/978-3-031-15802-5_18
+   Panteleev P, 2022, ACM S THEORY COMPUT, P375, DOI 10.1145/3519935.3520017
+   PIPPENGER N, 1979, J ACM, V26, P361, DOI 10.1145/322123.322138
+   Randriambololona H, 2013, IEEE T INFORM THEORY, V59, P7936, DOI 10.1109/TIT.2013.2281145
+   REED IS, 1960, J SOC IND APPL MATH, V8, P300, DOI 10.1137/0108018
+   REED IS, 1954, IRE T INFORM THEOR, P38, DOI 10.1109/TIT.1954.1057465
+   Reingold O, 2021, SIAM J COMPUT, V50, DOI 10.1137/16M1096773
+   Reingold Omer, 2017, Personal Communication
+   Ron-Zewi N, 2022, ACM S THEORY COMPUT, P1353, DOI 10.1145/3519935.3519956
+   Ron-Zewi Noga, 2019, ELECT C COMPUTATIONA, P127
+   Rothblum GN, 2020, LECT NOTES COMPUT SC, V12551, P108, DOI 10.1007/978-3-030-64378-2_5
+   Rothblum GN, 2013, STOC'13: PROCEEDINGS OF THE 2013 ACM SYMPOSIUM ON THEORY OF COMPUTING, P793
+   Rubinstein A, 2018, ACM S THEORY COMPUT, P1260, DOI 10.1145/3188745.3188916
+   Shoup V., 1988, 29th Annual Symposium on Foundations of Computer Science (IEEE Cat. No.88CH2652-6), P283, DOI 10.1109/SFCS.1988.21944
+   Spielman DA, 1996, IEEE T INFORM THEORY, V42, P1723, DOI 10.1109/18.556668
+   Stichtenoth H, 2006, IEEE T INFORM THEORY, V52, P2218, DOI 10.1109/TIT.2006.872986
+   Sudan Madhu., 2000, Probabilistically checkable proofs-lecture notes
+   Sudan Madhu, 2001, Lecture Notes
+   Szelepcsenyi R., 1987, Bulletin of the European Association for Theoretical Computer Science, P96
+   Valiant P, 2005, LECT NOTES COMPUT SC, V3624, P472
+   Viderman M, 2015, RANDOM STRUCT ALGOR, V46, P572, DOI 10.1002/rsa.20498
+   Xie TC, 2022, LECT NOTES COMPUT SC, V13510, P299, DOI 10.1007/978-3-031-15985-5_11
+NR 79
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD JUN
+PY 2024
+VL 71
+IS 3
+DI 10.1145/3661483
+PG 42
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XG0Z2
+UT WOS:001260425800002
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Haghtalab, N
+   Roughgarden, T
+   Shetty, A
+AF Haghtalab, Nika
+   Roughgarden, Tim
+   Shetty, Abhishek
+TI Smoothed Analysis with Adaptive Adversaries
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Smoothed analysis; online learning; regret bounds; online convex
+   optimization; data driven algorithm design; online discrepancy
+   minimization
+ID CONSTRUCTIVE DISCREPANCY MINIMIZATION
+AB We prove novel algorithmic guarantees for several online problems in the smoothed analysis model. In this model, at each time step an adversary chooses an input distribution with density function bounded above pointwise by (1)/(sigma) times that of the uniform distribution; nature then samples an input from this distribution. Here, s is a parameter that interpolates between the extremes of worst-case and average case analysis. Crucially, our results hold for adaptive adversaries that can base their choice of input distribution on the decisions of the algorithm and the realizations of the inputs in the previous time steps. An adaptive adversary can nontrivially correlate inputs at different time steps with each other and with the algorithm's current state; this appears to rule out the standard proof approaches in smoothed analysis. This paper presents a general technique for proving smoothed algorithmic guarantees against adaptive adversaries, in effect reducing the setting of an adaptive adversary to the much simpler case of an oblivious adversary (i.e., an adversary that commits in advance to the entire sequence of input distributions). We apply this technique to prove strong smoothed guarantees for three different problems: (1) Online learning: We consider the online prediction problem, where instances are generated from an adaptive sequence of s-smooth distributions and the hypothesis class has VC dimension d. We bound the regret by O-similar to (root Td ln(1/sigma)+ d ln( T /sigma)) and provide a near-matching lower bound. Our result shows that under smoothed analysis, learnability against adaptive adversaries is characterized by the finiteness of the VC dimension. This is as opposed to the worst-case analysis, where online learnability is characterized by Littlestone dimension (which is infinite even in the extremely restricted case of one-dimensional threshold functions). Our results fully answer an open question of Rakhlin et al. [64]. (2) Online discrepancy minimization: We consider the setting of the online Komlos problem, where the input is generated from an adaptive sequence of sigma-smooth and isotropic distributions on the l(2) unit ball. We bound the l(infinity) norm of the discrepancy vector by O-similar to (ln(2)( (n)/(T)sigma)). This is as opposed to the worst-case analysis, where the tight discrepancy bound is Theta(root T /n). We show such polylog( nT /sigma) discrepancy guarantees are not achievable for non-isotropic s-smooth distributions. (3) Dispersion in online optimization: We consider online optimization with piecewise Lipschitz functions where functions with l discontinuities are chosen by a smoothed adaptive adversary and show that the resulting sequence is (sigma/root Tl, O-similar to (root Tl))-dispersed. That is, every ball of radius sigma/root Tl is split by O(root Tl) of the partitions made by these functions. This result matches the dispersion parameters of Balcan et al. [13] for oblivious smooth adversaries, up to logarithmic factors. On the other hand, worstcase sequences are trivially ( 0, T)- dispersed.
+C1 [Haghtalab, Nika; Shetty, Abhishek] Univ Calif Berkeley, Elect Engn & Comp Sci, Berkeley, CA 94720 USA.
+   [Roughgarden, Tim] Columbia Univ, Comp Sci, New York, NY USA.
+C3 University of California System; University of California Berkeley;
+   Columbia University
+RP Haghtalab, N (corresponding author), Univ Calif Berkeley, Elect Engn & Comp Sci, Berkeley, CA 94720 USA.
+EM nhaghtal@gmail.com; tim.roughgarden@gmail.com; shetty@berkeley.edu
+OI Roughgarden, Tim/0000-0002-7163-8306
+FU NSF [CCF2145898, CCF-2006737, CNS-2212745]; ONR [N00014-24-1-2159];
+   C3.AI Digital Transformation Institute grant; Berkeley AI Research;
+   Microsoft Research Commons award; JP Morgan Chase Faculty Fellowship;
+   Google research scholar faculty award; Schmidt Sciences AI2050 award;
+   Apple AI Ph.D. fellowship
+FX The research of the second author was supported in part by NSF awards
+   CCF-2006737 and CNS-2212745. This work is also partially supported by
+   the NSF under CCF2145898, the ONR under N00014-24-1-2159, a C3.AI
+   Digital Transformation Institute grant, a Berkeley AI Research and
+   Microsoft Research Commons award, a JP Morgan Chase Faculty Fellowship,
+   a Google research scholar faculty award, a Schmidt Sciences AI2050
+   award, and an Apple AI Ph.D. fellowship.
+CR Agarwal N, 2020, PR MACH LEARN RES, V119
+   Agarwal Naman, 2021, P MACHINE LEARNING R, P100
+   Allen-Zhu Z, 2015, ACM S THEORY COMPUT, P237, DOI 10.1145/2746539.2746610
+   Alon N, 2021, ACM S THEORY COMPUT, P447, DOI 10.1145/3406325.3451041
+   Alweiss R, 2021, ACM S THEORY COMPUT, P14, DOI 10.1145/3406325.3450994
+   [Anonymous], 2012, Theory of computing
+   Arora S, 2012, ANN IEEE SYMP FOUND, P1, DOI 10.1109/FOCS.2012.49
+   Arthur D., 2006, Proceedings of the Twenty-Second Annual Symposium on Computational Geometry (SCG'06), P144, DOI 10.1145/1137856.1137880
+   Awasthi P., 2016, PMLR, P152
+   Awasthi P., 2015, C LEARN THEOR, P167
+   Awasthi Pranjal, 2017, C COMP LEARN THEOR C, P127
+   Balcan MF, 2020, ACM T ALGORITHMS, V16, DOI 10.1145/3381424
+   Balcan MF, 2018, ANN IEEE SYMP FOUND, P603, DOI 10.1109/FOCS.2018.00064
+   Balcan MF, 2013, J ACM, V60, DOI 10.1145/2450142.2450144
+   Bansal N, 2020, ACM S THEORY COMPUT, P1139, DOI 10.1145/3357713.3384280
+   Bansal N, 2020, RANDOM STRUCT ALGOR, V57, P879, DOI 10.1002/rsa.20955
+   Bansal N, 2018, ACM S THEORY COMPUT, P587, DOI 10.1145/3188745.3188850
+   Bansal N, 2017, ACM S THEORY COMPUT, P914, DOI 10.1145/3055399.3055490
+   Bansal N, 2010, ANN IEEE SYMP FOUND, P3, DOI 10.1109/FOCS.2010.7
+   Bansal Nikhil, 2022, 13 INN THEOR COMP SC, V215
+   Bansal Nikhil, 2022, 49 INT C AUT LANG PR, V229
+   Bansal Nikhil, 2021, P 2021 ACM SIAM S DI, P2842
+   Ben-David Shai, 2009, P 22 ANN C LEARN THE
+   Bhaskara A, 2019, ANN IEEE SYMP FOUND, P582, DOI 10.1109/FOCS.2019.00043
+   Bilu Y, 2012, COMB PROBAB COMPUT, V21, P643, DOI 10.1017/S0963548312000193
+   Block Adam, 2023, PMLR, V195, P228
+   Block Adam, 2022, Advances in Neural Information Processing Systems (NeurIPS'22), V36, P7477
+   Block Adam, 2022, PMLR, P1716, DOI DOI 10.48550/ARXIV.2202.04690
+   Blum A, 2007, ALGORITHMIC GAME THEORY, P79
+   Boucheron S., 2013, Concentration inequalities: a nonasymptotic theory of independence, DOI DOI 10.1093/ACPROF:OSO/9780199535255.001.0001
+   Bousquet O, 2004, LECT NOTES ARTIF INT, V3176, P169
+   Bun M, 2020, ANN IEEE SYMP FOUND, P389, DOI 10.1109/FOCS46700.2020.00044
+   Cesa-Bianchi N, 2006, PREDICTION LEARNING
+   Chazelle Bernard, 2000, The Discrepancy Method: Randomness and Complexity
+   Cohen-Addad V, 2017, PR MACH LEARN RES, V54, P412
+   Dekel O, 2017, ADV NEUR IN, V30
+   Diakonikolas I, 2019, ADV NEUR IN, V32
+   Gupta R, 2017, SIAM J COMPUT, V46, P992, DOI 10.1137/15M1050276
+   Haghtalab N, 2021, Arxiv, DOI arXiv:2102.08446
+   Haghtalab N, 2022, ANN IEEE SYMP FOUND, P942, DOI 10.1109/FOCS52979.2021.00095
+   Haghtalab Nika, 2020, ADV NEURAL INFORM PR, V33, P9203
+   Haghtalab Nika, 2018, Ph. D. Dissertation
+   Haghtalab Nika, 2022, Advances in Neural Information Processing Systems (NeurIPS'22), V36, P4072
+   Hardt M, 2013, STOC'13: PROCEEDINGS OF THE 2013 ACM SYMPOSIUM ON THEORY OF COMPUTING, P331
+   Hardt M, 2010, ANN IEEE SYMP FOUND, P61, DOI 10.1109/FOCS.2010.85
+   Hardt Moritz, 2012, ADV NEURAL INFORM PR, P2339
+   Harshaw C, 2023, Arxiv, DOI arXiv:1911.03071
+   HAUSSLER D, 1995, J COMB THEORY A, V69, P217, DOI 10.1016/0097-3165(95)90052-7
+   Hazan E, 2016, ACM S THEORY COMPUT, P128, DOI 10.1145/2897518.2897536
+   Hopkins Sam, 2020, ADV NEURAL INFORM PR, V33, P11902
+   Jiang Haotian, 2019, arXiv
+   Kalai AT, 2009, ANN IEEE SYMP FOUND, P395, DOI 10.1109/FOCS.2009.60
+   Kannan S, 2018, ADV NEUR IN, V31
+   KLEE V., 1972, How good is the simplex algorithm ?, P159
+   Krishnamurthy A, 2019, J MACH LEARN RES, V20
+   Lovett S, 2015, SIAM J COMPUT, V44, P1573, DOI 10.1137/130929400
+   Makarychev Konstantin, 2014, P 25 ANN ACM SIAM S, P890
+   Manthey Bodo, 2021, Smoothed Analysis of Local Search, P285
+   Mitzenmacher M., 2020, Beyond the Worst-Case Analysis of Algorithms, P646
+   Ostrovsky R, 2012, J ACM, V59, DOI 10.1145/2395116.2395117
+   Raghavan Manish, 2018, P MACHINE LEARNING R, V75, P1724
+   Rakhlin Alexander, 2011, ADV NEURAL INFORM PR, V24
+   Rakhlin K., 2013, Advances in Neural Information Processing Systems, P3066
+   Reis Victor, 2024, P 56 ANN ACM S THEOR
+   Rothvoss T, 2017, SIAM J COMPUT, V46, P224, DOI 10.1137/141000282
+   SCHAFFER AA, 1991, SIAM J COMPUT, V20, P56, DOI 10.1137/0220004
+   Spencer Joel, 1994, Ten Lectures on the Probabilistic Method, V2nd
+   Spielman DA, 2004, J ACM, V51, P385, DOI 10.1145/990308.990310
+   Kalai AT, 2008, Arxiv, DOI arXiv:0812.0933
+   Vijayaraghavan Aravindan, 2017, Advances in Neural Information Processing Systems (NeurIPS'17), V30, P6500
+NR 70
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD JUN
+PY 2024
+VL 71
+IS 3
+DI 10.1145/3656638
+PG 34
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XG0Z2
+UT WOS:001260425800003
+OA Bronze, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Chou, CN
+   Golovnev, A
+   Sudan, M
+   Velusamy, S
+AF Chou, Chi-Ning
+   Golovnev, Alexander
+   Sudan, Madhu
+   Velusamy, Santhoshini
+TI Sketching Approximability of All Finite CSPs
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Streaming algorithms; communication lower bound; inapproximability;
+   constraint satisfaction problem
+ID COMMUNICATION COMPLEXITY
+AB A constraint satisfaction problem (CSP), Max-CSP(F), is specified by a finite set of constraints F subset of {[q](k) -> {0, 1}} for positive integers q and k. An instance of the problem on n variables is given bym applications of constraints from F to subsequences of the n variables, and the goal is to find an assignment to the variables that satisfies the maximum number of constraints. In the (gamma , beta)-approximation version of the problem for parameters 0 <= beta < gamma <= 1, the goal is to distinguish instances where at least. fraction of the constraints can be satisfied from instances where at most beta fraction of the constraints can be satisfied.
+   In this work, we consider the approximability of this problem in the context of sketching algorithms and give a dichotomy result. Specifically, for every family F and every beta < gamma, we show that either a linear sketching algorithm solves the problem in polylogarithmic space or the problem is not solvable by any sketching algorithm in o(root n) space. In particular, we give non-trivial approximation algorithms using polylogarithmic space for infinitely many constraint satisfaction problems.
+   We also extend previously known lower bounds for general streaming algorithms to a wide variety of problems, and in particular the case of q = k = 2, where we get a dichotomy, and the case when the satisfying assignments of the constraints of F support a distribution on [q](k) with uniform marginals.
+   Prior to this work, other than sporadic examples, the only systematic classes of CSPs that were analyzed considered the setting of Boolean variables q = 2, binary constraints k = 2, and singleton families vertical bar|F vertical bar| = 1 and only considered the setting where constraints are placed on literals rather than variables.
+   Our positive results show wide applicability of bias-based algorithms used previously by [47] and [41], which we extend to include richer norm estimation algorithms, by giving a systematic way to discover biases. Our negative results combine the Fourier analytic methods of [56], which we extend to a wider class of CSPs, with a rich collection of reductions among communication complexity problems that lie at the heart of the negative results. In particular, previous works used Fourier analysis over the Boolean cube to initiate their results and the results seemed particularly tailored to functions on Boolean literals (i.e., with negations). Our techniques surprisingly allow us to get to general q-ary CSPs without negations by appealing to the same Fourier analytic starting point over Boolean hypercubes.
+C1 [Chou, Chi-Ning; Sudan, Madhu] Harvard Univ, Sch Engn & Appl Sci, Cambridge, MA 02138 USA.
+   [Golovnev, Alexander] Georgetown Univ, Dept Comp Sci, Washington, DC USA.
+   [Velusamy, Santhoshini] Toyota Technol Inst, Chicago, IL USA.
+C3 Harvard University; Georgetown University; Toyota Technological
+   Institute - Chicago
+RP Chou, CN (corresponding author), Harvard Univ, Sch Engn & Appl Sci, Cambridge, MA 02138 USA.
+EM chiningchou@g.harvard.edu; alexgolovnev@gmail.com; madhu@cs.harvard.edu;
+   santhoshini@ttic.edu
+OI Chou, Chi-Ning/0000-0001-9089-2003; Sudan, Madhu/0000-0003-3718-6489
+FU NSF [CCF 1565264, CNS 1618026, CCF 1715187, CCF 2152413]; Simons
+   Investigator Award; Google Ph.D. Fellowship
+FX C.-N. Chou is supported by NSF Awards CCF 1565264 and CNS 1618026.; M.
+   Sudan is supported in part by a Simons Investigator Award and NSF Awards
+   CCF 1715187 and CCF 2152413.; S. Velusamy is supported in part by a
+   Google Ph.D. Fellowship, a Simons Investigator Award to Madhu Sudan, and
+   NSF Awards CCF 1715187 and CCF 2152413.
+CR Ai YQ, 2016, LEIBNIZ INT PR INFOR, V50, DOI 10.4230/LIPIcs.CCC.2016.20
+   Andoni A, 2011, ANN IEEE SYMP FOUND, P363, DOI 10.1109/FOCS.2011.82
+   Andoni Alexandr, 2020, Personal Communication
+   [Anonymous], 2012, Theory Comput., DOI [DOI 10.4086/TOC, 10.4086/toc.2012.v008a008, DOI 10.4086/TOC.2012.V008A008]
+   Assadi S., 2016, Proceedings of the Twenty-Seventh Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2016, Arlington, VA, USA, January 10-12, 2016, P1345
+   Assadi S, 2023, PROCEEDINGS OF THE 55TH ANNUAL ACM SYMPOSIUM ON THEORY OF COMPUTING, STOC 2023, P183, DOI 10.1145/3564246.3585192
+   Assadi S, 2023, PROCEEDINGS OF THE 55TH ANNUAL ACM SYMPOSIUM ON THEORY OF COMPUTING, STOC 2023, P131, DOI 10.1145/3564246.3585110
+   Assadi S, 2022, ANN IEEE SYMP FOUND, P1193, DOI 10.1109/FOCS54457.2022.00115
+   Assadi S, 2022, ACM S THEORY COMPUT, P261, DOI 10.1145/3519935.3520016
+   Assadi S, 2022, ACM S THEORY COMPUT, P234, DOI 10.1145/3519935.3520005
+   Assadi S, 2021, ACM S THEORY COMPUT, P612, DOI 10.1145/3406325.3451110
+   Assadi S, 2021, SIAM J COMPUT, V50, DOI 10.1137/16M1095482
+   Assadi S, 2020, ANN IEEE SYMP FOUND, P342, DOI 10.1109/FOCS46700.2020.00040
+   Assadi S, 2020, ANN IEEE SYMP FOUND, P354, DOI 10.1109/FOCS46700.2020.00041
+   Assadi S, 2017, PROCEEDINGS OF THE TWENTY-EIGHTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1723
+   Assadi Sepehr, 2021, LIPIcs
+   Assadi Sepehr, 2022, LIPIcs
+   Assadi Sepehr, 2022, LIPIcs
+   Assadi Sepehr, 2021, LIPIcs
+   Assadi Sepehr, 2022, P 2022 ACM SIAM S DI, P627
+   Assadi Sepehr, 2022, P 2022 ACM SIAM S DI, P708
+   Austrin P, 2009, COMPUT COMPLEX, V18, P249, DOI 10.1007/s00037-009-0272-6
+   Barto L, 2012, STOC'12: PROCEEDINGS OF THE 2012 ACM SYMPOSIUM ON THEORY OF COMPUTING, P931
+   Basu S., 2006, Algorithms in Real Algebraic Geometry
+   Behnezhad Soheil, 2023, ACM SIAM S DISCR ALG, P129
+   Boyd S., 2004, Convex optimization, DOI [DOI 10.1017/CBO9780511804441, 10.1017/CBO9780511804441]
+   Boyland Joanna, 2022, LIPIcs
+   Bulatov AA, 2017, ANN IEEE SYMP FOUND, P319, DOI 10.1109/FOCS.2017.37
+   Chakrabarti A, 2012, SIAM J COMPUT, V41, P1299, DOI 10.1137/120861072
+   Chakrabarti Amit, 2020, Lecture Notes on Data Stream Algorithms, P94
+   Chen LJ, 2021, ACM S THEORY COMPUT, P570, DOI 10.1145/3406325.3451038
+   Chen Lijie, 2021, LIPIcs
+   Chen Lijie., 2023, Proceedings of the 2023 ACM-SIAM Symposium on Discrete Algorithms, SODA 2023, Florence, Italy, January 22-25, 2023, P878
+   Chen Yu, 2023, LIPIcs
+   Chiplunkar A, 2022, ANN IEEE SYMP FOUND, P486, DOI 10.1109/FOCS54457.2022.00053
+   Chou CN, 2022, ACM S THEORY COMPUT, P275, DOI 10.1145/3519935.3519983
+   Chou CN, 2022, ANN IEEE SYMP FOUND, P1197, DOI 10.1109/FOCS52979.2021.00117
+   Chou CN, 2020, ANN IEEE SYMP FOUND, P330, DOI 10.1109/FOCS46700.2020.00039
+   Chou Chi-Ning, 2022, LIPIcs
+   Chou CF, 2021, CANCER INVEST, V39, P559, DOI 10.1080/07357907.2021.1933015
+   Dalmau V, 2013, ACM T COMPUT THEORY, V5, DOI 10.1145/2540090
+   Gavinsky D, 2008, SIAM J COMPUT, V38, P1695, DOI 10.1137/070706550
+   Goel A, 2012, P 23 ANN ACM SIAM S, P468, DOI DOI 10.1137/1.9781611973099.41
+   Guruswami V, 2011, SIAM J COMPUT, V40, P878, DOI 10.1137/090756144
+   Guruswami Venkatesan, 2017, LIPIcs, V8, P1
+   Guruswami Venkatesan, 2019, APPROX 2019
+   Håstad J, 2001, J ACM, V48, P798, DOI 10.1145/502090.502098
+   Huang ZF, 2015, LEIBNIZ INT PR INFOR, V30, P460, DOI 10.4230/LIPIcs.STACS.2015.460
+   Kahn J., 1988, 29th Annual Symposium on Foundations of Computer Science (IEEE Cat. No.88CH2652-6), P68, DOI 10.1109/SFCS.1988.21923
+   Kallaugher J, 2020, ACM S THEORY COMPUT, P1223, DOI 10.1145/3357713.3384278
+   KALYANASUNDARAM B, 1992, SIAM J DISCRETE MATH, V5, P545, DOI 10.1137/0405044
+   Kapralov M., 2014, Proceedings of the Twenty-Fifth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2014, Portland, Oregon, USA, January 5-7, 2014, DOI DOI 10.1137/1.9781611973402.55
+   Kapralov M, 2019, ACM S THEORY COMPUT, P277, DOI 10.1145/3313276.3316364
+   Kapralov M, 2017, PROCEEDINGS OF THE TWENTY-EIGHTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1703
+   Kapralov M, 2013, PROCEEDINGS OF THE TWENTY-FOURTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS (SODA 2013), P1679
+   Kapralov Michael, 2021, ACM SIAM S DISCR ALG, P1874
+   Kapralov Michael, 2015, P 26 ANN ACM SIAM S, P1263
+   Khot S, 2002, ANN IEEE CONF COMPUT, P25
+   Khot S, 2014, STOC'14: PROCEEDINGS OF THE 46TH ANNUAL 2014 ACM SYMPOSIUM ON THEORY OF COMPUTING, P634, DOI 10.1145/2591796.2591817
+   Kol Gillat, 2023, LIPIcs
+   Konrad C, 2015, LECT NOTES COMPUT SC, V9294, P840, DOI 10.1007/978-3-662-48350-3_70
+   Kun G., 2012, ITCS, P484
+   Li Y, 2014, STOC'14: PROCEEDINGS OF THE 46TH ANNUAL 2014 ACM SYMPOSIUM ON THEORY OF COMPUTING, P174, DOI 10.1145/2591796.2591812
+   ODonnell R., 2014, ANAL BOOLEAN FUNCTIO, DOI [DOI 10.1017/CBO9781139814782, 10.1017/CBO9781139814782]
+   Potechin A, 2019, ACM S THEORY COMPUT, P430, DOI 10.1145/3313276.3316374
+   Raghavendra P, 2008, ACM S THEORY COMPUT, P245
+   Razborov A. A., 1990, Automata, Languages and Programming. 17th International Colloquium Proceedings, P249, DOI 10.1007/BFb0032036
+   Saxena RR, 2023, ANN IEEE SYMP FOUND, P855, DOI 10.1109/FOCS57990.2023.00055
+   Saxena Raghuvansh R., 2023, P 2023 ANN ACM SIAM, P4083
+   Schaefer T. J., 1978, Annual ACM Sym- posium on the Theory of Computing, P216, DOI DOI 10.1145/800133.804350
+   Singer Noah, 2021, LIPIcs
+   Singer Noah G., 2023, APPROXIMATION RANDOM
+   Vidick Thomas., 2013, Chicago Journal of Theoretical Computer Science, V2013, P1, DOI [10.4086/cjtcs.2012.001., DOI 10.4086/CJTCS.2012.001]
+   Zhuk D, 2017, ANN IEEE SYMP FOUND, P331, DOI 10.1109/FOCS.2017.38
+NR 74
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 15
+DI 10.1145/3649435
+PG 74
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800009
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Neiger, V
+   Salvy, B
+   Schost, É
+   Villard, G
+AF Neiger, Vincent
+   Salvy, Bruno
+   Schost, Eric
+   Villard, Gilles
+TI Faster Modular Composition
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Symbolic computation; algorithm; complexity; modular composition;
+   multivariate polynomial; multivariate relation
+ID FAST COMPUTATION; POLYNOMIAL FACTORIZATION; LINEAR-EQUATIONS;
+   POWER-SERIES; ALGORITHMS; COMPLEXITY; BASES
+AB A new Las Vegas algorithm is presented for the composition of two polynomials modulo a third one, over an arbitrary field. When the degrees of these polynomials are bounded by n, the algorithm uses O(n(1.43)) field operations, breaking through the 3/2 barrier in the exponent for the first time. The previous fastest algebraic algorithms, due to Brent and Kung in 1978, require O(n(1.63)) field operations in general, and n(3/2+o(1)) field operations in the special case of power series over a field of large enough characteristic. If cubic-time matrix multiplication is used, the new algorithm runs in n(5/3+o(1)) operations, while previous ones run in O(n(2)) operations.
+   Our approach relies on the computation of a matrix of algebraic relations that is typically of small size. Randomization is used to reduce arbitrary input to this favorable situation.
+C1 [Neiger, Vincent] Sorbonne Univ, CNRS, LIP6, F-75005 Paris, France.
+   [Salvy, Bruno; Villard, Gilles] Univ Lyon, CNRS, INRIA, ENS Lyon,UCBL,LIP, F-69364 Lyon 07, France.
+   [Schost, Eric] Univ Waterloo, David R Cheriton Sch Comp Sci, Waterloo, ON N2L 3G1, Canada.
+C3 Sorbonne Universite; Centre National de la Recherche Scientifique
+   (CNRS); Centre National de la Recherche Scientifique (CNRS); Inria;
+   Ecole Normale Superieure de Lyon (ENS de LYON); University of Waterloo
+RP Neiger, V (corresponding author), Sorbonne Univ, CNRS, LIP6, F-75005 Paris, France.
+EM vincent.neiger@lip6.fr; bruno.salvy@inria.fr; eschost@uwaterloo.ca;
+   gilles.villard@cnrs.fr
+OI Salvy, Bruno/0000-0002-4313-0679
+CR Abelard Simon, 2020, ISSAC'20. Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, P14, DOI 10.1145/3373207.3404053
+   Abelard Simon, 2021, HAL Report hal-03110135
+   Alman Josh, 2021, P 2021 ACM SIAM S DI, P522, DOI DOI 10.1137/1.9781611976465.32
+   [Anonymous], 1980, Journal of Algorithms
+   Beckermann B, 1999, ISSAC 99: PROCEEDINGS OF THE 1999 INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND ALGEBRAIC COMPUTATION, P189, DOI 10.1145/309831.309929
+   BECKERMANN B, 1994, SIAM J MATRIX ANAL A, V15, P804, DOI 10.1137/S0895479892230031
+   Bernstein DJ, 1998, J SYMB COMPUT, V26, P339, DOI 10.1006/jsco.1998.0216
+   Bhargava V, 2022, ANN IEEE SYMP FOUND, P221, DOI 10.1109/FOCS54457.2022.00028
+   Bhargava V, 2022, ACM S THEORY COMPUT, P403, DOI 10.1145/3519935.3519968
+   Bini Dario, 1994, Birkhauser, DOI DOI 10.1007/978-1-4612-0265-3
+   Bostan A, 2006, J SYMB COMPUT, V41, P1, DOI 10.1016/j.jsc.2005.07.001
+   Bostan A, 2007, PROCEEDINGS OF THE EIGHTEENTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1012
+   Bostan A., 2008, Proceedings ISSAC'08, P269, DOI [10.1145/1390768.1390806, DOI 10.1145/1390768.1390806]
+   Bostan Alin, 2003, P ISSAC, P37, DOI DOI 10.1145/860854.860870
+   BRENT RP, 1978, J ACM, V25, P581, DOI 10.1145/322092.322099
+   Buck Marshall W., 1992, J. Algebraic Combin., V1, P105, DOI [DOI 10.1023/A:1022468019197, 10.1023/A:1022468019197.3, DOI 10.1023/A:1022468019197.3]
+   Burgisser Peter, 1997, Grundlehren der mathematischen Wissenschaften, V315, DOI DOI 10.1007/978-3-662-03338-8
+   COPPERSMITH D, 1994, MATH COMPUT, V62, P333, DOI 10.2307/2153413
+   DELLADORA J, 1985, LECT NOTES COMPUT SC, V204, P289
+   Duan R, 2023, ANN IEEE SYMP FOUND, P2129, DOI 10.1109/FOCS57990.2023.00130
+   DUMMIT D., 2003, Abstract algebra
+   Eberly W, 2007, ISSAC 2007: PROCEEDINGS OF THE 2007 INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND ALGEBRAIC COMPUTATION, P143
+   Gasca Mariano, 1987, P MATH SURFACES 2, V11, P101
+   Gerhard Jurgen, 2004, Modular Algorithms in Symbolic Summation and Symbolic Integration, DOI DOI 10.1007/B104035
+   Gianni P, 1996, APPL ALGEBR ENG COMM, V7, P1, DOI 10.1007/BF01613611
+   Giesbrecht M, 2021, COMPUT COMPLEX, V30, DOI 10.1007/s00037-020-00204-9
+   Giorgi Pascal, 2003, P ISSAC, P135, DOI [10.1145/860854.860889, DOI 10.1145/860854.860889]
+   Giusti M., 2017, Algorithmes efficaces en calcul formel
+   Huang XH, 1998, J COMPLEXITY, V14, P257, DOI 10.1006/jcom.1998.0476
+   Jeannerod CP, 2020, J SYMB COMPUT, V98, P192, DOI 10.1016/j.jsc.2019.07.011
+   Kailath T., 1980, LINEAR SYSTEMS
+   Kaltofen E., 1991, SPAA '91. 3rd Annual ACM Symposium on Parallel Algorithms and Architectures, P180, DOI 10.1145/113379.113396
+   KALTOFEN E, 1991, LECT NOTES COMPUT SC, V539, P29
+   Kaltofen E., 1992, International System Symposium on Symbolic and Algebraic Computation 92, P342, DOI 10.1145/143242.143350
+   Kaltofen E., 1997, ISSAC 97. Proceedings of the 1997 International Sympsoium on Symbolic and Algebraic Computation, P184, DOI 10.1145/258726.258777
+   Kaltofen E, 2000, J SYMB COMPUT, V29, P891, DOI 10.1006/jsco.2000.0370
+   Kaltofen E, 2005, COMPUT COMPLEX, V13, P91, DOI 10.1007/s00037-004-0185-3
+   Kaltofen E, 1998, MATH COMPUT, V67, P1179, DOI 10.1090/S0025-5718-98-00944-2
+   Kaltofen E, 2013, ACM T ALGORITHMS, V9, DOI 10.1145/2500122
+   Kedlaya KS, 2011, SIAM J COMPUT, V40, P1767, DOI 10.1137/08073408X
+   Kung H. T, 1977, P C THEOR COMP SCI W, P149
+   Labahn G, 2017, J COMPLEXITY, V42, P44, DOI 10.1016/j.jco.2017.03.003
+   LAZARD D, 1985, J SYMB COMPUT, V1, P261, DOI 10.1016/S0747-7171(85)80035-3
+   Le Gall F, 2023, Arxiv, DOI arXiv:2307.06535
+   Gall F, 2018, SODA'18: PROCEEDINGS OF THE TWENTY-NINTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1029
+   Lecerf G, 2008, APPL ALGEBR ENG COMM, V19, P135, DOI 10.1007/s00200-008-0062-4
+   Lipson J D., 1976, 3rd ACM Symposium on Symbolic and Algebraic Computation, P260, DOI DOI 10.1145/800205.806344
+   Mulders T, 2003, J SYMB COMPUT, V35, P377, DOI 10.1016/S0747-7171(02)00139-6
+   Neiger Vincent, 2020, ISSAC'20. Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, P388, DOI 10.1145/3373207.3404032
+   Neiger Vincent, 2016, Bases of relations in one or several variables: fast algorithms and applications
+   Newman M., 1972, INTEGRAL MATRICES
+   Nüsken M, 2004, LECT NOTES COMPUT SC, V3221, P544
+   Paterson M. S., 1973, SIAM Journal on Computing, V2, P60, DOI 10.1137/0202007
+   Poteaux A, 2013, COMPUT COMPLEX, V22, P463, DOI 10.1007/s00037-013-0063-y
+   Poteaux A, 2013, J SYMB COMPUT, V50, P110, DOI 10.1016/j.jsc.2012.05.008
+   Reischert D., 1997, ISSAC 97. Proceedings of the 1997 International Sympsoium on Symbolic and Algebraic Computation, P233, DOI 10.1145/258726.258792
+   RITZMANN P, 1986, THEOR COMPUT SCI, V44, P1, DOI 10.1016/0304-3975(86)90107-6
+   Shoup V, 1999, ISSAC 99: PROCEEDINGS OF THE 1999 INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND ALGEBRAIC COMPUTATION, P53, DOI 10.1145/309831.309859
+   SHOUP V, 1994, J SYMB COMPUT, V17, P371, DOI 10.1006/jsco.1994.1025
+   Shoup V, 1995, J SYMB COMPUT, V20, P363, DOI 10.1006/jsco.1995.1055
+   Umans C, 2008, ACM S THEORY COMPUT, P481
+   Van Barel Marc, 1992, Numer. Algorithms, V3, P451, DOI [10.1007/BF02141952, DOI 10.1007/BF02141952]
+   Van der Hoeven J, 2002, J SYMB COMPUT, V34, P479, DOI 10.1006/jsco.2002.0562
+   van der Hoeven J, 2021, J COMPLEXITY, V67, DOI 10.1016/j.jco.2021.101574
+   van der Hoeven J, 2021, J COMPLEXITY, V62, DOI 10.1016/j.jco.2020.101499
+   van der Hoeven J, 2020, J COMPLEXITY, V60, DOI 10.1016/j.jco.2020.101498
+   van der Hoeven J, 2019, APPL ALGEBR ENG COMM, V30, P509, DOI 10.1007/s00200-019-00389-9
+   van der Hoeven J, 2019, J COMPLEXITY, V55, DOI 10.1016/j.jco.2019.03.002
+   van der Hoeven J, 2017, PROCEEDINGS OF THE 2017 ACM INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND ALGEBRAIC COMPUTATION (ISSAC'17), P445
+   van der Hoeven J, 2018, J COMPLEXITY, V48, P36, DOI 10.1016/j.jco.2018.05.002
+   van der Hoeven Joris, 2021, P ISSAC, P179, DOI [10.1145/3452143.3465531, DOI 10.1145/3452143.3465531]
+   Villard G, 2018, ISSAC'18: PROCEEDINGS OF THE 2018 ACM INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND ALGEBRAIC COMPUTATION, P391, DOI 10.1145/3208976.3209020
+   Villard Gilles, 1997, RR 975 IM IMAG
+   von zur Gathen J., 2013, Modern Computer Algebra, DOI [DOI 10.1017/CBO9781139856065, 10.1017/CBO9781139856065]
+   von zur Gathen J., 1992, COMPUT COMPLEX, V2, P187
+   WIEDEMANN DH, 1986, IEEE T INFORM THEORY, V32, P54, DOI 10.1109/TIT.1986.1057137
+   Williams V., 2024, P 2024 ACM SIAM S DI, P3792, DOI [10.1137/1.9781611977912.134, DOI 10.1137/1.9781611977912.134]
+   Wolovich William A, 1974, Applied Mathematical Sciences, V11, DOI DOI 10.1007/978-1-4612-6392-0
+   Zhou W., 2012, P INT S SYMB ALG COM, P366, DOI [DOI 10.1145/2442829.2442881, 10.1145/2442829.2442881]
+   Zhou W, 2012, J SYMB COMPUT, V47, P793, DOI 10.1016/j.jsc.2011.12.009
+NR 80
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 11
+DI 10.1145/3638349
+PG 79
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800003
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Dinur, I
+   Keller, N
+   Klein, O
+AF Dinur, Itai
+   Keller, Nathan
+   Klein, Ohad
+TI Fine-grained Cryptanalysis: Tight Conditional Bounds for Dense k-SUM and
+   k-XOR
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Fine-grained cryptanalysis; generalized birthday problem; lower bounds;
+   k-sum; discrete fourier analysis
+ID PARITY PROBLEM; ALGORITHMS; NOISE
+AB An average-case variant of the k-SUM conjecture asserts that finding k numbers that sum to 0 in a list of r random numbers, each of the order r(k), cannot be done in much less than r ([k/ 2]) time. However, in the dense regime of parameters, where the list contains more numbers and many solutions exist, the complexity of finding one of them can be significantly improved byWagner's k-tree algorithm. Such algorithms for k-SUM in the dense regime have many applications, notably in cryptanalysis. In this article, assuming the average-case k-SUM conjecture, we prove that known algorithms are essentially optimal for k = 3, 4, 5. For k > 5, we prove the optimality of the k-tree algorithm for a limited range of parameters. We also prove similar results for k-XOR, where the sum is replaced with exclusive or. Our results are obtained by a self-reduction that, given an instance of k-SUM that has a few solutions, produces from it many instances in the dense regime. We solve each of these instances using the dense k-SUM oracle and hope that a solution to a dense instance also solves the original problem. We deal with potentially malicious oracles (that repeatedly output correlated useless solutions) by an obfuscation process that adds noise to the dense instances. Using discrete Fourier analysis, we show that the obfuscation eliminates correlations among the oracle's solutions, even though its inputs are highly correlated.
+C1 [Dinur, Itai] Ben Gurion Univ Negev, 1 Ben Gurion St,POB 653, Beer Sheva, Israel.
+   [Keller, Nathan] Bar Ilan Univ, Max Ve Anna Webb, IL-5292002 Ramat Gan, Israel.
+   [Klein, Ohad] Hebrew Univ Jerusalem, 9 Wolfson Rd, IL-9190401 Jerusalem, Israel.
+C3 Ben Gurion University; Bar Ilan University; Hebrew University of
+   Jerusalem
+RP Dinur, I (corresponding author), Ben Gurion Univ Negev, 1 Ben Gurion St,POB 653, Beer Sheva, Israel.
+EM dinuri@cs.bgu.ac.il; Nathan.Keller@biu.ac.il; ohadkel@gmail.com
+FU Israel Science Foundation [1612/17, 2669/21, 573/16, 1903/20]; European
+   Research Council under the ERC starting grant [757731]; BIU Center for
+   Research in Applied Cryptography and Cyber Security; Israel National
+   Cyber Bureau in the Prime Minister's Office; Clore Scholarship Programme
+FX The first author was supported by the Israel Science Foundation (grant
+   nos. 573/16 and 1903/20). The second author was supported by the
+   European Research Council under the ERC starting grant agreement no.
+   757731 (LightCrypt), by the BIU Center for Research in Applied
+   Cryptography and Cyber Security in conjunction with the Israel National
+   Cyber Bureau in the Prime Minister's Office, and by the Israel Science
+   Foundation (grant nos. 1612/17 and 2669/21). The work was performed when
+   the third author was in Bar-Ilan University and was supported by the
+   Clore Scholarship Programme.
+CR Abboud A, 2014, ANN IEEE SYMP FOUND, P434, DOI 10.1109/FOCS.2014.53
+   Abboud A, 2014, LECT NOTES COMPUT SC, V8572, P39
+   An MarkY., 1996, Log-concave probability distributions: theory and statistical testing
+   Aronov B, 2008, SIAM J COMPUT, V38, P899, DOI 10.1137/060669474
+   Ball M, 2018, LECT NOTES COMPUT SC, V10991, P789, DOI 10.1007/978-3-319-96884-1_26
+   Becker A, 2012, LECT NOTES COMPUT SC, V7237, P520, DOI 10.1007/978-3-642-29011-4_31
+   Benhamouda F, 2021, LECT NOTES COMPUT SC, V12696, P33, DOI 10.1007/978-3-030-77870-5_2
+   Blum A, 2003, J ACM, V50, P506, DOI 10.1145/792538.792543
+   Boucheron S., 2013, Concentration inequalities: a nonasymptotic theory of independence, DOI DOI 10.1093/ACPROF:OSO/9780199535255.001.0001
+   Bouillaguet C, 2018, IACR T SYMMETRIC CRY, V2018, P254, DOI 10.13154/tosc.v2018.i1.254-276
+   Brakerski Zvika, 2021, APPROX/RANDOM, V207, DOI [10.4230/LIPIcs.APPROX/RANDOM.2021.29, DOI 10.4230/LIPICS.APPROX/RANDOM.2021.29]
+   CAMION P, 1991, LECT NOTES COMPUT SC, V547, P39
+   Degwekar A, 2016, LECT NOTES COMPUT SC, V9816, P533, DOI 10.1007/978-3-662-53015-3_19
+   Dinur I, 2019, DESIGN CODE CRYPTOGR, V87, P1897, DOI 10.1007/s10623-018-00594-6
+   Dodis Yevgeniy, 2021, LIPIcs, V199, DOI [10.4230/LIPIcs.ITC.2021.24, DOI 10.4230/LIPICS.ITC.2021.24]
+   Dunkelman O, 2015, J CRYPTOL, V28, P1, DOI 10.1007/s00145-013-9164-7
+   ERDOS P, 1945, B AM MATH SOC, V51, P898, DOI 10.1090/S0002-9904-1945-08454-7
+   GAJENTAAN A, 1995, COMP GEOM-THEOR APPL, V5, P165, DOI 10.1016/0925-7721(95)00022-2
+   Golovnev A, 2020, ACM S THEORY COMPUT, P294, DOI 10.1145/3357713.3384342
+   Howgrave-Graham N, 2010, LECT NOTES COMPUT SC, V6110, P235
+   Impagliazzo R., 1989, Proceedings of the Twenty First Annual ACM Symposium on Theory of Computing, P12, DOI 10.1145/73007.73009
+   Jafargholi Z, 2016, ALGORITHMICA, V74, P326, DOI 10.1007/s00453-014-9946-9
+   Joux Antoin, 2009, Algorithmic Cryptanalysis
+   LaVigne R, 2019, LECT NOTES COMPUT SC, V11694, P605, DOI 10.1007/978-3-030-26954-8_20
+   Leurent G, 2019, LECT NOTES COMPUT SC, V11693, P210, DOI 10.1007/978-3-030-26951-7_8
+   Littlewood JE, 1939, P CAMB PHILOS SOC, V35, P133, DOI 10.1017/S0305004100020855
+   Lu Y, 2004, LECT NOTES COMPUT SC, V3152, P407
+   Lyubashevsky V, 2005, LECT NOTES COMPUT SC, V3624, P378
+   Mendel F, 2008, LECT NOTES COMPUT SC, V5157, P162, DOI 10.1007/978-3-540-85174-5_10
+   Minder L, 2012, J CRYPTOL, V25, P349, DOI 10.1007/s00145-011-9097-y
+   Nederlof J, 2021, ACM S THEORY COMPUT, P1670, DOI 10.1145/3406325.3451024
+   Nikolic I, 2015, LECT NOTES COMPUT SC, V9453, P683, DOI 10.1007/978-3-662-48800-3_28
+   Patrascu M, 2010, ACM S THEORY COMPUT, P603
+   Pettie Seth, 2015, P FIN GRAIN COMPL AL
+   Wagner D, 2002, LECT NOTES COMPUT SC, V2442, P288
+   Williams V.V., 2019, P ICM, P3447, DOI DOI 10.1142/9789813272880_0188
+   Williams VV, 2013, SIAM J COMPUT, V42, P831, DOI 10.1137/09076619X
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD JUN
+PY 2024
+VL 71
+IS 3
+DI 10.1145/3653014
+PG 41
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XG0Z2
+UT WOS:001260425800007
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Huang, SE
+   Pettie, S
+   Zhu, LQ
+AF Huang, Shang-En
+   Pettie, Seth
+   Zhu, Leqi
+TI Byzantine Agreement with Optimal Resilience via Statistical Fraud
+   Detection
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Byzantine agreement; asynchronous network; full information model;
+   strong adversary; fraud detection
+ID DISTRIBUTED CONSENSUS; LEADER ELECTION; LOWER BOUNDS; IMPOSSIBILITY
+AB Since the mid-1980s it has been known that Byzantine Agreement can be solved with probability 1 asynchronously, even against an omniscient, computationally unbounded adversary that can adaptively corrupt up to f < n/3 parties. Moreover, the problem is insoluble with f >= n/3 corruptions. However, Bracha's [13] 1984 protocol (see also Ben-Or [8]) achieved f < n/3 resilience at the cost of exponential expected latency 2(Theta(n)), a bound that has never been improved in this model with f = left perpendicular (n - 1)/3 right perpendicular corruptions.
+   In this article, we prove that Byzantine Agreement in the asynchronous, full information model can be solved with probability 1 against an adaptive adversary that can corrupt f < n/3 parties, while incurring only polynomial latency with high probability. Our protocol follows an earlier polynomial latency protocol of King and Saia [33, 34], which had suboptimal resilience, namely f approximate to n/10(9) [33, 34].
+   Resilience f = (n-1)/3 is uniquely difficult, as this is the point at which the influence of the Byzantine and honest players are of roughly equal strength. The core technical problem we solve is to design a collective coin-flipping protocol that eventually lets us flip a coin with an unambiguous outcome. In the beginning, the influence of the Byzantine players is too powerful to overcome, and they can essentially fix the coin's behavior at will. We guarantee that after just a polynomial number of executions of the coin-flipping protocol, either (a) the Byzantine players fail to fix the behavior of the coin (thereby ending the game) or (b) we can "blacklist" players such that the blacklisting rate for Byzantine players is at least as large as the blacklisting rate for good players. The blacklisting criterion is based on a simple statistical test of fraud detection.
+C1 [Huang, Shang-En; Pettie, Seth; Zhu, Leqi] Univ Michigan, Comp Sci & Engn, 2260 Hayward St, Ann Arbor, MI 48109 USA.
+C3 University of Michigan System; University of Michigan
+RP Huang, SE (corresponding author), Univ Michigan, Comp Sci & Engn, 2260 Hayward St, Ann Arbor, MI 48109 USA.
+EM huangaul@bc.edu; pettie@umich.edu; zhu.jimmy@gmail.com
+OI Pettie, Seth/0000-0002-0495-3904
+FU NSF [CCF-1815316, CCF-2221980]
+FX This article is derived from extended abstracts presented at STOC 2022
+   [28] and SODA 2023 [29]. This work was supported by NSF Grants
+   CCF-1815316 and CCF-2221980.
+CR Abraham I, 2008, PODC'08: PROCEEDINGS OF THE 27TH ANNUAL ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED COMPUTING, P405, DOI 10.1145/1400751.1400804
+   AJTAI M, 1993, COMBINATORICA, V13, P129, DOI 10.1007/BF01303199
+   ALON N, 1993, SIAM J COMPUT, V22, P403, DOI 10.1137/0222030
+   Aspnes J, 1998, J ACM, V45, P415, DOI 10.1145/278298.278304
+   Attiya H, 2008, J ACM, V55, DOI 10.1145/1411509.1411510
+   Attiya Hagit, 2004, Distributed Computing, V19
+   Bangalore L, 2020, J ACM, V67, DOI 10.1145/3388788
+   Ben-Or M., 1985, 26th Annual Symposium on Foundations of Computer Science (Cat. No.85CH2224-4), P408, DOI 10.1109/SFCS.1985.15
+   Ben-Or M., 2006, STOC'06. Proceedings of the 38th Annual ACM Symposium on Theory of Computing, P179, DOI 10.1145/1132516.1132543
+   Ben-Or M., 1983, P 2 ANN ACM SIGACT S, P27, DOI 10.1145/800221.806707
+   BERMAN P, 1993, FTCS-23 - TWENTY-THIRD INTERNATIONAL SYMPOSIUM ON FAULT-TOLERANT COMPUTING : DIGEST OF PAPERS, P412, DOI 10.1109/FTCS.1993.627344
+   Boppana RB, 2000, SIAM J COMPUT, V29, P1304, DOI 10.1137/S0097539796307182
+   BRACHA G, 1987, INFORM COMPUT, V75, P130, DOI 10.1016/0890-5401(87)90054-X
+   BRACHA G, 1985, J ACM, V32, P824, DOI 10.1145/4221.214134
+   Cachin C, 2005, J CRYPTOL, V18, P219, DOI 10.1007/s00145-005-0318-0
+   Canetti R., 1993, Proceedings of the Twenty-Fifth Annual ACM Symposium on the Theory of Computing, P42, DOI 10.1145/167088.167105
+   CHOR B, 1985, IEEE T SOFTWARE ENG, V11, P531, DOI 10.1109/TSE.1985.232245
+   Dubhashi DP, 2009, CONCENTRATION OF MEASURE FOR THE ANALYSIS OF RANDOMIZED ALGORITHMS, P1, DOI 10.1017/CBO9780511581274
+   DWORK C, 1988, J ACM, V35, P288, DOI 10.1145/42282.42283
+   Feige U., 1999, 40th Annual Symposium on Foundations of Computer Science (Cat. No.99CB37039), P142, DOI 10.1109/SFFCS.1999.814586
+   Feldman P, 1997, SIAM J COMPUT, V26, P873, DOI 10.1137/S0097539790187084
+   FISCHER MJ, 1986, DISTRIB COMPUT, V1, P26, DOI 10.1007/BF01843568
+   FISCHER MJ, 1982, INFORM PROCESS LETT, V14, P183, DOI 10.1016/0020-0190(82)90033-3
+   FISCHER MJ, 1985, J ACM, V32, P374, DOI 10.1145/3149.214121
+   Garay JA, 1998, SIAM J COMPUT, V27, P247, DOI 10.1137/S0097539794265232
+   Goldwasser S, 2006, ANN IEEE SYMP FOUND, P15
+   Haitner I, 2020, ANN IEEE SYMP FOUND, P1268, DOI 10.1109/FOCS46700.2020.00120
+   Huang SE, 2022, ACM S THEORY COMPUT, P502, DOI 10.1145/3519935.3520015
+   Huang Shang-En, 2023, P 34 ACM SIAM S DISC, P4335
+   Kahn J., 1988, 29th Annual Symposium on Foundations of Computer Science (IEEE Cat. No.88CH2652-6), P68, DOI 10.1109/SFCS.1988.21923
+   Kapron BM, 2010, ACM T ALGORITHMS, V6, DOI 10.1145/1824777.1824788
+   Kimmett Ben, 2020, Improvement and partial simulation of King& Saia's expected-polynomial-time Byzantine agreement algorithm
+   King V, 2016, J ACM, V63, DOI 10.1145/2837019
+   King Valerie, 2018, arXiv
+   LAMPORT L, 1982, ACM T PROGR LANG SYS, V4, P382, DOI 10.1145/357172.357176
+   Lewko A, 2011, LECT NOTES COMPUT SC, V6950, P348, DOI 10.1007/978-3-642-24100-0_35
+   Lynch N.A., 1996, Distributed Algorithms
+   PEASE M, 1980, J ACM, V27, P228, DOI 10.1145/322186.322188
+   Rabin M. O., 1983, 24th Annual Symposium on Foundations of Computer Science, P403, DOI 10.1109/SFCS.1983.48
+   Russell A, 2002, SIAM J COMPUT, V31, P1645, DOI 10.1137/S0097539700376007
+   Saks Michael E., 1989, SIAM Journal on Discrete Mathematics, V2, P240, DOI [10.1137/0402020, DOI 10.1137/0402020]
+   Toueg S., 1984, Proceedings of the third annual ACM symposium on Principles of distributed computing, PODC'84, P163, DOI DOI 10.1145/800222.806744
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 12
+DI 10.1145/3639454
+PG 37
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800005
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Cohen-Addad, V
+   Das, D
+   Kipouridis, E
+   Parotsidis, N
+   Thorup, M
+AF Cohen-Addad, Vincent
+   Das, Debarati
+   Kipouridis, Evangelos
+   Parotsidis, Nikos
+   Thorup, Mikkel
+TI Fitting Distances by Tree Metrics Minimizing the Total Error within a
+   Constant Factor
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Approximation algorithms; phylogenic reconstructions; hierarchical
+   clustering; tree metrics; ultrametrics
+ID APPROXIMATION; ALGORITHMS; TAXONOMY
+AB We consider the numerical taxonomy problem of fitting a positive distance function D : ((2) (S)) -> R-> 0 by a tree metric. We want a treeT with positive edge weights and including S among the vertices so that their distances in T match those in D. A nice application is in evolutionary biology where the tree T aims to approximate thebranching process leading to the observed distances in D [Cavalli-Sforza and Edwards 1967]. We consider the total error, that is, the sum of distance errors over all pairs of points. We present a deterministic polynomial time algorithm minimizing the total error within a constant factor. We can do this both for general trees and for the special case of ultrametrics with a root having the same distance to all vertices in S.
+   The problems are APX-hard, so a constant factor is the best we can hope for in polynomial time. The best previous approximation factor was O((logn)(log logn)) by Ailon and Charikar [2005], who wrote "determining whether an O(1) approximation can be obtained is a fascinating question."
+C1 [Cohen-Addad, Vincent; Parotsidis, Nikos] Google Res, Zurich, Switzerland.
+   [Das, Debarati; Kipouridis, Evangelos; Thorup, Mikkel] Univ Copenhagen, Dept Comp Sci, Copenhagen, Denmark.
+C3 Google Incorporated; University of Copenhagen
+RP Cohen-Addad, V (corresponding author), Google Res, Zurich, Switzerland.
+EM cohenaddad@google.com; debaratix710@gmail.com; kipouridis@di.ku.dk;
+   nikosp@google.com; mikkel2thorup@gmail.com
+OI Kipouridis, Evangelos/0000-0002-5830-5830; Thorup,
+   Mikkel/0000-0001-5237-1709; Das, Debarati/0000-0003-2232-4279
+FU Basic Algorithms Research Copenhagen (BARC), Denmark [16582]; European
+   Union [801199]
+FX Research of Debarati Das, Evangelos Kipouridis and Mikkel Thorup is
+   supported by VILLUM Investigator Grant 16582, Basic Algorithms Research
+   Copenhagen (BARC), Denmark. Evangelos Kipouridis has received funding
+   from the European Union's Horizon 2020 research and innovation programme
+   under the Marie Sklodowska-Curie grant agreement No. 801199.
+CR Abboud A, 2019, ADV NEUR IN, V32
+   Agarwala R, 1999, SIAM J COMPUT, V28, P1073, DOI 10.1137/S0097539795296334
+   Ahmadian S, 2020, PR MACH LEARN RES, V108, P3121
+   Ailon N, 2011, SIAM J COMPUT, V40, P1275, DOI 10.1137/100806886
+   Ailon N, 2008, J ACM, V55, DOI 10.1145/1411509.1411513
+   Alon N., 2020, P MACHINE LEARNING R, V125, P153
+   Balcan MF, 2008, ACM S THEORY COMPUT, P671
+   Bansal N, 2004, MACH LEARN, V56, P89, DOI 10.1023/B:MACH.0000033116.57574.95
+   Bartal Y, 1996, AN S FDN CO, P184, DOI 10.1109/SFCS.1996.548477
+   Byrka J, 2014, P 26 ANN ACM SIAM S, P737
+   Carlsson G, 2010, J MACH LEARN RES, V11, P1425
+   CAVALLISFORZA LL, 1967, AM J HUM GENET, V19, P233, DOI 10.2307/2406616
+   CAVENDER JA, 1978, MATH BIOSCI, V40, P271, DOI 10.1016/0025-5564(78)90089-5
+   Chami A., 2020, Advances in Neural Information Processing Systems, P15065
+   Charikar M, 2005, J COMPUT SYST SCI, V71, P360, DOI 10.1016/j.jcss.2004.10.012
+   Charikar M, 2019, 22 INT C ARTIFICIAL, V89
+   Charikar M, 2017, PROCEEDINGS OF THE TWENTY-EIGHTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P841
+   Charikar Moses, 2019, P 30 ANN ACM SIAM S, P2291, DOI [DOI 10.1137/1.9781611975482.139, 10.1137/1.9781611975482.139]
+   Chawla S, 2006, COMPUT COMPLEX, V15, P94, DOI 10.1007/s00037-006-0210-9
+   Chawla S, 2015, ACM S THEORY COMPUT, P219, DOI 10.1145/2746539.2746604
+   Cochez M, 2015, SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P505, DOI 10.1145/2723372.2751521
+   Cohen-Addad V, 2022, ANN IEEE SYMP FOUND, P651, DOI 10.1109/FOCS54457.2022.00068
+   Cohen-Addad V, 2020, PR MACH LEARN RES, V119
+   Cohen-Addad V, 2019, J ACM, V66, DOI 10.1145/3321386
+   Cohen-Addad V, 2017, ADV NEUR IN, V30
+   Cohen-Addad Vincent, 2021, ICML
+   Dasgupta S, 2016, ACM S THEORY COMPUT, P118, DOI 10.1145/2897518.2897527
+   DAY WHE, 1987, B MATH BIOL, V49, P461, DOI 10.1007/BF02458863
+   Dhamdhere K, 2004, LECT NOTES COMPUT SC, V3122, P96
+   Fakcharoenphol J, 2004, J COMPUT SYST SCI, V69, P485, DOI 10.1016/j.jcss.2004.04.01
+   Fan CL, 2018, SODA'18: PROCEEDINGS OF THE TWENTY-NINTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P196
+   Fan Chenglin, 2020, SWAT., V162
+   FARACH M, 1995, ALGORITHMICA, V13, P155, DOI 10.1007/BF01188585
+   Farach M, 1999, J ACM, V46, P437, DOI 10.1145/320211.320212
+   FARRIS JS, 1972, AM NAT, V106, P645, DOI 10.1086/282802
+   Gilbert AC, 2018, ANN ALLERTON CONF, P313, DOI 10.1109/ALLERTON.2018.8635955
+   Gilbert AC, 2017, ANN ALLERTON CONF, P612, DOI 10.1109/ALLERTON.2017.8262793
+   GONZALEZ TF, 1985, THEOR COMPUT SCI, V38, P293, DOI 10.1016/0304-3975(85)90224-5
+   Guha S, 1999, J ALGORITHMS, V31, P228, DOI 10.1006/jagm.1998.0993
+   Harb B, 2005, LECT NOTES COMPUT SC, V3624, P123
+   Henzinger MR, 1999, ALGORITHMICA, V24, P1, DOI 10.1007/PL00009268
+   Kleinberg J., 2006, Algorithm Design
+   Leighton T, 1999, J ACM, V46, P787, DOI 10.1145/331524.331526
+   Ma B, 1999, J COMB OPTIM, V3, P213, DOI 10.1023/A:1009837726913
+   Moseley B, 2017, ADV NEUR IN, V30
+   Mossel Elchanan, 2005, P 37 ANN ACM S THEOR, P366
+   Roy A., 2016, ADV NEURAL INFORM PR, V29, P2316
+   Sidiropoulos A, 2017, PROCEEDINGS OF THE TWENTY-EIGHTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P670
+   Sneath Peter H. A., 1963, Numerical Taxonomy. The Principles and Practice of Numerical Classification
+   SNEATH PHA, 1962, NATURE, V193, P855, DOI 10.1038/193855a0
+   Sonthalia Rishi, 2020, NeurIPS
+   ToddWareham Harold, 1993, Master's thesis
+   van Zuylen A, 2009, MATH OPER RES, V34, P594, DOI 10.1287/moor.1090.0385
+   WATERMAN MS, 1977, J THEOR BIOL, V64, P199, DOI 10.1016/0022-5193(77)90351-4
+NR 54
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 10
+DI 10.1145/3639453
+PG 41
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800004
+OA hybrid, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Yamakawa, T
+   Zhandry, M
+AF Yamakawa, Takashi
+   Zhandry, Mark
+TI Verifiable Quantum Advantage without Structure
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Quantum advantage; random oracle; NP problem
+ID LOWER BOUNDS; REED-SOLOMON; COMPLEXITY; COLLISION; ALGORITHMS; CODES
+AB We show the following hold, unconditionally unless otherwise stated, relative to a random oracle: - There are NP search problems solvable by quantum polynomial-time (QPT) machines but not classical probabilistic polynomial-time (PPT) machines. - There exist functions that are one-way, and even collision resistant, against classical adversaries but are easily inverted quantumly. Similar counterexamples exist for digital signatures and CPA-secure public key encryption (the latter requiring the assumption of a classically CPA-secure encryption scheme). Interestingly, the counterexample does not necessarily extend to the case of other cryptographic objects such as PRGs. - There are unconditional publicly verifiable proofs of quantumness with the minimal rounds of interaction: for uniform adversaries, the proofs are non-interactive, whereas for non-uniform adversaries the proofs are two message public coin. - Our results do not appear to contradict the Aaronson-Ambanis conjecture. Assuming this conjecture, there exist publicly verifiable certifiable randomness, again with the minimal rounds of interaction. By replacing the random oracle with a concrete cryptographic hash function such as SHA2, we obtain plausibleMinicrypt instantiations of the above results. Previous analogous results all required substantial structure, either in terms of highly structured oracles and/or algebraic assumptions in Cryptomania and beyond.
+C1 [Yamakawa, Takashi] NTT Corp, Social Informat Labs, Musashino, Tokyo, Japan.
+   [Zhandry, Mark] NTT Res Inc, Sunnyvale, CA USA.
+C3 Nippon Telegraph & Telephone Corporation
+RP Yamakawa, T (corresponding author), NTT Corp, Social Informat Labs, Musashino, Tokyo, Japan.
+EM takashi.yamakawa.ga@hco.ntt.co.jp; mzhandry@gmail.com
+CR Aaronson S, 2004, J ACM, V51, P595, DOI 10.1145/1008731.1008735
+   Aaronson S, 2011, ACM S THEORY COMPUT, P333
+   Aaronson Scott, 2014, Theory of Computing, V10, P133, DOI DOI 10.4086/TOC.2014.V010A006
+   Adleman L., 1979, 20th Annual Symposium of Foundations of Computer Science, P55, DOI 10.1109/SFCS.1979.2
+   Ambainis A, 2014, ANN IEEE SYMP FOUND, P474, DOI 10.1109/FOCS.2014.57
+   Amos R, 2020, ACM S THEORY COMPUT, P255, DOI 10.1145/3357713.3384304
+   Arora AS, 2023, PROCEEDINGS OF THE 55TH ANNUAL ACM SYMPOSIUM ON THEORY OF COMPUTING, STOC 2023, P1111, DOI 10.1145/3564246.3585153
+   Austrin P, 2022, LECT NOTES COMPUT SC, V13508, P165, DOI 10.1007/978-3-031-15979-4_6
+   Babai L, 2009, ACM S THEORY COMPUT, P55
+   Beals R, 1998, ANN IEEE SYMP FOUND, P352, DOI 10.1109/SFCS.1998.743485
+   Beals R, 2001, J ACM, V48, P778, DOI 10.1145/502090.502097
+   Bellare Mihir, 1993, P 1 ACM C COMP COMM, P62, DOI DOI 10.1145/168588.168596
+   Bennett CH, 1997, SIAM J COMPUT, V26, P1510, DOI 10.1137/S0097539796300933
+   Bernstein E., 1993, Proceedings of the Twenty-Fifth Annual ACM Symposium on the Theory of Computing, P11, DOI 10.1145/167088.167097
+   Bitansky N, 2018, ACM S THEORY COMPUT, P671, DOI 10.1145/3188745.3188870
+   Boneh D, 2011, LECT NOTES COMPUT SC, V7073, P41, DOI 10.1007/978-3-642-25385-0_3
+   Brakerski BKVV20 Zvika, 2020, 15 C THEORY QUANTUM, P4, DOI DOI 10.4230/LIPICS.TQC.2020.8
+   Brakerski Z, 2018, ANN IEEE SYMP FOUND, P320, DOI 10.1109/FOCS.2018.00038
+   Bremner MJ, 2011, P ROY SOC A-MATH PHY, V467, P459, DOI 10.1098/rspa.2010.0301
+   Buhrman H, 2002, THEOR COMPUT SCI, V288, P21, DOI 10.1016/S0304-3975(01)00144-X
+   Canetti R., 1998, Proceedings of the Thirtieth Annual ACM Symposium on Theory of Computing, P209, DOI 10.1145/276698.276741
+   Chia NH, 2020, LECT NOTES COMPUT SC, V12552, P181, DOI 10.1007/978-3-030-64381-2_7
+   Chiesa A, 2019, LECT NOTES COMPUT SC, V11892, P1, DOI 10.1007/978-3-030-36033-7_1
+   Childs Andrew M., 2003, P 35 ACM STOC, P59, DOI [10.1145/780542.780552, DOI 10.1145/780542.780552]
+   CHOI MD, 1983, AM MATH MON, V90, P301, DOI 10.2307/2975779
+   Chung KM, 2020, ANN IEEE SYMP FOUND, P673, DOI 10.1109/FOCS46700.2020.00068
+   Coretti S, 2018, LECT NOTES COMPUT SC, V10820, P227, DOI 10.1007/978-3-319-78381-9_9
+   de Beaudrap JN, 2002, ALGORITHMICA, V34, P449, DOI 10.1007/s00453-002-0978-1
+   Don J, 2019, LECT NOTES COMPUT SC, V11693, P356, DOI 10.1007/978-3-030-26951-7_13
+   Guruswami V, 1999, IEEE T INFORM THEORY, V45, P1757, DOI 10.1109/18.782097
+   Guruswami V, 2008, IEEE T INFORM THEORY, V54, P135, DOI 10.1109/TIT.2007.911222
+   Haitner I, 2015, LECT NOTES COMPUT SC, V9216, P173, DOI 10.1007/978-3-662-48000-7_9
+   Hallgren Sean, 2002, P 34 ACM STOC, P653, DOI [10.1145/509907.510001, DOI 10.1145/509907.510001]
+   Hästad J, 1999, SIAM J COMPUT, V28, P1364, DOI 10.1137/S0097539793244708
+   Hhan M, 2019, LECT NOTES COMPUT SC, V11921, P584, DOI 10.1007/978-3-030-34578-5_21
+   Holmgren J, 2021, ACM S THEORY COMPUT, P750, DOI 10.1145/3406325.3451116
+   IMPAGLIAZZO R, 1995, STRUCT COMPL TH CONF, P134, DOI 10.1109/SCT.1995.514853
+   Impagliazzo R., 1989, Proceedings of the Twenty First Annual ACM Symposium on Theory of Computing, P44, DOI 10.1145/73007.73012
+   Katsumata Shuichi, 2018, Advances in Cryptology - ASIACRYPT 2018. 24th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings: Lecture Notes in Computer Science (LNCS 11273), P253, DOI 10.1007/978-3-030-03329-3_9
+   Kiltz E, 2018, LECT NOTES COMPUT SC, V10822, P552, DOI 10.1007/978-3-319-78372-7_18
+   Komargodski I, 2018, LECT NOTES COMPUT SC, V10821, P162, DOI 10.1007/978-3-319-78375-8_6
+   Krachkovsky VY, 2003, IEEE T INFORM THEORY, V49, P2975, DOI 10.1109/TIT.2003.819333
+   Lidl R., 1997, ENCY MATH ITS APPL, V20
+   Lindell Yehuda., 2010, Introduction to Coding Theory Lecture Notes
+   Liu QP, 2019, LECT NOTES COMPUT SC, V11693, P326, DOI 10.1007/978-3-030-26951-7_12
+   Liu Qipeng, 2023, P EUROCRYPT 2023
+   Mitzenmacher M, 2008, PROCEEDINGS OF THE NINETEENTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P746
+   Morimae Tomoyuki, 2022, Report 2022/1102
+   Padhye Sahadeo, 2006, Report 2006/191
+   Regev Oded, 2005, P 37 ANN ACM S THEOR, DOI [10.1145/1568318.1568324, DOI 10.1145/1568318.1568324]
+   Rudra Atri, 2007, Ph. D. Dissertation
+   Saito T, 2018, LECT NOTES COMPUT SC, V10822, P520, DOI 10.1007/978-3-319-78372-7_17
+   SHOR PW, 1994, AN S FDN CO, P124
+   SIMON DR, 1994, AN S FDN CO, P116, DOI 10.1137/S0097539796298637
+   Targhi EE, 2016, LECT NOTES COMPUT SC, V9986, P192, DOI 10.1007/978-3-662-53644-5_8
+   Unruh D, 2007, LECT NOTES COMPUT SC, V4622, P205
+   Van Dam W, 2006, SIAM J COMPUT, V36, P763, DOI 10.1137/S009753970343141X
+   Yamakawa T, 2021, LECT NOTES COMPUT SC, V12697, P568, DOI 10.1007/978-3-030-77886-6_20
+   Yuen H, 2014, QUANTUM INF COMPUT, V14, P1089
+   Zhandry M, 2015, QUANTUM INF COMPUT, V15, P557
+   Zhandry M, 2012, LECT NOTES COMPUT SC, V7417, P758
+NR 61
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD JUN
+PY 2024
+VL 71
+IS 3
+DI 10.1145/3658665
+PG 50
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XG0Z2
+UT WOS:001260425800004
+OA Bronze, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Khamis, MA
+   Ngo, HQ
+   Pichler, R
+   Suciu, D
+   Wang, YR
+AF Khamis, Mahmoud Abo
+   Ngo, Hung Q.
+   Pichler, Reinhard
+   Suciu, Dan
+   Wang, Yisu Remy
+TI Convergence of datalog over (Pre-) Semirings
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+DE Datalog; semirings; fixpoint
+ID FIXPOINT SEMANTICS; FOUNDED SEMANTICS; POWER; ANALYTICS; NEGATION;
+   QUERIES; ALGEBRA
+AB Recursive queries have been traditionally studied in the framework of datalog, a language that restricts recursion to monotone queries over sets, which is guaranteed to converge in polynomial time in the size of the input. But modern big data systems require recursive computations beyond the Boolean space. In this article, we study the convergence of datalog when it is interpreted over an arbitrary semiring. We consider an ordered semiring, define the semantics of a datalog program as a least fixpoint in this semiring, and study the number of steps required to reach that fixpoint, if ever. We identify algebraic properties of the semiring that correspond to certain convergence properties of datalog programs. Finally, we describe a class of ordered semirings on which one can use the semi-naive evaluation algorithm on any datalog program.
+C1 [Khamis, Mahmoud Abo; Ngo, Hung Q.] Relat AI, 2120 Univ Ave, Berkeley, CA 94704 USA.
+   [Pichler, Reinhard] TU Wien, Vienna, Austria.
+   [Suciu, Dan; Wang, Yisu Remy] Univ Washington, Seattle, WA USA.
+   [Pichler, Reinhard] TU Wien, Inst Logic & Computat, Fac Informat, Database & Artificial Intelligence Grp, A-1040 Vienna, Austria.
+   [Suciu, Dan; Wang, Yisu Remy] Univ Washington, Dept Comp Sci & Engn, Box 352350, Seattle, WA 98195 USA.
+C3 Technische Universitat Wien; University of Washington; University of
+   Washington Seattle; Technische Universitat Wien; University of
+   Washington; University of Washington Seattle
+RP Khamis, MA (corresponding author), Relat AI, 2120 Univ Ave, Berkeley, CA 94704 USA.
+EM mahmoudabo@gmail.com; hung.q.ngo@gmail.com; pichler@dbai.tuwien.ac.at;
+   suciu@cs.washington.edu; remywang@cs.washington.edu
+RI Abo Khamis, Mahmoud/ABB-6102-2020
+OI Abo Khamis, Mahmoud/0000-0003-3894-6494
+FU NSF [IIS 1907997, IIS 1954222]; Austrian Science Fund (FWF) [P30930];
+   Vienna Science and Technology Fund (WWTF) [10.47379/ICT2201]
+FX Suciu and Wang were partially supported by NSF IIS 1907997 and NSF IIS
+   1954222. Pichler was supported by the Austrian Science Fund (FWF):P30930
+   and by the Vienna Science and Technology Fund (WWTF) [10.47379/ICT2201].
+CR Abadi M, 2016, PROCEEDINGS OF OSDI'16: 12TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P265
+   Abiteboul S., 1995, Foundations of Databases, DOI DOI 10.5555/551350
+   Aji SM, 2000, IEEE T INFORM THEORY, V46, P325, DOI 10.1109/18.825794
+   Arntzenius M, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3371090
+   BACKHOUSE RC, 1975, J I MATH APPL, V15, P161
+   Brinke Sophie, 2023, CoRR abs/2308.04910
+   Carre B., 1979, Graphs and Networks
+   CODD EF, 1970, COMMUN ACM, V13, P377, DOI 10.1145/357980.358007
+   Condie T, 2018, THEOR PRACT LOG PROG, V18, P806, DOI 10.1017/S1471068418000418
+   COUSOT P, 1992, LECT NOTES COMPUT SC, V631, P269, DOI 10.1007/3-540-55844-6_142
+   Cousot P., 1977, Conference Record of the Fourth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P238, DOI [10.1145/512950.512973, DOI 10.1145/512950.512973]
+   Creignou Nadia, 2008, Lecture Notes in Computer Science, V5250, DOI [10.1007/978-3-540-92800-3, DOI 10.1007/978-3-540-92800-3]
+   Dannert Katrin M., 2021, 29 EACSL ANN C COMP, V17, P1, DOI [10.4230/LIPIcs. CSL.2021.17, DOI 10.4230/LIPICS.CSL.2021.17]
+   Das A, 2019, ELECTRON P THEOR COM, P273, DOI 10.4204/EPTCS.306.32
+   Davey B. A., 1990, INTRO LATTICES ORDER
+   Dechter R., 1997, Constraints, V2, P51, DOI 10.1023/A:1009796922698
+   Esparza J, 2010, J ACM, V57, DOI 10.1145/1857914.1857917
+   Fitting M., 1991, Journal of Logic and Computation, V1, P797, DOI 10.1093/logcom/1.6.797
+   Fitting M, 2002, THEOR COMPUT SCI, V278, P25, DOI 10.1016/S0304-3975(00)00330-3
+   FITTING M, 1991, J LOGIC PROGRAM, V11, P91, DOI 10.1016/0743-1066(91)90014-G
+   FITTING M, 1993, J LOGIC PROGRAM, V17, P197, DOI 10.1016/0743-1066(93)90031-B
+   Fitting M., 1985, Journal of Logic Programming, V2, P295, DOI 10.1016/S0743-1066(85)80005-4
+   FLOYD RW, 1962, COMMUN ACM, V5, P345, DOI 10.1145/367766.368168
+   GANGULY S, 1995, J COMPUT SYST SCI, V51, P244, DOI 10.1006/jcss.1995.1064
+   Ganguly S., 1991, Proceedings of the Tenth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, P154, DOI 10.1145/113413.113427
+   Gelfond M., 1988, Proceedings of the Fifth International Conference and Symposium, Seattle, Washington, August 1519, 1988 (2 Volumes), V2, P1070
+   GONDRAN M, 1979, DISCRETE MATH, V25, P33, DOI 10.1016/0012-365X(79)90150-X
+   Gondran M., 1975, Rev. Francaise Automat. Informat. Recherche Operationnelle Ser. Verte, V9, P77
+   Gondran M, 2008, OPER RES COMPUT SCI, V41, P1
+   Greco S, 2001, THEOR PRACT LOG PROG, V1, P381, DOI 10.1017/S1471068401001090
+   Greco S., 1992, Proceedings of the Eleventh ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, P105, DOI 10.1145/137097.137836
+   Greco S, 1995, LECT NOTES COMPUT SC, V893, P82
+   Green TJ, 2012, FOUND TRENDS DATABAS, V5, P105, DOI 10.1561/1900000017
+   Green T. J., 2007, PODS, P31, DOI DOI 10.1145/1265530.1265535
+   Gu JQ, 2019, INT CONF MANAGE DATA, P467, DOI 10.1145/3299869.3324959
+   Gunawardena Jeremy, 1998, Publications of the Newton Institute, V11, P1, DOI [10.1017/CBO9780511662508.003, DOI 10.1017/CBO9780511662508.003]
+   Hopkins M. W., 1999, Proceedings. 14th Symposium on Logic in Computer Science (Cat. No. PR00158), P394, DOI 10.1109/LICS.1999.782634
+   Jordan H, 2016, LECT NOTES COMPUT SC, V9780, P422, DOI 10.1007/978-3-319-41540-6_23
+   KAM JB, 1976, J ACM, V23, P158, DOI 10.1145/321921.321938
+   Khamis MA, 2022, PROCEEDINGS OF THE 41ST ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS (PODS '22), P105, DOI 10.1145/3517804.3524140
+   Khamis MA, 2016, PODS'16: PROCEEDINGS OF THE 35TH ACM SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P13, DOI 10.1145/2902251.2902280
+   Kleene S., 1956, AUTOMATA STUDIES, P3
+   Koch C, 2014, VLDB J, V23, P253, DOI 10.1007/s00778-013-0348-4
+   Kohlas J, 2008, ARTIF INTELL, V172, P1360, DOI 10.1016/j.artint.2008.03.003
+   Kohlas Jurg, 2003, Information Algebras: Generic Structures for Inference
+   KOLAITIS PG, 1991, J COMPUT SYST SCI, V43, P125, DOI 10.1016/0022-0000(91)90033-2
+   KOLAITIS PG, 1991, INFORM COMPUT, V90, P50, DOI 10.1016/0890-5401(91)90059-B
+   Kuich W., 1987, Automata, Languages and Programming. 14th International Colloquium Proceedings, P212
+   Kuich W., 1997, Handbook of Formal Languages, V1, P609, DOI DOI 10.1007/978-3-642-59136-59
+   Lehmann D. J., 1977, Theoretical Computer Science, V4, P59, DOI 10.1016/0304-3975(77)90056-1
+   Leone N, 2006, ACM T COMPUT LOG, V7, P499, DOI 10.1145/1149114.1149117
+   Libkin Lib04 L., 2004, TEXT THEORET COMP S
+   LIPTON RJ, 1979, SIAM J NUMER ANAL, V16, P346, DOI 10.1137/0716027
+   LIPTON RJ, 1980, SIAM J COMPUT, V9, P615, DOI 10.1137/0209046
+   Liu YHA, 2022, J LOGIC COMPUT, V32, P1659, DOI [10.1007/978-3-030-93100-1_11, 10.1093/logcom/exac072]
+   Liu YHA, 2020, J LOGIC COMPUT, V30, P1609, DOI 10.1093/logcom/exaa056
+   Luttenberger M, 2016, INFORM COMPUT, V246, P43, DOI 10.1016/j.ic.2015.11.008
+   Maier David., 2018, Declarative Logic Programming: Theory, Systems, and Applications, P3, DOI DOI 10.1145/3191315.3191317
+   Mazuran M, 2013, VLDB J, V22, P471, DOI 10.1007/s00778-012-0299-1
+   McSherry Frank, 2022, Recursion in Materialize
+   Nielson Flemming, 1999, Principles of program analysis, DOI DOI 10.1007/978-3-662-03811-6
+   Nocedal J., 1999, Numerical optimization
+   PARIKH RJ, 1966, J ACM, V13, P570, DOI 10.1145/321356.321364
+   PILLING DL, 1973, J LOND MATH SOC, V6, P663
+   Przymusinski T., 1990, Fundamenta Informaticae, V13, P445
+   Przymusinski T. C., 1989, Proceedings of the Eighth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, P11, DOI 10.1145/73721.73723
+   Reps T, 2016, ACM SIGPLAN NOTICES, V51, P663, DOI 10.1145/2914770.2837659
+   Rocktaschel Tim., 2018, Einsum is all you need-Einstein summation in deep learning
+   Ross K. A., 1992, Proceedings of the Eleventh ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, P114, DOI 10.1145/137097.137852
+   Rote G., 1990, Computing (Supplementum), P155, DOI 10.1007/978-3-7091-9076-0_9
+   Shenoy P.P., 1988, P 4 ANN C UNCERTAINT, P169
+   Shkapsky A, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1135, DOI 10.1145/2882903.2915229
+   Shkapsky A, 2015, PROC INT CONF DATA, P867, DOI 10.1109/ICDE.2015.7113340
+   Stanley R.P, 1999, Cambridge studies in advanced mathematics, V62
+   TARJAN RE, 1981, J ACM, V28, P577, DOI 10.1145/322261.322272
+   Tarjan Robert E., 1976, Graph theory and Gaussian elimination, P3
+   Van Gelder A., 1989, Proceedings of the Eighth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, P1, DOI 10.1145/73721.73722
+   VANGELDER A, 1991, J ACM, V38, P620, DOI 10.1145/116825.116838
+   Vardi M.Y., 1982, P 14 ANN ACM S THEOR, P137, DOI [10.1145/800070.802186, DOI 10.1145/800070.802186]
+   Vianu V, 2021, PODS '21: PROCEEDINGS OF THE 40TH SIGMOD-SIGACT-SIGAI SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P57, DOI 10.1145/3452021.3458815
+   Wang Jin, 2019, CoRR abs/1910.08888
+   Wang Yisu Remy, 2022, SIGMOD/PODS '22: Proceedings of the 2022 International Conference on Management of Data, P79, DOI 10.1145/3514221.3517827
+   WARSHALL S, 1962, J ACM, V9, P11, DOI 10.1145/321105.321107
+   Zaniolo C, 2017, THEOR PRACT LOG PROG, V17, P1048, DOI 10.1017/S1471068417000436
+   Zaniolo Carlo, 2018, 12 A MEN INT WORKSH, V2100
+   Zaniolo Carlo, 2016, CEUR WORKSHOP P, V1644
+   Zaniolo Carlo, 2021, IEEE Data Eng. Bull., V44, P3
+   Zimmermann U., 1981, Linear and combinatorial optimization in ordered algebraic structures
+NR 88
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD APR
+PY 2024
+VL 71
+IS 2
+AR 8
+DI 10.1145/3643027
+PG 55
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ8V0
+UT WOS:001208839800006
+OA Green Submitted, Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Ovens, S
+AF Ovens, Sean
+TI The Space Complexity of Consensus from Swap
+SO JOURNAL OF THE ACM
+LA English
+DT Article
+AB Nearly thirty years ago, it was shown that Omega(root n) read/write registers are needed to solve randomized waitfree consensus among n processes. This lower bound was improved to n registers in 2018, which exactly matches known algorithms. The O(v n) space complexity lower bound actually applies to a class of objects called historyless objects, which includes registers, test-and-set objects, and readable swap objects. However, every known n-process obstruction-free consensus algorithm from historyless objects uses Omega(n) objects. In this paper, we give the first Omega(n) space complexity lower bounds on consensus algorithms for two kinds of historyless objects. First, we show that any obstruction-free consensus algorithm from swap objects uses at least n - 1 objects. More generally, we prove that any obstruction-free k-set agreement algorithm from swap objects uses at least inverted right perpendicularn/kinverted left perpendicular - 1 objects. The k-set agreement problem is a generalization of consensus in which processes agree on no more than k different output values. This is the first non-constant lower bound on the space complexity of solving k-set agreement with swap objects when k > 1. We also present an obstruction-free k-set agreement algorithm from n - k swap objects, which exactly matches our lower bound when k = 1. Second, we show that any obstruction-free binary consensus algorithm from readable swap objects with domain size b uses at least n- 2/3b+1 objects. When b is a constant, this asymptotically matches the best known obstruction-free consensus algorithms from readable swap objects with unbounded domains. Since any historyless object can be simulated by a readable swap object with the same domain, our results imply that any obstruction-free consensus algorithm from historyless objects with domain size b uses at least n- 2/3b+1 objects. For b = 2, we show a slightly better lower bound of n - 2. There is an obstruction-free binary consensus algorithm using 2n - 1 readable swap objects with domain size 2, asymptotically matching our lower bound.
+C1 [Ovens, Sean] Univ Toronto, 27 Kings Coll Circle, Toronto, ON M5S 1A1, Canada.
+C3 University of Toronto
+RP Ovens, S (corresponding author), Univ Toronto, 27 Kings Coll Circle, Toronto, ON M5S 1A1, Canada.
+EM sgovens@cs.toronto.edu
+OI Ovens, Sean/0000-0003-0785-2014
+FU Natural Sciences and Engineering Research Council of Canada
+   [RGPIN-2020-04178]; Ontario Graduate Scholarship (OGS) Program
+FX I thank my advisor, Faith Ellen, for all of the insightful discussions
+   and proofreading over the course of this project. Support is gratefully
+   acknowledged from the Natural Sciences and Engineering Research Council
+   of Canada under grant RGPIN-2020-04178. I also gratefully acknowledge
+   the support of the Ontario Graduate Scholarship (OGS) Program. A
+   preliminary version of this paper appeared in [23].
+CR AFEK Y, 1993, J ACM, V40, P873, DOI 10.1145/153724.153741
+   ANDERSON JH, 1993, DISTRIB COMPUT, V6, P141, DOI 10.1007/BF02242703
+   ASPNES J, 1990, J ALGORITHM, V11, P441, DOI 10.1016/0196-6774(90)90021-6
+   Attiya Hagit, 2014, Impossibility Results for Distributed Computing, DOI [10.2200/S00551ED1V01Y201311DCT012, DOI 10.2200/S00551ED1V01Y201311DCT012]
+   Borowsky E., 1993, Proceedings of the Twenty-Fifth Annual ACM Symposium on the Theory of Computing, P91, DOI 10.1145/167088.167119
+   Bouzid Z, 2018, DISTRIB COMPUT, V31, P99, DOI 10.1007/s00446-017-0301-7
+   Bowman Jack R., 2011, TR2011-681
+   BURNS JE, 1993, INFORM COMPUT, V107, P171, DOI 10.1006/inco.1993.1065
+   CHAUDHURI S, 1993, INFORM COMPUT, V105, P132, DOI 10.1006/inco.1993.1043
+   Chaudhuri S., 1996, Distributed Algorithms. 10th International Workshop, WDAG '96. Proceedings, P362
+   CHOR B, 1994, SIAM J COMPUT, V23, P701, DOI 10.1137/S0097539790192635
+   Chor Benny., 1987, Proceedings of the Sixth Annual ACM Symposium on Principles of Distributed Computing, PODC'87, page, P86, DOI DOI 10.1145/41840.41848
+   Delporte-Gallet C, 2015, PODC'15: PROCEEDINGS OF THE 2015 ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED COMPUTING, P271, DOI 10.1145/2767386.2767406
+   Ellen F, 2020, DISTRIB COMPUT, V33, P125, DOI 10.1007/s00446-019-00361-3
+   Ellen F, 2018, PODC'18: PROCEEDINGS OF THE 2018 ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED COMPUTING, P61, DOI 10.1145/3212734.3212749
+   Ellen F, 2007, J ACM, V54, DOI 10.1145/1314690.1314694
+   Fich F, 1998, J ACM, V45, P843, DOI 10.1145/290179.290183
+   FISCHER MJ, 1985, J ACM, V32, P374, DOI 10.1145/3149.214121
+   Herlihy M, 1999, J ACM, V46, P858, DOI 10.1145/331524.331529
+   HERLIHY M, 1991, ACM T PROGR LANG SYS, V13, P124, DOI 10.1145/114005.102808
+   LOUI M. C., 1987, Advances in Computing Research, V4, P163
+   Ovens S, 2022, PROCEEDINGS OF THE 2022 ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED COMPUTING, PODC 2022, P176, DOI 10.1145/3519270.3538420
+   Ovens S, 2021, PROCEEDINGS OF THE 2021 ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED COMPUTING (PODC '21), P509, DOI 10.1145/3465084.3467916
+   Saks M, 2000, SIAM J COMPUT, V29, P1449, DOI 10.1137/S0097539796307698
+   Zhu LQ, 2016, ACM S THEORY COMPUT, P345, DOI 10.1145/2897518.2897565
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0004-5411
+EI 1557-735X
+J9 J ACM
+JI J. ACM
+PD FEB
+PY 2024
+VL 71
+IS 1
+AR 1
+DI 10.1145/3631390
+PG 26
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK4O2
+UT WOS:001193503800001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+EF

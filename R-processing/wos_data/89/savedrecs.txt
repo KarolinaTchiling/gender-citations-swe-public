@@ -1,0 +1,1121 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Delbru, R
+   Campinas, S
+   Tummarello, G
+AF Delbru, Renaud
+   Campinas, Stephane
+   Tummarello, Giovanni
+TI Searching web data: An entity retrieval and high-performance indexing
+   model
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Sindice; Entity search and retrieval; Compression; Semantic Web;
+   Semi-structured data; Inverted index
+ID COMPRESSION
+AB More and more (semi) structured information is becoming available on the web in the form of documents embedding metadata (e.g., RDF, RDFa, Microformats and others). There are already hundreds of millions of such documents accessible and their number is growing rapidly. This calls for large scale systems providing effective means of searching and retrieving this semi-structured information with the ultimate goal of making it exploitable by humans and machines alike.
+   This article examines the shift from the traditional web document model to a web data object (entity) model and studies the challenges faced in implementing a scalable and high performance system for searching semi-structured data objects over a large heterogeneous and decentralised infrastructure. Towards this goal, we define an entity retrieval model, develop novel methodologies for supporting this model and show how to achieve a high-performance entity retrieval system. We introduce an indexing methodology for semi-structured data which offers a good compromise between query expressiveness, query processing and index maintenance compared to other approaches. We address high-performance by optimisation of the index data structure using appropriate compression techniques. Finally, we demonstrate that the resulting system can index billions of data objects and provides keyword-based as well as more advanced search interfaces for retrieving relevant data objects in sub-second time.
+   This work has been part of the Sindice search engine project at the Digital Enterprise Research Institute (DERI), NUI Galway. The Sindice system currently maintains more than 200 million pages downloaded from the web and is being used actively by many researchers within and outside of DERI. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Delbru, Renaud; Campinas, Stephane; Tummarello, Giovanni] Natl Univ Ireland, Digital Enterprise Res Inst, Galway, Ireland.
+   [Tummarello, Giovanni] Fdn Bruno Kessler, Trento, Italy.
+C3 Ollscoil na Gaillimhe-University of Galway; Fondazione Bruno Kessler
+RP Delbru, R (corresponding author), Natl Univ Ireland, Digital Enterprise Res Inst, Galway, Ireland.
+EM renaud.delbru@deri.org; stephane.campinas@deri.org;
+   giovanni.tummarello@deri.org
+CR Abiteboul S., 1997, International Journal on Digital Libraries, V1, P68, DOI 10.1007/s007990050001
+   Abiteboul S, 1997, LECT NOTES COMPUT SC, V1186, P1
+   Agrawal S, 2002, PROC INT CONF DATA, P5, DOI 10.1109/ICDE.2002.994693
+   Anh VN, 2005, INFORM RETRIEVAL, V8, P151, DOI 10.1023/B:INRT.0000048490.99518.5c
+   Anh VN, 2006, LECT NOTES COMPUT SC, V4209, P304
+   Anh VN, 2010, SOFTWARE PRACT EXPER, V40, P131, DOI 10.1002/spe.948
+   [Anonymous], 2004, W3C recommendation
+   [Anonymous], 2007, P VLDB
+   [Anonymous], 2008, Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2008, Vancouver, BC, Canada, June 10-12, 2008
+   [Anonymous], 2006, Proceedings of the 2006 ACM SIGMOD international conference on Management of data
+   [Anonymous], 1983, The theory of relational databases
+   Baeza-Yates R., 1996, SIGMOD Record, V25, P67, DOI 10.1145/381854.381890
+   Baeza-Yates R., 2007, DATA ENG, P6
+   Baeza-Yates Ricardo, 1999, MODERN INFORM RETRIE, V463
+   BECKETT D, 2003, SEMANTIC WEB SCALABI
+   Berners-Lee T., 1996, 1945 RFC W3C
+   Bhagdev R, 2008, LECT NOTES COMPUT SC, V5021, P554
+   Bhalotia G, 2002, PROC INT CONF DATA, P431, DOI 10.1109/ICDE.2002.994756
+   Boldi P, 2005, LECT NOTES COMPUT SC, V3772, P25
+   Boyer Brent., 2008, ROBUST JAVA BENCHMAR
+   Büttcheer S, 2008, INFORM RETRIEVAL, V11, P175, DOI 10.1007/s10791-007-9042-8
+   Buttcher Stefan, 2007, P 16 ACM C INF KNOWL, P761, DOI DOI 10.1145/1321440.1321546
+   Catasta M, 2010, SEMANTIC WEB INFORMATION MANAGEMENT, P93, DOI 10.1007/978-3-642-04329-1_6
+   Cheng Gong, 2008, P 17 INT C WORLD WID, P1101, DOI [10.1145/1367497.1367676, DOI 10.1145/1367497.1367676]
+   Cohen S., 2003, P VERY LARGE DATA BA, P45
+   Cooper B. F., 2001, Proceedings of the 27th International Conference on Very Large Data Bases, P341
+   Delbru R, 2010, LECT NOTES COMPUT SC, V6089, P240, DOI 10.1007/978-3-642-13489-0_17
+   Delbru R, 2010, LECT NOTES COMPUT SC, V6089, P225, DOI 10.1007/978-3-642-13489-0_16
+   Ding L, 2005, LECT NOTES COMPUT SC, V3729, P156, DOI 10.1007/11574620_14
+   Dong X., 2007, SIGMOD 07 P 2007 ACM, P43
+   Ercegovac Vuk., 2005, VLDB, P313
+   Ferragina P., 2006, WWW '06, P751, DOI DOI 10.1145/1135777.1135891
+   FLETCHER G. H. L. VAN DEN BUSSCHE, 2009, P 12 INT C DAT THEOR, P201
+   Goldman R, 1997, PROCEEDINGS OF THE TWENTY-THIRD INTERNATIONAL CONFERENCE ON VERY LARGE DATABASES, P436
+   Goldstein J, 1998, PROC INT CONF DATA, P370, DOI 10.1109/ICDE.1998.655800
+   Graefe G, 2006, SIGMOD RECORD, V35, P39, DOI 10.1145/1121995.1122002
+   GRAEFE G, 1993, COMPUT SURV, V25, P73, DOI 10.1145/152610.152611
+   Grimsmo N., 2008, P 19 C AUSTRALASIAN, V313, P127
+   Guha R.V., 2003, Proceedings of the 12th international conference on World Wide Web, P700, DOI DOI 10.1145/775152.775250
+   Guo Lin, 2003, Proceedings of the 2003 ACM SIGMOD international conference on Management of data, P16
+   Halevy Alon, 2006, P 25 ACM SIGMOD SIGA
+   Harth A., 2008, P BILL TRIPL SEM WEB
+   Harth A, 2007, LECT NOTES COMPUT SC, V4825, P211
+   Harth A, 2009, LECT NOTES COMPUT SC, V5823, P277, DOI 10.1007/978-3-642-04930-9_18
+   He H., 2005, P 14 ACM INT C INFOR, P594
+   Hristidis V., 2002, Proceedings of the Twenty-eighth International Conference on Very Large Data Bases, P670
+   Kacholia Varun., 2005, Bidirectional expansion for keyword search on graph databases, P505
+   Kasneci Gjergji., 2008, SIGMOD '08 Proceedings of the 2008 ACM SIGMOD International Conference on Management of Data, P1285, DOI DOI 10.1145/1376616.1376756
+   Lilja D.J., 2000, MEASURING COMPUTER P, DOI [10.1017/CBO9780511612398, DOI 10.1017/CB09780511612398]
+   Lim Lipyeow., 2003, WWW '03, P102, DOI DOI 10.1145/775152.775167
+   Liu BL, 2007, LECT NOTES COMPUT SC, V4672, P364
+   Liu Ziyang., 2007, Proceedings of the 33rd international conference on Very large data bases, P1330
+   Mandreoli F., 2009, PROC EDBT, P216
+   Manning Christopher D., 2008, INTRO INFORM RETRIEV
+   Meng X., 2004, P 2004 SIGMOD INT C, P941, DOI [10.1145/1007568.1007709, DOI 10.1145/1007568.1007709]
+   Moffat A, 1996, ACM T INFORM SYST, V14, P349, DOI 10.1145/237496.237497
+   Moffat A, 2000, INFORM RETRIEVAL, V3, P25, DOI 10.1023/A:1013002601898
+   Nadkarni PM, 1999, J AM MED INFORM ASSN, V6, P478, DOI 10.1136/jamia.1999.0060478
+   Neumann T, 2008, PROC VLDB ENDOW, V1, P647, DOI 10.14778/1453856.1453927
+   Pound J., 2010, Proceedings of the 19th International Conference on World Wide Web, P771, DOI [DOI 10.1145/1772690.1772769, 10.1145/ 1772690.1772769]
+   Praveen Rao, 2004, Proceedings. 20th International Conference on Data Engineering, P288, DOI 10.1109/ICDE.2004.1320005
+   Qu HY, 2006, PROCEEDINGS OF THE SECOND IASTED INTERNATIONAL CONFERENCE ON TELEHEALTH, P75
+   Quanzhong Li, 2001, Proceedings of the 27th International Conference on Very Large Data Bases, P361
+   RICE RF, 1971, IEEE T COMMUN TECHN, VCO19, P889, DOI 10.1109/TCOM.1971.1090789
+   SACKSDAVIS R, 1997, P INT S DIG MED INF, P236
+   Schenkel R, 2005, INFORM RETRIEVAL, V8, P521, DOI 10.1007/s10791-005-0746-3
+   Su-Cheng H, 2009, IETE TECH REV, V26, P88, DOI 10.4103/0256-4602.49086
+   Tatarinov I., 2002, SIGMOD, P204
+   Theobald M., 2005, VLDB 05 Proceedings of the 31st international conference on Very large data bases (2005), P625
+   Venturini R., 2010, P 19 ACM C INF KNOWL
+   WALSH N, 2007, XQUERY 1 0 XPATH 2 0
+   Wang H., 2003, SIGMOD C, P110
+   Wang HF, 2009, J WEB SEMANT, V7, P177, DOI 10.1016/j.websem.2009.08.001
+   Wang W., 2005, P 31 INT C VERY LARG, P145
+   Weiss C, 2008, PROC VLDB ENDOW, V1, P1008, DOI 10.14778/1453856.1453965
+   Yan Hao, 2009, P INT C WORLD WID WE, P401, DOI [DOI 10.1145/1526709.1526764, 10.1145/1526709.1526764]
+   Zhang J., 2008, P 17 INT C WORLD WID, P387, DOI [DOI 10.1145/1367497.1367550, 10.1145/ 1367497.1367550]
+   Zobel J, 2006, ACM COMPUT SURV, V38, DOI 10.1145/1132956.1132959
+   Zukowski Marcin, 2006, ICDE 59, DOI DOI 10.1109/ICDE.2006.150
+NR 79
+TC 36
+Z9 42
+U1 0
+U2 18
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JAN
+PY 2012
+VL 10
+BP 33
+EP 58
+DI 10.1016/j.websem.2011.04.004
+PG 26
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 906ZO
+UT WOS:000301387800003
+DA 2024-07-18
+ER
+
+PT J
+AU Meij, E
+   Bron, M
+   Hollink, L
+   Huurnink, B
+   de Rijke, M
+AF Meij, Edgar
+   Bron, Marc
+   Hollink, Laura
+   Huurnink, Bouke
+   de Rijke, Maarten
+TI Mapping queries to the Linking Open Data cloud: A case study using
+   DBpedia
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Semantic query analysis; Linking Open Data; Machine learning;
+   Information retrieval
+ID SEARCH
+AB We introduce the task of mapping search engine queries to DBpedia, a major linking hub in the Linking Open Data cloud. We propose and compare various methods for addressing this task, using a mixture of information retrieval and machine learning techniques. Specifically, we present a supervised machine learning-based method to determine which concepts are intended by a user issuing a query. The concepts are obtained from an ontology and may be used to provide contextual information, related concepts, or navigational suggestions to the user submitting the query. Our approach first ranks candidate concepts using a language modeling for information retrieval framework. We then extract query, concept, and search-history feature vectors for these concepts. Using manual annotations we inform a machine learning algorithm that learns how to select concepts from the candidates given an input query. Simply performing a lexical match between the queries and concepts is found to perform poorly and so does using retrieval alone, i.e., omitting the concept selection stage. Our proposed method significantly improves upon these baselines and we find that support vector machines are able to achieve the best performance out of the machine learning algorithms evaluated. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Meij, Edgar; Bron, Marc; Huurnink, Bouke; de Rijke, Maarten] Univ Amsterdam, ISLA, Amsterdam, Netherlands.
+   [Hollink, Laura] Delft Univ Technol, Delft, Netherlands.
+C3 University of Amsterdam; Delft University of Technology
+RP Meij, E (corresponding author), Univ Amsterdam, ISLA, Sci Pk 107, Amsterdam, Netherlands.
+EM edgar.meij@uva.nl; m.m.bron@uva.nl; l.hollink@tudelft.nl;
+   bhuurnink@uva.nl; derijke@uva.nl
+RI bron, marc/H-5895-2013
+OI de Rijke, Maarten/0000-0002-1086-0202
+FU European Union's ICT [250430]; PROMISE Network of Excellence; European
+   Commission [258191]; Dutch Government [STE-09-12]; Flemish Government
+   [STE-09-12]; Netherlands Organization for Scientific Research (NWO)
+   [612.061.814, 612.061.815, 640.004.802, 380.70.011]; Center for
+   Creation, Content and Technology (CCCT); Dutch Ministry of Economic
+   Affairs and Amsterdam Topstad; Hyperlocal Service Platform project;
+   Service Innovation ICT; WAHSP; CLARIN-nl program
+FX This research was supported by the European Union's ICT Policy Support
+   Programme as part of the Competitiveness and Innovation Framework
+   Programme, CIP ICT-PSP under grant agreement number 250430, the PROMISE
+   Network of Excellence co-funded by the 7th Framework Programme of the
+   European Commission, grant agreement number 258191, the DuOMAn project
+   carried out within the STEVIN Programme which is funded by the Dutch and
+   Flemish Governments under project number STE-09-12, the Netherlands
+   Organization for Scientific Research (NWO) under project numbers
+   612.061.814, 612.061.815, 640.004.802, 380.70.011, the Center for
+   Creation, Content and Technology (CCCT), the Dutch Ministry of Economic
+   Affairs and Amsterdam Topstad under the Krant van Morgen project, the
+   Hyperlocal Service Platform project funded by the Service Innovation &
+   ICT program, and the WAHSP project funded by the CLARIN-nl program.
+CR Agrawal S, 2002, PROC INT CONF DATA, P5, DOI 10.1109/ICDE.2002.994693
+   Aleksovski Z, 2006, LECT NOTES ARTIF INT, V4248, P182
+   Anick P., 2008, P 31 ANN INT ACM SIG, P701, DOI DOI 10.1145/1390334.1390459
+   [Anonymous], WIK LEAD SECT
+   [Anonymous], LINKED DATA DESIGN
+   [Anonymous], P WORKSH SEM SEARCH
+   [Anonymous], HUM LANG TECHN WORKS
+   [Anonymous], WORDNET OTHER LEXICA
+   [Anonymous], 1997, ICML
+   [Anonymous], P 33 INT ACM SIGIR C
+   [Anonymous], 2008, P 17 INT C WORLD WID, DOI DOI 10.1145/1367497.1367760
+   [Anonymous], P IEEE INT C DAT MIN
+   [Anonymous], TALN 2007
+   [Anonymous], CIVR 09
+   [Anonymous], P 18 TEXT RETR C TRE
+   [Anonymous], THESIS U TWENTE
+   [Anonymous], P WORKSH SEM SEARCH
+   Artstein R, 2008, COMPUT LINGUIST, V34, P555, DOI 10.1162/coli.07-034-R2
+   Auer S, 2007, LECT NOTES COMPUT SC, V4825, P722, DOI 10.1007/978-3-540-76298-0_52
+   Baeza-Yates Ricardo, 1999, MODERN INFORM RETRIE, V463
+   Banko M, 2007, 20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P2670
+   Beitzel S. M., 2004, Proceedings of Sheffield SIGIR 2004. The Twenty-Seventh Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, P321, DOI 10.1145/1008992.1009048
+   Bendersky Michael, 2009, P 2009 WORKSHOP WEB, P8
+   Bendersky Michael, 2008, P 31 ANN INT ACM SIG, P491
+   Bhalotia G, 2002, PROC INT CONF DATA, P431, DOI 10.1109/ICDE.2002.994756
+   Bhole A, 2007, INFORM-J COMPUT INFO, V31, P463
+   Bizer C, 2011, SEMANTIC SERVICES, INTEROPERABILITY AND WEB APPLICATIONS: EMERGING CONCEPTS, P205, DOI 10.4018/978-1-60960-593-3.ch008
+   Blocks D., 2002, Research and Advanced Technology for Digital Libraries. 6th European Conference, ECDL 2002. Proceedings (Lecture Notes in Computer Science Vol.2458), P346
+   Buitelaar Paul, 2005, Ontology Learning From Text: Methods, Evaluation and Applications
+   Caracciolo C., 2008, P 3 INT WORKSH ONT M, P73
+   Chemudugunta C, 2008, LECT NOTES COMPUT SC, V5318, P229, DOI 10.1007/978-3-540-88564-1_15
+   Church K., 1995, Proceedings of the 3rd Workshop on Very Large Corpora, P121, DOI DOI 10.1007/978-94-017-2390-9_18
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   Demidova E, 2010, SIGIR 2010: PROCEEDINGS OF THE 33RD ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH DEVELOPMENT IN INFORMATION RETRIEVAL, P331
+   Dill e.Stephen., 2003, P 12 INT C WORLD WID, P178, DOI 10.1145/775152.775178
+   Dou Zhicheng, 2007, P WWW, P581, DOI DOI 10.1145/1242572.1242651
+   Elbassuoni S, 2009, P 18 ACM C INF KNOWL, P977, DOI DOI 10.1145/1645953.1646078
+   Fortuna B, 2007, LECT NOTES COMPUT SC, V4558, P309
+   Guo JF, 2009, PROCEEDINGS 32ND ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P267, DOI 10.1145/1571941.1571989
+   Hayes AF, 2007, COMMUN METHODS MEAS, V1, P77, DOI 10.1080/19312450709336664
+   Hristidis V., 2002, Proceedings of the Twenty-eighth International Conference on Very Large Data Bases, P670
+   Huurnink B, 2010, J AM SOC INF SCI TEC, V61, P1180, DOI 10.1002/asi.21327
+   Jansen B. J., 2000, World Wide Web, V3, P249, DOI 10.1023/A:1018743024123
+   Jansen BJ, 2007, J AM SOC INF SCI TEC, V58, P862, DOI 10.1002/asi.20564
+   Jansen BJ, 2000, INFORM PROCESS MANAG, V36, P207, DOI 10.1016/S0306-4573(99)00056-4
+   John G. H., 1995, Uncertainty in Artificial Intelligence. Proceedings of the Eleventh Conference (1995), P338
+   Kasneci G, 2008, PROC INT CONF DATA, P953, DOI 10.1109/ICDE.2008.4497504
+   Kaufmann E, 2010, J WEB SEMANT, V8, P377, DOI 10.1016/j.websem.2010.06.001
+   Kiryakov A., 2004, Services and Agents on the World Wide Web, V2, P49, DOI [DOI 10.1016/J.WEBSEM.2004.07.005, 10.1016/j.websem.2004.07.005]
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   Meij E, 2009, LECT NOTES COMPUT SC, V5823, P424, DOI 10.1007/978-3-642-04930-9_27
+   Meij E, 2009, PROCEEDINGS 32ND ANNUAL INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P678, DOI 10.1145/1571941.1572074
+   Mihalcea Rada, 2007, P 16 ACM C C INF KNO, P233, DOI DOI 10.1145/1321440.1321475.19
+   Mihalkova L, 2009, LECT NOTES ARTIF INT, V5782, P111, DOI 10.1007/978-3-642-04174-7_8
+   Mika P, 2009, LECT NOTES COMPUT SC, V5823, P441, DOI 10.1007/978-3-642-04930-9_28
+   Milne D, 2008, P 17 ACM C INF KNOWL, P509, DOI DOI 10.1145/1458082.1458150
+   Mishne G, 2006, LECT NOTES COMPUT SC, V3936, P289
+   Platt JC, 1999, ADVANCES IN KERNEL METHODS, P185
+   Ponte JM, 1998, P 21 ANN INT ACM SIG, P275, DOI DOI 10.1145/290941.291008
+   Quinlan J.R., 1993, C4.5 : programs for machine learning
+   Shvaiko P, 2005, LECT NOTES COMPUT SC, V3730, P146
+   Spink A, 2002, COMPUTER, V35, P107, DOI 10.1109/2.989940
+   Stoilos G, 2005, LECT NOTES COMPUT SC, V3729, P624, DOI 10.1007/11574620_45
+   Suchanek FM, 2008, J WEB SEMANT, V6, P203, DOI 10.1016/j.websem.2008.06.001
+   Tata Sandeep., 2008, PROC SIGMOD 08, P889, DOI DOI 10.1145/1376616.1376705
+   van Hage WR, 2004, LECT NOTES COMPUT SC, V3298, P518
+   Vapnik V., 1999, NATURE STAT LEARNING
+   Voorhees EM, 2000, INFORM PROCESS MANAG, V36, P697, DOI 10.1016/S0306-4573(00)00010-8
+   Wang SH, 2008, LECT NOTES COMPUT SC, V5318, P339, DOI 10.1007/978-3-540-88564-1_22
+   Witten I. H., 2005, DATA MINING PRACTICA
+   Yu J.X., 2010, IEEE Data Engineering Bulletin, V33, P67
+   Yun Zhou, 2007, 30th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, P543, DOI 10.1145/1277741.1277835
+   Zhai CX, 2004, ACM T INFORM SYST, V22, P179, DOI 10.1145/984321.984322
+NR 73
+TC 31
+Z9 36
+U1 0
+U2 16
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD DEC
+PY 2011
+VL 9
+IS 4
+BP 418
+EP 433
+DI 10.1016/j.websem.2011.04.001
+PG 16
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 890UI
+UT WOS:000300170600005
+DA 2024-07-18
+ER
+
+PT J
+AU Denaux, R
+   Dolbear, C
+   Hart, G
+   Dimitrova, V
+   Cohn, AG
+AF Denaux, Ronald
+   Dolbear, Catherine
+   Hart, Glen
+   Dimitrova, Vania
+   Cohn, Anthony G.
+TI Supporting domain experts to construct conceptual ontologies: A holistic
+   approach
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Ontology engineering; Controlled natural language; Intelligent user
+   interfaces; Semantic web usability
+ID LANGUAGES; RABBIT
+AB A recent trend in ontology engineering research aims at encouraging the active participation of domain experts in the ontology creation process. Ontology construction methodologies together with appropriate tools and technologies, such as controlled natural languages, semantic wikis, intelligent user interfaces and social computing, are being proposed to enable the direct input from domain experts and to minimize the dependency on knowledge engineers at every step of ontology development. The time is ripe for consolidating methodological and technological advancements to create intuitive ontology engineering tools which can make Semantic Web technologies usable by a wide variety of people without formal knowledge engineering skills. A novel, holistic approach to facilitate the involvements of domain experts in the ontology authoring process is presented here. It integrates (i) an ontology construction methodology, (ii) the use of a controlled natural language, and (iii) appropriate tool support. The integrated approach is illustrated with the design, implementation and evaluation of ROO - a unique ontology authoring tool which combines intelligent techniques to assist domain experts in constructing ontologies. The benefits and limitations of the proposed approach are analyzed based on user studies with ROO. A broader discussion is provided pointing at issues to be taken into account when assisting the involvement of domain experts in ontology construction. (C) 2011 Elsevier B. V. All rights reserved.
+C1 [Denaux, Ronald; Dimitrova, Vania; Cohn, Anthony G.] Univ Leeds, Sch Comp, Leeds LS2 9JT, W Yorkshire, England.
+   [Hart, Glen] Ordnance Survey Res, Southampton SO16 4GU, Hants, England.
+C3 University of Leeds
+RP Denaux, R (corresponding author), Univ Leeds, Sch Comp, Woodhouse Lane, Leeds LS2 9JT, W Yorkshire, England.
+EM r.denaux@leeds.ac.uk; Glen.Hart@ordnancesurvey.co.uk;
+   V.G.Dimitrova@leeds.ac.uk; A.G.Cohn@leeds.ac.uk
+CR Alani H., 2007, P 6 INT SEM WEB C BU
+   Angele J., 2003, P 2 INT SEM WEB C
+   [Anonymous], P 13 INT C KNOWL ENG
+   [Anonymous], 4 OWL EXP DIR WORKSH
+   Bernstein A., 2004, 14 WORKSH INF TECHN
+   Braun S., 2007, CEUR WORKSHOP P, V273
+   Cimiano P, 2008, DATA KNOWL ENG, V65, P325, DOI 10.1016/j.datak.2007.10.007
+   Clark P, 2010, LECT NOTES ARTIF INT, V5972, P65, DOI 10.1007/978-3-642-14418-9_5
+   CREGAN A, 2007, P OWLED 2007 WORKSH, V258
+   Davis B., 2008, P 7 INT SEM WEB C, V5318
+   Denaux R., 2009, TERR COGN 2009 WORKS
+   Denaux R, 2010, LECT NOTES ARTIF INT, V5972, P246, DOI 10.1007/978-3-642-14418-9_15
+   Dimitrov D., 2006, P 5 INT SEM WEB C
+   Dimitrova V., 2008, INT SEM WEB C
+   Dolbear C., 2006, 5 INT SEM WEB C POST
+   Engelbrecht P, 2010, LECT NOTES ARTIF INT, V5972, P56, DOI 10.1007/978-3-642-14418-9_4
+   Fernandez-Lopez M., 1997, P AAAI97 SPRING S SE
+   FUCHS NE, 1995, P WORKSH COMP LOG NA
+   Fuchs NE, 2008, LECT NOTES COMPUT SC, V5224, P104
+   Funk A., 2007, P 6 INT SEM WEB C, V4825
+   Funk A., 2007, CONTROLLED LANGUAGE
+   Gangemi A., 2005, P INT SEM WEB C, V3729
+   Ghidini C., 2008, P INT C SEM SYST 1, P134
+   Goodwin J., 2007, IRI0005 ORDN SURV RE
+   Gruber A., 2006, P I KNOW 06
+   Hart G., 2007, IRI0003 ORDN SURV RE
+   Hart G., 2008, P 5 EUR SEM WEB C
+   Hart G., 2004, P 12 ANN C GIS RES U
+   HART G, 2007, P 3 OWL EXP DIR WORK, V258
+   Hartmann J., 2005, WORKSH ONT PATT SEM
+   Horridge M., 2008, P 7 INT SEM WEB C
+   KALJURAND K, 2008, 5 INT WORKSH OWL EXP
+   Klischewski R, 2006, BUS PROCESS MANAG J, V12, P34, DOI 10.1108/14637150610643742
+   Kotis K, 2006, KNOWL INF SYST, V10, P109, DOI 10.1007/s10115-005-0227-4
+   Kovacs K., 2006, IRI0002 ORDN SURV RE
+   Kozaki K., 2002, P EKAW2002
+   Kuhn T, 2010, LECT NOTES ARTIF INT, V5972, P1, DOI 10.1007/978-3-642-14418-9_1
+   Lopez V., 2006, LECT NOTES COMPUTER, V4273
+   Noppens O., 2008, P INT C KNOWL MAN NE
+   Peroni S., 2008, ASWC 08
+   Schmidt K.H. Andreas, 2008, P INT C KNOWL MAN NE, P369
+   Schober D., 2009, NATURE P
+   Schreiber G., 1999, KNOWLEDGE ENG MANAGE
+   Schwitter R., 2003, P JOINT C COMB 8 INT
+   Schwitter R., 2004, P 8 INT C KNOWL BAS, V3213
+   Sure Y., 2004, HDB ONTOLOGIES, P117
+   TABLAN V, 2008, P 5 EUR SEM WEB C
+   Tudorache T., 2008, P 7 INT SEM WEB C, V7
+   Tudorache T., 2010, EKAW 2010 KNOWLEDGE
+   Tunnicliffe L., 2009, USING OPEN CORPUS DA
+   Uschold M, 1995, IJCAI95 WORKSH BAS O
+   [No title captured]
+NR 52
+TC 21
+Z9 22
+U1 1
+U2 13
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1570-8268
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JUL
+PY 2011
+VL 9
+IS 2
+BP 113
+EP 127
+DI 10.1016/j.websem.2011.02.001
+PG 15
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 890TX
+UT WOS:000300169300003
+DA 2024-07-18
+ER
+
+PT J
+AU van Hage, WR
+   Malaisé, V
+   Segers, R
+   Hollink, L
+   Schreiber, G
+AF van Hage, Willem Robert
+   Malaise, Veronique
+   Segers, Roxane
+   Hollink, Laura
+   Schreiber, Guus
+TI Design and use of the Simple Event Model (SEM)
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Event; Event model; Ontology; Prolog; API; Semantic Web
+AB Events have become central elements in the representation of data from domains such as history, cultural heritage, multimedia and geography. The Simple Event Model (SEM) is created to model events in these various domains, without making assumptions about the domain-specific vocabularies used. SEM is designed with a minimum of semantic commitment to guarantee maximal interoperability. In this paper, we discuss the general requirements of an event model for Web data and give examples from two use cases: historic events and events in the maritime safety and security domain. The advantages and disadvantages of several existing event models are discussed in the context of the historic example. We discuss the design decisions underlying SEM. SEM is coupled with a Prolog API that enables users to create instances of events without going into the details of the implementation of the model. By a tight coupling to existing Prolog packages, the API facilitates easy integration of event instances to Linked Open Data. We illustrate use of the API with examples from the maritime domain. (C) 2011 Elsevier B. V. All rights reserved.
+C1 [van Hage, Willem Robert; Malaise, Veronique; Segers, Roxane; Schreiber, Guus] Vrije Univ Amsterdam, Web & Media Grp, NL-1081 HV Amsterdam, Netherlands.
+   [Hollink, Laura] Delft Univ Technol, NL-2628 CD Delft, Netherlands.
+C3 Vrije Universiteit Amsterdam; Delft University of Technology
+RP van Hage, WR (corresponding author), Vrije Univ Amsterdam, Web & Media Grp, De Boelelaan 1081A, NL-1081 HV Amsterdam, Netherlands.
+EM W.R.van.Hage@vu.nl; vmalaise@few.vu.nl; rh.segers@cs.vu.nl;
+   l.hollink@tudelft.nl; Guus.Schreiber@vu.nl
+FU Dutch Ministry of Economic Affairs [BSIK03021]
+FX Part of this work has been carried out as a part of the Poseidon project
+   in cooperation with Thales Nederland under the responsibilities of the
+   Embedded Systems Institute (ESI). This project is partially supported by
+   the Dutch Ministry of Economic Affairs under the BSIK03021 program. We
+   thank Chiel van den Akker and Anna Tordai.
+CR Allemang D., 2008, SEMANTIC WEB WORKING
+   Claudio Masolo SB, 2003, WONDERWEB DELIVERABL
+   Crofts N., 2009, DEFINITION CIDOC CON
+   Lagoze C., 2001, P INT C DUBL COR MET
+   Raimond Yves, 2007, The Event Ontology
+   Ruotsalo T., 2007, 6 INT 2 AS SEM WEB C
+   Scherp A., 2009, INT C KNOWL CAPT K C
+   Shaw R, 2009, 4 ANN AS SEM WEB C A
+   van Hage W.R., 2009, P 8 INT SEM WEB C WO
+   van Hage W.R., 2011, MULTIMEDIA IN PRESS, DOI [10.1007/s11042-010-0680-2, DOI 10.1007/S11042-010-0680-2]
+   VASSILIADIS V, 2009, P 6 INT WORKSH OWL E
+   Westermann U, 2007, IEEE MULTIMEDIA, V14, P19, DOI 10.1109/MMUL.2007.23
+   Wielemaker J., 2008, THEORY PRACTICE LOGI, V8
+   Worboys M.F., 2004, LECT NOTES COMPUTER, V3234
+NR 14
+TC 134
+Z9 143
+U1 3
+U2 33
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1570-8268
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JUL
+PY 2011
+VL 9
+IS 2
+BP 128
+EP 136
+DI 10.1016/j.websem.2011.03.003
+PG 9
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 890TX
+UT WOS:000300169300004
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Williams, GT
+   Weaver, J
+   Atre, M
+   Hendler, JA
+AF Williams, Gregory Todd
+   Weaver, Jesse
+   Atre, Medha
+   Hendler, James A.
+TI Scalable reduction of large datasets to interesting subsets
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Billion Triples Challenge; Scalability; Parallel; Inferencing; Query;
+   Triplestore
+AB With a huge amount of RDF data available on the web, the ability to find and access relevant information is crucial. Traditional approaches to storing, querying, and reasoning fall short when faced with web-scale data. We present a system that combines the computational power of large clusters for enabling large-scale reasoning and data access with an efficient data structure for storing and querying the accessed data on a traditional personal computer or other resource-constrained device. We present results of using this system to load the 2009 Billion Triples Challenge dataset, materialize RDFS inferences, extract an "interesting" subset of the data using a large cluster, and further analyze the extracted data using a personal computer, all in the order of tens of minutes. (C) 2010 Elsevier B. V. All rights reserved.
+C1 [Williams, Gregory Todd] Rensselaer Polytech Inst, Dept Comp Sci, Troy, NY 12180 USA.
+C3 Rensselaer Polytechnic Institute
+RP Williams, GT (corresponding author), Rensselaer Polytech Inst, Dept Comp Sci, 110 8th St, Troy, NY 12180 USA.
+EM willig4@cs.rpi.edu; weavej3@cs.rpi.edu; atrem@cs.rpi.edu;
+   hendler@cs.rpi.edu
+OI Hendler, James/0000-0003-3056-1960
+FU DARPA's Transformational Convergence Technology Office; Lockheed Martin
+   Advanced Technology Laboratories; Fujitsu Laboratories of America
+FX Funding for this work was provided in part by a seedling grant from
+   DARPA's Transformational Convergence Technology Office and gifts from
+   Lockheed Martin Advanced Technology Laboratories and Fujitsu
+   Laboratories of America. We thank Jacqueline A. Stampalia, Lindsay Todd,
+   Luz Angelica Nunez, and Michael D. Sofka for providing support in
+   performing our evaluation at Rensselaer Polytechnic Institute's
+   Computational Center for Nanotechnology
+CR Abadi D. J., 2007, PVLDB
+   Abouzeid Azza, 2009, VLDB 09
+   ANADIOTIS G, 2008, MARVIN DISTRIBUTED P
+   [Anonymous], P 4 INT WORKSH SCAL
+   Atre M., 2009, BITMAT IN CORE RDF G
+   ATRE M, 2010, P 19 INT WORLD WID W
+   Bernstein P. A., 1981, SIAM J COMPUTING, V10
+   BOCK J, 2008, LECT NOTES COMPUTER, V5318
+   CAI M, 2004, P 13 INT WORLD WID W
+   Cudre-Mauroux P, 2007, IEEE INTERNET COMPUT, V11, P36, DOI 10.1109/MIC.2007.108
+   DEWITT D, 1985, P 11 INT C VER LARG
+   Erling O., 2007, LNI, V113
+   FANG Q, 2008, LECT NOTES COMPUTER, V5367
+   Guo  Y., 2006, P 2 INT WORKSH SCAL
+   Guo YB, 2005, J WEB SEMANT, V3, P158, DOI 10.1016/j.websem.2005.06.005
+   Harris S., 2009, P 5 INT WORKSH SCAL
+   Harth  A., 2007, P 6 INT SEM WEB C 2
+   Hayes P., 2004, RDF SEMANTICS
+   Hendler J. A, 2009, P 5 INT WORKSH SCAL
+   HOGAN A, 2008, P BILL TRIPL SEM WEB
+   Hogan A., 2008, ASWC
+   HOGAN A, 2009, INT J SEMANTIC WEB I
+   KAOUDI Z, 2008, LECT NOTES COMPUTER, V5318
+   Liarou E., 2007, P 6 INT SEM WEB C 2
+   LIEBIG T, 2007, LECT NOTES COMPUTER, V4806
+   NEUMANN T, 2009, SIGMOD
+   Neumann T., 2008, PVLDB
+   OREN E, 2008, LECT NOTES COMPUTER, V5318
+   Oren E, 2009, P WEBSCI 09 SOC ON L
+   Oren E, 2009, J WEB SEMANT, V7, P305, DOI 10.1016/j.websem.2009.09.002
+   Owens A., 2008, CLUSTERED TDB CLUSTE
+   Papadias D, 2001, ALGORITHMICA, V30, P188, DOI 10.1007/s00453-001-0005-y
+   RUDOLPH S, 2008, LECT NOTES COMPUTER, V5341
+   Sidirourgos L., 2008, PVLDB
+   SOMA R, 2008, ICPP 08
+   SOMA R, 2008, DATA PARTITIONING AP
+   TERHORST HJ, 2005, INT SEM WEB C
+   Urbani J., 2009, P 8 INT SEM WEB C
+   URBANI J, 2010, P 7 EXT SEM WEB C
+   WEAVER J, 2009, P 8 INT SEM WEB C
+   Weaver J., 2009, P 5 INT WORKSH SCAL
+   Weiss C., 2008, PVLDB
+   WILKINSON B, 2005, PARALLEL PROGRAMMING, pCH3
+NR 43
+TC 7
+Z9 10
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1570-8268
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD NOV
+PY 2010
+VL 8
+IS 4
+SI SI
+BP 365
+EP 373
+DI 10.1016/j.websem.2010.08.002
+PG 9
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 682KD
+UT WOS:000284401100011
+DA 2024-07-18
+ER
+
+PT J
+AU O'Donoghue, SI
+   Horn, H
+   Pafilis, E
+   Haag, S
+   Kuhn, M
+   Satagopam, VP
+   Schneider, R
+   Jensen, LJ
+AF O'Donoghue, Sean I.
+   Horn, Heiko
+   Pafilis, Evangelos
+   Haag, Sven
+   Kuhn, Michael
+   Satagopam, Venkata P.
+   Schneider, Reinhard
+   Jensen, Lars J.
+TI Reflect: A practical approach to web semantics
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Augmented browsing; Semantic annotation; Named entity recognition;
+   Genes; Proteins; Chemicals
+ID DATABASE; NETWORK; GENOMES; LINKING; TOOL
+AB To date, adding semantic capabilities to web content usually requires considerable server-side re-engineering, thus only a tiny fraction of all web content currently has semantic annotations. Recently, we announced Reflect (http://reflect.ws), a free service that takes a more practical approach: Reflect uses augmented browsing to allow end-users to add systematic semantic annotations to any web-page in real-time, typically within seconds. In this paper we describe the tagging process in detail and show how further entity types can be added to Reflect; we also describe how publishers and content providers can access Reflect programmatically using SOAP, REST (HTTP post), and JavaScript. Usage of Reflect has grown rapidly within the life sciences, and while currently only genes, protein and small molecule names are tagged, we plan to soon expand the scope to include a much broader range of terms (e. g., Wikipedia entries). The popularity of Reflect demonstrates the use and feasibility of letting end-users decide how and when to add semantic annotations. Ultimately, 'semantics is in the eye of the end-user', hence we believe end-user approaches such as Reflect will become increasingly important in semantic web technologies. (C) 2010 Elsevier B. V. All rights reserved.
+C1 [O'Donoghue, Sean I.; Horn, Heiko; Pafilis, Evangelos; Haag, Sven; Kuhn, Michael; Satagopam, Venkata P.; Schneider, Reinhard; Jensen, Lars J.] European Mol Biol Lab, D-69117 Heidelberg, Germany.
+   [Horn, Heiko; Jensen, Lars J.] Univ Copenhagen, NNF Ctr Prot Res, DK-1168 Copenhagen, Denmark.
+C3 European Molecular Biology Laboratory (EMBL); University of Copenhagen
+RP O'Donoghue, SI (corresponding author), European Mol Biol Lab, Meyerhofstr 1, D-69117 Heidelberg, Germany.
+EM sean.odonoghue@embl.de; hornheiko@gmail.com; vagpa.lis@googlemail.com;
+   reflect@sven-haag.de; mkuhn@embl.de; satagopa@embl.de;
+   reinhard.schneider@embl-heidelberg.de; lars.juhl.jensen@cpr.ku.dk
+RI Jensen, Lars Juhl/C-6492-2008; Schneider, Reinhard/C-5441-2009; Kuhn,
+   Michael/D-4978-2009; O'Donoghue, Sean/A-9522-2012
+OI Jensen, Lars Juhl/0000-0001-7885-715X; Schneider,
+   Reinhard/0000-0002-8278-1618; Kuhn, Michael/0000-0002-2841-872X;
+   O'Donoghue, Sean/0000-0001-9520-6623; Satagopam,
+   Venkata/0000-0002-6532-5880
+FU European Molecular Biology Laboratory; European Union
+   [LSHC-CT-2007-037472]; Novo Nordisk Foundation Center for Protein
+   Research
+FX The work was partly funded by the European Molecular Biology Laboratory,
+   by the European Union Framework Programme 6 grant 'TAMAHUD'
+   (LSHC-CT-2007-037472, in part), and by the Novo Nordisk Foundation
+   Center for Protein Research.
+CR Bechhofer SK, 2005, PACIFIC SYMPOSIUM ON BIOCOMPUTING 2005, P79
+   Birney E, 2006, NUCLEIC ACIDS RES, V34, pD556, DOI 10.1093/nar/gkj133
+   Cherry JM, 1997, NATURE, V387, P67, DOI 10.1038/387s067
+   Harris MA, 2004, NUCLEIC ACIDS RES, V32, pD258, DOI 10.1093/nar/gkh036
+   Hoffmann R, 2004, NAT GENET, V36, P664, DOI 10.1038/ng0704-664
+   Krallinger M, 2008, GENOME BIOL, V9, DOI 10.1186/gb-2008-9-S2-S8
+   Kuhn M, 2008, NUCLEIC ACIDS RES, V36, pD684, DOI 10.1093/nar/gkm795
+   Laskowski RA, 2001, NUCLEIC ACIDS RES, V29, P221, DOI 10.1093/nar/29.1.221
+   Letunic I, 2007, BIOINFORMATICS, V23, P127, DOI 10.1093/bioinformatics/btl529
+   Letunic I, 2006, NUCLEIC ACIDS RES, V34, pD257, DOI 10.1093/nar/gkj079
+   Pafilis E, 2009, NAT BIOTECHNOL, V27, P508, DOI 10.1038/nbt0609-508
+   Pavlopoulos GA, 2009, BIOINFORMATICS, V25, P977, DOI 10.1093/bioinformatics/btp081
+   Pruitt KD, 2007, NUCLEIC ACIDS RES, V35, pD61, DOI 10.1093/nar/gkl842
+   Shadbolt N, 2006, IEEE INTELL SYST, V21, P96, DOI 10.1109/MIS.2006.62
+   Smith L, 2008, GENOME BIOL, V9, DOI 10.1186/gb-2008-9-S2-S2
+   Swarbreck D, 2008, NUCLEIC ACIDS RES, V36, pD1009, DOI 10.1093/nar/gkm965
+   Tweedie S, 2009, NUCLEIC ACIDS RES, V37, pD555, DOI 10.1093/nar/gkn788
+   Wheeler DL, 2008, NUCLEIC ACIDS RES, V36, pD13, DOI 10.1093/nar/gkm1000
+   Willighagen EL, 2007, BMC BIOINFORMATICS, V8, DOI 10.1186/1471-2105-8-487
+NR 19
+TC 7
+Z9 7
+U1 0
+U2 6
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JUL
+PY 2010
+VL 8
+IS 2-3
+SI SI
+BP 182
+EP 189
+DI 10.1016/j.websem.2010.03.003
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 620WP
+UT WOS:000279532700012
+OA Green Published
+DA 2024-07-18
+ER
+
+PT J
+AU Shin, DH
+   Lee, KH
+   Suda, T
+AF Shin, Dong-Hoon
+   Lee, Kyong-Ho
+   Suda, Tatsuya
+TI Automated generation of composite web services based on functional
+   semantics
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Web services; Composition; Ontology; Functional semantics; Graph model
+AB Most of studies on the automated generation of composite Web services create composite services by chaining available services' inputs and outputs, but do not consider their functional semantics. Therefore, unsatisfied results may be generated against users' intentions. Furthermore, the time complexity is very high since every possible combination of available services should be considered. To resolve these problems, we propose a composition method that explicitly specifies and uses the functional semantics of Web services. Specifically, the proposed method is based on a graph model, which represents the functional semantics of Web services. (C) 2009 Elsevier B. V. All rights reserved.
+C1 [Shin, Dong-Hoon; Lee, Kyong-Ho] Yonsei Univ, Dept Comp Sci, Seoul 120749, South Korea.
+   [Suda, Tatsuya] Univ Calif Irvine, Sch Informat & Comp Sci, Irvine, CA USA.
+C3 Yonsei University; University of California System; University of
+   California Irvine
+RP Lee, KH (corresponding author), Yonsei Univ, Dept Comp Sci, Seoul 120749, South Korea.
+EM dhshin@icl.yonsei.ac.kr; khlee@cs.yonsei.ac.kr; suda@ics.uci.edu
+RI LEE, KyongHo/KVB-9573-2024
+OI LEE, KYONG-HO/0000-0002-1581-917X
+FU Seoul R&BD Program, Korea [10561]
+FX This research was supported by the Seoul R&BD Program (10561), Korea.
+CR AGARWAL V, 2005, P 14 INT C WORLD WID, P128
+   Akkiraju R., 2006, CEC EEE 06, P70
+   Alkamari A, 2007, 2008 INTERNATIONAL MCETECH CONFERENCE ON E-TECHNOLOGIES, PROCEEDINGS, P104, DOI 10.1109/MCETECH.2008.34
+   [Anonymous], 2004, Web Semantics: Science, Services and Agents on the World Wide Web
+   Aydogan R, 2007, 2007 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES, PROCEEDINGS, P1154
+   da Costa LAG, 2004, IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES, PROCEEDINGS, P454, DOI 10.1109/ICWS.2004.1314770
+   GAMHA Y, 2007, P INT C SERV COMP WO, P49
+   HASHEMIAN SV, 2007, P ECOWS 06, P150
+   HOFFMANN J, 2007, P SERVICES 07, P229
+   Kona S, 2007, 2007 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES, PROCEEDINGS, P150
+   Li H, 2007, INT C COMP SUPP COOP, P496
+   Liu Z, 2007, 2007 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES, PROCEEDINGS, P78
+   OH SC, 2006, COMP ILLUSTRATION AI, V5, P1
+   Rao J, 2004, IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES, PROCEEDINGS, P446, DOI 10.1109/ICWS.2004.1314769
+   THAKKER D, 2008, P 10 INT C COMP MOD, P673
+   Thiagarajan R, 2007, ECOWS 07: PROCEEDING OF THE 5TH IEEE EUROPEAN CONFERENCE ON WEB SERVICES, P23, DOI 10.1109/ECOWS.2007.26
+   *W3C, 2004, SEM MARK WEB SERV OW
+   W3C, 2005, WEB SERV MOD ONT WSM
+   Ye L, 2006, APSCC: 2006 IEEE ASIA-PACIFIC CONFERENCE ON SERVICES COMPUTING, PROCEEDINGS, P348
+NR 19
+TC 44
+Z9 45
+U1 0
+U2 8
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD DEC
+PY 2009
+VL 7
+IS 4
+BP 332
+EP 343
+DI 10.1016/j.websem.2009.05.001
+PG 12
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 552OK
+UT WOS:000274302100008
+DA 2024-07-18
+ER
+
+PT J
+AU Oren, E
+   Heitmann, B
+   Decker, S
+AF Oren, Eyal
+   Heitmann, Benjamin
+   Decker, Stefan
+TI ActiveRDF: Embedding Semantic Web data into object-oriented languages
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article; Proceedings Paper
+CT 16th International World Wide Web Conference
+CY MAY 08-12, 2007
+CL Banff, CANADA
+DE Semantic Web; RDF(S); Embedded data access; Object-oriented programming;
+   Scripting languages
+ID DESIGN
+AB Semantic Web applications share a large portion of development effort with database-driven Web applications. Existing approaches for development of these database-driven applications cannot be directly applied to Semantic Web data due to differences in the underlying data model. We develop a mapping approach that embeds Semantic Web data into object-oriented languages and thereby enables reuse of existing Web application frameworks.
+   We analyse the relation between the Semantic Web and the Web, and survey the typical data access patterns in Semantic Web applications. We discuss the mismatch between object-oriented programming languages and Semantic Web data, for example in the semantics of class membership, inheritance relations, and object conformance to schemas.
+   We present ActiveRDF, an object-oriented API for managing RDF data that offers full manipulation and querying of RDF data, does not rely on a schema and fully conforms to RDF( S) semantics. ActiveRDF can be used with different RDF data stores: adapters have been implemented to generic SPARQL endpoints, Sesame, Jena, Redland and YARS and new adapters can be added easily. We demonstrate the usage of ActiveRDF and its integration with the popular Ruby on Rails framework which enables rapid development of Semantic Web applications. (c) 2008 Elsevier B. V. All rights reserved.
+C1 [Oren, Eyal] Vrije Univ Amsterdam, NL-1081 HV Amsterdam, Netherlands.
+   [Heitmann, Benjamin; Decker, Stefan] Natl Univ Ireland, Digital Enterprise Res Inst, Galway, Ireland.
+C3 Vrije Universiteit Amsterdam; Ollscoil na Gaillimhe-University of Galway
+RP Oren, E (corresponding author), Vrije Univ Amsterdam, Boelelaan 1081A, NL-1081 HV Amsterdam, Netherlands.
+EM eyal@cs.vu.nl; benjamin.heitmann@deri.org; stefan.decker@deri.org
+RI Oren, Eyal/AAD-5561-2019; Decker, Stefan/D-5589-2017
+OI Decker, Stefan/0000-0001-6324-7164
+CR Abecker A, 2003, IN HAND I S, P435
+   Adya Atul., 2007, SIGMOD '07: Proceedings of the 2007 ACM SIGMOD international conference on Management of data, P877
+   [Anonymous], 2007, Web 2.0 Principles and Best Practices
+   [Anonymous], 1989, Principles of Database and Knowledge-Base Systems
+   [Anonymous], 2005, WISDOM CROWDS
+   [Anonymous], THESIS U KARLSRUHE
+   [Anonymous], 2007, Proceedings of the 16th international conference on world wide web, Banff, Alberta, Canada, DOI DOI 10.1145/1242572.1242684
+   Bauer C., 2004, HIBERNATE ACTION
+   Beckett D, 2002, COMPUT NETW, V39, P577, DOI 10.1016/S1389-1286(02)00221-9
+   Berners-Lee T., 2006, LINKED DATA W3C DESI
+   BIZER C, 2003, P INT SEM WEB C ISWC
+   Bojars U, 2007, P INT C SOC SEM WEB, P47
+   BRESLIN JG, 2005, P EUR SEM WEB C ESWC
+   Broekstra Jeen., 2002, ISWC '02, P54
+   Burbeck S., 1987, APPL PROGRAMMING SMA
+   CARROLL JJ, 2005, P 14 INT C WORLD WID, P613, DOI DOI 10.1145/1060745.1060835
+   Castro Pablo., 2007, Proceedings of the 2007 ACM SIGMOD international conference on Management of data, P1070
+   Ceri S, 2000, COMPUT NETW, V33, P137, DOI 10.1016/S1389-1286(00)00040-2
+   Ceri S., 2003, Designing data-intensive Web applications
+   CORCHO O, 2006, P INT C WEB ENG, P145
+   Davies J., 2002, SEMANTIC WEB ONTOLOG
+   Decker S., 1999, Database Semantics. Semantic Issues in Multimedia Systems. IFIP TC2/WG2.6 Eighth Working Conference on Database Semantics (DS-8), P351
+   Decker S., 2002, THESIS U KARLSRUHE
+   Dong Xin., 2005, Proceedings of the 2005 ACM SIGMOD international conference on Management of data, P85, DOI DOI 10.15211/SOVEUROPE420198596
+   FACCA FM, 2007, P INT WORLD WID WEB
+   Fensel D, 2001, IEEE INTELL SYST APP, V16, P38, DOI 10.1109/5254.920598
+   Fernández M, 2000, VLDB J, V9, P38, DOI 10.1007/s007780050082
+   Florescu D., 1998, SIGMOD Record, V27, P59, DOI 10.1145/290593.290605
+   Fowler M., 2002, Patterns of Enterprise Application Architecture
+   Frohn J., 1994, Proceedings of the International Conference on Very Large Data Bases (VLDB), P273
+   Garlan D., 1993, Advances in software engineering and knowledge engineering, P1
+   Gruber TR, 1995, INT J HUM-COMPUT ST, V43, P907, DOI 10.1006/ijhc.1995.1081
+   Harth A, 2005, Third Latin American Web Congress, Proceedings, P71, DOI 10.1109/LAWEB.2005.25
+   Heitmann B., 2007, THESIS U KARLSRUHE
+   HEITMANN B, 2007, P SCRIPT SEM WEB WOR, P52
+   HOUBEN GJ, 2003, P INT C WEB ENG ICWE, P529
+   JIHNGRAN A, 2006, P INT C VER LARG DAT, P3
+   JIN Y, 2002, P INT C EXT DAT TECH, P766
+   Kiryakov A., 2004, Services and Agents on the World Wide Web, V2, P49, DOI [DOI 10.1016/J.WEBSEM.2004.07.005, 10.1016/j.websem.2004.07.005]
+   Klapsing R., 2001, IEEE Multimedia, V8, P62, DOI 10.1109/93.917972
+   KRASNER GE, 1988, J OBJECT-ORIENT PROG, V1, P41
+   Lassila O, 2007, IEEE INTERNET COMPUT, V11, P90, DOI 10.1109/MIC.2007.52
+   Lawrence S, 1999, NATURE, V400, P107, DOI 10.1038/21987
+   Lawrence S, 1998, SCIENCE, V280, P98, DOI 10.1126/science.280.5360.98
+   Lima F, 2003, FIRST LATIN AMERICAN WEB CONGRESS, PROCEEDINGS, P93, DOI 10.1109/LAWEB.2003.1250287
+   Maedche A, 2003, SPINNING THE SEMANTIC WEB, P317
+   Melnik S., 2007, P 2007 ACM SIGMOD IN, P461
+   Mentzas G., 2003, Knowledge Asset Management: Beyond the Process-centred and Product -centred Approaches
+   NUSSBAUMER M, 2006, P INT WORLD WID WEB, P893
+   O'Leary DE, 1998, IEEE INTELL SYST APP, V13, P34, DOI 10.1109/5254.683180
+   O'Reilly T., 2006, What Is Web 2.0: Design patterns and business models for the next generation of software
+   OREN E, 2008, INT J METAD IN PRESS, V3
+   Oren E, 2007, LECT NOTES COMPUT SC, V4519, P160
+   Oren E, 2006, LECT NOTES COMPUT SC, V4273, P559
+   Oren E, 2007, IEEE SOFTWARE, V24, P64, DOI 10.1109/MS.2007.126
+   Oren Eyal., 2007, Proceedings of the 16th international conference on World Wide Web, P817
+   Ousterhout JK, 1998, COMPUTER, V31, P23, DOI 10.1109/2.660187
+   Paulson L.D., 2005, IEEE Computer, V38, P14, DOI [10.1109/MC.2005.330., DOI 10.1109/MC.2005]
+   PLESSERS P, 2004, P ICWE 2004 C MUN GE, P349
+   Raghavan S., 2001, Proceedings of the 27th International Conference on Very Large Data Bases, P129
+   Reenskaug T., 1979, MODELS VIEWS CONTROL
+   REIF G., 2005, THESIS TU WIEN
+   Rumbaugh J., 1991, OBJECT ORIENTED MODE
+   SAUERMANN L, 2007, TM0701 DFKI
+   Sauermann L, 2006, LECT NOTES COMPUT SC, V4273, P887
+   Schwabe Daniel., 1996, Proceedings of the the seventh ACM conference on Hypertext (HYPERTEXT96), P116
+   Shadbolt N, 2006, IEEE INTELL SYST, V21, P96, DOI 10.1109/MIS.2006.62
+   SILVERMAN M, 2007, AM J PHYS, V75, P190
+   Thomas D., 2007, AGILE WEB DEV RAILS, V2nd
+   Tummarello G, 2007, LECT NOTES COMPUT SC, V4825, P552
+   Van der Sluijs K., 2006, P 6 INT C WEB ENG PA, P337
+   van Deursen A, 2000, ACM SIGPLAN NOTICES, V35, P26, DOI 10.1145/352029.352035
+   VANHARMELEN F, 2006, P INT WORKSH COOP IN, P1
+   Vdovjak R., 2003, Journal of Web Engineering, V2, P3
+   WILKINSON K, 2003, P INT WORKSH SEM WEB
+NR 75
+TC 28
+Z9 28
+U1 0
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD SEP
+PY 2008
+VL 6
+IS 3
+BP 191
+EP 202
+DI 10.1016/j.websem.2008.04.003
+PG 12
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA 397NR
+UT WOS:000262669900003
+DA 2024-07-18
+ER
+
+PT J
+AU Ankolekar, A
+   Krötzsch, M
+   Tran, T
+   Vrandecic, D
+AF Ankolekar, Anupriya
+   Kroetzsch, Markus
+   Tran, Thanh
+   Vrandecic, Denny
+TI The two cultures:: Mashing up Web 2.0 and the Semantic Web
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE Web 2.0; Semantic Web; blog; RDF; vision
+AB A common perception is that there are two competing visions for the future evolution of the Web: the Semantic Web and Web 2.0. A closer look, though, reveals that the core technologies and concerns of these two approaches are complementary and that each field can and must draw from the other's strengths. We believe that future Web applications will retain the Web 2.0 focus on community and usability, while drawing on Semantic Web infrastructure to facilitate mashup-like information sharing. However, there are several open issues that must be addressed before such applications can become commonplace. In this paper, we outline a semantic weblogs scenario that illustrates the potential for combining Web 2.0 and Semantic Web technologies, while highlighting the unresolved issues that impede its realization. Nevertheless, we believe that the scenario can be realized in the short-term. We point to recent progress made in resolving each of the issues as well as future research directions for each of the communities. (c) 2007 Elsevier B.V. All rights reserved.
+C1 [Ankolekar, Anupriya; Kroetzsch, Markus; Tran, Thanh; Vrandecic, Denny] Univ Karlsruhe TH, Inst AIFB, Karlsruhe, Germany.
+C3 Helmholtz Association; Karlsruhe Institute of Technology
+RP Ankolekar, A (corresponding author), Hewlett Packard Labs, Palo Alto, CA USA.
+EM anupriya.ankolekar@hp.com
+RI Krotzsch, Markus/F-8453-2011
+OI Krotzsch, Markus/0000-0002-9172-2601
+CR Ankolekar A., 2006, P SEM WEB PERS WORKS
+   ANKOLEKAR A, 2007, P 16 C WORLD WID WEB
+   Berners-Lee T, 2001, SCI AM, V284, P34, DOI 10.1038/scientificamerican0501-34
+   Bizer C., 2004, P 3 INT SEM WEB C IS, DOI DOI 10.1038/NPRE.2011.5660.1
+   BRICKLEY D, 2003, FOAF VOCABULARY SPEC
+   Cayzer S, 2004, COMMUN ACM, V47, P47, DOI 10.1145/1035134.1035164
+   CELIK T, 2006, HREVIEW 0 3
+   *CREAT COMM, SOM RIGHTS RES BUILD
+   DAWSON F, 1998, 2445 RFC IETF
+   Ding L., 2004, P 13 ACM C INF KNOWL, P58
+   KARGER DR, 2004, P 3 INT SEM WEB C IS, P214
+   Marlow C., 2006, P 17 C HYP HYPERTEXT, P31, DOI [https://doi.org/10.1145/1149941.1149949, DOI 10.1145/1149941.1149949]
+   Mika P, 2005, LECT NOTES COMPUT SC, V3729, P522, DOI 10.1007/11574620_38
+   NOTTINGHAM M, 2005, 4287 RFC INT ENG TAS
+   OReilly T., 2005, What is Web 2.0. Design Patterns and Business Models for the Next Generation of Software
+   Oren E, 2006, LECT NOTES COMPUT SC, V4273, P559
+   VOLKEL M, 2006, P 15 INT C WORLD WID, P23
+   ZACHARIAS V, 2004, P FACHGR WISS
+NR 18
+TC 43
+Z9 50
+U1 0
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+EI 1873-7749
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD FEB
+PY 2008
+VL 6
+IS 1
+BP 70
+EP 75
+DI 10.1016/j.websem.2007.11.005
+PG 6
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 295ZK
+UT WOS:000255513100009
+DA 2024-07-18
+ER
+
+PT J
+AU Heath, T
+   Motta, E
+AF Heath, Tom
+   Motta, Enrico
+TI Ease of interaction plus ease of integration: Combining Web2.0 and the
+   Semantic Web in a reviewing site
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE user interaction; data integration; reviews; Semantic Web; Web2.0
+AB Web2.0 has enabled contributions to the Web on an unprecedented scale, through simple interfaces that provide engaging interactions. This wealth of data has spawned countless mashups that integrate heterogenous information, but using techniques that will not scale beyond a handful of sources. In contrast, the Semantic Web provides the key to large-scale data integration, yet still lacks approachable interfaces allowing contributions from non-specialists. In this paper we present Revyu, a reviewing and rating site in the Web2.0 mould that is built on Semantic Web infrastructure and both publishes and consumes linked RDF data. This combination of approaches affords ease of interaction for regular users and ease of integration with external data sources. (c) 2007 Elsevier B.V. All rights reserved.
+C1 [Heath, Tom] Open Univ, Knowledge Media Inst, Milton Keynes MK7 6AA, Bucks, England.
+   Open Univ, Ctr Res Comp, Milton Keynes MK7 6AA, Bucks, England.
+C3 Open University - UK; Open University - UK
+RP Heath, T (corresponding author), Open Univ, Knowledge Media Inst, Milton Keynes MK7 6AA, Bucks, England.
+EM t.heath@open.ac.uk; e.motta@open.ac.uk
+OI Motta, Enrico/0000-0003-0015-1952
+CR Ankolekar A., 2007, P 16 INT C WORLD WID
+   [Anonymous], httpRange-14: What is the range of the HTTP dereference function?
+   [Anonymous], P IEEE CONS COMM NET
+   AUER S, 2007, P 4 EUR SEM WEB C ES
+   AYERS D, HEATH REV VOC V0 2
+   Berners-Lee T., LINKED DATA
+   BIZER C, 2007, P 3 WORKSH SCRIPT SE
+   Bizer C., 2007, P DEM TRACK 4 EUR SE
+   Brickley D., 2014, FOAF Vocabulary Specification 0.99
+   CELIK T, HREVIEW 0 3 DRAFT SP
+   CELMA O, 2005, P 1 WORKSH SCRIPT SE
+   GUHA R, 2004, P 1 WORKSH FRIEND FR
+   HALASCHEKWIENER C, 2005, P POST TRACK 4 INT S
+   HEATH T, 2006, P WORKSH SEM WEB PER
+   HEATH T, 2006, P POST TRACT 5 INT S
+   HEATH T, 2006, P 3 INT SEM WEB US I
+   MCBRIDE B, 2002, P 1 INT SEM WEB C IS
+   Miles A., 2005, SKOS CORE VOCABULARY
+   Newman R., TAG ONTOLOGY
+   Oldakowski R., 2005, P 1 WORKSH SCRIPT SE
+   Seaborne Andy., 2005, SPARQL QUERY LANGUAG
+   Shadbolt N, 2006, IEEE INTELL SYST, V21, P96, DOI 10.1109/MIS.2006.62
+   SPECIA L, 2007, P 4 EUR SEM WEB C ES
+   VOLKEL M, 2006, P 15 INT WORLD WEB C
+NR 24
+TC 18
+Z9 19
+U1 0
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1570-8268
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD FEB
+PY 2008
+VL 6
+IS 1
+BP 76
+EP 83
+DI 10.1016/j.websem.2007.11.009
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 295ZK
+UT WOS:000255513100010
+DA 2024-07-18
+ER
+
+PT J
+AU Nowack, B
+AF Nowack, Benjamin
+TI CONFOTO: Browsing and annotating conference photos on the Semantic web
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE photo annotation; RDF; semantic web; SPARQL; user interfaces
+AB This paper describes CONFOTO, a browsing and annotation service(1) for conference photos which combines current web trends such as data sharing and collaborative tagging with Resource Description Framework (RDF) system advantages like unrestricted aggregation and ontology re-use. Interactive user interface components ease information exploring and editing, W3C-recommended import and export interfaces and formats facilitate data integration and re-purposing. (C) 2006 Elsevier B. V. All rights reserved.
+C1 Appmosphere Web Applicat, D-45145 Essen, Germany.
+RP Nowack, B (corresponding author), Appmosphere Web Applicat, Kruppstr 100, D-45145 Essen, Germany.
+EM bnowack@appmosphere.com
+CR CLARK KG, 2006, SPARQL PROTOCOL RDF
+   NOTTINGHAM M, 2005, ATOM SYNDICATION FOR
+   NOWACK B, 2004, OWLCHESTRA FACILITAT
+   Prud'hommeaux Eric., 2006, SPARQL Query Language for RDF
+   *RDF, 2001, RDF SIT SUMM RSS 1 0
+NR 5
+TC 5
+Z9 7
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1570-8268
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD DEC
+PY 2006
+VL 4
+IS 4
+BP 263
+EP 266
+DI 10.1016/j.websem.2006.09.001
+PG 4
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 176AC
+UT WOS:000247054100003
+DA 2024-07-18
+ER
+
+PT J
+AU Kalyanpur, A
+   Parsia, B
+   Sirin, E
+   Grau, BC
+   Hendler, J
+AF Kalyanpur, Aditya
+   Parsia, Bijan
+   Sirin, Evren
+   Grau, Bernardo Cuenca
+   Hendler, James
+TI Swoop: A Web Ontology Editing Browser
+SO JOURNAL OF WEB SEMANTICS
+LA English
+DT Article
+DE OWL; ontology engineering; systems
+AB In this paper, we describe Swoop, a hypermedia inspired Ontology Browser and Editor based on OWL, the recently standardized Web-oriented ontology language. After discussing the design rationale and architecture of Swoop, we focus mainly on its features, using illustrative examples to highlight its use. We demonstrate that with its Web-metaphor, adherence to OWL recommendations and key unique features, such as Collaborative Annotation using Annotea, Swoop acts as a useful and efficient Web Ontology development tool. We conclude with a list of future plans for Swoop, that should further increase its overall appeal and accessibility. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Univ Maryland, MIND Lab, Baltimore, MD 21201 USA.
+C3 University System of Maryland; University of Maryland Baltimore
+RP Kalyanpur, A (corresponding author), Univ Maryland, MIND Lab, 8400 Baltimore Ave, Baltimore, MD 21201 USA.
+EM aditya@cs.umd.edu; bparsia@isr.umd.edu; evren@cs.umd.edu;
+   bernardo@mindlab.umd.edu; hendler@cs.umd.edu
+OI Hendler, James/0000-0003-3056-1960
+CR ARPIREZ JC, 2001, P 1 INT C KNOWL CAPT
+   BECHHOFER S, 2003, P INT SEM WEB C
+   BECHHOFER S, 2001, P KI2001 JOINT GERM
+   Beckett D., TURTLE TERSE RDF TRI
+   DEAN M, 2004, OWL  WEB ONTOLOGY LA
+   DOMINGUE J, 1998, P 11 KNOWL ACQ KNOWL
+   FARQUHAR A, 1995, P 10 BANFF KNOWL ACQ
+   Gamma R., Design Patterns: Elements ofReusable Object-Oriented Software
+   Haarslev V., 2001, Proceedings International Workshop on Description Logics (DL-2001), Stanford, USA, P131
+   HORROCKS HBS, 2003, SEMANTIC WEB RULE LA
+   HORROCKS I, 1998, FACT SYSTEM, P307
+   JENNIFER G, 2003, J WEB SEMANT, V1
+   KAHAN J, 2001, P WWW10 INT C
+   KALYANPUR A, 2004, P WWW2004 WORKSH
+   KALYANPUR A, EFFECTIVE PARAPHRASI
+   KALYANPUR A, 2005, P INT J SEM WEB INF, V1
+   KLEIN M, 2002, WORKSH ONT DISTR SYS
+   Manola Frank., 2004, RDF PRIMER W3C RECOM
+   NOY N, 2001, IEEE INTEL SYST
+   PARSIA B, 2003, OWL REASONER POSTER
+   PARSIA B, P 14 INT WORLD WID W
+   Patel-Schneider P., 2004, OWL WEB ONTOLOGY LAN
+   SEABORNE HLBA, 2004, RDQL QUERY LANGUAGE
+   Stojanovic L, 2002, LECT NOTES ARTIF INT, V2473, P285
+   Sure Y., 2002, P INT SEM WEB C ISWC
+   SWICK R, 2001, ANNOTEA PROTOCOLS
+NR 26
+TC 114
+Z9 127
+U1 0
+U2 7
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1570-8268
+J9 J WEB SEMANT
+JI J. Web Semant.
+PD JUN
+PY 2006
+VL 4
+IS 2
+BP 144
+EP 153
+DI 10.1016/j.websem.2005.10.001
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 175RP
+UT WOS:000247031800006
+OA Green Submitted
+DA 2024-07-18
+ER
+
+EF

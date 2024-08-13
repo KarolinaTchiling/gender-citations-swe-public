@@ -1,0 +1,1734 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chen, SQ
+   Han, B
+   Liu, Y
+AF Chen, Songqing
+   Han, Bo
+   Liu, Yao
+TI Immersive Computing: What to Expect in a Decade?
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Computers; Focusing; Cloning; Virtual reality; Internet; Sparks;
+   Artificial intelligence
+AB Computing technology is advancing at an unprecedented speed, reshaping both our daily lives and the global landscape. In this article, we delve into the profound impact of immersive technology on society, focusing on how it can represent and interact with users. Starting from the current virtual reality (VR) technology, we envision that VR will integrate with artificial intelligence (AI) and robotics technologies, and eventually achieve a personal clone of individual users that can perform most of the tasks on behalf of users. By roughly dividing the progression of immersive technologies into three phases, we discuss their prospective applications while emphasizing the potential research challenges to be addressed.
+C1 [Chen, Songqing; Han, Bo] George Mason Univ, Fairfax, VA 22030 USA.
+   [Liu, Yao] Rutgers State Univ, Piscataway, NJ 08854 USA.
+C3 George Mason University; Rutgers University System; Rutgers University
+   New Brunswick
+RP Chen, SQ (corresponding author), George Mason Univ, Fairfax, VA 22030 USA.
+EM sqchen@gmu.edu; bohan@gmu.edu; yao.liu@rutgers.edu
+OI Chen, Songqing/0000-0003-4650-7125
+CR Cheng RZ, 2024, IEEE COMMUN MAG, V62, P156, DOI 10.1109/MCOM.018.2300095
+   Cheng RZ, 2022, IEEE NETWORK, V36, P197, DOI 10.1109/MNET.117.2200055
+   Cheng RZ, 2022, PROCEEDINGS OF THE 2022 22ND ACM INTERNET MEASUREMENT CONFERENCE, IMC 2022, P504, DOI 10.1145/3517745.3561417
+   Ghinea G, 2014, ACM T MULTIM COMPUT, V11, DOI 10.1145/2617994
+   Kerbl B, 2023, ACM T GRAPHIC, V42, DOI 10.1145/3592433
+   Kritzinger W, 2018, IFAC PAPERSONLINE, V51, P1016, DOI 10.1016/j.ifacol.2018.08.474
+   Mildenhall B, 2022, COMMUN ACM, V65, P99, DOI 10.1145/3503250
+   Mori M, 2012, IEEE ROBOT AUTOM MAG, V19, P98, DOI 10.1109/MRA.2012.2192811
+   Park O. Joseph, 2023, FUTURE GENER COMPUT, P1, DOI [10.1145/3586183.3606763.3, DOI 10.1145/3586183.3606763.3]
+   Wang Na, 2024, 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), P94, DOI [10.1007/978-981-97-0464-4_8, 10.1109/VR58804.2024.00033]
+NR 10
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAY-JUN
+PY 2024
+VL 28
+IS 3
+BP 46
+EP 54
+DI 10.1109/MIC.2024.3388808
+PG 9
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TM1D1
+UT WOS:001241577900004
+DA 2024-08-05
+ER
+
+PT J
+AU Ho, KKW
+   Ye, SY
+   Chiu, DKW
+   Sekiguchi, T
+AF Ho, Kevin K. W.
+   Ye, Shaoyu
+   Chiu, Dickson K. W.
+   Sekiguchi, Takuya
+TI Digital Transformation in Remote Learning and Work—An Externality of the
+   COVID-19 Pandemic
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Remote working; Distance learning; COVID-19; Pandemics; Social
+   networking (online); Internet; Education
+AB The COVID-19 pandemic changed the world in multiple ways. The global lockdown forced people to adopt remote learning and work, creating many examples of different organizations (government agencies, businesses, and educational institutions) adapting to this new paradigm through digital transformation. In this article, we review how educational institutions have digitally transformed teaching and learning processes into remote learning and how government agencies and businesses have re-engineered their business processes to facilitate remote work worldwide. Based on this review, we further discuss how our society will embrace these new working and learning paradigms in the post-COVID-19 era.
+C1 [Ho, Kevin K. W.] Univ Tsukuba, Management Informat Syst, Tokyo 1120012, Japan.
+   [Ye, Shaoyu] Univ Tsukuba, Tsukuba, Ibaraki 3058550, Japan.
+   [Chiu, Dickson K. W.] Univ Hong Kong, Hong Kong 999077, Peoples R China.
+   [Sekiguchi, Takuya] Univ Tsukuba, Inst Business Sci, MBA Int Business Program, Tokyo 1120012, Japan.
+C3 University of Tsukuba; University of Tsukuba; University of Hong Kong;
+   University of Tsukuba
+RP Ho, KKW (corresponding author), Univ Tsukuba, Management Informat Syst, Tokyo 1120012, Japan.
+EM ho.kevin.ge@u.tsukuba.ac.jp; shaoyu@slis.tsukuba.ac.jp;
+   dicksonchiu@ieee.org; s2240161@u.tsukuba.ac.jp
+RI Chiu, Dickson K. W./B-9630-2017; Ho, Kai Wing/E-8297-2013
+OI Chiu, Dickson K. W./0000-0002-7926-9568; Ho, Kai
+   Wing/0000-0003-1304-0573; Ye, Shaoyu/0000-0003-4464-9736
+CR [Anonymous], 1999, Wired
+   Battisti E, 2022, J BUS RES, V150, P38, DOI 10.1016/j.jbusres.2022.06.010
+   Beland LP, 2023, PLOS ONE, V18, DOI 10.1371/journal.pone.0270341
+   Chen V, 2022, BRIT J EDUC TECHNOL, V53, P512, DOI 10.1111/bjet.13205
+   Colao A, 2020, LANCET PUBLIC HEALTH, V5, pE170, DOI 10.1016/S2468-2667(20)30124-9
+   Dai CM, 2023, LIBR HI TECH, V41, P1631, DOI 10.1108/LHT-10-2022-0472
+   Delfino GF, 2021, ACCOUNT AUDIT ACCOUN, V34, P1376, DOI 10.1108/AAAJ-06-2020-4657
+   Fan W, 2023, J HEALTH SOC BEHAV, V64, P152, DOI 10.1177/00221465221150283
+   Gavin L., 2020, The B2B digital inflection point: Howsales have changed during COVID-19
+   Hartmann NN, 2020, IND MARKET MANAG, V88, P101, DOI 10.1016/j.indmarman.2020.05.005
+   Ho KKW, 2023, IEEE INTERNET COMPUT, V27, P7, DOI 10.1109/MIC.2022.3225568
+   Huang PS, 2023, LIBR HI TECH, V41, P1, DOI 10.1108/LHT-02-2023-585
+   Li SH, 2023, APPL SCI-BASEL, V13, DOI 10.3390/app13042250
+   Tulaskar R, 2022, EDUC INF TECHNOL, V27, P551, DOI 10.1007/s10639-021-10747-1
+   Vial G, 2019, J STRATEGIC INF SYST, V28, P118, DOI 10.1016/j.jsis.2019.01.003
+   Wang B, 2021, APPL PSYCHOL-INT REV, V70, P16, DOI 10.1111/apps.12290
+   Wrycza S, 2020, INFORM SYST MANAGE, V37, P288, DOI 10.1080/10580530.2020.1820631
+   Yan LX, 2021, BRIT J EDUC TECHNOL, V52, P2038, DOI 10.1111/bjet.13102
+   Ye SY, 2023, BMC PUBLIC HEALTH, V23, DOI 10.1186/s12889-023-15485-2
+   Ye SY, 2023, LIBR HI TECH, V41, P152, DOI 10.1108/LHT-06-2021-0178
+   Yu PY, 2023, LIBR HI TECH, V41, P108, DOI 10.1108/LHT-10-2021-0342
+NR 21
+TC 1
+Z9 1
+U1 4
+U2 4
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD JAN
+PY 2024
+VL 28
+IS 1
+BP 10
+EP 17
+DI 10.1109/MIC.2023.3332887
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA IN4Q6
+UT WOS:001166996500009
+DA 2024-08-05
+ER
+
+PT J
+AU Kimovski, D
+   Saurabh, N
+   Jansen, M
+   Aral, A
+   Al-Dulaimy, A
+   Bondi, AB
+   Galletta, A
+   Papadopoulos, AV
+   Iosup, A
+   Prodan, R
+AF Kimovski, Dragi
+   Saurabh, Nishant
+   Jansen, Matthijs
+   Aral, Atakan
+   Al-Dulaimy, Auday
+   Bondi, Andre B.
+   Galletta, Antonino
+   Papadopoulos, Alessandro V.
+   Iosup, Alexandru
+   Prodan, Radu
+TI Beyond Von Neumann in the Computing Continuum: Architectures,
+   Applications, and Future Directions
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Computer architecture; Quantum computing; Computational modeling;
+   Internet; Artificial intelligence; Neurons; Distributed databases
+AB The article discusses emerging non-von Neumann computer architectures and their integration in the computing continuum for supporting modern distributed applications, including artificial intelligence, big data, and scientific computing. It provides a detailed summary of available and emerging non-von Neumann architectures, which range from power-efficient single-board accelerators to quantum and neuromorphic computers. Furthermore, it explores their potential benefits for revolutionizing data processing and analysis in various societal, science, and industry fields. The article provides a detailed analysis of the most widely used class of distributed applications and discusses the difficulties in their execution over the computing continuum, including communication, interoperability, orchestration, and sustainability issues.
+C1 [Kimovski, Dragi] Univ Klagenfurt, Tenure Track, A-9020 Klagenfurt, Austria.
+   [Saurabh, Nishant] Univ Utrecht, NL-3584 CC Utrecht, Netherlands.
+   [Jansen, Matthijs; Iosup, Alexandru] Vrije Univ Amsterdam, NL-1081 HV Amsterdam, Netherlands.
+   [Aral, Atakan] Umea Univ, S-90187 Umea, Sweden.
+   [Al-Dulaimy, Auday; Papadopoulos, Alessandro V.] Malardalen Univ, S-72123 Vasteras, Sweden.
+   [Bondi, Andre B.] Software Performance & Scalabil Consulting LLC, Red Bank, NJ 07701 USA.
+   [Galletta, Antonino] Univ Messina, I-98122 Messina, Italy.
+   [Prodan, Radu] Univ Klagenfurt, A-9020 Klagenfurt, Austria.
+C3 University of Klagenfurt; Utrecht University; Vrije Universiteit
+   Amsterdam; Umea University; Malardalen University; University of
+   Messina; University of Klagenfurt
+RP Kimovski, D (corresponding author), Univ Klagenfurt, Tenure Track, A-9020 Klagenfurt, Austria.
+EM dragi.kimovski@aau.at; n.saurabh@uu.nl; m.s.jansen@vu.nl;
+   atakan.aral@univie.ac.at; auday.aldulaimy@gmail.com;
+   andrebbondi@gmail.com; antonino.galletta@unime.it;
+   alessandro.papadopoulos@mdu.se; a.iosup@vu.nl; radu.prodan@aau.at
+RI Prodan, Radu/S-4253-2017; Aral, Atakan/D-8734-2014; Kimovski,
+   Dragi/A-2332-2015
+OI Aral, Atakan/0000-0002-2281-8183; Kimovski, Dragi/0000-0001-5933-3246;
+   Papadopoulos, Alessandro Vittorio/0000-0002-1364-8127; Saurabh,
+   Nishant/0000-0002-1926-4693; Al-Dulaimy, Auday/0000-0002-3548-2973;
+   Galletta, Antonino/0000-0003-4688-0894
+CR Chang WL, 2021, IEEE T NANOBIOSCI, V20, P354, DOI 10.1109/TNB.2021.3075733
+   Cranganore SS, 2022, P IEEE INT C E-SCI, P346, DOI 10.1109/eScience55777.2022.00048
+   Duan BJ, 2017, PHYS REV A, V96, DOI 10.1103/PhysRevA.96.032301
+   Dustdar S, 2023, IEEE T KNOWL DATA EN, V35, P4092, DOI 10.1109/TKDE.2022.3142856
+   Wang YE, 2019, Arxiv, DOI [arXiv:1907.10701, DOI 10.48550/ARXIV.1907.10701]
+   Kimovski D, 2021, IEEE INTERNET COMPUT, V25, P30, DOI 10.1109/MIC.2021.3050613
+   Konyavsky G. V., 2019, Asia Life Sci., V28, P33
+   Kopczynski M, 2022, J INTELL INF SYST, V59, P779, DOI 10.1007/s10844-022-00725-5
+   Mezquita R. S., 2020, P INT S DISTR COMP A, P189
+   Sanderson K, 2023, NATURE, V615, P773, DOI 10.1038/d41586-023-00816-5
+   Sisyukov Artem N., 2020, 2020 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus). Proceedings, P509, DOI 10.1109/EIConRus49466.2020.9038949
+   Starke WJ, 2021, IEEE MICRO, V41, P7, DOI 10.1109/MM.2021.3058632
+   Tavanaei A, 2019, NEURAL NETWORKS, V111, P47, DOI 10.1016/j.neunet.2018.12.002
+NR 13
+TC 4
+Z9 4
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAY-JUN
+PY 2024
+VL 28
+IS 3
+BP 6
+EP 16
+DI 10.1109/MIC.2023.3301010
+PG 11
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TM1D1
+UT WOS:001241577900007
+OA Green Published, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, QB
+   Yang, LC
+   Liu, Y
+   Deng, JQ
+   Wu, GR
+AF Liu, Qinbo
+   Yang, Lichen
+   Liu, Yang
+   Deng, Jiaqi
+   Wu, Guorui
+TI Privacy-Preserving Recommendation Based on a Shuffled Federated Graph
+   Neural Network
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Privacy; Graph neural networks; Servers; Training; Data privacy;
+   Computational modeling; Internet
+AB Benefiting from the efficient extraction of high-order structural information in user-item interaction graphs, graph neural networks (GNNs) are widely used in recommender systems. However, most GNN-based recommenders need to collect user data, which may compromise user privacy. Federated learning is a privacy-preserving framework that can assuage customer privacy concerns by training a shared global model without collecting decentralized private data. To train the GNN-based global recommender on decentralized devices without compromising customer privacy, we propose a novel framework that federalizes the common GNN with a shuffler, which can protect both the ratings and the IDs of items rated by each user. Experiments on real-world datasets illustrate that our framework can achieve more accurate recommendations than state-of-the-art baselines with privacy protection. In particular, the figure improves up to 2.16% and 1.92%, respectively, in terms of the root-mean-square error and mean absolute error.
+C1 [Liu, Qinbo; Yang, Lichen; Liu, Yang; Deng, Jiaqi] Harbin Inst Technol Shenzhen, Sch Comp Sci & Technol, Shenzhen 518055, Peoples R China.
+   [Wu, Guorui] Peking Univ, Sch Software & Microelect, Beijing 100871, Peoples R China.
+C3 Harbin Institute of Technology; Peking University
+RP Liu, QB (corresponding author), Harbin Inst Technol Shenzhen, Sch Comp Sci & Technol, Shenzhen 518055, Peoples R China.
+EM 21s051062@stu.hit.edu.cn; 190110301@stu.hit.edu.cn; liu.yang@hit.edu.cn;
+   200110717@stu.hit.edu.cn; wuguorui@pku.edu.cn
+OI Liu, Yang/0000-0003-2486-5765
+FU Ministry of Education's Collaborative Education Project
+FX No Statement Available
+CR Atarashi K, 2021, LECT NOTES ARTIF INT, V12713, P346, DOI 10.1007/978-3-030-75765-6_28
+   Chai D, 2021, IEEE INTELL SYST, V36, P11, DOI 10.1109/MIS.2020.3014880
+   Duan SJ, 2020, IEEE INTERNET THINGS, V7, P1655, DOI 10.1109/JIOT.2019.2944889
+   Flanagan A, 2021, LECT NOTES ARTIF INT, V12458, P324, DOI 10.1007/978-3-030-67661-2_20
+   Girgis AM, 2021, IEEE INT SYMP INFO, P338, DOI 10.1109/ISIT45174.2021.9517906
+   Han JL, 2021, PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2021 (WWW 2021), P900, DOI 10.1145/3442381.3449942
+   Kipf T.N., 2017, INT C LEARN REPR, P1
+   Li Y., 2016, ICLR, P1
+   Li Z, 2023, IEEE T IND INFORM, V19, P673, DOI 10.1109/TII.2022.3203395
+   Liang F, 2021, AAAI CONF ARTIF INTE, V35, P4224
+   Liu RX, 2021, AAAI CONF ARTIF INTE, V35, P8688
+   Liu ZW, 2022, ACM T INTEL SYST TEC, V13, DOI 10.1145/3501815
+   McMahan HB, 2017, PR MACH LEARN RES, V54, P1273
+   Muhammad K, 2020, KDD '20: PROCEEDINGS OF THE 26TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P1234, DOI 10.1145/3394486.3403176
+   Qian TY, 2022, IEEE T KNOWL DATA EN, V34, P3597, DOI 10.1109/TKDE.2020.3038234
+   Qu Liang, 2023, P ACM WEB C 2023, P339
+   Rana M, 2022, FUTURE GENER COMP SY, V129, P77, DOI 10.1016/j.future.2021.11.011
+   Sankar A, 2021, PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2021 (WWW 2021), P2535, DOI 10.1145/3442381.3450120
+   Wang WJ, 2021, WSDM '21: PROCEEDINGS OF THE 14TH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, P373, DOI 10.1145/3437963.3441800
+   Wu C., 2021, P ACM SIGKDD C KNOWL, P1
+   Wu CC, 2022, NAT COMMUN, V13, DOI 10.1038/s41467-021-27651-4
+   Wu LF, 2022, PROCEEDINGS OF THE 28TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, KDD 2022, P4840, DOI 10.1145/3534678.3542609
+   Wu SW, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3535101
+   Yang Q, 2019, ACM T INTEL SYST TEC, V10, DOI 10.1145/3298981
+   Zhang SJ, 2021, PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2021 (WWW 2021), P3002, DOI 10.1145/3442381.3449813
+   Zhang ZW, 2022, IEEE T KNOWL DATA EN, V34, P249, DOI 10.1109/TKDE.2020.2981333
+NR 26
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAY-JUN
+PY 2024
+VL 28
+IS 3
+BP 17
+EP 24
+DI 10.1109/MIC.2023.3349288
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TM1D1
+UT WOS:001241577900002
+DA 2024-08-05
+ER
+
+PT J
+AU Yaqoob, M
+   Trestian, R
+   Tatipamula, M
+   Nguyen, HX
+AF Yaqoob, Mahnoor
+   Trestian, Ramona
+   Tatipamula, Mallik
+   Nguyen, Huan X.
+TI Digital-Twin-Driven End-to-End Network Slicing Toward 6G
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE 6G mobile communication; Artificial intelligence; Network slicing;
+   Digital twins; Computer architecture; Virtualization; Telecommunication
+   traffic; User centered design
+ID ARTIFICIAL-INTELLIGENCE; MANAGEMENT; VISION
+AB The diverse use-case requirements and strict expectations of latency on shared infrastructure, from future networks, calls for networking paradigms that can provide efficiency and flexibility. Network slicing is a network paradigm introduced with 5G, which is a key in realizing diverse service requirements and meeting expectations of future 6G networks. A network digital twin (NDT) model can benefit the management and orchestration of a network slicing lifecycle and provide a clear visual representation of the physical entities of a network slicing model while enabling experimentation with different resource allocation schemes without actually affecting the physical network. An NDT bridges the gap between the physical world and the digital world by having constant bidirectional communication. Hence, in this article, we make a case for NDTs as a key enabler of network slicing in 6G networks while integrating an artificial intelligence-based network slicing strategy to enable end-to-end quality-of-service provisioning.
+C1 [Yaqoob, Mahnoor; Trestian, Ramona] Middlesex Univ, London Digital Twin Res Ctr, London NW4 4BT, England.
+   [Tatipamula, Mallik] Ericsson Grp Funct Technol & Architectures, Santa Clara, CA 95054 USA.
+   [Nguyen, Huan X.] Middlesex Univ, Digital Commun Engn, London NW4 4BT, England.
+C3 Middlesex University; Middlesex University
+RP Yaqoob, M (corresponding author), Middlesex Univ, London Digital Twin Res Ctr, London NW4 4BT, England.
+EM my365@live.mdx.ac.uk; r.trestian@mdx.ac.uk;
+   mallik.tatipamula@ericsson.com; h.nguyen@mdx.ac.uk
+OI Nguyen, Huan Xuan/0000-0002-4105-2558
+FU Engineering and Physical Sciences Research Council U.K.-India Future
+   Networks Initiative
+FX No Statement Available
+CR Almasan P, 2022, IEEE COMMUN MAG, V60, P22, DOI 10.1109/MCOM.001.2200012
+   Bagaa M, 2022, IEEE T WIREL COMMUN, V21, P10130, DOI 10.1109/TWC.2022.3182591
+   Chergui H, 2022, IEEE WIREL COMMUN, V29, P86, DOI 10.1109/MWC.009.00366
+   Chergui H, 2021, IEEE NETWORK, V35, P43, DOI 10.1109/MNET.111.2100322
+   ETSI, 2019, ETSI GS ZSM 002
+   etsi, Experiential networked intelligence (ENI)
+   Guan WQ, 2021, IEEE NETWORK, V35, P264, DOI 10.1109/MNET.011.2000644
+   Jie Mei, 2020, Intelligent and Converged Networks, V1, P281, DOI 10.23919/ICN.2020.0019
+   Mihai S, 2022, IEEE COMMUN SURV TUT, V24, P2255, DOI 10.1109/COMST.2022.3208773
+   Nguyen HX, 2021, IEEE COMMUN MAG, V59, P10, DOI 10.1109/MCOM.001.2000343
+   Wang HZ, 2022, IEEE T IND INFORM, V18, P1367, DOI 10.1109/TII.2020.3047843
+   Wijethilaka S, 2021, IEEE COMMUN SURV TUT, V23, P957, DOI 10.1109/COMST.2021.3067807
+   Yang HL, 2020, IEEE NETWORK, V34, P272, DOI 10.1109/MNET.011.2000195
+   Yang P, 2019, IEEE NETWORK, V33, P70, DOI 10.1109/MNET.2019.1800418
+   Zhang ZQ, 2019, IEEE VEH TECHNOL MAG, V14, P28, DOI 10.1109/MVT.2019.2921208
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 47
+EP 55
+DI 10.1109/MIC.2023.3332252
+PG 9
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400005
+DA 2024-08-05
+ER
+
+PT J
+AU Yip, HY
+   Sheth, A
+AF Yip, Hong Yung
+   Sheth, Amit
+TI The EMPWR Platform: Data and Knowledge-Driven Processes for the
+   Knowledge Graph Lifecycle
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Systems architecture; Knowledge graphs; Maintenance engineering; Data
+   models; Internet; System analysis and design; Pharmaceuticals
+AB The unparalleled volume of data generated has heightened the need for approaches that can consume these data in a scalable and automated fashion. Although modern data-driven, deep-learning-based systems are cost-efficient and can learn complex patterns, they are black boxes in nature, and the underlying input data highly dictate their world model. Knowledge graphs (KGs), as one such technology, have surfaced as a compelling approach for using structured knowledge representation to support the integration of knowledge from diverse sources and formats. We present Empower (EMPWR), a comprehensive KG development and lifecycle support platform that uses a broad variety of techniques from symbolic and modern data-driven systems. We discuss the sets of system design guiding principles used to develop EMPWR, its system architectures, and workflow components. We illustrate some of EMPWR's abilities by describing a process of creating and maintaining a KG for the pharmaceuticals domain.
+C1 [Yip, Hong Yung; Sheth, Amit] Univ South Carolina, Columbia, SC 29208 USA.
+C3 University of South Carolina System; University of South Carolina
+   Columbia
+RP Yip, HY (corresponding author), Univ South Carolina, Columbia, SC 29208 USA.
+EM hyip@email.sc.edu; amit@sc.edu
+RI Sheth, Amit/ABC-4600-2020
+OI Sheth, Amit/0000-0002-0021-5293
+FU National Science Foundation
+FX No Statement Available
+CR Dessi Danilo, 2020, The Semantic Web - ISWC 2020. 19th International Semantic Web Conference. Lecture Notes in Computer Science (LNCS 12507), P127, DOI 10.1007/978-3-030-62466-8_9
+   Kertkeidkachorn N, 2018, IEICE T INF SYST, VE101D, P90, DOI 10.1587/transinf.2017SWP0006
+   Lu RQ, 2020, INFORM SCIENCES, V509, P87, DOI 10.1016/j.ins.2019.08.051
+   Rickett CD, 2020, IEEE INT CONF BIG DA, P2967, DOI 10.1109/BigData50022.2020.9378331
+   Rossanez A, 2020, BMC MED INFORM DECIS, V20, DOI 10.1186/s12911-020-01341-5
+   Rotmensch M, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-05778-z
+   Sheth A, 2023, IEEE INTELL SYST, V38, P56, DOI 10.1109/MIS.2023.3268724
+   Sukumar S. R., 2021, P SMOK MOUNT COMP SC, P157
+   Xu J, 2020, SCI DATA, V7, DOI 10.1038/s41597-020-0543-2
+NR 9
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD JAN
+PY 2024
+VL 28
+IS 1
+BP 61
+EP 69
+DI 10.1109/MIC.2023.3339858
+PG 9
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA IN4Q6
+UT WOS:001166996500010
+DA 2024-08-05
+ER
+
+PT J
+AU Narayanan, A
+   Marina, M
+   Gopalakrishnan, V
+AF Narayanan, Arvind
+   Marina, Mahesh
+   Gopalakrishnan, Vijay
+TI Special Issue on 6G Technologies and Applications
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Special issues and sections; 6G mobile communication; Computer
+   applications; Satellite communication; Intelligent systems
+AB In this issue of Internet Computing, we included articles that tackle the technical challenges around both 6G technologies and applications. The first two articles focus on bringing emerging areas like satellite communications and intelligent surfaces into the 6G context. The third looks at providing a low-latency packet core for cellular networks. Finally, the last article covers the problem of supporting scalable data analysis, automation, and using artificial intelligence/machine learning in the 6G cellular network.
+C1 [Narayanan, Arvind] AT&T Labs, Bedminster, NJ 07921 USA.
+   [Marina, Mahesh] Univ Edinburgh, Sch Informat, Edinburgh EH8 9AB, Scotland.
+   [Marina, Mahesh] Johns Hopkins Univ, Dept Comp Sci, Baltimore, MD 21218 USA.
+   [Gopalakrishnan, Vijay] AT&T Labs, invent Sci, Bedminster, NJ 07921 USA.
+C3 AT&T; University of Edinburgh; Johns Hopkins University; AT&T
+RP Narayanan, A (corresponding author), AT&T Labs, Bedminster, NJ 07921 USA.
+EM an510a@att.com; mahesh@ed.ac.uk; gvijay@att.com
+OI Gopalakrishnan, Vijay/0009-0002-1745-217X
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 6
+EP 7
+DI 10.1109/MIC.2024.3377948
+PG 2
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400002
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Pujol, VC
+   Sedlak, B
+   Donta, PK
+   Dustdar, S
+AF Pujol, Victor Casamayor
+   Sedlak, Boris
+   Donta, Praveen Kumar
+   Dustdar, Schahram
+TI On Causality in Distributed Continuum Systems
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Distributed computing; Social factors; Trusted computing; Sustainable
+   development; Service-oriented architecture; Complex systems
+AB As distributed continuum systems (DCSs) are envisioned, they will have a massive impact on our future society. Hence, it is of utmost importance to ensure that their impact is socially responsible. Equipping these systems with causal models brings features such as explainability, accountability, and auditability, which are needed to provide the right level of trust. Furthermore, by combining causality with graph-based service-level objectives, we can cope with dynamic and complex system requirements while achieving sustainable development of DCSs' capacities and applications.
+C1 [Pujol, Victor Casamayor; Sedlak, Boris; Donta, Praveen Kumar; Dustdar, Schahram] Vienna Univ Technol, A-1040 Vienna, Austria.
+C3 Technische Universitat Wien
+RP Pujol, VC (corresponding author), Vienna Univ Technol, A-1040 Vienna, Austria.
+EM v.casamayor@dsg.tuwien.ac.at; b.sedlak@dsg.tuwien.ac.at;
+   p.donta@dsg.tuwien.ac.at; dustdar@dsg.tuwien.ac.at
+RI Dustdar, Schahram/G-9877-2015; Donta, Praveen Kumar/H-3021-2017
+OI Dustdar, Schahram/0000-0001-6872-8821; Donta, Praveen
+   Kumar/0000-0002-8233-6071; Sedlak, Boris/0009-0001-2365-8265
+CR Bender EM, 2021, PROCEEDINGS OF THE 2021 ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, FACCT 2021, P610, DOI 10.1145/3442188.3445922
+   Chen PF, 2019, IEEE T SERV COMPUT, V12, P214, DOI 10.1109/TSC.2016.2607739
+   Cinelli Carlos, 2019, INT C MACH LEARN, P1252
+   Donta PK, 2023, J BIG DATA-GER, V10, DOI 10.1186/s40537-023-00737-0
+   Dubslaff C, 2022, PROC INT CONF SOFTW, P325, DOI 10.1145/3510003.3510200
+   Dustdar S, 2023, IEEE T KNOWL DATA EN, V35, P4092, DOI 10.1109/TKDE.2022.3142856
+   Ganguly N., 2023, arXiv, DOI [DOI 10.48550/ARXIV.2302.06975, 10.48550/arXiv.2302.06975]
+   Gao C, 2023, Arxiv, DOI [arXiv:2208.12397, 10.48550/ARXIV.2208.12397]
+   Kaur D, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3491209
+   Morey T, 2015, HARVARD BUS REV, V93, P96
+   Pearl J, 2009, STAT SURV, V3, P96, DOI 10.1214/09-SS057
+   Pujol VC, 2023, IEEE INTERNET COMPUT, V27, P53, DOI 10.1109/MIC.2023.3284693
+   Quinn T, 2018, TLS-TIMES LIT SUPPL, P31
+   Satyanarayanan M, 2017, COMPUTER, V50, P30, DOI 10.1109/MC.2017.9
+   Sedlak B, 2023, 2023 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE SERVICES ENGINEERING, SSE, P43, DOI 10.1109/SSE60056.2023.00017
+   Shi WS, 2016, IEEE INTERNET THINGS, V3, P637, DOI 10.1109/JIOT.2016.2579198
+   Yao LY, 2021, ACM T KNOWL DISCOV D, V15, DOI 10.1145/3444944
+   Zhang C, 2023, Arxiv, DOI arXiv:2304.05524
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 57
+EP 64
+DI 10.1109/MIC.2023.3344248
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400010
+DA 2024-08-05
+ER
+
+PT J
+AU Koomthanam, AJ
+   Tripathy, A
+   Serebryakov, S
+   Nayak, G
+   Foltin, M
+   Bhattacharya, S
+AF Koomthanam, Annmary Justine
+   Tripathy, Aalap
+   Serebryakov, Sergey
+   Nayak, Gyanaranjan
+   Foltin, Martin
+   Bhattacharya, Suparna
+TI Common Metadata Framework: Integrated Framework for Trustworthy
+   Artificial Intelligence Pipelines
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Metadata; Pipelines; Artificial intelligence; Servers; Training;
+   Peer-to-peer computing; Codes
+AB In this article, we present the capabilities of the Common Metadata Framework (CMF) to enable trustworthy artificial intelligence (AI). CMF is a decentralized framework for tracking metadata and lineages of datasets and machine learning (ML) models in AI pipelines. The framework provides a few unique features for ML practitioners, such as effortless management of distributed AI pipelines that span across the edge, high-performance systems, and public and private clouds. It provides an unbreakable audit trail and model provenance, resulting in trustworthy models. It ensures reproducibility by versioning artifacts and source code. CMF bridges the gap between the pipeline- and model-centric views of the AI metadata. This end-to-end approach to metadata logging unlocks a comprehensive understanding of ML workflows, enabling more efficient management and optimization of AI pipelines.
+C1 [Koomthanam, Annmary Justine; Tripathy, Aalap; Serebryakov, Sergey; Foltin, Martin] Hewlett Packard Enterprise Labs, San Jose, CA 95035 USA.
+   [Nayak, Gyanaranjan; Bhattacharya, Suparna] Hewlett Packard Enterprise, Bangalore 560048, India.
+RP Koomthanam, AJ (corresponding author), Hewlett Packard Enterprise Labs, San Jose, CA 95035 USA.
+EM annmary.roy@hpe.com; aalap.tripathy@hpe.com; sergey.serebryakov@hpe.com;
+   gyanaranjan.nayak@hpe.com; martin.foltin@hpe.com;
+   suparna.bhattacharya@hpe.com
+OI koomthanam, annmary justine/0009-0002-8282-6190
+CR AIHLEG, 2019, DELIVERABLE ETH GUID, DOI DOI 10.2759/346720
+   [Anonymous], SPIFFE overview: An overview of the SPIFFEspecification
+   [Anonymous], SPIRE concepts: An overview of SPIRE's architectureand fundamentals
+   [Anonymous], TensorBoard: TensorFlow's visualization toolkit
+   [Anonymous], ML schema core specification
+   [Anonymous], Experiment tracking with weights and biases
+   [Anonymous], ML Metadata
+   Apache Airflow, About us
+   Baylor D, 2017, KDD'17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1387, DOI 10.1145/3097983.3098021
+   dvc, Data version control dvc
+   Git, ABOUT US
+   Justine A, 2022, COMM COM INF SC, V1690, P20, DOI 10.1007/978-3-031-23606-8_2
+   Kubernetes, about us
+   Moreau L., PROV-DM: The PROV datamodel
+   Neo4j, About us
+   Souza R, 2019, PROCEEDINGS OF WORKS19: THE 2019 14TH IEEE/ACM WORKFLOWS IN SUPPORT OF LARGE-SCALE SCIENCE (WORKS), P1, DOI 10.1109/WORKS49585.2019.00006
+   Venkataramanan R, 2023, IEEE INTERNET COMPUT, V27, P81, DOI 10.1109/MIC.2022.3228087
+   VertexAI, Google Cloud
+   Zaharia Matei A, 2018, IEEE Data Eng. Bull., V41, P39
+NR 19
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAY-JUN
+PY 2024
+VL 28
+IS 3
+BP 37
+EP 44
+DI 10.1109/MIC.2024.3377170
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TM1D1
+UT WOS:001241577900006
+DA 2024-08-05
+ER
+
+PT J
+AU Joshi, HC
+   Kumar, S
+AF Joshi, Hem Chandra
+   Kumar, Sandeep
+TI Remote Work and Gender Inequality: Unmasking the Challenges and Seeking
+   Solutions
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Artificial intelligence; Pandemics; COVID-19; Organizations;
+   Productivity; Engineering profession; Human factors
+AB The COVID-19 pandemic has transformed the way we work, especially in the domain of remote work (RW). It compelled employees and organizations to embrace RW arrangements, which were previously voluntary, part time, or occasional, as a means to curtail the spread of the virus and minimize business disruptions. RW has introduced a flexible arrangement and other benefits but has also brought forth numerous challenges and obstacles specifically faced by female employees. In this study, we collect important insights about recent research focusing on the impact of RW, particularly accentuated by the COVID-19 pandemic, on gender equality and highlight the barriers and challenges women face due to it. By analyzing insights gleaned from recent literature, we propose strategies and discuss the potential artificial intelligence-based solutions to address and overcome them. Furthermore, we also outline potential avenues for future research.
+C1 [Joshi, Hem Chandra] Indian Inst Technol Roorkee, Roorkee 247667, India.
+   [Kumar, Sandeep] Indian Inst Technol Roorkee, Dept Comp Sci & Engn, Roorkee 247667, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Roorkee; Indian Institute of Technology System (IIT
+   System); Indian Institute of Technology (IIT) - Roorkee
+RP Joshi, HC (corresponding author), Indian Inst Technol Roorkee, Roorkee 247667, India.
+EM hc_joshi@cs.iitr.ac.in; sandeep.garg@cs.iitr.ac.in
+RI Kumar, Sandeep/F-7077-2014
+OI Kumar, Sandeep/0000-0002-4679-8367
+CR Ahuja K K., 2021, J. Psychosexual Health, V3, P322, DOI DOI 10.1177/26318318211047832
+   Araújo Tânia Maria de, 2021, Rev. bras. saúde ocup., V46, pe27
+   Bhumika, 2020, GEND MANAG, V35, P705, DOI 10.1108/GM-06-2020-0163
+   Brivio E, 2018, FRONT PSYCHOL, V9, DOI 10.3389/fpsyg.2018.02569
+   Edu-Valsania S, 2022, INT J ENV RES PUB HE, V19, DOI 10.3390/ijerph19031780
+   Fialho J., 2022, Digital Technologies and Transformation in Business, Industry and Organizations, P1
+   Field E., 2022, Women in the workplace 2023
+   Gkinko L, 2023, INT J INFORM MANAGE, V69, DOI 10.1016/j.ijinfomgt.2022.102568
+   Khatua A, 2018, 2018 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM), P397, DOI 10.1109/ASONAM.2018.8508576
+   Kim JY, 2023, J BUS ETHICS, V185, P513, DOI 10.1007/s10551-022-05203-0
+   Lafkas S M., 2023, Merits, V3, P167, DOI DOI 10.3390/MERITS3010011
+   Matthews TA, 2022, IND HEALTH, V60, P334, DOI 10.2486/indhealth.2022-0077
+   Murray SA, 2022, TRENDS BIOTECHNOL, V40, P903, DOI 10.1016/j.tibtech.2022.05.001
+   Pawlicka A, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0232771
+   Sabri N, 2021, PROC ITALIAN C COMPU, P1
+   Spagnoli P, 2020, FRONT PSYCHOL, V11, DOI 10.3389/fpsyg.2020.620310
+   Sue DW, 2019, AM PSYCHOL, V74, P128, DOI 10.1037/amp0000296
+   Tetzlaff J, 2022, ACAD PSYCHIATR, V46, P774, DOI 10.1007/s40596-022-01589-1
+   Tulili TR, 2023, INFORM SOFTWARE TECH, V155, DOI 10.1016/j.infsof.2022.107116
+   Williams AC, 2023, ACM T COMPUT-HUM INT, V30, DOI 10.1145/3582429
+NR 20
+TC 0
+Z9 0
+U1 4
+U2 4
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD JAN
+PY 2024
+VL 28
+IS 1
+BP 42
+EP 51
+DI 10.1109/MIC.2023.3335614
+PG 10
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA IN4Q6
+UT WOS:001166996500003
+DA 2024-08-05
+ER
+
+PT J
+AU Abulaish, M
+   Dalal, H
+AF Abulaish, Muhammad
+   Dalal, Harshita
+TI The Dark Crypto World
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Bitcoin; Blockchains; Investment; Computer hacking; Internet;
+   Government; Codes
+AB Throughout the annals of history, governments and their central banks have been alleged to breach trust through the manipulation of funds and the debasement of fiat currencies. Cryptocurrencies, with their underpinning blockchain technology, have revolutionized and democratized the modern finance ecosystem. Their digital, decentralized, and unregulated nature has catalyzed a paradigm shift, disrupting the conventional banking system and empowering individuals with direct and absolute control over their assets. Concurrently, cryptocurrencies can be extremely arduous to wrap one's head around, especially when shrouded with an intricate web of technobabble and algorithmic complexities. The realm of cryptocurrencies, akin to diverse social media platforms, presents a plethora of formidable challenges and inherent dangers. With the incessant advent of new cryptocurrencies, the proliferation of illicit activities has become rampant, posing a grave threat to the crypto community. Crypto trading/investing entails a high-risk endeavor that could jeopardize the entire investment. This article demystifies the underlying perils that engulf the crypto world.
+C1 [Abulaish, Muhammad] South Asian Univ, Dept Comp Sci, New Delhi 110068, India.
+   [Dalal, Harshita] South Asian Univ, New Delhi 110068, India.
+C3 South Asian University (SAU); South Asian University (SAU)
+RP Abulaish, M (corresponding author), South Asian Univ, Dept Comp Sci, New Delhi 110068, India.
+EM abulaish@ieee.org; harshita@ieee.org
+RI Abulaish, Muhammad/L-7397-2014
+OI Abulaish, Muhammad/0000-0003-3387-4743
+CR Agosto A, 2020, RISKS, V8, DOI 10.3390/risks8020034
+   Aldasoro I, 2022, J FINANC STABIL, V60, DOI 10.1016/j.jfs.2022.100989
+   [Anonymous], What was Mt. Gox? Definition, history, collapse, andfuture
+   [Anonymous], Most popular cryptocurrency influencers: Top 236experts in 2020
+   [Anonymous], Ethereum white paper
+   [Anonymous], Bitcoin scams: Bitcoin hacks, theft and exit scamshistory
+   [Anonymous], Tether white paper
+   [Anonymous], 2018, The Bitcoin Volatility Index
+   [Anonymous], 2023, BloombergJun. 11
+   [Anonymous], Bitcoin: A Peer-to-Peer Electronic Cash System
+   [Anonymous], Global Bitcoin legality
+   [Anonymous], GLOBAL CRYPTOCURRENC
+   [Anonymous], 1851, Reuters
+   [Anonymous], Cryptocurrency Ownership Data
+   [Anonymous], Over $280M drained in KuCoin crypto exchangehack
+   [Anonymous], Coincheck hack-One of the biggest crypto hacks inhistory
+   [Anonymous], Bitcoin Historical Price Events
+   [Anonymous], $9 million a day is lost in cryptocurrency scams
+   Babaei G, 2022, FINANC RES LETT, V47, DOI 10.1016/j.frl.2022.102941
+   Baur DG, 2018, ECON LETT, V173, P148, DOI 10.1016/j.econlet.2018.10.008
+   Brooks C, 2018, INT REV FINANC ANAL, V56, P52, DOI 10.1016/j.irfa.2017.12.008
+   Cerchiello P, 2019, J ALTERN INVEST, V21, P13, DOI 10.3905/jai.2019.21.4.013
+   CoinMarketCap, About us
+   Crosby M., 2016, APPL INNOV REV, V2, P6
+   Dalal H, 2019, 2019 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE (WI 2019), P438, DOI 10.1145/3350546.3352564
+   Davies, 2010, THE HIST OF MONEY
+   Gao BY, 2020, P ACM MEAS ANAL COMP, V4, DOI 10.1145/3428335
+   Giudici P, 2022, FINANC RES LETT, V44, DOI 10.1016/j.frl.2021.102054
+   Giudici P, 2019, RISKS, V7, DOI 10.3390/risks7040111
+   Härdle WK, 2020, J FINANC ECONOMET, V18, P181, DOI 10.1093/jjfinec/nbz033
+   Nizzoli L, 2020, IEEE ACCESS, V8, P113230, DOI 10.1109/ACCESS.2020.3003370
+   Pagnottoni P, 2019, FRONT ARTIF INTELL, V2, DOI 10.3389/frai.2019.00005
+   Rauchs M., 2018, Distributed ledger technologysystems: A conceptual framework, DOI [10.2139/ssrn.3230013, DOI 10.2139/SSRN.3230013]
+   Swan M., 2015, Blockchain: Blueprint for a New Economy
+   Toma AM, 2020, FRONT ARTIF INTELL, V3, DOI 10.3389/frai.2020.00018
+   Tsikerdekis M, 2015, IEEE INTERNET COMPUT, V19, P41, DOI 10.1109/MIC.2015.21
+   Ward O., 2019, Understanding CentralBank Digital Currencies (CBDC), P1
+NR 37
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAY-JUN
+PY 2024
+VL 28
+IS 3
+BP 26
+EP 36
+DI 10.1109/MIC.2024.3373706
+PG 11
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TM1D1
+UT WOS:001241577900005
+DA 2024-08-05
+ER
+
+PT J
+AU Crang, S
+   Cerf, V
+AF Crang, Steve
+   Cerf, Vint
+TI Remembering David Mills (1938-2024)
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Obituaries; Mills; David L
+AB Recounts the career and contributions of David L. Mills.
+C1 [Crang, Steve] Univ Michigan, Comp Sci & Engn Dept, Ann Arbor, MI 48109 USA.
+   [Cerf, Vint] Google, Reston, VA 20190 USA.
+C3 University of Michigan System; University of Michigan; Google
+   Incorporated
+RP Crang, S (corresponding author), Univ Michigan, Comp Sci & Engn Dept, Ann Arbor, MI 48109 USA.
+EM scrang@umich.edu; vint@google.com
+OI Cerf, Vinton/0000-0002-0629-093X
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 73
+EP 75
+DI 10.1109/MIC.2024.3370448
+PG 3
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400004
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, LX
+   Liu, W
+   Li, YJ
+   Li, HW
+AF Liu, Lixin
+   Liu, Wei
+   Li, Yuanjie
+   Li, Hewu
+TI Enabling 6G and Beyond Network Functions From Space: Challenges and
+   Opportunities
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Satellite broadcasting; Low earth orbit satellites; Cellular networks;
+   6G mobile communication; Orbits; Internet; Space communications;
+   Security; Computer architecture
+AB Cellular networks from space, powered by recent technological advances in satellite megaconstellations, promise to expand operators' service areas to anywhere on Earth for commercial revenues and social goods. While the existing 5G has attempted to support satellites via its nonterrestrial network enhancements, its hop-by-hop stateful session-based network architecture impedes this progress due to various functionality, scalability, reliability, and security concerns under the megaconstellation's extreme mobility in harsh outer space. This article investigates these issues and explores how to remove this architectural barrier for 6G and beyond from space. We propose a usercentric design that shifts from the hop-by-hop session-based to stateless on-demand cellular service. We discuss how this paradigm shift can stabilize the cellular function internetworking under extreme satellite mobility, refactor in-orbit cellular functions to be stateless with the assistance of local user equipment, and foster the efficient use of satellites for low capital costs and large-scale deployments.
+C1 [Liu, Lixin; Liu, Wei; Li, Yuanjie; Li, Hewu] Tsinghua Univ, Inst Network Sci & Cyberspace, Beijing 100084, Peoples R China.
+C3 Tsinghua University
+RP Li, YJ (corresponding author), Tsinghua Univ, Inst Network Sci & Cyberspace, Beijing 100084, Peoples R China.
+EM llx22@mails.tsinghua.edu.cn; lw21@mails.tsinghua.edu.cn;
+   yuanjiel@tsinghua.edu.cn; lihewu@cernet.edu.cn
+FU National Key Research and Development Plan of China
+FX No Statement Available
+CR [Anonymous], 2020, Tech. Rep. TR38.821
+   [Anonymous], 2023, Tech. Rep. TS24.501
+   [Anonymous], 2021, Tech. Rep. TS29.598
+   [Anonymous], 2021, Petition of starlink services, LLC for designation as an eligible telecommunications carrier
+   Ekici E, 2001, IEEE ACM T NETWORK, V9, P137, DOI 10.1109/90.917071
+   Li YJ, 2021, PROCEEDINGS OF THE THE 20TH ACM WORKSHOP ON HOT TOPICS IN NETWORKS, HOTNETS 2021, P163, DOI 10.1145/3484266.3487375
+   Li YJ, 2023, PROCEEDINGS OF THE 29TH ANNUAL INTERNATIONAL CONFERENCE ON MOBILE COMPUTING AND NETWORKING, MOBICOM 2023, P239, DOI 10.1145/3570361.3592519
+   Li YJ, 2022, SIGCOMM '22: PROCEEDINGS OF THE 2022 ACM SIGCOMM 2022 CONFERENCE, P298, DOI 10.1145/3544216.3544233
+   Li YJ, 2020, SIGCOMM '20: PROCEEDINGS OF THE 2020 ANNUAL CONFERENCE OF THE ACM SPECIAL INTEREST GROUP ON DATA COMMUNICATION ON THE APPLICATIONS, TECHNOLOGIES, ARCHITECTURES, AND PROTOCOLS FOR COMPUTER COMMUNICATION, P344, DOI 10.1145/3387514.3405873
+   Li YJ, 2017, PROCEEDINGS OF THE 23RD ANNUAL INTERNATIONAL CONFERENCE ON MOBILE COMPUTING AND NETWORKING (MOBICOM '17), P56, DOI 10.1145/3117811.3117838
+   Liu L., 2024, PROC USENIX S NETW S
+   Liu LX, 2022, INT WORKSH QUAL SERV, DOI 10.1109/IWQoS54832.2022.9812903
+   Liu W., 2024, PROC 45 IEEE S SECUR
+   Uyeda F, 2022, SIGCOMM '22: PROCEEDINGS OF THE 2022 ACM SIGCOMM 2022 CONFERENCE, P264, DOI 10.1145/3544216.3544231
+NR 14
+TC 1
+Z9 1
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 8
+EP 17
+DI 10.1109/MIC.2024.3359773
+PG 10
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400009
+DA 2024-08-05
+ER
+
+PT J
+AU López-Fernández, D
+   Gordillo, A
+   López-Pernas, S
+   Tovar, E
+AF Lopez-Fernandez, Daniel
+   Gordillo, Aldo
+   Lopez-Pernas, Sonsoles
+   Tovar, Edmundo
+TI Are Remote Educational Escape Rooms Designed During the Pandemic Useful
+   in a Postpandemic Face-to-Face Setting?
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Pandemics; Education; Internet; COVID-19; Knowledge acquisition; Unified
+   modeling language; Software
+ID ONLINE
+AB Numerous initiatives were conducted online during the COVID-19 pandemic, and today it is necessary to analyze whether it is better to continue conducting these initiatives online, or should they be done face-to-face and even readapted to this format. This article compares an educational escape room for learning software engineering conducted online during the confinement caused by the pandemic and later face to face. The research involves 241 students and employs instruments to explore the knowledge acquisition attained by the students and their perceptions toward the activity. The results provide insights to consider use of this technique in the future. The digital elements used in a remote escape room are suitable for a face-to-face escape room since the educational efficacy of the activity was similar when conducted online and face to face. However, some students' perceptions related to enjoyment were worse in the face-to-face escape room, which could be improved by incorporating physical elements.
+C1 [Lopez-Fernandez, Daniel; Gordillo, Aldo; Tovar, Edmundo] Univ Politecn Madrid, Madrid, Spain.
+   [Lopez-Pernas, Sonsoles] Univ Eastern Finland, Joensuu, Finland.
+C3 Universidad Politecnica de Madrid; University of Eastern Finland
+RP López-Fernández, D (corresponding author), Univ Politecn Madrid, Madrid, Spain.
+EM daniel.lopez@upm.es; a.gordillo@upm.es; sonsoles.lopez@uef.fi;
+   edmundo.tovar@upm.es
+RI Gordillo, Aldo/AAT-3834-2020; López-Pernas, Sonsoles/M-7375-2019
+OI Gordillo, Aldo/0000-0001-9785-4827; López-Pernas,
+   Sonsoles/0000-0002-9621-1392; Tovar, Edmundo/0000-0003-2929-659X; Lopez
+   Fernandez, Daniel/0000-0003-1265-010X
+CR Adedoyin Olasile Babatunde, 2023, Interactive Learning Environments, P863, DOI 10.1080/10494820.2020.1813180
+   Ali W., 2020, Higher Education Studies, V10, P16, DOI [10.5539/hes.v10n3p16, DOI 10.5539/HES.V10N3P16]
+   Ang JWJ, 2020, J CHEM EDUC, V97, P2849, DOI 10.1021/acs.jchemed.0c00612
+   Borrego Carlos., 2017, Journal of Technology and Science Education, V7, P162, DOI [DOI 10.3926/JOTSE.247, 10.3926/jotse.247]
+   Bright E, 2023, NURS EDUC, V48, P343, DOI 10.1097/NNE.0000000000001444
+   Clarke S, 2017, INT J SERIOUS GAMES, V4, P73, DOI 10.17083/ijsg.v4i3.180
+   Cohen J., 1988, Statistical power analysis for the behavioral sciences
+   Eukel HN, 2017, AM J PHARM EDUC, V81, DOI 10.5688/ajpe8176265
+   García-Morales VJ, 2021, FRONT PSYCHOL, V12, DOI 10.3389/fpsyg.2021.616059
+   Gordillo A, 2020, IEEE ACCESS, V8, P225032, DOI 10.1109/ACCESS.2020.3044380
+   Kaul V, 2021, CHEST, V160, P1424, DOI 10.1016/j.chest.2021.04.069
+   Lai J, 2020, PR IEEE INT CONF TEA, P863, DOI 10.1109/TALE48869.2020.9368319
+   López-Pernas S, 2021, IEEE ACCESS, V9, P59270, DOI 10.1109/ACCESS.2021.3073601
+   López-Pernas S, 2021, IEEE ACCESS, V9, P38062, DOI 10.1109/ACCESS.2021.3063711
+   Manzano-León A, 2021, EDUC SCI, V11, DOI 10.3390/educsci11080426
+   Nicholson S., 2015, Peeking behind the locked door A survey of escape room facilities
+   Vergne MJ, 2020, J CHEM EDUC, V97, P2845, DOI 10.1021/acs.jchemed.0c00449
+NR 17
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD JAN
+PY 2024
+VL 28
+IS 1
+BP 34
+EP 41
+DI 10.1109/MIC.2023.3336057
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA IN4Q6
+UT WOS:001166996500001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Rossanese, M
+   Mursia, P
+   Garcia-Saavedra, A
+   Sciancalepore, V
+   Asadi, A
+   Costa-Perez, X
+AF Rossanese, Marco
+   Mursia, Placido
+   Garcia-Saavedra, Andres
+   Sciancalepore, Vincenzo
+   Asadi, Arash
+   Costa-Perez, Xavier
+TI Open Experimental Measurements of Sub-6GHz Reconfigurable Intelligent
+   Surfaces
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Reconfigurable intelligent surfaces; Computer architecture;
+   Microprocessors; Prototypes; Anechoic chambers; OFDM; RF signals; Data
+   models; 6G mobile communication
+ID DESIGN
+AB In this article, we present two datasets that we make publicly available for research. The data is collected in a testbed comprised of a custom-made reconfigurable intelligent surface (RIS) prototype and two regular orthogonal frequency-division multiplexing (OFDM) transceivers within an anechoic chamber. First, we discuss the details of the testbed and equipment used, including insights about the design and implementation of our RIS prototype. We further present the methodology we employ to gather measurement samples, which consists of letting the RIS electronically steer the signal reflections from an OFDM transmitter toward a specific location. To this end, we evaluate a suitably designed configuration codebook and collect measurement samples of the received power with an OFDM receiver. Finally, we present the resulting datasets, their format, and examples of exploiting this data for research purposes.
+C1 [Rossanese, Marco; Mursia, Placido; Garcia-Saavedra, Andres; Sciancalepore, Vincenzo; Costa-Perez, Xavier] NEC Labs Europe GmbH, D-69115 Heidelberg, Germany.
+   [Asadi, Arash] Tech Univ Darmstadt, D-64289 Darmstadt, Germany.
+   [Costa-Perez, Xavier] I2CAT Fdn, D-08034 Barcelona, Spain.
+   [Costa-Perez, Xavier] ICREA, Barcelona 17003, Spain.
+C3 Technical University of Darmstadt; Internet I Innovacio Digital A
+   Catalunya (I2CAT); ICREA
+RP Rossanese, M (corresponding author), NEC Labs Europe GmbH, D-69115 Heidelberg, Germany.
+EM marco.rossanese@neclab.eu; placido.mursia@neclab.eu;
+   andres.garcia.saavedra@gmail.com; vincenzo.sciancalepore@neclab.eu;
+   aasadi@wise.tu-darmstadt.de; xavier.costa@neclab.eu
+OI Mursia, Placido/0000-0003-0338-126X; Garcia Saavedra,
+   Andres/0000-0003-2005-2222; Asadi, Arash/0000-0001-9946-4793
+FU SNS JU Project 6G-DISAC
+FX No Statement Available
+CR Alexandropoulos GC, 2020, IEEE GLOBE WORK, DOI 10.1109/GCWkshps50303.2020.9367575
+   [Anonymous], Horizontal projection interpolation (HPI) algorithm
+   Araghi A, 2022, IEEE ACCESS, V10, P2646, DOI 10.1109/ACCESS.2022.3140278
+   Balanis C. A, 2016, Antenna theory : analysis and design
+   Cho KW, 2023, PROCEEDINGS OF THE 20TH USENIX SYMPOSIUM ON NETWORKED SYSTEMS DESIGN AND IMPLEMENTATION, NSDI 2023, P1647
+   Dai LL, 2020, IEEE ACCESS, V8, P45913, DOI 10.1109/ACCESS.2020.2977772
+   Di Renzo M, 2020, IEEE J SEL AREA COMM, V38, P2450, DOI 10.1109/JSAC.2020.3007211
+   Elshennawy W., 2022, PROGRESS, V119, P65, DOI [10.2528/PIERC22013002, DOI 10.2528/PIERC22013002]
+   Gallagher NB, 2020, Savitzky-Golay smoothing and differentiation filter.pdf
+   Huang J, 2022, P IEEE, V110, P1290, DOI 10.1109/JPROC.2022.3186087
+   Mursia P, 2021, IEEE J SEL AREA COMM, V39, P1072, DOI 10.1109/JSAC.2020.3018829
+   Pei XL, 2021, IEEE T COMMUN, V69, P8627, DOI 10.1109/TCOMM.2021.3116151
+   Qian K, 2022, PROCEEDINGS OF THE 2022 THE 28TH ANNUAL INTERNATIONAL CONFERENCE ON MOBILE COMPUTING AND NETWORKING, ACM MOBICOM 2022, P15, DOI 10.1145/3495243.3517024
+   Rossanese M, 2022, PROCEEDINGS OF THE 2022 16TH ACM WORKSHOP ON WIRELESS NETWORK TESTBEDS, EXPERIMENTAL EVALUATION & CHARACTERIZATION, WINTECH 2022, P69, DOI 10.1145/3556564.3558236
+   Tewes S, 2023, IEEE VTS VEH TECHNOL, DOI 10.1109/VTC2023-Spring57618.2023.10200973
+   Trichopoulos GC, 2022, IEEE OPEN J COMM SOC, V3, P462, DOI 10.1109/OJCOMS.2022.3158310
+   Yang FY, 2022, MICROMACHINES-BASEL, V13, DOI 10.3390/mi13020285
+   Yezhen L., 2020, ZTE Commun, V18, P20, DOI [10.12142/ZTECOM.202003004, DOI 10.12142/ZTECOM.202003004]
+NR 18
+TC 1
+Z9 1
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 19
+EP 28
+DI 10.1109/MIC.2024.3376772
+PG 10
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400007
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Shi, WS
+AF Shi, Weisong
+TI Message from the Editor-In-Chief
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+AB It is a great privilege and honor for me to be elected the incoming editor-in-chief (EIC) of IEEE Internet Computing Magazine (IC). I am deeply grateful for this unique opportunity to contribute to and serve the Internet computing community for the next two years. Starting my term as EIC, I would like to thank Prof. George Pallis for his five years of outstanding service as EIC. Under Pallis's leadership, both IC's readership and impact factor have improved significantly. I am also thankful to the EIC selection committee for their confidence in me. I would like to welcome Prof. Songqing Chen from Geroge Mason University, who accepted my invitation to become one of our three associate EICs.
+C1 [Shi, Weisong] Univ Delaware, Dept Comp & Informat Sci, Newark, DE 19716 USA.
+C3 University of Delaware
+RP Shi, WS (corresponding author), Univ Delaware, Dept Comp & Informat Sci, Newark, DE 19716 USA.
+EM weisong@udel.edu
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 5
+EP 5
+DI 10.1109/MIC.2024.3374908
+PG 1
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400008
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Choi, Y
+   Baek, H
+   Jeong, J
+   Kim, K
+AF Choi, Youngjoon
+   Baek, Hannah
+   Jeong, Jinseop
+   Kim, Kanghee
+TI 3-D Point Cloud Map Compression for Connected Intelligent Vehicles
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Servers; Point cloud compression; Distance measurement;
+   Three-dimensional displays; Robot sensing systems; Location awareness;
+   Internet
+AB In autonomous vehicles, 3-D point cloud (PCD) maps are widely employed. By matching a point cloud acquired from a 3-D ranging sensor in real time with the PCD map, the ego vehicle can be localized with high accuracy. However, the PCD maps must be compressed and customized to the vehicles because they typically have low computing power, a small memory space, and low-resolution sensors. In this study, we propose an edge service of PCD map compression for connected intelligent vehicles. We overview a general path-aware map compression framework and propose a novel compression method to combine voxelization and a notion of localizability at every waypoint on target paths. Experimental results show that the proposed compression significantly reduces the computational cost at both the edge server and the vehicle while satisfying a required localization performance level.
+C1 [Choi, Youngjoon; Baek, Hannah; Jeong, Jinseop] Soongsil Univ, Dept Intelligent Syst, Seoul 06978, South Korea.
+   [Kim, Kanghee] Soongsil Univ, Sch AI Convergence, Seoul 06978, South Korea.
+C3 Soongsil University; Soongsil University
+RP Kim, K (corresponding author), Soongsil Univ, Sch AI Convergence, Seoul 06978, South Korea.
+EM venbo12@gmail.com; vlvl5@naver.com; jeongjs0708@gmail.com;
+   khkim@ssu.ac.kr
+FU National Research Foundation of Korea
+FX No Statement Available
+CR [Anonymous], Gurobi optimizer
+   Dymczyk M, 2015, IEEE INT C INT ROBOT, P2536, DOI 10.1109/IROS.2015.7353722
+   Grisetti G, 2010, IEEE INTEL TRANSP SY, V2, P31, DOI 10.1109/MITS.2010.939925
+   Hornung A, 2013, AUTON ROBOT, V34, P189, DOI 10.1007/s10514-012-9321-0
+   Javanmardi E, 2018, IEEE ACCESS, V6, P49850, DOI 10.1109/ACCESS.2018.2868244
+   Korea Transportation Safety Authority, 2018, K-City: Pilot City for Autonomous Vehicles
+   Liu Y, 2023, IEEE T IND ELECTRON, V70, P10323, DOI 10.1109/TIE.2022.3219077
+   Lu SD, 2020, 2020 IEEE/ACM SYMPOSIUM ON EDGE COMPUTING (SEC 2020), P125, DOI 10.1109/SEC50012.2020.00017
+   Magnusson M., 2009, The three-dimensional normal-distributions transform: an efficient representation for registration, surface analysis, and loop detection
+   pointclouds, The point cloud library
+   Wang Q, 2022, SENSORS-BASEL, V22, DOI 10.3390/s22145108
+   Weikun Zhen, 2017, 2017 IEEE International Conference on Robotics and Automation (ICRA), P6240, DOI 10.1109/ICRA.2017.7989739
+   Wiesmann L, 2021, IEEE ROBOT AUTOM LET, V6, P2060, DOI 10.1109/LRA.2021.3059633
+   Yin H, 2021, IEEE T INTELL TRANSP, V22, P837, DOI 10.1109/TITS.2019.2961120
+   Yurtsever E, 2020, IEEE ACCESS, V8, P58443, DOI 10.1109/ACCESS.2020.2983149
+NR 15
+TC 0
+Z9 0
+U1 6
+U2 6
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD JAN
+PY 2024
+VL 28
+IS 1
+BP 53
+EP 60
+DI 10.1109/MIC.2023.3342793
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA IN4Q6
+UT WOS:001166996500004
+DA 2024-08-05
+ER
+
+PT J
+AU Plebani, P
+   Schulte, S
+   Tamburri, DA
+   Dustdar, S
+AF Plebani, Pierluigi
+   Schulte, Stefan
+   Tamburri, Damian Andrew
+   Dustdar, Schahram
+TI Service-Oriented Computing: A Trajectory for Research to 2030
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Industries; Quantum computing; Roads; Machine learning; Trajectory;
+   Internet; Blockchains
+AB Since service-oriented computing was introduced as a major topic in the industry and the research community, 20 years have passed. Today, service orientation has become a commodity in many areas. This has also changed the foci of the research community by a very large degree. In this article, we analyze the current state of the research in the field and give an outlook on future research topics.
+C1 [Plebani, Pierluigi; Tamburri, Damian Andrew] Politecn Milan, I-20133 Milan, Italy.
+   [Schulte, Stefan] Hamburg Univ Technol, D-21079 Hamburg, Germany.
+   [Dustdar, Schahram] Tech Univ Wien, A-1040 Vienna, Australia.
+C3 Polytechnic University of Milan; Hamburg University of Technology
+RP Plebani, P (corresponding author), Politecn Milan, I-20133 Milan, Italy.
+EM pierluigi.plebani@polimi.it; stefan.schulte@tuhh.de;
+   damianandrew.tamburri@polimi.it; dustdar@dsg.tuwien.ac.at
+RI Tamburri, Damian Andrew/AAJ-2507-2021; Schulte, Stefan/I-3110-2019;
+   Dustdar, Schahram/G-9877-2015
+OI Tamburri, Damian Andrew/0000-0003-1230-8961; Schulte,
+   Stefan/0000-0001-6828-9945; Dustdar, Schahram/0000-0001-6872-8821;
+   PLEBANI, PIERLUIGI/0000-0001-8245-226X
+CR Arbab Farhad, 2012, Formal Aspects of Component Software. 7th International Workshop, FACS 2010. Revised Selected Papers, P277, DOI 10.1007/978-3-642-27269-1_16
+   Bermbach D, 2018, LECT NOTES COMPUT SC, V10797, P198, DOI 10.1007/978-3-319-91764-1_16
+   Bouguettaya A, 2017, COMMUN ACM, V60, P64, DOI 10.1145/2983528
+   Casati U. Dayal, 2000, ACM SIGMOD Rec., V29, P11, DOI [10.1145/369275.369276.3.M.P., DOI 10.1145/369275.369276.3.M.P]
+   Papazoglou M.P., 2003, SERVICE ORIENTED COM
+   Papazoglou MP, 2008, INT J COOP INF SYST, V17, P223, DOI 10.1142/S0218843008001816
+   Papazoglou MP, 2007, COMPUTER, V40, P38, DOI 10.1109/MC.2007.400
+   Papazoglou MP, 2003, COMMUN ACM, V46, P25, DOI 10.1145/944217.944233
+   Vargo SL, 2017, INT J RES MARK, V34, P46, DOI 10.1016/j.ijresmar.2016.11.001
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAY-JUN
+PY 2024
+VL 28
+IS 3
+BP 59
+EP 63
+DI 10.1109/MIC.2023.3338908
+PG 5
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TM1D1
+UT WOS:001241577900001
+DA 2024-08-05
+ER
+
+PT J
+AU Barra, E
+   López-Pernas, S
+   Gordillo, A
+   Pozo, A
+   Muñoz-Arcentales, A
+   Conde, J
+AF Barra, Enrique
+   Lopez-Pernas, Sonsoles
+   Gordillo, Aldo
+   Pozo, Alejandro
+   Munoz-Arcentales, Andres
+   Conde, Javier
+TI Empowering Database Learning Through Remote Educational Escape Rooms
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Databases; Education; Surveys; Internet; Educational courses; Distance
+   learning; Task analysis
+AB Learning about databases is indispensable for individuals studying software engineering or computer science or those involved in the IT industry. We analyzed a remote educational escape room for teaching about databases in four different higher education courses in two consecutive academic years. We employed three instruments for evaluation: a pre- and posttest to assess the escape room's effectiveness for student learning, a questionnaire to gather students' perceptions, and a Web platform that unobtrusively records students' interactions and performance. We show novel evidence that educational escape rooms conducted remotely can be engaging as well as effective for teaching about databases.
+C1 [Barra, Enrique; Gordillo, Aldo; Pozo, Alejandro; Munoz-Arcentales, Andres; Conde, Javier] Univ Politecn Madrid, Madrid 28040, Spain.
+   [Lopez-Pernas, Sonsoles] Univ Eastern Finland, Joensuu 80100, Finland.
+C3 Universidad Politecnica de Madrid; University of Eastern Finland
+RP Barra, E (corresponding author), Univ Politecn Madrid, Madrid 28040, Spain.
+EM enrique.barra@upm.es; sonsoles.lopez@uef.fi; a.gordillo@upm.es;
+   alejandro.pozo@upm.es; joseandres.munoz@upm.es; javier.conde.diaz@upm.es
+RI Gordillo, Aldo/AAT-3834-2020; Munoz Arcentales, Jose
+   Andres/ABH-1289-2021; Díaz, Javier Conde/GRJ-4434-2022; López-Pernas,
+   Sonsoles/M-7375-2019
+OI Gordillo, Aldo/0000-0001-9785-4827; Munoz Arcentales, Jose
+   Andres/0000-0003-1554-437X; Díaz, Javier Conde/0000-0002-5304-0626;
+   López-Pernas, Sonsoles/0000-0002-9621-1392; Barra,
+   Enrique/0000-0001-9532-8962
+FU Spanish Agencia Estatal de Investigacion [PID2022-136684OB-C22]
+FX The authors would like to acknowledge the support of Future Networks for
+   Datacenters and Telcos(FUN4DATE) (PID2022-136684OB-C22) project funded
+   by the Spanish Agencia Estatal de Investigacion (10.13039/501100011033).
+CR Ang JWJ, 2020, J CHEM EDUC, V97, P2849, DOI 10.1021/acs.jchemed.0c00612
+   Cerverón-Lleó V, 2022, 8TH INTERNATIONAL CONFERENCE ON HIGHER EDUCATION ADVANCES (HEAD '22), P1145, DOI 10.4995/HEAd22.2022.14422
+   Fotaris P, 2019, PROC EUR CONF GAME, P235, DOI 10.34190/GBL.19.179
+   Lathwesen C, 2021, EDUC SCI, V11, DOI 10.3390/educsci11060308
+   López-Pernas S, 2021, IEEE ACCESS, V9, P59270, DOI 10.1109/ACCESS.2021.3073601
+   López-Pernas S, 2021, IEEE ACCESS, V9, P38062, DOI 10.1109/ACCESS.2021.3063711
+   Makri A, 2021, SUSTAINABILITY-BASEL, V13, DOI 10.3390/su13084587
+   Nicholson S., 2015, Peeking behind the locked door A survey of escape room facilities
+   Nicholson S., 2016, PROCMEANINGFUL PLAY, P521
+   Ross R, 2023, INT J INF LEARN TECH, V40, P193, DOI 10.1108/IJILT-12-2021-0188
+   Taraldsen LH, 2022, EDUC INQ, V13, P169, DOI 10.1080/20004508.2020.1860284
+   Veldkamp A, 2020, EDUC RES REV-NETH, V31, DOI 10.1016/j.edurev.2020.100364
+NR 12
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD JAN
+PY 2024
+VL 28
+IS 1
+BP 18
+EP 25
+DI 10.1109/MIC.2023.3333199
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA IN4Q6
+UT WOS:001166996500007
+OA Green Accepted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Jeon, Y
+   Pack, S
+AF Jeon, Youbin
+   Pack, Sangheon
+TI Hierarchical Network Data Analytics Framework for 6G Network Automation:
+   Design and Implementation
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Noise measurement; Analytical models; Data models; Task analysis; 5G
+   mobile communication; Internet; Training; 6G mobile communication;
+   Hierarchical systems
+AB To mitigate the complexity of modularized network function (NF) management in 5G, automated network operation and management are indispensable, and, therefore, the 3rd Generation Partnership Project has introduced a network data analytics function (NWDAF). However, a conventional NWDAF needs to conduct both inference and training tasks, and, thus, it is difficult to provide the analytics results to NFs in a timely manner for an increased number of analytics requests. In this article, we propose a hierarchical network data analytics framework (H-NDAF) where inference tasks are distributed to multiple leaf NWDAFs, and training tasks are conducted at the root NWDAF. H-NDAF provides timely inference results while maintaining high accuracy. Furthermore, we present a use case to optimize the policy for user equipment data flows. Extensive simulation results using open source software (i.e., free5GC) demonstrate that H-NDAF can provide sufficiently accurate analytics and faster analytics provision time compared to the conventional NWDAF.
+C1 [Jeon, Youbin; Pack, Sangheon] Korea Univ, Sch Elect Engn, Seoul 02841, South Korea.
+C3 Korea University
+RP Jeon, Y (corresponding author), Korea Univ, Sch Elect Engn, Seoul 02841, South Korea.
+EM youbinee@korea.ac.kr; shpack@korea.ac.kr
+OI Pack, Sangheon/0000-0002-1085-1568; JEON, YOUBIN/0000-0002-6488-0460
+FU Institute of Information and Communications Technology Planning
+   Evaluation
+FX No Statement Available
+CR [Anonymous], 2023, Tech.Rep. TS 23.502, version 18.3.0
+   Sevgican S, 2020, J COMMUN NETW-S KOR, V22, P269, DOI 10.1109/JCN.2020.000019
+   Zhang CL, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P1049
+NR 3
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 38
+EP 46
+DI 10.1109/MIC.2024.3369939
+PG 9
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400003
+DA 2024-08-05
+ER
+
+PT J
+AU Almeida, V
+   Almeida, JM
+   Meira, W Jr
+AF Almeida, Virgilio
+   Almeida, Jussara M.
+   Meira, Wagner
+TI The Role of Computer Science in Responsible AI Governance
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Computer science; Internet; Artificial intelligence
+AB Governing artificial intelligence involves multidisciplinary work across different fields to ensure human control over technology. This article aims to show how computer science can contribute to governance of responsible artificial intelligence technologies and applications.
+C1 [Almeida, Virgilio] Harvard Univ, Cambridge, MA 02138 USA.
+   [Almeida, Jussara M.; Meira, Wagner] Univ Fed Minas Gerais, Belo Horizonte 31270901, Brazil.
+C3 Harvard University; Universidade Federal de Minas Gerais
+RP Almeida, V (corresponding author), Harvard Univ, Cambridge, MA 02138 USA.
+EM virgilio@dcc.ufmg.br; jussara@dcc.ufmg.br; meira@dcc.ufmg.br
+OI Almeida, Jussara/0000-0001-9142-2919
+CR Abebe R, 2020, FAT* '20: PROCEEDINGS OF THE 2020 CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, P252, DOI 10.1145/3351095.3372871
+   [Anonymous], 2023, Interim report: Governing AI for humanity
+   Biden JR, 2023, Executive order on the safe, secure, and trustworthy development and use of artificial intelligence
+   Birhane A, 2024, Arxiv, DOI arXiv:2401.14462
+   Bommasani R, 2023, Arxiv, DOI arXiv:2310.12941
+   Dash A, 2024, Arxiv, DOI arXiv:2403.18623
+   Dignum V, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P4698
+   Filgueiras V., Governance for theDigital World: Neither More State Nor More Market
+   Gasser U, 2022, COMMUN ACM, V65, P30
+   Gasser U, 2017, IEEE INTERNET COMPUT, V21, P58, DOI 10.1109/MIC.2017.4180835
+   Liu Y, 2021, 2021 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP 2021), P3065, DOI 10.1109/ICASSP39728.2021.9413539
+   Nelson A., 2024, The right way to regulate AI: Focus on its possibilities, not its perils
+   Siddique S., 2024, Digital, V4, P1, DOI DOI 10.3390/DIGITAL4010001
+   Stahl BC, 2023, SCI REP-UK, V13, DOI 10.1038/s41598-023-34622-w
+   Tambiama M., 2023, European Parliamentary Research Service, V2nd
+NR 15
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAY-JUN
+PY 2024
+VL 28
+IS 3
+BP 55
+EP 58
+DI 10.1109/MIC.2024.3388282
+PG 4
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TM1D1
+UT WOS:001241577900003
+DA 2024-08-05
+ER
+
+PT J
+AU Qi, SX
+   Ramakrishnan, KK
+   Chen, JC
+AF Qi, Shixiong
+   Ramakrishnan, K. K.
+   Chen, Jyh-Cheng
+TI L<SUP>2</SUP>6GC: Evolving the Low-Latency Core for Future Cellular
+   Networks
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE 6G mobile communication; 3GPP; Process control; Low latency
+   communication; Internet; IP networks; Message systems; Millimeter wave
+   communication; Cellular networks; Scalability
+AB With the deployment of higher speed radio (e.g., millimeter-wave) channels, emerging cellular use cases will place a heightened emphasis on performance of the cellular core (we call it "6GC"). Based on our earlier work on designing a low-latency, high-throughput 5G cellular core, we outline a design for L(2)6GC, a 6G cellular core preserving the current trend to disaggregate core network functions (NFs) while ensuring low-latency communication between them. L(2)6GC leverages shared memory processing for low-latency control plane communication, providing an equivalent service to the 3rd Generation Partnership Project service-based interface and supports information exchange between NFs for each user session. L(2)6GC offloads data plane processing to Smart Network Interface Cards, exploiting scalable, flow-level packet classifiers to expedite forwarding-rule lookups when dealing with multiple user sessions. Overall, L(2)6GC optimizes the cellular core, improving latency, scalability, and the user's quality of experience.
+C1 [Qi, Shixiong; Ramakrishnan, K. K.] Univ Calif Riverside, Riverside, CA 92521 USA.
+   [Chen, Jyh-Cheng] Natl Yang Ming Chiao Tung Univ, Hsinchu 30010, Taiwan.
+C3 University of California System; University of California Riverside;
+   National Yang Ming Chiao Tung University
+RP Qi, SX (corresponding author), Univ Calif Riverside, Riverside, CA 92521 USA.
+EM sqi009@ucr.edu; kk@cs.ucr.edu; jcc@nycu.edu.tw
+OI Ramakrishnan, Kadangode/0000-0003-1849-5155
+FU U.S. NSF
+FX No Statement Available
+CR [Anonymous], free5GC
+   Apicharttrisorn K, 2020, IEEE INT CONF SENS, DOI 10.1109/secon48991.2020.9158434
+   Chen Jiasi, 2023, IEEE Communications Magazine, P104, DOI 10.1109/MCOM.003.2300275
+   Ghoshal M., 2023, PROC ACM INTERNET ME, P678, DOI [10.1145/3618257.3624814, DOI 10.1145/3618257.3624814]
+   Hakl S., Microsoft
+   Jain V, 2022, SIGCOMM '22: PROCEEDINGS OF THE 2022 ACM SIGCOMM 2022 CONFERENCE, P143, DOI 10.1145/3544216.3544267
+   Jain V, 2022, 2022 1ST INTERNATIONAL CONFERENCE ON 6G NETWORKING (6GNET), DOI 10.1109/6GNet54646.2022.9830519
+   Kulkarni SG, 2018, CONEXT'18: PROCEEDINGS OF THE 14TH INTERNATIONAL CONFERENCE ON EMERGING NETWORKING EXPERIMENTS AND TECHNOLOGIES, P41, DOI 10.1145/3281411.3281441
+   Larrea J., 2023, PROC ACM MOBICOM C, P1, DOI [10.1145/3570361.3592522, DOI 10.1145/3570361.3592522]
+   Liang E, 2019, SIGCOMM '19 - PROCEEDINGS OF THE ACM SPECIAL INTEREST GROUP ON DATA COMMUNICATION, P256, DOI 10.1145/3341302.3342221
+   Liu Y.-S., 2023, PROC IEEE 12 INT C C, P1
+   MacDavid Robert, 2021, SOSR '21: Proceedings of the ACM SIGCOMM Symposium on SDN Research (SOSR), P162, DOI 10.1145/3482898.3483358
+   Panda S, 2022, I C NETWORK PROTOCOL, DOI 10.1109/ICNP55882.2022.9940261
+   Qazi ZA, 2017, SIGCOMM '17: PROCEEDINGS OF THE 2017 CONFERENCE OF THE ACM SPECIAL INTEREST GROUP ON DATA COMMUNICATION, P348, DOI 10.1145/3098822.3098848
+   Qi SX, 2023, IEEE Confer on Netwo, P107, DOI 10.1109/NetSoft57336.2023.10175428
+   Srinivasan V, 1999, COMP COMM R, V29, P135, DOI 10.1145/316194.316216
+   Yingchareonthawornchai S, 2018, IEEE ACM T NETWORK, V26, P1907, DOI 10.1109/TNET.2018.2852710
+   Zhang W.Y., 2016, PROC ACM HOTMIDDLEBO, P26
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 29
+EP 36
+DI 10.1109/MIC.2024.3376655
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400006
+DA 2024-08-05
+ER
+
+PT J
+AU Wu, JD
+   Hu, TJ
+   Li, Q
+AF Wu, Jindi
+   Hu, Tianjie
+   Li, Qun
+TI Distributed Quantum Machine Learning: Federated and Model-Parallel
+   Approaches
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Quantum computing; Machine learning; Distributed computing; Federated
+   learning
+AB In this article, we explore two types of distributed quantum machine learning (DQML) methodologies: quantum federated learning and quantum model-parallel learning. We discuss the challenges encountered in DQML, propose potential solutions, and highlight future research directions in this rapidly evolving field. Additionally, we implement two solutions tailored to the two types of DQML, aiming to enhance the reliability of the computing process. Our results show the potential of DQML in the current Noisy Intermediate-Scale Quantum era.
+C1 [Wu, Jindi; Hu, Tianjie; Li, Qun] William & Mary, Williamsburg, VA 23187 USA.
+RP Li, Q (corresponding author), William & Mary, Williamsburg, VA 23187 USA.
+EM jwu21@wm.edu; thu04@wm.edu; liqun@cs.wm.edu
+CR Chehimi M, 2022, INT CONF ACOUST SPEE, P8617, DOI 10.1109/ICASSP43922.2022.9746622
+   Chen SYC, 2021, ENTROPY-SWITZ, V23, DOI 10.3390/e23040460
+   He ZC, 2023, Arxiv, DOI arXiv:2308.14935
+   Henderson M, 2020, QUANT MACH INTELL, V2, DOI 10.1007/s42484-020-00012-y
+   McClean JR, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-07090-4
+   McMahan HB, 2017, PR MACH LEARN RES, V54, P1273
+   Ren C, 2024, Arxiv, DOI arXiv:2306.09912
+   Wu Jindi, 2023, 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), P208, DOI 10.1109/QCE57702.2023.00031
+   Wu JD, 2022, 2022 IEEE INTERNATIONAL CONFERENCE ON QUANTUM COMPUTING AND ENGINEERING (QCE 2022), P38, DOI 10.1109/QCE53715.2022.00022
+   Xia Q, 2021, 2021 17TH INTERNATIONAL CONFERENCE ON MOBILITY, SENSING AND NETWORKING (MSN 2021), P145, DOI 10.1109/MSN53354.2021.00035
+   Xia Q, 2021, IEEE GLOB COMM CONF, DOI 10.1109/GLOBECOM46510.2021.9685012
+NR 11
+TC 0
+Z9 0
+U1 7
+U2 7
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD MAR-APR
+PY 2024
+VL 28
+IS 2
+BP 65
+EP 72
+DI 10.1109/MIC.2024.3361288
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OT6T0
+UT WOS:001209577400001
+DA 2024-08-05
+ER
+
+PT J
+AU Ober, TM
+   Cheng, Y
+AF Ober, Teresa M.
+   Cheng, Ying
+TI Adapting to Online and Remote Learning: Examining the Educational
+   Assessment Experiences of US College Students Amidst COVID-19
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Springs; Pandemics; COVID-19; Surveys; Internet; Education; Stress
+AB We administered a survey to examine the impact of the COVID-19 pandemic on academic assessment in a sample of 992 U.S. college students (mean age = 22.36 years) between February and June 2021. The survey included multiple-choice and open-ended questions asking about students' experiences before (fall 2019 to early spring 2020) and during the pandemic-affected periods (late spring 2020 to spring 2021). While classroom assessment formats showed minimal changes, methods of exam administration differed significantly during the pandemic. Untimed and open-book exams became more prevalent, while in-class proctored exams decreased. Even in spring 2021, open-book, outside-of-class, and online proctored or unproctored exams remained common. Students who altered their long-term academic plans due to the pandemic expressed frustration with educational experiences and concerns about future job prospects via open-ended responses. Understanding students' experiences with online assessments can provide valuable insights for the development and administration of fair and valid assessments in online and remote higher education settings.
+C1 [Ober, Teresa M.] Educ Testing Serv, Princeton, NJ 08540 USA.
+   [Cheng, Ying] Univ Notre Dame, Notre Dame, IN 11581 USA.
+C3 Educational Testing Service (ETS); University of Notre Dame
+RP Ober, TM (corresponding author), Educ Testing Serv, Princeton, NJ 08540 USA.
+EM tober@ets.org; ycheng4@nd.edu
+FU Institute for Scholarship in the Liberal Arts of the University of Notre
+   Dame
+FX The authors would like to acknowledge members of the Learning Analytics
+   and Measurement in Behavioral Science Lab of the University of Notre
+   Dame for their contributions to the broader discussion of the
+   issuesraised in this manuscript. This work was supported by the
+   Institute for Scholarship in the Liberal Arts of the University of Notre
+   Dame.This work involved human subjects or animals in its research.
+   Approval of all ethical and experimentalprocedures and protocols was
+   granted by the Univer-sity of Notre Dame Institutional Review Board
+   underApplication No. 21-02-6417.
+CR Adler O, 2020, COGNITIVE BIASES IN HEALTH AND PSYCHIATRIC DISORDERS, P139, DOI 10.1016/B978-0-12-816660-4.00007-6
+   Alon L, 2023, COMPUT EDUC, V203, DOI 10.1016/j.compedu.2023.104870
+   Anderson A., EducationPlus Development Blog
+   Bearman M, 2023, ASSESS EVAL HIGH EDU, V48, P291, DOI 10.1080/02602938.2022.2069674
+   Conijn R, 2022, J COMPUT ASSIST LEAR, V38, P1521, DOI 10.1111/jcal.12651
+   Copeland WE, 2021, J AM ACAD CHILD PSY, V60, P134, DOI 10.1016/j.jaac.2020.08.466
+   Cutri RM, 2020, EUR J TEACH EDUC, V43, P523, DOI 10.1080/02619768.2020.1815702
+   Daffin LW, 2018, ONLINE LEARN, V22, P131, DOI 10.24059/olj.v22i1.1079
+   Guangul FM, 2020, EDUC ASSESS EVAL ACC, V32, P519, DOI 10.1007/s11092-020-09340-w
+   Hanushek E. A., 2020, The economicimpacts of learning losses
+   Hasan N, 2020, CHILD YOUTH SERV REV, V118, DOI 10.1016/j.childyouth.2020.105355
+   Lopez K. M., 2021, International Ethics in Chemistry: Developing Common Values across Cultures, P63
+   MESSICK S, 1984, J EDUC MEAS, V21, P215, DOI 10.1111/j.1745-3984.1984.tb01030.x
+   Middleton KV, 2020, EDUC MEAS-ISSUES PRA, V39, P41, DOI 10.1111/emip.12368
+   Miller A.L., 2011, INVESTIGATING SOCIAL
+   Pagram J, 2018, EDUC SCI, V8, DOI 10.3390/educsci8040188
+   Schultz M, 2022, ASSESS EVAL HIGH EDU, V47, P1458, DOI 10.1080/02602938.2022.2048356
+   Slade C, 2022, ASSESS EVAL HIGH EDU, V47, P588, DOI 10.1080/02602938.2021.1933379
+   Steedle JT, 2019, EDUC MEAS-ISSUES PRA, V38, P101, DOI 10.1111/emip.12256
+   Wuthisatian R, 2020, INT REV ECON EDUC, V35, DOI 10.1016/j.iree.2020.100196
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD JAN
+PY 2024
+VL 28
+IS 1
+BP 26
+EP 33
+DI 10.1109/MIC.2023.3334025
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA IN4Q6
+UT WOS:001166996500008
+DA 2024-08-05
+ER
+
+PT J
+AU Wilson, S
+   Adu-Duodu, K
+   Li, YH
+   Solaiman, E
+   Rana, O
+   Dustdar, S
+   Ranjan, R
+AF Wilson, Stanly
+   Adu-Duodu, Kwabena
+   Li, Yinhao
+   Solaiman, Ellis
+   Rana, Omer
+   Dustdar, Schahram
+   Ranjan, Rajiv
+TI Data Management Challenges in Blockchain-Based Applications
+SO IEEE INTERNET COMPUTING
+LA English
+DT Article
+DE Access control; Systematics; Scalability; Taxonomy; Memory; Blockchains;
+   Complexity theory
+AB Effective data management is crucial to ensure the security, integrity, and efficiency of blockchain systems. This study proposes a detailed data management taxonomy specifically designed for blockchain technology. The taxonomy provides a structured framework to categorize and address various aspects of data management in blockchain networks. It covers essential aspects, such as data flow, data storage, access control, and querying. It provides a systematic approach to understanding and addressing the unique challenges associated with managing data in blockchain systems. The framework enables informed decision making, promotes effective strategies, and helps to leverage the full potential of blockchain technology.
+C1 [Wilson, Stanly; Adu-Duodu, Kwabena; Li, Yinhao; Solaiman, Ellis; Ranjan, Rajiv] Newcastle Univ, Newcastle Upon Tyne NE1 7RU, England.
+   [Rana, Omer] Cardiff Univ, Cardiff CF24 4AG, Wales.
+   [Dustdar, Schahram] Tech Univ Wien, A-1040 Vienna, Austria.
+C3 Newcastle University - UK; Cardiff University; Technische Universitat
+   Wien
+RP Wilson, S (corresponding author), Newcastle Univ, Newcastle Upon Tyne NE1 7RU, England.
+EM s.w.palathingal2@newcastle.ac.uk; k.adu-duodu2@newcastle.ac.uk;
+   yinhao.li@newcastle.ac.uk; ellis.solaiman@newcastle.ac.uk;
+   ranaof@cardiff.ac.uk; dustdar@dsg.tuwien.ac.at; raj.ranjan@ncl.ac.uk
+RI Wilson, Stanly/AFO-1723-2022; Dustdar, Schahram/G-9877-2015; Rana,
+   Omer/E-4314-2015
+OI Wilson, Stanly/0000-0002-1647-2251; Dustdar,
+   Schahram/0000-0001-6872-8821; Adu-Duodu, Kwabena/0000-0003-2418-9314;
+   Rana, Omer/0000-0003-3597-2646; Li, Yinhao/0000-0001-6846-9161
+FU Engineering and Physical Sciences Research Council "Digital Economy"
+   program [EP/V042521/1, EP/V042017/1]
+FX This work was supported in part by the Engineering and Physical Sciences
+   Research Council "Digital Economy" program: EP/V042521/1 and
+   EP/V042017/1.
+CR Androulaki E, 2018, EUROSYS '18: PROCEEDINGS OF THE THIRTEENTH EUROSYS CONFERENCE, DOI 10.1145/3190508.3190538
+   Antonopoulos A. M., 2014, Mastering Bitcoin: Unlocking Digital Crypto-Currencies
+   Belchior R, 2021, ACM COMPUT SURV, V54, DOI 10.1145/3471140
+   Bocek Thomas, 2017, 2017 IFIP/IEEE Symposium on Integrated Network and Service Management (IM), P772, DOI 10.23919/INM.2017.7987376
+   Cruz JP, 2018, IEEE ACCESS, V6, P12240, DOI 10.1109/ACCESS.2018.2812844
+   Hafid A, 2020, IEEE ACCESS, V8, P125244, DOI 10.1109/ACCESS.2020.3007251
+   Khan SN, 2021, PEER PEER NETW APPL, V14, P2901, DOI 10.1007/s12083-021-01127-0
+   Li Y, 2017, LECT NOTES COMPUT SC, V10178, P556, DOI 10.1007/978-3-319-55699-4_34
+   Liu SW, 2018, IEEE 2018 INTERNATIONAL CONGRESS ON CYBERMATICS / 2018 IEEE CONFERENCES ON INTERNET OF THINGS, GREEN COMPUTING AND COMMUNICATIONS, CYBER, PHYSICAL AND SOCIAL COMPUTING, SMART DATA, BLOCKCHAIN, COMPUTER AND INFORMATION TECHNOLOGY, P1355, DOI 10.1109/Cybermatics_2018.2018.00233
+   Longo F, 2019, COMPUT IND ENG, V136, P57, DOI 10.1016/j.cie.2019.07.026
+   Mukherjee P., 2021, BLOCKCHAIN TECHNOLOG, P29, DOI DOI 10.1007/978-3-030-69395-4_3
+   Neisse R, 2017, PROCEEDINGS OF THE 12TH INTERNATIONAL CONFERENCE ON AVAILABILITY, RELIABILITY AND SECURITY (ARES 2017), DOI 10.1145/3098954.3098958
+   Paik HY, 2019, IEEE ACCESS, V7, P186091, DOI 10.1109/ACCESS.2019.2961404
+   Peng YQ, 2020, SIGMOD'20: PROCEEDINGS OF THE 2020 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P637, DOI 10.1145/3318464.3380594
+   Przytarski D, 2022, FUTURE INTERNET, V14, DOI 10.3390/fi14010001
+   Rouhani S, 2019, 2019 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE (WI 2019), P423, DOI 10.1145/3350546.3352561
+   Sunyaev A, 2020, Internet Computing, P265, DOI DOI 10.1007/97830303495789
+   Dinh TTA, 2018, IEEE T KNOWL DATA EN, V30, P1366, DOI 10.1109/TKDE.2017.2781227
+   Valentin M, 2021, 2021 EIGHTH INTERNATIONAL CONFERENCE ON INTERNET OF THINGS, SYSTEMS, MANAGEMENT AND SECURITY (IOTSMS), P69, DOI 10.1109/IOTSMS53705.2021.9704951
+   Wu HQ, 2019, IEEE IC COMP COM NET, DOI 10.1109/icccn.2019.8846964
+   Wu HT, 2022, IEEE T PARALL DISTR, V33, P1393, DOI 10.1109/TPDS.2021.3113873
+   Yang CX, 2020, IEEE ACCESS, V8, P70604, DOI 10.1109/ACCESS.2020.2985762
+   Zaidi SYA, 2021, SUSTAINABILITY-BASEL, V13, DOI 10.3390/su131910556
+   Zhang C, 2019, PROC INT CONF DATA, P842, DOI 10.1109/ICDE.2019.00080
+   Zheng ZB, 2017, IEEE INT CONGR BIG, P557, DOI 10.1109/BigDataCongress.2017.85
+   Zhu YC, 2019, PROC INT CONF DATA, P1820
+NR 26
+TC 0
+Z9 0
+U1 10
+U2 10
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1089-7801
+EI 1941-0131
+J9 IEEE INTERNET COMPUT
+JI IEEE Internet Comput.
+PD JAN
+PY 2024
+VL 28
+IS 1
+BP 70
+EP 80
+DI 10.1109/MIC.2023.3319152
+PG 11
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA IN4Q6
+UT WOS:001166996500002
+DA 2024-08-05
+ER
+
+EF

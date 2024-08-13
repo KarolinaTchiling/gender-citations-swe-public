@@ -1,0 +1,845 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mannel, LL
+   van der Aalst, WMP
+AF Mannel, Lisa L.
+   van der Aalst, Wil M. P.
+TI Discovering Process Models with Long-Term Dependencies while Providing
+   Guarantees and Filtering Infrequent Behavior Patterns
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article; Proceedings Paper
+CT 43rd International Conference on Application and Theory of Petri Nets
+   and Concurrency (Petri Nets)
+CY JUN 19-24, 2022
+CL Bergen, NORWAY
+DE Process Discovery; Petri Nets; eST-Miner; long-term dependencies;
+   non-free choice
+ID PETRI NETS; ALGORITHM
+AB In process discovery, the goal is to find, for a given event log, the model describing the underlying process. While process models can be represented in a variety of ways, Petri nets form a theoretically well-explored description language and are therefore often used. In this paper, we extend the eST-Miner process discovery algorithm. The eST-Miner computes a set of Petri net places which are considered to be fitting with respect to a certain fraction of the behavior described by the given event log as indicated by a given noise threshold. It evaluates all possible candidate places using token-based replay. The set of replayable traces is determined for each place in isolation, i.e., these sets do not need to be consistent. This allows the algorithm to abstract from infrequent behavioral patterns occurring only in some traces. However, when combining places into a Petri net by connecting them to the corresponding uniquely labeled transitions, the resulting net can replay exactly those traces from the event log that are allowed by the combination of all inserted places. Thus, inserting places one-by-one without considering their combined effect may result in deadlocks and low fitness of the Petri net. In this paper, we explore adaptions of the eST-Miner, that aim to select a subset of places such that the resulting Petri net guarantees a definable minimal fitness while maintaining high precision with respect to the input event log. Furthermore, current place evaluation techniques tend to block the execution of infrequent activity labels. Thus, a refined place fitness metric is introduced and thoroughly investigated. In our experiments we use real and artificial event logs to evaluate and compare the impact of the various place selection strategies and place fitness evaluation metrics on the returned Petri net.
+C1 [Mannel, Lisa L.; van der Aalst, Wil M. P.] Rhein Westfal TH Aachen, PADS, Aachen, Germany.
+C3 RWTH Aachen University
+RP Mannel, LL (corresponding author), Rhein Westfal TH Aachen, PADS, Aachen, Germany.
+EM mannel@pads.rwth-aachen.de; wvdaalst@pads.rwth-aachen.de
+FU Federal Ministry of Education and Research (BMBF) [16DHBKI023];
+   Alexander von Humboldt (AvH) Stiftung
+FX We very much appreciate the time and effort of the reviewers, whose
+   comments and suggestions contributed to improve the quality of this
+   work.; Special thanks go to Tobias Brockhoff for his support with
+   conducting the presented experiments.; The authors gratefully
+   acknowledge the financial support by the Federal Ministry of Education
+   and Research (BMBF) for the joint project Bridging AI (grant no.
+   16DHBKI023).; We thank the Alexander von Humboldt (AvH) Stiftung for
+   supporting our research.
+CR Adriansyah A., 2014, Aligning observed and modeled behavior, DOI [10.6100/IR770080, DOI 10.6100/IR770080]
+   [Anonymous], 2016, Sepsis cases-event log
+   Badouel E, 2015, Text in Theoretical Computer Science, EATCS Series, DOI [10.1007/978-3-662-47967-4, DOI 10.1007/978-3-662-47967-4]
+   Bergenthum R, 2007, LECT NOTES COMPUT SC, V4714, P375
+   Bergenthum R, 2008, FUND INFORM, V88, P437
+   BERTHELOT G, 1987, LECT NOTES COMPUT SC, V254, P359
+   Berthomieu B, 2018, LECT NOTES COMPUT SC, V10869, P65, DOI 10.1007/978-3-319-94111-0_4
+   Carmona J, 2008, LECT NOTES COMPUT SC, V5240, P358, DOI 10.1007/978-3-540-85758-7_26
+   Carmona J, 2008, LECT NOTES COMPUT SC, V5062, P92, DOI 10.1007/978-3-540-68746-7_10
+   Carmona J., 2018, Conformance checking: Relating processes and models, relating processes and models, DOI DOI 10.1007/978-3-319-99414-7
+   COLOM JM, 1991, LECT NOTES COMPUT SC, V483, P113
+   Darondeau P, 1998, LECT NOTES COMPUT SC, V1466, P533, DOI 10.1007/BFb0055646
+   De Leoni M., 2015, Road Traffic Fine Management Process
+   Desel J., 1995, Cambridge Tracts in Theoretical Computer Science, V40, DOI [10.1017/CBO9780511526558, DOI 10.1017/CBO9780511526558]
+   Desel J, 1998, Petri nets and business process management
+   Dixit PM, 2018, INT CONF RES CHAL
+   EHRENFEUCHT A, 1990, ACTA INFORM, V27, P343, DOI 10.1007/BF00264612
+   Garcia-Valles F., 1999, Proceedings 8th International Workshop on Petri Nets and Performance Models (Cat. No.PR00331), P104, DOI 10.1109/PNPM.1999.796557
+   Kalenkova A, 2020, LECT NOTES COMPUT SC, V12152, P280, DOI 10.1007/978-3-030-51831-8_14
+   Leemans Sander J. J., 2013, Application and Theory of Petri Nets and Concurrency. 34th International Conference, PETRI NETS 2013. Proceedings: LNCS 7927, P311, DOI 10.1007/978-3-642-38697-8_17
+   Lorenz Robert, 2007, 2007 Winter Simulation Conference, P637, DOI 10.1109/WSC.2007.4419657
+   Mannel LL, 2022, LECT NOTES COMPUT SC, V13288, P303, DOI 10.1007/978-3-031-06653-5_16
+   Mannel LL, 2019, LECT NOTES COMPUT SC, V11522, P258, DOI 10.1007/978-3-030-21571-2_15
+   Mannel LL, 2020, P INT WORKSH ALG THE, V2625, P20
+   Mendling J, 2007, LECT NOTES COMPUT SC, V4714, P48
+   Muñoz-Gama J, 2010, LECT NOTES COMPUT SC, V6336, P211, DOI 10.1007/978-3-642-15618-2_16
+   Reisig Wolfgang, 2013, Understanding Petri Nets-Modeling Techniques, Analysis Methods, Case Studies
+   Tax N, 2019, J INTELL INF SYST, V52, P107, DOI 10.1007/s10844-018-0507-6
+   Van Der Aalst W., 2016, PROCESS MINING DATA, DOI [10.1007/978-3-662-49851-4_1, DOI 10.1007/978-3-662-49851-4]
+   van der Aalst WMP, 2010, Business Process Management Journal, V24, P105
+   van der Werf JMEM, 2008, LECT NOTES COMPUT SC, V5062, P368, DOI 10.1007/978-3-540-68746-7_24
+   van Dongen BF, 2005, LECT NOTES COMPUT SC, V3536, P444
+   van Zelst S, 2015, ATAED PETRI NETS ACS
+   van Zelst SJ, 2015, LECT NOTES COMPUT SC, V9253, P163, DOI 10.1007/978-3-319-23063-4_10
+   Weijters A. J. M. M., 2011, Proceedings 2011 IEEE Symposium on Computational Intelligence and Data Mining (CIDM 2011), P310, DOI 10.1109/CIDM.2011.5949453
+   Wen L, 2007, DATA MIN KNOWL DISC, V15, P145, DOI 10.1007/s10618-007-0065-y
+NR 36
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 190
+IS 2-3
+BP 109
+EP 158
+DI 10.3233/FI-242168
+PG 50
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA JC2U1
+UT WOS:001170899300003
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Lindermayr, A
+   Siebertz, S
+   Vigny, A
+AF Lindermayr, Alexander
+   Siebertz, Sebastian
+   Vigny, Alexandre
+TI Elimination Distance to Bounded Degree on Planar Graphs Preprint
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article
+ID SETS
+AB We study the graph parameter elimination distance to bounded degree, which was introduced by Bulian and Dawar in their study of the parameterized complexity of the graph isomorphism problem. We prove that the problem is fixed-parameter tractable on planar graphs, that is, there exists an algorithm that given a planar graph G and integers d; k decides in time f(k; d) center dot n(c) for a computable function f and constant c whether the elimination distance of G to the class of degree d graphs is at most k.
+C1 [Lindermayr, Alexander; Siebertz, Sebastian; Vigny, Alexandre] Univ Bremen, Bibliothekstr 1, D-28359 Bremen, Germany.
+C3 University of Bremen
+RP Lindermayr, A (corresponding author), Univ Bremen, Bibliothekstr 1, D-28359 Bremen, Germany.
+EM linderal@uni-bremen.de; siebertz@uni-bremen.de; vignyg@uni-bremen.de
+CR Agrawal A, 2020, LIPIcs, V180
+   Agrawal A, 2022, Arxiv, DOI arXiv:2104.09950
+   Agrawal A, 2022, SIAM J DISCRETE MATH, V36, P911, DOI 10.1137/21M1396824
+   Bodlaender HL, 1998, SIAM J DISCRETE MATH, V11, P168, DOI 10.1137/S0895480195282550
+   Bulian J, 2017, Technical report, DOI [10.48456/tr-902, DOI 10.48456/TR-902]
+   Bulian J, 2017, ALGORITHMICA, V79, P139, DOI 10.1007/s00453-016-0235-7
+   Bulian J, 2016, ALGORITHMICA, V75, P363, DOI 10.1007/s00453-015-0045-3
+   Chuzhoy J, 2021, J COMB THEORY B, V146, P219, DOI 10.1016/j.jctb.2020.09.010
+   COURCELLE B, 1990, INFORM COMPUT, V85, P12, DOI 10.1016/0890-5401(90)90043-H
+   Cygan M., 2015, Parameterized algorithms, V4, DOI 10.1007/978-3-319-21275-3
+   Diner ÖY, 2022, GRAPH COMBINATOR, V38, DOI 10.1007/s00373-022-02513-y
+   Dreier J, 2024, J COMPUT SYST SCI, V142, DOI 10.1016/j.jcss.2024.103520
+   Dvorák Z, 2013, J ACM, V60, DOI 10.1145/2499483
+   Fomin FV, 2022, ACM T COMPUT LOG, V23, DOI 10.1145/3517129
+   Gajarsky J, 2017, J COMPUT SYST SCI, V84, P219, DOI 10.1016/j.jcss.2016.09.002
+   Grohe M, 2017, J ACM, V64, DOI 10.1145/3051095
+   Guo J, 2004, LECT NOTES COMPUT SC, V3162, P162
+   Hols EMC, 2022, SIAM J DISCRETE MATH, V36, P1955, DOI 10.1137/20M1335285
+   Libkin L, 2013, Elements of finite model theory
+   Lindermayr A, 2020, LIPIcs, V170, DOI [10.48550/arXiv.2007.02413, DOI 10.48550/ARXIV.2007.02413]
+   Mahlmann N, 2021, LIPIcs, V202, DOI [10.48550/arXiv.2102.04707, DOI 10.48550/ARXIV.2102.04707]
+   Pilipczuk M, 2022, INT C AUT LANG PROGR, V229, p102:1, DOI DOI 10.4230/LIPICS.ICALP.2022.102
+   Reidl F, 2014, LECT NOTES COMPUT SC, V8572, P931
+   ril J, 2012, Sparsity: graphs, structures, and algorithms, V28, DOI [10.1007/978-3-642-27875-4, DOI 10.1007/978-3-642-27875-4]
+   ROBERTSON N, 1995, J COMB THEORY B, V63, P65, DOI 10.1006/jctb.1995.1006
+   ROBERTSON N, 1986, J COMB THEORY B, V41, P92, DOI 10.1016/0095-8956(86)90030-4
+   Schirrmacher N, 2023, ACM T COMPUT LOG, V24, DOI 10.1145/3595922
+   Thilikos Dimitrios M., 2012, The Multivariate Algorithmic Revolution and Beyond. Essays Dedicated to Michael R. Fellows on the Occasion of His 60th Birthday: LNCS 7370, P228, DOI 10.1007/978-3-642-30891-8_13
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 191
+IS 2
+BP 129
+EP 140
+DI 10.3233/FI-242175
+PG 12
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA WG7P6
+UT WOS:001253785800003
+DA 2024-08-05
+ER
+
+PT J
+AU van der Werf, JMEM
+   Rivkin, A
+   Montali, M
+   Polyvyanyy, A
+AF van der Werf, Jan Martijn E. M.
+   Rivkin, Andrey
+   Montali, Marco
+   Polyvyanyy, Artem
+TI Correctness Notions for Petri Nets with Identifiers
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article; Proceedings Paper
+CT 43rd International Conference on Application and Theory of Petri Nets
+   and Concurrency (Petri Nets)
+CY JUN 19-24, 2022
+CL Bergen, NORWAY
+DE Information System; Verification; Data Correctness; Resource Correctness
+ID WORKFLOW NETS; VERIFICATION; SOUNDNESS; SYSTEMS; INFORMATION
+AB A model of an information system describes its processes and how resources are involved in these processes to manipulate data objects. This paper presents an extension to the Petri nets formalism suitable for describing information systems in which states refer to object instances of predefined types and resources are identified as instances of special object types. Several correctness criteria for resource- and object-aware information systems models are proposed, supplemented with discussions on their decidability for interesting classes of systems. These new correctness criteria can be seen as generalizations of the classical soundness property of workflow models concerned with process control flow correctness.
+C1 [van der Werf, Jan Martijn E. M.] Univ Utrecht, Princetonpl 5, NL-3584 CC Utrecht, Netherlands.
+   [Rivkin, Andrey] Tech Univ Denmark, Richard Petersens Plads 321, DK-2800 Lyngby, Denmark.
+   [Montali, Marco] Free Univ Bozen Bolzano, Piazza Domenicani 3, I-39100 Bolzano, Italy.
+   [Polyvyanyy, Artem] Univ Melbourne, Grattan St, Parkville, Vic 3010, Australia.
+C3 Utrecht University; Technical University of Denmark; Free University of
+   Bozen-Bolzano; University of Melbourne
+RP van der Werf, JMEM (corresponding author), Univ Utrecht, Princetonpl 5, NL-3584 CC Utrecht, Netherlands.
+EM j.m.e.m.vanderwerf@uu.nl; ariv@dtu.dk; montali@inf.unibz.it;
+   artem.polyvyanyy@unimelb.edu.au
+RI Polyvyanyy, Artem/AAR-9578-2020; Rivkin, Andrey/IAQ-0982-2023
+OI Polyvyanyy, Artem/0000-0002-7672-1643; Rivkin,
+   Andrey/0000-0001-8425-2309
+CR Abiteboul S., 1995, Foundations of Databases, DOI DOI 10.5555/551350
+   Artale A, 2019, LECT NOTES COMPUT SC, V11675, P139, DOI 10.1007/978-3-030-26619-6_11
+   Bagheri Hariri B., 2013, Proceedings of the 32Nd Symposium on Principles of Database Systems. PODS '13, P163, DOI [DOI 10.1145/2463664.2465221, 10.1145/2463664.2465221]
+   Barkaoui K, 2007, International Journal of Computing and Information Sciences (IJCIS), V5, P51
+   Berthelot G., 1978, Ph.D. thesis
+   Calvanese D, 2018, INFORM COMPUT, V259, P328, DOI 10.1016/j.ic.2017.08.007
+   Calvanese Diego, 2022, P 31 INT JOINT C ART, P2553
+   de Leoni M, 2020, KR2020: PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON PRINCIPLES OF KNOWLEDGE REPRESENTATION AND REASONING, P315
+   de Leoni M, 2018, LECT NOTES COMPUT SC, V11157, P219, DOI 10.1007/978-3-030-00847-5_17
+   Fahland D, 2021, FUND INFORM, V183, P203, DOI 10.3233/FI-2021-2087
+   Fahland D, 2019, LECT NOTES COMPUT SC, V11522, P3, DOI 10.1007/978-3-030-21571-2_1
+   Felli P, 2022, AAAI CONF ARTIF INTE, P5642
+   Felli P, 2019, INT CONF APPL CONCUR, P82, DOI 10.1109/ACSD.2019.00013
+   Ghilardi S, 2022, INFORM SYST, V107, DOI 10.1016/j.is.2022.102011
+   Ghilardi S, 2020, LECT NOTES COMPUT SC, V12168, P55, DOI 10.1007/978-3-030-58666-9_4
+   Haarmann Stephan, 2020, Business Process Management Forum. BPM Forum 2020. Proceedings. Lecture Notes in Business Information Processing (LNBIP 392), P3, DOI 10.1007/978-3-030-58638-6_1
+   Haarmann S, 2020, arXiv
+   Hack M., 1974, FOCS, P156, DOI [10.1109/SWAT.1974.28, DOI 10.1109/SWAT.1974.28]
+   Hariri BB, 2014, FOURTEENTH INTERNATIONAL CONFERENCE ON THE PRINCIPLES OF KNOWLEDGE REPRESENTATION AND REASONING, P458
+   Karp R. M., 1969, J COMPUT SYST SCI, V3, P147, DOI DOI 10.1016/S0022-0000(69)80011-5
+   Lasota S, 2016, LECT NOTES COMPUT SC, V9698, P20, DOI 10.1007/978-3-319-39086-4_3
+   Leemans Sander J. J., 2013, Application and Theory of Petri Nets and Concurrency. 34th International Conference, PETRI NETS 2013. Proceedings: LNCS 7927, P311, DOI 10.1007/978-3-642-38697-8_17
+   Lomazova I.A., 2021, arXiv
+   Lomazova IA, 2022, FUND INFORM, V186, P175, DOI 10.3233/FI-222125
+   Martos-Salgado M, 2011, LECT NOTES COMPUT SC, V6722, P259, DOI 10.1007/978-3-642-21461-5_17
+   Montali M, 2016, INT J SOFTW TOOLS TE, V18, P535, DOI 10.1007/s10009-016-0417-2
+   Montali M, 2016, FORM ASP COMPUT, V28, P615, DOI 10.1007/s00165-016-0370-6
+   MURATA T, 1989, P IEEE, V77, P541, DOI 10.1109/5.24143
+   Polyvyanyy A, 2019, LECT NOTES COMPUT SC, V11483, P194, DOI 10.1007/978-3-030-21290-2_13
+   Reisig W., 2013, Understanding Petri Nets - Modeling Techniques, Analysis Methods, Case Studies, DOI DOI 10.1007/978-3-642-33278-4
+   Rosa-Velardo F, 2011, THEOR COMPUT SCI, V412, P4439, DOI 10.1016/j.tcs.2011.05.007
+   Rosa-Velardo F, 2010, LECT NOTES COMPUT SC, V6128, P185, DOI 10.1007/978-3-642-13675-7_12
+   Rosa-Velardo F, 2006, ELECTRON NOTES THEOR, V150, P103, DOI 10.1016/j.entcs.2005.12.026
+   Sidorova N, 2013, IEEE T SYST MAN CY-S, V43, P724, DOI 10.1109/TSMCA.2012.2210415
+   van der Aalst WMP, 2020, FUND INFORM, V175, P1, DOI 10.3233/FI-2020-1946
+   van der Aalst WMP, 2019, LECT NOTES COMPUT SC, V11724, P3, DOI 10.1007/978-3-030-30446-1_1
+   van der Aalst WMP, 1997, LECT NOTES COMPUT SC, V1248, P407
+   van der Werf JMEM, 2020, LECT NOTES COMPUT SC, V12152, P414, DOI 10.1007/978-3-030-51831-8_22
+   van der Werf JMEM, 2018, Business Process Management Workshops, V342, P553, DOI [10.1007/978-3-030-11641-5 n 44, DOI 10.1007/978-3-030-11641-5N44]
+   van Glabbeek R. J., 1993, CONCUR '93. 4th International Conference on Concurrency Theory Proceedings, P66
+   van Hee K, 2005, LECT NOTES COMPUT SC, V3536, P250
+   van Hee K, 2003, LECT NOTES COMPUT SC, V2679, P337
+   van Hee Kees M., 2013, Transactions on Petri Nets and Other Models of Concurrency VII, P116, DOI 10.1007/978-3-642-38143-0_4
+   van Hee K, 2006, FUND INFORM, V71, P243
+   van Hee K, 2009, INFORM SYST, V34, P178, DOI 10.1016/j.is.2008.06.003
+   van Hee KM, 2009, FUND INFORM, V93, P171, DOI 10.3233/FI-2009-95
+   van Hee KM, 2006, PROC ACSD 2006, P279, DOI [10.1109/ACSD.2006.37, DOI 10.1109/ACSD.2006.37]
+   Weidlich M, 2011, FUND INFORM, V113, P399, DOI 10.3233/FI-2011-614
+NR 48
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 190
+IS 2-3
+BP 159
+EP 207
+DI 10.3233/FI-242169
+PG 49
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA JC2U1
+UT WOS:001170899300004
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Dangalchev, C
+AF Dangalchev, Chavdar
+TI Link Residual Closeness of Harary Graphs
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article
+DE Closeness; Residual Closeness; Harary Graphs
+ID ROBUSTNESS
+AB The study of networks characteristics is an important subject in different fields, like math, chemistry, transportation, social network analysis etc. The residual closeness is one of the most sensitive measure of graphs' vulnerability. In this article we calculate the link residual closeness of Harary graphs.
+C1 [Dangalchev, Chavdar] Bulgarian Acad Sci, Inst Math & Informat, Belgrade, Serbia.
+RP Dangalchev, C (corresponding author), Bulgarian Acad Sci, Inst Math & Informat, Belgrade, Serbia.
+EM dangalchev@hotmail.com
+CR Aytaç A, 2018, RAIRO-OPER RES, V52, P839, DOI 10.1051/ro/2016071
+   Aytaç A, 2017, INT J FOUND COMPUT S, V28, P835, DOI 10.1142/S0129054117500277
+   Aytaç A, 2011, INT J FOUND COMPUT S, V22, P1229, DOI 10.1142/S0129054111008660
+   Aytaç V, 2018, COMPUT SCI J MOLD, V26, P251
+   Cheng MQ, 2023, J OPER RES SOC CHINA, V11, P839, DOI 10.1007/s40305-022-00405-9
+   Dangalchev Ch., 2023, COMPUT VIS STUD, V2, P1, DOI DOI 10.58396/CVS020102
+   Dangalchev C, 2023, COMPUT J, V67, P2020, DOI 10.1093/comjnl/bxad120
+   Dangalchev C, 2022, INT J FOUND COMPUT S, V33, P1033, DOI 10.1142/S0129054122500149
+   Dangalchev C, 2006, PHYSICA A, V365, P556, DOI 10.1016/j.physa.2005.12.020
+   Dangalchev C, 2020, FUND INFORM, V176, P1, DOI 10.3233/FI-2020-1960
+   Dangalchev C, 2020, CR ACAD BULG SCI, V73, P461, DOI 10.7546/CRABS.2020.04.03
+   Dangalchev C, 2018, FUND INFORM, V162, P1, DOI 10.3233/FI-2018-1710
+   Dangalchev C, 2011, INT J FOUND COMPUT S, V22, P1939, DOI 10.1142/S0129054111009136
+   Golpek H.T., 2022, MALTEPE J MATH, V4, P1, DOI DOI 10.47087/MJM.1156370
+   Golpek HT, 2024, Arxiv, DOI arXiv:2308.11056
+   HARARY F, 1962, P NATL ACAD SCI USA, V48, P1142, DOI 10.1073/pnas.48.7.1142
+   Odabas ZN, 2013, FUND INFORM, V124, P297, DOI 10.3233/FI-2013-835
+   Poklukar DR, 2019, FUND INFORM, V167, P219, DOI 10.3233/FI-2019-1815
+   Turaci T, 2017, ARS COMBINATORIA, V130, P17
+   Turaci T, 2015, ARS COMBINATORIA, V118, P419
+   Wang YN, 2023, COMPUT J, V66, P1156, DOI 10.1093/comjnl/bxac004
+   West D. B., 2001, INTRO GRAPH THEORY
+   Yigit E, 2019, INT J FOUND COMPUT S, V30, P417, DOI 10.1142/S0129054119500126
+   Zheng L, 2022, RAIRO-OPER RES, V56, P2651, DOI 10.1051/ro/2022125
+   Zhou B, 2021, INT J FOUND COMPUT S, V32, P921, DOI 10.1142/S0129054121500295
+NR 25
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 191
+IS 1
+BP 1
+EP 15
+DI 10.3233/FI-242170
+PG 15
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ON9X0
+UT WOS:001208082100001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU González, JAJ
+AF Jimenez Gonzalez, Jesus Arturo
+TI A Strong Gram Classification of Non-negative Unit Forms of Dynkin Type
+   A<sub>r</sub>
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article
+DE Integral quadratic form; Gram congruence; Dynkin type; Coxeter
+   polynomial; edgebipartite; graph; quiver; incidence matrix; signed line
+   graph. 2020 MSC: 15A63; 15A21; 15B36; 05C22; 05C50; 05C76; 05B20
+ID EDGE-BIPARTITE GRAPHS; COXETER SPECTRAL CLASSIFICATION; MESH ALGORITHMS;
+   ROOT SYSTEMS; CONGRUENCES; ALGEBRAS; I.; CATEGORIES; GEOMETRIES;
+   MATRICES
+AB An integral quadratic form q : Z(n) -> Z is usually identified with a bilinear form b(q) : Z(n) x Z(n) -> Z satisfying q(x) = b(q)(x, x) for any vector x in Z(n), and such that its Gram matrix with respect to the canonical basis of Zn is upper triangular. Two integral quadratic forms are called strongly (resp. weakly) Gram congruent if their corresponding upper triangular bilinear forms (resp. their symmetrizations) are equivalent. If q is unitary, such upper triangular bilinear form is unimodular, and one considers the associated Coxeter transformation and its characteristic polynomial, the so-called Coxeter polynomial of q with this identification. Two strongly Gram congruent quadratic unit forms are weakly Gram congruent and have the same Coxeter polynomial.
+   Here we show that the converse of this statement holds for the connected non-negative case of Dynkin type A(r) (r >= 1) and arbitrary corank, and use this characterization to complete a combinatorial classification of such quadratic forms started in [Fundamenta Informaticae 184(1):49-82, 2021] and [Fundamenta Informaticae 185(3):221-246, 2022].
+C1 [Jimenez Gonzalez, Jesus Arturo] Univ Nacl Autonoma Mexico, Inst Matemat, Mexico City, DF, Mexico.
+C3 Universidad Nacional Autonoma de Mexico
+RP González, JAJ (corresponding author), Univ Nacl Autonoma Mexico, Inst Matemat, Mexico City, DF, Mexico.
+EM jejim@im.unam.mx
+FU Instituto de Matematicas UNAM, Mexico
+FX Thanks to the anonymous referees for their careful revision and useful
+   suggestions. Thanks to the Instituto de Matematicas UNAM, Mexico, for
+   financial support. Part of this paper was completed during a research
+   stay at the Faculty of Mathematics and Computer Science of Nicolaus
+   Copernicus University in Torun within project University Centre of
+   Excellence "Dynamics, Mathematical Analysis and Artificial
+   Intelligence". The author expresses his gratitude to NCU for the
+   hospitality and for providing excellent working conditions.
+CR Arndt J., 2011, Matters Computational, DOI DOI 10.1007/978-3-642-14764-7
+   Barot M, 2006, LINEAR ALGEBRA APPL, V412, P291, DOI 10.1016/j.laa.2005.06.030
+   Barot M, 1999, BOL SOC MAT MEX, V5, P87
+   Barot M, 2001, BOL SOC MAT MEX, V7, P13
+   Barot M, 1999, Expo. Math., V17, P339
+   Barot M, 1999, Colloquium Mathematicum, V79, P119, DOI [10.4064/cm-79-1-119-131, DOI 10.4064/CM-79-1-119-131]
+   Barot M, 2018, Algebra and Applications, V25, DOI [10.1007/978-3-030-05627-8, DOI 10.1007/978-3-030-05627-8]
+   Barot M, 2006, J LOND MATH SOC, V73, P545, DOI 10.1112/S0024610706022769
+   Bernstein I.N., 1973, Uspehi Mat. Nauk, V28, P19
+   Bocian R, 2014, INT SYMP SYMB NUMERI, P115, DOI 10.1109/SYNASC.2013.22
+   Bocian R, 2014, J COMPUT APPL MATH, V259, P815, DOI 10.1016/j.cam.2013.07.013
+   BONGARTZ K, 1983, J LOND MATH SOC, V28, P461
+   Bongartz K, 2006, Lecture Notes in Mathematics, V1146, DOI [10.1007/BFb0074545, DOI 10.1007/BFB0074545]
+   Brüstle T, 2011, ADV MATH, V226, P887, DOI 10.1016/j.aim.2010.07.007
+   CAMERON PJ, 1976, J ALGEBRA, V43, P305, DOI 10.1016/0021-8693(76)90162-9
+   de la Pena JA, 1990, Topics in Algebra, V26, P353
+   de la Pena JA, 1990, Enganzungsreihe, P90
+   Dean A, 1996, LINEAR ALGEBRA APPL, V235, P35, DOI 10.1016/0024-3795(94)00109-X
+   DLAB V, 1976, MEM AM MATH SOC, V6, P1
+   Dlab V, 1979, PROC C RING THEORY
+   Dräxler P, 2000, COMMUN ALGEBRA, V28, P3993, DOI 10.1080/00927870008827071
+   Dräxler P, 1999, ARCH MATH, V72, P9, DOI 10.1007/s000130050297
+   DRAXLER P, 1995, EUR J COMBIN, V16, P1, DOI 10.1016/0195-6698(95)90084-5
+   Felisiak M, 2015, DISCRETE APPL MATH, V192, P49, DOI 10.1016/j.dam.2014.05.002
+   GABRIEL P, 1972, MANUSCRIPTA MATH, V6, P309, DOI 10.1007/BF01304615
+   Gantmacher F. R., 1960, THEORY MATRICES, V1
+   Gasiorek M, 2016, LINEAR ALGEBRA APPL, V500, P88, DOI 10.1016/j.laa.2016.03.007
+   Gasiorek M, 2014, ALGEBRA DISCRET MATH, V17, P33
+   HAPPEL D, 1995, COMMUN ALGEBRA, V23, P737, DOI 10.1080/00927879508825243
+   Horn RA, 2004, LINEAR ALGEBRA APPL, V389, P347, DOI 10.1016/j.laa.2004.03.010
+   González JAJ, 2022, FUND INFORM, V185, P221, DOI 10.3233/FI-222109
+   González JAJ, 2021, FUND INFORM, V184, P49, DOI 10.3233/FI-2021-2092
+   González JAJ, 2018, J ALGEBRA, V513, P208, DOI 10.1016/j.jalgebra.2018.07.020
+   Kasjan S, 2015, FUND INFORM, V139, P185, DOI 10.3233/FI-2015-1231
+   Kasjan S, 2015, FUND INFORM, V139, P153, DOI 10.3233/FI-2015-1230
+   Kosakowska J, 2012, FUND INFORM, V119, P149, DOI 10.3233/FI-2012-731
+   Lenzing H., 1996, REPRESENTATIONS ALGE, V18, P433
+   Lenzing H, 2006, MATH Z, V254, P133, DOI 10.1007/s00209-006-0938-6
+   Makuracki B, 2021, DISCRETE APPL MATH, V303, P108, DOI 10.1016/j.dam.2020.05.022
+   Makuracki B, 2019, LINEAR ALGEBRA APPL, V580, P128, DOI 10.1016/j.laa.2019.06.006
+   Makuracki B, 2019, DISCRETE APPL MATH, V253, P25, DOI 10.1016/j.dam.2017.10.033
+   Makuracki B, 2017, FUND INFORM, V153, P367, DOI 10.3233/FI-2017-1545
+   Mróz A, 2016, FUND INFORM, V146, P121, DOI 10.3233/FI-2016-1377
+   Mróz A, 2016, FUND INFORM, V146, P145, DOI 10.3233/FI-2016-1378
+   Mróz A, 2016, LINEAR ALGEBRA APPL, V493, P227, DOI 10.1016/j.laa.2015.11.021
+   Mróz A, 2014, J ALGEBRA, V420, P242, DOI 10.1016/j.jalgebra.2014.08.017
+   Newman M., 1972, INTEGRAL MATRICES
+   Ovsienko SA, 1979, Schur matrix problems and quadratic forms, P106
+   Pérez C, 2018, FUND INFORM, V158, P369, DOI 10.3233/FI-2018-1653
+   Ringel CM, 1984, Tame algebras and integral quadratic forms, V1099, DOI [10.1007/BFb0072870, DOI 10.1007/BFB0072870]
+   Rotman Joseph J, 2006, A first course in abstract algebra with applications
+   Sato M, 2005, LINEAR ALGEBRA APPL, V406, P99, DOI 10.1016/j.laa.2005.03.036
+   Simson D, 2013, Hindawi Publishing Corporation International Journal of Mathematics and Mathematical Sciences
+   Simson D, 2022, ADV MATH, V404, DOI 10.1016/j.aim.2022.108389
+   Simson D, 2021, LINEAR ALGEBRA APPL, V612, P223, DOI 10.1016/j.laa.2020.11.001
+   Simson D, 2020, LINEAR ALGEBRA APPL, V586, P190, DOI 10.1016/j.laa.2019.10.015
+   Simson D, 2019, LINEAR ALGEBRA APPL, V573, P90, DOI 10.1016/j.laa.2019.02.023
+   Simson D, 2018, LINEAR ALGEBRA APPL, V557, P105, DOI 10.1016/j.laa.2018.07.013
+   Simson D, 2017, LINEAR ALGEBRA APPL, V524, P109, DOI 10.1016/j.laa.2017.02.021
+   Simson D, 2016, FUND INFORM, V145, P19, DOI 10.3233/FI-2016-1345
+   Simson D, 2016, FUND INFORM, V145, P49, DOI 10.3233/FI-2016-1346
+   Simson D, 2013, FUND INFORM, V124, P309, DOI 10.3233/FI-2013-836
+   Simson D, 2013, SIAM J DISCRETE MATH, V27, P827, DOI 10.1137/110843721
+   Simson D, 2013, FUND INFORM, V124, P339, DOI 10.3233/FI-2013-837
+   Simson D, 2013, FUND INFORM, V123, P447, DOI 10.3233/FI-2013-820
+   Simson D, 2011, FUND INFORM, V109, P425, DOI 10.3233/FI-2011-520
+   Simson D, 2011, J PURE APPL ALGEBRA, V215, P13, DOI 10.1016/j.jpaa.2010.02.029
+   SLOANE N., 2009, ON LINE ENCY INTEGER
+   Veblen O, 1923, ANN MATH, V23, P1
+   VonHohne HJ, 1996, P LOND MATH SOC, V73, P47
+   VONHOHNE HJ, 1995, ARCH MATH, V65, P300, DOI 10.1007/BF01195540
+   VONHOHNE HJ, 1988, COMMENT MATH HELV, V63, P312
+   ZASLAVSKY T, 1981, AM MATH MON, V88, P88, DOI 10.2307/2321133
+   Zaslavsky Thomas, 2010, Ramanujan Math. Soc. Lect. Notes Ser., V13, P207
+NR 74
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 191
+IS 1
+BP 17
+EP 66
+DI 10.3233/FI-242171
+PG 50
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ON9X0
+UT WOS:001208082100002
+DA 2024-08-05
+ER
+
+PT J
+AU Sarma, ASKMJ
+AF Sarma, Anoop S. K. M. Jayalal
+TI On Rotation Distance of Rank Bounded Trees
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article
+ID BINARY-TREES
+AB Computing the rotation distance between two binary trees with n internal nodes efficiently (in poly(n) time) is a long standing open question in the study of height balancing in tree data structures. In this paper, we initiate the study of this problem bounding the rank of the trees given at the input (defined in [1] in the context of decision trees).
+   We define the rank-bounded rotation distance between two given full binary trees T-1 and T-2 (with n internal nodes) of rank at most r = maxfrank(T-1); rank(T-2)g, denoted by d(R)(T-1; T-2), as the length of the shortest sequence of rotations that transforms T-1 to T-2 with the restriction that the intermediate trees must be of rank at most r. We show that the rotation distance problem reduces in polynomial time to the rank bounded rotation distance problem. This motivates the study of the problem in the combinatorial and algorithmic frontiers. Observing that trees with rank 1 coincide exactly with skew trees (full binary trees where every internal node has at least one leaf as a child), we show the following results in this frontier:
+   We present an O(n(2)) time algorithm for computing d(R)(T-1; T-2). That is, when the given full binary trees are skew trees (we call this variant the skew rotation distance problem) where the intermediate trees are restricted to be skew as well. In particular, our techniques imply that for any two skew trees dR(T-1; T-2) <= n(2).
+   We show the following upper bound: for any two full binary trees T-1 and T-2 of rank r(1) and r(2) respectively, we have that: d(R)(T-1; T-2) <= n(2)(1 + (2n + 1)(r(1) + r(2) 2)) where r = max {r(1); r(2)}. This bound is asymptotically tight for r = 1.
+   En route to our proof of the above theorems, we associate full binary trees to permutations and relate the rotation operation on trees to transpositions in the corresponding permutations. We give exact combinatorial characterizations of permutations that correspond to full binary trees and full skew binary trees under this association. We also precisely characterize the transpositions that correspond to the set of rotations in full binary trees. We also study bi-variate polynomials associated with binary trees (introduced by [2]), and show characterizations and algorithms for computing rotation distances for the case of full skew trees using them.
+C1 [Sarma, Anoop S. K. M. Jayalal] Indian Inst Technol Madras IIT Madras, Dept Comp Sci & Engn, Chennai, Tamil Nadu, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Madras
+RP Sarma, ASKMJ (corresponding author), Indian Inst Technol Madras IIT Madras, Dept Comp Sci & Engn, Chennai, Tamil Nadu, India.
+EM skmanoop-jayalalg@cse.iitm.ac.in
+CR Bulteau L, 2011, LECT NOTES COMPUT SC, V6755, P654, DOI 10.1007/978-3-642-22006-7_55
+   Cleary S, 2010, J. Graph Algorithms Appl., V14, P385, DOI DOI 10.7155/JGAA.00212
+   Crespelle Christophe, 2013, WALCOM: Algorithms and Computation. 7th International Workshop, WALCOM 2013. Proceedings, P126, DOI 10.1007/978-3-642-36065-7_13
+   CULIK K, 1982, INFORM PROCESS LETT, V15, P39, DOI 10.1016/0020-0190(82)90083-7
+   Dehornoy P, 2010, ADV MATH, V223, P1316, DOI 10.1016/j.aim.2009.09.016
+   EHRENFEUCHT A, 1989, INFORM COMPUT, V82, P231, DOI 10.1016/0890-5401(89)90001-1
+   Lucas JM, 2004, COMPUT J, V47, P259, DOI 10.1093/comjnl/47.2.259
+   LUCAS JM, 1987, J ALGORITHM, V8, P503, DOI 10.1016/0196-6774(87)90048-4
+   Pournin L, 2014, ADV MATH, V259, P13, DOI 10.1016/j.aim.2014.02.035
+   Sleator DanielDominic., 1986, STOC, P122, DOI DOI 10.1145/12130.12143
+   Wiley C, 2014, MO J MATH SCI, V26, P1
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 191
+IS 2
+BP 79
+EP 104
+DI 10.3233/FI-242173
+PG 26
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA WG7P6
+UT WOS:001253785800001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Golpek, HT
+   Aytac, A
+AF Golpek, Hande Tuncel
+   Aytac, Aysun
+TI Closeness and Vertex Residual Closeness of Harary Graphs
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article
+DE Graph vulnerability; closeness; vertex residual closeness
+ID CENTRALITY; ROBUSTNESS
+AB Analysis of a network in terms of vulnerability is one of the most significant problems. Graph theory serves as a valuable tool for solving complex network problems, and there exist numerous graph-theoretic parameters to analyze the system's stability. Among these parameters, the closeness parameter stands out as one of the most commonly used vulnerability metrics. Its definition has evolved to enhance the ease of formulation and applicability to disconnected structures. Furthermore, based on the closeness parameter, vertex residual closeness, which is a newer and more sensitive parameter compared to other existing parameters, has been introduced as a new graph vulnerability index by Dangalchev. In this study, the outcomes of the closeness and vertex residual closeness parameters in Harary Graphs have been examined. Harary Graphs are well-known constructs that are distinguished by having n vertices that are k -connected with the least possible number of edges.
+C1 [Golpek, Hande Tuncel] Dokuz Eylul Univ, Maritime Fac, Tinaztepe Campus, Izmir, Turkiye.
+   [Aytac, Aysun] Ege Univ, Dept Math, Izmir, Turkiye.
+C3 Dokuz Eylul University; Ege University
+RP Golpek, HT (corresponding author), Dokuz Eylul Univ, Maritime Fac, Tinaztepe Campus, Izmir, Turkiye.
+EM hande.tuncel@deu.edu.tr
+CR Aytaç A, 2017, TWMS J APPL ENG MATH, V7, P209
+   Aytaç A, 2018, RAIRO-OPER RES, V52, P839, DOI 10.1051/ro/2016071
+   Aytaç A, 2017, INT J FOUND COMPUT S, V28, P835, DOI 10.1142/S0129054117500277
+   Aytaç A, 2011, INT J FOUND COMPUT S, V22, P1229, DOI 10.1142/S0129054111008660
+   Aytaç V, 2018, COMPUT SCI J MOLD, V26, P251
+   Berberler ZN, 2018, INT J FOUND COMPUT S, V29, P447, DOI 10.1142/S0129054118500144
+   Chartrand G., 2015, Graphs and Digraphs
+   Dairyko M, 2017, Arxiv, DOI arXiv:1712.05429
+   Dangalchev C, 2006, PHYSICA A, V365, P556, DOI 10.1016/j.physa.2005.12.020
+   Dangalchev C, 2020, CR ACAD BULG SCI, V73, P461, DOI 10.7546/CRABS.2020.04.03
+   Dangalchev C, 2018, FUND INFORM, V162, P1, DOI 10.3233/FI-2018-1710
+   Dangalchev C, 2011, INT J FOUND COMPUT S, V22, P1939, DOI 10.1142/S0129054111009136
+   FREEMAN LC, 1979, SOC NETWORKS, V1, P215, DOI 10.1016/0378-8733(78)90021-7
+   HARARY F, 1962, P NATL ACAD SCI USA, V48, P1142, DOI 10.1073/pnas.48.7.1142
+   Harary F, 1969, GRAPH THEORY
+   Latora V, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.198701
+   Odabas ZN, 2013, FUND INFORM, V124, P297, DOI 10.3233/FI-2013-835
+   Tanna S., 2015, A Thesis for the Degree of Master of Computer S
+   Turaci T, 2019, FUND INFORM, V166, P379, DOI 10.3233/FI-2019-1806
+   Turaci T, 2017, ARS COMBINATORIA, V130, P17
+   Turaci T, 2015, ARS COMBINATORIA, V118, P419
+   West D. B., 2001, INTRO GRAPH THEORY
+NR 22
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 191
+IS 2
+BP 105
+EP 127
+DI 10.3233/FI-242174
+PG 23
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA WG7P6
+UT WOS:001253785800002
+DA 2024-08-05
+ER
+
+PT J
+AU Hélouët, L
+   Agrawal, P
+AF Helouet, Loic
+   Agrawal, Pranay
+TI Waiting Nets: State Classes and Taxonomy
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article; Proceedings Paper
+CT 43rd International Conference on Application and Theory of Petri Nets
+   and Concurrency (Petri Nets)
+CY JUN 19-24, 2022
+CL Bergen, NORWAY
+DE Time; Petri nets; State Classes
+ID TIME PETRI NETS; AUTOMATA
+AB In time Petri nets (TPNs), time and control are tightly connected: time measurement for a transition starts only when all resources needed to fire it are available. Further, upper bounds on duration of enabledness can force transitions to fire (this is called urgency). For many systems, one wants to decouple control and time, i.e. start measuring time as soon as a part of the preset of a transition is filled, and fire it after some delay and when all needed resources are available. This paper considers an extension of TPN called waiting nets that dissociates time measurement and control. Their semantics allows time measurement to start with incomplete presets, and can ignore urgency when upper bounds of intervals are reached but all resources needed to fire are not yet available. Firing of a transition is then allowed as soon as missing resources are available. It is known that extending bounded TPNs with stopwatches leads to undecidability. Our extension is weaker, and we show how to compute a finite state class graph for bounded waiting nets, yielding decidability of reachability and coverability. We then compare expressiveness of waiting nets with that of other models w.r.t. timed language equivalence, and show that they are strictly more expressive than TPNs.
+C1 [Helouet, Loic] Univ Rennes, INRIA, CNRS, IRISA, Rennes, France.
+   [Agrawal, Pranay] ENS Paris Saclay, Paris, France.
+C3 Centre National de la Recherche Scientifique (CNRS); Inria; Universite
+   de Rennes; Universite Paris Saclay
+RP Hélouët, L (corresponding author), Univ Rennes, INRIA, CNRS, IRISA, Rennes, France.
+EM loic.helouet@inria.fr; pranay.agrawal@ens-paris-saclay.fr
+CR Abdulla P. A., 2001, Applications and Theory of Petri Nets 2001. 22nd International Conference, ICATPN 2001. Proceedings (Lecture Notes in Computer Science Vol.2075), P53
+   Akshay S, 2020, J LOG ALGEBR METHODS, V110, DOI 10.1016/j.jlamp.2018.11.006
+   Akshay S, 2016, LECT NOTES COMPUT SC, V9698, P301, DOI 10.1007/978-3-319-39086-4_18
+   ALUR R, 1994, THEOR COMPUT SCI, V126, P183, DOI 10.1016/0304-3975(94)90010-8
+   [Anonymous], 1981, P STOC, DOI DOI 10.1145/800076.802477
+   Bengtsson J, 2004, LECT NOTES COMPUT SC, V3098, P87, DOI 10.1007/978-3-540-27755-2_3
+   Bérard B, 2008, THEOR COMPUT SCI, V403, P202, DOI 10.1016/j.tcs.2008.03.030
+   Bérard B, 2005, LECT NOTES COMPUT SC, V3829, P211
+   Bérard B, 2013, THEOR COMPUT SCI, V474, P1, DOI 10.1016/j.tcs.2012.12.005
+   BERTHOMIEU B, 1991, IEEE T SOFTWARE ENG, V17, P259, DOI 10.1109/32.75415
+   Berthomieu B, 2007, DISCRETE EVENT DYN S, V17, P133, DOI [10.1007/s10626-006-0011-y, 10.1007/s10626-006-0011-v]
+   Berthomieu B, 2006, LECT NOTES COMPUT SC, V4202, P82
+   Bouyer P, 2008, INFORM COMPUT, V206, P73, DOI 10.1016/j.ic.2007.10.004
+   Bowden F, 1996, PROC 2 AUSTR JAPAN W
+   Bucci G, 2004, IEEE T SOFTWARE ENG, V30, P97, DOI 10.1109/TSE.2004.1265815
+   Cassez F., 2000, CONCUR 2000-Concurrency Theory, P138
+   Cassez F, 2006, J SYST SOFTWARE, V79, P1456, DOI 10.1016/j.jss.2005.12.021
+   CHENG A, 1995, THEOR COMPUT SCI, V147, P117, DOI 10.1016/0304-3975(94)00231-7
+   Dantzig G. B., 1973, Journal of Combinatorial Theory, Series A, V14, P288, DOI DOI 10.1016/0097-3165(73)90004-6
+   David A, 2012, ELECTRON PROC THEOR, P125, DOI 10.4204/EPTCS.102.12
+   Diekert V, 1997, LECT NOTES COMPUT SC, V1200, P583, DOI 10.1007/BFb0023491
+   DILL DL, 1990, LECT NOTES COMPUT SC, V407, P197
+   Escrig DD, 2000, LECT NOTES COMPUT SC, V1825, P187
+   Esparza J., 1998, Lectures on Petri Nets I: Basic Models. Advances in Petri Nets, P374
+   Hack M, 1976, Decidability Questions for Petri Nets
+   Hélouët L, 2022, LECT NOTES COMPUT SC, V13288, P67, DOI 10.1007/978-3-031-06653-5_4
+   Jacobsen L, 2011, LECT NOTES COMPUT SC, V6543, P46, DOI 10.1007/978-3-642-18381-2_4
+   Jones N. D., 1977, Theoretical Computer Science, V4, P277, DOI 10.1016/0304-3975(77)90014-7
+   Lime D, 2006, DISCRETE EVENT DYN S, V16, P179, DOI 10.1007/s10626-006-8133-9
+   Menasche M., 1982, Ph.D. thesis
+   Menasche M, 1983, PROTOCOL SPECIFICATI, P161
+   Merlin P. M., 1974, A study of the recoverability of computing systems
+   Parrot R, 2021, LECT NOTES COMPUT SC, V12734, P55, DOI 10.1007/978-3-030-76983-3_4
+   Popova D., 1991, Elektronische Informationsverarbeitung und Kybernetik, V27, P227
+   Rackoff C., 1978, Theoretical Computer Science, V6, P223, DOI 10.1016/0304-3975(78)90036-1
+   Ramchandani C, 1974, Ph.D. thesis
+   Reynier PA, 2009, LECT NOTES COMPUT SC, V5710, P557, DOI 10.1007/978-3-642-04081-8_37
+   Valero Ruiz V., 1999, Proceedings 8th International Workshop on Petri Nets and Performance Models (Cat. No.PR00331), P188, DOI 10.1109/PNPM.1999.796565
+   Walter B., 1983, Protocol Specification, Testing, and Verification, P149
+NR 39
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 190
+IS 2-3
+BP 63
+EP 107
+DI 10.3233/FI-242167
+PG 45
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA JC2U1
+UT WOS:001170899300002
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Zhou, SZ
+   Wu, JC
+AF Zhou, Sizhong
+   Wu, Jiancheng
+TI Two Sufficient Conditions for Graphs to Admit Path Factors
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article
+DE graph; degree condition; P->= 3 -factor; (P->= 3, m)-factor deleted
+   graph; (P(>=)3, k)factor critical graph
+ID EXISTENCE; COMPONENT; LENGTH; NUMBER
+AB Let A be a set of connected graphs. Then a spanning subgraph A of G is called an A-factor if each component of A is isomorphic to some member of A. Especially, when every graph in A is a path, A is a path factor. For a positive integer d >= 2, we write P->= d = {P-i|i >= d}. Then a P->d -factor means a path factor in which every component admits at least d vertices. A graph G is called a (P->= d,m)-factor deleted graph if G - E' admits a P->= d -factor for any E' subset of E(G) with |E'| = m. A graph G is called a (P->= d, k)-factor critical graph if G Q has a P->= d-factor for any Q subset of V (G) with |Q| = k. In this paper, we present two degree conditions for graphs to be (P->= 3,m)-factor deleted graphs and (P->= 3, k)-factor critical graphs. Furthermore, we show that the two results are best possible in some sense.
+C1 [Zhou, Sizhong; Wu, Jiancheng] Jiangsu Univ Sci & Technol, Sch Sci, Zhenjiang 212100, Jiangsu, Peoples R China.
+C3 Jiangsu University of Science & Technology
+RP Wu, JC (corresponding author), Jiangsu Univ Sci & Technol, Sch Sci, Zhenjiang 212100, Jiangsu, Peoples R China.
+EM zsz_cumt@163.com; wujiancheng@just.edu.cn
+FU Natural Science Foundation of Shandong Province, China [ZR2023MA078]
+FX The authors would like to express their gratitude to the anonymous
+   reviewers for their helpful comments and valuable suggestions in
+   improving this paper. This work was supported by the Natural Science
+   Foundation of Shandong Province, China (ZR2023MA078).
+CR Bazgan C, 2001, THEOR COMPUT SCI, V263, P255, DOI 10.1016/S0304-3975(00)00247-4
+   Gao W, 2021, INT J INTELL SYST, V36, P1134, DOI 10.1002/int.22335
+   Kaneko A, 2003, J COMB THEORY B, V88, P195, DOI 10.1016/S0095-8956(03)00027-3
+   Kano M, 2004, DISCRETE MATH, V283, P129, DOI 10.1016/j.disc.2004.01.016
+   Kano M, 2010, APPL MATH LETT, V23, P385, DOI 10.1016/j.aml.2009.11.003
+   Kano M, 2008, Discussiones Mathematicae Graph Theory, V28, P551, DOI [10.7151/dmgt.1426, DOI 10.7151/DMGT.1426]
+   KATERINIS P, 1987, Q J MATH, V38, P221, DOI 10.1093/qmath/38.2.221
+   LASVERGNAS M, 1978, DISCRETE MATH, V23, P241, DOI 10.1016/0012-365X(78)90006-7
+   Liu HX, 2022, P ROMANIAN ACAD A, V23, P25
+   Wang SS, 2022, PROCEEDINGS OF THE 6TH INTERNATIONAL CONFERENCE ON E-COMMERCE, E-BUSINESS AND E-GOVERNMENT, ICEEG 2022, P229, DOI 10.1145/3537693.3537704
+   Wang SF, 2024, FILOMAT, V38, P1101, DOI 10.2298/FIL2403101W
+   Wang SF, 2023, RAIRO-OPER RES, V57, P2231, DOI 10.1051/ro/2023111
+   Wang SF, 2022, RAIRO-OPER RES, V56, P2613, DOI 10.1051/ro/2022123
+   Wang SF, 2021, RAIRO-OPER RES, V55, P969, DOI 10.1051/ro/2021037
+   Woodall D. R., 1973, Journal of Combinatorial Theory, Series B, V15, P225, DOI 10.1016/0095-8956(73)90038-5
+   Wu J, 2024, FILOMAT, V38, P2177, DOI 10.2298/FIL2406177W
+   Wu J, 2022, RAIRO-OPER RES, V56, P4317, DOI 10.1051/ro/2022208
+   Zhou SZ, 2024, DISCRETE MATH, V347, DOI 10.1016/j.disc.2024.113927
+   Zhou SZ, 2024, DISCRETE MATH, V347, DOI 10.1016/j.disc.2024.113940
+   Zhou SZ, 2023, P ROMANIAN ACAD A, V24, P11
+   Zhou SZ, 2023, B MATH SOC SCI MATH, V66, P3
+   Zhou SZ, 2023, AEQUATIONES MATH, V97, P489, DOI 10.1007/s00010-023-00944-3
+   Zhou SZ, 2023, LINEAR ALGEBRA APPL, V661, P149, DOI 10.1016/j.laa.2022.12.018
+   Zhou SZ, 2022, RAIRO-OPER RES, V56, P2535, DOI 10.1051/ro/2022119
+   Zhou SZ, 2023, INDIAN J PURE AP MAT, V54, P689, DOI 10.1007/s13226-022-00286-x
+   Zhou SZ, 2022, P ROMANIAN ACAD A, V23, P3
+   Zhou SZ, 2022, AEQUATIONES MATH, V96, P795, DOI 10.1007/s00010-021-00852-4
+   Zhou SZ, 2022, DISCRETE APPL MATH, V323, P343, DOI 10.1016/j.dam.2021.05.022
+   Zhou SZ, 2023, DISCUSS MATH GRAPH T, V43, P761, DOI 10.7151/dmgt.2401
+   Zhou SZ, 2023, DISCUSS MATH GRAPH T, V43, P233, DOI 10.7151/dmgt.2364
+   Zhou SZ, 2020, RAIRO-OPER RES, V54, P1827, DOI 10.1051/ro/2019111
+NR 31
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 191
+IS 1
+BP 67
+EP 77
+DI 10.3233/FI-242172
+PG 11
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ON9X0
+UT WOS:001208082100003
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Yang, CX
+   Klasing, R
+   He, CX
+   Mao, YP
+AF Yang, Chenxu
+   Klasing, Ralf
+   He, Changxiang
+   Mao, Yaping
+TI Perturbation Results for Distance-edge-monitoring Numbers
+SO FUNDAMENTA INFORMATICAE
+LA English
+DT Article
+DE Distance; Perturbation result; Distance-edge-monitoring set
+ID DISCOVERY
+AB Foucaud et al. recently introduced and initiated the study of a new graph-theoretic concept in the area of network monitoring. Given a graph G = (V (G);E(G)), a set M subset of V (G) is a distance-edge-monitoring set if for every edge e is an element of E(G), there is a vertex x is an element of M and a vertex y is an element of V (G) such that the edge e belongs to all shortest paths between x and y. The smallest size of such a set in G is denoted by dem(G). Denoted by G e (resp. G backslash u) the subgraph of G obtained by removing the edge e from G (resp. a vertex u together with all its incident edges from G). In this paper, we first show that dem(G-e) dem(G) <= 2 for any graph G and edge e 2 is an element of(G). Moreover, the bound is sharp. Next, we construct two graphs G and H to show that dem(G backslash u) and dem(H backslash v) can be arbitrarily large, where u is an element of V (G) and v is an element of V (H). We also study the relation between dem(H) and dem(G), where H is a subgraph of G. In the end, we give an algorithm to judge whether the distance-edge-monitoring set still remain in the resulting graph when any edge of a graph G is deleted.
+C1 [Yang, Chenxu] Qinghai Normal Univ, Sch Comp, Xining 810008, Qinghai, Peoples R China.
+   [Klasing, Ralf] Univ Bordeaux, Bordeaux INP, CNRS, LaBRI,UMR 5800, Talence, France.
+   [He, Changxiang] Univ Shanghai Sci & Technol, Coll Sci, Shanghai 200093, Peoples R China.
+   [Mao, Yaping] Acad Plateau Sci & Sustainabilit, Xining 810008, Qinghai, Peoples R China.
+   [Mao, Yaping] Sch Math & Stat, Xining 810008, Qinghai, Peoples R China.
+C3 Qinghai Normal University; Universite de Bordeaux; Centre National de la
+   Recherche Scientifique (CNRS); University of Shanghai for Science &
+   Technology
+RP Klasing, R (corresponding author), Univ Bordeaux, Bordeaux INP, CNRS, LaBRI,UMR 5800, Talence, France.
+EM cxuyang@aliyun.com; ralf.klasing@labri.fr; changxiang-he@163.com;
+   maoyaping@ymail.com
+FU National Science Foundation of China [12061059, 12271362]; Qinghai Key
+   Laboratory of Internet of Things Project [2017-ZJ-Y21]; ANR project
+   TEMPOGRAL [ANR-22-CE48-0001]
+FX Supported by the National Science Foundation of China (Nos. 12061059,
+   12271362), the Qinghai Key Laboratory of Internet of Things Project
+   (2017-ZJ-Y21), and by the ANR project TEMPOGRAL (ANR-22-CE48-0001).
+CR Bampas E, 2015, J COMPUT SYST SCI, V81, P234, DOI 10.1016/j.jcss.2014.06.003
+   Baste J, 2017, INFORM PROCESS LETT, V121, P39, DOI 10.1016/j.ipl.2017.01.008
+   Beerliova Z, 2006, IEEE J SEL AREA COMM, V24, P2168, DOI 10.1109/JSAC.2006.884015
+   Bilò D, 2010, THEOR COMPUT SCI, V411, P1626, DOI 10.1016/j.tcs.2010.01.010
+   Chartrand G., 2005, GRAPHS DIGRAPHS
+   Chartrand G, 2003, Congr. Numer., V160, P47
+   Dall'Asta L, 2006, THEOR COMPUT SCI, V355, P6, DOI 10.1016/j.tcs.2005.12.009
+   Delen S, 2022, F.E.J. of Appl. Math., V11, P11, DOI [10.17654/0972096022002, DOI 10.17654/0972096022002]
+   Eroh L, 2015, J COMB, V6, P433, DOI 10.4310/JOC.2015.v6.n4.a2
+   Foucaud F, 2022, DISCRETE APPL MATH, V319, P424, DOI 10.1016/j.dam.2021.07.002
+   Govindan R., 2000, Proceedings IEEE INFOCOM 2000. Conference on Computer Communications. Nineteenth Annual Joint Conference of the IEEE Computer and Communications Societies (Cat. No.00CH37064), P1371, DOI 10.1109/INFCOM.2000.832534
+   Ji Z, 2024, DISCRETE APPL MATH, V342, P275, DOI 10.1016/j.dam.2023.09.020
+   Li W, 2024, Arxiv, DOI arXiv:2211.10743
+   Monson SD, 1996, ARS COMBINATORIA, V42, P89
+   Wei MQ, 2022, J COMB OPTIM, V44, P331, DOI 10.1007/s10878-021-00838-7
+   Yang CX, 2024, DISCRETE APPL MATH, V342, P153, DOI 10.1016/j.dam.2023.09.012
+   Yang G, Acta Informatica
+   Ye HX, 2009, DISCRETE MATH, V309, P1001, DOI 10.1016/j.disc.2008.01.006
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 0169-2968
+EI 1875-8681
+J9 FUND INFORM
+JI Fundam. Inform.
+PY 2024
+VL 191
+IS 2
+BP 141
+EP 163
+PG 23
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA WG7P6
+UT WOS:001253785800004
+DA 2024-08-05
+ER
+
+EF

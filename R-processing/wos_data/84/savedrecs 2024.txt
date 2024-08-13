@@ -1,0 +1,672 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Moy, C
+AF Moy, Cameron
+TI Knuth-Morris-Pratt illustrated
+SO JOURNAL OF FUNCTIONAL PROGRAMMING
+LA English
+DT Article
+ID DERIVATIVES
+AB The Knuth-Morris-Pratt (KMP) algorithm for string search is notoriously difficult to understand. Lost in a sea of index arithmetic, most explanations of KMP obscure its essence. This paper constructs KMP incrementally, using pictures to illustrate each step. The end result is easier to comprehend. Additionally, the derivation uses only elementary functional programming techniques.
+C1 [Moy, Cameron] Northeastern Univ, Boston, MA 02115 USA.
+C3 Northeastern University
+RP Moy, C (corresponding author), Northeastern Univ, Boston, MA 02115 USA.
+EM camoy@ccs.neu.edu
+FU National Science Foundation [SHF 2116372]
+FX The author thanks Matthias Felleisen, Sam Caldwell, Michael Ballantyne,
+   and anonymous JFP reviewers for their comments and suggestions. This
+   research was supported by National Science Foundation grant SHF 2116372.
+CR Ager M., 2003, Partial Evaluation and Semantics-Based Program Manipulation, P3
+   BAEZAYATES R, 1992, COMMUN ACM, V35, P74, DOI 10.1145/135239.135243
+   Bird R., 2010, Pearls of Functional Algorithm Design
+   BRZOZOWSKI JA, 1964, J ACM, V11, P481, DOI 10.1145/321239.321249
+   COLUSSI L, 1991, INFORM COMPUT, V95, P225, DOI 10.1016/0890-5401(91)90046-5
+   Cook S. A., 1972, Information Processing 71 Proceedings of the IFIP Congress 1971 Volume 1, P75
+   Cormen T. H., 2009, Introduction to Algorithms, V3rd
+   Danvy O, 2006, INFORM PROCESS LETT, V99, P158, DOI 10.1016/j.ipl.2006.04.001
+   Hernandez M., 2001, C PRINC PRACT DECL P, P38
+   Knuth D. E., 1977, SIAM Journal on Computing, V6, P323, DOI 10.1137/0206024
+   Owens S, 2009, J FUNCT PROGRAM, V19, P173, DOI 10.1017/S0956796808007090
+   RABIN MO, 1959, IBM J RES DEV, V3, P114, DOI 10.1147/rd.32.0114
+   Sedgewick R., 2011, Algorithms, V4
+   Takeichi M., 1990, Journal of Information Processing, V13, P522
+NR 14
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0956-7968
+EI 1469-7653
+J9 J FUNCT PROGRAM
+JI J. Funct. Program
+PD JAN 30
+PY 2024
+VL 34
+AR e3
+DI 10.1017/S0956796824000017
+PG 10
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA GH0C8
+UT WOS:001151648400001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Sekiyama, T
+   Tsukada, T
+   Igarashi, A
+AF Sekiyama, Taro
+   Tsukada, Takeshi
+   Igarashi, Atsushi
+TI Signature restriction for polymorphic algebraic effects
+SO JOURNAL OF FUNCTIONAL PROGRAMMING
+LA English
+DT Article
+ID INFERENCE; HANDLERS; STATE; ML
+AB The naive combination of polymorphic effects and polymorphic type assignment has been well known to break type safety. In the literature, there are two kinds of approaches to this problem: one is to restrict how effects are triggered and the other is to restrict how they are implemented. This work explores a new approach to ensuring the safety of the use of polymorphic effects in polymorphic type assignment. A novelty of our work is to restrict effect interfaces. To formalize our idea, we employ algebraic effects and handlers, where an effect interface is given by a set of operations coupled with type signatures. We propose signature restriction, a new notion to restrict the type signatures of operations and show that signature restriction ensures type safety of a language equipped with polymorphic effects and unrestricted polymorphic type assignment. We also develop a type-and-effect system to enable the use of both of the operations that satisfy and those that do not satisfy the signature restriction in a single program.
+C1 [Sekiyama, Taro] Natl Inst Informat, Tokyo, Japan.
+   [Sekiyama, Taro] SOKENDAI, Tokyo, Japan.
+   [Tsukada, Takeshi] Chiba Univ, Chiba, Japan.
+   [Igarashi, Atsushi] Kyoto Univ, Grad Sch Informat, Kyoto, Japan.
+C3 Research Organization of Information & Systems (ROIS); National
+   Institute of Informatics (NII) - Japan; Graduate University for Advanced
+   Studies - Japan; Chiba University; Kyoto University
+RP Sekiyama, T (corresponding author), Natl Inst Informat, Tokyo, Japan.; Sekiyama, T (corresponding author), SOKENDAI, Tokyo, Japan.
+EM tsekiyama@acm.org; tsukada@math.s.chiba-u.ac.jp;
+   igarashi@kuis.kyoto-u.ac.jp
+OI Sekiyama, Taro/0000-0001-9286-230X; Tsukada,
+   Takeshi/0000-0002-2824-8708; Igarashi, Atsushi/0000-0002-5143-9764
+FU JST [JPMJER1603];  [JP19K20247];  [JP19K20211];  [JP15H05706]
+FX We would like to thank Yusuke Matsushita for a fruitful discussion at an
+   early stage of the research and the anonymous reviewers of ICFP 2020
+   PC/AEC and JFP for their close reading and valuable comments. This work
+   was supported in part by ERATO HASUO Metamathematics for Systems Design
+   Project (No. JPMJER1603), JST and JSPS KAKENHI Grant Numbers JP19K20247
+   (Sekiyama), JP19K20211 (Tsukada), and JP15H05706 (Igarashi).
+CR Ahman D., 2017, Ph.D. thesis
+   Ahmed A, 2009, ACM SIGPLAN NOTICES, V44, P340, DOI 10.1145/1594834.1480925
+   APPEL AW, 1991, LECT NOTES COMPUT SC, V528, P1
+   Asai K, 2007, LECT NOTES COMPUT SC, V4807, P239
+   Bauer A, 2014, LOG METH COMPUT SCI, V10, DOI 10.2168/LMCS-10(4:9)2014
+   Bauer A, 2015, J LOG ALGEBR METHODS, V84, P108, DOI 10.1016/j.jlamp.2014.02.001
+   Biernacki D, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3371116
+   Casinghino C, 2014, ACM SIGPLAN NOTICES, V49, P33, DOI 10.1145/2535838.2535883
+   Clinger W. D., 1985, Algebraic Methods in Semantics, P237
+   Cong Y, 2018, 23 ACM SIGPLAN INT C, V69, DOI [10.1145/3236764, DOI 10.1145/3236764]
+   Damas Luis, 1982, P 9 ACM SIGPLAN SIGA, P207, DOI [10.1145/582153.582176, DOI 10.1145/582153.582176]
+   DANVY O, 1990, PROCEEDINGS OF THE 1990 ACM CONFERENCE ON LISP AND FUNCTIONAL PROGRAMMING, P151, DOI 10.1145/91556.91622
+   Dolan S, 2018, LECT NOTES COMPUT SC, V10788, P98, DOI 10.1007/978-3-319-89719-6_6
+   Dreyer D, 2010, ACM SIGPLAN NOTICES, V45, P143, DOI 10.1145/1932681.1863566
+   Dunfield J, 2013, ACM SIGPLAN NOTICES, V48, P429, DOI 10.1145/2544174.2500582
+   Felleisen M., 1988, Conference Record of the Fifteenth Annual ACM Symposium on Principles of Programming Languages, P180, DOI 10.1145/73560.73576
+   Filinski A, 2010, POPL'10: PROCEEDINGS OF THE 37TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P483, DOI 10.1145/1706299.1706354
+   Forster Y, 2019, J FUNCT PROGRAM, V29, DOI 10.1017/S0956796819000121
+   Garrigue J, 2004, LECT NOTES COMPUT SC, V2998, P196
+   Girard Jean-Yves, 1972, Ph. D. Dissertation
+   Gordon M. J. C., 1979, Lecture Notes in Computer Science, V78
+   Gunter C. A., 1995, Conference Record of FPCA '95. SIGPLAN-SIGARCH-WG2.8. Conference on Functional Programming Languages and Computer Architecture, P12, DOI 10.1145/224164.224173
+   Harper R., 1993, Conference Record of the Twentieth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P206, DOI 10.1145/158511.158630
+   Harper R., 1993, LISP and Symbolic Computation, V6, P361, DOI 10.1007/BF01019463
+   Harper R., 1991, Announcement on the Types Electronic Forum
+   Hoang M., 1993, Proceedings of Eighth Annual IEEE Symposium on Logic in Computer Science (Cat. No.93CH3328-2), P15, DOI 10.1109/LICS.1993.287604
+   Jones SP, 2007, J FUNCT PROGRAM, V17, P1, DOI 10.1017/S0956796806006034
+   Kammar O, 2017, J FUNCT PROGRAM, V27, DOI 10.1017/S0956796816000320
+   Kammar O, 2013, ACM SIGPLAN NOTICES, V48, P145, DOI [10.1145/2500365.2500590, 10.1145/2544174.2500590]
+   Leijen D., 2023, The Koka programming langauge
+   Leijen D, 2017, ACM SIGPLAN NOTICES, V52, P486, DOI 10.1145/3093333.3009872
+   Leivant D., 1983, C REC 10 ANN ACM S P, P88, DOI [10.1145/567067.567077, DOI 10.1145/567067.567077]
+   Leroy Xavier., 1991, PROC 18 ACM SIGPLAN, P291
+   Leroy Xavier, 2020, The OCaml system release 4.10: Documentation and user's manua
+   Levy P. B., 2001, Call-by-push-value
+   Lindley S, 2017, ACM SIGPLAN NOTICES, V52, P500, DOI 10.1145/3093333.3009897
+   MILNER R, 1978, J COMPUT SYST SCI, V17, P348, DOI 10.1016/0022-0000(78)90014-4
+   Milner R., 1990, The Definition of Standard ML
+   MITCHELL JC, 1988, INFORM COMPUT, V76, P211, DOI 10.1016/0890-5401(88)90009-0
+   MOGGI E, 1991, INFORM COMPUT, V93, P55, DOI 10.1016/0890-5401(91)90052-4
+   Pédrot PM, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3371126
+   Peyton Jones S. L., 1993, Conference Record of the Twentieth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P71, DOI 10.1145/158511.158524
+   Pitts Andrew, 1998, Higher Order Operational Techniques in Semantics, P227
+   Plotkin G, 2003, APPL CATEGOR STRUCT, V11, P69, DOI 10.1023/A:1023064908962
+   Plotkin G, 2008, IEEE S LOG, P118, DOI 10.1109/LICS.2008.45
+   Plotkin G, 2009, LECT NOTES COMPUT SC, V5502, P80, DOI 10.1007/978-3-642-00590-9_7
+   Plotkin GD, 2013, LOG METH COMPUT SCI, V9, DOI 10.2168/LMCS-9(4:23)2013
+   Reynolds J. C., 1983, Information Processing 83. Proceedings of the IFIP 9th World Computer Congress, P513
+   Reynolds J. C., 1974, Programming Symposium, P408
+   Sekiyama T, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3473600
+   Sekiyama T, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3408999
+   Sekiyama T, 2019, LECT NOTES COMPUT SC, V11423, P353, DOI 10.1007/978-3-030-17184-1_13
+   Sekiyama T, 2017, ACM SIGPLAN NOTICES, V52, P530, DOI 10.1145/3093333.3009875
+   SITARAM D, 1993, SIGPLAN NOTICES, V28, P147, DOI 10.1145/173262.155104
+   Swamy N, 2016, ACM SIGPLAN NOTICES, V51, P256, DOI 10.1145/2914770.2837655
+   The Links team, 2022, The Links programming langauge
+   Tiuryn J, 1996, IEEE S LOG, P74, DOI 10.1109/LICS.1996.561306
+   TOFTE M, 1990, INFORM COMPUT, V89, P1, DOI 10.1016/0890-5401(90)90018-D
+   Wadler P., 1992, Conference Record of the Nineteenth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P1, DOI 10.1145/143165.143169
+   WELLS JB, 1994, IEEE S LOG, P176
+   Wright A. K., 1995, LISP and Symbolic Computation, V8, P343, DOI 10.1007/BF01018828
+   WRIGHT AK, 1994, INFORM COMPUT, V115, P38, DOI 10.1006/inco.1994.1093
+   Xi HW, 2007, J FUNCT PROGRAM, V17, P215, DOI 10.1017/S0956796806006216
+NR 63
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0956-7968
+EI 1469-7653
+J9 J FUNCT PROGRAM
+JI J. Funct. Program
+PD MAY 27
+PY 2024
+VL 34
+AR e7
+DI 10.1017/S0956796824000054
+PG 44
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SG8M0
+UT WOS:001233394500001
+OA hybrid, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Su, CH
+   Chen, L
+   Yanhui, L
+   Zhou, YM
+AF Su, Chenghao
+   Chen, Lin
+   Yanhui, Li
+   Zhou, Yuming
+TI Static Blame for gradual typing
+SO JOURNAL OF FUNCTIONAL PROGRAMMING
+LA English
+DT Article
+ID DESIGN
+AB Gradual typing integrates static and dynamic typing by introducing a dynamic type and a consistency relation. A problem of gradual type systems is that dynamic types can easily hide erroneous data flows since consistency relations are not transitive. Therefore, a more rigorous static check is required to reveal these hidden data flows statically. However, in order to preserve the expressiveness of gradually typed languages, static checks for gradually typed languages cannot simply reject programs with potentially erroneous data flows. By contrast, a more reasonable request is to show how these data flows can affect the execution of the program. In this paper, we propose and formalize Static Blame, a framework that can reveal hidden data flows for gradually typed programs and establish the correspondence between static-time data flows and runtime behavior. With this correspondence, we build a classification of potential errors detected from hidden data flows and formally characterize the possible impact of potential errors in each category on program execution, without simply rejecting the whole program. We implemented Static Blame on Grift, an academic gradually typed language, and evaluated the effectiveness of Static Blame by mutation analysis to verify our theoretical results. Our findings revealed that Static Blame exhibits a notable level of precision and recall in detecting type-related bugs. Furthermore, we conducted a manual classification to elucidate the reasons behind instances of failure. We also evaluated the performance of Static Blame, showing a quadratic growth in run time as program size increases.
+C1 [Su, Chenghao; Chen, Lin; Yanhui, Li; Zhou, Yuming] Nanjing Univ, State Key Lab Novel Software Technol, Nanjing, Peoples R China.
+C3 Nanjing University
+RP Su, CH (corresponding author), Nanjing Univ, State Key Lab Novel Software Technol, Nanjing, Peoples R China.
+EM chenghao_su@smail.nju.edu.cn; lchen@nju.edu.cn; yanhuili@nju.edu.cn;
+   zhouyuming@nju.edu.cn
+OI Li, Yanhui/0000-0003-2282-7175; Su, Chenghao/0000-0003-3273-1222
+FU National Natural Science Foundation of China [62272221, 62172202,
+   62172205]; Cooperation Fund of Nanjing University-Huawei Novel Software
+   Technology Lab [TC20230202021-2023-10]
+FX The authors thank the anonymous JFP reviewers for their constructive
+   comments and suggestions. This work was supported by the National
+   Natural Science Foundation of China (grant numbers 62272221, 62172202,
+   62172205) and the Cooperation Fund of Nanjing University-Huawei Novel
+   Software Technology Lab (grant number TC20230202021-2023-10). The second
+   author Lin Chen is the corresponding author.
+CR Ahmed A, 2017, P ACM PROGRAM LANG, V1, DOI 10.1145/3110283
+   Ahmed A, 2011, POPL 11: PROCEEDINGS OF THE 38TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P201, DOI 10.1145/1926385.1926409
+   Schwerter FB, 2014, ICFP'14: PROCEEDINGS OF THE 2014 ACM SIGPLAN INTERNATIONAL CONFERENCE ON FUNCTIONAL PROGRAMMING, P283, DOI 10.1145/2628136.2628149
+   Bauman S, 2015, PROCEEDINGS OF THE 20TH ACM SIGPLAN INTERNATIONAL CONFERENCE ON FUNCTIONAL PROGRAMMING (ICFP'15), P22, DOI 10.1145/2784731.2784740
+   Bierman G, 2014, LECT NOTES COMPUT SC, V8586, P257
+   Blanchet B, 2002, LECT NOTES COMPUT SC, V2566, P85
+   Bonnaire-Sergeant A, 2016, LECT NOTES COMPUT SC, V9632, P68, DOI 10.1007/978-3-662-49498-1_4
+   Campora JP, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3158103
+   Campora JP, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3428259
+   Castagna G, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3498674
+   Castagna G, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3290329
+   Chaudhuri A, 2017, P ACM PROGRAM LANG, V1, DOI 10.1145/3133872
+   Chung B., 2018, 32 EUR C OBJ OR PROG, p12:1
+   Feldthaus A, 2014, ACM SIGPLAN NOTICES, V49, P1, DOI 10.1145/2660193.2660215
+   Findler RB, 2002, ACM SIGPLAN NOTICES, V37, P48, DOI 10.1145/583852.581484
+   Flatt Matthew., 2010, Technical Report PLT-TR- 2010-1
+   Garcia R, 2016, ACM SIGPLAN NOTICES, V51, P429, DOI 10.1145/2914770.2837670
+   Garcia R, 2015, ACM SIGPLAN NOTICES, V50, P303, DOI [10.1145/2775051.2676992, 10.1145/2676726.2676992]
+   Greenman B, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3360548
+   Greenman Ben, 2018, P ACM PROGR LANG, DOI DOI 10.1145/3236766
+   Herman David, 2010, Higher-Order and Symbolic Computation, V23, P59, DOI 10.1007/s10990-011-9066-z
+   Igarashi Y, 2017, P ACM PROGRAM LANG, V1, DOI 10.1145/3110284
+   Kuhlenschmidt A, 2019, PROCEEDINGS OF THE 40TH ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '19), P517, DOI 10.1145/3314221.3314627
+   Lazarek L, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3473573
+   Lehtosalo J., 2014, mypy-Optional Static Typing for Python
+   Lu K.-C., 2022, Art, V7, P2
+   Matthews J, 2007, ACM SIGPLAN NOTICES, V42, P3, DOI 10.1145/1190215.1190220
+   Migeed Z, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3371097
+   Morris J. G., 2017, 31 EUR C OBJ OR PROG
+   Muehlboeck F, 2017, P ACM PROGRAM LANG, V1, DOI 10.1145/3133880
+   Nielson F., 1999, Principles of Program Analysis
+   Phipps-Costin L, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3485488
+   Rastogi A, 2012, POPL 12: PROCEEDINGS OF THE 39TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P481
+   Richards Gregor., 2015, Proc. European Conference on Object-Oriented Programming, P76, DOI DOI 10.4230/LIPICS.ECOOP.2015.76
+   Schwerter FB, 2016, J FUNCT PROGRAM, V26, P1, DOI 10.1017/S0956796816000162
+   Siek J. G., 2008, P 2008 S DYN LANG
+   Siek J, 2007, LECT NOTES COMPUT SC, V4609, P2
+   Siek J, 2015, ACM SIGPLAN NOTICES, V50, P425, DOI [10.1145/2813885.2737968, 10.1145/2737924.2737968]
+   Siek J, 2009, LECT NOTES COMPUT SC, V5502, P17, DOI 10.1007/978-3-642-00590-9_2
+   Siek JG, 2015, LECT NOTES COMPUT SC, V9032, P432, DOI 10.1007/978-3-662-46669-8_18
+   Siek JG, 2010, POPL'10: PROCEEDINGS OF THE 37TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P365, DOI 10.1145/1706299.1706342
+   Siek Jeremy G., 2015, LIPICS LEIBNIZ INT P, V32, P274, DOI 10.4230/LIPIcs.SNAPL.2015.274
+   Taha Walid, 2006, Scheme and Functional Programming Workshop, V6, P81
+   Takikawa A, 2016, ACM SIGPLAN NOTICES, V51, P456, DOI 10.1145/2914770.2837630
+   Tobin-Hochstadt S., 2017, 2 SUMM ADV PROGR LAN
+   Tobin-Hochstadt S, 2008, POPL'08: PROCEEDINGS OF THE 35TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P395, DOI 10.1145/1328438.1328486
+   Tobin-Hochstadt Sam., 2006, Proc. DLS, P964, DOI DOI 10.1145/1176617.1176755
+   Toro M, 2020, SCI COMPUT PROGRAM, V197, DOI 10.1016/j.scico.2020.102496
+   Toro M, 2017, LECT NOTES COMPUT SC, V10422, P382, DOI 10.1007/978-3-319-66706-5_19
+   Vitousek MM, 2017, ACM SIGPLAN NOTICES, V52, P762, DOI 10.1145/3093333.3009849
+   Vitousek MM, 2015, ACM SIGPLAN NOTICES, V50, P45, DOI 10.1145/2661088.2661101
+   Wadler P., 2021, Lecture Notes in Computer Science, V13036, P335, DOI [10.1007/978-3-030-89159-6_21, DOI 10.1007/978-3-030-89159-6_21]
+   Wadler P, 2009, LECT NOTES COMPUT SC, V5502, P1, DOI 10.1007/978-3-642-00590-9_1
+   Wright AK, 1997, ACM T PROGR LANG SYS, V19, P87, DOI 10.1145/239912.239917
+   Wrigstad T, 2010, POPL'10: PROCEEDINGS OF THE 37TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P377, DOI 10.1145/1706299.1706343
+   Xie NN, 2020, ACM T PROGR LANG SYS, V42, DOI 10.1145/3310339
+NR 56
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0956-7968
+EI 1469-7653
+J9 J FUNCT PROGRAM
+JI J. Funct. Program
+PD MAR 25
+PY 2024
+VL 34
+AR e4
+DI 10.1017/S0956796824000029
+PG 44
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MV0S9
+UT WOS:001196299600001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Matsuda, K
+   Wang, M
+AF Matsuda, Kazutaka
+   Wang, Meng
+TI SPARCL: <i>A language for partially invertible computation</i>
+SO JOURNAL OF FUNCTIONAL PROGRAMMING
+LA English
+DT Article
+ID TRAVERSALS; INVERSION; TREE
+AB Invertibility is a fundamental concept in computer science, with various manifestations in software development (serializer/deserializer, parser/printer, redo/undo, compressor/decompressor, and so on). Full invertibility necessarily requires bijectivity, but the direct approach of composing bijective functions to develop invertible programs is too restrictive to be useful. In this paper, we take a different approach by focusing on partially invertible functions-functions that become invertible if some of their arguments are fixed. The simplest example of such is addition, which becomes invertible when fixing one of the operands. More involved examples include entropy-based compression methods (e.g., Huffman coding), which carry the occurrence frequency of input symbols (in certain formats such as Huffman tree), and fixing this frequency information makes the compression methods invertible. We develop a language Sparcl for programming such functions in a natural way, where partial invertibility is the norm and bijectivity is a special case, hence gaining significant expressiveness without compromising correctness. The challenge in designing such a language is to allow ordinary programming (the "partially" part) to interact with the invertible part freely, and yet guarantee invertibility by construction. The language Sparcl is linear-typed and has a type constructor to distinguish data that are subject to invertible computation and those that are not. We present the syntax, type system, and semantics of the language and prove that Sparcl correctly guarantees invertibility for its programs. We demonstrate the expressiveness of Sparcl with examples including tree rebuilding from preorder and inorder traversals, Huffman coding, arithmetic coding, and LZ77 compression.
+C1 [Matsuda, Kazutaka] Tohoku Univ, 6-3-09 Aramaki,Aza Aoba,Aoba Ku, Sendai, Japan.
+   [Wang, Meng] Univ Bristol, Bristol BS8 1TH, England.
+C3 Tohoku University; University of Bristol
+RP Matsuda, K (corresponding author), Tohoku Univ, 6-3-09 Aramaki,Aza Aoba,Aoba Ku, Sendai, Japan.
+EM kztk@tohoku.ac.jp; meng.wang@bristol.ac.uk
+OI Wang, Meng/0000-0001-7780-630X; Matsuda, Kazutaka/0000-0002-9747-4899
+FU JSPS KAKENHI [JP15H02681, JP19K11892, JP20H04161, JP22H03562]; JSPS
+   Bilateral Program [JPJSBP120199913]; EPSRC Grant EXHIBIT: Expressive
+   High-Level Languages for Bidirectional Transformations [EP/T008911/1];
+   Royal Society Grant Bidirectional Compiler for Software Evolution [IES\
+   R3\ 170104]; Kayamori Foundation of Informational Science Advancement
+FX We thank the IFIP 2.1 members for their critical but constructive
+   comments on a preliminary version of this research, Anders agren Thune
+   for the LZ77 example in Section 5.4 and finding bugs in our prototype
+   implementation and Agda proofs since the publication of the conference
+   version, and Samantha Frohlich for her helpful suggestions and comments
+   on the presentation of this paper. We also thank the anonymous reviewers
+   of ICFP 2020 for their constructive comments. This work was partially
+   supported by JSPS KAKENHI Grant Numbers JP15H02681, JP19K11892,
+   JP20H04161 and JP22H03562, JSPS Bilateral Program, Grant Number
+   JPJSBP120199913, the Kayamori Foundation of Informational Science
+   Advancement, EPSRC Grant EXHIBIT: Expressive High-Level Languages for
+   Bidirectional Transformations (EP/T008911/1), and Royal Society Grant
+   Bidirectional Compiler for Software Evolution (IES\ R3\ 170104).
+CR Abel A, 2014, ELECTRON P THEOR COM, P51, DOI 10.4204/EPTCS.153.4
+   Abramov S, 2007, LECT NOTES COMPUT SC, V4378, P27
+   Abramsky S, 2005, THEOR COMPUT SCI, V347, P441, DOI 10.1016/j.tcs.2005.07.002
+   Abramsky S., 2002, Mathematical Structures in Computer Science, V12, P625, DOI 10.1017/S0960129502003730
+   Almendros-Jiménez JM, 2007, LECT NOTES COMPUT SC, V4449, P253
+   Altenkirch T, 2005, IEEE S LOG, P249
+   Altenkirch T, 2010, LECT NOTES COMPUT SC, V6014, P297, DOI 10.1007/978-3-642-12032-9_21
+   [Anonymous], 1993, Prentice Hall international series in computer science
+   Antoy S, 2000, J ACM, V47, P776, DOI 10.1145/347476.347484
+   Axelsen HB, 2007, LECT NOTES COMPUT SC, V4649, P56
+   BAKER HG, 1992, LECT NOTES COMPUT SC, V637, P507
+   BENNETT CH, 1973, IBM J RES DEV, V17, P525, DOI 10.1147/rd.176.0525
+   Bernardy JP, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3158093
+   Capretta V, 2005, LOG METH COMPUT SCI, V1, DOI 10.2168/LMCS-1(2:1)2005
+   Cheng CJ, 2021, PHYS REV MATER, V5, DOI 10.1103/PhysRevMaterials.5.053602
+   Davies R, 2001, J ACM, V48, P555, DOI 10.1145/382780.382785
+   Dershowitz N., 1999, REWRITING TECHNIQUES, P16
+   Eppstein D., 1985, IJCAI, P219
+   Foster JN, 2007, ACM T PROGR LANG SYS, V29, DOI 10.1145/1047659.1040325
+   Frank M. P., 1997, The R programming language and compiler
+   Gibbons J, 2002, LECT NOTES COMPUT SC, V2297, P149
+   Glück R, 2004, LECT NOTES COMPUT SC, V2998, P291
+   Glück R, 2003, LECT NOTES COMPUT SC, V2895, P246
+   Gluck R., 2016, Comput. Softw, V33, p3_108
+   Glück R, 2019, INFORM PROCESS LETT, V147, P32, DOI 10.1016/j.ipl.2019.03.002
+   Gomard C. K., 1991, Journal of Functional Programming, V1, P21, DOI 10.1017/S0956796800000058
+   Hidaka S, 2010, ICFP 2010: PROCEEDINGS OF THE 2010 ACM SIGPLAN INTERNATIONAL CONFERENCE ON FUNCTIONAL PROGRAMMING, P205
+   Hu Zhenjiang., 2004, PARTIAL EVALUATION P, P178
+   Hu ZJ, 1997, ACM SIGPLAN NOTICES, V32, P164, DOI 10.1145/258949.258964
+   Jacobsen PAH, 2018, LECT NOTES COMPUT SC, V11106, P304, DOI 10.1007/978-3-319-99498-7_21
+   James RP, 2012, POPL 12: PROCEEDINGS OF THE 39TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P73
+   Jones MarkP., 1995, Qualified types: theory and practice
+   Joyal A, 1996, MATH PROC CAMBRIDGE, V119, P447, DOI 10.1017/S0305004100074338
+   Kennedy AJ, 2012, J FUNCT PROGRAM, V22, P529, DOI 10.1017/S0956796812000263
+   Kirkeby M. H., 2019, LOGIC BASED PROGRAM, P243
+   Kirkeby M. H., 2020, PPDP 20 22 INT S PRI, p9:1
+   Kristensen J. T., 2022, CoRR. abs/2209.02422
+   Kristensen J. T., 2022, CoRR. abs/2212.03161
+   Kuhnemann A., 2001, Rewriting Techniques and Applications. 12th International Conference, RTA 2001. Proceedings (Lecture Notes in Computer Science Vol.2051), P154
+   LANDAUER R, 1961, IBM J RES DEV, V5, P183, DOI 10.1147/rd.53.0183
+   LAUNCHBURY J, 1994, SIGPLAN NOTICES, V29, P24, DOI 10.1145/773473.178246
+   Lutz C, 1986, Janus: a time-reversible language
+   Mac Lane Saunders, 1998, GRAD TEXT M, V5, P314, DOI 10.1007/978-1-4757-4721-8
+   Matsuda Kazutaka, 2018, Programming Languages and Systems. 27th European Symposium on Programming, ESOP 2018, held as part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018. Proceedings: LNCS 10801, P31, DOI 10.1007/978-3-319-89884-1_2
+   Matsuda K., 2012, Higher-Order Symb. Comput, V25, P3
+   Matsuda K, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3409000
+   Matsuda K, 2020, LECT NOTES COMPUT SC, V12075, P456, DOI 10.1007/978-3-030-44914-8_17
+   Matsuda K, 2018, PROCEEDINGS OF THE 11TH ACM SIGPLAN INTERNATIONAL SYMPOSIUM ON HASKELL (HASKELL '18), P158, DOI 10.1145/3242744.3242758
+   Matsuda K, 2018, J FUNCT PROGRAM, V28, DOI 10.1017/S0956796818000096
+   Matsuda K, 2015, PROCEEDINGS OF THE 20TH ACM SIGPLAN INTERNATIONAL CONFERENCE ON FUNCTIONAL PROGRAMMING (ICFP'15), P62, DOI 10.1145/2784731.2784750
+   Matsuda K, 2015, SCI COMPUT PROGRAM, V111, P79, DOI 10.1016/j.scico.2014.07.008
+   Matsuda K, 2013, LECT NOTES COMPUT SC, V7792, P101, DOI 10.1007/978-3-642-37036-6_6
+   Matsuda K, 2010, LECT NOTES COMPUT SC, V6012, P448, DOI 10.1007/978-3-642-11957-6_24
+   Matsuda K, 2007, ICFP'07 PROCEEDINGS OF THE 2007 ACM SIGPLAN INTERNATIONAL CONFERENCE ON FUNCTIONAL PROGRAMMING, P47
+   Mazurak K, 2010, TLDI '10: PROCEEDINGS OF THE 2010 ACM SIGPLAN WORKSHOP ON TYPES IN LANGUAGE DESIGN AND IMPLEMENTATION, P77
+   Mcbride C, 2008, J FUNCT PROGRAM, V18, P1, DOI 10.1017/S0956796807006326
+   Mogensen TAE, 2005, LECT NOTES COMPUT SC, V3676, P189
+   Mogensen TA, 2007, LECT NOTES COMPUT SC, V4378, P322
+   Mogensen TA, 2008, PEPM'08: PROCEEDINGS OF THE 2008 ACM SIGPLAN SYMPOSIUM ON PARTIAL EVALUATION AND SEMANTICS-BASED PROGRAM MANIPULATION, P21, DOI 10.1145/1328408.1328413
+   Moggi E, 1998, LECT NOTES COMPUT SC, V1378, P211, DOI 10.1007/BFb0053552
+   Morris JG, 2016, ACM SIGPLAN NOTICES, V51, P448, DOI 10.1145/3022670.2951925
+   Mu SC, 2004, LECT NOTES COMPUT SC, V3302, P2
+   Mu SC, 2004, LECT NOTES COMPUT SC, V3125, P289
+   Mu SC, 2003, LECT NOTES COMPUT SC, V2895, P265
+   Nielson F., 1992, Cambridge Tracts in Theoretical Computer Science
+   Nishida N, 2005, LECT NOTES COMPUT SC, V3467, P264
+   Nishida N, 2011, LEIBNIZ INT PR INFOR, V10, P283, DOI 10.4230/LIPIcs.RTA.2011.283
+   Ohori A., 2003, Lecture Notes in Computer Science, V2895
+   Paterson Ross, 2012, Mathematics of Program Construction. Proceedings 11th International Conference, MPC 2012, P300, DOI 10.1007/978-3-642-31113-0_15
+   Rendel T, 2010, ACM SIGPLAN NOTICES, V45, P1
+   Reynolds J. C., 1998, Higher-Order and Symbolic Computation, V11, P363, DOI 10.1023/A:1010027404223
+   Rios F, 2018, ELECTRON P THEOR COM, P164, DOI 10.4204/EPTCS.266.11
+   ROMANENKO A, 1991, SIGPLAN NOTICES, V26, P12, DOI 10.1145/115866.115868
+   Rondon PM, 2008, PLDI'08: PROCEEDINGS OF THE 2008 SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN & IMPLEMENTATION, P159, DOI 10.1145/1375581.1375602
+   Salomon D., 2008, Undergraduate Topics in Computer Science
+   Selinger P, 2006, MATH STRUCT COMP SCI, V16, P527, DOI 10.1017/S0960129506005238
+   Srivastava S, 2011, PLDI 11: PROCEEDINGS OF THE 2011 ACM CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION, P492
+   Terese, 2003, CAMBRIDGE TRACTS THE, V55
+   Tov JA, 2011, POPL 11: PROCEEDINGS OF THE 38TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P447, DOI 10.1145/1926385.1926436
+   Virbitskaite I., 2007, Lecture Notes in Computer Science, V4378
+   Vytiniotis D, 2011, J FUNCT PROGRAM, V21, P333, DOI 10.1017/S0956796811000098
+   Wadler P., 1993, Mathematical Foundations of Computer Science 1993. 18th International Symposium, MFCS '93 Proceedings, P185
+   Walker D., 2004, ADV TOPICS TYPES PRO, P3
+   Wang M, 2013, SCI COMPUT PROGRAM, V78, P2216, DOI 10.1016/j.scico.2012.07.014
+   Wei-Ngan Chin, 1993, Proceedings of the ACM SIGPLAN Symposium on Partial Evaluation and Semantics-Based Program Manipulation. PEPM'93, P119, DOI 10.1145/154630.154643
+   Xi HW, 1998, ACM SIGPLAN NOTICES, V33, P249, DOI 10.1145/277652.277732
+   Yokoyama Tetsuo, 2012, Reversible Computation. Third International Workshop, RC 2011. Revised Papers, P14, DOI 10.1007/978-3-642-29517-1_2
+   Yokoyama T., 2008, P 5 C COMPUTING FRON, P43, DOI DOI 10.1145/1366230.1366239
+   Yokoyama T, 2012, J MULT-VALUED LOG S, V18, P5
+   ZIV J, 1977, IEEE T INFORM THEORY, V23, P337, DOI 10.1109/TIT.1977.1055714
+NR 90
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0956-7968
+EI 1469-7653
+J9 J FUNCT PROGRAM
+JI J. Funct. Program
+PD JAN 26
+PY 2024
+VL 34
+AR e2
+DI 10.1017/S0956796823000126
+PG 50
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA GE2N8
+UT WOS:001150926100001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Hillerström, D
+   Lindley, S
+   Longley, J
+AF Hillerstrom, Daniel
+   Lindley, Sam
+   Longley, John
+TI Asymptotic speedup via effect handlers
+SO JOURNAL OF FUNCTIONAL PROGRAMMING
+LA English
+DT Article
+ID EXPRESSIVE POWER
+AB We study a fundamental efficiency benefit afforded by delimited control, showing that for certain higher-order functions, a language with advanced control features offers an asymptotic improvement in runtime over a language without them. Specifically, we consider the generic count problem in the context of a pure functional base language ${\lambda_{\textrm{b}}}$ and an extension ${\lambda_{\textrm{h}}}$ with general effect handlers. We prove that ${\lambda_{\textrm{h}}}$ admits an asymptotically more efficient implementation of generic count than any implementation in ${\lambda_{\textrm{b}}}$ . We also show that this gap remains even when ${\lambda_{\textrm{b}}}$ is extended to a language ${{{{{{\lambda_{\textrm{a}}}}}}}}$ with affine effect handlers, which is strong enough to encode exceptions, local state, coroutines and single-shot continuations. This locates the efficiency difference in the gap between 'single-shot' and 'multi-shot' versions of delimited control.To our knowledge, these results are the first of their kind for control operators.
+C1 [Hillerstrom, Daniel; Lindley, Sam; Longley, John] Univ Edinburgh, Lab Fdn Comp Sci, Edinburgh EH8 9YL, Scotland.
+C3 University of Edinburgh
+RP Hillerström, D (corresponding author), Univ Edinburgh, Lab Fdn Comp Sci, Edinburgh EH8 9YL, Scotland.
+EM daniel.hillerstrom@ed.ac.uk; sam.lindley@ed.ac.uk;
+   jrl@staffmail.ed.ac.uk
+OI Lindley, Sam/0000-0002-1360-4714
+FU UKRI Future Leaders Fellowship "Effect Handler Oriented Programming"
+   [MR/T043830/1]
+FX This work was supported by the UKRI Future Leaders Fellowship "Effect
+   Handler Oriented Programming" (S.L., reference number MR/T043830/1).
+CR Barber Andrew., 1996, Dual intuitionistic linear logic
+   Barendregt Henk P., 1984, Lambda Calculus, Its Syntax and Semantics
+   Bauer A., 2018, CoRR. abs/1807.05923
+   Bauer A, 2014, LOG METH COMPUT SCI, V10, DOI 10.2168/LMCS-10(4:9)2014
+   Bauer A, 2015, J LOG ALGEBR METHODS, V84, P108, DOI 10.1016/j.jlamp.2014.02.001
+   Bell J, 2009, DISCRETE MATH, V309, P1, DOI 10.1016/j.disc.2007.12.043
+   Benton N, 2001, J FUNCT PROGRAM, V11, P395, DOI 10.1017/S0956796801004099
+   Benton PN, 1995, LECT NOTES COMPUT SC, V933, P121, DOI 10.1007/BFb0022251
+   Berger U., 1990, Totale Objekte und Mengen in der Bereichstheorie
+   Biernacki D., 2019, PACMPL, V3, p6:1
+   Biernacki D., 2020, PACMPL, V4, p48:1
+   Bird R., 1997, Journal of Functional Programming, V7, P541, DOI 10.1017/S0956796897002827
+   Bird R, 2006, J FUNCT PROGRAM, V16, P671, DOI 10.1017/S0956796806006058
+   Brachthäuser JI, 2020, J FUNCT PROGRAM, V30, DOI 10.1017/S0956796820000027
+   Brachthauser J. I., 2020, Proc. ACM Program. Lang, V4, p126:1
+   Cartwright R., 1992, Conference Record of the Nineteenth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P328, DOI 10.1145/143165.143232
+   Convent L, 2020, J FUNCT PROGRAM, V30, DOI 10.1017/S0956796820000039
+   Cormen T. H., 2009, Introduction to Algorithms, V3rd
+   Daniels R., 2016, Efficient Generic Searches and Programming Language Expressivity
+   DANVY O, 1990, PROCEEDINGS OF THE 1990 ACM CONFERENCE ON LISP AND FUNCTIONAL PROGRAMMING, P151, DOI 10.1145/91556.91622
+   Dolan S., 2015, OCAML WORKSHOP
+   Escardó M, 2007, IEEE S LOG, P443, DOI 10.1109/LICS.2007.25
+   Farvardin K, 2020, PROCEEDINGS OF THE 41ST ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '20), P75, DOI 10.1145/3385412.3385994
+   Felleisen M., 1988, Conference Record of the Fifteenth Annual ACM Symposium on Principles of Programming Languages, P180, DOI 10.1145/73560.73576
+   Felleisen M., 1987, Formal Description of Programming Concepts - III. Proceedings of the IFIP TC 2/WG 2.2 Working Conference, P193
+   FELLEISEN M, 1991, SCI COMPUT PROGRAM, V17, P35, DOI 10.1016/0167-6423(91)90036-W
+   Felleisen M., 1987, The Calculi of Lambda-nu-cs Conversion: A Syntactic Theory of Control and State in Imperative Higher-order Programming Languages
+   FLANAGAN C, 1993, SIGPLAN NOTICES, V28, P237, DOI 10.1145/173262.155113
+   Flatt M, 2020, PROCEEDINGS OF THE 41ST ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '20), P45, DOI 10.1145/3385412.3385981
+   Forster Y, 2019, J FUNCT PROGRAM, V29, DOI 10.1017/S0956796819000121
+   GIRARD JY, 1987, THEOR COMPUT SCI, V50, P1, DOI 10.1016/0304-3975(87)90045-4
+   Hillerstrom D., 2021, Foundations for Programming and Implementing Effect Handlers
+   Hillerstrom D., 2017, FSCD SCHLOSS DAGSTUH, p18:1
+   Hillerstr”m D, 2020, Arxiv, DOI arXiv:2007.00605
+   Hillerström D, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3408982
+   Hillerström D, 2020, J FUNCT PROGRAM, V30, DOI 10.1017/S0956796820000040
+   Hillerstrom Daniel, 2016, TYDE ICFP, P15, DOI DOI 10.1145/2976022.2976033
+   HUGHES RJM, 1986, INFORM PROCESS LETT, V22, P141, DOI 10.1016/0020-0190(86)90059-1
+   Jones ND, 2001, J FUNCT PROGRAM, V11, P55, DOI 10.1017/S0956796800003889
+   Kammar O, 2013, ACM SIGPLAN NOTICES, V48, P145, DOI [10.1145/2500365.2500590, 10.1145/2544174.2500590]
+   Kawahara S, 2020, LECT NOTES COMPUT SC, V12222, P159, DOI 10.1007/978-3-030-57761-2_8
+   Kiselyov O, 2005, ACM SIGPLAN NOTICES, V40, P192, DOI 10.1145/1090189.1086390
+   Kiselyov O, 2013, ACM SIGPLAN NOTICES, V48, P59, DOI 10.1145/2503778.2503791
+   Knuth D.E., 1997, The Art of Computer Programming: Fundamental Algorithms, V1
+   Konig D., 1927, Acta Sci. Math. (Szeged), V3, P121
+   LAUNCHBURY J, 1994, SIGPLAN NOTICES, V29, P24, DOI 10.1145/773473.178246
+   Leijen D, 2017, ACM SIGPLAN NOTICES, V52, P486, DOI 10.1145/3093333.3009872
+   Levy PB, 2003, INFORM COMPUT, V185, P182, DOI 10.1016/S0890-5401(03)00088-9
+   Lindley S, 2017, ACM SIGPLAN NOTICES, V52, P500, DOI 10.1145/3093333.3009897
+   Longley J, 2015, THEOR APPL COMPUT, P1, DOI 10.1007/978-3-662-47992-6
+   Longley J, 1999, ACM SIGPLAN NOTICES, V34, P1, DOI 10.1145/317765.317775
+   Longley J, 2019, COMPUTABILITY, V8, P119, DOI 10.3233/COM-180200
+   Longley J, 2018, LOG METH COMPUT SCI, V14, DOI 10.23638/LMCS-14(3:8)2018
+   MCCRACKEN N, 1984, LECT NOTES COMPUT SC, V173, P301
+   Milner R., 1977, Theoretical Computer Science, V4, P1, DOI 10.1016/0304-3975(77)90053-6
+   MLton, 2020, MLton website
+   MOGGI E, 1991, INFORM COMPUT, V93, P55, DOI 10.1016/0890-5401(91)90052-4
+   Okasaki Chris, 1999, PURELY FUNCTIONAL DA, DOI DOI 10.1017/CBO9780511530104
+   Pippenger N., 1996, Conference Record of POPL '96: The 23rd ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P104, DOI 10.1145/237721.237741
+   Pirog Maciej, 2019, FSCD SCHLOSS DAGSTUH, V30, P1, DOI 10.4230/LIPICS.FSCD.2019.30
+   Plotkin G. D., 1977, Theoretical Computer Science, V5, P223, DOI 10.1016/0304-3975(77)90044-5
+   Plotkin G, 2009, LECT NOTES COMPUT SC, V5502, P80, DOI 10.1007/978-3-642-00590-9_7
+   Plotkin GD, 2013, LOG METH COMPUT SCI, V9, DOI 10.2168/LMCS-9(4:23)2013
+   Plotkin Gordon D., 2001, Lecture Notes in Computer Science, V2030, P1, DOI [10.1007/3-540-45315-6_1, DOI 10.1007/3-540-45315-6_1]
+   Pretnar M, 2015, ELECTRON NOTES THEOR, V319, P19, DOI 10.1016/j.entcs.2015.12.003
+   Simpson AK, 1998, LECT NOTES COMPUT SC, V1450, P456, DOI 10.1007/BFb0055795
+   Sivaramakrishnan KC, 2021, PROCEEDINGS OF THE 42ND ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '21), P206, DOI 10.1145/3453483.3454039
+   Sperber M., 2009, J. Funct. Program, V19, P1
+   WIEDMER E, 1980, THEOR COMPUT SCI, V10, P133, DOI 10.1016/0304-3975(80)90011-0
+NR 69
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0956-7968
+EI 1469-7653
+J9 J FUNCT PROGRAM
+JI J. Funct. Program
+PD APR 5
+PY 2024
+VL 34
+AR e5
+DI 10.1017/S0956796824000030
+PG 54
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MY3C2
+UT WOS:001197147000001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Graversen, E
+   Hirsch, AK
+   Montesi, F
+AF Graversen, Eva
+   Hirsch, Andrew k.
+   Montesi, Fabrizio
+TI Alice or Bob?: Process polymorphism in choreographies
+SO JOURNAL OF FUNCTIONAL PROGRAMMING
+LA English
+DT Article
+ID SESSION; CONCURRENT
+AB We present PolyChor$\lambda$, a language for higher-order functional choreographic programming-an emerging paradigm for concurrent programming. In choreographic programming, programmers write the desired cooperative behaviour of a system of processes and then compile it into an implementation for each process, a translation called endpoint projection. Unlike its predecessor, Chor$\lambda$, PolyChor$\lambda$ has both type and process polymorphism inspired by System F$_\omega$. That is, PolyChor$\lambda$ is the first (higher-order) functional choreographic language which gives programmers the ability to write generic choreographies and determine the participants at runtime. This novel combination of features also allows PolyChor$\lambda$ processes to communicate distributed values, leading to a new and intuitive way to write delegation. While some of the functional features of PolyChor$\lambda$ give it a weaker correspondence between the semantics of choreographies and their endpoint-projected concurrent systems than some other choreographic languages, we still get the hallmark end result of choreographic programming: projected programmes are deadlock-free by design.
+C1 [Graversen, Eva; Montesi, Fabrizio] Univ Southern Denmark, Dept Math & Comp Sci, Odense, Denmark.
+   [Hirsch, Andrew k.] Univ Buffalo SUNY, Dept Comp Sci & Engn, Buffalo, NY 14068 USA.
+C3 University of Southern Denmark; State University of New York (SUNY)
+   System; State University of New York (SUNY) Buffalo
+RP Graversen, E (corresponding author), Univ Southern Denmark, Dept Math & Comp Sci, Odense, Denmark.
+EM efgraversen@imada.sdu.dk; akhirsch@buffalo.edu; fmontesi@imada.sdu.dk
+RI Montesi, Fabrizio/AAE-3306-2022
+OI Montesi, Fabrizio/0000-0003-4666-901X
+FU Villum Fonden [29518, 50079]; Independent Research Fund Denmark
+   [0135-00219]
+FX This work was supported by Villum Fonden (F.M., grant numbers 29518,
+   50079) and Independent Research Fund Denmark (F.M., grant number
+   0135-00219)
+CR Aldrich J., 2009, OOPSLA COMPANION, P1015, DOI [DOI 10.1145/1639950.1640073, DOI 10.1145/1639950]
+   BURTON FW, 1987, COMPUT J, V30, P437, DOI 10.1093/comjnl/30.5.437
+   Caires L., 2010, Concurrency Theory (CONCUR)
+   Carbone M, 2013, ACM SIGPLAN NOTICES, V48, P263, DOI 10.1145/2480359.2429101
+   Carbone M, 2012, ACM T PROGR LANG SYS, V34, DOI 10.1145/2220365.2220367
+   Castagna G, 2012, LOG METH COMPUT SCI, V8, DOI 10.2168/LMCS-8(1:24)2012
+   Castellani I, 2020, THEOR COMPUT SCI, V807, P128, DOI 10.1016/j.tcs.2019.09.027
+   Choi K, 2020, SCI COMPUT PROGRAM, V197, DOI 10.1016/j.scico.2020.102499
+   Cooper E., 2006, Formal Methods for Components and Objects (FMCO)
+   Cooper E. E., 2009, Principles and Practice of Declarative Programming (PPDP)
+   Cruz-Filipe L., 2022, ICTAC
+   Cruz-Filipe L., 2017, Interaction and Concurrency Experience (ICE)
+   Cruz-Filipe L., 2023, ECOOP
+   Cruz-Filipe L., 2017, Formal Techniques for Distributed Objects, Components, and Systems (FORTE)
+   Cruz-Filipe L, 2020, THEOR COMPUT SCI, V802, P38, DOI 10.1016/j.tcs.2019.07.005
+   Cruz-Filipe Luis, 2021, Interactive Theorem Proving (ITP)
+   Dalla Preda M, 2017, LOG METH COMPUT SCI, V13, DOI 10.23638/LMCS-13(2:1)2017
+   Dardha O., 2012, Principles and Practice of Declarative Programming (PPDP)
+   DeYoung H., 2012, COMPUTER SCI LOGIC C
+   Gay SJ, 2010, J FUNCT PROGRAM, V20, P19, DOI 10.1017/S0956796809990268
+   GIACALONE A, 1989, INT J PARALLEL PROG, V18, P121, DOI 10.1007/BF01491213
+   Giallorenzo S., 2021, EUROPEAN C OBJECT OR
+   Giallorenzo S., 2023, ACM Trans. Program. Lang. Syst. Just Accepted
+   Girard Jean-Yves, 1972, Ph. D. Dissertation
+   Hirsch A. K., 2022, Principles of Programming Languages (POPL)
+   Honda K, 1998, LECT NOTES COMPUT SC, V1381, P122, DOI 10.1007/BFb0053567
+   Honda K., 1993, Concurrency Theory (CONCUR)
+   Honda K, 2016, J ACM, V63, DOI 10.1145/2827695
+   International Telecommunication Union, 1996, Recommendation Z.120: Message sequence chart
+   Jacobs J., 2022, Proc. ACM Program. Lang., V6, P466
+   Jongmans S., 2022, EUROPEAN S PROGRAMMI
+   Kobayashi N, 2006, LECT NOTES COMPUT SC, V4137, P233
+   Licata D. R., 2010, Logical Frameworks and Meta-Languages: Theory and Practice (LFMTP)
+   Lindley S, 2017, RIV PUBL SER AUTOMAT, P265
+   Lindley S, 2015, LECT NOTES COMPUT SC, V9032, P560, DOI 10.1007/978-3-662-46669-8_23
+   Lopez H. A., 2016, Formal Techniques for Distributed Objects, Components, and Systems (FORTE)
+   Montesi F., 2023, Introduction to Choreographies
+   Montesi Fabrizio, 2013, Choreographic Programming
+   Mostrous D, 2007, LECT NOTES COMPUT SC, V4583, P321
+   Mostrous D, 2009, LECT NOTES COMPUT SC, V5608, P203, DOI 10.1007/978-3-642-02273-9_16
+   Murphy Tom., 2007, Trustworthy Global Computing 2007
+   NEEDHAM RM, 1978, COMMUN ACM, V21, P993, DOI 10.1145/359657.359659
+   Object Management Group, 2017, Unified Modelling Language.
+   Pohjola J. A., 2022, 13 INT C INTERACTIVE, p27:1
+   Scalas A., 2019, Principles of Programming Languages (POPL)
+   Scalas A., 2017, 31 EUROPEAN C OBJECT, p24:1
+   Shen G, 2023, Arxiv, DOI arXiv:2303.00924
+   The Coq Development Team, 2004, The Coq proof assistant reference manual
+   The World Wide Web Consortium (W3C), 2004, Ws choreography model overview
+   Wadler P, 2012, ACM SIGPLAN NOTICES, V47, P273, DOI 10.1145/2398856.2364568
+   Weisenburger P., 2020, ASEP, V4, P17
+   Zongyan Q., 2007, WEB C WWW
+NR 52
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0956-7968
+EI 1469-7653
+J9 J FUNCT PROGRAM
+JI J. Funct. Program
+PD JAN 23
+PY 2024
+VL 34
+AR e1
+DI 10.1017/S0956796823000114
+PG 54
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA FN9C2
+UT WOS:001146624200001
+OA Green Published, Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+EF

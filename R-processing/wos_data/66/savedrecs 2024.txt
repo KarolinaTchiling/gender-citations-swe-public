@@ -1,0 +1,2538 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Xu, YW
+   Li, Y
+AF Xu, Yunwu
+   Li, Yan
+TI A New Method of Security Bug Reports Analysis
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB The investigation develops a method for improving the quality of security bug report (SBR) prediction during the software development and application processes. The research includes three stages. The first stage is preparing the source data. The second stage is constructing an original SBR prediction method using a machine learning algorithm [random forest (RF)]. The third stage is evaluating our method with well-established methods like filtering and ranking for security bug report prediction (FARSEC) and Keywords Matrix. It was shown that the values of such indicators as accuracy, precision, recall, and F-score when using the RF algorithm are, on average, 0.2-1% higher than when using the FARSEC and Keywords Matrix methods. The more initial number of reports the database contains, the higher the value of accuracy, precision, recall, and F-score that can be obtained. A new method can be used to predict SBRs during the software development and application processes.
+C1 [Xu, Yunwu] Guangdong Songshan Polytech, Elect Engn Coll, Shaoguan 512126, Peoples R China.
+   [Li, Yan] Guangdong Songshan Polytech, Sch Comp & Informat Engn, Shaoguan 512126, Peoples R China.
+RP Xu, YW (corresponding author), Guangdong Songshan Polytech, Elect Engn Coll, Shaoguan 512126, Peoples R China.
+EM yunwuxu@yahoo.com; yanli13@yahoo.com
+CR Alqahtani SS, 2019, ANN CONF PRIV SECUR, P223, DOI 10.1109/pst47121.2019.8949047
+   [Anonymous], 2023, Java Bug Database
+   [Anonymous], 2023, Announcing Apache Wicket 9: Get into the Modern Java World!
+   [Anonymous], 2023, Report a Bug
+   [Anonymous], Resources for developers, by developers
+   [Anonymous], Software for the public good
+   [Anonymous], 2022, 2022 CWE Top 25 Most Dangerous Software Weaknesses
+   apache, Apache Ambari
+   apache, Apache Camel
+   apache, Apache DB Project
+   Behl D, 2014, PROCEEDINGS OF THE 2014 INTERNATIONAL CONFERENCE ON RELIABILTY, OPTIMIZATION, & INFORMATION TECHNOLOGY (ICROIT 2014), P294, DOI 10.1109/ICROIT.2014.6798341
+   Beketaeva AO, 2019, TECH PHYS+, V64, P1430, DOI 10.1134/S1063784219100049
+   chromium, The Chromium Projects
+   Gegick Michael, 2010, Proceedings of the 2010 7th IEEE Working Conference on Mining Software Repositories (MSR 2010), P11, DOI 10.1109/MSR.2010.5463340
+   Goseva-Popstojanova K, 2018, 2018 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE QUALITY, RELIABILITY AND SECURITY (QRS 2018), P344, DOI 10.1109/QRS.2018.00047
+   Jiang Y, 2020, INFORM SOFTWARE TECH, V124, DOI 10.1016/j.infsof.2020.106314
+   Kukkar Ashima, 2018, Procedia Computer Science, V132, P352, DOI 10.1016/j.procs.2018.05.194
+   Liu ZL, 2022, J FOOD COMPOS ANAL, V110, DOI 10.1016/j.jfca.2022.104565
+   Otoom AF, 2019, PROCEEDINGS OF 9TH INTERNATIONAL CONFERENCE ON INFORMATION COMMUNICATION AND MANAGEMENT (ICICM 2019), P17, DOI 10.1145/3357419.3357424
+   Oyetoyan TD, 2021, SOFTWARE QUAL J, V29, P509, DOI 10.1007/s11219-020-09546-7
+   Pereira M, 2019, 2019 IEEE INTERNATIONAL CONFERENCE ON SMART COMPUTING (SMARTCOMP 2019), P39, DOI 10.1109/SMARTCOMP.2019.00026
+   Peters F, 2019, IEEE T SOFTWARE ENG, V45, P615, DOI 10.1109/TSE.2017.2787653
+   Pingclasai N, 2013, ASIA PAC SOFWR ENG, P13, DOI 10.1109/APSEC.2013.105
+   Sagynganova A., 2022, Polityka Energ., V25, P137, DOI [10.33223/epj/149889.27.A.O., DOI 10.33223/EPJ/149889.27.A.O]
+   Sawarkar R, 2019, 2019 IEEE 5TH INTERNATIONAL CONFERENCE FOR CONVERGENCE IN TECHNOLOGY (I2CT), DOI 10.1109/i2ct45611.2019.9033915
+   Shu R, 2019, Arxiv, DOI arXiv:1905.06872
+   Wijayasekara D, 2012, C HUM SYST INTERACT, P89, DOI 10.1109/HSI.2012.22
+   Wu XX, 2021, IEEE T SOFTWARE ENG, V48, P2541, DOI 10.1109/TSE.2021.3063727
+   Wu XX, 2021, INFORM SOFTWARE TECH, V133, DOI 10.1016/j.infsof.2021.106530
+   Wu XX, 2020, J SYST SOFTWARE, V160, DOI 10.1016/j.jss.2019.110456
+   Xie X, 2014, P INT COMP SOFTW APP, P107, DOI 10.1109/COMPSAC.2014.17
+   Yang XL, 2017, J COMPUT SCI TECH-CH, V32, P181, DOI 10.1007/s11390-017-1713-3
+   Zaman Shahed, 2011, P 8 WORK C MIN SOFTW, P93
+   Zheng W, 2021, IEEE T RELIAB, V70, P1658, DOI 10.1109/TR.2021.3118026
+   Zhou C, 2021, EMPIR SOFTW ENG, V26, DOI 10.1007/s10664-021-10010-8
+   Zimmermann Thomas, 2010, Proceedings of the Third IEEE International Conference on Software Testing, Verification and Validation (ICST 2010), P421, DOI 10.1109/ICST.2010.32
+NR 36
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 49
+EP 56
+DI 10.1109/MITP.2023.3298520
+PG 8
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200007
+DA 2024-08-05
+ER
+
+PT J
+AU Hurlburt, GF
+   Dabirian, A
+AF Hurlburt, George F.
+   Dabirian, Amir
+TI Why IT Lessons Matter
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Information technology; Social implications of technology; Technology
+   forecasting; Ethics; Social factors; Artificial intelligence; Open
+   systems; Machine learning; Philosophical considerations; Human computer
+   interaction; Human-robot interaction
+AB Is IT bringing humanity headlong to the brink of extinction, or does technology offer profound solutions to stave off existential doom? The elusive answer has increasingly become the topic of ongoing intellectual speculation, both pro and con. Artificial intelligence (AI) has experienced disappointing initiatives since it was first proposed in 1950. In 2023, AI exploded into popular culture. Then, Open AI unveiled the Q-Star mathematical algorithm in late 2023. This introduced the ability for generative AI to reason numerically, dramatically augmenting large language models. This rudimentary breakthrough likely created upheaval at Open AI, possibly even redimensioning the ongoing debate. In the meantime, as humankind approaches the second quarter of the 21st century, further insights may arise through evaluating the dramatic paradigm shifts brought to bear through IT in the preceding 25 years.
+C1 [Hurlburt, George F.] STEMCorp Fdn, Tall Timbers, MD 20690 USA.
+   [Dabirian, Amir] Calif State Univ Fullerton, Mkt, Fullerton, CA 92831 USA.
+C3 California State University System; California State University
+   Fullerton
+RP Hurlburt, GF (corresponding author), STEMCorp Fdn, Tall Timbers, MD 20690 USA.
+EM gfhurlburt@gmail.com; adabirian@fullerton.edu
+RI Hurlburt, George/JUV-6040-2023
+OI Hurlburt, George/0000-0002-4829-3805
+CR Andreessen M., 2020, Andreessen Horowitz
+   [Anonymous], 2021, Wikipedia
+   [Anonymous], Oxford Reference, DOI [10.1093/oi/authority.20110803100003879, DOI 10.1093/OI/AUTHORITY.20110803100003879]
+   [Anonymous], Oxford Reference, DOI [10.1093/oi/authority.20110803095629920, DOI 10.1093/OI/AUTHORITY.20110803095629920]
+   [Anonymous], The world's very first data centre
+   [Anonymous], 2012, 9 Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers, DOI 10.1515/9781400839568
+   Eisenstein J, 2019, ADAPT COMPUT MACH LE, P1
+   Etienne M., 2023, Forbes,Nov. 25
+   Huang L C., 2020, International Journal of Network Security, V22, P717, DOI DOI 10.6633/IJNS.202009_22(5).01
+   Jarow O., Vox
+   Metz C., 2023, The New York TimesNovember 6
+   Schaffer H., 2024, IT Prof., V25
+   Smith C., Al breakthrough that could threaten humanity might have been key to Sam Altman's firing
+   Strawn G., 2024, IT Prof., V25
+   Yamshchikov, The New Stack
+NR 15
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 19
+EP 25
+DI 10.1109/MITP.2024.3356112
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LQ5C4
+UT WOS:001188271100001
+DA 2024-08-05
+ER
+
+PT J
+AU Kang, B
+   Jo, Y
+AF Kang, Byungseok
+   Jo, Youngjae
+TI StyleGAN-Based Advanced Semantic Segment Encoder for Generative AI
+SO IT PROFESSIONAL
+LA English
+DT Article
+ID FIDELITY GAN INVERSION
+AB StyleGAN is a widely used model in various AI domains that generates high-quality images. It has many advantages but has the disadvantage of per-pixel noise inputs. These noise inputs used from StyleGAN are independent of location information and have a negative impact on natural location information learning because random noise is inserted in pixel units at intervals. This problem was even more problematic in the area of creating human faces. StyleGAN3 was announced to overcome this, but it did not completely solve the existing problems. If the angle of a human face is more than 30 degrees from the front, the restoration rate further decreases. In this article, we propose an advanced semantic segment encoder that accurately generates eyes, nose, and mouth even when the angle of a human face is rotated more than 60 degrees. We developed a face-angle analyzer to accurately measure the angle of a person's face. The proposed idea improved restoration performance by approximately 30% compared to existing encoders when the face is not straight ahead.
+C1 [Kang, Byungseok; Jo, Youngjae] Dob Studio, R&D Ctr, Seoul 04030, South Korea.
+RP Kang, B (corresponding author), Dob Studio, R&D Ctr, Seoul 04030, South Korea.
+EM teddy@dobstudio.co.kr; wo7864@dobstudio.co.kr
+FU Ministry of Culture, Sports, and Tourism of South Korea
+   [R2022020049_00000001]
+FX This work was supported by the Ministry of Culture, Sports, and Tourism
+   of South Korea (R2022020049_00000001).
+CR Alaluf Y, 2022, PROC CVPR IEEE, P18490, DOI 10.1109/CVPR52688.2022.01796
+   Alaluf Y, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P6691, DOI 10.1109/ICCV48922.2021.00664
+   Deng JK, 2019, PROC CVPR IEEE, P4685, DOI 10.1109/CVPR.2019.00482
+   Dinh TM, 2022, PROC CVPR IEEE, P11379, DOI 10.1109/CVPR52688.2022.01110
+   Gal R, 2021, ACM T GRAPHIC, V40, DOI 10.1145/3450626.3459836
+   Huang JL, 2022, IEEE T MULTIMEDIA, V24, P1435, DOI 10.1109/TMM.2021.3065230
+   Karras Tero, 2020, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Proceedings, P8107, DOI 10.1109/CVPR42600.2020.00813
+   Kwon HJ, 2021, IEEE ACCESS, V9, P113315, DOI 10.1109/ACCESS.2021.3102954
+   Liu FK, 2023, COMPUT GRAPH-UK, V114, P286, DOI 10.1016/j.cag.2023.06.022
+   Qiu H., 2022, arXiv
+   Richardson E, 2021, PROC CVPR IEEE, P2287, DOI 10.1109/CVPR46437.2021.00232
+   Sharma V., 2022, P 6 INT C TRENDS EL, P727, DOI [10.1109/ICOEI53556.2022.9776884, DOI 10.1109/ICOEI53556.2022.9776884]
+   Solaiman I, 2023, PROCEEDINGS OF THE 6TH ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, FACCT 2023, P111, DOI 10.1145/3593013.3593981
+   Stokel-Walker C, 2023, NATURE, V614, P214, DOI 10.1038/d41586-023-00340-6
+   Therrien O, 2022, VISUAL COMPUT, DOI 10.1007/s00371-022-02703-y
+   Tov O, 2021, ACM T GRAPHIC, V40, DOI 10.1145/3450626.3459838
+   Viazovetskyi Yuri, 2020, Computer Vision - ECCV 2020 16th European Conference. Proceedings. Lecture Notes in Computer Science (LNCS 12367), P170, DOI 10.1007/978-3-030-58542-6_11
+   Wang LZ, 2022, PROC CVPR IEEE, P20301, DOI 10.1109/CVPR52688.2022.01969
+   Wang SF, 2021, COMPUT METHOD APPL M, V384, DOI 10.1016/j.cma.2021.113938
+   Wang TF, 2022, PROC CVPR IEEE, P11369, DOI 10.1109/CVPR52688.2022.01109
+   Wang W., 2022, P INT C EL DEV COMP, P5, DOI [10.1109/ICEDCS57360.2022.00009, DOI 10.1109/ICEDCS57360.2022.00009]
+NR 21
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 17
+EP 23
+DI 10.1109/MITP.2023.3338026
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200002
+DA 2024-08-05
+ER
+
+PT J
+AU Schaffer, H
+   Schordan, M
+AF Schaffer, Henry
+   Schordan, Markus
+TI Will Algorithms Rule Us?
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE History; Artificial intelligence; Algorithm design and analysis;
+   Software algorithms; Training data; Software engineering; Teamwork;
+   Social implications of technology; Programming profession; Computer
+   languages; Technology forecasting; Image processing
+AB Understanding the impact of artificial intelligence generated algorithms is facilitated by considering the history of algorithms.
+C1 [Schaffer, Henry] North Carolina State Univ, Genet & Biomath, Dept Biol Sci, Raleigh, NC 27695 USA.
+C3 North Carolina State University
+RP Schaffer, H (corresponding author), North Carolina State Univ, Genet & Biomath, Dept Biol Sci, Raleigh, NC 27695 USA.
+EM hes@ncsu.edu; schordan1@linl.gov
+CR Alenichev A, 2023, LANCET GLOB HEALTH, V11, pE1496, DOI 10.1016/S2214-109X(23)00329-7
+   [Anonymous], 2008, WIKIPEDIA
+   [Anonymous], Ecclesiastes, V1, P9
+   Boozarjomehri C., Mitre
+   Branwen G., 2011, GWERN
+   Drahl C., 2023, I was asked to create images of Black African docs treating white kids. How'd it go?
+   Gervais DJ, 2023, SCIENCE, V382, P376, DOI 10.1126/science.adi8678
+   Kelly W., Wikipedia
+   Merriam-Webster, Algorithm
+   Najibi Alex, 2020, Racial discrimination in face recognition technology'
+   reason, Large libel models
+   VEON Careers, Medium
+   Wasowski J., Medium
+NR 13
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 48
+EP 49
+DI 10.1109/MITP.2024.3356114
+PG 2
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000006
+DA 2024-08-05
+ER
+
+PT J
+AU Hurlburt, G
+AF Hurlburt, George
+TI An Ethical Trio-AI, Cybersecurity, and Coding at Scale
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB IT professionals must lead a necessary bottom-up initiative to ensure their constituents are sufficiently protected in this age of rampant and still maturing AI.
+C1 [Hurlburt, George] STEMCorp Fdn, Tall Timbers, MD 20690 USA.
+RP Hurlburt, G (corresponding author), STEMCorp Fdn, Tall Timbers, MD 20690 USA.
+EM gfhurlburt@gmail.com
+RI Hurlburt, George/JUV-6040-2023
+OI Hurlburt, George/0000-0002-4829-3805
+CR Burgess M., 2018, Wired, P1
+   Hutson Matthew, 2024, Nature, DOI 10.1038/d41586-024-00189-3
+   Introna LucasD., 2004, Surveillance and Society, V2, P177, DOI [10.24908/ss.v2i2/3.3373, DOI 10.24908/SS.V2I2/3.3373]
+   Lenat D, 2023, Arxiv, DOI arXiv:2308.04445
+   Liu J., 2024, Proc. AAAI Conf. Artif. Intell., V38, P18, DOI [10.1609/aaai.v38i17.29828, DOI 10.1609/AAAI.V38I17.29828]
+   Marcus G, Communications of the ACM
+   Marcus G, 2023, Arxiv, DOI arXiv:2308.00109
+   Ontology summit, 2024, Ontolog
+   Tao CQ, 2019, IEEE ACCESS, V7, P120164, DOI 10.1109/ACCESS.2019.2937107
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 4
+EP 9
+DI 10.1109/MITP.2024.3386050
+PG 6
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200005
+DA 2024-08-05
+ER
+
+PT J
+AU Strawn, G
+   Strawn, G
+AF Strawn, George
+   Strawn, George
+TI Masterminds of Generative AI: Vaswani and Altman
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB Generative AI (GenAI) is the newest dimension of AI to catch the publics' attention. Some observers think this may be an inflection point on the road to general artificial intelligence. It's too soon to make judgments such as that, but it's not too soon to begin looking at the people who are developing it, not too soon to be seeking a basic understanding of the technology itself. This article will undertake a layman's look at how the technology works. Then it will highlight a technical leader and a business leader in these early days of GenAI.
+C1 [Strawn, George; Strawn, George] Natl Acad Sci, NAS Board Res Data & Informat, Washington, DC 20001 USA.
+C3 National Academies of Sciences, Engineering & Medicine
+RP Strawn, G (corresponding author), Natl Acad Sci, NAS Board Res Data & Informat, Washington, DC 20001 USA.
+EM gostrawn@gmail.com; gostrawn@gmail.com
+OI Strawn, George/0000-0003-4098-0464
+CR Altman Sam, Wikipedia
+   [Anonymous], 2023, National artificial intelligence research resource task force releases final report
+   [Anonymous], Transformer (deep learning architecture)
+   [Anonymous], Attention (machine learning)
+   Babcock J., 2021, Generative AI with Python and TensorFlow 2: Create Images, Text, and Music with VAEs, GANs, LSTMs, Transformer Models
+   ChatGPT, Wikipedia
+   Kapur R., 2023, AI Made Simple: A Beginner's Guide to Generative Intelligence
+   McLuhan M., 1964, Understanding Media
+   OpenAI, Wikipedia
+   Robertson DouglasS., 1998, The New Renaissance: Computers and the Next Level of Civilization
+   Strawn G, 2014, IT PROF, V16, P10, DOI 10.1109/MITP.2014.18
+   Strawn GO, 2022, IT PROF, V24, P13, DOI 10.1109/MITP.2022.3172838
+   Vaswani A, 2017, ADV NEUR IN, V30
+   Vaswani Ashish, Wikipedia
+   Y Combinator, Wikipedia
+NR 15
+TC 1
+Z9 1
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 13
+EP 16
+DI 10.1109/MITP.2024.3375568
+PG 4
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200001
+DA 2024-08-05
+ER
+
+PT J
+AU Andriole, SJ
+AF Andriole, Stephen J.
+TI How Good Is the Team?
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Companies; Personnel; Employment; Engineering management; Career
+   development; Performance evaluation; Measurement; Business;
+   Organizational aspects; Engineering profession; Professional aspects
+AB Talent assessments are difficult but necessary exercises in every company, especially assessments that relate to technology talent. Companies need to take an objective, unbiased assessment of the talent they have versus the talent they need and decide how to close the inevitable gaps they discover. Companies must decide if they need to upskill, recruit new talent, or even acquire through the acquisition of talent-rich companies. No matter what they decide, the search for talent will always be a continuous one.
+C1 [Andriole, Stephen J.] Villanova Sch Business, Business Technol, Villanova, PA 19085 USA.
+C3 Villanova University
+RP Andriole, SJ (corresponding author), Villanova Sch Business, Business Technol, Villanova, PA 19085 USA.
+EM steve@andriole.com
+OI Andriole, Stephen/0000-0003-0232-7114
+CR Blumberg S., 2022, Tech talent tectonics: Ten new realities for finding, keeping, and developing talent
+   Hoelscher J., Rock Content Blog
+   Nsls, NSLS Blog
+NR 3
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 57
+EP 59
+DI 10.1109/MITP.2024.3356113
+PG 3
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000008
+DA 2024-08-05
+ER
+
+PT J
+AU Tsiropoulou, EE
+   Rahman, AB
+   Siraj, MS
+AF Tsiropoulou, Eirini Eleni
+   Rahman, Aisha B.
+   Siraj, Md Sadman
+TI HELIOCOMM: A Wireless Revolution in Concentrated Solar Power Systems
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Wireless communication; Reviews; Transforms; Channel allocation;
+   Routing; Real-time systems; Energy efficiency
+AB This article introduces the concept of wireless controls for heliostat-based concentrating solar-thermal power (CSP) systems, highlighting the cost advantages over traditional wired connections. Initially, the article reviews the current state of the art for wireless control development in CSP systems, emphasizing their early stage in terms of adopting wireless communication technology. The article introduces the novel HELIOCOMM system, which leverages the advanced wireless networking technology of integrated access and backhaul to support wireless closed-loop controls in the CSP field, while additionally employing artificial intelligence or artificial intelligence-based clustering, entropy-based routing, and resource allocation. These elements enhance the energy efficiency of the photovoltaic and battery operating heliostats, reduce the latency to guarantee the closed-loop control of the heliostats in a real-time manner, and optimize bandwidth allocation in wireless links. This article provides a comprehensive overview of the HELIOCOMM system's architecture and its components, highlighting its potential to transform CSP systems.
+C1 [Tsiropoulou, Eirini Eleni; Rahman, Aisha B.; Siraj, Md Sadman] Univ New Mexico, Dept Elect & Comp Engn, Albuquerque, NM 87106 USA.
+C3 University of New Mexico
+RP Tsiropoulou, EE (corresponding author), Univ New Mexico, Dept Elect & Comp Engn, Albuquerque, NM 87106 USA.
+EM eirini@unm.edu; arahman3@unm.edu; mdsadmansiraj96@unm.edu
+RI SIRAJ, MD SADMAN/IVH-7378-2023
+OI SIRAJ, MD SADMAN/0000-0002-1391-5774; Rahman, Aisha
+   B./0000-0002-1802-484X
+FU Alliance for Sustainable Energy, LLC, Managing and Operating Contractor
+   for the National Renewable Energy Laboratory for the U.S. Department of
+   Energy [SUB-2023-10300]
+FX This article was developed based upon funding from the Alliance for
+   Sustainable Energy, LLC, Managing and Operating Contractor for the
+   National Renewable Energy Laboratory for the U.S. Department of
+   Energy,SUB-2023-10300.
+CR [Anonymous], 2013, Ivanpah Solar Electric Generating System
+   Azancot Y., 2015, U.S. Patent, Patent No. [9,161,385, 9161385]
+   Benitez V. H., 2016, Int. J. Inf. Commun. Eng., V10, P365
+   "Dubai Electricity and Water Authority, Mohammed bin Rashid Al Maktoum Solar Park
+   Glatzmaier G., 2014, Tech. Rep. NREL$_$25830
+   Kubisch S., 2011, P SOLARPACES, P8
+   Leichman A. K., ISRAEL21C
+   Liebenberg A. D., 2020, P INT SAUPEC ROBMECH, P1, DOI [10.1109/SAUPEC/RobMech/PRASA48453.2020.9041141, DOI 10.1109/SAUPEC/ROBMECH/PRASA48453.2020.9041141]
+   Mabusela K, 2015, AFRICON
+   Overton T. W., 2014, Power, V158, P26
+   Relancio J, 2016, AIP CONF PROC, V1734, DOI 10.1063/1.4949199
+   ti, "Ti CC1352R Datasheet
+   ti, TICC1312RDatasheet
+   Unterschütz S, 2012, ACM INT SYM MOB MAN, P53
+   Unterschütz S, 2011, 2011 INTERNATIONAL CONFERENCE ON DISTRIBUTED COMPUTING IN SENSOR SYSTEMS AND WORKSHOPS (DCOSS)
+   Zhu G., 2022, Roadmap to advance heliostat technologies for concentrating solar-thermal power
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 73
+EP 79
+DI 10.1109/MITP.2024.3389502
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000005
+DA 2024-08-05
+ER
+
+PT J
+AU Strawn, G
+AF Strawn, George
+TI Where Deep Learning and Generative AI Started: Masterminds of Artificial
+   Neural Networks-McCulloch, Pitts, and Rosenblatt
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Deep learning; Digital computers; Technological innovation; Generative
+   AI; Computational modeling; Brain modeling; Biological neural networks
+AB Deep learning and generative artificial intelligence originated in 1943, which preceded our age of digital computers. These origins focused on understanding the functioning of the brain and creating an artificial model of it. The three masterminds who initiated this now very important strand of IT technology are highlighted and the elements of their inventions are outlined.
+C1 [Strawn, George] Natl Acad Sci, Washington, DC 20001 USA.
+C3 National Academies of Sciences, Engineering & Medicine
+RP Strawn, G (corresponding author), Natl Acad Sci, Washington, DC 20001 USA.
+EM gostrawn@gmail.com
+OI Strawn, George/0000-0003-4098-0464
+CR [Anonymous], 2024, Wikipedia
+   McCulloch Warren S., 1943, BULL MATH BIOPHYS, V5, P115, DOI 10.1007/BF02478259
+   Rosenblatt F., 1962, Principles of neurodynamics, DOI DOI 10.1001/ARCHPSYC.1962.01720030064010
+   Strawn G, 2024, IT PROF, V26, P13, DOI 10.1109/MITP.2024.3375568
+   Strawn G, 2017, IT PROF, V19, P58, DOI 10.1109/MITP.2017.3680955
+   Strawn G, 2016, IT PROF, V18, P62, DOI 10.1109/MITP.2016.116
+   Strawn G, 2014, IT PROF, V16, P10, DOI 10.1109/MITP.2014.18
+   Strawn GO, 2022, IT PROF, V24, P13, DOI 10.1109/MITP.2022.3172838
+NR 8
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 99
+EP 101
+DI 10.1109/MITP.2024.3404229
+PG 3
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000004
+DA 2024-08-05
+ER
+
+PT J
+AU Andriole, SJ
+AF Andriole, Stephen J.
+TI Who's Doing the Work? What C-Suites Should Know About Sourcing
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB Alternative sourcing models include insourcing, cosourcing, and outsourcing. Every C-Suite on the planet should understand the strengths, weaknesses, and appropriateness of each model. The major distinction is "brains" versus "brawn" where decisions must be made about what can be insourced, cosourced, and outsourced. The rule of thumb is to keep brains in house and leave the brawn to outsources, to keep strategy, innovation, and AI inhouse, and outsource operational requirements.
+C1 [Andriole, Stephen J.] Villanova Sch Business, Business Technol, Villanova, PA 19085 USA.
+C3 Villanova University
+RP Andriole, SJ (corresponding author), Villanova Sch Business, Business Technol, Villanova, PA 19085 USA.
+EM stephen.andriole@villanova.edu
+OI Andriole, Stephen/0000-0003-0232-7114
+CR Andriole S. J., 2018, The Innovator's Imperative: Rapid Technology Adoption for Digital Transformation
+   [Anonymous], Vanguard and Infosys announce strategic partnership: Partnership will advance digital transformation of Vanguard's defined contribution recordkeeping business
+   Carucci R, 2017, Harvard Bus. Rev., V11, P22
+   Christensen C. M., 2013, The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail
+   Christensen C.Raynor., 2013, INNOVATORS SOLUTION
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 10
+EP 12
+DI 10.1109/MITP.2024.3375570
+PG 3
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200003
+DA 2024-08-05
+ER
+
+PT J
+AU Reisman, S
+AF Reisman, Sorel
+TI The Beginnings of <i>IT Professional</i>- A Personal Retrospective
+SO IT PROFESSIONAL
+LA English
+DT Article
+C1 [Reisman, Sorel] Calif State Univ, Fullerton, CA 92831 USA.
+C3 California State University System; California State University
+   Fullerton
+RP Reisman, S (corresponding author), Calif State Univ, Fullerton, CA 92831 USA.
+EM sreisman@computer.org
+OI Reisman, Sorel/0000-0002-7222-4084
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 8
+EP 9
+DI 10.1109/MITP.2024.3356159
+PG 2
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000004
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Ferreira, C
+   Park, A
+   Kietzmann, J
+   Demetis, D
+   Flostrand, A
+   Mccarthy, I
+   Pitt, L
+   Dabirian, A
+AF Ferreira, Caitlin
+   Park, Andrew
+   Kietzmann, Jan
+   Demetis, Dionysios
+   Flostrand, Andrew
+   Mccarthy, Ian
+   Pitt, Leyland
+   Dabirian, Amir
+TI Cybercrime: Understanding the Current State of Literature and Issues
+   Facing CISOs
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Knowledge management; Bibliographies; Computer crime; Market research;
+   Organizational aspects; Publishing; Collaboration; Stakeholders;
+   Computer security; Information analysis; Information integrity
+AB The meteoric rise in cybercrime in recent years has resulted in renewed efforts to stem the potential negative effects of these nefarious activities. In this context, the role of the chief information security officer (CISO) has become one of strategic importance, safeguarding the integrity of the organization's digital assets. Given the economic impact of cybercrime, it has become critically important to understand the cybercrime-related issues that organizations face. We sought to identify these issues by conducting a bibliographic analysis of cybercrime research. The results identified the most prolific and impactful authors, journals, and countries of publication, the most influential articles, and trends in the literature on cybercrime. The research suggests that interest in the field is wide-reaching with the growth in publications stemming from diverse academic disciplines and geographies. The identified trends represent critical knowledge areas for the CISO that are likely to continue the expansion of the field.
+C1 [Ferreira, Caitlin] Univ Cape Town, Cape Town, South Africa.
+   [Park, Andrew; Kietzmann, Jan] Univ Victoria, Victoria, BC, Canada.
+   [Kietzmann, Jan] Univ Canterbury, Christchurch, New Zealand.
+   [Demetis, Dionysios] Univ Hull, Kingston Upon Hull, England.
+   [Flostrand, Andrew; Mccarthy, Ian; Pitt, Leyland] Simon Fraser Univ, Vancouver, BC, Canada.
+   [Mccarthy, Ian] Luiss, Rome, Italy.
+   [Dabirian, Amir] Calif State Univ Fullerton, Fullerton, CA 92834 USA.
+C3 University of Cape Town; University of Victoria; University of
+   Canterbury; University of Hull; Simon Fraser University; Luiss Guido
+   Carli University; California State University System; California State
+   University Fullerton
+RP Kietzmann, J (corresponding author), Univ Victoria, Victoria, BC, Canada.
+EM caitlin.ferreira@uct.ac.za; apark1@uvic.ca; jkietzma@uvic.ca;
+   d.demetis@hull.ac.uk; flostran@sfu.ca; ian_mccarthy@sfu.ca;
+   lpitt@sfu.ca; adabirian@fullerton.edu
+OI Ferreira, Caitlin/0000-0001-9575-6676; Klein, Eili/0000-0002-1304-5289;
+   Marques, Eduardo/0000-0002-2750-8184; Kietzmann, Jan/0000-0002-3576-994X
+CR [Anonymous], 2016, PwC
+   Das S., 2013, Int. J. Eng. Sci. Emerg. Technol., V6, P142
+   Ellerbeck S., 2022, World Economic Forum
+   Ferreira C, 2020, J RES MARK ENTREP, V22, P161, DOI 10.1108/JRME-05-2020-0046
+   Jahankhani H., 2014, Cyber Crime and Cyber Terrorism Investigator's Handbook
+   Morgan S, 2020, Cybercrime to cost the world $10.5 trillion annually by 2025
+   Moschetta G., World Economic Forum
+   Radhakrishnan S, 2017, PLOS ONE, V12, DOI 10.1371/journal.pone.0172778
+   van Eck NJ, 2010, SCIENTOMETRICS, V84, P523, DOI 10.1007/s11192-009-0146-3
+   Wainwright R., Deloitte
+   Wall D.S., 2005, INFORM TECHNOLOGY CR
+   Whittaker L, 2023, BUS HORIZONS, V66, P277, DOI 10.1016/j.bushor.2022.07.004
+   Zandt F., Statista
+NR 13
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 83
+EP 89
+DI 10.1109/MITP.2024.3375571
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA PM5E2
+UT WOS:001214500500001
+DA 2024-08-05
+ER
+
+PT J
+AU Kshetri, N
+AF Kshetri, Nir
+TI Monetizing Quantum Computing
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Industries; Technological innovation; Quantum computing; Supply chain
+   management; Computational modeling; Biological system modeling; Task
+   analysis; Market research; Market opportunities; Investment; Computer
+   applications; Cost benefit analysis
+AB Quantum computers demonstrate significant speed advantages over classical computers in specific tasks. This article explores the current quantum computing landscape, encompassing investment, market growth, and the potential value generation across key industries.
+C1 [Kshetri, Nir] Univ North Carolina Greensboro, Bryan Sch Business & Econ, Greensboro, NC 27412 USA.
+C3 University of North Carolina; University of North Carolina Greensboro
+RP Kshetri, N (corresponding author), Univ North Carolina Greensboro, Bryan Sch Business & Econ, Greensboro, NC 27412 USA.
+EM nbkshetr@uncg.edu
+CR [Anonymous], 2023, GlobeNewswire, Los Angeles. CA,USA, Sep. 7
+   [Anonymous], 2022, Betting big on quantum
+   Biondi M., 2021, Quantum Computing Use Cases Are Getting RealWhat You Need to Know
+   Bova F., 2023, MIT Sloan Manage. Rev.Mar. 7,
+   Bova F. F., 2021, Harvard Bus.Rev.Jul. 16,
+   Brooks M., 2023, Nature
+   Langione C., 2019, Where will quantum computers createvalue-And when?
+   Leprince-Ringue D., 2023, 7 ways that quantum computingis making an impact in the real world
+   Nagao R., 2023, NikkeiApr. 14,
+   Ruane J., 2022, Harvard Bus. Rev.Jan./Feb.
+   Shirer M., IDC forecasts worldwidequantum computing market to grow to $7.6 billionin 2027
+NR 11
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 10
+EP 15
+DI 10.1109/MITP.2024.3356111
+PG 6
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000009
+DA 2024-08-05
+ER
+
+PT J
+AU Rahmaniar, W
+AF Rahmaniar, Wahyu
+TI ChatGPT for Software Development: Opportunities and Challenges
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Symbiosis; Ethics; Technological innovation; Codes; Chatbots;
+   Trajectory; Artificial intelligence
+AB Rapid natural language processing advances, such as OpenAI's ChatGPT, promise profound transformations across multiple domains, including software development. This article discusses ChatGPT's role in software engineering, including an investigation of implications and applications highlighting ChatGPT's code-assistance capabilities. Through a series of analyses, we discuss the real impact of ChatGPT on open source software development. However, apart from offering efficiency and innovation, ChatGPT mandates a careful and well-informed approach to integration into software development paradigms.
+C1 [Rahmaniar, Wahyu] Tokyo Inst Technol, Yokohama, Kanagawa 2268503, Japan.
+C3 Tokyo Institute of Technology
+RP Rahmaniar, W (corresponding author), Tokyo Inst Technol, Yokohama, Kanagawa 2268503, Japan.
+EM rahmaniar.w.aa@m.titech.ac.jp
+OI Rahmaniar, Wahyu/0000-0002-6902-5455
+CR Alsentzer E., 2019, P 2 CLIN NAT LANG PR, DOI [DOI 10.18653/V1/W19-1909, 10.18653/v1/W19-1909, 10.18653/v1/w19-1909]
+   Barr ET, 2016, PERSPECTIVES ON DATA SCIENCE FOR SOFTWARE ENGINEERING, P51
+   Brown T., 2020, ADV NEURAL INFORM PR, V33, P1877, DOI DOI 10.48550/ARXIV.2005.14165
+   Chen Mark, 2021, arXiv
+   Devlin J, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P4171
+   Feng ZY, 2020, FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, EMNLP 2020, P1536
+   Howard J, 2018, PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL), VOL 1, P328
+   Khurana D, 2023, MULTIMED TOOLS APPL, V82, P3713, DOI 10.1007/s11042-022-13428-4
+   Kim H., 2020, ADV NEURAL INFORM PR, V1, P194, DOI [10.1109/JSAIT.2020.2986752, DOI 10.1109/JSAIT.2020.2986752, 10.1109/jsait.2020.2986752]
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Liu Y., 2023, MetaRadiology, DOI [10.1016/j.metrad.2023.100017, DOI 10.1016/J.METRAD.2023.100017]
+   Lopez Espejel J., 2023, NATURAL LANG PROCESS, V3, DOI [DOI 10.1016/J.NLP.2023.100013, 10.1016/J.NLP.2023.100013]
+   Nascimento N., 2023, ARXIV
+   Perkel JM, 2023, NATURE, V618, P422, DOI 10.1038/d41586-023-01833-0
+   Radford A., 2019, OpenAI blog, V1, P9
+   Ray PP., 2023, Internet Things Cyber Phys Syst, V3, P121, DOI DOI 10.1016/J.IOTCPS.2023.04.003
+   Sherstinsky A, 2020, PHYSICA D, V404, DOI 10.1016/j.physd.2019.132306
+   Socher R, 2013, P 2013 C EMP METH NA, P935
+   Sun W., 2023, ARXIV
+   Surameery N.M.S., 2023, International Journal of Information Technology & Computer Engineering (IJITC), V3, P17, DOI DOI 10.55529/IJITC.31.17.22
+   Vaswani A, 2017, ADV NEUR IN, V30
+   Wang Shuohang, 2016, P C N AM CHAPT ASS C, P1442, DOI DOI 10.18653/V1/N16-1170
+   Young T., 2017, ARXIV
+   Zhao W. X, 2023, ACM T INTEL SYST TEC, DOI [10.1145/3641289, DOI 10.1145/3641289]
+NR 24
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 80
+EP 86
+DI 10.1109/MITP.2024.3379831
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000007
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Maniyal, V
+   Kumar, V
+AF Maniyal, Vishal
+   Kumar, Vijay
+TI Unveiling the Deepfake Dilemma: Framework, Classification, and Future
+   Trajectories
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB Deepfake is a type of artificial intelligence technology that makes use of deep learning to generate fake multimedia. A large number of images, audios, and videos have surfaced, particularly on social media, in which deepfake technology is used. This has raised concerns because it can be misleading or fraudulent media, can spread misinformation and propaganda, or potentially cause harm to individuals' reputations. This article presents a comprehensive review of deepfake technology, focusing on its underlying principles and methodologies. The analysis highlights both the positive as well as negative implications of deepfake technology, shedding light on its potential benefits in filmmaking, digital art, and content creation, alongside its ethical and societal implications, including concerns about misinformation, privacy violations, and cyberthreats.
+C1 [Maniyal, Vishal; Kumar, Vijay] Dr BR Ambedkar Natl Inst Technol, Informat Technol Dept, Jalandhar 144008, India.
+C3 National Institute of Technology (NIT System); Dr B R Ambedkar National
+   Institute of Technology Jalandhar
+RP Maniyal, V (corresponding author), Dr BR Ambedkar Natl Inst Technol, Informat Technol Dept, Jalandhar 144008, India.
+EM vishalm.it.23@nitj.ac.in; vijayk@nitj.ac.in
+RI Chahar, Vijay Kumar/A-2782-2015
+OI Chahar, Vijay Kumar/0000-0002-3460-6989
+CR Ahmed S. R., 2022, P INT C HUM COMP INT, P1, DOI DOI 10.1109/HORA55278.2022.9799858
+   Almutairi Z, 2022, ALGORITHMS, V15, DOI 10.3390/a15050155
+   blog, Google Research
+   Dolhansky B, 2020, Arxiv, DOI arXiv:2006.07397
+   Kingra S, 2023, MULTIMED TOOLS APPL, V82, P10165, DOI 10.1007/s11042-022-13100-x
+   Li CQ, 2023, IEEE WINT CONF APPL, P1339, DOI 10.1109/WACV56688.2023.00139
+   Li YZ, 2020, PROC CVPR IEEE, P3204, DOI 10.1109/CVPR42600.2020.00327
+   Malik A, 2022, IEEE ACCESS, V10, P18757, DOI 10.1109/ACCESS.2022.3151186
+   Pu JM, 2023, P IEEE S SECUR PRIV, P1613, DOI 10.1109/SP46215.2023.10179387
+   Rana MS, 2022, IEEE ACCESS, V10, P25494, DOI 10.1109/ACCESS.2022.3154404
+   Raza A, 2022, APPL SCI-BASEL, V12, DOI 10.3390/app12199820
+   Rossler A., 2019, P IEEE CVF INT C COM, V2, P6
+   Seow JW, 2022, NEUROCOMPUTING, V513, P351, DOI 10.1016/j.neucom.2022.09.135
+   Vamsi V, 2022, Global Transitions Proceedings, V3, P74, DOI [10.1016/j.gltp.2022.04.017, DOI 10.1016/J.GLTP.2022.04.017]
+   Whittaker L, 2023, TECHNOVATION, V125, DOI 10.1016/j.technovation.2023.102784
+   Yu PP, 2021, IET BIOMETRICS, V10, P607, DOI 10.1049/bme2.12031
+NR 16
+TC 0
+Z9 0
+U1 7
+U2 7
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 32
+EP 38
+DI 10.1109/MITP.2024.3369948
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200008
+DA 2024-08-05
+ER
+
+PT J
+AU Bojanova, I
+AF Bojanova, Irena
+TI Comprehensively Labeled Weakness and Vulnerability Datasets via
+   Unambiguous Formal Bugs Framework Specifications
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Systematics; Databases; Mashups; Computer bugs; Taxonomy; Formal
+   languages; NIST; Software engineering; Software development management;
+   Computer security
+AB The current state of the art in software security-describing weakness types as Common Weakness Enumeration (CWE) entries and vulnerabilities as Common Vulnerabilities and Exposures (CVE) entries, and labeling CVEs with CWEs-is not keeping up with the modern cybersecurity research and application requirements for comprehensively labeled datasets. As a formal classification system of software security bugs and related software faults enabling unambiguous specification of software security weaknesses and vulnerabilities, the NIST Bugs Framework (BF) offers a prominent new approach toward systematic creation of weakness and vulnerability datasets labeled with the BF taxonomy. This work presents methodologies based on the BF formal language and developed BF tools for comprehensive labeling of common weaknesses-including CWEs-and publicly disclosed vulnerabilities-including CVEs. The developed taxonomic datasets and transformation algorithms databases, and queries can support a new range of research and implementation efforts for weakness and vulnerability specification generation, bug detection, vulnerability remediation or mitigation, and test-case generation.
+C1 [Bojanova, Irena] NIST, Gaithersburg, MD 20899 USA.
+C3 National Institute of Standards & Technology (NIST) - USA
+RP Bojanova, I (corresponding author), NIST, Gaithersburg, MD 20899 USA.
+EM irena.bojanova@nist.gov
+OI Bojanova, Irena/0000-0002-3198-7026
+CR [Anonymous], 2024, Common Weakness Enumeration (CWE)
+   [Anonymous], 2023, Weaknesses for simplified mapping of published vulnerabilities
+   [Anonymous], 2023, NIST Software Assurance Reference Dataset(SARD)
+   [Anonymous], 2023, Exploit prediction scoring system model
+   [Anonymous], 2023, COMMON VULNERABILITY
+   [Anonymous], 2023, Common Vulnerabilities and Exposures
+   [Anonymous], 2023, National vulnerability database
+   [Anonymous], 2023, Known Exploited Vulnerabilities Catalog (KEV)
+   Bojanova I., 2024, Bugs Framework (BF)
+   Bojanova I, 2023, IT PROF, V25, P64, DOI 10.1109/MITP.2023.3314368
+   Bojanova I, 2023, IT PROF, V25, P83, DOI 10.1109/MITP.2023.3259119
+   Bojanova I, 2023, IT PROF, V25, P7, DOI 10.1109/MITP.2023.3238631
+   Bojanova I, 2021, IEEE INT SYMP SOFTW, P111, DOI 10.1109/ISSREW53611.2021.00052
+   Chen Y., 2023, GitHub
+   GitHub, 2024, ABOUT US
+   Ojanova IB, 2022, 2022 IEEE 29TH ANNUAL SOFTWARE TECHNOLOGY CONFERENCE (STC 2022), P192, DOI 10.1109/STC55697.2022.00035
+NR 16
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 60
+EP 68
+DI 10.1109/MITP.2024.3358970
+PG 9
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000005
+DA 2024-08-05
+ER
+
+PT J
+AU Fountas, S
+   Espejo-García, B
+   Kasimati, A
+   Gemtou, M
+   Panoutsopoulos, H
+   Anastasiou, E
+AF Fountas, Spyros
+   Espejo-Garcia, Borja
+   Kasimati, Aikaterini
+   Gemtou, Marilena
+   Panoutsopoulos, Hercules
+   Anastasiou, Evangelos
+TI Agriculture 5.0: Cutting-Edge Technologies, Trends, and Challenges
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Satellite antennas; Soil moisture; Agriculture; Natural language
+   processing; Satellite images; Stakeholders; Sustainable development;
+   Smart agriculture; Energy efficiency; Social implications of technology;
+   Farming; Agricultural robots; Remote monitoring; 6G mobile
+   communication; Social factors
+AB In the evolution from Agriculture 2.0 to Agriculture 5.0, the agricultural sector has witnessed transformative changes. Agriculture 5.0 represents a revolutionary phase, integrating advanced technologies to enhance efficiency and sustainability adapted to individual field and livestock needs. The integration of robotics, extended reality, and 6G technologies marks a significant leap, enabling real-time monitoring and automation in farming practices. Artificial intelligence and big data are pivotal in Agriculture 5.0, offering insights for decision making and predictive analytics. Natural language processing plays a crucial role in facilitating efficient communication and data processing. The transition to Agriculture 5.0 should also consider societal challenges, in terms of technology lock-ins and the need for behavior shifts among stakeholders for faster adoption and customization of the solutions. This article presents a comprehensive description of Agriculture 5.0, underscoring the potential and hurdles in reshaping the future of farming.
+C1 [Fountas, Spyros; Espejo-Garcia, Borja; Kasimati, Aikaterini; Gemtou, Marilena; Panoutsopoulos, Hercules; Anastasiou, Evangelos] Agr Univ Athens, Athens 11855, Greece.
+C3 Agricultural University of Athens
+RP Fountas, S (corresponding author), Agr Univ Athens, Athens 11855, Greece.
+EM sfountas@aua.gr; borjaeg@aua.gr; akasimati@aua.gr; mgemtou@aua.gr;
+   hpanoutsopoulos@aua.gr; evangelos_anastasiou@aua.gr
+OI Panoutsopoulos, Hercules/0000-0002-8060-9750; KASIMATI,
+   AIKATERINI/0000-0002-7620-3782; Gemtou, Marilena/0000-0003-4707-937X;
+   Anastasiou, Evangelos/0000-0002-4078-0676; Fountas,
+   Spyros/0000-0001-9787-6268
+CR Anastasiou E, 2023, SMART AGR TECHNOL, V3, DOI 10.1016/j.atech.2022.100105
+   Baryshnikova N., 2022, IOP Conference Series: Earth and Environmental Science, V988, DOI 10.1088/1755-1315/988/3/032024
+   Demestichas K, 2020, APPL SCI-BASEL, V10, DOI 10.3390/app10124113
+   Domingues T, 2022, AGRICULTURE-BASEL, V12, DOI 10.3390/agriculture12091350
+   Hoek AC, 2021, SUSTAIN PROD CONSUMP, V26, P610, DOI 10.1016/j.spc.2020.12.009
+   Kaur J, 2022, FRONT SUSTAIN FOOD S, V6, DOI 10.3389/fsufs.2022.903230
+   Mesías-Ruiz GA, 2023, FRONT PLANT SCI, V14, DOI 10.3389/fpls.2023.1143326
+   Polymeni S, 2023, ELECTRONICS-SWITZ, V12, DOI 10.3390/electronics12122651
+   Willy DK, 2013, ECOL ECON, V90, P94, DOI 10.1016/j.ecolecon.2013.03.008
+   Zheng YY, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19051058
+NR 10
+TC 0
+Z9 0
+U1 8
+U2 8
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 40
+EP 47
+DI 10.1109/MITP.2024.3358972
+PG 8
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000003
+DA 2024-08-05
+ER
+
+PT J
+AU Ruiz, M
+   Orta, E
+   Gutiérrez, J
+AF Ruiz, Mercedes
+   Orta, Elena
+   Gutierrez, Javier
+TI A Gamification Method for Improving the Onboarding Process of Software
+   Engineers
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB In software engineering, the onboarding process of new software engineers is crucial. The primary goal of this process is to ensure that professionals gain the necessary knowledge and skills to comprehend the company's culture, integrate into the organization, and perform their activities effectively. Enhancing corporate learning processes and addressing human aspects, such as motivation, engagement, and commitment, are among the key factors influencing the success of the onboarding process. Gamification-the use of game elements in nongame contexts-has been widely employed in different contexts to promote positive changes in people's behavior and increase their engagement and performance. We consider the integration of gamification into the onboarding process an interesting field of study and research. In this work, we propose a novel method for gamifying the onboarding process and introduce an application case within an organizational context.
+C1 [Ruiz, Mercedes; Orta, Elena] Univ Cadiz, Dept Comp Sci & Engn, Cadiz 11519, Spain.
+   [Gutierrez, Javier] Univ Seville, Dept Languages & Comp Syst, Seville 41012, Spain.
+C3 Universidad de Cadiz; University of Sevilla
+RP Ruiz, M (corresponding author), Univ Cadiz, Dept Comp Sci & Engn, Cadiz 11519, Spain.
+EM mercedes.ruiz@uca.es; elena.orta@uca.es; javierj@us.es
+RI Ruiz, Mercedes/L-7317-2013; Gutierrez Rodriguez, Javier
+   Jesus/R-9767-2017
+OI Ruiz, Mercedes/0000-0002-8527-4734; Gutierrez Rodriguez, Javier
+   Jesus/0000-0001-6955-0842
+FU European Regional Development Fund
+FX No Statement Available
+CR Andrias R. M., 2019, Int. J. Adv. Trends Comput. Sci. Eng., V8, P89, DOI [10.30534/IJATCSE/2019/1481.62019, DOI 10.30534/IJATCSE/2019/1481.62019]
+   [Anonymous], 2012, Visual Studio Blog
+   [Anonymous], Status Hero for Jira
+   Calderon A, 2018, INFORM SOFTWARE TECH, V95, P238, DOI 10.1016/j.infsof.2017.11.009
+   Capretz LF, 2003, INT J HUM-COMPUT ST, V58, P207, DOI 10.1016/S1071-5819(02)00137-4
+   Cursino R, 2018, 2018 11TH INTERNATIONAL CONFERENCE ON THE QUALITY OF INFORMATION AND COMMUNICATIONS TECHNOLOGY (QUATIC), P119, DOI 10.1109/QUATIC.2018.00025
+   Fulcini T, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3582273
+   García F, 2017, J SYST SOFTWARE, V132, P21, DOI 10.1016/j.jss.2017.06.021
+   Herranz E, 2015, P EUR C SOFTW PROC I, P127, DOI DOI 10.1007/978-3-319-24647-5_11
+   Herzig P., 2015, Gamification in education and business, P431, DOI DOI 10.1007/978-3-319-10208-5_22
+   Kosa M, 2016, COMM COM INF SC, V633, P242, DOI 10.1007/978-3-319-44817-6_20
+   Pedreira O, 2015, INFORM SOFTWARE TECH, V57, P157, DOI 10.1016/j.infsof.2014.08.007
+   Porto DD, 2021, J SYST SOFTWARE, V173, DOI 10.1016/j.jss.2020.110870
+   Porto DD, 2019, SBQS: PROCEEDINGS OF THE 18TH BRAZILIAN SYMPOSIUM ON SOFTWARE QUALITY, P286, DOI 10.1145/3364641.3364675
+   ScrumKnowsy, About Us
+   Sharma GG, 2020, J SYST SOFTWARE, V159, DOI 10.1016/j.jss.2019.110442
+   Tondello GF, 2016, CHI PLAY 2016: PROCEEDINGS OF THE 2016 ANNUAL SYMPOSIUM ON COMPUTER-HUMAN INTERACTION IN PLAY, P229, DOI 10.1145/2967934.2968082
+   Trinidad M, 2021, IEEE ACCESS, V9, P65882, DOI 10.1109/ACCESS.2021.3076291
+   Werbach K., 2012, For the Win: How Game Thinking Can Revolutionize Your Business
+NR 19
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 67
+EP 75
+DI 10.1109/MITP.2024.3374129
+PG 9
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200010
+DA 2024-08-05
+ER
+
+PT J
+AU Bresniker, K
+   Faraboschi, P
+   Frachtenberg, E
+   Milojicic, D
+   Laplante, P
+   Patel, N
+   Saracco, R
+AF Bresniker, Kirk
+   Faraboschi, Paolo
+   Frachtenberg, Eitan
+   Milojicic, Dejan
+   Laplante, Phil
+   Patel, Nita
+   Saracco, Roberto
+TI What Gets You Hired Now Will Not Get You Hired Then
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Training; Humanities; Costs; Automation; Supply chains; Systems
+   architecture; Employment; Technology forecasting; Artificial
+   intelligence; Human-machine systems; Social implications of technology;
+   Internet; Machine learning; Virtual reality; Internet of Things;
+   Software engineering; Market research
+AB Since its inception, humanity has depended on the skills of individuals and groups. Over millennia, humanity and skills evolved, differentiating those who would prosper from those who did not. From gatherers to hunters, from agriculture to industry, and from IT to AI, the complexity and rate of change have increased exponentially, driven by language, curiosity, and communication. IT skills and a variety of IT professions have dominated the past 25 years. At this juncture, advances in AI have altered the technology landscape, causing tectonic shifts in many professions. How will IT professions evolve, and how should IT professionals adapt? We contend that, first, required skill sets will rapidly change, increasing the importance of continuing education. Second, with the increased adoption of AI, the importance of data will also increase, demanding an ever-growing need for data science skills. Finally, many IT activities will be automated, requiring IT professionals to collaborate with AI assistants and take more strategic roles.
+C1 [Bresniker, Kirk; Frachtenberg, Eitan; Milojicic, Dejan] Hewlett Packard Labs, Milpitas, CA 95035 USA.
+   [Faraboschi, Paolo] Hewlett Packard Labs, AI Res Lab, Milpitas, CA 95035 USA.
+   [Laplante, Phil] Penn State Univ, State Coll, PA 16801 USA.
+   [Patel, Nita] IEEE Comp Soc, Los Alamitos, CA 90720 USA.
+   [Saracco, Roberto] Univ Trento, I-10122 Turin, Italy.
+C3 Hewlett-Packard; Hewlett-Packard; Pennsylvania Commonwealth System of
+   Higher Education (PCSHE); Pennsylvania State University; University of
+   Trento
+RP Milojicic, D (corresponding author), Hewlett Packard Labs, Milpitas, CA 95035 USA.
+EM kirk.bresniker@hpe.com; paolo.faraboschi@hpe.com;
+   eitan.frachtenberg@hpe.com; dejan.milojicic@hpe.com; plaplante@psu.edu;
+   nita.patel@ieee.org; roberto.saracco@gmail.com
+RI Bresniker, Kirk/KBP-8631-2024
+OI Bresniker, Kirk/0000-0002-8360-3194; Milojicic,
+   Dejan/0000-0001-9830-8588
+CR [Anonymous], 2023, Harvard Bus. Rev.Nov.
+   [Anonymous], 2021, The Future of Work After Covid-19
+   [Anonymous], 2013, Gartner
+   Arlitt M., IEEEComputer Society
+   Arlitt M, 2023, COMPUTER, V56, P52, DOI 10.1109/MC.2022.3203505
+   Carl B. F, The future ofemployment: How susceptible are jobs tocomputerisation?
+   connect.comptia, CompTIA
+   data.worldbank, The World Bank Open Data
+   GRIGG DB, 1975, GEOGRAPHY, V60, P194
+   Milojicic D, 2023, 2023 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE SERVICES ENGINEERING, SSE, P232, DOI 10.1109/SSE60056.2023.00038
+   Milojicic D, 2023, COMPUTER, V56, P17, DOI 10.1109/MC.2023.3271429
+   Parker, 2022, COVID 19 PANDEMIC CO
+   Roser M., 2019, Life Expectancy
+   visualcapitalist, The Visual Capitalist.
+NR 14
+TC 0
+Z9 0
+U1 4
+U2 4
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 26
+EP 31
+DI 10.1109/MITP.2024.3361371
+PG 6
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000011
+DA 2024-08-05
+ER
+
+PT J
+AU García-García, JA
+   Sánchez-Gómez, N
+   Escalona, MJ
+   Ruiz, M
+AF Garcia-Garcia, Julian A.
+   Sanchez-Gomez, Nicolas
+   Escalona, Maria Jose
+   Ruiz, Mercedes
+TI COTriage: Applying a Model-Driven Proposal for Improving the Development
+   of Health Information Systems with Chatbots
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE COVID-19; Organizations; Chatbots; Software; Proposals; Information
+   systems
+AB Today, organizations require innovative and flexible solutions to digitize and automate their processes-particularly those processes designed to obtain information from users. Chatbots are one of the most widely used technological options for automating processes. This article aims to integrate chatbot technology with health information systems (HISs) to improve the execution of health-care processes. Specifically, it presents the COTriage framework, which proposes model-driven mechanisms for improving the design and development of process-oriented HISs with chatbot-based triage process integration. The proposal was also instantiated with the COVID-19 triage process and assisted reproduction treatment processes on iMedea (a real HIS). Finally, the proposal was discussed considering the acceptance of end users, as well as the degree of efficiency and effectiveness achieved by the software team who applies COTriage on our case study.
+C1 [Garcia-Garcia, Julian A.; Sanchez-Gomez, Nicolas; Escalona, Maria Jose] Univ Seville, Seville 41012, Spain.
+   [Ruiz, Mercedes] Univ Cadiz, Puerto Real 11519, Cadiz, Spain.
+C3 University of Sevilla; Universidad de Cadiz
+RP García-García, JA (corresponding author), Univ Seville, Seville 41012, Spain.
+EM juliangg@us.es; nicolassg@us.es; mjescalona@us.es; mercedes.ruiz@uca.es
+RI Escalona, Maria Jose/G-3900-2010; Ruiz, Mercedes/L-7317-2013
+OI Escalona, Maria Jose/0000-0002-6435-1497; Ruiz,
+   Mercedes/0000-0002-8527-4734
+FU EQUAVEL project - MICIU/AEI by FEDER, UE [PID2022-137646OB-C31,
+   PID2022-137646OB-C33]; Early Testing in Medical Robotics Process
+   Automation (TRoPA) project of the Andalusian Regional Government's
+   Ministry of Economy, Knowledge, Enterprise, and Universities(CECEU)
+   [CEI-12]
+FX This research was supported by 1) the EQUAVEL project
+   PID2022-137646OB-C31 and PID2022-137646OB-C33 both funded by
+   MICIU/AEI/10.13039/501100011033and by FEDER, UE and 2) the Early Testing
+   in Medical Robotics Process Automation (TRoPA) project (CEI-12) of the
+   Andalusian Regional Government's Ministry of Economy, Knowledge,
+   Enterprise, and Universities(CECEU). Finally, the authors declare that
+   this research has been carried out in accordance with the General Data
+   Protection Regulation (GDPR) on personal information privacy in the
+   European Union.
+CR Abdellatif A, 2020, IEEE WORK CONF MIN S, P174, DOI 10.1145/3379597.3387472
+   [Anonymous], 2020, Coronavirus disease 2019 (COVID-19): Situation report
+   Cannavacciuolo L, 2023, TECHNOVATION, V120, DOI 10.1016/j.technovation.2022.102550
+   Elgazzar R., 2022, P ITAF DIG TRANSF TE, P323, DOI [10.1007/978-981-16-2275-520.13.S., DOI 10.1007/978-981-16-2275-520.13.S]
+   Grisold J. Vom, 2021, Commun.Assoc. Inf. Syst., V49, DOI [10.17705/1CAIS.04927.3.L, DOI 10.17705/1CAIS.04927.3.L]
+   Iung A, 2020, EMPIR SOFTW ENG, V25, P4205, DOI 10.1007/s10664-020-09872-1
+   Miklosik A, 2021, IEEE ACCESS, V9, P106530, DOI 10.1109/ACCESS.2021.3100885
+   Mydyti Hyrmet, 2021, International Journal of E-Services and Mobile Applications, DOI 10.4018/IJESMA.2021100106
+   Prochowska S, 2022, J FELINE MED SURG, V24, P837, DOI 10.1177/1098612X221118753
+   Rapp A, 2021, INT J HUM-COMPUT ST, V151, DOI 10.1016/j.ijhcs.2021.102630
+   Spiller TR, 2022, PSYCHOL MED, V52, P1395, DOI 10.1017/S0033291720003128
+   Van Looy A, 2021, INFORM MANAGE-AMSTER, V58, DOI 10.1016/j.im.2020.103413
+   Verbruggen C, 2023, SOFTW SYST MODEL, V22, P111, DOI 10.1007/s10270-022-01020-1
+   Wilson L, 2022, JMIR HUM FACTORS, V9, DOI 10.2196/35882
+   Wolf LA, 2021, J CONTIN EDUC NURS, V52, P21, DOI 10.3928/00220124-20201215-07
+NR 15
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 22
+EP 31
+DI 10.1109/MITP.2024.3380916
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000006
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Kshetri, N
+AF Kshetri, Nir
+TI Navigating the Landscape of Generative AI: Investment Trends, Industry
+   Growth, and Economic Effects
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB This article examines investment trends and industry development in generative AI (GAI) while also evaluating its economic impact on diverse sectors and economies. It analyzes global variations across regions to provide comprehensive insights into the landscape of GAI adoption.
+C1 [Kshetri, Nir] Univ N Carolina, Greensboro, NC 27412 USA.
+C3 University of North Carolina; University of North Carolina Greensboro
+RP Kshetri, N (corresponding author), Univ N Carolina, Greensboro, NC 27412 USA.
+EM nbkshetr@uncg.edu
+CR [Anonymous], 2015, ECONOMIST
+   Brynjolfsson E., 2023, NBER Working Paper Series, V31161
+   Cerdeiro D. A., 2021, IMF Working Paper No. WP/21/69
+   Chernova Y., 2023, Wall Street J.
+   Kshetri N., 2019, Global Entrepreneurship: Environment and Strategy, V2nd
+   Leonardi P, 2023, HARVARD BUS REV, V101, P49
+   Levingston I., Financial Times
+   Noy S., 2024, MIT Economics Department Working Paper
+   Peng S., 2023, arXiv, DOI DOI 10.48550/ARXIV.2302.06590
+   Shakked N., 2023, MIT Economics Department Working Paper
+   Thornhill J., Financial Times
+NR 11
+TC 0
+Z9 0
+U1 7
+U2 7
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 90
+EP 96
+DI 10.1109/MITP.2024.3375569
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200009
+DA 2024-08-05
+ER
+
+PT J
+AU Karam, SN
+   Bilal, K
+   Shuja, J
+   Khan, LU
+   Bilal, M
+   Khan, MK
+AF Karam, Sana Nasim
+   Bilal, Kashif
+   Shuja, Junaid
+   Khan, Latif U.
+   Bilal, Muhammad
+   Khan, Muhammad Khurram
+TI Intelligent IoT- and UAV-Assisted Architecture for Pipeline Monitoring
+   in OGI
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Fault tolerance; Surveillance; Image edge detection; Pipelines; Fault
+   tolerant systems; Computer architecture; Autonomous aerial vehicles
+AB With the advent of the Internet of Things (IoT) and unmanned aerial vehicles (UAVs) in industrial application scenarios, oil and gas industry (OGI) automation is undergoing a remarkable transformation. Existing monitoring methods like IoT sensor-based surveillance offer accuracy but struggle with transmission inefficiency. Conversely, UAV-based surveillance enables seamless communication but limited sensing capabilities. This article addresses the challenges of latency, energy efficiency, and cost in state-of-the-art leakage detection technologies for OGI pipelines. A three-tier architecture is proposed, integrating IoT, UAVs, and artificial intelligence-empowered edge computing to enhance pipeline surveillance. We aim to propose specialized routing that addresses IoT energy and fault tolerance issues, while UAVs act as relays to transmit data efficiently to control centers, considering factors like UAV energy and data complexity. Intelligent edge services optimize data transmission, prolong UAV lifespan, and manage latency. Various use cases are explored, and open research challenges with potential solutions are presented.
+C1 [Karam, Sana Nasim; Bilal, Kashif] COMSATS Univ Islamabad, Islamabad, Pakistan.
+   [Karam, Sana Nasim] Allama Iqbal Open Univ, Islamabad 44310, Pakistan.
+   [Shuja, Junaid] Univ Teknol PETRONAS, Seri Iskandar, Malaysia.
+   [Khan, Latif U.] Mohamed Bin Zayed Univ Artificial Intelligence, Abu Dhabi 20601, U Arab Emirates.
+   [Bilal, Muhammad] Univ Lancaster, Lancaster LA1 4YW, England.
+   [Khan, Muhammad Khurram] King Saud Univ, Riyadh, Saudi Arabia.
+C3 COMSATS University Islamabad (CUI); Universiti Teknologi Petronas;
+   Mohamed Bin Zayed University of Artificial Intelligence; Lancaster
+   University; King Saud University
+RP Karam, SN (corresponding author), COMSATS Univ Islamabad, Islamabad, Pakistan.
+EM sana.nasim@aiou.edu.pk; kashifbilal@cuiatd.edu.pk;
+   junaid.shuja@utp.edu.my; latif.khan@mbzuai.ac.ae; m.bilal@ieee.org;
+   mkhurram@ksu.edu.sa
+RI Shuja, Junaid/A-3103-2013; Khan, Latif U./ABH-2245-2021; KHAN, MUHAMMAD
+   KHURRAM/E-4836-2014; Bilal, Muhammad/F-5225-2019
+OI Shuja, Junaid/0000-0003-0726-5311; Khan, Latif U./0000-0002-7678-6949;
+   KHAN, MUHAMMAD KHURRAM/0000-0001-6636-0533; Bilal,
+   Muhammad/0000-0003-4221-0877
+FU King Saud University, Riyadh, Saudi Arabia [RSP2023R12]; Universiti
+   Teknologi PETRONAS, Malaysia under STIRF Research Grant Scheme Project
+   [015LA0-050]
+FX The work of Muhammad Khurram Khan was supported by King Saud University,
+   Riyadh, Saudi Arabiaunder Project (RSP2023R12). The work of Junaid
+   Shujawas supported by Universiti Teknologi PETRONAS,Malaysia under STIRF
+   Research Grant Scheme Project(Cost Center 015LA0-050).
+CR Ahmed S, 2020, 2020 7TH INTERNATIONAL CONFERENCE ON INTERNET OF THINGS: SYSTEMS, MANAGEMENT AND SECURITY (IOTSMS), DOI 10.1109/IOTSMS52051.2020.9340197
+   Trujillo MA, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19061305
+   Bukhari SMAH, 2023, COMPUT ELECTR ENG, V109, DOI 10.1016/j.compeleceng.2023.108741
+   Gómez C, 2017, ARAB J GEOSCI, V10, DOI 10.1007/s12517-017-2989-x
+   Goyal N, 2022, CLUSTER COMPUT, V25, P1341, DOI 10.1007/s10586-021-03513-y
+   Hardouin G, 2020, IEEE INT C INT ROBOT, P1567, DOI 10.1109/IROS45743.2020.9340897
+   Li YM, 2020, IEEE INT CONF ROBOT, P193, DOI 10.1109/icra40945.2020.9196943
+   Lu HF, 2020, TUNN UNDERGR SP TECH, V98, DOI 10.1016/j.tust.2019.103249
+   Lu HF, 2020, COMPOS PART B-ENG, V183, DOI 10.1016/j.compositesb.2019.107657
+   Maray M, 2023, INTERNET THINGS-NETH, V23, DOI 10.1016/j.iot.2023.100868
+   Qiu J, 2020, IEEE INTERNET THINGS, V7, P4682, DOI 10.1109/JIOT.2020.2969326
+   Ravishankar P, 2022, INT J DISAST RISK SC, V13, P810, DOI 10.1007/s13753-022-00439-w
+   Raza M, 2018, IEEE COMMUN SURV TUT, V20, P39, DOI 10.1109/COMST.2017.2759725
+   Shukla A, 2016, INT C CONTR AUTOMAT, P194, DOI 10.1109/ICCAS.2016.7832320
+   Xu XB, 2021, IEEE INTERNET THINGS, V8, P2431, DOI 10.1109/JIOT.2020.3030080
+   Yu LJ, 2019, 2019 25TH IEEE INTERNATIONAL CONFERENCE ON AUTOMATION AND COMPUTING (ICAC), P175, DOI 10.23919/iconac.2019.8895089
+   Zeadally S, 2020, RENEW SUST ENERG REV, V128, DOI 10.1016/j.rser.2020.109901
+   Zhang YZ, 2014, J COMMUN NETW-S KOR, V16, P493, DOI 10.1109/JCN.2014.000088
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 46
+EP 54
+DI 10.1109/MITP.2023.3339448
+PG 9
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000002
+DA 2024-08-05
+ER
+
+PT J
+AU Alotto, F
+   Giudice, MD
+   Surian, R
+   Rimella, N
+   Acquaviva, A
+   Patti, E
+   Osello, A
+AF Alotto, Francesco
+   Giudice, Matteo Del
+   Surian, Roberta
+   Rimella, Nicola
+   Acquaviva, Andrea
+   Patti, Edoardo
+   Osello, Anna
+TI Hospital and Home Environments Automation for Amyotrophic Lateral
+   Sclerosis Patients: Building Information Modeling and the Internet of
+   Things in Digital Environments
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Performance evaluation; Solid modeling; Neurons; Buildings; Virtual
+   reality; Motors; Turning
+ID HEALTH-CARE; SYSTEM
+AB In this work, we present a novel distributed software platform for patients with neurodegenerative diseases that affect motor neurons. The linking point between this wide range of diseases is the strong social impact they have, degrading the freedom of action of the patient; the loss of functionality of motor neurons, caused by progressive degradation, makes the body unable to move. Thus, our solution aims at making patients more autonomous in their daily activities and at improving remote health-care monitoring for medical staff by combining virtual reality, building information modeling (BIM), the Internet of Things (IoT), and eye-tracking technologies. Starting from the 3-D parametric BIM model, patients can virtually explore the surrounding environment (through eye movements) and control the environment by interacting with IoT smart devices, thus performing different tasks.
+C1 [Alotto, Francesco; Rimella, Nicola; Patti, Edoardo; Osello, Anna] Polytech Univ Turin, I-10129 Turin, Italy.
+   [Giudice, Matteo Del] Polytech Univ Turin, Dept Struct Geotech & Bldg Engn, I-10129 Turin, Italy.
+   [Surian, Roberta] Polytech Univ Turin, Drawing Future Res Grp, Turin, Italy.
+   [Acquaviva, Andrea] Alma Mater Studiorum Univ Bologna, I-40126 Bologna, Italy.
+C3 Polytechnic University of Turin; Polytechnic University of Turin;
+   Polytechnic University of Turin; University of Bologna
+RP Alotto, F (corresponding author), Polytech Univ Turin, I-10129 Turin, Italy.
+EM francesco.alotto@polito.it; matteo.delgiudice@polito.it;
+   roberta.surian@polito.it; nicola.rimella@polito.it;
+   andrea.acquaviva@unibo.it; edoardo.patti@polito.it;
+   anna.osello@polito.it
+OI Patti, Edoardo/0000-0002-6043-6477; ACQUAVIVA,
+   Andrea/0000-0002-7323-759X; RIMELLA, NICOLA/0000-0001-7990-1423
+FU LIFTT; Company of St. Paul
+FX The project"An Algorithm for Progressive Neurodegenerative Motor Neuron
+   Disease to Automate Hospital Rooms/Home Environments by Combining BIM
+   and IoT through VR"was carried out in the framework of the Proof of
+   Concept Instrument initiative implemented by the LINKS foundation, with
+   the support of LIFTT, with funds from Company of St. Paul. The authors
+   also thank Residenze Sanitarie Assistenziali Virgo Potens for their
+   support and the provision of technologies necessary for the research.
+CR Alotto F., 2019, Ph.D. dissertation
+   [Anonymous], 2023, About-What is openBIM?
+   Cherniack EP, 2011, DISABIL REHABIL-ASSI, V6, P283, DOI 10.3109/17483107.2010.542570
+   Choi J, 2020, AUTOMAT CONSTR, V119, DOI 10.1016/j.autcon.2020.103347
+   Cicirelli G, 2021, SENSORS-BASEL, V21, DOI 10.3390/s21103549
+   Codinhoto R, 2009, FACILITIES, V27, P138, DOI 10.1108/02632770910933152
+   Del Giudice M., 2022, Handbook of Research on Implementing Digital Reality and Interactive Technologies to Achieve Society, V5, P1
+   Eid MA, 2016, IEEE ACCESS, V4, P558, DOI 10.1109/ACCESS.2016.2520093
+   Elbagoury B. M., 2018, Emerging Technologies for Health and Medicine, P117
+   Grieves M., 2015, White Paper
+   Islam SMR, 2015, IEEE ACCESS, V3, P678, DOI 10.1109/ACCESS.2015.2437951
+   Lin YC, 2018, ADV ENG INFORM, V36, P130, DOI 10.1016/j.aei.2018.03.005
+   MILGRAM P, 1994, P SOC PHOTO-OPT INS, V2351, P282
+   National Building Information Modeling Standard, 2007, National BIM Standard
+   Palumbo A, 2021, SENSORS-BASEL, V21, DOI 10.3390/s21217239
+   Park J, 2015, INT CON ADV INFO NET, P904, DOI 10.1109/AINA.2015.286
+   Patti E, 2018, 2018 IEEE 6TH INTERNATIONAL CONFERENCE ON FUTURE INTERNET OF THINGS AND CLOUD (FICLOUD 2018), P311, DOI 10.1109/FiCloud.2018.00052
+   Vichi M., 2016, Amyotrophic lateral sclerosis in Italy: Characteristics and geographical distribution of first hospitalizations in the year 2005, DOI [10.13140/RG.2.1.2340.8406/1, DOI 10.13140/RG.2.1.2340.8406/1]
+   Zarei Sara, 2015, Surg Neurol Int, V6, P171, DOI 10.4103/2152-7806.169561
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 55
+EP 64
+DI 10.1109/MITP.2023.3323820
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000001
+DA 2024-08-05
+ER
+
+PT J
+AU Barsky, NP
+AF Barsky, Noah P.
+TI Can AI Fix Distracted CFO Syndrome? It's Still an Open Question
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Leadership; Finance; Companies; Artificial intelligence; Task analysis;
+   Faces; Business
+AB Are CFOs ready for the AI-era? Decades of distraction suggest many are not. Legacy finance functions, hampered by manual processes, compliance mindsets, myopic thinking and weak cross-functional partnerships, face many challenges in addressing long overdue tech modernization. To drive business growth and honor timeless stewardship obligations, CFOs executives must credibly understand, embrace and leverage AI's transformational strategic, operational and performance potential - before it's too late.
+C1 [Barsky, Noah P.] Villanova Univ, Villanova Sch Business, Accountancy, Villanova, PA 19085 USA.
+C3 Villanova University
+RP Barsky, NP (corresponding author), Villanova Univ, Villanova Sch Business, Accountancy, Villanova, PA 19085 USA.
+EM noah.barsky@villanova.edu
+OI Barsky, Noah/0000-0002-6843-6121
+CR Andriole SJ, 2023, IT PROF, V25, P77, DOI 10.1109/MITP.2023.3254640
+   assets.ey, EY Global DNA of the CFO Survey: How can bold CFOs reframe their role to optimize performance?
+   Barsky N. P., 2000, Strategic Finance, V81, P52
+   Deloitte, 2023, Wall Street J.Aug. 1
+   Jablonsky S. F., 2000, J. Corporate Accounting Finance, V11, P3, DOI [10.1002/1097-0053(200007/08)11:53.0.CO;2-K, DOI 10.1002/1097-0053(200007/08)11:53.0.CO;2-K]
+   KPMG, US technology survey: Majority of US businesses say they have not seen an increase in performance or profitability from digital transformation investments
+   kpmg, AI and Financial Reporting Survey-What are companies doing and where do you stand?
+   PricewaterhouseCoopers and The Conference Board, Board effectiveness: A survey of the C-suite
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 94
+EP 98
+DI 10.1109/MITP.2024.3399472
+PG 5
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000013
+DA 2024-08-05
+ER
+
+PT J
+AU Provan, G
+AF Provan, Gregory
+TI Formal Methods for Autonomous Vehicles
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Adaptation models; Software development management; Autopilot; Aircraft;
+   Autonomous vehicles; Vehicle safety; Automotive engineering; Autonomous
+   systems; Pedestrians; Computational materials science; Safety
+   management; Formal verification; Machine learning; Cyber-physical
+   systems; Advanced driver assistance systems; Intelligent vehicles
+AB This article describes the impact that autonomous vehicle operation will have on a range of domains and how formal methods can guarantee the safe operation of those vehicles. The verification of the safe operation of autonomous systems (e.g., autopilot systems for commercial aircraft) was traditionally done using precise models and verification software based on formal methods. However, the increasing use of machine-learning-based subsystems (e.g., for perception) requires the use of different verification tools. We describe how formal methods are used today and how they will be adapted for future autonomous vehicles.
+C1 [Provan, Gregory] Univ Coll Cork, Sch Comp Sci & IT, Cork, Ireland.
+C3 University College Cork
+RP Provan, G (corresponding author), Univ Coll Cork, Sch Comp Sci & IT, Cork, Ireland.
+EM g.provan@cs.ucc.ie
+RI Provan, Gregory Mark/ITW-8522-2023
+OI Provan, Gregory Mark/0000-0003-3678-046X
+FU SFI
+FX No Statement Available
+CR Ahangar MN, 2021, SENSORS-BASEL, V21, DOI 10.3390/s21030706
+   Bacco M., 2018, IoT Vert. Top. Summit Agric.-Tuscany (IOT Tuscany), DOI [10.1109/IOT-TUSCANY.2018.8373043., DOI 10.1109/I0T-TUSCANY.2018.8373043, 10.1109/IOT-TUSCANY.2018.8373043, DOI 10.1109/IOT-TUSCANY.2018.8373043]
+   Bachute MR, 2021, MACH LEARN APPL, V6, DOI 10.1016/j.mlwa.2021.100164
+   Borg M, 2018, Arxiv, DOI [arXiv:1812.05389, 10.48550/arXiv.1812.05389, DOI 10.48550/ARXIV.1812.05389]
+   Burton S., 2022, Deep Neural Networks and Data for Automated Driving: Robustness, Uncertainty Quantification, and Insights Towards Safety, P335
+   Clarke E. M., 1997, Foundations of Software Technology and Theoretical Computer Science. 17th Conference. Proceedings, P54, DOI 10.1007/BFb0058022
+   Clothier R. A, 2019, PROC 8 AUSTR AEROSP
+   Cummings ML, 2020, LIVING WITH ROBOTS: EMERGING ISSUES ON THE PSYCHOLOGICAL AND SOCIAL IMPLICATIONS OF ROBOTICS, P119, DOI 10.1016/B978-0-12-815367-3.00006-2
+   Debouk R., 2018, Overview of the 2nd Edition of ISO 26262: Functional Safety-Road Vehicles
+   Durst P.J., 2014, Levels of autonomy and autonomous system performance assessment fo r intelligent unmanned systems
+   Eaton Ray, 2010, International Journal of Intelligent Systems Technologies and Applications, V8, P444, DOI 10.1504/IJISTA.2010.030223
+   Emanuilov I., 2017, SESAR Innov. Days, V7
+   Fan CC, 2018, IEEE DES TEST, V35, P31, DOI 10.1109/MDAT.2018.2799804
+   Fayyad J, 2020, SENSORS-BASEL, V20, DOI 10.3390/s20154220
+   Ghobadpour A, 2022, VEHICLES-BASEL, V4, P843, DOI 10.3390/vehicles4030047
+   Hanif MA, 2018, IEEE INT ON LINE, P257, DOI 10.1109/IOLTS.2018.8474192
+   Henriksson J, 2023, LECT NOTES COMPUT SC, V13975, P233, DOI 10.1007/978-3-031-29786-1_16
+   Tran HD, 2019, ACM T EMBED COMPUT S, V18, DOI 10.1145/3358230
+   Jebamikyous HH, 2022, IEEE ACCESS, V10, P10523, DOI 10.1109/ACCESS.2022.3144407
+   Kiumarsi B, 2018, IEEE T NEUR NET LEAR, V29, P2042, DOI 10.1109/TNNLS.2017.2773458
+   Kuutti S, 2021, IEEE T INTELL TRANSP, V22, P712, DOI 10.1109/TITS.2019.2962338
+   Lim YX, 2017, IEEE AERO EL SYS MAG, V32, P4, DOI 10.1109/MAES.2017.160175
+   Luckcuck M, 2023, P I MECH ENG O-J RIS, V237, P278, DOI 10.1177/1748006X211034970
+   Madhavan R, 2012, IEEE ROBOT AUTOM MAG, V19, P16, DOI 10.1109/MRA.2011.2181746
+   Madronal Daniel, 2021, DroneSE and RAPIDO '21: Proceedings of the 2021 Drone Systems Engineering and Rapid Simulation and Performance Evaluation: Methods and Tools Proceedings, P1, DOI 10.1145/3444950.3444958
+   Maler O, 2004, LECT NOTES COMPUT SC, V3253, P152, DOI 10.1007/978-3-540-30206-3_12
+   Mehdipour N, 2023, AUTOMATICA, V152, DOI 10.1016/j.automatica.2022.110692
+   Ramos MA, 2020, RELIAB ENG SYST SAFE, V195, DOI 10.1016/j.ress.2019.106697
+   SAE Int, 2018, Taxonomy of On-Demand and Shared Mobility: Ground, Aviation, and Marine, DOI DOI 10.4271/J3016_201806
+   Salay R, 2017, Arxiv, DOI arXiv:1709.02435
+   Salay R, 2018, Arxiv, DOI arXiv:1808.01614
+   Schleiss P, 2022, IEEE INT SYMP SOFTW, P208, DOI 10.1109/ISSREW55968.2022.00069
+   Tjoa E, 2021, IEEE T NEUR NET LEAR, V32, P4793, DOI 10.1109/TNNLS.2020.3027314
+   Wen L, 2022, NEUROCOMPUTING, V489, P255, DOI 10.1016/j.neucom.2021.08.155
+   Xingyu Zhao, 2020, Computer Safety, Reliability, and Security. 39th International Conference, SAFECOMP 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12234), P244, DOI 10.1007/978-3-030-54549-9_16
+   Zhu MX, 2020, TRANSPORT RES C-EMER, V117, DOI 10.1016/j.trc.2020.102662
+NR 36
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 50
+EP 56
+DI 10.1109/MITP.2024.3356158
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000010
+DA 2024-08-05
+ER
+
+PT J
+AU Tomkos, I
+   Christofidis, C
+   Uzunidis, D
+   Moschopoulos, K
+   Papapavlou, C
+   Tranoris, C
+   Marom, DM
+   Nazarathy, M
+   Munoz, R
+   Famelis, P
+   Larrabeiti, D
+AF Tomkos, Ioannis
+   Christofidis, Christos
+   Uzunidis, Dimitris
+   Moschopoulos, Konstantinos
+   Papapavlou, Charalampos
+   Tranoris, Christos
+   Marom, Dan M.
+   Nazarathy, Moshe
+   Munoz, Raul
+   Famelis, Panagiotis
+   Larrabeiti, David
+TI The "X-Factor" of 6G Networks: Optical Transport Empowering 6G
+   Innovations
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE 6G mobile communication; Wireless communication; Technological
+   innovation; 5G mobile communication; Network slicing; Optical fiber
+   networks; Energy efficiency; Optical fiber communication; Optical
+   transmitters
+AB The sixth generation (6G) of mobile networks will radically change the way that we interact, as the artificial intelligence (AI)-enabled fixed and wireless communications and networks infrastructure will offer improved performance and an unprecedented variety of applications. 6G builds upon the evolution of 5G, which already introduces various innovations in network architecture, technologies, and operation capabilities. We expect further progress across many areas, including the evolving fixed Internet Protocol/optical transport network (called x-haul) connecting the radio access network (RAN), mobile core network (CN) and Internet. It is the one on which 6G will rely upon, as it carries the aggregated traffic of all users and circulates it across the world. In this article, we address possible 6G innovations, such as the implementation of flexible functional splits and end-to-end network slicing, from the viewpoint of evolved x-haul networks that are based on novel and energy-efficient optical communications systems and network technologies.
+C1 [Tomkos, Ioannis; Christofidis, Christos; Uzunidis, Dimitris; Moschopoulos, Konstantinos; Papapavlou, Charalampos; Tranoris, Christos] Univ Patras, Rion 26504, Greece.
+   [Uzunidis, Dimitris] Univ West Attica, Athens 12241, Greece.
+   [Marom, Dan M.] Hebrew Univ Jerusalem, IL-9190401 Jerusalem, Israel.
+   [Nazarathy, Moshe] Technion Israel Inst Technol, IL-3200003 Haifa, Israel.
+   [Munoz, Raul] Ctr Tecnol Telecomunicac Catalunya, Barcelona 08860, Spain.
+   [Famelis, Panagiotis] UBITECH, Athens 12241, Greece.
+   [Larrabeiti, David] Univ Carlos III Madrid, Madrid, Spain.
+C3 University of Patras; University of West Attica; Hebrew University of
+   Jerusalem; Technion Israel Institute of Technology; Centre Tecnologic
+   Telecomunicacions Catalunya (CTTC); Universidad Carlos III de Madrid
+RP Tomkos, I (corresponding author), Univ Patras, Rion 26504, Greece.
+EM itom@ece.upatras.gr; xris.xristofidis@gmail.com; duzunidis@hotmail.com;
+   kwstnmosch@outlook.com; c.papapavlou@upatras.gr;
+   tranoris@ece.upatras.gr; danmarom@mail.huji.ac.il; nazarat@icloud.com;
+   raul.munoz@cttc.es; pfamelis@ubitech.eu; dlarra@it.uc3m.es
+RI Uzunidis, Dimitris/ABG-8219-2020; Tomkos, Ioannis/HPH-4106-2023
+OI Uzunidis, Dimitris/0000-0002-9993-5230; Tomkos,
+   Ioannis/0000-0001-9721-3405; Munoz, Raul/0000-0003-4651-4499; Famelis,
+   Panagiotis/0000-0003-2444-4485; Tranoris, Christos/0000-0002-3433-037X;
+   Papapavlou, Charalampos/0000-0002-9756-3912
+FU Horizon Europe
+FX No Statement Available
+CR [Anonymous], 2023, Tech. Rep.
+   [Anonymous], Framework and overall objectives of the futuredevelopment of IMT for 2030 and beyond
+   García-Vázquez A, 2023, INDIAN J DERMATOL VE, V89, P280, DOI [10.1109/MCOMSTD.101.2000014, 10.25259/IJDVL_1242_20]
+   Harutyunyan D, 2018, IEEE T NETW SERV MAN, V15, P961, DOI 10.1109/TNSM.2018.2853707
+   Nazarathy M, 2021, PHOTONICS-BASEL, V8, DOI 10.3390/photonics8020038
+   Saad W, 2020, IEEE NETWORK, V34, P134, DOI 10.1109/MNET.001.1900287
+   Saleh AAM, 2012, P IEEE, V100, P1105, DOI 10.1109/JPROC.2011.2182589
+   Tomkos I, 2020, IT PROF, V22, P34, DOI 10.1109/MITP.2019.2963491
+   Turk Y, 2019, TELECOMMUN SYST, V72, P115, DOI 10.1007/s11235-019-00553-z
+NR 9
+TC 0
+Z9 0
+U1 4
+U2 4
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 32
+EP 39
+DI 10.1109/MITP.2024.3358971
+PG 8
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000001
+DA 2024-08-05
+ER
+
+PT J
+AU Shakhatreh, H
+   Malkawi, W
+   Al-Fuqaha, A
+AF Shakhatreh, Hazim
+   Malkawi, Wa'ed
+   Al-Fuqaha, Ala
+TI An Optimization Perspective on the Interactions Between Models in the
+   Internet of Drones
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Wireless communication; Power demand; Solar energy; Wireless power
+   transfer; Machine learning; Internet; Trajectory
+ID COMMUNICATION; NETWORKS; DESIGN
+AB Unlike terrestrial wireless stations, using drones as aerial wireless stations allows for improved wireless services due to their 3-D mobility. Therefore, model interactions play a pivotal role in determining the locations and trajectories of drones and their performance. In this article, we discuss the interactions between models in the Internet of Drones under different real-life scenarios. The models include channel path loss, intelligent reflecting surface placement, solar energy, wireless power transfer, and power consumption. Moreover, we discuss learned lessons and highlight future research directions relevant to these models.
+C1 [Shakhatreh, Hazim; Malkawi, Wa'ed] Yarmouk Univ, Hijjawi Fac Engn Technol, Dept Telecommun Engn, Irbid 21163, Jordan.
+   [Al-Fuqaha, Ala] Hamad Bin Khalifa Univ, Coll Sci & Engn, Informat & Comp Technol Div, Doha 34110, Qatar.
+C3 Yarmouk University; Qatar Foundation (QF); Hamad Bin Khalifa
+   University-Qatar
+RP Shakhatreh, H (corresponding author), Yarmouk Univ, Hijjawi Fac Engn Technol, Dept Telecommun Engn, Irbid 21163, Jordan.
+EM hazim.s@yu.edu.jo; 2018976003@alumni.yu.edu.jo; aalfuqaha@hbku.edu.qa
+RI Al-Fuqaha, Ala/IQT-0689-2023
+OI Al-Fuqaha, Ala/0000-0002-0903-1204
+CR Abeywickrama HV, 2018, IEEE VTS VEH TECHNOL, DOI 10.1109/VTCFall.2018.8690666
+   Al-Hourani A, 2018, IEEE WIREL COMMUN LE, V7, P82, DOI 10.1109/LWC.2017.2755643
+   Al-Hourani A, 2014, IEEE GLOB COMM CONF, P2898, DOI 10.1109/GLOCOM.2014.7037248
+   Al-Hourani A, 2014, IEEE WIREL COMMUN LE, V3, P569, DOI 10.1109/LWC.2014.2342736
+   Bor-Yaliniz I, 2019, IEEE T WIREL COMMUN, V18, P753, DOI 10.1109/TWC.2018.2874230
+   Boukoberine MN, 2019, APPL ENERG, V255, DOI 10.1016/j.apenergy.2019.113823
+   D'Andrea R, 2014, IEEE T AUTOM SCI ENG, V11, P647, DOI 10.1109/TASE.2014.2326952
+   Figliozzi M. A., 2018, P 7 INT C INF SYST L, P10
+   Gapeyenko M, 2018, IEEE INT CONF COMM
+   Gong SM, 2020, IEEE COMMUN SURV TUT, V22, P2283, DOI 10.1109/COMST.2020.3004197
+   Hashida H, 2020, IEEE WIREL COMMUN, V27, P146, DOI 10.1109/MWC.001.2000142
+   Kapovits A., 2021, Zenodo, DOI [10.5281/zenodo.4280750, DOI 10.5281/ZENODO.4280750]
+   Ordoukhanian E., 2015, P AIAA SPACE C EXP, P4542, DOI [10.2514/6.2015-4542, DOI 10.2514/6.2015-4542]
+   Qureshi HN, 2019, IEEE T AERO ELEC SYS, V55, P2805, DOI 10.1109/TAES.2019.2893082
+   Shakhatreh H, 2018, IEEE SYST J, V12, P3837, DOI 10.1109/JSYST.2018.2824802
+   Sun Y, 2019, IEEE T COMMUN, V67, P4281, DOI 10.1109/TCOMM.2019.2900630
+   Wu Q., 2020, UAV Communications for 5G and Beyond, P315
+   Wu QQ, 2019, IEEE WIREL COMMUN, V26, P36, DOI 10.1109/MWC.2018.1800221
+   Zhang S, 2022, IEEE INTERNET THINGS, V9, P23852, DOI 10.1109/JIOT.2022.3190813
+   Zhang X, 2022, IEEE VEH TECHNOL MAG, V17, P55, DOI 10.1109/MVT.2022.3158047
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 32
+EP 45
+DI 10.1109/MITP.2024.3371155
+PG 14
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000010
+DA 2024-08-05
+ER
+
+PT J
+AU Solaiman, E
+   Awad, C
+AF Solaiman, Ellis
+   Awad, Christa
+TI Trust and Dependability in Blockch-AI-n-Based Medical Internet of Things
+   Applications: Research Challenges and Future Directions
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Data privacy; Ethics; Reviews; Scalability; Data security; Medical
+   services; Blockchains
+ID FRAMEWORK
+AB This article critically reviews the integration of AI and blockchain technologies in the context of Medical Internet of Things (MedIoT) applications, where they collectively promise to revolutionize health-care delivery. By examining current research, we underscore AI's potential in advancing diagnostics and patient care, alongside blockchain's capacity to bolster data security and patient privacy. We focus particularly on the imperative to cultivate trust and ensure reliability within these systems. Our review highlights innovative solutions for managing health-care data and challenges, such as ensuring scalability, maintaining privacy, and promoting ethical practices, within the MedIoT domain. We present a vision for integrating AI-driven insights with blockchain security in health care, offering a comprehensive review of current research and future directions. We conclude with a set of identified research gaps and propose that addressing these is crucial for achieving the dependable, secure, and patient-centric MedIoT applications of tomorrow.
+C1 [Solaiman, Ellis] Newcastle Univ, Newcastle Upon Tyne NE1 7RU, England.
+   [Awad, Christa] Newcastle Hosp Natl Hlth Serv Fdn Trust, Newcastle Upon Tyne NE3 3HD, England.
+C3 Newcastle University - UK; Newcastle Upon Tyne Hospitals NHS Foundation
+   Trust
+RP Solaiman, E (corresponding author), Newcastle Univ, Newcastle Upon Tyne NE1 7RU, England.
+EM ellis.solaiman@ncl.ac.uk; christa.awad@gmail.com
+CR Al-Waisy AS, 2023, SOFT COMPUT, V27, P2657, DOI 10.1007/s00500-020-05424-3
+   Alanazi Abdullah, 2022, Informatics in Medicine Unlocked, DOI 10.1016/j.imu.2022.100924
+   Azaria A, 2016, PROCEEDINGS 2016 2ND INTERNATIONAL CONFERENCE ON OPEN AND BIG DATA - OBD 2016, P25, DOI 10.1109/OBD.2016.11
+   Cerchione R, 2023, TECHNOVATION, V120, DOI 10.1016/j.technovation.2022.102480
+   Greenhalgh T, 2017, J MED INTERNET RES, V19, DOI 10.2196/jmir.8775
+   Hathaliya JJ, 2022, IEEE CONF COMPUT, DOI 10.1109/INFOCOMWKSHPS54753.2022.9798053
+   Li I, 2022, COMPUT SCI REV, V46, DOI 10.1016/j.cosrev.2022.100511
+   Loh HW, 2022, COMPUT METH PROG BIO, V226, DOI 10.1016/j.cmpb.2022.107161
+   Mamoshina Polina, 2018, Oncotarget, V9, P5665, DOI 10.18632/oncotarget.22345
+   Mele C, 2021, J BUS RES, V129, P949, DOI 10.1016/j.jbusres.2020.09.004
+   Newman L.H., 2016, Wired
+   Niu J. Dong, Transp
+   Rehman F., 2023, inApplication of Natural Productsin SARS-CoV-2, P353, DOI [10.1016/B978-0-323-95047-3.00009-5.6.C, DOI 10.1016/B978-0-323-95047-3.00009-5.6.C]
+   Semenzin S, 2022, POLICY SOC, V41, P386, DOI 10.1093/polsoc/puac014
+   Shen JY, 2019, JMIR MED INF, V7, DOI 10.2196/10010
+   Shi ZS, 2023, IEEE COMMUN SURV TUT, V25, P497, DOI 10.1109/COMST.2022.3222403
+   Short AR, 2021, IEEE ICCE, DOI 10.1109/ICCE50685.2021.9427734
+   Solaiman E, 2021, CONCURR COMP-PRACT E, V33, DOI 10.1002/cpe.5811
+   Sujith G. S., 2022, Neurosci. Inform., V2, DOI [10.1016/j.neuri.2021.100028.17, DOI 10.1016/J.NEURI.2021.100028.17]
+   Topol EJ, 2019, NAT MED, V25, P44, DOI 10.1038/s41591-018-0300-7
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 87
+EP 93
+DI 10.1109/MITP.2024.3378582
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000003
+DA 2024-08-05
+ER
+
+PT J
+AU Mell, P
+   Bojanova, I
+   Galhardo, C
+AF Mell, Peter
+   Bojanova, Irena
+   Galhardo, Carlos
+TI Measuring the Exploitation of Weaknesses in the Wild
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Codes; Reviews; Computer hacking; Computer bugs; Manuals; Software;
+   Internet
+AB Identifying the software weaknesses exploited by attacks supports efforts to reduce developer introduction of vulnerabilities and to guide security code review efforts. A weakness is a bug or fault type that can be exploited through an operation that results in a security-relevant error. Ideally, the security community would measure the prevalence of the software weaknesses used in actual exploitation. This work advances that goal by introducing a simple metric that utilizes public data feeds to determine the probability of a weakness being exploited in the wild for any 30-day window. The metric is evaluated on a set of 130 weaknesses that were commonly found in vulnerabilities between April 2021 and March 2024. Our analysis reveals that 92% of the weaknesses are not being constantly exploited.
+C1 [Mell, Peter] NIST, Comp Secur Div, Gaithersburg, MD 20899 USA.
+   [Bojanova, Irena] NIST, Software Syst Div, Gaithersburg, MD 20899 USA.
+   [Galhardo, Carlos] Inst Nacl Metrol Qualidade & Tecnol, Legal Metrol Dept, BR-25250020 Duque De Caxias, Brazil.
+C3 National Institute of Standards & Technology (NIST) - USA; National
+   Institute of Standards & Technology (NIST) - USA; Instituto Nacional de
+   Metrologia, Qualidade e Tecnologia (INMETRO)
+RP Mell, P (corresponding author), NIST, Comp Secur Div, Gaithersburg, MD 20899 USA.
+EM peter.mell@nist.gov; irena.bojanova@nist.gov; cegalhardo@inmetro.gov.br
+OI Bojanova, Irena/0000-0002-3198-7026
+CR [Anonymous], 2023, CWE top 25 most dangerous software weaknesses
+   [Anonymous], 2023, Weaknesses for simplified mapping of published vulnerabilities
+   [Anonymous], 2023, Exploit prediction scoring system model
+   [Anonymous], 2023, Common Vulnerabilities and Exposures
+   [Anonymous], 2015, Common vulnerability scoring system version 3.1: Specification document
+   [Anonymous], 2023, National vulnerability database
+   [Anonymous], 2023, Common weakness enumeration
+   [Anonymous], 2018, Prioritization to prediction: Analyzing vulnerability remediation strategies
+   Bojanova I, 2023, IT PROF, V25, P7, DOI 10.1109/MITP.2023.3238631
+   Galhardo CC, 2020, ANN COMPUT SECURITY, P154, DOI 10.1145/3427228.3427257
+   Gueye A, 2021, IEEE SECUR PRIV, V19, P74, DOI [10.1109/msec.2021.3082757, 10.1109/MSEC.2021.3082757]
+   Jacobs J, 2021, DIGIT THREATS, V2, DOI 10.1145/3436242
+   Jacobs J, 2020, J CYBERSECURITY, V6, DOI 10.1093/cybsec/tyaa015
+   Mell P., 2022, NIST IR 8409
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 14
+EP 21
+DI 10.1109/MITP.2024.3399485
+PG 8
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000009
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Kshetri, N
+AF Kshetri, Nir
+TI The Environmental Impact of Artificial Intelligence
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Training; Costs; Energy efficiency; Artificial intelligence; Water
+   resources
+AB This article examines the significant energy and water resources required for the training and utilization of artificial intelligence (AI) systems, which consequently result in substantial social costs. Additionally, it explores AI's contributions to enhancing energy efficiency.
+C1 [Kshetri, Nir] Univ N Carolina, Bryan Sch Business & Econ, Greensboro, NC 27412 USA.
+C3 University of North Carolina; University of North Carolina Greensboro
+RP Kshetri, N (corresponding author), Univ N Carolina, Bryan Sch Business & Econ, Greensboro, NC 27412 USA.
+EM nbkshetr@uncg.edu
+CR [Anonymous], 2024, Electricity 2024 analysis and forecast to 2026
+   Berreby D., 2024, UndarkFeb. 20
+   Criddle C., 2024, Financial TimesFeb. 25
+   Gordon C., 2024, Forbes
+   Heikkila M., 2023, MIT Technology Review
+   Kirkpatrick Keith., 2023, Commun. ACM, V66, P17
+   Patterson D, 2024, COMMUN ACM, V67, P86, DOI 10.1145/3624719
+   Rakhmanov I., 2024, ForbesMar. 14
+   Saenko K., 2024, Scientific AmericanApr. 27
+   Sisson P., 2024, NY TimesFeb. 29
+NR 10
+TC 0
+Z9 0
+U1 4
+U2 4
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 9
+EP 13
+DI 10.1109/MITP.2024.3399471
+PG 5
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000012
+DA 2024-08-05
+ER
+
+PT J
+AU Rani, P
+   Nag, AK
+   Shahriyar, R
+AF Rani, Priyanka
+   Nag, Abhijit Kumar
+   Shahriyar, Rifat
+TI A Data-Driven Classification Framework for Cybersecurity Breaches
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB Unauthorized access to sensitive or confidential data results in a data breach, which can cause significant harm to an organization. Reporting breaches and reviewing prior records can help reduce damages. To aid in preparation, antivirus and security companies have published data breach reports, but they can be difficult to comprehend and require substantial effort to study. This article proposes a data breach incident classification framework using machine learning algorithms (naive Bayes, logistic regression, support vector machine, and random forest) on a dataset from the Privacy Rights Clearinghouse. The framework's performance is evaluated using various metrics, including accuracy, F1 score, and confusion matrix. The article also employs topic modeling with latent Dirichlet allocation to enhance the classification's accuracy.
+C1 [Rani, Priyanka] Bangladesh Univ Engn & Technol, Dhaka 1205, Bangladesh.
+   [Shahriyar, Rifat] Bangladesh Univ Engn & Technol, Dept Comp Sci & Engn, Dhaka 1205, Bangladesh.
+   [Nag, Abhijit Kumar] Texas A&M Univ Cent Texas, Subhani Dept Comp Informat Syst, Killeen, TX 76549 USA.
+C3 Bangladesh University of Engineering & Technology (BUET); Bangladesh
+   University of Engineering & Technology (BUET); Texas A&M University
+   System; Texas A&M University Central Texas
+RP Rani, P (corresponding author), Bangladesh Univ Engn & Technol, Dhaka 1205, Bangladesh.
+EM priyanka.shill06@gmail.com; aknag@tamuct.edu; rifat@cse.buet.ac.bd
+OI NAG, ABHIJIT/0000-0002-3520-2935
+CR [Anonymous], 2019, Internet Security Threat Report, V24
+   [Anonymous], 2023, Cost of a data breach report 2023
+   [Anonymous], 2020, DataLossDB
+   [Anonymous], 2020, Verizon
+   [Anonymous], Privacy Rights Clearinghouse
+   Bohme R, 2006, WORKSH EC INF SEC WE
+   Edwards B, 2016, J CYBERSECURITY, V2, P3, DOI 10.1093/cybsec/tyw003
+   Embrechts P., 1997, MODELLING EXTREMAL E, DOI 10.1007/978-3-642-33483-2
+   Juma'h AH, 2020, INT J ACCOUNT INF MA, V28, P275, DOI 10.1108/IJAIM-01-2019-0006
+   Maillart T, 2010, EUR PHYS J B, V75, P357, DOI 10.1140/epjb/e2010-00120-8
+   Mishra R, 2014, INT CONF COMM SYST, P472, DOI 10.1109/CSNT.2014.100
+   Ramage D., 2009, P 2009 C EMP METH NA, P248, DOI DOI 10.3115/1699510.1699543
+   Rani P., Data breach prediction android
+   Rani P., Data breach text classification
+   Rani P., 2021, Master's thesis
+   Wheatley S, 2016, EUR PHYS J B, V89, DOI 10.1140/epjb/e2015-60754-4
+   Xu MC, 2018, IEEE T INF FOREN SEC, V13, P2856, DOI 10.1109/TIFS.2018.2834227
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 39
+EP 48
+DI 10.1109/MITP.2024.3374096
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200006
+DA 2024-08-05
+ER
+
+PT J
+AU Saied, M
+   Elfatatry, AM
+   Guirguis, SK
+AF Saied, Mohamed
+   Elfatatry, Ahmed Mohammed
+   Guirguis, Shawkat Kamal
+TI Conceptual Framework for Software Change
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Software systems; Codes; Cloud computing; Software engineering; Computer
+   architecture; Source coding; Software maintenance; Change detection
+   algorithms; Software development management
+ID TAXONOMY
+AB Ever since the invention of software, change has been a destabilizing factor. Although many new software changes are being applied, the terminologies used to describe them are often inconsistent. This restricts practitioners to designing and evaluating their changes. This article aims to develop a conceptual framework of software change based on six main dimensions regarding the source, essence, and consequences of software change. To evaluate the proposed framework, benchmarking is applied against selected 11 previous studies.
+C1 [Saied, Mohamed] Alexandria Univ, Inst Grad Studies & Res, Dept Informat Technol, Alexandria 21526, Egypt.
+   [Saied, Mohamed] Alexandria Univ, Inst Grad Studies & Res, software Engn field, Alexandria 21526, Egypt.
+   [Elfatatry, Ahmed Mohammed] Alexandria Univ, Inst Grad Studies & Res, Dept Informat Technol, software Engn, Alexandria 21526, Egypt.
+   [Guirguis, Shawkat Kamal] Alexandria Univ, Inst Grad Studies & Res, Dept Informat Technol, Comp Sci & informat, Alexandria 21526, Egypt.
+C3 Egyptian Knowledge Bank (EKB); Alexandria University; Egyptian Knowledge
+   Bank (EKB); Alexandria University; Egyptian Knowledge Bank (EKB);
+   Alexandria University; Egyptian Knowledge Bank (EKB); Alexandria
+   University
+RP Saied, M (corresponding author), Alexandria Univ, Inst Grad Studies & Res, Dept Informat Technol, Alexandria 21526, Egypt.; Saied, M (corresponding author), Alexandria Univ, Inst Grad Studies & Res, software Engn field, Alexandria 21526, Egypt.
+EM igsr.msaied@alexu.edu.eg; elfatatry@alexu.edu.eg; shawkat_g@alexu.edu.eg
+RI Saied, Mohamed/ITU-7856-2023
+OI Saied, Mohamed/0000-0001-7026-0164
+CR Bohner SA, 2003, 27TH ANNUAL NASA GODDARD/IEEE SOFTWARE ENGINEERING WORKSHOP - PROCEEDINGS, P175, DOI 10.1109/SEW.2002.1199468
+   Buckley J, 2005, J SOFTW MAINT EVOL-R, V17, P309, DOI 10.1002/smr.319
+   Castelli V, 2001, IBM J RES DEV, V45, P311, DOI 10.1147/rd.452.0311
+   Chapin N, 2001, J SOFTW MAINT EVOL-R, V13, P3, DOI 10.1002/smr.220
+   Elkholy M, 2018, IT PROF, V20, P28, DOI 10.1109/MITP.2018.043141666
+   Essa MS, 2023, IT PROF, V25, P41, DOI 10.1109/MITP.2023.3239505
+   Gethers M, 2012, PROC INT CONF SOFTW, P430, DOI 10.1109/ICSE.2012.6227172
+   Gupta C, 2015, INT J COMPUT APPL T, V51, P366, DOI 10.1504/IJCAT.2015.070498
+   Huckman RS, 2009, MANAGE SCI, V55, P85, DOI 10.1287/mnsc.1080.0921
+   Hukal P., 2016, PROC 8 INT WORKSHOP, P1
+   Hurlburt G, 2021, IT PROF, V23, P4, DOI 10.1109/MITP.2021.3123415
+   Kemerer CF, 1999, IEEE T SOFTWARE ENG, V25, P493, DOI 10.1109/32.799945
+   Kilpinen M. S., 2007, PROC C SYST ENG RES, P1
+   Kupiainen E, 2015, INFORM SOFTWARE TECH, V62, P143, DOI 10.1016/j.infsof.2015.02.005
+   Lehnert S., 2011, PROC 12 INT WORKSHOP, P41, DOI DOI 10.1145/2024445.2024454
+   Lientz B P., 1980, Software Maintenance Management
+   Mens T., 2001, P 4 INT WORKSHOP PRI, P83, DOI [DOI 10.1145/602461.602476, 10.1145/602461.602476]
+   Paul J. J., 2023, Distributed Serverless Architectures on AWS, P1
+   Rokis Karlis, 2022, Perspectives in Business Informatics Research: 21st International Conference on Business Informatics Research, BIR 2022, Proceedings. Lecture Notes in Business Information Processing (462), P3, DOI 10.1007/978-3-031-16947-2_1
+   Rosenkranz C, 2013, J INF TECHNOL-UK, V28, P198, DOI 10.1057/jit.2012.33
+   Schaefer I., 2012, International Journal on Software Tools for Technology Transfer (STTT), V14, P477, DOI [DOI 10.1007/S10009-012-0253-Y, 10.1007/s10009-012-0253-y]
+   Vasilescu B, 2015, CHI 2015: PROCEEDINGS OF THE 33RD ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P3789, DOI 10.1145/2702123.2702549
+   Wang Y, 2015, INT CONF E BUS ENG, P127, DOI 10.1109/ICEBE.2015.30
+   Williams BJ, 2010, INFORM SOFTWARE TECH, V52, P31, DOI 10.1016/j.infsof.2009.07.002
+   Zaiwen Feng, 2013, Web Information Systems Engineering - WISE 2011 and 2012 Workshops. Combined WISE 2011 and WISE 2012 Workshops. Revised Selected Papers, P261, DOI 10.1007/978-3-642-38333-5_28
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 57
+EP 66
+DI 10.1109/MITP.2023.3338455
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA PM5E2
+UT WOS:001214500500002
+DA 2024-08-05
+ER
+
+PT J
+AU Patrikakis, CZ
+AF Patrikakis, Charalampos Z.
+TI Jubilee Welcome: Celebrating 25 Years!
+SO IT PROFESSIONAL
+LA English
+DT Article
+C1 [Patrikakis, Charalampos Z.] Univ West Attica, Comp Networks & Serv Res Lab, Egaleo 12241, Greece.
+C3 University of West Attica
+RP Patrikakis, CZ (corresponding author), Univ West Attica, Comp Networks & Serv Res Lab, Egaleo 12241, Greece.
+EM bpatr@uniwa.gr
+RI Patrikakis, Charalampos/U-2154-2018
+OI Patrikakis, Charalampos/0000-0003-1921-4466
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 4
+EP 7
+DI 10.1109/MITP.2024.3361384
+PG 4
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000007
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Chiang, HT
+   Tseng, BY
+   Chen, JL
+   Hsieh, HC
+AF Chiang, Hung-Tse
+   Tseng, Bor-Yao
+   Chen, Jiann-Liang
+   Hsieh, Han-Chuan
+TI Trajectory Analysis in UKF: Predicting Table Tennis Ball Flight
+   Parameters
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Accuracy; Sports equipment; Trajectory tracking; Machine vision; Neural
+   networks; Training data; Cameras
+AB The primary objective of this research is to develop a sophisticated system capable of accurately predicting the 3-D trajectory of a ball in sports and conducting an in-depth analysis of the obtained trajectory. The proposed system comprises three key components: a binocular vision system, an unscented Kalman filter trajectory and velocity prediction system, and an algorithmic data analysis system. The binocular vision system uses two fixed cameras to record the ball's movement. This system is a valuable resource for professional table tennis athletes and coaches, providing precise data for comprehensive sports analysis. In contrast to other studies, this research introduces a cost-effective and highly convenient 3-D trajectory analysis system for table tennis. The system achieves sufficient accuracy using only two low-resolution, low-frame-rate devices and a simple calibration process. Compared to traditional binocular image triangulation, the proposed system improves accuracy by 25%, with an error margin reduced to only 86 mm.
+C1 [Chiang, Hung-Tse; Tseng, Bor-Yao] Natl Taiwan Univ Sci & Technol, Elect Engn, Taipei 106335, Taiwan.
+   [Chen, Jiann-Liang] Natl Taiwan Univ Sci & Technol, Dept Elect Engn, Taipei 106335, Taiwan.
+   [Hsieh, Han-Chuan] Taiwan Inst Sports Sci, Kaohsiung 813282, Taiwan.
+C3 National Taiwan University of Science & Technology; National Taiwan
+   University of Science & Technology
+RP Chiang, HT (corresponding author), Natl Taiwan Univ Sci & Technol, Elect Engn, Taipei 106335, Taiwan.
+EM m11107502@mail.ntust.edu.tw; m11107501@mail.ntust.edu.tw;
+   lchen@mail.ntust.edu.tw; hchsieh@itri.org.tw
+CR Bailey SR, 2020, STATS-BASEL, V3, P84, DOI 10.3390/stats3020008
+   Calandre J, 2021, INT WORK CONTENT MUL, P89, DOI 10.1109/CBMI50038.2021.9461884
+   Dzwigol H., 2020, Academy of Strategic Management Journal, V19, P1
+   Gardner M, 2022, IEEE T ROBOT, V38, P3187, DOI 10.1109/TRO.2022.3165367
+   Gomez-Gonzalez S, 2019, ROBOTICS, V8, DOI 10.3390/robotics8040090
+   Gomez-Gonzalez S, 2020, IEEE ROBOT AUTOM LET, V5, P970, DOI 10.1109/LRA.2020.2966390
+   Guildford U.K., 2003, P 20 AS PAC NETW OP, P1, DOI [10.23919/APNOMS.2019.8893039.5.V.D., DOI 10.23919/APNOMS.2019.8893039.5.V.D]
+   Hartley RI, 1997, COMPUT VIS IMAGE UND, V68, P146, DOI 10.1006/cviu.1997.0547
+   Hattori M, 2020, IEEE INT C INT ROBOT, P3612, DOI 10.1109/IROS45743.2020.9341796
+   Hsu TH, 2019, ASIA-PAC NETW OPER M, DOI [10.23919/apnoms.2019.8893039, 10.1145/3290607.3312965]
+   Ji YF, 2021, IEEE INT C INT ROBOT, P2728, DOI 10.1109/IROS51168.2021.9636000
+   Julier SJ, 1997, P SOC PHOTO-OPT INS, V3068, P182, DOI 10.1117/12.280797
+   Lage M, 2016, IEEE COMPUT GRAPH, V36, P28, DOI 10.1109/MCG.2016.101
+   Li WJ, 2023, SENSORS-BASEL, V23, DOI 10.3390/s23031726
+   Lin HI, 2020, SENSORS-BASEL, V20, DOI 10.3390/s20020333
+   Lu X., 2022, Mobile Inf.Syst., DOI [10.1155/2022/2093631.17, DOI 10.1155/2022/2093631.17]
+   Owens N., 2003, International Conference on Visual Information Engineering (VIE 2003) (IEE Conf. Publ.No.495), P182, DOI 10.1049/cp:20030517
+   Tebbe J, 2020, IEEE INT CONF ROBOT, P9694, DOI [10.1109/ICRA40945.2020.9196536, 10.1109/icra40945.2020.9196536]
+   Vo Duy Cong, 2020, 2020 5th International Conference on Green Technology and Sustainable Development (GTSD), P9, DOI 10.1109/GTSD50082.2020.9303148
+   Wan EA, 2000, IEEE 2000 ADAPTIVE SYSTEMS FOR SIGNAL PROCESSING, COMMUNICATIONS, AND CONTROL SYMPOSIUM - PROCEEDINGS, P153, DOI 10.1109/ASSPCC.2000.882463
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 65
+EP 72
+DI 10.1109/MITP.2024.3380837
+PG 8
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000011
+DA 2024-08-05
+ER
+
+PT J
+AU Ternikov, AA
+AF Ternikov, Andrei A.
+TI Company Name Matching Using Job Market Data Enrichment
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE Companies; Training; Databases; Feature extraction; Approximation
+   algorithms; Machine learning algorithms; Legal factors; Algorithm design
+   and theory; Matching pursuit algorithms; Data integration
+AB This article contributes to the field of matching techniques by introducing a new algorithm based on labor market data enrichment. This approach is able to collect and balance the training and test samples for data integration purposes. By setting thresholds for textual matching and geographic proximity, it simplifies the process of finding suitable company matches. Based on insufficiently studied datasets, the experimental findings show that the performance evaluation of proposed models differs depending on the similarity thresholds used.
+C1 [Ternikov, Andrei A.] Natl Res Univ Higher Sch Econ, St Petersburg 194100, Russia.
+C3 HSE University (National Research University Higher School of Economics)
+RP Ternikov, AA (corresponding author), Natl Res Univ Higher Sch Econ, St Petersburg 194100, Russia.
+EM aternikov@hse.ru
+RI Ternikov, Andrei/AGZ-2543-2022
+OI Ternikov, Andrei/0000-0003-2354-0109
+CR Acemoglu D, 2022, J LABOR ECON, V40, pS293, DOI 10.1086/718327
+   Arora A, 2021, RES POLICY, V50, DOI 10.1016/j.respol.2021.104217
+   Balogh A., 2017, Data matching for corporate governance research, DOI [10.2139/ssrn.3053405, DOI 10.2139/SSRN.3053405]
+   Chen X, 2018, KDD'18: PROCEEDINGS OF THE 24TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P120, DOI 10.1145/3219819.3219921
+   Egger P, 2021, CHINA ECON J, V14, P311, DOI 10.1080/17538963.2021.1963046
+   Gopalakrishnan V., 2012, P 21 ACM INT C INF K, P605
+   Gschwind T, 2019, IEEE INT CONF BIG DA, P623, DOI 10.1109/BigData47090.2019.9006095
+   Guermazi Y, 2020, COMM COM INF SC, V1323, P320, DOI 10.1007/978-3-030-65965-3_21
+   Huang JC, 2023, VLDB J, V32, P229, DOI 10.1007/s00778-022-00745-1
+   Konda P, 2016, PROC VLDB ENDOW, V9, P1581, DOI 10.14778/3007263.3007314
+   Koumarelas I, 2020, ACM J DATA INF QUAL, V12, DOI 10.1145/3377878
+   Krivosheev E, 2021, AAAI CONF ARTIF INTE, V35, P16054
+   Kruse F, 2021, 24TH INTERNATIONAL CONFERENCE ON BUSINESS INFORMATION SYSTEMS (BIS), P13, DOI 10.52825/bis.v1i.44
+   Kruzslicz F., 2019, PROC PANNONIAN C ADV, P29
+   Li YL, 2020, PROC VLDB ENDOW, V14, P50, DOI 10.14778/3421424.3421431
+   Matci DK, 2018, COMPUT ENVIRON URBAN, V70, P1, DOI 10.1016/j.compenvurbsys.2018.01.009
+   Mudgal S, 2018, INT CONF MANAGE DATA, P19, DOI 10.1145/3183713.3196926
+   Navarro G, 2003, J AM SOC INF SCI TEC, V54, P3, DOI 10.1002/asi.10178
+   Yerva SR, 2012, INFORM SYST, V37, P336, DOI 10.1016/j.is.2011.09.007
+   Ziv R., 2022, arXiv
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 76
+EP 82
+DI 10.1109/MITP.2024.3371179
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA PM5E2
+UT WOS:001214500500003
+DA 2024-08-05
+ER
+
+PT J
+AU Kogias, DG
+   Patrikakis, CZ
+AF Kogias, Dimitrios G.
+   Patrikakis, Charalampos Z.
+TI Beyond Bitcoin: Exploring the Expanding Horizons of Blockchain
+   Innovation
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB Blockchain technology emerged in 2008 with the introduction of its first application: a digital distributed payment system known as the Bitcoin network.1 At that time, blockchain was a groundbreaking innovation that ingeniously combined existing technologies and features such as encryption, distributed computing, and digital signatures. Initially aimed at transforming the financial sector, the technology faced skepticism, partly due to the mystery surrounding Bitcoin's creator.
+C1 [Kogias, Dimitrios G.; Patrikakis, Charalampos Z.] Univ West Attica, Egaleo 12241, Greece.
+C3 University of West Attica
+RP Kogias, DG (corresponding author), Univ West Attica, Egaleo 12241, Greece.
+EM dimikog@uniwa.gr; bpatr@uniwa.gr
+CR [Anonymous], Bored Ape Yacht Club-Welcome to the BAYC Clubhouse
+   [Anonymous], Collect and breed furrever friends!
+   Buterin V, 2014, Ethereum: A next-generation smart contract and decentralized application platform
+   Nakamoto S., BITCOINORG
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAY-JUN
+PY 2024
+VL 26
+IS 3
+BP 4
+EP 8
+DI 10.1109/MITP.2024.3404228
+PG 5
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA WX6Y8
+UT WOS:001258222000008
+DA 2024-08-05
+ER
+
+PT J
+AU Piano, L
+   Garcea, F
+   Cavallone, A
+   Vazquez, IA
+   Morra, L
+   Lamberti, F
+AF Piano, Luca
+   Garcea, Fabio
+   Cavallone, Andrea
+   Vazquez, Ignacio Aparicio
+   Morra, Lia
+   Lamberti, Fabrizio
+TI Drift Detection for Black-Box Deep Learning Models
+SO IT PROFESSIONAL
+LA English
+DT Article
+AB Dataset drift is a common challenge in machine learning, especially for models trained on unstructured data, such as images. In this article, we propose a new approach for the detection of data drift in black-box models, which is based on Hellinger distance and feature extraction methods. The proposed approach is aimed at detecting data drift without knowing the architecture of the model to monitor, the dataset on which it was trained, or both. The article analyzes three different use cases to evaluate the effectiveness of the proposed approach, encompassing a variety of tasks including document segmentation, classification, and handwriting recognition. The use cases considered for the drift are adversarial assaults, domain shifts, and dataset biases. The experimental results show the efficacy of our drift detection approach in identifying changes in distribution under various training settings.
+C1 [Piano, Luca; Garcea, Fabio; Morra, Lia; Lamberti, Fabrizio] Polytech Univ Turin, Dept Control & Comp Engn, I-10129 Turin, Italy.
+   [Cavallone, Andrea] Reale Mutua Assicurazioni, Data Sci Ctr Excellence, I-10122 Turin, Italy.
+   [Vazquez, Ignacio Aparicio] Reale Seguros, Data Sci Ctr Excellence, Madrid 28002, Spain.
+C3 Polytechnic University of Turin
+RP Morra, L (corresponding author), Polytech Univ Turin, Dept Control & Comp Engn, I-10129 Turin, Italy.
+EM luca.piano@polito.it; fabio.garcea@polito.it;
+   andrea.cavallone@realemutua.it; aparicio.vazquez@reale.es;
+   lia.morra@polito.it; fabrizio.lamberti@polito.it
+RI ; Piano, Luca/AGE-5718-2022
+OI Morra, Lia/0000-0003-2122-7178; Piano, Luca/0000-0003-4467-7358
+FU Reale Mutua Assicurazioni
+FX This work was supported by a grant from Reale Mutua Assicurazioni.
+CR Cerqueira V, 2023, MACH LEARN, V112, P4351, DOI 10.1007/s10994-022-06188-7
+   Cerquitelli T., 2021, P PRED MAINT SMART F, P39
+   Che T, 2021, AAAI CONF ARTIF INTE, V35, P7002
+   Chen C, 2022, DIGIT COMMUN NETW, V8, P923, DOI 10.1016/j.dcan.2022.10.013
+   Demsar J, 2018, EXPERT SYST APPL, V92, P546, DOI 10.1016/j.eswa.2017.10.003
+   Disabato Simone, 2019, 2019 International Joint Conference on Neural Networks (IJCNN). Proceedings, DOI 10.1109/IJCNN.2019.8851731
+   Ditzler G., 2011, Proceedings 2011 IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments (CIDUE 2011), P41, DOI 10.1109/CIDUE.2011.5948491
+   Floridi L., CapAI-A procedure for conducting conformity assessment of AI systems in line with the EU artificial intelligence act, DOI DOI 10.2139/SSRN.4064091
+   Gama J, 2004, LECT NOTES ARTIF INT, V3171, P286
+   Geng CX, 2021, IEEE T PATTERN ANAL, V43, P3614, DOI 10.1109/TPAMI.2020.2981604
+   Greco S, 2021, INT CONF DAT MIN WOR, P341, DOI 10.1109/ICDMW53433.2021.00049
+   Ilyas A, 2019, ADV NEUR IN, V32
+   Goodfellow IJ, 2015, Arxiv, DOI [arXiv:1412.6572, DOI 10.48550/ARXIV.1412.6572]
+   Lu J, 2019, IEEE T KNOWL DATA EN, V31, P2346, DOI 10.1109/TKDE.2018.2876857
+   Piano L, 2022, IT PROF, V24, P53, DOI 10.1109/MITP.2022.3191318
+   Quiñonero-Candela J, 2009, NEURAL INF PROCESS S, pXI
+   Rabanser S, 2019, ADV NEUR IN, V32
+   RUMELHART DE, 1986, NATURE, V323, P533, DOI 10.1038/323533a0
+   Schuhmann C., 2022, Laion-5b: An open large-scale dataset for training next generation image-text models, DOI 10.48550/arXiv.2210.08402
+   Viehmann T., 2019, TorchDrift
+   Wang PF, 2023, KNOWL-BASED SYST, V275, DOI 10.1016/j.knosys.2023.110705
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD MAR-APR
+PY 2024
+VL 26
+IS 2
+BP 24
+EP 31
+DI 10.1109/MITP.2023.3338007
+PG 8
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA QN4M1
+UT WOS:001221538200004
+DA 2024-08-05
+ER
+
+PT J
+AU Strawn, G
+AF Strawn, George
+TI The Mastermind Department Wishes <i>IT Professional</i> a Happy 25th
+   Birthday!
+SO IT PROFESSIONAL
+LA English
+DT Article
+DE History; Computers; Technological innovation; Software engineering;
+   Ubiquitous computing; Information technology; Digital computers; Program
+   processors; Hardware; Data science; IEEE publications; Supercomputers;
+   Computer languages
+AB IT has preceded through four phases like other technologies: experimental, exotic, manufacturable, and ubiquitous. IT Professional has been in existence since IT has become ubiquitous. A brief history of IT through these phases is reviewed, highlighting "Mastermind" articles relating to each phase.
+C1 [Strawn, George] Natl Acad Sci, Washington, DC 20001 USA.
+C3 National Academies of Sciences, Engineering & Medicine
+RP Strawn, G (corresponding author), Natl Acad Sci, Washington, DC 20001 USA.
+EM gostrawn@gmail.com
+OI Strawn, George/0000-0003-4098-0464
+CR Strawn G, 2015, IT PROF, V17, P58, DOI 10.1109/MITP.2015.31
+   Strawn G, 2015, IT PROF, V17, P62, DOI 10.1109/MITP.2015.6
+   Strawn G, 2014, IT PROF, V16, P5, DOI 10.1109/MITP.2014.2
+NR 3
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1520-9202
+EI 1941-045X
+J9 IT PROF
+JI IT Prof.
+PD JAN
+PY 2024
+VL 26
+IS 1
+BP 16
+EP 18
+DI 10.1109/MITP.2024.3356110
+PG 3
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Telecommunications
+GA LD2Q0
+UT WOS:001184780000002
+DA 2024-08-05
+ER
+
+EF

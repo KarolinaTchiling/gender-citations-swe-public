@@ -1,0 +1,2293 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Diskin, S
+   Krivelevich, M
+AF Diskin, Sahar
+   Krivelevich, Michael
+TI Expansion in supercritical random subgraphs of expanders and its
+   consequences
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE Bond percolation; pseudo-random graphs; giant component; expansion
+ID GIANT COMPONENT; EVOLUTION; DIAMETER
+AB In 2004, Frieze, Krivelevich and Martin established the emergence of a giant component in random subgraphs of pseudo-random graphs. We study several typical properties of the giant component, most notably its expansion characteristics. We establish an asymptotic vertex expansion of connected sets in the giant by a factor of & Otilde;& varepsilon;2$$ \overset{\widetilde }{O}\left({\epsilon}<^>2\right) $$. From these expansion properties, we derive that the diameter of the giant is whp O & varepsilon;(logn)$$ {O}_{\epsilon}\left(\log n\right) $$, and that the mixing time of a lazy random walk on the giant is asymptotically O & varepsilon;log2n$$ {O}_{\epsilon}\left({\log}<^>2n\right) $$. We also show similar asymptotic expansion properties of (not necessarily connected) linear-sized subsets in the giant, and the typical existence of a large expander as a subgraph.
+C1 [Diskin, Sahar; Krivelevich, Michael] Tel Aviv Univ, Sch Math Sci, IL-6997801 Tel Aviv, Israel.
+C3 Tel Aviv University
+RP Diskin, S (corresponding author), Tel Aviv Univ, Sch Math Sci, IL-6997801 Tel Aviv, Israel.
+EM sahardiskin@mail.tau.ac.il
+RI Diskin, Sahar/CAH-3764-2022
+FU USA-Israel BSF
+FX The authors wish to thank the anonymous referees for their careful
+   reading and their many insightful comments and suggestions.
+CR AJTAI M, 1982, COMBINATORICA, V2, P1, DOI 10.1007/BF02579276
+   ALON N, 1988, DISCRETE MATH, V72, P15, DOI 10.1016/0012-365X(88)90189-6
+   Alon N., 2016, The probabilistic method, Vfourth
+   Benjamini I, 2014, RANDOM STRUCT ALGOR, V45, P383, DOI 10.1002/rsa.20539
+   Beveridge A, 1998, COMBINATORICA, V18, P311, DOI 10.1007/PL00009825
+   BOLLOBAS B, 1992, RANDOM STRUCT ALGOR, V3, P55, DOI 10.1002/rsa.3240030106
+   Bollobas B., 2006, PERCOLATION, DOI [DOI 10.1017/CBO9781139167383, 10.1017/CBO9781139167383]
+   Bollobas B., 2001, Random Graphs, V2, DOI 10.1017/CBO9780511814068
+   Broadbent S., 1957, Math. Proc. Camb. Philos. Soc., V53, P629
+   Ding J, 2014, EUR J COMBIN, V35, P155, DOI 10.1016/j.ejc.2013.06.004
+   Erde JOSHUA, 2023, ANN PROBAB, V51, P127, DOI 10.1214/22-AOP1592
+   ERDOS P, 1960, B INT STATIST INST, V38, P343
+   Fernholz D, 2007, RANDOM STRUCT ALGOR, V31, P482, DOI 10.1002/rsa.20197
+   Fountoulakis N, 2008, RANDOM STRUCT ALGOR, V33, P68, DOI 10.1002/rsa.20210
+   Fountoulakis N, 2007, PROBAB THEORY REL, V137, P475, DOI 10.1007/s00440-006-0003-8
+   Frieze A, 2004, RANDOM STRUCT ALGOR, V24, P42, DOI 10.1002/rsa.10100
+   Frieze A., 2016, INTRO RANDOM GRAPHS
+   Grimmett G., 1999, Grundlehren der mathematischen Wissenschaften Fundamental Principles of Mathematical Sciences
+   Hoory S, 2006, B AM MATH SOC, V43, P439, DOI 10.1090/S0273-0979-06-01126-8
+   Janson S., 2000, WIL INT S D, DOI 10.1002/9781118032718
+   Kesten H., 1982, Percolation theory for mathematicians, V2
+   Krivelevich M, 2006, BOLYAI MATH STUD, P199
+   Krivelevich M, 2019, LOND MATH S, V456, P115
+   Krivelevich M, 2020, RANDOM STRUCT ALGOR, V56, P927, DOI 10.1002/rsa.20903
+   Krivelevich M, 2018, SIAM J DISCRETE MATH, V32, P611, DOI 10.1137/17M1128721
+   Krivelevich M, 2015, SIAM J DISCRETE MATH, V29, P1654, DOI 10.1137/151002496
+   Krivelevich M, 2013, RANDOM STRUCT ALGOR, V43, P131, DOI 10.1002/rsa.20470
+   Levin DA., 2017, Markov Chains and Mixing Times, V2, DOI [DOI 10.1090/MBK/107, 10.1090/mbk/107]
+   McDiarmid C., 1998, Probabilistic methods for algorithmic discrete mathematics, volume 16 of Algorithms Combin, V16, P195, DOI DOI 10.1007/978-3-662-12788-9_6
+   Ofek E, 2007, COMB PROBAB COMPUT, V16, P445, DOI 10.1017/S096354S306008182
+   Riordan O, 2010, COMB PROBAB COMPUT, V19, P835, DOI 10.1017/S0963548310000325
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 MAY 18
+PY 2024
+DI 10.1002/rsa.21225
+EA MAY 2024
+PG 25
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA RB2V7
+UT WOS:001225156600001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Ahn, J
+   Chakraborti, D
+   Hendrey, K
+   Kim, D
+   Oum, SI
+AF Ahn, Jungho
+   Chakraborti, Debsoumya
+   Hendrey, Kevin
+   Kim, Donggyu
+   Oum, Sang-il
+TI Twin-width of random graphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE random graph; threshold; twin-width
+AB We investigate the twin-width of the Erdos-Renyi random graph G n,p). We unveil a surprising behavior of this parameter by showing the existence of a constant p & lowast;approximate to 0.4such that with high probability, when p & lowast;<= p <= 1-p & lowast;,the twin-width is asymptotically 2p(1-p)n, whereas, when0<p<p & lowast;or 1>p>1-p & lowast;, the twin-width is significantly higher than 2p(1-p)n. In addition, we show that the twin-width of G(n,1/2)is concentrated aroundn/2-root 3nlogn/2 within an interval of length o(root n log n).For the sparse random graph, we show that with high probability, the twin-width of G(n,p) is Theta (n root p) when (726 ln n)/ n <= p <= 1/2
+C1 [Ahn, Jungho] Korea Inst Adv Study KIAS, Sch Computat Sci, Seoul, South Korea.
+   [Chakraborti, Debsoumya] Univ Warwick, Math Inst, Coventry, England.
+   [Hendrey, Kevin; Kim, Donggyu; Oum, Sang-il] Inst Basic Sci IBS, Discrete Math Grp, Daejeon, South Korea.
+   [Kim, Donggyu; Oum, Sang-il] Korea Adv Inst Sci & Technol, Dept Math Sci, Daejeon, South Korea.
+C3 Korea Institute for Advanced Study (KIAS); University of Warwick;
+   Institute for Basic Science - Korea (IBS); Korea Advanced Institute of
+   Science & Technology (KAIST)
+RP Ahn, J (corresponding author), Korea Inst Adv Study KIAS, Sch Computat Sci, Seoul, South Korea.
+EM junghoahn@kias.re.kr
+FU Institute for Basic Science
+FX We thank the anonymous referees for their careful reading and helpful
+   suggestions.
+CR Ahn J, 2022, SIAM J DISCRETE MATH, V36, P2352, DOI 10.1137/21M1452834
+   Balabn J., 2021, 16th International Symposium on Parameterized and Exact Computation, LIPIcs. Leibniz Int. Proc. Inform.
+   Bonnet ., 2022, Comb. Theory, V2, P42, DOI DOI 10.5070/C62257876
+   Bonnet E, 2024, Arxiv, DOI arXiv:2102.06880
+   Bonnet É, 2022, ACM S THEORY COMPUT, P924, DOI 10.1145/3519935.3520037
+   Bonnet É, 2022, ALGORITHMICA, V84, P3300, DOI 10.1007/s00453-022-00965-5
+   Bonnet É, 2022, J ACM, V69, DOI 10.1145/3486655
+   Bonnet Edouard, 2022, P 2022 ACM SIAM S DI, P1036, DOI DOI 10.1137/1.9781611977073
+   Bourneuf R, 2023, Arxiv, DOI arXiv:2303.11231
+   Cover T.M., 1999, ELEMENTS INFORM THEO
+   Diestel R., 2017, Graduate Texts in Mathematics
+   Dreier J., 2022, Discret. Math, V345, P8
+   Gajarsk J., 2022, Proceedings of the 37th Annual ACM/IEEE Symposium on Logic in Computer Science
+   Ganian R., 2022, 25th International Conference on Theory and Applications of Satisfiability Testing (SAT 2022), LIPIcs. Leibniz Int. Proc. Inform., P17
+   Geniet C., 2021, LIPICS LEIBNIZ INT P
+   HOEFFDING W, 1963, J AM STAT ASSOC, V58, P13, DOI 10.2307/2282952
+   Lee C, 2012, J GRAPH THEOR, V70, P339, DOI 10.1002/jgt.20620
+   Matouek J., 2009, Invitation to discrete mathematics, V2nd ed.
+   Mitzenmacher M., 2017, Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis
+   Natalie Behague Florian, 2022, Personal communication
+   Oum S, 2006, J COMB THEORY B, V96, P514, DOI 10.1016/j.jctb.2005.10.006
+   Schidler Andre, 2022, P S ALGORITHM ENG EX, P67, DOI [DOI 10.1137/1.9781611977042.6, 10.1137/1.9781611977042.6]
+   Simon P., 2021, Ordered graphs of bounded twinwidth
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 JUN 14
+PY 2024
+DI 10.1002/rsa.21247
+EA JUN 2024
+PG 38
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UL3Z1
+UT WOS:001248187800001
+DA 2024-08-05
+ER
+
+PT J
+AU Bertoin, J
+   Mallein, B
+AF Bertoin, Jean
+   Mallein, Bastien
+TI Reinforced Galton-Watson processes I: Malthusian exponents
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE Galton-Watson process; Malthusian growth exponent; singularity analysis
+   of generating functions; stochastic reinforcement; transport equation
+AB In a reinforced Galton-Watson process with reproduction law nu$$ \boldsymbol{\nu} $$ and memory parameter q is an element of(0,1)$$ q\in \left(0,1\right) $$, the number of children of a typical individual either, with probability q$$ q $$, repeats that of one of its forebears picked uniformly at random, or, with complementary probability 1-q$$ 1-q $$, is given by an independent sample from nu$$ \boldsymbol{\nu} $$. We estimate the average size of the population at a large generation, and in particular, we determine explicitly the Malthusian growth rate in terms of nu$$ \boldsymbol{\nu} $$ and q$$ q $$. Our approach via the analysis of transport equations owes much to works by Flajolet and co-authors.
+C1 [Bertoin, Jean] Univ Zurich, Inst Math, Zurich, Switzerland.
+   [Mallein, Bastien] Univ Toulouse, Inst Math Toulouse, Toulouse, France.
+C3 University of Zurich; Universite de Toulouse; Universite Toulouse III -
+   Paul Sabatier
+RP Mallein, B (corresponding author), Univ Toulouse, Inst Math Toulouse, Toulouse, France.
+EM bastien.mallein@math.univ-toulouse.fr
+OI Mallein, Bastien/0000-0002-9435-420X
+FU Lemma 3.3
+FX We express our sincere gratitude to the reviewers for their insightful
+   comments, which greatly contributed to enhancing the quality of this
+   manuscript. J.B. would also like to thank Klaus Widmayer for discussions
+   about transport equations, and notably Lemma 3.3.
+CR Athreya K.B., 2004, Branching Processes
+   Bertenghi M, 2022, J STAT PHYS, V189, DOI 10.1007/s10955-022-02993-5
+   Bertoin J., 2021, OUT EQUILIBRIUM 3 CE, V77, P147
+   Bertoin J., 2023, ARXIV
+   Bertoin J, 2021, PROBAB THEORY REL, V179, P295, DOI 10.1007/s00440-020-01008-2
+   Flajolet P, 2009, ANALYTIC COMBINATORICS, P1, DOI 10.1017/CBO9780511801655
+   Flajolet P, 2005, ANN PROBAB, V33, P1200, DOI 10.1214/009117905000000026
+   FLAJOLET P, 1990, SIAM J DISCRETE MATH, V3, P216, DOI 10.1137/0403019
+   Flajolet P., 2006, Discrete Mathematics and Computer Science Proceedings, VAG, P59, DOI DOI 10.46298/DMTCS.3506
+   Inoue K, 2023, J APPL PROBAB, V60, P835, DOI 10.1017/jpr.2022.103
+   Kyprianou Andreas E., 2014, Fluctuations of Levy processes with applications: Introductory Lectures
+   Laulin L., THESIS U BORDEAUX
+   Pemantle R, 2007, PROBAB SURV, V4, P1, DOI 10.1214/07-PS094
+   Sabot C, 2019, J AM MATH SOC, V32, P311, DOI 10.1090/jams/906
+   SIMON HA, 1955, BIOMETRIKA, V42, P425
+NR 15
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD SEP
+PY 2024
+VL 65
+IS 2
+BP 387
+EP 410
+DI 10.1002/rsa.21219
+EA APR 2024
+PG 24
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ZC4O2
+UT WOS:001205998000001
+OA Green Published, hybrid, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Petrova, K
+   Trujic, M
+AF Petrova, Kalina
+   Trujic, Milos
+TI Transference for loose Hamilton cycles in random 3-uniform hypergraphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE Dirac-type conditions; hypergraphs; loose Hamilton cycle; random
+   hypergraphs; resilience
+ID THEOREM; RESILIENCE; CONJECTURE; SUBGRAPHS; EXISTENCE
+AB A loose Hamilton cycle in a hypergraph is a cyclic sequence of edges covering all vertices in which only every two consecutive edges intersect and do so in exactly one vertex. With Dirac's theorem in mind, it is natural to ask what minimum d$$ d $$-degree condition guarantees the existence of a loose Hamilton cycle in a k$$ k $$-uniform hypergraph. For k=3$$ k=3 $$ and each d is an element of{1,2}$$ d\in \left\{1,2\right\} $$, the necessary and sufficient such condition is known precisely. We show that these results adhere to a 'transference principle' to their sparse random analogues. The proof combines several ideas from the graph setting and relies on the absorbing method. In particular, we employ a novel approach of Kwan and Ferber for finding absorbers in subgraphs of sparse hypergraphs via a contraction procedure. In the case of d=2$$ d=2 $$, our findings are asymptotically optimal.
+C1 [Petrova, Kalina; Trujic, Milos] Swiss Fed Inst Technol, Inst Theoret Comp Sci, Zurich, Switzerland.
+   [Petrova, Kalina] Swiss Fed Inst Technol, Inst Theoret Comp Sci, CH-8092 Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich; Swiss Federal
+   Institutes of Technology Domain; ETH Zurich
+RP Petrova, K (corresponding author), Swiss Fed Inst Technol, Inst Theoret Comp Sci, CH-8092 Zurich, Switzerland.
+EM kpetrova@inf.ethz.ch
+FU Swiss National Science Foundation;  [CRSII5 173721];  [200020 197138]
+FX Research supported by grant nos. CRSII5 173721 and 200020 197138 of the
+   Swiss National Science Foundation.
+CR Ajtai M., 1985, N HOLLAND MATH STUDI, P173
+   Allen P., 2021, RESILIENCE TIGHT HAM
+   Balogh J, 2015, J AM MATH SOC, V28, P669
+   Balogh J, 2012, COMB PROBAB COMPUT, V21, P23, DOI 10.1017/S0963548311000642
+   Ben-Eliezer I, 2012, J GRAPH THEOR, V70, P284, DOI 10.1002/jgt.20616
+   Ben-Eliezer I, 2012, J COMB THEORY B, V102, P743, DOI 10.1016/j.jctb.2011.10.002
+   BOLLOBAS B, 1984, T AM MATH SOC, V286, P257, DOI 10.2307/1999405
+   Bondy J., 2008, Graph Theory, volume Gradute Texts in Mathematics
+   Bucic M., 2021, ARXIV
+   Buss E, 2013, J COMB THEORY B, V103, P658, DOI 10.1016/j.jctb.2013.07.004
+   Clemens D, 2020, ELECTRON J COMB, V27, DOI 10.37236/8611
+   Conlon D, 2014, ISR J MATH, V203, P535, DOI 10.1007/s11856-014-1120-1
+   Czygrinow A, 2014, SIAM J DISCRETE MATH, V28, P67, DOI 10.1137/120890417
+   Dirac G.A., 1952, Proc. London Math. Soc., Vs3-2, P69, DOI DOI 10.1112/PLMS/S3-2.1.69
+   Dudek A, 2012, ELECTRON J COMB, V19
+   ERDOS P, 1991, J COMB THEORY B, V51, P90, DOI 10.1016/0095-8956(91)90007-7
+   Ferber A., 2015, ELECTRON J COMB, V22, P7
+   Ferber A, 2022, J COMB THEORY B, V155, P318, DOI 10.1016/j.jctb.2022.02.009
+   Ferber A, 2020, FORUM MATH SIGMA, V8, DOI 10.1017/fms.2020.29
+   Ferber A, 2020, ELECTRON J COMB, V27
+   Fischer M, 2022, J COMB THEORY B, V152, P171, DOI 10.1016/j.jctb.2021.09.005
+   Frieze A., 2010, ELECTRON J COMB, V17, P4
+   Frieze A., 2021, HAMILTON CYCLES RAND
+   Georgakopoulos A, 2022, J EUR MATH SOC, V24, P303, DOI 10.4171/JEMS/1101
+   Gerke S., 2005, LONDON MATH SOC LECT, P227
+   Glock S, 2023, J LOND MATH SOC, DOI 10.1112/jlms.12750
+   Glock S, 2021, J EUR MATH SOC, V23, P2511, DOI 10.4171/JEMS/1060
+   Hàn H, 2010, J COMB THEORY B, V100, P332, DOI 10.1016/j.jctb.2009.10.002
+   Han J, 2015, J COMB THEORY B, V114, P70, DOI 10.1016/j.jctb.2015.03.007
+   HAXELL PE, 1995, GRAPH COMBINATOR, V11, P245, DOI 10.1007/BF01793010
+   Huang H, 2012, J COMB THEORY B, V102, P14, DOI 10.1016/j.jctb.2011.03.002
+   Janson S., 2000, WIL INT S D, DOI 10.1002/9781118032718
+   Kang D. Y., 2022, PROOF ERDOS FABER LO
+   Karp R. M., 1972, COMPLEXITY COMPUTER, V4, P85, DOI DOI 10.1007/978-1-4684-2001-2_9
+   Keevash P., 2014, The existence of designs
+   Keevash P, 2021, INT MATH RES NOTICES, V2021, P277, DOI 10.1093/imrn/rnz119
+   Keevash P, 2011, DISCRETE MATH, V311, P544, DOI 10.1016/j.disc.2010.11.013
+   Kohayakawa Y, 1997, COMBINATORICA, V17, P173, DOI 10.1007/BF01200906
+   KOHAYAKAWA Y, 2003, CMS BOOKS MATH OUVRA, V11
+   Kohayakawa Y., 1997, FDN COMPUTATIONAL MA, P216
+   Kohayakawa Y, 2010, J COMB THEORY B, V100, P151, DOI 10.1016/j.jctb.2009.05.005
+   KOMLOS J, 1983, DISCRETE MATH, V43, P55, DOI 10.1016/0012-365X(83)90021-3
+   KORSHUNOV AD, 1976, DOKL AKAD NAUK SSSR+, V228, P529
+   Krivelevich M., 1997, Combinatorics, Probability and Computing, V6, P337, DOI 10.1017/S0963548397003106
+   Krivelevich M., 2016, LONDON MATH SOC STUD, P4, DOI DOI 10.1017/CBO9781316479988.002
+   Kühn D, 2013, ADV MATH, V237, P62, DOI 10.1016/j.aim.2013.01.005
+   Kühn D, 2010, J COMB THEORY A, V117, P910, DOI 10.1016/j.jcta.2010.02.010
+   Kuhn D., 2014, HAMILTON CYCLES GRAP
+   Kühn D, 2006, J COMB THEORY B, V96, P767, DOI 10.1016/j.jctb.2006.02.004
+   Kwan M., 2022, HIGH GIRTH STEINER T
+   Lee C, 2012, RANDOM STRUCT ALGOR, V41, P293, DOI 10.1002/rsa.20419
+   Montgomery R, 2021, GEOM FUNCT ANAL, V31, P663, DOI 10.1007/s00039-021-00576-2
+   Montgomery R, 2019, ADV MATH, V356, DOI 10.1016/j.aim.2019.106793
+   Montgomery R, 2019, J COMB THEORY B, V139, P316, DOI 10.1016/j.jctb.2019.04.002
+   Nenadov R, 2022, ADV MATH, V406, DOI 10.1016/j.aim.2022.108518
+   Nenadov R, 2019, RANDOM STRUCT ALGOR, V54, P797, DOI 10.1002/rsa.20827
+   Noever A., 2017, ELECTRON J COMB, V24, P15
+   Park J., 2023, J AM MATH SOC, V37, P235
+   POSA L, 1976, DISCRETE MATH, V14, P359, DOI 10.1016/0012-365X(76)90068-6
+   Reiher C, 2019, P LOND MATH SOC, V119, P409, DOI 10.1112/plms.12235
+   Rödl V, 2006, COMB PROBAB COMPUT, V15, P229, DOI 10.1017/S0963548305007042
+   Saxton D, 2015, INVENT MATH, V201, P925, DOI 10.1007/s00222-014-0562-8
+   Sudakov B, 2008, RANDOM STRUCT ALGOR, V33, P409, DOI 10.1002/rsa.20235
+   Zhao Y, 2016, IMA VOL MATH APPL, V159, P145, DOI 10.1007/978-3-319-24298-9_6
+NR 64
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD SEP
+PY 2024
+VL 65
+IS 2
+BP 313
+EP 341
+DI 10.1002/rsa.21216
+EA APR 2024
+PG 29
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ZC4O2
+UT WOS:001201292300001
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Nagle, B
+   Rödl, V
+   Schacht, M
+AF Nagle, Brendan
+   Roedl, Vojtech
+   Schacht, Mathias
+TI Equivalent regular partitions of three-uniform hypergraphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE hypergraphs; quasirandomness; regularity method
+ID LEMMA
+AB The regularity method was pioneered by Szemer & eacute;di for graphs and is an important tool in extremal combinatorics. Over the last two decades, several extensions to hypergraphs were developed which were based on seemingly different notions of quasirandom hypergraphs. We consider the regularity lemmata for three-uniform hypergraphs of Frankl and R & ouml;dl and of Gowers, and present a new proof that the concepts behind these approaches are equivalent.
+C1 [Nagle, Brendan] Univ S Florida, Dept Math & Stat, Tampa, FL 33620 USA.
+   [Roedl, Vojtech] Emory Univ, Dept Math & Comp Sci, Atlanta, GA USA.
+   [Schacht, Mathias] Univ Hamburg, Fachbereich Math, Hamburg, Germany.
+C3 State University System of Florida; University of South Florida; Emory
+   University; University of Hamburg
+RP Nagle, B (corresponding author), Univ S Florida, Dept Math & Stat, Tampa, FL 33620 USA.
+EM bnagle@usf.edu
+CR Dementieva Y, 2002, RANDOM STRUCT ALGOR, V21, P293, DOI 10.1002/rsa.10058
+   Frankl P, 2002, RANDOM STRUCT ALGOR, V20, P131, DOI 10.1002/rsa.10017
+   Gowers WT, 2007, ANN MATH, V166, P897, DOI 10.4007/annals.2007.166.897
+   Gowers WT, 2006, COMB PROBAB COMPUT, V15, P143, DOI 10.1017/S0963548305007236
+   Nagle B, 2006, RANDOM STRUCT ALGOR, V28, P113, DOI 10.1002/rsa.20117
+   Nagle B, 2003, RANDOM STRUCT ALGOR, V23, P264, DOI 10.1002/rsa.10094
+   Nagle B, 2009, PROCEEDINGS OF THE TWENTIETH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P227
+   Rödl V, 2004, RANDOM STRUCT ALGOR, V25, P1, DOI 10.1002/rsa.20017
+   Rödl V, 2007, COMB PROBAB COMPUT, V16, P833, DOI 10.1017/S0963548307008553
+   Rödl V, 2007, COMB PROBAB COMPUT, V16, P887, DOI 10.1017/S0963548307008565
+   Szemeredi E., 1978, PROBLEMES COMBINATOI, V260, P399
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 MAY 29
+PY 2024
+DI 10.1002/rsa.21229
+EA MAY 2024
+PG 16
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA SI2E0
+UT WOS:001233751700001
+DA 2024-08-05
+ER
+
+PT J
+AU Ma, J
+   Wu, HH
+AF Ma, Jie
+   Wu, Hehui
+TI Partitioning graphs with linear minimum degree
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE f-factor; graph partition; minimum degree; Ore's theorem; question of
+   Kuhn-Osthus
+ID CONNECTIVITY
+AB We prove that there exists an absolute constant C > 0 such that, for any positive integer k, every graph G with minimum degree at least Ck admits a vertex-partition v(G) = S boolean OR T, where both G[S] and G[T] have minimum degree at least k, and every vertex in S has at least k neighbors in T. This confirms a question posted by Kuhn and Osthus (J. Comb. Theory Ser. B. 88 (2003), 29-43.) and is tight up to a constant factor. Our proof combines probabilistic methods with structural arguments based on Ore's theorem on f-factors of bipartite graphs.
+C1 [Ma, Jie] Univ Sci & Technol China, Sch Math Sci, Hefei 230026, Peoples R China.
+   [Ma, Jie] Univ Sci & Technol China, Hefei Natl Lab, Hefei, Peoples R China.
+   [Wu, Hehui] Fudan Univ, Shanghai Ctr Math Sci, Shanghai, Peoples R China.
+C3 Chinese Academy of Sciences; University of Science & Technology of
+   China, CAS; Hefei National Laboratory; Chinese Academy of Sciences;
+   University of Science & Technology of China, CAS; Fudan University
+RP Ma, J (corresponding author), Univ Sci & Technol China, Sch Math Sci, Hefei 230026, Peoples R China.
+EM jiema@ustc.edu.cn
+FU National Key Research and Development Program of China
+FX The authors would like to thank Shengjie Xie for very helpful
+   discussions and for his careful reading on a preliminary draft. The
+   authors would like to express their gratitude to the two reviewers for
+   their careful reading and insightful comments.
+CR Alon N, 2000, PROBABILISTIC METHOD
+   Csoka E, 2017, J COMB THEORY B, V126, P162, DOI 10.1016/j.jctb.2017.04.005
+   HAJNAL P, 1983, COMBINATORICA, V3, P95, DOI 10.1007/BF02579344
+   Hall P., 1935, J LONDON MATH SOC, Vs1-10, P26, DOI [10.1112/jlms/s1-10.37.26, DOI 10.1112/JLMS/S1-10.37.26]
+   Kühn D, 2003, J COMB THEORY B, V88, P29, DOI 10.1016/S0095-8956(03)00028-5
+   Lovasz L., 1975, Problems in recent advances in graph theory, ed
+   Lovasz L., 1966, Studia Sci. Math. Hung., V1, P237
+   ORE O, 1956, ANN MATH, V63, P383, DOI 10.2307/1970010
+   Ore O., 1957, T AM MATH SOC, V84, P109
+   Stiebitz M, 1996, J GRAPH THEOR, V23, P321, DOI 10.1002/(SICI)1097-0118(199611)23:3<321::AID-JGT12>3.0.CO;2-H
+   THOMASSEN C, 1983, J GRAPH THEOR, V7, P165, DOI 10.1002/jgt.3190070204
+   Thomassen C., 1988, Selected topics in graph theory III, P97
+   TUTTE WT, 1952, CAN J MATH, V4, P314, DOI 10.4153/CJM-1952-028-2
+   Wang Y, 2022, Arxiv, DOI arXiv:2202.08123
+NR 14
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 MAY 20
+PY 2024
+DI 10.1002/rsa.21238
+EA MAY 2024
+PG 9
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA RJ0L7
+UT WOS:001227177200001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Engelberg, O
+   Samotij, W
+   Warnke, L
+AF Engelberg, Oren
+   Samotij, Wojciech
+   Warnke, Lutz
+TI On the typical structure of graphs not containing a fixed
+   vertex-critical subgraph
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE asymptotic enumeration; H-free graphs; threshold phenomena
+ID ASYMPTOTIC STRUCTURE; NUMBER
+AB This work studies the typical structure of sparse H-free graphs, that is, graphs that do not contain a subgraph isomorphic to a given graph H. Extending the seminal result of Osthus, Pr & ouml;mel, and Taraz that addressed the case where H is an odd cycle, Balogh, Morris, Samotij, and Warnke proved that, for every r >= 3, the structure of a random Kr+1-free graph with n vertices and m edges undergoes a phase transition when m crosses an explicit (sharp) threshold function m(r)(n). They conjectured that a similar threshold phenomenon occurs when Kr+1 is replaced by any strictly 2-balanced, edge-critical graph H. In this paper, we resolve this conjecture. In fact, we prove that the structure of a typical H-free graph undergoes an analogous phase transition for every H in a family of vertex-critical graphs that includes all edge-critical graphs.
+C1 [Engelberg, Oren; Samotij, Wojciech] Tel Aviv Univ, Sch Math Sci, IL-6997801 Tel Aviv, Israel.
+   [Warnke, Lutz] Univ Calif San Diego, Dept Math, La Jolla, CA USA.
+C3 Tel Aviv University; University of California System; University of
+   California San Diego
+RP Samotij, W (corresponding author), Tel Aviv Univ, Sch Math Sci, IL-6997801 Tel Aviv, Israel.
+EM samotij@tauex.tau.ac.il
+FU Israel Science Foundation [1147/14, 1145/18]; NSF [DMS-1703516]; NSF
+   CAREER [DMS-2225631]; Sloan Research Fellowship
+FX Israel Science Foundation, Grant/Award Numbers: 1147/14, 1145/18; NSF,
+   Grant/Award Number: DMS-1703516; NSF CAREER, Grant/Award Number:
+   DMS-2225631; Sloan Research Fellowship.
+CR Balogh J, 2020, DISCRETE ANAL, DOI 10.19086/da.17354
+   Balogh J, 2017, COMBINATORICA, V37, P617, DOI 10.1007/s00493-015-3290-9
+   Balogh J, 2016, T AM MATH SOC, V368, P6439, DOI 10.1090/tran/6552
+   Balogh J, 2015, J AM MATH SOC, V28, P669
+   Balogh J, 2009, RANDOM STRUCT ALGOR, V34, P305, DOI 10.1002/rsa.20242
+   Bollobas B., 1980, European J. Combin, V1, P311, DOI [10.1016/S0195-6698(80)80030-8, DOI 10.1016/S0195-6698(80)80030-8]
+   Engelberg O., 2017, On the typical structure of graphs not containing a fixed vertexcritical subgraph. Master's thesis
+   Erd6s P., 1966, Studia Sci. Math. Hungar., P51
+   ERDOS P, 1946, B AM MATH SOC, V52, P1087, DOI 10.1090/S0002-9904-1946-08715-7
+   Erds P., 1976, Colloquio Internazionale sulle Teorie Combinatorie (Rome, 1973), Tomo II, P19
+   Harris T. E., 1960, P CAMBRIDGE PHIL SOC, V56, P13, DOI DOI 10.1017/S0305004100034241
+   Hundack Christoph., 1993, Combin. Probab. Comput, V2, P465
+   Janson S., 1990, RANDOM STRUCT ALGOR, V1, P221
+   Janson S., 2000, WIL INT S D, DOI 10.1002/9781118032718
+   KOLAITIS PG, 1987, T AM MATH SOC, V303, P637, DOI 10.2307/2000689
+   Mousset F, 2014, SIAM J DISCRETE MATH, V28, P1980, DOI 10.1137/130947878
+   Osthus D, 2003, COMBINATORICA, V23, P105, DOI 10.1007/s00493-003-0016-1
+   Promel HJ, 1996, J GRAPH THEOR, V21, P137
+   PROMEL HJ, 1995, RANDOM STRUCT ALGOR, V6, P21, DOI 10.1002/rsa.3240060104
+   PROMEL HJ, 1992, COMBINATORICA, V12, P463, DOI 10.1007/BF01305238
+   Simonovits M., 1974, Discrete Mathematics, V7, P349, DOI 10.1016/0012-365X(74)90044-2
+   Turan P., 1941, Mat. Fiz. Lapok, V48, P436
+   WORMALD NC, 1981, J COMB THEORY B, V31, P168, DOI 10.1016/S0095-8956(81)80022-6
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 MAY 24
+PY 2024
+DI 10.1002/rsa.21228
+EA MAY 2024
+PG 59
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA RW5A1
+UT WOS:001230697700001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Garbe, F
+   Hladky, J
+   Kun, G
+   Pekárková, K
+AF Garbe, Frederik
+   Hladky, Jan
+   Kun, Gabor
+   Pekarkova, Kristyna
+TI On pattern-avoiding permutons
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE pattern-avoidance; permutations; permutons; removal lemma
+AB The theory of limits of permutations leads to limit objects called permutons, which are certain Borel measures on the unit square. We prove that permutons avoiding a given permutation of order k$$ k $$ have a particularly simple structure. Namely, almost every fiber of the disintegration of the permuton (say, along the x-axis) consists only of atoms, at most (k-1)$$ \left(k-1\right) $$ many, and this bound is sharp. We use this to give a simple proof of the "permutation removal lemma."
+C1 [Garbe, Frederik] Heidelberg Univ, Inst Informat, Heidelberg, Germany.
+   [Garbe, Frederik; Pekarkova, Kristyna] Masaryk Univ, Fac Informat, Brno, Czech Republic.
+   [Hladky, Jan] Czech Acad Sci, Inst Comp Sci, Prague, Czech Republic.
+   [Kun, Gabor] HUN REN Alfred Renyi Inst Math, Budapest, Hungary.
+   [Kun, Gabor] Eotvos Lorand Univ, Inst Math, Budapest, Hungary.
+   [Garbe, Frederik] Heidelberg Univ, Inst Informat, Neuenheimer Feld 205, D-69120 Heidelberg, Germany.
+C3 Ruprecht Karls University Heidelberg; Masaryk University Brno; Czech
+   Academy of Sciences; Institute of Computer Science of the Czech Academy
+   of Sciences; Eotvos Lorand University; Ruprecht Karls University
+   Heidelberg
+RP Garbe, F (corresponding author), Heidelberg Univ, Inst Informat, Neuenheimer Feld 205, D-69120 Heidelberg, Germany.
+EM garbe@informatik.uni-heidelberg.de
+RI Hladky, Jan/E-4008-2015; Hladky, Jan/E-9959-2015
+OI Garbe, Frederik/0000-0003-4435-1534; Hladky, Jan/0000-0002-7989-3280
+FU Czech Science Foundation [21-21762X, 67985807]; MUNI Award in Science
+   and Humanities [MUNI/I/1677/2018]; Lendulet [2022-58]; New National
+   Excellence Program of the Ministry of Innovation and Technology; Grant
+   Agency of Masaryk University; European Research Council [741420];
+   Grantova Agentura Ceske Republiky; Janos Bolyai Scholarship of the
+   Hungarian Academy of Sciences; European Research Council (ERC) [741420]
+   Funding Source: European Research Council (ERC)
+FX Czech Science Foundation, Grant/Award Numbers: 21-21762X, 67985807; MUNI
+   Award in Science and Humanities, Grant/Award Number: MUNI/I/1677/2018;
+   Lendulet, Grant/Award Number: 2022-58; New National Excellence Program
+   of the Ministry of Innovation and Technology from the Source of the
+   National Research, Development and Innovation Fund; Grant Agency of
+   Masaryk University; European Research Council, Grant/Award Number:
+   741420; Grantova Agentura Ceske Republiky; Janos Bolyai Scholarship of
+   the Hungarian Academy of Sciences.
+CR [Anonymous], 2000, Measure Theory
+   Bona M., 2012, Combinatorics of Permutations, V2nd
+   Bóna M, 2010, DISCRETE MATH THEOR, V12, P89
+   Borga J, 2024, INT MATH RES NOTICES, V2024, P2138, DOI 10.1093/imrn/rnad096
+   Cooper J., COMBINATORIAL PROBLE
+   Cooper JN, 2006, ELECTRON J COMB, V13
+   DIACONIS P, 1977, J ROY STAT SOC B MET, V39, P262, DOI 10.1111/j.2517-6161.1977.tb01624.x
+   Dolezal M, 2017, RANDOM STRUCT ALGOR, V51, P275, DOI 10.1002/rsa.20715
+   Elek G, 2012, ADV MATH, V231, P1731, DOI 10.1016/j.aim.2012.06.022
+   Erdos G.S.P., 1935, Compositio Mathematica, V2, P463
+   Fox J, 2018, COMB PROBAB COMPUT, V27, P539, DOI 10.1017/S096354831800024X
+   Fox J, 2017, PROCEEDINGS OF THE TWENTY-EIGHTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1618
+   Hoppen C, 2013, J COMB THEORY B, V103, P93, DOI 10.1016/j.jctb.2012.09.003
+   Kechris Alexander, 2012, CLASSICAL DESCRIPTIV, V156
+   Kitaev S., 2011, PATTERNS PERMUTATION, DOI [10.1007/978-3-642-17333-2, DOI 10.1007/978-3-642-17333-2]
+   Klimosova T., 2014, P 25 ANN ACM SIAM S, P1164
+   Král' D, 2013, GEOM FUNCT ANAL, V23, P570, DOI 10.1007/s00039-013-0216-9
+   Madras N, 2016, ELECTRON J COMB, V23
+   Marcus A, 2004, J COMB THEORY A, V107, P153, DOI 10.1016/j.jcta.2004.04.002
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD AUG
+PY 2024
+VL 65
+IS 1
+BP 46
+EP 60
+DI 10.1002/rsa.21208
+EA JAN 2024
+PG 15
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UM5S4
+UT WOS:001150636700001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Lengler, J
+   Martinsson, A
+   Petrova, K
+   Schnider, P
+   Steiner, R
+   Weber, S
+   Welzl, E
+AF Lengler, Johannes
+   Martinsson, Anders
+   Petrova, Kalina
+   Schnider, Patrick
+   Steiner, Raphael
+   Weber, Simon
+   Welzl, Emo
+TI On connectivity in random graph models with limited dependencies
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE connectivity; dependency; random graphs
+ID NUMBER
+AB We consider random graph models in which the events describing the inclusion of potential edges have to be independent of each other if the corresponding edges are non-adjacent and ask: what is the minimum probability rho(n), such that for any distribution G (in this model) on graphs with n vertices in which each potential edge has a marginal probability of being present at least rho(n), a graph drawn from G is connected with non-zero probability? The answer to this question is sensitive to the formalization of the independence condition. We introduce a strict hierarchy of five conditions, which give rise to at least three different functions rho(n). For each condition, we provide upper and lower bounds for rho(n). For the strongest condition, the coloring model, we show that rho(n) -> 2 - phi approximate to 0.38 for n -> infinity. In contrast, for the weakest condition, pairwise independence, we show that rho(n) lies within O(1/n(2)) of the threshold 1 - 2/n for completely arbitrary distributions.
+C1 [Lengler, Johannes; Martinsson, Anders; Petrova, Kalina; Schnider, Patrick; Steiner, Raphael; Weber, Simon; Welzl, Emo] Swiss Fed Inst Technol, Dept Comp Sci, Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich
+RP Weber, S (corresponding author), Swiss Fed Inst Technol, Dept Comp Sci, Zurich, Switzerland.
+EM simon.weber@inf.ethz.ch
+OI Petrova, Kalina/0009-0006-1753-6962; Weber, Simon/0000-0003-1901-3621;
+   Steiner, Raphael/0000-0002-4234-6136
+FU Schweizerischer Nationalfonds zur Forderung derWissenschaftlichen
+   Forschung [CRSII5 173721, 204320]; Eidgenoessische Technische Hochschule
+   Zuerich
+FX Schweizerischer Nationalfonds zur Forderung derWissenschaftlichen
+   Forschung, Grant/AwardNumbers: CRSII5 173721, 204320; Eidgenoessische
+   Technische Hochschule Zuerich
+CR AARONSON J, 1989, ANN PROBAB, V17, P128, DOI 10.1214/aop/1176991499
+   ALON N., 2008, PROBABILISTIC METHOD, DOI [DOI 10.1002/9780470277331, 10.1002/9780470277331]
+   Alon N, 2008, ANN IEEE SYMP FOUND, P813, DOI 10.1109/FOCS.2008.61
+   AZUMA K., 1967, TOHOKU MATH J, V19, P357, DOI DOI 10.2748/TMJ/1178243286
+   Badakhshian L., 2023, DENSITY CONDITIONS T, DOI DOI 10.48550/ARXIV.2305.05713
+   Balister P., 2022, MATHBB Z N ARXIV PRE, DOI DOI 10.48550/ARXIV.2206.12335
+   Balister P, 2012, COMB PROBAB COMPUT, V21, P11, DOI 10.1017/S0963548311000538
+   Balister P, 2009, ADV APPL PROBAB, V41, P323, DOI 10.1239/aap/1246886613
+   BOLLOBAS B, 1988, EUR J COMBIN, V9, P241, DOI 10.1016/S0195-6698(88)80014-3
+   Bondy A, 2006, COMBINATORICA, V26, P121, DOI 10.1007/s00493-006-0009-y
+   Bringmann K, 2019, THEOR COMPUT SCI, V760, P35, DOI 10.1016/j.tcs.2018.08.014
+   BURTON RM, 1993, ANN PROBAB, V21, P2157, DOI 10.1214/aop/1176989014
+   Carathéodory C, 1907, MATH ANN, V64, P95, DOI 10.1007/BF01449883
+   Chung Fan, 2002, Annals of Combinatorics, V6, P125
+   Csikvári P, 2012, COMB PROBAB COMPUT, V21, P531, DOI 10.1017/S0963548312000016
+   Day AN, 2020, RANDOM STRUCT ALGOR, V57, P1007, DOI 10.1002/rsa.20972
+   Deijfen M, 2013, ANN I H POINCARE-PR, V49, P817, DOI 10.1214/12-AIHP480
+   Erdos P., 1959, Canad. J. Math., V11, P34, DOI DOI 10.4153/CJM-1959-003-9
+   Falgas-Ravry V, 2023, RANDOM STRUCT ALGOR, V62, P887, DOI 10.1002/rsa.21129
+   Gebauer H, 2009, LECT NOTES COMPUT SC, V5760, P30, DOI 10.1007/978-3-642-03456-5_3
+   Holroyd AE, 2016, FORUM MATH PI, V4, DOI 10.1017/fmp.2016.7
+   Janson S., 2000, WIL INT S D, DOI 10.1002/9781118032718
+   Johansson A., 1996, ASYMPTOTIC CHOICE NU, P91
+   Karrer B, 2011, PHYS REV E, V83, DOI 10.1103/PhysRevE.83.016107
+   Krioukov D, 2010, PHYS REV E, V82, DOI 10.1103/PhysRevE.82.036106
+   Liggett TM, 1997, ANN PROBAB, V25, P71
+   Molloy M, 2019, J COMB THEORY B, V134, P264, DOI 10.1016/j.jctb.2018.06.007
+   Nagy ZL, 2011, ELECTRON J COMB, V18
+   Penrose M, 2003, Random Geometric Graphs, V5, DOI DOI 10.1093/ACPROF:OSO/9780198506263.001.0001
+   Pfender F, 2012, COMBINATORICA, V32, P483, DOI 10.1007/s00493-012-2425-5
+   Reittu H., 2012, Unifying Themes in Complex Systems VII, P214, DOI DOI 10.1007/978-3-642-18003-3_21
+   SHEARER JB, 1985, COMBINATORICA, V5, P241, DOI 10.1007/BF02579368
+   Singer K. B., 1996, RANDOM INTERSECTION
+   SPENCER J, 1977, DISCRETE MATH, V20, P69, DOI 10.1016/0012-365X(77)90044-9
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD SEP
+PY 2024
+VL 65
+IS 2
+BP 411
+EP 448
+DI 10.1002/rsa.21220
+EA APR 2024
+PG 38
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ZC4O2
+UT WOS:001205998200001
+OA Green Submitted, Green Published
+DA 2024-08-05
+ER
+
+PT J
+AU Shapira, A
+   Kushnir, N
+   Gishboliner, L
+AF Shapira, Asaf
+   Kushnir, Nick
+   Gishboliner, Lior
+TI Testing versus estimation of graph properties, revisited
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE distance estimation; Frieze-Kannan regularity lemma; property testing
+ID REGULARITY; DISTANCE; APPROXIMATION; LEMMAS
+AB A graph G on n vertices is epsilon-far from property. if one should add/delete at least epsilon n(2) edges to turn G into a graph satisfying P. A distance estimator for. is an algorithm that given G and alpha, epsilon > 0 distinguishes between the case that G is (alpha - epsilon)-close to P and the case that G is alpha-far from P. If P has a distance estimator whose query complexity depends only on epsilon, then P is said to be estimable. Every estimable property is clearly also testable, since testing corresponds to estimating with alpha = epsilon. A central result in the area of property testing is the Fischer-Newman theorem, stating that an inverse statement also holds, that is, that every testable graph property is in fact estimable. The proof of Fischer and Newman was highly ineffective, since it incurred a tower-type loss when transforming a testing algorithm for. into a distance estimator. This raised the natural problem, studied recently by Fiat-Ron and by Hoppen-Kohayakawa-Lang-Lefmann-Stagni, whether one can find a transformation with a polynomial loss. We obtain the following results.
+   1. We show that if P is hereditary, then one can turn a tester for. into a distance estimator with an exponential loss. This is an exponential improvement over the result of Hoppen et al., who obtained a transformation with a double exponential loss.
+   2. We show that for every P, one can turn a testing algorithm for. into a distance estimator with a double exponential loss. This improves over the transformation of Fischer-Newman that incurred a tower-type loss.
+   Our main conceptual contribution in this work is that we manage to turn the approach of Fischer-Newman, which was inherently ineffective, into an efficient one. On the technical level, our main contribution is in establishing certain properties of Frieze-Kannan Weak Regular partitions that are of independent interest.
+C1 [Shapira, Asaf; Kushnir, Nick] Tel Aviv Univ, Sch Math, Tel Aviv, Israel.
+   [Gishboliner, Lior] Swiss Fed Inst Technol, Dept Math, Zurich, Switzerland.
+C3 Tel Aviv University; Swiss Federal Institutes of Technology Domain; ETH
+   Zurich
+RP Gishboliner, L (corresponding author), Swiss Fed Inst Technol, Dept Math, Zurich, Switzerland.
+EM lior.gishboliner@math.ethz.ch
+FU The U.S.-Israel Binational Science Foundation; Eidgenossische Technische
+   Hochschule Zurich
+FX The authors thank the anonymous referees for a careful reading of the
+   paper and useful suggestions. Open access funding provided by
+   Eidgenossische Technische Hochschule Zurich.
+CR Ailon N, 2007, RANDOM STRUCT ALGOR, V31, P371, DOI 10.1002/rsa.20167
+   Alon N, 2000, COMBINATORICA, V20, P451, DOI 10.1007/s004930070001
+   Alon N, 2008, SIAM J COMPUT, V37, P1703, DOI 10.1137/06064888X
+   Alon N, 2015, COMB PROBAB COMPUT, V24, P646, DOI 10.1017/S0963548314000765
+   Alon N, 2009, SIAM J COMPUT, V39, P143, DOI 10.1137/060667177
+   Batu T., 2003, ACM Comput. Surv, V35, P316, DOI [10.1145/780542.780590, DOI 10.1145/780542.780590]
+   Batu T, 2013, J ACM, V60, DOI 10.1145/2432622.2432626
+   Berman P, 2022, ACM T ALGORITHMS, V18, DOI 10.1145/3531527
+   Blais E, 2019, ACM T COMPUT THEORY, V11, DOI 10.1145/3337789
+   Borgs C., 2006, STOC'06. Proceedings of the 38th Annual ACM Symposium on Theory of Computing, P261, DOI 10.1145/1132516.1132556
+   Campagna Andrea, 2013, Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques. Algorithms and Techniques. 16th International Workshop, APPROX 2013 and 17th International Workshop, RANDOM 2013. Proceedings: LNCS 8096, P411, DOI 10.1007/978-3-642-40328-6_29
+   Conlon D, 2012, GEOM FUNCT ANAL, V22, P1191, DOI 10.1007/s00039-012-0171-x
+   Eden T, 2020, ACM T ALGORITHMS, V16, DOI 10.1145/3381418
+   Fiat N., 2021, PROC SODA, P1618
+   Fischer E, 2007, SIAM J COMPUT, V37, P482, DOI 10.1137/060652324
+   Fortnow L., 2006, THEORY COMPUTING, V2, P173, DOI DOI 10.4086/TOC.2006.V002A009
+   Frieze A, 1996, AN S FDN CO, P12, DOI 10.1109/SFCS.1996.548459
+   Frieze A, 1999, COMBINATORICA, V19, P175, DOI 10.1007/s004930050052
+   Gishboliner L, 2021, INT MATH RES NOTICES, V2021, P14409, DOI 10.1093/imrn/rnz214
+   Goldreich O, 2003, RANDOM STRUCT ALGOR, V23, P23, DOI 10.1002/rsa.10078
+   Goldreich O, 1998, J ACM, V45, P653, DOI 10.1145/285055.285060
+   Goldreich O., 2017, Introduction to Property Testing, DOI DOI 10.1017/9781108135252
+   Guruswami V, 2005, LECT NOTES COMPUT SC, V3624, P306
+   Hoppen C, 2021, SIAM J DISCRETE MATH, V35, P1238, DOI 10.1137/19M1283951
+   Hoppen C, 2020, COMB PROBAB COMPUT, V29, P616, DOI 10.1017/S0963548320000048
+   Kopparty S, 2009, LECT NOTES COMPUT SC, V5687, P601, DOI 10.1007/978-3-642-03685-9_45
+   Lovász L, 2007, GEOM FUNCT ANAL, V17, P252, DOI 10.1007/s00039-007-0599-6
+   Marko S, 2009, ACM T ALGORITHMS, V5, DOI 10.1145/1497290.1497298
+   Moshkovitz G, 2019, T AM MATH SOC, V371, P6779, DOI 10.1090/tran/7414
+   Parnas M, 2006, J COMPUT SYST SCI, V72, P1012, DOI 10.1016/j.jcss.2006.03.002
+   RODL V, 1985, GRAPH COMBINATOR, V1, P91, DOI 10.1007/BF02582932
+   Rödl V, 2009, COMBINATORICA, V29, P467, DOI 10.1007/s00493-009-2320-x
+   Rödl V, 2010, BOLYAI SOC MATH STUD, V20, P287
+   Shapira A., 2023, A tight bound for testing partition properties, submitted
+   Szemeredi E., 1978, PROBLEMES COMBINATOI, V260, P399
+NR 35
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 APR 26
+PY 2024
+DI 10.1002/rsa.21221
+EA APR 2024
+PG 28
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OQ1W3
+UT WOS:001208658800001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Demichele, P
+   Glasgow, M
+   Moreira, A
+AF Demichele, Patrick
+   Glasgow, Margalit
+   Moreira, Alexander
+TI On the rank, Kernel, and core of sparse random graphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE cores of random graphs; Littlewood-Offord; random graph; rank of random
+   matrix
+ID K-CORE; SINGULARITY
+AB We study the rank of the adjacency matrix A of a random Erdos-Renyi graph G similar to G(n, p). It is well known that when p = (log(n) - omega(1))/n, with high probability, A is singular. We prove that when p = omega(1/n), with high probability, the corank of A is equal to the number of isolated vertices remaining in G after the Karp-Sipser leaf-removal process, which removes vertices of degree one and their unique neighbor. We prove a similar result for the random matrix B, where all entries are independent Bernoulli random variables with parameter p. Namely, we show that if H is the bipartite graph with bi-adjacency matrix B, then the corank of B is with high probability equal to the max of the number of left isolated vertices and the number of right isolated vertices remaining after the Karp-Sipser leaf-removal process on H. Additionally, we show that with high probability, the k-core of G(n, p) is full rank for any k >= 3 and p = omega(1/n). This partially resolves a conjecture of Van Vu for p = omega 1/n). Finally, we give an application of the techniques in this paper to gradient coding, a problem in distributed computing.
+C1 [Demichele, Patrick; Glasgow, Margalit] Stanford Univ, Dept Comp Sci, Stanford, CA 94305 USA.
+   [Moreira, Alexander] Stanford Univ, Dept Math, Stanford, CA USA.
+C3 Stanford University; Stanford University
+RP Glasgow, M (corresponding author), Stanford Univ, Dept Comp Sci, Stanford, CA 94305 USA.
+EM mglasgow@stanford.edu
+FU NSF;  [DGE-1656518]
+FX Thanks to Mary Wootters, Matthew Kwan, Vishesh Jain, Ashwin Sah, and
+   Mehtaab Sawhney for helpful conversations and feedback. Margalit Glasgow
+   supported by NSF award DGE-1656518.
+CR Addario-Berry L, 2014, COMB PROBAB COMPUT, V23, P635, DOI 10.1017/S0963548314000285
+   Aronson J, 1998, RANDOM STRUCT ALGOR, V12, P111, DOI 10.1002/(SICI)1098-2418(199803)12:2<111::AID-RSA1>3.0.CO;2-#
+   Basak A, 2021, PROBAB THEORY REL, V180, P233, DOI 10.1007/s00440-021-01038-4
+   Bitar R., 2020, IEEE J Sel Areas Inf Theory, V1
+   Bollobs B., 2001, RANDOM GRAPHS, V2nd
+   Bordenave C, 2011, ANN PROBAB, V39, P1097, DOI 10.1214/10-AOP567
+   Brito G, 2022, COMB PROBAB COMPUT, V31, P229, DOI 10.1017/S0963548321000249
+   Charles Z., 2018, Gradient coding using the stochastic block model. 2018 IEEE international symposium on information theory (ISIT)
+   Charles Z, 2017, Arxiv, DOI arXiv:1711.06771
+   CHVATAL V, 1979, DISCRETE MATH, V25, P285, DOI 10.1016/0012-365X(79)90084-0
+   CojaOghlan A., 2020, The rank of sparse random matrices
+   Costello KP, 2008, RANDOM STRUCT ALGOR, V33, P269, DOI 10.1002/rsa.20219
+   Costello KP, 2006, DUKE MATH J, V135, P395, DOI 10.1215/S0012-7094-06-13527-5
+   Costello KP, 2010, COMB PROBAB COMPUT, V19, P321, DOI 10.1017/S0963548309990447
+   Ferber A., 2020, Singularity of sparse random matrices: Simple proofs
+   Ferber A, 2023, DUKE MATH J, V172, P1293, DOI 10.1215/00127094-2022-0060
+   Glasgow M, 2021, IEEE INT SYMP INFO, P2280, DOI [10.1109/ISIT45174.2021.9517990, 10.1109/JSAIT.2021.3100110]
+   Huang H, 2021, Arxiv, DOI arXiv:2009.13726
+   Jain V, 2022, ELECTRON COMMUN PROB, V27, DOI 10.1214/22-ECP455
+   Jain V, 2021, GEOM FUNCT ANAL, V31, P1160, DOI 10.1007/s00039-021-00580-6
+   Kadhe S, 2019, IEEE INT SYMP INFO, P2813, DOI [10.1109/ISIT.2019.8849690, 10.1109/isit.2019.8849690]
+   Karp R., 1981, Maximum matchings in sparse random graphs. Proceedings of the twentysecond IEEE annual symposium on foundations of computer science
+   Komlos J., 1967, Studia Sci. Math. Hungar., V2, P7
+   LUCZAK T, 1991, DISCRETE MATH, V91, P61, DOI 10.1016/0012-365X(91)90162-U
+   Pittel B, 1996, J COMB THEORY B, V67, P111, DOI 10.1006/jctb.1996.0036
+   Raviv N., 2018, Gradient coding from cyclic mds codes and expander graphs. International conference on machine learning
+   Rudelson M, 2008, ADV MATH, V218, P600, DOI 10.1016/j.aim.2008.01.010
+   Tandon R., 2017, Gradient coding: Avoiding stragglers in distributed learning. International conference on machine learning
+   Tikhomirov K, 2020, ANN MATH, V191, P593, DOI 10.4007/annals.2020.191.2.6
+   Vu V., 2020, Recent progress in combinatorial random matrix theory
+   Wang HY, 2019, Arxiv, DOI arXiv:1901.09671
+   Wang SN, 2019, P ACM MEAS ANAL COMP, V3, DOI 10.1145/3366700
+NR 32
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 JUN 12
+PY 2024
+DI 10.1002/rsa.21227
+EA JUN 2024
+PG 75
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA TV4W8
+UT WOS:001244032300001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Böttcher, J
+   Parczyk, O
+   Sgueglia, A
+   Skokan, J
+AF Boettcher, Julia
+   Parczyk, Olaf
+   Sgueglia, Amedeo
+   Skokan, Jozef
+TI The square of a Hamilton cycle in randomly perturbed graphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE square of Hamilton cycle; 2-universality; thresholds; randomly perturbed
+   graphs
+ID RANDOM EDGES; SUBGRAPHS; ALGORITHMS; THRESHOLD; CIRCUITS
+AB We investigate the appearance of the square of a Hamilton cycle in the model of randomly perturbed graphs, which is, for a given alpha is an element of(0,1), the union of any n-vertex graph with minimum degree alpha n and the binomial random graph G(n,p). This is known when alpha>1/2, and we determine the exact perturbed threshold probability in all the remaining cases, i.e., for each alpha <= 1/2. We demonstrate that, as alpha ranges over the interval (0,1), the threshold performs a countably infinite number of `jumps'. Our result has implications on the perturbed threshold for 2-universality, where we also fully address all open cases.
+C1 [Boettcher, Julia; Skokan, Jozef] London Sch Econ, Dept Math, London, England.
+   [Parczyk, Olaf] Freie Univ, Inst Math, Berlin, Germany.
+   [Sgueglia, Amedeo] UCL, Dept Math, London, England.
+   [Skokan, Jozef] Univ Illinois, Dept Math, Urbana, IL USA.
+   [Sgueglia, Amedeo] UCL, Dept Math, London WC1E 6BT, England.
+C3 University of London; London School Economics & Political Science; Free
+   University of Berlin; University of London; University College London;
+   University of Illinois System; University of Illinois Urbana-Champaign;
+   University of London; University College London
+RP Sgueglia, A (corresponding author), UCL, Dept Math, London WC1E 6BT, England.
+EM a.sgueglia@ucl.ac.uk
+RI Skokan, Jozef/KIB-6755-2024
+OI Skokan, Jozef/0000-0003-3996-7676; Sgueglia, Amedeo/0000-0002-0629-5431
+FU Deutsche Forschungsgemeinschaft [EXC-2046/1, 390685689]; Deutsche
+   Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's
+   Excellence Strategy-The Berlin Mathematics Research Center MATH+ [PA
+   3513/1-1]; Deutsche Forschungsgemeinschaft (DFG)
+FX We are grateful to an anonymous referee for their insightful and
+   valuable comments. Olaf Parczyk is supported by the Deutsche
+   Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's
+   Excellence Strategy-The Berlin Mathematics Research Center MATH+
+   (EXC-2046/1, project ID: 390685689). Part of this research was conducted
+   while Olaf Parczyk was a visiting fellow at the London School of
+   Economics and supported by the Deutsche Forschungsgemeinschaft (DFG,
+   Grant PA 3513/1-1). This research was conducted while Amedeo Sgueglia
+   was a PhD student at the London School of Economics.
+CR AIGNER M, 1993, J LOND MATH SOC, V48, P39, DOI 10.1112/jlms/s2-48.1.39
+   ANGLUIN D, 1979, J COMPUT SYST SCI, V18, P155, DOI 10.1016/0022-0000(79)90045-X
+   Antoniuk S, 2021, J GRAPH THEOR, V98, P255, DOI 10.1002/jgt.22691
+   Balogh J, 2017, ELECTRON J COMB, V24
+   Böttcher J, 2008, J COMB THEORY B, V98, P752, DOI 10.1016/j.jctb.2007.11.005
+   Böttcher J, 2023, COMB PROBAB COMPUT, V32, P91, DOI 10.1017/S0963548322000153
+   Böttcher J, 2021, PROCEDIA COMPUT SCI, V195, P404, DOI 10.1016/j.procs.2021.11.049
+   Bohman T, 2003, RANDOM STRUCT ALGOR, V22, P33, DOI 10.1002/rsa.10070
+   Böttcher J, 2020, MATHEMATIKA, V66, P422, DOI 10.1112/mtk.12005
+   Dirac G.A., 1952, Proc. London Math. Soc., Vs3-2, P69, DOI DOI 10.1112/PLMS/S3-2.1.69
+   Dudek A, 2020, RANDOM STRUCT ALGOR, V56, P122, DOI 10.1002/rsa.20870
+   Erdos P., 1964, THEORY GRAPHS ITS AP, P159
+   Ferber A, 2019, T AM MATH SOC, V372, P4239, DOI 10.1090/tran/7727
+   Fischer M, 2022, J COMB THEORY B, V152, P171, DOI 10.1016/j.jctb.2021.09.005
+   Frankston K, 2021, ANN MATH, V194, P475, DOI 10.4007/annals.2021.194.2.2
+   Han J, 2021, RANDOM STRUCT ALGOR, V58, P480, DOI 10.1002/rsa.20981
+   HOEFFDING W, 1963, J AM STAT ASSOC, V58, P13, DOI 10.2307/2282952
+   Janson S., 2000, WIL INT S D, DOI 10.1002/9781118032718
+   Johansson A, 2008, RANDOM STRUCT ALGOR, V33, P1, DOI 10.1002/rsa.20224
+   Kahn J, 2021, P AM MATH SOC, V149, P3201, DOI 10.1090/proc/15419
+   Komlos J, 1996, RANDOM STRUCT ALGOR, V9, P193, DOI 10.1002/(SICI)1098-2418(199608/09)9:1/2<193::AID-RSA12>3.0.CO;2-P
+   Komlos J, 1996, BOLYAI MATH STUD, V2, P295
+   Komlos J., 1998, ANN COMB, V2, P43
+   Kühn D, 2012, SIAM J DISCRETE MATH, V26, P1440, DOI 10.1137/120871729
+   Nenadov R, 2021, SIAM J DISCRETE MATH, V35, P988, DOI 10.1137/19M125412X
+   Nenadov R, 2019, RANDOM STRUCT ALGOR, V54, P187, DOI 10.1002/rsa.20782
+   Parczyk O, 2020, EUR J COMBIN, V87, DOI 10.1016/j.ejc.2020.103118
+   POSA L, 1976, DISCRETE MATH, V14, P359, DOI 10.1016/0012-365X(76)90068-6
+   Riordan O, 2000, COMB PROBAB COMPUT, V9, P125, DOI 10.1017/S0963548399004150
+   Seymour P., 1974, Combinatorics, P201
+   Spielman DA, 2004, J ACM, V51, P385, DOI 10.1145/990308.990310
+   Szemeredi E., 1978, PROBLEMES COMBINATOI, V260, P399
+   Vu VH, 2001, COMB PROBAB COMPUT, V10, P79, DOI 10.1017/S0963548300004545
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD SEP
+PY 2024
+VL 65
+IS 2
+BP 342
+EP 386
+DI 10.1002/rsa.21215
+EA APR 2024
+PG 45
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ZC4O2
+UT WOS:001203090700001
+OA Green Submitted, Green Accepted
+DA 2024-08-05
+ER
+
+PT J
+AU Dubach, V
+AF Dubach, Victor
+TI Increasing subsequences of linear size in random permutations and the
+   Robinson-Schensted tableaux of permutons
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE Fomin's local rules; longest increasing subsequence; permutons; random
+   permutations; Robinson-Schensted correspondence
+ID LIMITS; CHARACTERS
+AB The study of longest increasing subsequences (LIS) in permutations led to that of Young diagrams via Robinson-Schensted's (RS) correspondence. In a celebrated paper, Vershik and Kerov established a limit theorem for such diagrams and deduced the 2 root n estimate for the LIS of a uniformly random permutation of size n. Independently, Hoppen et al. introduced the theory of permutons as a scaling limit of permutations. In this paper we extend in some sense the RS correspondence of permutations to the space of permutons. When the RS-tableaux of a permuton are non-zero we obtain a linear behavior for the sampled permutations' RS-tableaux, along with some large deviation results. In particular, the LIS of sampled permutations behaves as a multiple of n. Finally by studying asymptotic properties of Fomin's algorithm for permutations, we show that the RS-tableaux of a permuton satisfy a partial differential equation.
+C1 [Dubach, Victor] Univ Lorraine, Fac Sci & Technol, IECL, Nancy, France.
+C3 Universite de Lorraine
+RP Dubach, V (corresponding author), Univ Lorraine, Fac Sci & Technol, IECL, Nancy, France.
+EM victor.dubach@outlook.fr
+FU Agence Nationale de la Recherche;  [ANR-21-CE40-0019]
+FX Agence Nationale de la Recherche, Grant/AwardNumber: ANR-21-CE40-0019
+CR ALDOUS D, 1995, PROBAB THEORY REL, V103, P199, DOI 10.1007/BF01204214
+   Alon N, 2022, ADV APPL MATH, V139, DOI 10.1016/j.aam.2022.102361
+   Auger N., 2016, Analysis of algorithms for permutations biased by their number of records. 27th international conference on probabilistic
+   Baik J, 1999, J AM MATH SOC, V12, P1119, DOI 10.1090/S0894-0347-99-00307-0
+   Bassino F., 2022, Combinator Theory, V2, DOI [10.5070/C62359179, DOI 10.5070/C62359179]
+   Bassino F, 2022, ADV MATH, V405, DOI 10.1016/j.aim.2022.108513
+   Bassino F, 2018, ANN PROBAB, V46, P2134, DOI 10.1214/17-AOP1223
+   Borga J, 2024, INT MATH RES NOTICES, V2024, P2138, DOI 10.1093/imrn/rnad096
+   Borga J, 2023, P LOND MATH SOC, V126, P1842, DOI 10.1112/plms.12519
+   Borga J, 2021, Arxiv, DOI arXiv:2107.09699
+   Borga J, 2021, ANN I H POINCARE-PR, V57, P1834, DOI 10.1214/20-AIHP1135
+   Borga J, 2020, ANN APPL PROBAB, V30, P2196, DOI 10.1214/19-AAP1555
+   Cooley O, 2022, ACTA MATH HUNG, V168, P1, DOI 10.1007/s10474-022-01265-8
+   Cramer H., 1938, Actualites scientifiques et industrielles, V736, P5
+   Dembo A., 2010, Large deviations techniques and applications, V38
+   DEUSCHEL JD, 1995, ANN PROBAB, V23, P852, DOI 10.1214/aop/1176988293
+   Deuschel JD, 1999, COMB PROBAB COMPUT, V8, P247, DOI 10.1017/S0963548399003776
+   Dubach V., 2023, Combinator Theory, V3, DOI [10.5070/C63362784, DOI 10.5070/C63362784]
+   Elek G, 2022, COMBINATORICA, V42, P821, DOI 10.1007/s00493-021-4445-5
+   Féray V, 2024, Arxiv, DOI arXiv:2306.04278
+   Féray V, 2020, P LOND MATH SOC, V121, P876, DOI 10.1112/plms.12344
+   Fulton W., 1996, London Mathematical Society Student Texts
+   Glebov R, 2015, J COMB THEORY B, V110, P112, DOI 10.1016/j.jctb.2014.07.007
+   GREENE C, 1974, ADV MATH, V14, P254, DOI 10.1016/0001-8708(74)90031-0
+   Grübel R, 2023, DISCRETE MATH THEOR, V25
+   Hammersley J. M., 1972, A few seedlings of research. Proc. sixth Berkeley Symp. Math. Statist. And probability, volume 1
+   Hladky J, 2020, EUR J COMBIN, V88, DOI 10.1016/j.ejc.2020.103108
+   Hoppen C, 2013, J COMB THEORY B, V103, P93, DOI 10.1016/j.jctb.2012.09.003
+   Janson S, 2011, COMBINATORICA, V31, P529, DOI 10.1007/s00493-011-2591-x
+   KEROV SV, 1986, SIAM J ALGEBRA DISCR, V7, P116, DOI 10.1137/0607014
+   Král' D, 2013, GEOM FUNCT ANAL, V23, P570, DOI 10.1007/s00039-013-0216-9
+   LOGAN BF, 1977, ADV MATH, V26, P206, DOI 10.1016/0001-8708(77)90030-5
+   Lovász L, 2006, J COMB THEORY B, V96, P933, DOI 10.1016/j.jctb.2006.05.002
+   Mukherjee S, 2016, ELECTRON J PROBAB, V21, DOI 10.1214/16-EJP4622
+   Romik D., 2015, The surprising mathematics of longest increasing subsequences
+   Sagan BE., 2013, The symmetric group: representations, combinatorial algorithms, and symmetric functions
+   Sjöstrand J, 2023, ANN PROBAB, V51, P1502, DOI 10.1214/23-AOP1624
+   Sniady P, 2014, SIAM J DISCRETE MATH, V28, P598, DOI 10.1137/130930169
+   Vershik A. M., 1977, Soviet Math. Dokl, V18, P527
+   VERSHIK AM, 1981, FUNCT ANAL APPL+, V15, P246
+   Viennot X., 2018, Growth diagrams and edge local rules. GASCom 2018 random and exhaustive generation of combinatorial structures, Athens
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 MAY 6
+PY 2024
+DI 10.1002/rsa.21223
+EA MAY 2024
+PG 47
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA PL7Q0
+UT WOS:001214303100001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Shimizu, N
+   Shiraga, T
+AF Shimizu, Nobutaka
+   Shiraga, Takeharu
+TI Quasi-majority functional voting on expander graphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE consensus problem; distributed voting; expander graph; Markov chain
+ID SPECTRAL GAP; DYNAMICS; CONVERGENCE; MONOPOLIES
+AB Consider an n$$ n $$-vertex graph where each vertex holds one of two distinct opinions. We are interested in the consensus time of synchronous voting processes, where each vertex is allowed to update its opinion according to a predefined commonly local updating rule. This article proposes a general class of voting processes called quasi-majority functional voting and gives upper and lower bounds of the consensus time. Our results cover many previous results on specific processes, for example, best-of-two (a.k.a. 2Choices) and best-of-three (a.k.a. 3Majority), as special cases. Our key ingredient is a nonlinear extension of the expander mixing lemma, which enables us to estimate expected and variance changes in opinions of quasi-majority functional voting on expander graphs.
+C1 [Shimizu, Nobutaka] Tokyo Inst Technol, Tokyo, Japan.
+   [Shiraga, Takeharu] Chuo Univ, Tokyo, Japan.
+C3 Tokyo Institute of Technology; Chuo University
+RP Shimizu, N (corresponding author), Tokyo Inst Technol, Tokyo, Japan.
+EM shimizu.n.ah@m.titech.ac.jp
+CR Abdullah MA, 2015, DISCRETE APPL MATH, V180, P1, DOI 10.1016/j.dam.2014.07.026
+   Afek Y, 2011, SCIENCE, V331, P183, DOI 10.1126/science.1193210
+   Aldous D., Reversible markov chains and random walks on graphs
+   Bankhamer G., 2022, Proc. 2022 Annu. ACM-SIAM Symp. Discret. Algorithms (SODA), P3417, DOI DOI 10.1137/1.9781611977073.135
+   Becchetti Luca, 2020, ACM SIGACT News, V51, P58, DOI 10.1145/3388392.3388403
+   Becchetti L., 2016, P 27 ANN ACM SIAM S, P620, DOI DOI 10.1137/1.9781611974331.CH46
+   Becchetti L, 2017, DISTRIB COMPUT, V30, P293, DOI 10.1007/s00446-016-0289-4
+   Benjamini I, 2016, STOCH PROC APPL, V126, P2719, DOI 10.1016/j.spa.2016.02.015
+   Berenbrink P., 2023, P INT C PRINC DISTR
+   Berenbrink P., 2016, Proc. 43rd Int. Colloq. Autom. Lang. Program. (ICALP), p146:1
+   Berenbrink P, 2017, PROCEEDINGS OF THE ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED COMPUTING (PODC'17), P335, DOI 10.1145/3087801.3087817
+   Berger E, 2001, J COMB THEORY B, V83, P191, DOI 10.1006/jctb.2001.2045
+   Castellano C, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.041129
+   Clementi A., 2018, Proc. 43rd Int. Symp. Math. Found. Comput. Sci. (MFCS), V117, p28:1
+   Coja-Oghlan A, 2007, COMB PROBAB COMPUT, V16, P923, DOI 10.1017/S0963548307008693
+   Cook N, 2018, ANN PROBAB, V46, P72, DOI 10.1214/17-AOP1180
+   Cooper C., 2017, Proc. 31st Int. Symp. Distrib. Comput. (DISC), V91, p13:1
+   Cooper C., 2016, Proc. 43rd Int. Colloq. Autom. Lang. Program. (ICALP), V55, p144:1
+   Cooper C, 2015, LECT NOTES COMPUT SC, V9363, P248, DOI 10.1007/978-3-662-48653-5_17
+   Cooper C, 2014, LECT NOTES COMPUT SC, V8573, P435
+   Cooper C, 2013, SIAM J DISCRETE MATH, V27, P1748, DOI 10.1137/120900368
+   Cruciani E, 2023, DISTRIB COMPUT, V36, P107, DOI 10.1007/s00446-023-00444-2
+   Cruciani E, 2019, AAAI CONF ARTIF INTE, P6046
+   Cruciani E, 2018, PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS (AAMAS' 18), P777
+   Doerr B., 2020, THEORY EVOLUTIONARY, DOI [10.1007/978-3-030-29414-4_1, DOI 10.1007/978-3-030-29414-4_1]
+   Doerr B, 2011, SPAA 11: PROCEEDINGS OF THE TWENTY-THIRD ANNUAL SYMPOSIUM ON PARALLELISM IN ALGORITHMS AND ARCHITECTURES, P149
+   Feinerman O, 2017, DISTRIB COMPUT, V30, P339, DOI 10.1007/s00446-015-0249-4
+   FISCHER MJ, 1986, DISTRIB COMPUT, V1, P26, DOI 10.1007/BF01843568
+   Fraigniaud P, 2019, DISTRIB COMPUT, V32, P257, DOI 10.1007/s00446-018-0335-5
+   Frieze A., 2016, INTRO RANDOM GRAPHS
+   Gärtner B, 2018, LECT NOTES COMPUT SC, V10807, P572, DOI 10.1007/978-3-319-77404-6_42
+   Ghaffari M, 2018, PODC'18: PROCEEDINGS OF THE 2018 ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED COMPUTING, P305, DOI 10.1145/3212734.3212738
+   Gilbert S, 2010, PROC APPL MATH, V135, P965
+   Hassin Y, 2001, INFORM COMPUT, V171, P248, DOI 10.1006/inco.2001.3088
+   Kanade V, 2023, ACM T ALGORITHMS, V19, DOI 10.1145/3576900
+   Kang N, 2019, SPAA'19: PROCEEDINGS OF THE 31ST ACM SYMPOSIUM ON PARALLELISM IN ALGORITHMS AND ARCHITECTURESS, 2019, P115, DOI 10.1145/3323165.3323207
+   Levin D. A., 2017, Markov chain and mixing times, V2nd ed.
+   MARTINS ML, 1991, PHYS REV LETT, V66, P2045, DOI 10.1103/PhysRevLett.66.2045
+   Montenegro R, 2006, FOUND TRENDS THEOR C, V1, P237, DOI 10.1561/0400000003
+   Mossel E, 2014, AUTON AGENT MULTI-AG, V28, P408, DOI 10.1007/s10458-013-9230-4
+   Nakata T., 1999, Proc. 5th Annu. Int. Comput. Comb. Conf. (COCOON), P330
+   Oliveira Roberto I., 2019, Proc. 16th Workshop Anal. Algorithmics Comb. (ANALCO), P119, DOI DOI 10.1137/1.9781611975505.13
+   Peleg D, 1998, DISCRETE APPL MATH, V86, P263, DOI 10.1016/S0166-218X(98)00043-2
+   Peleg D, 2002, THEOR COMPUT SCI, V282, P231, DOI 10.1016/S0304-3975(01)00055-X
+   Schoenebeck G, 2018, SODA'18: PROCEEDINGS OF THE TWENTY-NINTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P1945
+   Shevtsova IG, 2010, DOKL MATH, V82, P862, DOI 10.1134/S1064562410060062
+   Shimizu N., 2020, Proc. 47th Int. Colloq. Autom. Lang. Program. (ICALP)
+   Shimizu N, 2021, RANDOM STRUCT ALGOR, V59, P96, DOI 10.1002/rsa.20992
+   Singla Ankit, 2012, P 9 USENIX NSDI SAN, P17
+   Tikhomirov K, 2019, ANN PROBAB, V47, P362, DOI 10.1214/18-AOP1263
+   Valadarsky A, 2016, PROCEEDINGS OF THE 12TH INTERNATIONAL CONFERENCE ON EMERGING NETWORKING EXPERIMENTS AND TECHNOLOGIES (CONEXT'16), P205, DOI 10.1145/2999572.2999580
+   Zehmakan A. N., 2018, Proc. 29th Int. Symp. Algorithms Comput. (ISAAC), p4:1
+NR 52
+TC 0
+Z9 0
+U1 2
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 MAY 21
+PY 2024
+DI 10.1002/rsa.21224
+EA MAY 2024
+PG 31
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA RL3T0
+UT WOS:001227787900001
+OA Green Published, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Montgomery, R
+AF Montgomery, Richard
+TI Spanning cycles in random directed graphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE digraphs; hamilton cycles; random graph theory
+ID HAMILTON CYCLES
+AB We show that, in almost every n$$ n $$-vertex random directed graph process, a copy of every possible n$$ n $$-vertex oriented cycle will appear strictly before a directed Hamilton cycle does, except of course for the directed cycle itself. Furthermore, given an arbitrary n$$ n $$-vertex oriented cycle, we determine the sharp threshold for its appearance in the binomial random directed graph. These results confirm, in a strong form, a conjecture of Ferber and Long.
+C1 [Montgomery, Richard] Univ Warwick, Math Inst, Coventry CV4 7AL, England.
+C3 University of Warwick
+RP Montgomery, R (corresponding author), Univ Warwick, Math Inst, Coventry CV4 7AL, England.
+EM richard.montgomery@warwick.ac.uk
+FU European Research Council (ERC) under the European Union's Horizon 2020
+   research and innovation programme
+FX The author would like to thank Asaf Ferber and Benny Sudakov for useful
+   conversations behind this paper.
+CR Ajtai M., 1985, N HOLLAND MATH STUDI, P173
+   Alon N, 2000, PROBABILISTIC METHOD
+   [Anonymous], 1983, Graph theory and combinatorics (Cambridge)
+   Bollobas B., 1983, Eur. J. Comb, V4, P97
+   Bollobas B., 2001, Random Graphs, V2, DOI 10.1017/CBO9780511814068
+   Erdos P., 1959, Publicationes Mathematicae, V6, p290. 25, DOI DOI 10.5486/PMD.1959.6.3-4.12
+   Ferber A, 2019, RANDOM STRUCT ALGOR, V54, P499, DOI 10.1002/rsa.20796
+   Frieze A, 2023, Arxiv, DOI arXiv:1901.07139
+   Frieze A, 2020, ELECTRON J COMB, V27, DOI 10.37236/9376
+   FRIEZE AM, 1988, J ALGORITHM, V9, P181, DOI 10.1016/0196-6774(88)90037-5
+   Glebov R., 2013, On Hamilton cycles and other spanning structures
+   KOMLOS J, 1983, DISCRETE MATH, V43, P55, DOI 10.1016/0012-365X(83)90021-3
+   Korshunov A.D., 1976, SOV MATH DOKL, V17, P760
+   Krivelevich M, 2014, P LOND MATH SOC, V109, P161, DOI 10.1112/plms/pdu003
+   MCDIARMID C, 1983, ADV APPL PROBAB, V15, P149, DOI 10.2307/1426987
+   Montgomery R, 2020, COMB PROBAB COMPUT, V29, P900, DOI 10.1017/S0963548320000140
+   Montgomery R, 2019, ADV MATH, V356, DOI 10.1016/j.aim.2019.106793
+   POSA L, 1976, DISCRETE MATH, V14, P359, DOI 10.1016/0012-365X(76)90068-6
+   SPENCER J, 1977, DISCRETE MATH, V20, P69, DOI 10.1016/0012-365X(77)90044-9
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 MAY 15
+PY 2024
+DI 10.1002/rsa.21217
+EA MAY 2024
+PG 41
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA QR8L8
+UT WOS:001222688500001
+OA Green Accepted
+DA 2024-08-05
+ER
+
+PT J
+AU Heckel, A
+   Kaufmann, M
+   Müller, N
+   Pasch, M
+AF Heckel, Annika
+   Kaufmann, Marc
+   Mueller, Noela
+   Pasch, Matija
+TI The hitting time of clique factors
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE clique factor; hitting time; hypergraphs; perfect matching; random
+   graphs
+ID PERFECT MATCHINGS
+AB In [Trans. Am. Math. Soc. 375 (2022), no. 1, 627-668], Kahn gave the strongest possible, affirmative, answer to Shamir's problem, which had been open since the late 1970s: Let r >= 3 and let n be divisible by r. Then, in the random r-uniform hypergraph process on vertices, as soon as the last isolated vertex disappears, a perfect matching emerges. In the present work, we prove the analogue of this result for clique factors in the random graph process: at the time that the last vertex joins a copy of the complete graph K-r, the random graph process contains a K-r-factor. Our proof draws on a novel sequence of couplings which embeds the random hypergraph process into the cliques of the random graph process. An analogous result is proved for clique factors in the s-uniform hypergraph process (s >= 3).
+C1 [Heckel, Annika] Uppsala Univ, Matemat Inst, Uppsala, Sweden.
+   [Kaufmann, Marc] Swiss Fed Inst Technol, Inst Theoret Informat, CH-8092 Zurich, Switzerland.
+   [Mueller, Noela] Eindhoven Univ Technol, Dept Math & Comp Sci, Eindhoven, Netherlands.
+   [Pasch, Matija] Ludwig Maximilians Univ Munchen, Math Inst, Munich, Germany.
+C3 Uppsala University; Swiss Federal Institutes of Technology Domain; ETH
+   Zurich; Eindhoven University of Technology; University of Munich
+RP Kaufmann, M (corresponding author), Swiss Fed Inst Technol, Inst Theoret Informat, CH-8092 Zurich, Switzerland.
+EM marc.kaufmann@inf.ethz.ch
+OI Pasch, Matija/0000-0003-2389-6586
+FU Vetenskapsrdet [772606-PTRCSP]; European Research Council, ERC
+   [2022-02829]; Swedish Research Council [200021_192079]; Swiss National
+   Science Foundation [024.002.003]; NWO Gravitation project NETWORKS;
+   Eidgenossische Technische Hochschule Zurich; Swiss National Science
+   Foundation (SNF) [200021_192079] Funding Source: Swiss National Science
+   Foundation (SNF)
+FX This project was initiated during the research workshop of Angelika
+   Steger's group in Buchboden, August 2021. We are grateful to Oliver
+   Riordan for a helpful discussion. The research leading to these results
+   has received funding from the European Research Council, ERC grant
+   agreement 772606-PTRCSP, and from the Swedish Research Council, Reg. no.
+   2022-02829. The author gratefully acknowledges support by the Swiss
+   National Science Foundation [grant number 200021_192079]. Research
+   supported by NWO Gravitation project NETWORKS under grant no.
+   024.002.003. Open access funding provided by Eidgenossische Technische
+   Hochschule Zurich.
+CR Alon N., 1993, COMBINATORICS PROBAB, V2, P137
+   Bollobas B., 2006, PERCOLATION, DOI [DOI 10.1017/CBO9781139167383, 10.1017/CBO9781139167383]
+   Bollobas B., 1985, RANDOM GRAPHS SMALL
+   Chung F., 1998, ERDOS GRAPHS HIS LEG
+   Devlin P., 2017, ELECTRON J COMB, V24, P12
+   Dudek A., 2012, ELECTRON J COMB, V19, P17, DOI DOI 10.37236/2523
+   Dudek A, 2011, ELECTRON J COMB, V18
+   ERDOS P, 1966, ACTA MATH ACAD SCI H, V17, P359, DOI 10.1007/BF01894879
+   ERDOS P, 1981, COMBINATORICA, V1, P25, DOI 10.1007/BF02579174
+   Ferber A., 2015, ELECTRON J COMB, V22, P7
+   FRIEZE A, 1995, RANDOM STRUCT ALGOR, V7, P41, DOI 10.1002/rsa.3240070104
+   Heckel A, 2021, RANDOM STRUCT ALGOR, V59, P616, DOI 10.1002/rsa.21013
+   Janson S., 2000, WIL INT S D, DOI 10.1002/9781118032718
+   Johansson A, 2008, RANDOM STRUCT ALGOR, V33, P1, DOI 10.1002/rsa.20224
+   Kahn J., 2019, ASYMPTOTICS SHAMIRS
+   Kahn J, 2022, T AM MATH SOC, V375, P627, DOI 10.1090/tran/8508
+   Kalapala V., 2008, CHIC J THEORET COMPU, P5
+   Kim JH, 2003, RANDOM STRUCT ALGOR, V23, P111, DOI 10.1002/rsa.10093
+   Krivelevich M., 1997, Combinatorics, Probability and Computing, V6, P337, DOI 10.1017/S0963548397003106
+   Moore C, 2016, ANN I H POINCARE D, V3, P349, DOI 10.4171/AIHPD/31
+   Panagiotou K., 2023, ARXIV
+   Panagiotou K., 2019, SATISFIABILITY THRES
+   Petersen Julius, 1891, Acta Math, V15, P193, DOI [10.1007/BF02392606, DOI 10.1007/BF02392606]
+   Petrova K., 2022, TRANSFERENCE LOOSE H
+   Poole D, 2015, ELECTRON J COMB, V22
+   Riordan O, 2022, RANDOM STRUCT ALGOR, V61, P619, DOI 10.1002/rsa.21111
+   RUCINSKI A, 1992, DISCRETE MATH, V105, P185, DOI 10.1016/0012-365X(92)90141-2
+   SCHMIDT J, 1983, DISCRETE MATH, V45, P287, DOI 10.1016/0012-365X(83)90044-4
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD SEP
+PY 2024
+VL 65
+IS 2
+BP 275
+EP 312
+DI 10.1002/rsa.21218
+EA MAR 2024
+PG 38
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ZC4O2
+UT WOS:001193898400001
+OA Green Submitted, Green Published, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Ding, J
+   Du, H
+   Gong, SY
+AF Ding, Jian
+   Du, Hang
+   Gong, Shuyang
+TI A polynomial-time approximation scheme for the maximal overlap of two
+   independent Erdős-Rényi graphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE greedy algorithm; polynomial-time approximation scheme; random graph
+   matching
+AB For two independent Erdos-Renyi graphs G(n,p)$$ \mathbf{G}\left(n,p\right) $$, we study the maximal overlap (i.e., the number of common edges) of these two graphs over all possible vertex correspondence. We present a polynomial-time algorithm which finds a vertex correspondence whose overlap approximates the maximal overlap up to a multiplicative factor that is arbitrarily close to 1. As a by-product, we prove that the maximal overlap is asymptotically n2 alpha-1$$ \frac{n}{2\alpha -1} $$ for p=n-alpha$$ p={n}<^>{-\alpha } $$ with some constant alpha is an element of(1/2,1)$$ \alpha \in \left(1/2,1\right) $$.
+C1 [Ding, Jian; Gong, Shuyang] Peking Univ, Sch Math Sci, Beijing, Peoples R China.
+   [Du, Hang] MIT, Dept Math, Cambridge, MA USA.
+C3 Peking University; Massachusetts Institute of Technology (MIT)
+RP Ding, J (corresponding author), Peking Univ, Sch Math Sci, Beijing, Peoples R China.
+EM dingjian@math.pku.edu.cn
+OI Gong, Shuyang/0009-0007-2975-4614
+FU National Natural Science Foundation of China
+FX We thank anonymous reviewers for their careful reading and helpful
+   comments.
+CR Abbe E, 2018, J MACH LEARN RES, V18
+   Arora S, 1996, AN S FDN CO, P21, DOI 10.1109/SFCS.1996.548460
+   Bandeira AS, 2018, PORT MATH, V75, P159, DOI 10.4171/PM/2014
+   Barak B, 2019, ADV NEUR IN, V32
+   Berg AC, 2005, PROC CVPR IEEE, P26
+   Bozorg M., SEEDLESS GRAPH MATCH
+   Cour T., 2006, Advances in Neural Information Processing Systems, V19
+   Cullina D., EXACT ALIGNMENT RECO
+   Cullina D., 2020, 2020 SIGMETRICS PERF, P99
+   Cullina D, 2016, SIGMETRICS/PERFORMANCE 2016: PROCEEDINGS OF THE SIGMETRICS/PERFORMANCE JOINT INTERNATIONAL CONFERENCE ON MEASUREMENT AND MODELING OF COMPUTER SCIENCE, P63, DOI [10.1145/2896377.2901460, 10.1145/2964791.2901460]
+   Dai OE, 2019, P ACM MEAS ANAL COMP, V3, DOI [10.1145/3341617.3326151, 10.1145/3326151]
+   Dembo A, 2017, ANN PROBAB, V45, P1190, DOI 10.1214/15-AOP1084
+   Ding J., LOW DEGREE HARDNESS
+   Ding J., POLYNOMIAL TIME ITER
+   Ding J, 2023, ANN STAT, V51, P1718, DOI 10.1214/23-AOS2305
+   Ding J, 2021, PROBAB THEORY REL, V179, P29, DOI 10.1007/s00440-020-00997-4
+   Ding J, 2023, IEEE T INFORM THEORY, V69, P5289, DOI 10.1109/TIT.2023.3265009
+   Du H., ALGORITHMIC PHASE TR
+   Fan Z, 2023, FOUND COMPUT MATH, V23, P1511, DOI 10.1007/s10208-022-09570-y
+   Fan Z, 2023, FOUND COMPUT MATH, V23, P1567, DOI 10.1007/s10208-022-09575-7
+   Feizi S., SPECTRAL ALIGNMENT N
+   Gamarnik D., LANDSCAPE PLANTED CL
+   Gamarnik D., DISORDERED SYSTEMS I
+   Gamarnik D, 2021, P NATL ACAD SCI USA, V118, DOI 10.1073/pnas.2108492118
+   Ganassali L., STAT LIMITS CORRELAT
+   Ganassali L., 2020, PMLR, P1633
+   Ganassali L., CORRELATION DETECTIO
+   Ganassali L., 2021, PMLR, P2080
+   Haghighi A. Y., 2005, P HUM LANG TECHN C C, P387, DOI DOI 10.3115/1220575.1220624
+   Hall G., PARTIAL RECOVERY GRA
+   Kazemi E, 2015, PROC VLDB ENDOW, V8, P1010, DOI 10.14778/2794367.2794371
+   Kunisky D., NOTES COMPUTATIONAL
+   Lyzinski V, 2014, J MACH LEARN RES, V15, P3513
+   Makarychev K, 2010, LECT NOTES COMPUT SC, V6198, P594, DOI 10.1007/978-3-642-14165-2_50
+   Manurangsi P., 2021, 12 INN THEOR COMP SC, V185, p10:1
+   Mao C., 2023, P 55 ANN ACM S THEOR
+   Mao C., TESTING NETWORK CORR
+   Mao C, 2023, PROBAB THEORY REL, V186, P327, DOI 10.1007/s00440-022-01184-3
+   Mitzenmacher M, 2005, Probability and Computing
+   Montanari A, 2019, ANN IEEE SYMP FOUND, P1417, DOI 10.1109/FOCS.2019.00087
+   Montanari A, 2016, ACM S THEORY COMPUT, P814, DOI 10.1145/2897518.2897548
+   Mossel E, 2020, RANDOM STRUCT ALGOR, V57, P570, DOI 10.1002/rsa.20934
+   Narayanan A, 2008, P IEEE S SECUR PRIV, P111, DOI 10.1109/SP.2008.33
+   Narayanan A, 2009, P IEEE S SECUR PRIV, P173, DOI 10.1109/SP.2009.22
+   Nenadov R., 2021, 12 INN THEOR COMP SC, V185
+   Pardalos P. M., 1994, Quadratic Assignment and Related Problems. DIMACS Workshop, P1
+   Pedarsani M., 2011, P 17 ACM SIGKDD INT, P1235
+   Piccioli G, 2022, J STAT MECH-THEORY E, V2022, DOI 10.1088/1742-5468/ac70d2
+   Racz M.Z., 2021, Advances in Neural Information Processing Systems (NIPS), P22259
+   Rácz MZ, 2022, ANN APPL PROBAB, V32, P1058, DOI 10.1214/21-AAP1703
+   Raghavendra Prasad, 2018, P INT C MATHEMATICIA, P3389, DOI DOI 10.1142/9789813272880_0186
+   SAHNI S, 1976, J ACM, V23, P555, DOI 10.1145/321958.321975
+   Shirani F, 2017, CONF REC ASILOMAR C, P253, DOI 10.1109/ACSSC.2017.8335178
+   Singh R, 2008, P NATL ACAD SCI USA, V105, P12763, DOI 10.1073/pnas.0806627105
+   SPENCER J, 1990, J COMB THEORY A, V55, P247, DOI 10.1016/0097-3165(90)90070-D
+   Subag E, 2021, COMMUN PUR APPL MATH, V74, P1021, DOI 10.1002/cpa.21922
+   Vogelstein JT, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0121002
+   Wang H., RANDOM GRAPH MATCHIN
+   Wu Y., 2021, STAT PROBLEMS PLANTE, P383
+   Wu YH, 2023, ANN APPL PROBAB, V33, P2519, DOI 10.1214/22-AAP1786
+   Wu YH, 2022, IEEE T INFORM THEORY, V68, P5391, DOI 10.1109/TIT.2022.3169005
+   Yartseva M., 2013, P 1 ACM C ONL SOC NE, P119
+   Yu L., 2021, J MACH LEARN RES, V22
+   Zdeborová L, 2016, ADV PHYS, V65, P453, DOI 10.1080/00018732.2016.1211393
+NR 64
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD AUG
+PY 2024
+VL 65
+IS 1
+BP 220
+EP 257
+DI 10.1002/rsa.21212
+EA MAR 2024
+PG 38
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UM5S4
+UT WOS:001179592600001
+DA 2024-08-05
+ER
+
+PT J
+AU Samorodnitsky, A
+AF Samorodnitsky, Alex
+TI Weight distribution of random linear codes and Krawtchouk polynomials
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE Krawtchouk polynomials; random linear codes; weight distribution
+AB For 0 < lambda < 1 and n -> infinity pick uniformly at random lambda n vectors in {0, 1}(n) and let C be the orthogonal complement of their span. Given 0 < gamma < 1/2 with 0 < lambda < h(gamma), let X be the random variable that counts the number of words in C of Hamming weight i = gamma n (where i is assumed to be an even integer). Linial and Mosheiff [Random Struct. Algorithms. 62 (2023), 68U-130] determined the asymptotics of the moments of X of all orders o(n/log n). In this paper we extend their estimates up to moments of linear order. Our key observation is that the behavior of the suitably normalized kth moment of X is essentially determined by the kth norm of the Krawtchouk polynomial K-i.
+C1 [Samorodnitsky, Alex] Hebrew Univ Jerusalem, Sch Engn & Comp Sci, Jerusalem, Israel.
+   [Samorodnitsky, Alex] Hebrew Univ Jerusalem, Sch Comp Sci & Engn, IL-91904 Jerusalem, Israel.
+C3 Hebrew University of Jerusalem; Hebrew University of Jerusalem
+RP Samorodnitsky, A (corresponding author), Hebrew Univ Jerusalem, Sch Comp Sci & Engn, IL-91904 Jerusalem, Israel.
+EM salex@cs.huji.ac.il
+CR [Anonymous], 1968, Information theory and reliable communication
+   Coja-Oghlan A, 2023, RANDOM STRUCT ALGOR, V62, P68, DOI 10.1002/rsa.21085
+   Haim E, 2017, IEEE T INFORM THEORY, V63, P5, DOI 10.1109/TIT.2016.2515720
+   Hardy GH, 1988, Inequalities
+   Kirshner N, 2021, IEEE T INFORM THEORY, V67, P3509, DOI 10.1109/TIT.2021.3071597
+   KORNER J, 1979, IEEE T INFORM THEORY, V25, P219, DOI 10.1109/TIT.1979.1056022
+   Linial N, 2020, RANDOM STRUCT ALGOR, V56, P5, DOI 10.1002/rsa.20879
+   MacWilliams F. J., 1977, The theory of error-correcting codes. II
+   MCELIECE RJ, 1977, IEEE T INFORM THEORY, V23, P157, DOI 10.1109/TIT.1977.1055688
+   Mosheiff J., 2022, COMMUNICATION
+   O'Donnel R., 2014, ANAL BOOLEAN FUNCTIO
+   van Lint J. H., 1999, INTRO CODING THEORY, V86
+   van Lint J.H., 2001, A Course in Combinatorics, V2
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD SEP
+PY 2024
+VL 65
+IS 2
+BP 261
+EP 274
+DI 10.1002/rsa.21214
+EA MAR 2024
+PG 14
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA ZC4O2
+UT WOS:001185633500001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Draganic, N
+   Methuku, A
+   Correia, DM
+   Sudakov, B
+AF Draganic, Nemanja
+   Methuku, Abhishek
+   Correia, David Munha
+   Sudakov, Benny
+TI Cycles with many chords
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE chords; cycles; random walks
+AB How many edges in an n$$ n $$-vertex graph will force the existence of a cycle with as many chords as it has vertices? Almost 30 years ago, Chen, Erdos and Staton considered this question and showed that any n$$ n $$-vertex graph with 2n3/2$$ 2{n}<^>{3/2} $$ edges contains such a cycle. We significantly improve this old bound by showing that omega(nlog8n)$$ \Omega \left(n\kern0.2em {\log}<^>8n\right) $$ edges are enough to guarantee the existence of such a cycle. Our proof exploits a delicate interplay between certain properties of random walks in almost regular expanders. We argue that while the probability that a random walk of certain length in an almost regular expander is self-avoiding is very small, one can still guarantee that it spans many edges (and that it can be closed into a cycle) with large enough probability to ensure that these two events happen simultaneously.
+C1 [Draganic, Nemanja; Methuku, Abhishek; Correia, David Munha; Sudakov, Benny] ETH, Dept Math, Zurich, Switzerland.
+   [Draganic, Nemanja] Univ Oxford, Math Inst, Oxford, England.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich; University of
+   Oxford
+RP Draganic, N (corresponding author), ETH, Dept Math, Zurich, Switzerland.
+EM nemanja.draganic@maths.ox.ac.uk
+RI Methuku, Abhishek/KBB-3122-2024
+OI Draganic, Nemanja/0000-0002-1102-3449
+FU Schweizerischer Nationalfonds zur Frderung der Wissenschaftlichen
+   Forschung
+FX We would like to thank Zachary Hunter and the referees for helpful
+   comments and for carefully reading our article.
+CR Bollobas B., 1978, PROBL MES COMBINATOI, P49
+   Bucic M, 2022, FORUM MATH SIGMA, V10, DOI 10.1017/fms.2022.42
+   Bucic M, 2020, ISR J MATH, V238, P663, DOI 10.1007/s11856-020-2035-7
+   Chen GT, 1996, J COMB THEORY B, V66, P38, DOI 10.1006/jctb.1996.0005
+   Erdos P., 1975, C NUMERANTIUM, P169
+   Fernandez I., 2022, PROC AM MATH SOC SER, V9, P22, DOI [10.1090/bproc/107, DOI 10.1090/BPROC/107]
+   Fernández IG, 2023, J COMB THEORY B, V162, P13, DOI 10.1016/j.jctb.2023.04.004
+   Janzer O, 2023, FORUM MATH PI, V11, DOI 10.1017/fmp.2023.19
+   Jiang T, 2024, RANDOM STRUCT ALGOR, V64, P625, DOI 10.1002/rsa.21186
+   Liu H, 2023, J AM MATH SOC, V36, P1191, DOI 10.1090/jams/1018
+   Lovasz L., 1993, Combinatorics, Paul erdos is eighty, V1, P1
+   Pak I, 2002, SIAM PROC S, P321
+   THOMASSEN C, 1983, J COMB THEORY B, V35, P129, DOI 10.1016/0095-8956(83)90067-9
+   Thomassen C., 1989, Ann. N. Y. Acad. Sci., V555, P402
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD AUG
+PY 2024
+VL 65
+IS 1
+BP 3
+EP 16
+DI 10.1002/rsa.21207
+EA JAN 2024
+PG 14
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UM5S4
+UT WOS:001139772700001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Black, H
+   Kalemaj, I
+   Raskhodnikova, S
+AF Black, Hadley
+   Kalemaj, Iden
+   Raskhodnikova, Sofya
+TI Isoperimetric inequalities for real-valued functions with applications
+   to monotonicity testing
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE isoperimetric inequalities; monotonicity testing; property testing
+ID LOWER BOUNDS; PROPERTY; DISTANCE
+AB We generalize the celebrated isoperimetric inequality of Khot, Minzer, and Safra (SICOMP 2018) for Boolean functions to the case of real-valued functions f:{0,1}d -> Double-struck capital R$$ f:{\left\{0,1\right\}}<^>d\to \mathbb{R} $$. Our main tool in the proof of the generalized inequality is a new Boolean decomposition that represents every real-valued function f$$ f $$ over an arbitrary partially ordered domain as a collection of Boolean functions over the same domain, roughly capturing the distance of f$$ f $$ to monotonicity and the structure of violations of f$$ f $$ to monotonicity. We apply our generalized isoperimetric inequality to improve algorithms for testing monotonicity and approximating the distance to monotonicity for real-valued functions. Our tester for monotonicity has query complexity O similar to(min(rd,d))$$ \tilde{O}\left(\min \left(r\sqrt{d},d\right)\right) $$, where r$$ r $$ is the size of the image of the input function. (The best previously known tester makes O(d)$$ O(d) $$ queries, as shown by Chakrabarty and Seshadhri (STOC 2013).) Our tester is nonadaptive and has 1-sided error. We prove a matching lower bound for nonadaptive, 1-sided error testers for monotonicity. We also show that the distance to monotonicity of real-valued functions that are alpha$$ \alpha $$-far from monotone can be approximated nonadaptively within a factor of O(dlogd)$$ O\left(\sqrt{d\log d}\right) $$ with query complexity polynomial in 1/alpha$$ 1/\alpha $$ and the dimension d$$ d $$. This query complexity is nearly optimal for nonadaptive algorithms even for the special case of Boolean functions (The best previously known distance approximation algorithm for real-valued functions, by Fattal and Ron (TALG 2010) achieves O(dlogr)$$ O\left(d\log r\right) $$-approximation.).
+C1 [Black, Hadley] UCLA, Dept Comp Sci, Los Angeles, CA USA.
+   [Kalemaj, Iden; Raskhodnikova, Sofya] Boston Univ, Dept Comp Sci, Boston, MA USA.
+   [Black, Hadley] Univ Calif San Diego, San Diego, CA 92093 USA.
+C3 University of California System; University of California Los Angeles;
+   Boston University; University of California System; University of
+   California San Diego
+RP Black, H (corresponding author), Univ Calif San Diego, San Diego, CA 92093 USA.
+EM hablack@ucsd.edu
+OI Black, Hadley/0009-0008-9662-2870
+FU National Science Foundation [CCF-1909612]; NSF; Boston University's Data
+   Science Initiative; Boston University's Dean's Fellowship
+FX This work was supported by NSF grant CCF-1553605, CCF-1909612 and Boston
+   University's Data Science Initiative. This work was supported by NSF
+   award CCF-1909612 and Boston University's Dean's Fellowship.
+CR Ailon N, 2007, RANDOM STRUCT ALGOR, V31, P371, DOI 10.1002/rsa.20167
+   Ailon N, 2006, INFORM COMPUT, V204, P1704, DOI 10.1016/j.ic.2006.06.001
+   Baleshzar R, 2020, THEOR COMPUT, V16, DOI 10.4086/toc.2020.v016a003
+   Batu T, 2005, INFORM COMPUT, V196, P42, DOI 10.1016/j.ic.2004.10.001
+   Belovs A., 2018, APPROXIMATION RANDOM, p31:1
+   Belovs A, 2016, ACM S THEORY COMPUT, P1021, DOI 10.1145/2897518.2897567
+   Bhattacharyya A, 2012, SIAM J COMPUT, V41, P1380, DOI 10.1137/110826655
+   Black H., 2023, P INT C AUT LANG PRO, V261, p25:1
+   Black H., 2023, P IEEE S FDN COMP SC
+   Black H, 2023, PROCEEDINGS OF THE 55TH ANNUAL ACM SYMPOSIUM ON THEORY OF COMPUTING, STOC 2023, P233, DOI 10.1145/3564246.3585167
+   Black H, 2020, PROCEEDINGS OF THE THIRTY-FIRST ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS (SODA'20), P1975
+   Black H, 2018, SODA'18: PROCEEDINGS OF THE TWENTY-NINTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P2133
+   Blais E, 2014, ANN IEEE CONF COMPUT, P309, DOI 10.1109/CCC.2014.38
+   Blais E, 2012, COMPUT COMPLEX, V21, P311, DOI 10.1007/s00037-012-0040-x
+   Braverman M., 2023, P INN THEOR COMP SCI, p25:1
+   Briët J, 2012, COMBINATORICA, V32, P35, DOI 10.1007/s00493-012-2765-1
+   Chakrabarty D, 2016, SIAM J COMPUT, V45, P461, DOI 10.1137/13092770X
+   Chakrabarty D., 2019, P INN THEOR COMP SCI, p20:1
+   Chakrabarty D., 2014, THEORY COMPUT, V10, P453, DOI DOI 10.4086/TOC.2014.V010A017
+   Chakrabarty D, 2017, ACM T ALGORITHMS, V13, DOI 10.1145/3039241
+   Chakrabarty D, 2013, STOC'13: PROCEEDINGS OF THE 2013 ACM SYMPOSIUM ON THEORY OF COMPUTING, P419
+   Chen X, 2017, ACM S THEORY COMPUT, P523, DOI 10.1145/3055399.3055461
+   Chen X, 2015, ACM S THEORY COMPUT, P519, DOI 10.1145/2746539.2746570
+   Chen X, 2014, ANN IEEE SYMP FOUND, P286, DOI 10.1109/FOCS.2014.38
+   Dixit K, 2018, SIAM J COMPUT, V47, P295, DOI 10.1137/16M1075661
+   Dodis Y., 1999, Randomization, Approximation, and Combinatorial Optimization. Algorithms and Techniques. Third International Workshop on Radomization and Approximation Techniques in Computer Science, and Second International Workshop on Approximation Algorithms for Combinatorial Optimization Problems RANDOM-APPROX'99. Proceedings (Lecture Notes in Computer Science Vol.1671), P97
+   Ergün F, 2000, J COMPUT SYST SCI, V60, P717, DOI 10.1006/jcss.1999.1692
+   Fattal S, 2010, ACM T ALGORITHMS, V6, DOI 10.1145/1798596.1798605
+   Fischer E, 2004, INFORM COMPUT, V189, P107, DOI 10.1016/j.ic.2003.09.003
+   Fischer E., 2002, P 34 ANN ACM S THEOR, P474, DOI DOI 10.1145/509907.509977
+   Goldreich O, 2000, COMBINATORICA, V20, P301, DOI 10.1007/s004930070011
+   Halevy S, 2008, RANDOM STRUCT ALGOR, V33, P44, DOI 10.1002/rsa.20211
+   Khot S, 2018, SIAM J COMPUT, V47, P2238, DOI 10.1137/16M1065872
+   Lehman E, 2001, J COMB THEORY A, V94, P399, DOI 10.1006/jcta.2000.3148
+   Margulis G. A., 1974, Problemy Peredachi Informatsii, V10, P101
+   Pallavoor RKS, 2022, RANDOM STRUCT ALGOR, V60, P233, DOI 10.1002/rsa.21029
+   Pallavoor RKS, 2018, ACM T COMPUT THEORY, V9, DOI 10.1145/3155296
+   Parnas M, 2006, J COMPUT SYST SCI, V72, P1012, DOI 10.1016/j.jcss.2006.03.002
+   Raskhodnikova S., 1999, THESIS MIT CAMBRIDGE
+   Suresh R. K. P., 2020, THESIS BOSTON U BOST
+   Talagrand M., 1993, GEOM FUNCT ANAL, V3, P295
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD AUG
+PY 2024
+VL 65
+IS 1
+BP 191
+EP 219
+DI 10.1002/rsa.21211
+EA FEB 2024
+PG 29
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UM5S4
+UT WOS:001178053400001
+OA Green Submitted, Green Published
+DA 2024-08-05
+ER
+
+PT J
+AU Allen, P
+   Boettcher, J
+   Corsten, J
+   Davies, E
+   Jenssen, M
+   Morris, P
+   Roberts, B
+   Skokan, J
+AF Allen, Peter
+   Boettcher, Julia
+   Corsten, Jan
+   Davies, Ewan
+   Jenssen, Matthew
+   Morris, Patrick
+   Roberts, Barnaby
+   Skokan, Jozef
+TI A robust Corradi-Hajnal theorem
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE clique factors; extremal graph theory; random graphs; robustness
+ID HAMILTONIAN CYCLES; GRAPHS; THRESHOLD
+AB For a graph G and p is an element of[0,1], we denote by G(p) the random sparsification of G obtained by keeping each edge of G independently, with probability p. We show that there exists a C>0 such that if p >= C(log n)(1/3)n(-2/3) and Gisann-vertex graph with n is an element of 3 N and delta(G) >= 2n/3, then with high probability G(p) contains a triangle factor. Both the minimum degree condition and the probability condition, up to the choice of C, are tight. Our result can be viewed as a common strengthening of the seminal theorems of Corradiand Hajnal, which deals with the extremal minimum degree condition for containing triangle factors (corresponding to p=1 in our result), and Johansson, Kahn and Vu, which deals with the threshold for the appearance of a triangle factor in G(n,p) (corresponding to G=K-n in our result). It also implies a lower bound on the number of triangle factors in graphs with minimum degree at least 2n/3 which gets close to the truth.
+C1 [Allen, Peter; Boettcher, Julia; Corsten, Jan; Roberts, Barnaby; Skokan, Jozef] London Sch Econ & Polit Sci LSE, Dept Math, London, England.
+   [Davies, Ewan] Colorado State Univ, Dept Comp Sci, Ft Collins, CO USA.
+   [Jenssen, Matthew] Kings Coll London, Dept Math, London, England.
+   [Morris, Patrick] Univ Politecn Catalunya UPC, Dept Math, Barcelona, Spain.
+   [Morris, Patrick] Univ Politecn Catalunya UPC, Dept Math, Barcelona 08034, Spain.
+C3 University of London; London School Economics & Political Science;
+   Colorado State University; University of London; King's College London;
+   Universitat Politecnica de Catalunya; Universitat Politecnica de
+   Catalunya
+RP Morris, P (corresponding author), Univ Politecn Catalunya UPC, Dept Math, Barcelona 08034, Spain.
+EM pmorrismaths@gmail.com
+RI Skokan, Jozef/KIB-6755-2024
+OI Skokan, Jozef/0000-0003-3996-7676; Morris, Patrick/0000-0001-9359-0748
+FU Deutsche Forschungsgemeinschaft
+FX The authors would like to thank Yoshiharu Kohayakawa for insightful
+   discussions leading to this project. Additionally, the sixth author
+   would like to thank Michael Anastos, Shagnik Das, and Jie Han for
+   enlightening conversations about this paper and related results.
+   Finally, we thank the anonymous reviewer for their suggestions.
+CR AIGNER M, 1993, J LOND MATH SOC, V48, P39, DOI 10.1112/jlms/s2-48.1.39
+   Allen P., 2016, BLOW UP LEMMAS SPARS
+   Allen P., SHAMIRS PROBLE UNPUB
+   Alon N, 1996, DISCRETE MATH, V152, P13, DOI 10.1016/0012-365X(95)00242-O
+   Alon N., 2016, The probabilistic method, Vfourth
+   Alon Y, 2022, SIAM J DISCRETE MATH, V36, P728, DOI 10.1137/20M1375838
+   BOLLOBAS B, 1978, J COMB THEORY B, V25, P105, DOI 10.1016/0095-8956(78)90030-8
+   Catlin P. A., 1976, EMBEDDINGS SUBGRAPHS
+   CHERNOFF H, 1952, ANN MATH STAT, V23, P493, DOI 10.1214/aoms/1177729330
+   CHVATAL V, 1979, DISCRETE MATH, V25, P285, DOI 10.1016/0012-365X(79)90084-0
+   Corradi K., 1963, Acta Mathematica Hungarica, V14, P423
+   Csaba B, 2003, COMBINATORICA, V23, P35, DOI 10.1007/s00493-003-0013-4
+   Cuckler B, 2009, COMBINATORICA, V29, P299, DOI 10.1007/s00493-009-2360-2
+   Dirac G.A., 1952, Proc. London Math. Soc., Vs3-2, P69, DOI DOI 10.1112/PLMS/S3-2.1.69
+   Ferber A, 2019, T AM MATH SOC, V372, P4239, DOI 10.1090/tran/7727
+   Fischer M., 2016, ROBUSTNESS POSAS CON
+   Frankston K, 2021, ANN MATH, V194, P475, DOI 10.4007/annals.2021.194.2.2
+   Galvin D., 2014, 3 TUTORIAL LECT ENTR
+   Hajnal A., 1970, Combinatorial theory and its applications, V2, P601
+   HOEFFDING W, 1963, J AM STAT ASSOC, V58, P13, DOI 10.2307/2282952
+   Janson S., 1990, RANDOM STRUCT ALGOR, V1, P221
+   Janson S., 2000, WIL INT S D, DOI 10.1002/9781118032718
+   Johansson A, 2008, RANDOM STRUCT ALGOR, V33, P1, DOI 10.1002/rsa.20224
+   Johansson T, 2020, RANDOM STRUCT ALGOR, V57, P132, DOI 10.1002/rsa.20916
+   Kahn J., 2019, ASYMPTOTICS SHAMIRS
+   Kahn J, 2022, T AM MATH SOC, V375, P627, DOI 10.1090/tran/8508
+   Kahn J, 2021, P AM MATH SOC, V149, P3201, DOI 10.1090/proc/15419
+   Kim JH, 2000, COMBINATORICA, V20, P417, DOI 10.1007/s004930070014
+   Komlos J, 1996, BOLYAI MATH STUD, V2, P295
+   Komlos J., 1998, ANN COMB, V2, P43
+   KORSHUNOV AD, 1976, DOKL AKAD NAUK SSSR+, V228, P529
+   Krivelevich M, 2014, T AM MATH SOC, V366, P3095
+   Nash-Williams C. S. J. A., 1970, COMBINATORIAL THEORY, P813
+   Pham H., 2022, TOOLKIT ROBUST THRES
+   POSA L, 1976, DISCRETE MATH, V14, P359, DOI 10.1016/0012-365X(76)90068-6
+   Riordan O, 2000, COMB PROBAB COMPUT, V9, P125, DOI 10.1017/S0963548399004150
+   Riordan O, 2022, RANDOM STRUCT ALGOR, V61, P619, DOI 10.1002/rsa.21111
+   Sárközy GN, 2003, DISCRETE MATH, V265, P237, DOI 10.1016/S0012-365X(02)00582-4
+   Sileikis M., 2019, COUNTING EXTENSIONS
+   Skala M., 2013, HYPERGEOMETRIC TAIL
+   SPENCER J, 1990, J COMB THEORY A, V55, P247, DOI 10.1016/0097-3165(90)90070-D
+   Sudakov B, 2017, LOND MATH S, V440, P372
+   Szemeredi E., 1978, PROBLEMES COMBINATOI, V260, P399
+NR 43
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD AUG
+PY 2024
+VL 65
+IS 1
+BP 61
+EP 130
+DI 10.1002/rsa.21209
+EA FEB 2024
+PG 70
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UM5S4
+UT WOS:001160692800001
+OA Green Accepted, Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Alon, N
+AF Alon, Noga
+TI Connectivity graph-codes
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE connectivity; error correcting codes; expanders; graph codes
+AB The symmetric difference of two graphs G(1), G(2) on the same set of vertices V is the graph on V whose set of edges are all edges that belong to exactly one of the two graphs G(1), G(2). For a fixed graph H call a collection. of spanning sub-graphs of H a connectivity code for H if the symmetric difference of any two distinct subgraphs in. is a connected spanning subgraph of H. It is easy to see that the maximum possible cardinality of such a collection is at most 2(k'(H)) <= 2(delta(H)), where k'(H) is the edge-connectivity of H and delta(H) is its minimum degree. We show that equality holds for any d-regular (mild) expander, and observe that equality does not hold in several natural examples including any large cubic graph, the square of a long cycle and products of a small clique with a long cycle.
+C1 [Alon, Noga] Princeton Univ, Dept Math, Princeton, NJ USA.
+   [Alon, Noga] Tel Aviv Univ, Dept Math, Tel Aviv, Israel.
+   [Alon, Noga] Princeton Univ, Princeton, NJ 08544 USA.
+C3 Princeton University; Tel Aviv University; Princeton University
+RP Alon, N (corresponding author), Princeton Univ, Princeton, NJ 08544 USA.
+EM nalon@math.princeton.edu
+RI Alon, Noga/GOV-5970-2022
+OI Alon, Noga/0000-0003-1332-4883
+FU National Science Foundation
+FX I thank Jie Ma for helpful discussions.
+CR ALON N, 1985, J COMB THEORY B, V38, P73, DOI 10.1016/0095-8956(85)90092-9
+   ALON N, 1991, RANDOM STRUCT ALGOR, V2, P367, DOI 10.1002/rsa.3240020403
+   Alon N., 2016, The probabilistic method, Vfourth
+   Alon N, 2024, EUR J COMBIN, V116, DOI 10.1016/j.ejc.2023.103880
+   Alon N, 2023, SIAM J DISCRETE MATH, V37, P379, DOI 10.1137/22M1487989
+   [Anonymous], 2001, Graduate Texts in Mathematics
+   Bai B, 2023, Arxiv, DOI arXiv:2307.08266
+   Bondy J. A., 1976, Graph theory with applications
+   Chiue WS, 1999, APPL MATH COMPUT, V102, P129, DOI 10.1016/S0096-3003(98)10041-3
+   MacWilliams F. J., 1977, The theory of error-correcting codes. II
+   MADER W, 1971, MATH ANN, V191, P21, DOI 10.1007/BF01433466
+   Marcus AW, 2018, SIAM J COMPUT, V47, P2488, DOI 10.1137/16M106176X
+   Nash-Williams C., 1961, Journal of the London Mathematical Society, Vs1-36, P445, DOI [DOI 10.1112/JLMS/S1-36.1.445, 10.1112/jlms/s1-36.1.445]
+   Petersen Julius, 1891, Acta Math, V15, P193, DOI [10.1007/BF02392606, DOI 10.1007/BF02392606]
+   PLOTKIN M, 1960, IRE T INFORM THEOR, V6, P445, DOI 10.1109/TIT.1960.1057584
+NR 15
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 APR 23
+PY 2024
+DI 10.1002/rsa.21222
+EA APR 2024
+PG 9
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OG6J8
+UT WOS:001206152700001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Mészáros, A
+AF Meszaros, Andras
+TI Coboundary expansion for the union of determinantal hypertrees
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE coboundary expansion; determinantal hypertree; random simplicial
+   complexes
+ID HOMOLOGICAL CONNECTIVITY; ENUMERATION
+AB We prove that for any large enough constant k$$ k $$, the union of k$$ k $$ independent d$$ d $$-dimensional determinantal hypertrees is a coboundary expander with high probability.
+C1 [Meszaros, Andras] HUN REN Alfred Reny Inst Math, Budapest, Hungary.
+RP Mészáros, A (corresponding author), HUN REN Alfred Reny Inst Math, Budapest, Hungary.
+EM meszaros@renyi.hu
+FU NSERC; KKP [KKP139502]
+FX NSERC; KKP, Grant/Award Number: KKP139502.
+CR ALDOUS DJ, 1990, SIAM J DISCRETE MATH, V3, P450, DOI 10.1137/0403039
+   Ben Hough J, 2006, PROBAB SURV, V3, P206, DOI 10.1214/154957806000000078
+   BRODER A, 1989, ANN IEEE SYMP FOUND, P442, DOI 10.1109/SFCS.1989.63516
+   Evra S., 2024, J. Am. Math. Soc, V37, P39
+   Evra S., 2022, SIAM J. Comput. 51, pFOCS20276
+   Goyal N, 2009, PROCEEDINGS OF THE TWENTIETH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P576
+   Gromov M, 2010, GEOM FUNCT ANAL, V20, P416, DOI 10.1007/s00039-010-0073-8
+   Kahle M, 2022, DISCRETE COMPUT GEOM, V67, P1229, DOI 10.1007/s00454-021-00352-x
+   Kahle M, 2020, EXP MATH, V29, P347, DOI 10.1080/10586458.2018.1473821
+   KALAI G, 1983, ISRAEL J MATH, V45, P337, DOI 10.1007/BF02804017
+   Kaufman T., 2014, Proc. 5th Conf. Innov. Theor. Comput. Sci, P501
+   Kaufman T, 2021, ACM S THEORY COMPUT, P1317, DOI 10.1145/3406325.3451029
+   Linial N, 2006, COMBINATORICA, V26, P475, DOI 10.1007/s00493-006-0027-9
+   Linial N, 2019, RANDOM STRUCT ALGOR, V55, P677, DOI 10.1002/rsa.20841
+   Lubotzky A., 2018, Proc. Int. Congr. Math. Rio de Janeiro 2018, P705
+   Lubotzky A, 2019, DISCRETE COMPUT GEOM, V62, P813, DOI 10.1007/s00454-018-9991-2
+   Lubotzky A, 2015, ADV MATH, V272, P743, DOI 10.1016/j.aim.2014.12.015
+   Lyons R, 2003, PUBL MATH-PARIS, P167
+   Lyons R, 2009, J TOPOL ANAL, V1, P153, DOI 10.1142/S1793525309000072
+   Meshulam R, 2009, RANDOM STRUCT ALGOR, V34, P408, DOI 10.1002/rsa.20238
+   Mészáros A, 2024, Arxiv, DOI arXiv:2404.02308
+   Mészáros A, 2022, T AM MATH SOC, V375, P6127, DOI 10.1090/tran/8711
+   Mészáros A, 2020, T AM MATH SOC, V373, P6529, DOI 10.1090/tran/8127
+   Mszros A., 2023, arXiv
+   Panteleev P, 2022, ACM S THEORY COMPUT, P375, DOI 10.1145/3519935.3520017
+   Vander Werf A, 2022, Arxiv, DOI arXiv:2208.08534
+   Wilson D. B., 1996, Proceedings of the Twenty-Eighth Annual ACM Symposium on the Theory of Computing, P296, DOI 10.1145/237814.237880
+   Wood M. M., Probability theory for random groups arising in number theory. arXiv preprint arXiv:2301.09687
+   Wood MM, 2019, AM J MATH, V141, P383
+   Wood MM, 2017, J AM MATH SOC, V30, P915, DOI 10.1090/jams/866
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 JUL 19
+PY 2024
+DI 10.1002/rsa.21250
+EA JUL 2024
+PG 19
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YW5J6
+UT WOS:001271532700001
+DA 2024-08-05
+ER
+
+PT J
+AU Kortchemski, I
+   Thévenin, P
+AF Kortchemski, Igor
+   Thevenin, Paul
+TI Coupling Bertoin's and Aldous-Pitman's representations of the additive
+   coalescent
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE Brownian excursion; fragmentation; probability; random trees
+ID GALTON-WATSON TREES; CUT-TREE; RANDOM RECORDS; CUTTINGS; NUMBER
+AB We construct a coupling between two seemingly very different constructions of the standard additive coalescent, which describes the evolution of masses merging pairwise at rates proportional to their sums. The first construction, due to Aldous and Pitman, involves the components obtained by logging the Brownian continuum random tree (CRT) by a Poissonian rain on its skeleton as time increases. The second one, due to Bertoin, involves the excursions above its running infimum of a linear-drifted standard Brownian excursion as its drift decreases. Our main tool is the use of an exploration algorithm of the so-called cut-tree of the Brownian CRT, which is a tree that encodes the genealogy of the fragmentation of the CRT.
+C1 [Kortchemski, Igor] Ecole Polytech, Inst Polytech Paris, CMAP, CNRS, Palaiseau, France.
+   [Thevenin, Paul] Univ Vienna, Inst Math, Vienna, Austria.
+C3 Institut Polytechnique de Paris; Ecole Polytechnique; Centre National de
+   la Recherche Scientifique (CNRS); University of Vienna
+RP Thévenin, P (corresponding author), Univ Vienna, Inst Math, Vienna, Austria.
+OI Thevenin, Paul/0009-0006-6441-196X
+CR Addario-Berry L, 2019, ANN I H POINCARE-PR, V55, P1349, DOI 10.1214/18-AIHP921
+   Addario-Berry L, 2014, ANN APPL PROBAB, V24, P2297, DOI 10.1214/13-AAP978
+   Aldous D, 1998, ANN PROBAB, V26, P1703
+   ALDOUS D, 1993, ANN PROBAB, V21, P248, DOI 10.1214/aop/1176989404
+   Aldous D, 2000, PROBAB THEORY REL, V118, P455, DOI 10.1007/PL00008751
+   ALDOUS D, 1991, ANN PROBAB, V19, P1, DOI 10.1214/aop/1176990534
+   [Anonymous], 2006, Random fragmentation and coagulation processes
+   Baur E., 2014, SPRINGER P MATH STAT, P51
+   Bertoin J, 2000, PROBAB THEORY REL, V117, P289, DOI 10.1007/s004400050008
+   Bertoin J, 2015, ANN I H POINCARE-PR, V51, P478, DOI 10.1214/13-AIHP597
+   Bertoin J, 2013, ANN APPL PROBAB, V23, P1469, DOI 10.1214/12-AAP877
+   Bertoin J, 2012, ANN I H POINCARE-PR, V48, P909, DOI 10.1214/11-AIHP435
+   Broutin N., CONVEX MINORANT TREE
+   Broutin N., PRUNING CUT TREES RE
+   Broutin N, 2017, ELECTRON J PROBAB, V22, DOI 10.1214/17-EJP105
+   Broutin N, 2017, BERNOULLI, V23, P2380, DOI 10.3150/16-BEJ813
+   Broutin N, 2016, PROBAB THEORY REL, V166, P515, DOI 10.1007/s00440-015-0665-1
+   Chassaing P, 2001, ANN PROBAB, V29, P1755
+   Dieuleveut D, 2015, ANN APPL PROBAB, V25, P2215, DOI 10.1214/14-AAP1047
+   Drmota M, 2009, RANDOM STRUCT ALGOR, V34, P319, DOI 10.1002/rsa.20233
+   Evans SN, 1998, STOCH PROC APPL, V77, P175, DOI 10.1016/S0304-4149(98)00042-8
+   Feray V., 2018, ANN HENRI LEBESGUE, V1, P149, DOI DOI 10.5802/AHL.5
+   Fill JA, 2006, ALGORITHMICA, V46, P345, DOI 10.1007/s00453-006-0100-1
+   Holmgren C, 2011, ADV APPL PROBAB, V43, P151
+   Holmgren C, 2010, COMB PROBAB COMPUT, V19, P391, DOI 10.1017/S096354830999068X
+   Iksanov A, 2007, ELECTRON COMMUN PROB, V12, P36
+   Janson S, 2006, RANDOM STRUCT ALGOR, V29, P139, DOI 10.1002/rsa.20086
+   Kallenberg O., 2002, FDN MODERN PROBABILI
+   Marckert JF, 2019, RANDOM STRUCT ALGOR, V54, P340, DOI 10.1002/rsa.20775
+   MEIR A, 1974, Mathematical Biosciences, V21, P173, DOI 10.1016/0025-5564(74)90013-3
+   Meir A., 1970, J AUSTR MATH SOC, V11, P313
+   Ojeda G. B., INVARIANCE PRINCIPLE
+   Panholzer A., 2006, QUAEST MATH, V29, P211
+   Pitman J, 1999, ANN PROBAB, V27, P261
+   Thévenin P, 2021, ANN PROBAB, V49, P2416, DOI 10.1214/21-AOP1512
+   Wang M., STABLE TREES MIXINGS
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD AUG
+PY 2024
+VL 65
+IS 1
+BP 17
+EP 45
+DI 10.1002/rsa.21206
+EA JAN 2024
+PG 29
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UM5S4
+UT WOS:001140806500001
+OA hybrid, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Grimmett, GR
+   Li, ZY
+AF Grimmett, Geoffrey R.
+   Li, Zhongyang
+TI Percolation critical probabilities of matching lattice-pairs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article; Early Access
+DE critical probability; hyperbolic plane; matching graph; percolation;
+   site percolation
+ID BOND PERCOLATION
+AB A necessary and sufficient condition is established for the strict inequality pc(G & lowast;)<pc(G)$$ {p}_{\mathrm{c}}\left({G}_{\ast}\right)<{p}_{\mathrm{c}}(G) $$ between the critical probabilities of site percolation on a one-ended, quasi-transitive, plane graph G$$ G $$ and on its matching graph G & lowast;$$ {G}_{\ast } $$. When G$$ G $$ is transitive, strict inequality holds if and only if G$$ G $$ is not a triangulation. The basic approach is the standard method of enhancements, but its implementation has complexity arising from the non-Euclidean (hyperbolic) space, the study of site (rather than bond) percolation, and the generality of the assumption of quasi-transitivity. This result is complementary to the work of the authors ("Hyperbolic site percolation," arXiv:2203.00981) on the equality pu(G)+pc(G & lowast;)=1$$ {p}_{\mathrm{u}}(G)+{p}_{\mathrm{c}}\left({G}_{\ast}\right)=1 $$, where pu$$ {p}_{\mathrm{u}} $$ is the critical probability for the existence of a unique infinite open cluster. It implies for transitive, one-ended G$$ G $$ that pu(G)+pc(G)>= 1$$ {p}_{\mathrm{u}}(G)+{p}_{\mathrm{c}}(G)\ge 1 $$, with equality if and only if G$$ G $$ is a triangulation.
+C1 [Grimmett, Geoffrey R.] Univ Cambridge, Ctr Math Sci, Wilberforce Rd, Cambridge CB3 0WB, England.
+   [Li, Zhongyang] Univ Connecticut, Dept Math, Storrs, CT USA.
+C3 University of Cambridge; University of Connecticut
+RP Grimmett, GR (corresponding author), Univ Cambridge, Ctr Math Sci, Wilberforce Rd, Cambridge CB3 0WB, England.
+EM g.r.grimmett@statslab.cam.ac.uk
+FU National Science Foundation [1608896]; Simons Collaboration Grant
+   [638143]
+FX ZL's research was supported by National Science Foundation grant 1608896
+   and Simons Collaboration Grant 638143.
+CR AIZENMAN M, 1991, J STAT PHYS, V63, P817, DOI 10.1007/BF01029985
+   Babai L, 1997, PROCEEDINGS OF THE EIGHTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P564
+   Balister P, 2014, Arxiv, DOI arXiv:1402.0834
+   Benjamini I, 2001, J AM MATH SOC, V14, P487, DOI 10.1090/S0894-0347-00-00362-3
+   Benjamini I., 1996, Electron. Commun. Probab, V1, P71
+   Broadbent S. R., 1957, Math. Proc. Cam. Phil. Soc, V53, P479
+   Cannon J.W., 1997, Flavors Geometr., V31, P2
+   Duminil-Copin H, 2020, DUKE MATH J, V169, P3539, DOI 10.1215/00127094-2020-0036
+   Easo P, 2023, Arxiv, DOI arXiv:2310.10983
+   Grimmett G., 1999, Grundlehren der mathematischen Wissenschaften Fundamental Principles of Mathematical Sciences
+   Grimmett G. R., 2022, Hyperbolic site percolation
+   Grimmett GR, 2024, Arxiv, DOI arXiv:2402.11059
+   Hopf H., 1944, Comment. Math. Helv, V16, P81, DOI 10.1007/BF02568567
+   Iversen B., 1993, Hyperbolic geometry
+   KESTEN H, 1980, COMMUN MATH PHYS, V74, P41, DOI 10.1007/BF01197577
+   Kesten H., 1982, Percolation theory for mathematicians, V2
+   Lyons Russell, 2017, Probability on trees and networks
+   Menshikov M. V., 1987, Teor. Veroyatnost. i Primenen, V32, P599
+   MOHAR B, 1988, J COMB THEORY B, V44, P29, DOI 10.1016/0095-8956(88)90094-9
+   Mohar B., 2001, JH STUD MATH SCI, DOI 10.56021/9780801866890
+   SYKES MF, 1964, J MATH PHYS, V5, P1117, DOI 10.1063/1.1704215
+   VANDENBERG J, 1981, J MATH PHYS, V22, P152, DOI 10.1063/1.524747
+   WIERMAN JC, 1981, ADV APPL PROBAB, V13, P298, DOI 10.2307/1426685
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD 2024 JUN 14
+PY 2024
+DI 10.1002/rsa.21226
+EA JUN 2024
+PG 25
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UD4O3
+UT WOS:001246112500001
+OA Green Submitted, Green Published
+DA 2024-08-05
+ER
+
+PT J
+AU Archer, E
+   Shalev, M
+AF Archer, Eleanor
+   Shalev, Matan
+TI The GHP scaling limit of uniform spanning trees of dense graphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE graphons; loop erased random walk; random graphs; uniform spanning trees
+ID INEQUALITIES; BOUNDS
+AB We consider dense graph sequences that converge to a connected graphon and prove that the GHP scaling limit of their uniform spanning trees (USTs) is Aldous' Brownian CRT. Furthermore, we are able to extract the precise scaling constant from the limiting graphon. As an example, we can apply this to the scaling limit of the USTs of the Erdos-Renyi sequence (G(n,p))n >= 1$$ {\left(G\left(n,p\right)\right)}_{n\ge 1} $$ for any fixed p is an element of(0,1]$$ p\in \left(0,1\right] $$, and sequences of dense expanders. A consequence of GHP convergence is that several associated quantities of the spanning trees also converge, such as the height, diameter and law of a simple random walk.
+C1 [Archer, Eleanor] Univ Paris Nanterre, Equipe ModalX, F-92000 Nanterre, France.
+   [Shalev, Matan] Tel Aviv Univ, Sch Math Sci, Tel Aviv, Israel.
+C3 Tel Aviv University
+RP Shalev, M (corresponding author), Tel Aviv Univ, Sch Math Sci, Tel Aviv, Israel.
+EM matanshalev@mail.tau.ac.il
+OI Archer, Eleanor/0000-0001-6638-9758
+FU European Research Council [101001124]; ERC [1294/19]; ISF Grant
+   [ANR-19-CE40-0025]; ANR ProGraM Grant; Agence Nationale de la Recherche
+   (ANR) [ANR-19-CE40-0025] Funding Source: Agence Nationale de la
+   Recherche (ANR); European Research Council (ERC) [101001124] Funding
+   Source: European Research Council (ERC)
+FX We would like to thank Asaf Nachmias and Jan Hladky for suggesting to
+   look at graphons and for many helpful comments. We would also like to
+   thank the referees for detailed feedback which greatly improved the
+   presentation of the article. This research is supported by ERC
+   consolidator Grant 101001124 (UniversalMap), and by ISF Grant 1294/19.
+   EA was partially supported by the ANR ProGraM Grant (ANR-19-CE40-0025).
+CR ALDOUS D, 1993, ANN PROBAB, V21, P248, DOI 10.1214/aop/1176989404
+   ALDOUS D, 1991, ANN PROBAB, V19, P1, DOI 10.1214/aop/1176990534
+   Aldous D., 1991, London Mathematical Society Lecture Note Series, P23, DOI [10.1017/CBO9780511662980.003, DOI 10.1017/CBO9780511662980.003]
+   ALON N, 1985, J COMB THEORY B, V38, P73, DOI 10.1016/0095-8956(85)90092-9
+   ALON N, 1986, COMBINATORICA, V6, P83, DOI 10.1007/BF02579166
+   Alon N, 2022, COMB PROBAB COMPUT, V31, P1010, DOI 10.1017/S0963548322000062
+   Archer E, 2024, COMMUN MATH PHYS, V405, DOI 10.1007/s00220-023-04923-2
+   Athreya S, 2016, STOCH PROC APPL, V126, P2527, DOI 10.1016/j.spa.2016.02.009
+   Bollobás B, 2010, ANN PROBAB, V38, P150, DOI 10.1214/09-AOP478
+   Bonferroni C. E., 1936, Pubblicazioni del R Istituto Superiore di Scienze Economiche e Commerciali di Firenze, V8, P3, DOI DOI 10.4135/9781412961288.N455
+   Borgs C, 2008, ADV MATH, V219, P1801, DOI 10.1016/j.aim.2008.07.008
+   Caines PE, 2019, IEEE DECIS CONTR P, P286, DOI 10.1109/CDC40024.2019.9029871
+   Cooper JW, 2018, ADV MATH, V340, P819, DOI 10.1016/j.aim.2018.10.019
+   Giardinà C, 2021, J STAT PHYS, V182, DOI 10.1007/s10955-021-02707-3
+   Glasscock D., 2015, NOT AM MATH SOC, V62
+   Greven A, 2009, PROBAB THEORY REL, V145, P285, DOI 10.1007/s00440-008-0169-3
+   Hladky J, 2018, J STAT PHYS, V173, P502, DOI 10.1007/s10955-017-1933-5
+   HOEFFDING W, 1963, J AM STAT ASSOC, V58, P13, DOI 10.2307/2282952
+   Hutchcroft T, 2018, ANN PROBAB, V46, P1170, DOI 10.1214/17-AOP1203
+   Jerrum M, 2004, ANN APPL PROBAB, V14, P1741, DOI 10.1214/105051604000000639
+   Kirchhoff G., 1847, ANN PHYS CHEM, V148, P497, DOI [DOI 10.1002/ANDP.18471481202, 10.1002/andp.18471481202]
+   Krioukov D, 2016, PHYS REV LETT, V116, DOI 10.1103/PhysRevLett.116.208302
+   LAWLER GF, 1988, T AM MATH SOC, V309, P557, DOI 10.2307/2000925
+   Le Gall JF, 2005, PROBAB SURV, V2, P245, DOI 10.1214/154957805100000140
+   Levin DA., 2017, Markov Chains and Mixing Times, V2, DOI [DOI 10.1090/MBK/107, 10.1090/mbk/107]
+   Lovász L, 2006, J COMB THEORY B, V96, P933, DOI 10.1016/j.jctb.2006.05.002
+   Lyons Russell, 2017, Probability on trees and networks
+   Medvedev GS, 2014, SIAM J MATH ANAL, V46, P2743, DOI 10.1137/130943741
+   Miermont G, 2009, ANN SCI ECOLE NORM S, V42, P725
+   Miermont G, 2008, ANN I H POINCARE-PR, V44, P1128, DOI 10.1214/07-AIHP157
+   PEMANTLE R, 1991, ANN PROBAB, V19, P1559, DOI 10.1214/aop/1176990223
+   Peres Y., 2004, ARXIV
+   Wilson D. B., 1996, Proceedings of the Twenty-Eighth Annual ACM Symposium on the Theory of Computing, P296, DOI 10.1145/237814.237880
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD AUG
+PY 2024
+VL 65
+IS 1
+BP 149
+EP 190
+DI 10.1002/rsa.21213
+EA FEB 2024
+PG 42
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UM5S4
+UT WOS:001173245800001
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Bartha, Z
+   Kolesnik, B
+AF Bartha, Zsolt
+   Kolesnik, Brett
+TI Weakly saturated random graphs
+SO RANDOM STRUCTURES & ALGORITHMS
+LA English
+DT Article
+DE bootstrap percolation; random graph; weak saturation
+ID BOOTSTRAP PERCOLATION; THRESHOLD; SETS
+AB As introduced by Bollobas, a graph G$$ G $$ is weakly H$$ H $$-saturated if the complete graph Kn$$ {K}_n $$ is obtained by iteratively completing copies of H$$ H $$ minus an edge. For all graphs H$$ H $$, we obtain an asymptotic lower bound for the critical threshold pc$$ {p}_c $$, at which point the Erdos-Renyi graph G �n,p is likely to be weakly H$$ H $$-saturated. We also prove an upper bound for pc$$ {p}_c $$, for all H$$ H $$ which are, in a sense, strictly balanced. In particular, we improve the upper bound by Balogh, Bollobas, and Morris for H=Kr$$ H={K}_r $$, and we conjecture that this is sharp up to constants.
+C1 [Bartha, Zsolt] HUN REN Alfred Reny Inst Math, Budapest, Hungary.
+   [Kolesnik, Brett] Univ Oxford, Dept Stat, Oxford, England.
+C3 University of Oxford
+RP Kolesnik, B (corresponding author), Univ Oxford, Dept Stat, Oxford, England.
+EM brett.kolesnik@stats.ox.ac.uk
+OI Bartha, Zsolt/0000-0002-1986-6571
+CR AIZENMAN M, 1988, J PHYS A-MATH GEN, V21, P3801, DOI 10.1088/0305-4470/21/19/017
+   Alon N, 2000, PROBABILISTIC METHOD
+   Angel O, 2021, J STAT PHYS, V185, DOI 10.1007/s10955-021-02819-w
+   Angel O, 2018, ANN APPL PROBAB, V28, P1052, DOI 10.1214/17-AAP1325
+   Balogh J, 2015, J AM MATH SOC, V28, P669
+   Balogh J, 2012, RANDOM STRUCT ALGOR, V41, P413, DOI 10.1002/rsa.20458
+   Balogh J, 2012, T AM MATH SOC, V364, P2667, DOI 10.1090/S0002-9947-2011-05552-2
+   Bartha Z., PREPRINT
+   Bayraktar E, 2022, ELECTRON J COMB, V29, DOI 10.37236/8997
+   Bidgoli M, 2021, GRAPH COMBINATOR, V37, P731, DOI 10.1007/s00373-020-02271-9
+   Bollobas B., 1968, BEITRAGE GRAPHENTHEO, P25
+   CHALUPA J, 1979, J PHYS C SOLID STATE, V12, pL31, DOI 10.1088/0022-3719/12/1/008
+   Conlon D, 2016, ANN MATH, V184, P367, DOI 10.4007/annals.2016.184.2.2
+   Erdos P., 1959, Publicationes Mathematicae, V6, p290. 25, DOI DOI 10.5486/PMD.1959.6.3-4.12
+   Holroyd AE, 2003, PROBAB THEORY REL, V125, P195, DOI 10.1007/s00440-002-0239-x
+   Kalai G., CONVEXITY GRAPH THEO, V87, P189
+   Kolesnik B, 2022, ELECTRON J PROBAB, V27, DOI 10.1214/21-EJP710
+   Peled Y., COMMUNICATION
+   POLLAK M, 1975, PHYS STATUS SOLIDI B, V69, pK15, DOI 10.1002/pssb.2220690138
+   Saxton D, 2015, INVENT MATH, V201, P925, DOI 10.1007/s00222-014-0562-8
+   Schacht M, 2016, ANN MATH, V184, P333, DOI 10.4007/annals.2016.184.2.1
+   SCHONMANN RH, 1992, ANN PROBAB, V20, P174, DOI 10.1214/aop/1176989923
+   Ulam S., 1950, P INT C MATH, P264
+   VANDENBERG J, 1985, J APPL PROBAB, V22, P556, DOI 10.1017/S0021900200029326
+   VANENTER ACD, 1987, J STAT PHYS, V48, P943, DOI 10.1007/BF01019705
+   von Neumann J., 1966, Theory of self-reproducing automata
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1042-9832
+EI 1098-2418
+J9 RANDOM STRUCT ALGOR
+JI Random Struct. Algorithms
+PD AUG
+PY 2024
+VL 65
+IS 1
+BP 131
+EP 148
+DI 10.1002/rsa.21210
+EA FEB 2024
+PG 18
+WC Computer Science, Software Engineering; Mathematics, Applied;
+   Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA UM5S4
+UT WOS:001164074900001
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+EF

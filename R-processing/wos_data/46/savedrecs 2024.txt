@@ -1,0 +1,1245 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wang, ZC
+   Gao, XS
+   Wang, C
+   Cheng, P
+   Chen, JM
+AF Wang, Zichen
+   Gao, Xiangshan
+   Wang, Cong
+   Cheng, Peng
+   Chen, Jiming
+TI Efficient Vertical Federated Unlearning via Fast Retraining
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE Vertical federated learning; federated unlearning; fast retraining
+AB Vertical federated learning (VFL) revolutionizes privacy-preserved collaboration for small businesses that have distinct but complementary feature sets. However, as the scope of VFL expands, the constant entering and leaving of participants and the subsequent exercise of the "right to be forgotten" pose a great challenge in practice. The question of how to efficiently erase one's contribution from the shared model remains largely unexplored in the context of VFL. In this article, we introduce a vertical federated unlearning framework, which integrates model checkpointing techniques with a hybrid, first-order optimization technique. The core concept is to reduce backpropagation time and improve convergence/generalization by combining the advantages of the existing optimizers. We provide in-depth theoretical analysis and time complexity to illustrate the effectiveness of the proposed design. We conduct extensive experiments on six public datasets and demonstrate that our method could achieve up to 6.3x speedup compared to the baseline, with negligible influence on the original learning task.
+C1 [Wang, Zichen; Gao, Xiangshan; Wang, Cong; Cheng, Peng; Chen, Jiming] Zhejiang Univ, Hangzhou, Peoples R China.
+C3 Zhejiang University
+RP Wang, C (corresponding author), Zhejiang Univ, Hangzhou, Peoples R China.
+EM withnorman@zju.edu.cn; corazju@zju.edu.cn; cwang85@zju.edu.cn;
+   saodiseng@gmail.com; cjm@zju.edu.cn
+FU National Key Research and Development Program of China [2022YFE0112600];
+   National Natural Science Foundation of China [62293511, 62394341];
+   Enflame Tech Co. Ltd.
+FX This research was supported in part by the National Key Research and
+   Development Program of China (2022YFE0112600), National Natural Science
+   Foundation of China under Grant 62293511 and 62394341, and Enflame Tech
+   Co. Ltd.
+CR Bourtoule Lucas, 2021, 2021 IEEE Symposium on Security and Privacy (SP), P141, DOI 10.1109/SP40001.2021.00019
+   Chiyuan Zhang, 2017, 5 INT C LEARN REPR I
+   Zeiler MD, 2012, Arxiv, DOI [arXiv:1212.5701, DOI 10.48550/ARXIV.1212.5701]
+   Dai W, 2017, INT CONF ACOUST SPEE, P421, DOI 10.1109/ICASSP.2017.7952190
+   Deng J, 2009, PROC CVPR IEEE, P248, DOI 10.1109/CVPRW.2009.5206848
+   Duchi J, 2011, J MACH LEARN RES, V12, P2121
+   Foret Pierre, INT C LEARN REPR
+   Gao Xiangshan, 2024, IEEE Transactions on Dependable and Secure Computing, P1, DOI [10.1109/TDSC.2024.3382321, DOI 10.1109/TDSC.2024.3382321]
+   Ghazi B, 2021, Arxiv, DOI arXiv:2102.06062
+   Ginart A., 2019, P NEURIPS, P3513
+   Griewank A, 2008, OTHER TITL APPL MATH, V105, P1, DOI 10.1137/1.9780898717761
+   Guo CX, 2019, IEEE I CONF COMP VIS, P3908, DOI 10.1109/ICCV.2019.00401
+   Halimi A, 2023, Arxiv, DOI arXiv:2207.05521
+   Harding E.L., 2019, J. Data Prot. Priv., V2, P234
+   Hardt M, 2016, PR MACH LEARN RES, V48
+   He KM, 2016, PROC CVPR IEEE, P770, DOI 10.1109/CVPR.2016.90
+   Izzo Z., 2021, PROC MACH LEARN RES, P2008
+   Jin X, 2022, Arxiv, DOI arXiv:2110.15122
+   Kang Y, 2024, Arxiv, DOI arXiv:2008.10838
+   Kim J, 2022, IEEE COMPUT SOC CONF, P4360, DOI 10.1109/CVPRW56347.2022.00482
+   Kingma D. P., 2014, arXiv
+   Kornbeck Jacob, 2021, The Right to Be Forgotten: A Comparative Study of the Emergent Right's Evolution and Application in Europe, the Americas, and Asia, V4, P436
+   Krizhevsky A., 2012, Learning multiple layers of features from tiny images, DOI DOI 10.1145/3079856.3080246
+   Kunstner Frederik, 2019, ADV NEURAL INFORM PR, P4158
+   Lecun Y, 1998, P IEEE, V86, P2278, DOI 10.1109/5.726791
+   Li T., 2020, P MACH LEARN SYST ML, V2, P429, DOI DOI 10.48550/ARXIV.1812.06127
+   Li T, 2020, IEEE SIGNAL PROC MAG, V37, P50, DOI 10.1109/MSP.2020.2975749
+   Liu GY, 2021, INT WORKSH QUAL SERV, DOI 10.1109/IWQOS52092.2021.9521274
+   Liu H., 2021, arXiv
+   Liu L, 2021, POSTGRAD MED, V133, P265, DOI 10.1080/00325481.2020.1803666
+   Liu Y, 2023, Arxiv, DOI arXiv:2211.12814
+   Liu Y, 2022, IEEE T SIGNAL PROCES, V70, P4277, DOI 10.1109/TSP.2022.3198176
+   Liu Y, 2020, Arxiv, DOI arXiv:2004.07427
+   Liu Y, 2021, Arxiv, DOI arXiv:2003.10933
+   Liu Y, 2022, IEEE INFOCOM SER, P1749, DOI 10.1109/INFOCOM48880.2022.9796721
+   Lu LP, 2020, IEEE INT CONF TRUST, P707, DOI 10.1109/TrustCom50675.2020.00098
+   McMahan H.B., 2016, CoRR, DOI 10.48550/arXiv.1602.05629
+   McMahan HB, 2017, PR MACH LEARN RES, V54, P1273
+   Dauphin YN, 2015, Arxiv, DOI arXiv:1502.04390
+   Nickparvar M., 2021, Brain Tumor MRI Dataset
+   Novikova E, 2022, ALGORITHMS, V15, DOI 10.3390/a15040104
+   Qiu PY, 2023, IEEE T DEPEND SECURE, V20, P3653, DOI 10.1109/TDSC.2022.3208630
+   Romanini D, 2021, Arxiv, DOI arXiv:2104.00489
+   Ruder S, 2017, Arxiv, DOI arXiv:1609.04747
+   Keskar NS, 2017, Arxiv, DOI arXiv:1712.07628
+   SSNL and Apaszke, 2018, A Case of Traffic Violations Insurance-using Federated Learning
+   Sutskever I., 2013, P 30 INT C MACH LEAR, P1147
+   Vepakomma P, 2018, Arxiv, DOI [arXiv:1812.00564, 10.48550/arXiv.1812.00564]
+   Voigt P., 2017, A Practical Guide, V10, P10, DOI DOI 10.1007/978-3-319-57959-7
+   Wang C, 2021, IEEE T PARALL DISTR, V32, P394, DOI 10.1109/TPDS.2020.3023905
+   Wang JY, 2020, Arxiv, DOI arXiv:2007.07481
+   Wang JX, 2022, PROCEEDINGS OF THE ACM WEB CONFERENCE 2022 (WWW'22), P622, DOI 10.1145/3485447.3512222
+   Warden P, 2018, Arxiv, DOI arXiv:1804.03209
+   WeBank, 2019, A Case of Traffic Violations Insurance-using Federated Learning
+   WeBank, 2019, Utilization of FATE in Risk Management of Credit in Small and Micro Enterprises
+   Wei Kang, 2022, arXiv
+   Wilson AC, 2017, ADV NEUR IN, V30
+   Wu C., 2022, arXiv
+   Wu WX, 2019, PROC CVPR IEEE, P9613, DOI 10.1109/CVPR.2019.00985
+   Wu Y., 2020, INT C MACHINE LEARNI, P10355
+   Wu ZR, 2015, PROC CVPR IEEE, P1912, DOI 10.1109/CVPR.2015.7298801
+   Xie ZK, 2022, Arxiv, DOI arXiv:2201.13011
+   Xie Zeke, 2022, P MACHINE LEARNING R
+   Yan Haonan, 2022, ARCANE: An efficient architecture for exact machine unlearning, P3981, DOI [10.24963/ijcai.2022/553, DOI 10.24963/IJCAI.2022/553]
+   Yang Qiang, 2023, arXiv
+   Yao ZW, 2021, AAAI CONF ARTIF INTE, V35, P10665
+   Yiding Jiang, 2020, 8 INT C LEARN REPR I
+   Zeke Xie, 2021, 9 INT C LEARN REPR I
+   Zou Tianyuan, 2022, IEEE Trans. Big Data, early access, P1, DOI DOI 10.1109/TBDATA.2022.3192121
+NR 69
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD MAY
+PY 2024
+VL 24
+IS 2
+DI 10.1145/3657290
+PG 22
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RN9E8
+UT WOS:001228452800004
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Chen, YM
+   Luo, T
+   Fang, WW
+   Xiong, NN
+AF Chen, Yanming
+   Luo, Tong
+   Fang, Weiwei
+   Xiong, Neal. N.
+TI EdgeCI: DistributedWorkload Assignment and Model Partitioning for CNN
+   Inference on Edge Clusters
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE Edge computing; workload assignment; auction algorithm; fused-layer;
+   parallelization; inference acceleration; high-speed networks
+ID DEEP NEURAL-NETWORKS; DNN INFERENCE; BIG DATA; ACCELERATION; CLOUD;
+   INTELLIGENCE; COMPRESSION; SYSTEM
+AB Deep learning technology has grown significantly in newapplication scenarios such as smart cities and driverless vehicles, but its deployment needs to consume a lot of resources. It is usually difficult to execute inference task solely on resource-constrained Intelligent Internet-of-Things (IoT) devices to meet strictly service delay requirements. CNN-based inference task is usually offloaded to the edge server or cloud. However, it may lead to unstable performance and privacy leaks. To address the above challenges, this article aims to design a low latency distributed inference framework, EdgeCI, which assigns inference tasks to locally idle, connected, and resource-constrained IoT device cluster networks. EdgeCI exploits two key optimization knobs, including: (1) Auction-based Workload Assignment Scheme (AWAS), which achieves the workload balance by assigning each workload partition to the more matching IoT device; (2) Fused-Layer parallelization strategy based on non-recursive Dynamic Programming (DPFL), which is aimed at further minimizing the inference time. We have implemented EdgeCI based on PyTorch and evaluated its performance with VGG-16 and ResNet-34 image recognition models. The experimental results prove that our proposed AWAS and DPFL outperform the typical state-of-the-art solutions. When they are well combined, EdgeCI can improve inference speed by 34.72% to 43.52%. EdgeCI outperforms the state-of-the art approaches on our edge cluster.
+C1 [Chen, Yanming; Luo, Tong] Anhui Univ, Sch Compute Sci & Technol, Hefei, Anhui, Peoples R China.
+   [Fang, Weiwei] Beijing Jiaotong Univ, Sch Comp & Informat Technol, Beijing, Peoples R China.
+   [Xiong, Neal. N.] Ross State Univ, Dept Comp Sci & Math, Alpine, TX USA.
+C3 Anhui University; Beijing Jiaotong University; Texas State University
+   System
+RP Chen, YM (corresponding author), Anhui Univ, Sch Compute Sci & Technol, Hefei, Anhui, Peoples R China.
+EM cym@ahu.edu.cn; e21301334@stu.ahu.edu.cn; fangww@bjtu.edu.cn;
+   xiongnaixue@gmail.com
+RI xiong, naixue/M-4277-2019; Chen, Yanming/AAA-6180-2022
+OI xiong, naixue/0000-0002-0394-4635; Chen, Yanming/0000-0002-2747-6637
+FU National Science Foundation of China (NSFC) [62172031]; Beijing
+   Municipal Natural Science Foundation [L191019]; Key Natural Science
+   Foundation of Education Department of Anhui [KJ2021A0046]
+FX This work is supported by the National Science Foundation of China
+   (NSFC) under Grant 62172031, the Beijing Municipal Natural Science
+   Foundation under Grant L191019, the Key Natural Science Foundation of
+   Education Department of Anhui (KJ2021A0046).
+CR Acharya UR, 2017, COMPUT BIOL MED, V89, P389, DOI 10.1016/j.compbiomed.2017.08.022
+   Bertsekas D. P., 1979, Lab. for Information and Decision Systems Working Paper
+   Bertsekas Dimitri P., 1988, Biased Rand. Walks, V36, P39
+   Boyland P., 2019, STATE MOBILE NETWORK
+   Castellano G, 2019, IEEE INFOCOM SER, P2548, DOI [10.1109/INFOCOM.2019.8737532, 10.1109/infocom.2019.8737532]
+   Chen MJ, 2024, IEEE J SEL AREA COMM, V42, P767, DOI 10.1109/JSAC.2023.3345403
+   Chettri L, 2020, IEEE INTERNET THINGS, V7, P16, DOI 10.1109/JIOT.2019.2948888
+   Deng L, 2020, P IEEE, V108, P485, DOI 10.1109/JPROC.2020.2976475
+   Ding Y, 2023, J PARALLEL DISTR COM, V173, P83, DOI 10.1016/j.jpdc.2022.11.008
+   Fang WW, 2023, ACM T INTERNET TECHN, V23, DOI 10.1145/3551638
+   Fang WW, 2021, IEEE T IND INFORM, V17, P6144, DOI 10.1109/TII.2020.3044930
+   Gao ZP, 2022, LECT NOTES COMPUT SC, V13156, P317, DOI 10.1007/978-3-030-95388-1_21
+   Gobieski G, 2019, TWENTY-FOURTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXIV), P199, DOI 10.1145/3297858.3304011
+   Hadidi R, 2020, IEEE INTERNET THINGS, V7, P4950, DOI 10.1109/JIOT.2020.2972000
+   Hao ZW, 2023, IEEE T MOBILE COMPUT, V22, P6041, DOI 10.1109/TMC.2022.3183098
+   He KM, 2016, PROC CVPR IEEE, P770, DOI 10.1109/CVPR.2016.90
+   Hou XY, 2022, INT PARALL DISTRIB P, P1097, DOI 10.1109/IPDPS53621.2022.00110
+   Hu C, 2019, IEEE INFOCOM SER, P1423, DOI [10.1109/infocom.2019.8737614, 10.1109/INFOCOM.2019.8737614]
+   Huang Y, 2020, COMPANION OF THE 2020 IEEE 20TH INTERNATIONAL CONFERENCE ON SOFTWARE QUALITY, RELIABILITY, AND SECURITY (QRS-C 2020), P221, DOI 10.1109/QRS-C51114.2020.00045
+   Hubert Bert, 2001, Linux Manpage
+   Kang YP, 2017, ACM SIGPLAN NOTICES, V52, P615, DOI 10.1145/3093336.3037698
+   Lee H, 2019, IEEE J SEL AREA COMM, V37, P2251, DOI 10.1109/JSAC.2019.2933890
+   Li N, 2022, IEEE ICC, P4281, DOI 10.1109/ICC45855.2022.9838547
+   Li N, 2022, IEEE ICC, P3667, DOI 10.1109/ICC45855.2022.9839083
+   Li N, 2022, COMPUT NETW, V214, DOI 10.1016/j.comnet.2022.109150
+   Liu GZ, 2023, FUTURE GENER COMP SY, V140, P422, DOI 10.1016/j.future.2022.10.033
+   Liu JH, 2020, IEEE INTERNET THINGS, V7, P9357, DOI 10.1109/JIOT.2020.2984333
+   Liu Q, 2018, IEEE INFOCOM SER, P756, DOI 10.1109/INFOCOM.2018.8486241
+   Mao JC, 2017, DES AUT TEST EUROPE, P1396, DOI 10.23919/DATE.2017.7927211
+   Mohammed T, 2020, IEEE INFOCOM SER, P854, DOI [10.1109/INFOCOM41043.2020.9155237, 10.1109/infocom41043.2020.9155237]
+   Shi Q, 2020, IEEE T VEH TECHNOL, V69, P7778, DOI 10.1109/TVT.2020.2990979
+   Simonyan K, 2015, Arxiv, DOI arXiv:1409.1556
+   Sze V, 2017, P IEEE, V105, P2295, DOI 10.1109/JPROC.2017.2761740
+   Teerapittayanon S, 2017, INT CON DISTR COMP S, P328, DOI 10.1109/ICDCS.2017.226
+   Wang Y, 2020, IEEE J-STSP, V14, P623, DOI 10.1109/JSTSP.2020.2979669
+   Xu YZ, 2023, IEEE INTERNET THINGS, V10, P1053, DOI 10.1109/JIOT.2022.3205410
+   Xu YZ, 2019, IEEE T WIREL COMMUN, V18, P459, DOI 10.1109/TWC.2018.2881705
+   Yang HL, 2020, IEEE NETWORK, V34, P272, DOI 10.1109/MNET.011.2000195
+   Yang X, 2024, IEEE T MOBILE COMPUT, V23, P2712, DOI 10.1109/TMC.2023.3265111
+   Zeng LK, 2021, IEEE ACM T NETWORK, V29, P595, DOI 10.1109/TNET.2020.3042320
+   Zeng PJ, 2024, IEEE INTERNET THINGS, V11, P4274, DOI 10.1109/JIOT.2023.3298814
+   Zhang S, 2021, IEEE T PARALL DISTR, V32, P2175, DOI 10.1109/TPDS.2021.3058532
+   Zhang ZH, 2023, IEEE J SEL AREA COMM, V41, P1212, DOI 10.1109/JSAC.2023.3242730
+   Zhao ZR, 2018, IEEE T COMPUT AID D, V37, P2348, DOI 10.1109/TCAD.2018.2858384
+   Zhou L, 2019, SEC'19: PROCEEDINGS OF THE 4TH ACM/IEEE SYMPOSIUM ON EDGE COMPUTING, P195, DOI 10.1145/3318216.3363312
+   Zhou Z, 2019, P IEEE, V107, P1738, DOI 10.1109/JPROC.2019.2918951
+NR 46
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD MAY
+PY 2024
+VL 24
+IS 2
+DI 10.1145/3656041
+PG 24
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RN9E8
+UT WOS:001228452800003
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Song, ZY
+   Chaki, D
+   Lakhdari, A
+   Bouguettaya, A
+AF Song, Zhiyi
+   Chaki, Dipankar
+   Lakhdari, Abdallah
+   Bouguettaya, Athman
+TI Positional Encoding-based Resident Identification in Multi-resident
+   Smart Homes
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+AB We propose a novel resident identification framework to identify residents in a multi-occupant smart environment. The proposed framework employs a feature extraction model based on the concepts of positional encoding. The feature extraction model considers the locations of homes as a graph. We design a novel algorithm to build such graphs from layout maps of smart environments. The Node2Vec algorithm is used to transform the graph into high-dimensional node embeddings. A Long Short-Term Memory model is introduced to predict the identities of residents using temporal sequences of sensor events with the node embeddings. Extensive experiments show that our proposed scheme effectively identifies residents in a multi-occupant environment. Evaluation results on two real-world datasets demonstrate that our proposed approach achieves 94.5% and 87.9% accuracy, respectively.
+C1 [Song, Zhiyi; Chaki, Dipankar; Lakhdari, Abdallah; Bouguettaya, Athman] Univ Sydney, Sch Comp Sci, Sydney, NSW 2006, Australia.
+C3 University of Sydney
+RP Song, ZY (corresponding author), Univ Sydney, Sch Comp Sci, Sydney, NSW 2006, Australia.
+EM zson5784@uni.sydney.edu.au; dipankar.chaki@sydney.edu.au;
+   abdallah.lakhdari@sydney.edu.au; athman.bouguettaya@sydney.edu.au
+OI Bouguettaya, Athman/0000-0003-1254-8092; Lakhdari,
+   Abdallah/0000-0001-8005-1534
+FU Australian Research Council [LE220100078, DP220101823]; Australian
+   Research Council [LE220100078] Funding Source: Australian Research
+   Council
+FX This research was partly made possible by LE220100078 and DP220101823
+   grants from the Australian Research Council. The statements made herein
+   are solely the responsibility of the authors.
+CR Aksu H, 2021, IEEE T SUST COMPUT, V6, P221, DOI 10.1109/TSUSC.2018.2808455
+   Amiribesheli M, 2015, J AMB INTEL HUM COMP, V6, P495, DOI 10.1007/s12652-015-0270-2
+   [Anonymous], 2018, SmartThings: One Simple Home System
+   Atzori L, 2010, COMPUT NETW, V54, P2787, DOI 10.1016/j.comnet.2010.05.010
+   Balakrishnan S, 2018, PROCEEDINGS OF THE 6TH INTERNATIONAL CONFERENCE ON INFORMATION TECHNOLOGY: IOT AND SMART CITY (ICIT 2018), P120, DOI 10.1145/3301551.3301575
+   Banerjee T, 2012, IEEE ENG MED BIO, P5102, DOI 10.1109/EMBC.2012.6347141
+   Baratchi M, 2014, UBICOMP'14: PROCEEDINGS OF THE 2014 ACM INTERNATIONAL JOINT CONFERENCE ON PERVASIVE AND UBIQUITOUS COMPUTING, P401, DOI 10.1145/2632048.2636068
+   Benmansour A, 2015, ACM COMPUT SURV, V48, DOI 10.1145/2835372
+   Bouguettaya A, 2021, COMMUN ACM, V64, P86, DOI 10.1145/3464960
+   Chaki D, 2021, LECT NOTES COMPUT SC, V13121, P368, DOI 10.1007/978-3-030-91431-8_23
+   Chaki D, 2021, 2021 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES, ICWS 2021, P663, DOI 10.1109/ICWS53863.2021.00091
+   Chaki D, 2020, 2020 IEEE 13TH INTERNATIONAL CONFERENCE ON WEB SERVICES (ICWS 2020), P224, DOI 10.1109/ICWS49710.2020.00036
+   Chaki D, 2020, P IEEE I C SERV COMP, P321, DOI 10.1109/SCC49832.2020.00049
+   Chen D, 2022, IEEE INTERNET THINGS, V9, P23716, DOI 10.1109/JIOT.2022.3190307
+   Chen YC, 2015, ACM T INTEL SYST TEC, V6, DOI 10.1145/2700484
+   Chiang JH, 2023, IEEE T KNOWL DATA EN, V35, P3404, DOI 10.1109/TKDE.2022.3140387
+   Cho KYHY, 2014, Arxiv, DOI arXiv:1409.1259
+   Cho KYHY, 2014, Arxiv, DOI [arXiv:1406.1078, 10.48550/arXiv.1406.1078]
+   Choksi Manan, 2022, ADJUNCT P 2022 ACM I, P21, DOI [10.1145/3544793.3560360, DOI 10.1145/3544793.3560360]
+   Cook DJ, 2009, METHOD INFORM MED, V48, P480, DOI 10.3414/ME0592
+   Cornelius C, 2014, MOBISYS'14: PROCEEDINGS OF THE 12TH ANNUAL INTERNATIONAL CONFERENCE ON MOBILE SYSTEMS, APPLICATIONS, AND SERVICES, P55, DOI 10.1145/2594368.2594369
+   Crandall A. S., 2010, 2010 6th International Conference on Intelligent Environments (IE), P74, DOI 10.1109/IE.2010.21
+   Dwivedi VP, 2022, Arxiv, DOI arXiv:2003.00982
+   Fang X, 2012, IEEE COMMUN SURV TUT, V14, P944, DOI 10.1109/SURV.2011.101911.00087
+   Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI [10.1162/neco.1997.9.8.1735, 10.1007/978-3-642-24797-2, 10.1162/neco.1997.9.1.1]
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   Do HM, 2018, ROBOT AUTON SYST, V101, P74, DOI 10.1016/j.robot.2017.12.008
+   Hua J, 2022, 7TH ACM/IEEE CONFERENCE ON INTERNET-OF-THINGS DESIGN AND IMPLEMENTATION (IOTDI 2022), P30, DOI 10.1109/IoTDI54339.2022.00012
+   Huang B, 2018, LECT NOTES COMPUT SC, V11236, P660, DOI 10.1007/978-3-030-03596-9_48
+   Huang B, 2018, 2018 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES (IEEE ICWS 2018), P347, DOI 10.1109/ICWS.2018.00058
+   Huang Bing, 2023, ACM Comput. Surv., DOI [10.1145/3629517JustAccepted, DOI 10.1145/3629517JUSTACCEPTED]
+   Ian London, 2016, Encoding cyclical continuous features
+   Irwin D., 2013, P 5 ACM WORKSH EMB S, P1, DOI [10.1371/journal.pgen.1003517, DOI 10.1145/2528282.2528294, 10.1145/2528282.2528294]
+   Jin YL, 2020, AAAI CONF ARTIF INTE, V34, P4361
+   Ke G., 2020, ARXIV
+   Kim TY, 2019, ENERGY, V182, P72, DOI 10.1016/j.energy.2019.05.230
+   Kong WC, 2019, IEEE T SMART GRID, V10, P841, DOI 10.1109/TSG.2017.2753802
+   Lesani Fatemeh Sadat, 2021, Pers. Ubiq. Comput., V25, P151
+   Li JY, 2020, IEEE INFOCOM SER, P387, DOI [10.1109/infocom41043.2020.9155516, 10.1109/INFOCOM41043.2020.9155516]
+   Liciotti D, 2020, NEUROCOMPUTING, V396, P501, DOI 10.1016/j.neucom.2018.10.104
+   Mekuria DN, 2021, J AMB INTEL HUM COMP, V12, P4485, DOI 10.1007/s12652-019-01572-z
+   Mikolov T, 2013, Arxiv, DOI [arXiv:1301.3781, DOI 10.48550/ARXIV.1301.3781]
+   Nguyen MS, 2018, LECT NOTES COMPUT SC, V11251, P433, DOI 10.1007/978-3-030-03192-3_33
+   Mutegeki Ronald, 2020, 2020 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), P362, DOI 10.1109/ICAIIC48513.2020.9065078
+   Pei J, 2004, IEEE T KNOWL DATA EN, V16, P1424, DOI 10.1109/TKDE.2004.77
+   Qin Zishan, 2021, INT C SERVICE ORIENT, P301
+   Qiu JZ, 2020, Arxiv, DOI arXiv:2006.09963
+   Ravi C, 2022, ACM T INTERNET TECHN, V22, DOI 10.1145/3412353
+   Rougier C, 2011, IEEE T CIRC SYST VID, V21, P611, DOI 10.1109/TCSVT.2011.2129370
+   Selvin S, 2017, 2017 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, COMMUNICATIONS AND INFORMATICS (ICACCI), P1643, DOI 10.1109/ICACCI.2017.8126078
+   Siami-Namini S, 2018, 2018 17TH IEEE INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS (ICMLA), P1394, DOI 10.1109/ICMLA.2018.00227
+   Thomas Brian L, 2016, J Reliab Intell Environ, V2, P3, DOI 10.1007/s40860-015-0015-1
+   Twomey N, 2017, NEUROCOMPUTING, V234, P93, DOI 10.1016/j.neucom.2016.12.049
+   Vaswani A, 2023, Arxiv, DOI arXiv:1706.03762
+   Wang HB, 2010, LECT NOTES COMPUT SC, V6470, P92, DOI 10.1007/978-3-642-17358-5_7
+   Xu R, 2021, PROC CVPR IEEE, P13564, DOI 10.1109/CVPR46437.2021.01336
+   Yacchirema D, 2019, PERS UBIQUIT COMPUT, V23, P801, DOI 10.1007/s00779-018-01196-8
+   Yin J, 2016, LECT NOTES COMPUT SC, V9677, P3, DOI 10.1007/978-3-319-39601-9_1
+   Yun CL, 2020, Arxiv, DOI arXiv:1912.10077
+NR 59
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD FEB
+PY 2024
+VL 24
+IS 1
+AR 1
+DI 10.1145/3631353
+PG 27
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK7K8
+UT WOS:001193578500001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Charmet, F
+   Morikawa, T
+   Tanaka, A
+   Takahashi, T
+AF Charmet, Fabien
+   Morikawa, Tomohiro
+   Tanaka, Akira
+   Takahashi, Takeshi
+TI VORTEX: Visual Phishing DetectiOns aRe Through EXplanations
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE Phishing; explainable AI; Computer Vision
+AB Phishing attacks reached a record high in 2022, as reported by the Anti-Phishing Work Group, following an upward trend accelerated during the pandemic. Attackers employ increasingly sophisticated tools in their attempts to deceive unaware users into divulging confidential information. Recently, the research community has turned to the utilization of screenshots of legitimate and malicious websites to identify the brands that attackers aim to impersonate. In the field of Computer Vision, convolutional neural networks (CNNs) have been employed to analyze the visual rendering of websites, addressing the problem of phishing detection. However, along with the development of these new models, arose the need to understand their inner workings and the rationale behind each prediction. Answering the question, "How is this website attempting to steal the identity of a well-known brand?" becomes crucial when protecting end-users from such threats. In cybersecurity, the application of explainable AI (XAI) is an emerging approach that aims to answer such questions. In this article, we propose VORTEX, a phishing website detection solution equipped with the capability to explain how a screenshot attempts to impersonate a specific brand. We conduct an extensive analysis of XAI methods for the phishing detection problem and demonstrate that VORTEX provides meaningful explanations regarding the detection results. Additionally, we evaluate the robustness of our model against Adversarial Example attacks. We adapt these attacks to the VORTEX architecture and evaluate their efficacy acrossmultiple models and datasets. Our results show that VORTEX achieves superior accuracy compared to previous models, and learns semantically meaningful patterns to provide actionable explanations about phishing websites. Finally, VORTEX demonstrates an acceptable level of robustness against adversarial example attacks.
+C1 [Charmet, Fabien; Tanaka, Akira; Takahashi, Takeshi] Natl Inst Informat & Commun Technol, Koganei, Tokyo, Japan.
+   [Morikawa, Tomohiro] Univ Hyogo, Kobe, Hyogo, Japan.
+C3 National Institute of Information & Communications Technology (NICT) -
+   Japan; University of Hyogo
+RP Morikawa, T (corresponding author), Univ Hyogo, Kobe, Hyogo, Japan.
+EM sunshine@nsl.cs.waseda.ac.jp; morikawa@gsis.u-hyogo.ac.jp;
+   tanaka.akira@nict.go.jp; takeshi_takahashi@nict.go.jp
+CR Abdelnabi S, 2020, CCS '20: PROCEEDINGS OF THE 2020 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P1681, DOI 10.1145/3372297.3417233
+   Ahmad Z, 2021, T EMERG TELECOMMUN T, V32, DOI 10.1002/ett.4150
+   Alenezi R, 2021, 2021 IEEE SYMPOSIUM SERIES ON COMPUTATIONAL INTELLIGENCE (IEEE SSCI 2021), DOI 10.1109/SSCI50451.2021.9659888
+   Antoniadi AM, 2021, APPL SCI-BASEL, V11, DOI 10.3390/app11115088
+   Antwarg L, 2021, EXPERT SYST APPL, V186, DOI 10.1016/j.eswa.2021.115736
+   Asiri S, 2023, IEEE ACCESS, V11, P6421, DOI 10.1109/ACCESS.2023.3237798
+   Boudiaf M, 2020, EUROPEAN C COMPUTER, P548
+   Bozkir AS, 2016, 2016 4TH INTERNATIONAL SYMPOSIUM ON DIGITAL FORENSIC AND SECURITY (ISDFS), P148, DOI 10.1109/ISDFS.2016.7473534
+   Capuano N, 2022, IEEE ACCESS, V10, P93575, DOI 10.1109/ACCESS.2022.3204171
+   Charmet F, 2022, ANN TELECOMMUN, V77, P789, DOI 10.1007/s12243-022-00926-7
+   Chattopadhay A, 2018, IEEE WINT CONF APPL, P839, DOI 10.1109/WACV.2018.00097
+   Chen TC, 2010, ACM T INTERNET TECHN, V10, DOI 10.1145/1754393.1754394
+   Croce F, 2020, PR MACH LEARN RES, V119
+   Dai F, 2022, AAAI CONF ARTIF INTE, P508
+   Desai S, 2020, IEEE WINT CONF APPL, P972, DOI [10.1109/wacv45572.2020.9093360, 10.1109/WACV45572.2020.9093360]
+   Fu AY, 2006, IEEE T DEPEND SECURE, V3, P301, DOI 10.1109/TDSC.2006.50
+   Giudici P, 2022, QUAL RELIAB ENG INT, V38, P1318, DOI 10.1002/qre.2939
+   He J, 2021, ADV NEUR IN, V34
+   He KM, 2016, PROC CVPR IEEE, P770, DOI 10.1109/CVPR.2016.90
+   Houda ZA, 2022, IEEE OPEN J COMM SOC, V3, P1164, DOI 10.1109/OJCOMS.2022.3188750
+   Iadarola G, 2021, COMPUT SECUR, V105, DOI 10.1016/j.cose.2021.102198
+   Goodfellow IJ, 2015, Arxiv, DOI [arXiv:1412.6572, DOI 10.48550/ARXIV.1412.6572]
+   Jiang PT, 2021, IEEE T IMAGE PROCESS, V30, P5875, DOI 10.1109/TIP.2021.3089943
+   Khosravi H, 2022, Computers and Education: Artificial Intelligence, V3, DOI 10.1016/j.caeai.2022.100074
+   Le H, 2018, Arxiv, DOI arXiv:1802.03162
+   Lin Y, 2021, PROCEEDINGS OF THE 30TH USENIX SECURITY SYMPOSIUM, P3793
+   Liu RF, 2022, PROCEEDINGS OF THE 31ST USENIX SECURITY SYMPOSIUM, P1633
+   Lundberg SM, 2017, ADV NEUR IN, V30
+   Madry A, 2019, Arxiv, DOI arXiv:1706.06083
+   Oest A, 2018, PROCEEDINGS OF THE 2018 APWG SYMPOSIUM ON ELECTRONIC CRIME RESEARCH (ECRIME), P1
+   openphish.com, OpenPhish
+   PhishTank, About us
+   Ren SQ, 2017, IEEE T PATTERN ANAL, V39, P1137, DOI 10.1109/TPAMI.2016.2577031
+   Rezatofighi H, 2019, PROC CVPR IEEE, P658, DOI 10.1109/CVPR.2019.00075
+   Ribeiro MT, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1135, DOI 10.1145/2939672.2939778
+   Rong Y., 2022, PROC INT C MACH LEAR, P18770
+   Rong Y, 2022, Arxiv, DOI arXiv:2202.00449
+   safebrowsing.google.com, Google Safe Browsing
+   Sahoo D, 2019, Arxiv, DOI arXiv:1701.07179
+   Sarhan M, 2022, BIG DATA RES, V30, DOI 10.1016/j.bdr.2022.100359
+   Schroff F, 2015, PROC CVPR IEEE, P815, DOI 10.1109/CVPR.2015.7298682
+   Selvaraju RR, 2017, IEEE I CONF COMP VIS, P618, DOI 10.1109/ICCV.2017.74
+   Shafahi A, 2019, ADV NEUR IN, V32
+   Srivastava G., 2022, ARXIV
+   Subramani K, 2022, PROCEEDINGS OF THE 2022 22ND ACM INTERNET MEASUREMENT CONFERENCE, IMC 2022, P589, DOI 10.1145/3517745.3561467
+   Teh Eu Wern, 2020, Computer Vision - ECCV 2020. 16th European Conference. Proceedings. Lecture Notes in Computer Science (LNCS 12369), P448, DOI 10.1007/978-3-030-58586-0_27
+   Tjoa E, 2021, IEEE T NEUR NET LEAR, V32, P4793, DOI 10.1109/TNNLS.2020.3027314
+   van der Maaten L, 2008, J MACH LEARN RES, V9, P2579
+   van der Velden BHM, 2022, MED IMAGE ANAL, V79, DOI 10.1016/j.media.2022.102470
+   Wang HJ, 2020, Cambria Sinophone Wo, P111, DOI 10.1109/CVPRW50498.2020.00020
+   Wang MN, 2020, IEEE ACCESS, V8, P73127, DOI 10.1109/ACCESS.2020.2988359
+   Wang YS, 2019, PR MACH LEARN RES, V97
+   Ye DP, 2022, INT J INTELL SYST, V37, P10193, DOI 10.1002/int.22458
+   YuxinWu Alexander Kirillov, 2019, Detectron2.
+NR 54
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD MAY
+PY 2024
+VL 24
+IS 2
+DI 10.1145/3654665
+PG 24
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RN9E8
+UT WOS:001228452800002
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Pan, BF
+   Stakhanova, N
+   Zhu, ZW
+AF Pan, Bofeng
+   Stakhanova, Natalia
+   Zhu, Zhongwen
+TI EtherShield: Time-interval Analysis for Detection of Malicious Behavior
+   on Ethereum
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE Blockchain; security
+AB Advances in blockchain technology have attracted significant attention across the world. The practical blockchain applications emerging in various domains, ranging from finance, healthcare, and entertainment, have quickly become attractive targets for adversaries. The novelty of the technology coupled with the high degree of anonymity it provides made malicious activities even less visible in the blockchain environment. This made their robust detection challenging. This article presents EtherShield, a novel approach for identifying malicious activity on the Ethereum blockchain. By combining temporal transaction information and contract code characteristics, EtherShield can detect various types of threats and provide insight into the behavior of contracts. The time-interval-based analysis used by EtherShield enables expedited detection, achieving comparable accuracy to other approaches with significantly less data. Our validation analysis, which involved over 15,000 Ethereum accounts, demonstrated that EtherShield can significantly expedite the detection of malicious activity while maintaining high accuracy levels (86.52% accuracy with 1 hour of transaction history data and 91.33% accuracy with 1 year of transaction history data).
+C1 [Pan, Bofeng; Stakhanova, Natalia] Univ Saskatchewan, Dept Comp Sci, 176 Thorvaldson Bldg 110 Sci Pl, Saskatoon, SK S7N 5C9, Canada.
+   [Zhu, Zhongwen] Ericsson, 8275 Trans Canada Route, St Laurent, PQ H4S 0B6, Canada.
+C3 University of Saskatchewan
+RP Pan, BF (corresponding author), Univ Saskatchewan, Dept Comp Sci, 176 Thorvaldson Bldg 110 Sci Pl, Saskatoon, SK S7N 5C9, Canada.
+EM panbofeng@hotmail.com; natalia@cs.usask.ca; zhongwen.zhu@ericsson.com
+OI Bofeng, Pan/0000-0001-9840-0675
+FU Ericsson - Global artificial Intelligence accelerator in Montreal;
+   Mitacs accelerate grant [IT16745]
+FX This work was funded and supported by Ericsson - Global artificial
+   Intelligence accelerator in Montreal and Mitacs accelerate grant
+   (IT16745).
+CR Aljofey Ali, 2021, P INT C BIG DATA SEC, P657
+   [Anonymous], 2023, pyevmasm-Ethereum Virtual Machine (EVM) disassembler and assembler
+   [Anonymous], 2023, LightGBM Documentation
+   [Anonymous], 2023, XGBoost Documentation
+   [Anonymous], 2022, The Root Cause Of Poly Network Being Hacked
+   [Anonymous], 2022, EOSIO Blockcian
+   [Anonymous], 2023, Mythril classic
+   [Anonymous], 2022, Ethereum Whitepaper
+   [Anonymous], 2023, Etherscan APIs documentation
+   [Anonymous], 2023, Choose a platform and step into the realm of blockchain
+   Back H, 2019, INT CONF UBIQ FUTUR, P713, DOI [10.1109/icufn.2019.8806126, 10.1109/ICUFN.2019.8806126]
+   Bartoletti M, 2020, FUTURE GENER COMP SY, V102, P259, DOI 10.1016/j.future.2019.08.014
+   Breiman L., 1984, CLASSIFICATION REGRE
+   Brent L, 2018, Arxiv, DOI arXiv:1809.03981
+   Camino R, 2020, 2020 IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN AND CRYPTOCURRENCY (IEEE ICBC), DOI 10.1109/icbc48266.2020.9169396
+   Cardano, 2022, About us
+   Chen L, 2021, ACM T INTERNET TECHN, V21, DOI 10.1145/3398071
+   Chen T. He, 2015, R PACKAGE VERSION, V2, P1, DOI DOI 10.1145/2939672.2939785
+   Chen T, 2019, INT CON DISTR COMP S, P1369, DOI 10.1109/ICDCS.2019.00137
+   Chen T, 2020, 27TH ANNUAL NETWORK AND DISTRIBUTED SYSTEM SECURITY SYMPOSIUM (NDSS 2020), DOI 10.14722/ndss.2020.24449
+   Chen WL, 2019, IEEE ACCESS, V7, P37575, DOI 10.1109/ACCESS.2019.2905769
+   Chen WL, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P1409, DOI 10.1145/3178876.3186046
+   Chen WM, 2021, P ACM MEAS ANAL COMP, V5, DOI 10.1145/3460093
+   Chinen Y, 2020, 2020 IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN (BLOCKCHAIN 2020), P327, DOI 10.1109/Blockchain50366.2020.00048
+   Farrugia S, 2020, EXPERT SYST APPL, V150, DOI 10.1016/j.eswa.2020.113318
+   Feist J, 2019, 2019 IEEE/ACM 2ND INTERNATIONAL WORKSHOP ON EMERGING TRENDS IN SOFTWARE ENGINEERING FOR BLOCKCHAIN (WETSEB 2019), P8, DOI 10.1109/WETSEB.2019.00008
+   Gao JB, 2019, 2019 IEEE/ACM 41ST INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING: COMPANION PROCEEDINGS (ICSE-COMPANION 2019), P23, DOI 10.1109/ICSE-Companion.2019.00029
+   Goodman L. M., 2014, TezosA self-amending crypto-ledger white paper, V4, P1432
+   Grossman S, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3158136
+   Hajdu A, 2020, LECT NOTES COMPUT SC, V12031, P161, DOI 10.1007/978-3-030-41600-3_11
+   Hara K, 2021, IEEE I C SQRS-C, P652, DOI [10.1109/QRS-C55045.2021.00099, 10.1109/QRS-055045.2021.00099]
+   He Xuezhe, 2022, Secur. Commun. Netw., V2022
+   HON, 2022, about us
+   Hou Wenhan, 2022, 2022 IEEE 24th Int Conf on High Performance Computing & Communications; 8th Int Conf on Data Science & Systems; 20th Int Conf on Smart City; 8th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), P1495, DOI 10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00230
+   Hu T, 2021, INFORM PROCESS MANAG, V58, DOI 10.1016/j.ipm.2020.102462
+   Kalra S, 2018, 25TH ANNUAL NETWORK AND DISTRIBUTED SYSTEM SECURITY SYMPOSIUM (NDSS 2018), DOI 10.14722/ndss.2018.23082
+   Ke GL, 2017, ADV NEUR IN, V30
+   Kumar N, 2020, LECT NOTES COMPUT SC, V12161, P94, DOI 10.1007/978-3-030-49785-9_7
+   Li Geng, 2011, P 9 INT WORKSHOP MIN
+   Li SC, 2021, Arxiv, DOI arXiv:2106.10176
+   Li Shucheng, 2023, ACM C MULTIMEDIA
+   Li S, 2022, PROCEEDINGS OF THE ACM WEB CONFERENCE 2022 (WWW'22), P661, DOI 10.1145/3485447.3512226
+   Liao JW, 2019, 2019 SIXTH INTERNATIONAL CONFERENCE ON INTERNET OF THINGS: SYSTEMS, MANAGEMENT AND SECURITY (IOTSMS), P458, DOI 10.1109/iotsms48152.2019.8939256
+   Linoy S, 2021, 2021 IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN (BLOCKCHAIN 2021), P11, DOI [10.1109/BLOCKCHAIN53845.2021.00014, 10.1109/Blockchain53845.2021.00014]
+   Lisk, 2022, About us
+   Liu C, 2018, PROC IEEE ACM INT C, P65, DOI 10.1145/3183440.3183495
+   Liu L, 2021, 2021 36TH IEEE/ACM INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING ASE 2021, P630, DOI 10.1109/ASE51524.2021.9678597
+   Lou YC, 2020, P IEEE I C SERV COMP, P353, DOI 10.1109/SCC49832.2020.00053
+   Luo Jintao, 2023, IEEE Trans. Circ. Syst. II: Express Briefs, VII
+   Luu L, 2016, CCS'16: PROCEEDINGS OF THE 2016 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P254, DOI 10.1145/2976749.2978309
+   Ma FC, 2019, 2019 IEEE 26TH INTERNATIONAL CONFERENCE ON SOFTWARE ANALYSIS, EVOLUTION AND REENGINEERING (SANER), P554, DOI [10.1109/SANER.2019.8668038, 10.1109/saner.2019.8668038]
+   Narayanan A, 2016, Arxiv, DOI arXiv:1606.08928
+   Nikolic I, 2018, 34TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2018), P653, DOI 10.1145/3274694.3274743
+   Nguyen DQ, 2022, Arxiv, DOI arXiv:1909.11855
+   Rodler M, 2018, Arxiv, DOI arXiv:1812.05934
+   Shi CC, 2022, EUR CON SFTWR MTNCE, P1046, DOI 10.1109/SANER53432.2022.00122
+   So S, 2020, P IEEE S SECUR PRIV, P1678, DOI 10.1109/SP40000.2020.00032
+   Sun WS, 2020, 2020 IEEE 20TH INTERNATIONAL CONFERENCE ON SOFTWARE QUALITY, RELIABILITY, AND SECURITY (QRS 2020), P297, DOI 10.1109/QRS51102.2020.00047
+   Tikhomirov S, 2018, 2018 IEEE/ACM 1ST INTERNATIONAL WORKSHOP ON EMERGING TRENDS IN SOFTWARE ENGINEERING FOR BLOCKCHAIN (WETSEB), P9, DOI 10.1145/3194113.3194115
+   Tin Kam Ho, 1995, Proceedings of the Third International Conference on Document Analysis and Recognition, P278, DOI 10.1109/ICDAR.1995.598994
+   Torres CF, 2021, LECT NOTES COMPUT SC, V12674, P33, DOI 10.1007/978-3-662-64322-8_2
+   Torres CF, 2019, PROCEEDINGS OF THE 28TH USENIX SECURITY SYMPOSIUM, P1591
+   Tsankov P, 2018, PROCEEDINGS OF THE 2018 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (CCS'18), P67, DOI 10.1145/3243734.3243780
+   Voell D., 2016, Hyperledger whitepaper
+   Wang J., 2021, 3 INT C BLOCKCHAIN T, P187
+   Wang XM, 2020, IEEE T SERV COMPUT, V13, P314, DOI 10.1109/TSC.2019.2949561
+   Wen HX, 2021, IEEE INT SYMP CIRC S, DOI 10.1109/ISCAS51556.2021.9401091
+   Wu JJ, 2022, IEEE T SYST MAN CY-S, V52, P1156, DOI 10.1109/TSMC.2020.3016821
+   Wu L, 2020, Arxiv, DOI arXiv:2005.08278
+   Xia YJ, 2022, IEEE T CIRCUITS-II, V69, P2538, DOI 10.1109/TCSII.2022.3159594
+   Ying R, 2018, ADV NEUR IN, V31
+   Zhang MY, 2020, PROCEEDINGS OF THE 29TH USENIX SECURITY SYMPOSIUM, P2775
+   Zhang YM, 2021, 2021 IEEE INTERNATIONAL CONFERENCE ON SERVICES COMPUTING (SCC 2021), P301, DOI 10.1109/SCC53864.2021.00043
+   Zhang YM, 2022, IEEE T COMPUT SOC SY, V9, P624, DOI 10.1109/TCSS.2021.3088145
+NR 74
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD FEB
+PY 2024
+VL 24
+IS 1
+AR 2
+DI 10.1145/3633514
+PG 30
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK7K8
+UT WOS:001193578500002
+DA 2024-08-05
+ER
+
+PT J
+AU Chen, YC
+   Lee, WC
+AF Chen, Yi-Cheng
+   Lee, Wang-Chien
+TI A Novel Cross-Domain Recommendation with Evolution Learning
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE Cross-domain recommendation; deep learning; matrix factorization;
+   recommendation system; recurrent neural network
+ID NONNEGATIVE MATRIX-FACTORIZATION; NETWORK
+AB In this "info-plosion" era, recommendation systems (or recommenders) play a significant role in finding interesting items in the surge of online digital activities and e-commerce. Several techniques have been widely applied for recommendation systems, but the cold-start and sparsity problems remain a major challenge. The cold-start problem occurs when generating recommendations for new users and items without sufficient information. Sparsity refers to the problem of having a large amount of users and items but with few transactions or interactions. In this article, a novel cross-domain recommendation model, Cross-Domain Evolution Learning Recommendation (abbreviated as CD-ELR), is developed to communicate the information from different domains in order to tackle the cold-start and sparsity issues by integrating matrix factorization and recurrent neural network. We introduce an evolutionary concept to describe the preference variation of users over time. Furthermore, several optimization methods are developed for combining the domain features for precision recommendation. Experimental results show that CD-ELR outperforms existing state-of-the-art recommendation baselines. Finally, we conduct experiments on several real-world datasets to demonstrate the practicability of the proposed CD-ELR.
+C1 [Chen, Yi-Cheng] Natl Cent Univ, Dept Informat Management, Zhongda RD,300, Taoyuan, Taiwan.
+   [Lee, Wang-Chien] Penn State Univ, Dept Comp Sci & Engn, University Pk, PA 16802 USA.
+C3 National Central University; Pennsylvania Commonwealth System of Higher
+   Education (PCSHE); Pennsylvania State University; Pennsylvania State
+   University - University Park
+RP Chen, YC (corresponding author), Natl Cent Univ, Dept Informat Management, Zhongda RD,300, Taoyuan, Taiwan.
+EM ycchen@mgt.ncu.edu.tw; wlee@cse.psu.edu
+OI Chen, Yi-Cheng/0000-0001-7153-0410
+CR Abdi M., 2018, Computer and Information Science, V11, P2
+   [Anonymous], Amazon review datasets
+   Berkovsky S, 2007, LECT NOTES ARTIF INT, V4511, P355
+   Berkvosky S, 2007, RECSYS 07: PROCEEDINGS OF THE 2007 ACM CONFERENCE ON RECOMMENDER SYSTEMS, P33
+   Bi Y, 2020, PROCEEDINGS OF THE 43RD INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '20), P1661, DOI 10.1145/3397271.3401193
+   Bin S, 2021, MATH PROBL ENG, V2021, DOI 10.1155/2021/6610645
+   Chen LH, 2017, 2017 IEEE INTERNATIONAL CONFERENCE ON BIG KNOWLEDGE (IEEE ICBK 2017), P167, DOI 10.1109/ICBK.2017.30
+   Chen YC, 2024, IEEE T EM TOP COMP I, V8, P1118, DOI 10.1109/TETCI.2023.3343998
+   Chen YC, 2024, IND MANAGE DATA SYST, V124, P416, DOI 10.1108/IMDS-05-2023-0298
+   Chua FCT, 2013, IEEE DATA MINING, P91, DOI 10.1109/ICDM.2013.25
+   Chung R., 2007, Proceedings of the Ninth International Conference on Electronic Commerce', ICEC'07, P65
+   Du YL, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1610
+   Fernandez-Tobias I., 2014, P 1 WORKSH NEW TREND, V1245, P34
+   Gemulla R., 2011, Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining, KDD 2011, P69
+   Hailan Kuang, 2021, 2021 IEEE 5th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC), P2171, DOI 10.1109/IAEAC50856.2021.9390866
+   He XN, 2016, SIGIR'16: PROCEEDINGS OF THE 39TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, P549, DOI 10.1145/2911451.2911489
+   Hong WX, 2020, IEEE ACCESS, V8, P41774, DOI 10.1109/ACCESS.2020.2977123
+   Hu GN, 2018, CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, P667, DOI 10.1145/3269206.3271684
+   Huang SJ, 2018, KDD'18: PROCEEDINGS OF THE 24TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P1571, DOI 10.1145/3219819.3220084
+   Jamali M, 2010, P 4 ACM C REC SYST, ppp135, DOI DOI 10.1145/1864708.1864736
+   Jin YR, 2020, IEEE ACCESS, V8, P55032, DOI 10.1109/ACCESS.2020.2982037
+   Kawale J., 2015, P 29 C NEURAL INFORM
+   Koren Y, 2009, COMPUTER, V42, P30, DOI 10.1109/MC.2009.263
+   Lee DD, 2001, ADV NEUR IN, V13, P556
+   Li B, 2009, 21ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-09), PROCEEDINGS, P2052
+   Li P, 2020, PROCEEDINGS OF THE 13TH INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING (WSDM '20), P331, DOI 10.1145/3336191.3371793
+   Li Y, 2020, J COMPUT SCI TECH-CH, V35, P794, DOI 10.1007/s11390-020-0314-8
+   Liang DW, 2016, PROCEEDINGS OF THE 10TH ACM CONFERENCE ON RECOMMENDER SYSTEMS (RECSYS'16), P59, DOI 10.1145/2959100.2959182
+   Liu J, 2020, WEB CONFERENCE 2020: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2020), P2768, DOI 10.1145/3366423.3380036
+   Liu M, 2020, CIKM '20: PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, P885, DOI 10.1145/3340531.3412012
+   Lu ZQ, 2015, AAAI CONF ARTIF INTE, P217
+   Luo X, 2014, IEEE T IND INFORM, V10, P1273, DOI 10.1109/TII.2014.2308433
+   Ma H, 2008, P 17 ACM C INF KNOWL, P931, DOI DOI 10.1145/1458082.1458205
+   Ma WP, 2017, 2017 13TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND SECURITY (CIS), P97, DOI 10.1109/CIS.2017.00029
+   Man T, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P2464
+   Mehta R, 2017, 2017 2ND INTERNATIONAL CONFERENCE ON COMMUNICATION SYSTEMS, COMPUTING AND IT APPLICATIONS (CSCITA), P269, DOI 10.1109/CSCITA.2017.8066567
+   Meng QX, 2018, IEEE DATA MINING, P337, DOI 10.1109/ICDM.2018.00049
+   Mnih R. R., 2008, Advances in Neural Information Processing Systems, V20, P1257
+   Park H, 2017, IEEE INT CONF BIG DA, P756, DOI 10.1109/BigData.2017.8257991
+   Peng C, 2021, INFORM SCIENCES, V562, P325, DOI 10.1016/j.ins.2021.01.087
+   Rendle S, 2020, RECSYS 2020: 14TH ACM CONFERENCE ON RECOMMENDER SYSTEMS, P240, DOI 10.1145/3383313.3412488
+   Sorkunlu N, 2018, IEEE INT CONF BIG DA, P1302, DOI 10.1109/BigData.2018.8622425
+   Tan SL, 2014, NEUROCOMPUTING, V127, P124, DOI 10.1016/j.neucom.2013.08.034
+   Thai-Nghe N., 2011, P 3 INT C COMPUTER S
+   Tran T, 2018, CIKM'18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, P687, DOI 10.1145/3269206.3271730
+   Trigeorgis G, 2017, IEEE T PATTERN ANAL, V39, P417, DOI 10.1109/TPAMI.2016.2554555
+   Tu JZ, 2018, IEEE DATA MINING, P517, DOI 10.1109/ICDM.2018.00067
+   Wallace T., 2019, BigCommerce, P1
+   Wang B, 2020, 2020 13TH INTERNATIONAL CONGRESS ON IMAGE AND SIGNAL PROCESSING, BIOMEDICAL ENGINEERING AND INFORMATICS (CISP-BMEI 2020), P942, DOI 10.1109/CISP-BMEI51763.2020.9263594
+   Wang C, 2018, AAAI CONF ARTIF INTE, P434
+   Wang Q, 2018, IEEE DATA MINING, P1284, DOI 10.1109/ICDM.2018.00173
+   Winoto P, 2008, NEW GENERAT COMPUT, V26, P209, DOI 10.1007/s00354-008-0041-0
+   Wu J, 2020, IEEE INTELL SYST, V35, P73, DOI 10.1109/MIS.2020.3016944
+   Yeh WC, 2017, IEEE T NEUR NET LEAR, V28, P2822, DOI 10.1109/TNNLS.2016.2598562
+   Yu HF, 2017, AAAI CONF ARTIF INTE, P2845
+   Zhang HY, 2021, IEEE ACCESS, V9, P65266, DOI 10.1109/ACCESS.2021.3074365
+   Zhang JD, 2016, IEEE T KNOWL DATA EN, V28, P2895, DOI 10.1109/TKDE.2016.2594772
+   Zhao C, 2020, PROCEEDINGS OF THE 43RD INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (SIGIR '20), P229, DOI 10.1145/3397271.3401169
+   Zhipeng Wu, 2018, Data Mining and Big Data. Third International Conference, DMBD 2018. Proceedings: LNCS 10943, P114, DOI 10.1007/978-3-319-93803-5_11
+NR 59
+TC 0
+Z9 0
+U1 4
+U2 4
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD FEB
+PY 2024
+VL 24
+IS 1
+AR 6
+DI 10.1145/3639567
+PG 23
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK7K8
+UT WOS:001193578500006
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Li, W
+   Bao, LF
+   Chen, JC
+   Grundy, J
+   Xia, X
+   Yang, XH
+AF Li, Wen
+   Bao, Lingfeng
+   Chen, Jiachi
+   Grundy, John
+   Xia, Xin
+   Yang, Xiaohu
+TI Market Manipulation of Cryptocurrencies: Evidence from Social Media and
+   Transaction Data
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE Blockchain; cryptocurrencies; market manipulation; empirical study
+ID BITCOIN; VOLATILITY
+AB The cryptocurrency market cap has experienced a great increase in recent years. However, large price fluctuations demonstrate the need for governance structures and identify whether there aremarketmanipulations. In this article, we conduct three analyses-social media data analysis, blockchain data analysis, and price bubble analysis-to investigate whether market manipulation exists on Bitcoin, Ethereum, and Dogecoin platforms. Social media data analysis aims to find the reasons for price fluctuations. Blockchain data analysis is used to find detailed behavior of the manipulators. Price bubble analysis is used to investigate the relation between price fluctuation and manipulators' behavior. By using the three analyses, we show that market manipulation exists on Bitcoin, Ethereum, and Dogecoin. However, market manipulation of Bitcoin is limited, and for most of Bitcoin's price fluctuations, we found other explanations. The price for Ethereum is the most sensitive to technical updates. Technical companies/teams usually hype some new concepts (e.g., ICO, DeFi), which causes a price spike. The price of Dogecoin has a high correlation with Elon Musk's X (formerly known as Twitter) activity, showing that influential individuals have the ability to manipulate its prices. In addition, the poor monetary liquidity of Dogecoin allows some users to manipulate its price.
+C1 [Li, Wen; Bao, Lingfeng; Yang, Xiaohu] Zhejiang Univ, State Key Lab Blockchain & Data Secur, Yuquan Campus,38 Zhe Rd, Hangzhou, Zhejiang, Peoples R China.
+   [Chen, Jiachi] Sun Yat Sen Univ, Zhuhai Campus, Zhuhai City, Guangdong, Peoples R China.
+   [Grundy, John] Monash Univ, Wellington Rd, Clayton, Vic 3800, Australia.
+   [Xia, Xin] Huawei Hangzhou Res Inst, Software Engn Applicat Technol Lab Huawei, 410 Jianghong Rd,Changhe St, Hangzhou 310052, Zhejiang, Peoples R China.
+C3 Zhejiang University; Sun Yat Sen University; Monash University
+RP Bao, LF (corresponding author), Zhejiang Univ, State Key Lab Blockchain & Data Secur, Yuquan Campus,38 Zhe Rd, Hangzhou, Zhejiang, Peoples R China.; Chen, JC (corresponding author), Sun Yat Sen Univ, Zhuhai Campus, Zhuhai City, Guangdong, Peoples R China.
+EM 22121297@zju.edu.cn; lingfengbao@zju.edu.cn; chenjch86@mail.sysu.edu.cn;
+   John.Grundy@monash.edu; xin.xia@acm.org; yangxh@zju.edu.cn
+RI Grundy, John/I-6681-2012
+OI Grundy, John/0000-0003-4928-7076; Xia, Xin/0000-0002-6302-3256; Chen,
+   Jiachi/0000-0002-0192-9992
+FU National Key Research and Development Program of China [2021YFB2701102];
+   National Science Foundation of China [62372398, 62141222, U20A20173];
+   Fundamental Research Funds for the Central Universities
+   [226-2022-00064]; ARC Laureate Fellowship [FL190100035]
+FX This research/project was supported by the National Key Research and
+   Development Program of China (2021YFB2701102), the National Science
+   Foundation of China (62372398, 62141222, and U20A20173), and the
+   Fundamental Research Funds for the Central Universities
+   (226-2022-00064). J. Grundy's work was supported by ARC Laureate
+   Fellowship FL190100035.
+CR Adedokun Adebayo, 2019, Journal of Finance and Economics, V7, P137
+   Alexander C, 2020, J FINANC STABIL, V50, DOI 10.1016/j.jfs.2020.100776
+   [Anonymous], 2021, Wikipedia
+   Ante L, 2023, TECHNOL FORECAST SOC, V186, DOI 10.1016/j.techfore.2022.122112
+   Barnes P., 2018, Journal of Advanced Studies in Finance (JASF), V9, P60, DOI 10.14505//jasf.v9.2(18).03
+   Baur DG, 2018, ECON LETT, V173, P148, DOI 10.1016/j.econlet.2018.10.008
+   Bazán-Palomino W, 2021, FINANC RES LETT, V40, DOI 10.1016/j.frl.2020.101723
+   Blei DM, 2007, ANN APPL STAT, V1, P17, DOI 10.1214/07-AOAS114
+   Blei DM, 2003, J MACH LEARN RES, V3, P993, DOI 10.1162/jmlr.2003.3.4-5.993
+   Boreiko D., 2018, SSRN ELECT J, DOI 10.2139/ssrn.3209180
+   Bouoiyour J, 2016, ECON BULL, V36, P843
+   Buterin V, 2014, Ethereum: A next-generation smart contract and decentralized application platform
+   Cheah ET, 2015, ECON LETT, V130, P32, DOI 10.1016/j.econlet.2015.02.029
+   Chen JC, 2022, IEEE T SOFTWARE ENG, V48, P327, DOI 10.1109/TSE.2020.2989002
+   Chen JL, 2022, PHYSICA A, V586, DOI 10.1016/j.physa.2021.126405
+   Chen L, 2021, ACM T INTERNET TECHN, V21, DOI 10.1145/3398071
+   Chen T, 2018, IEEE INFOCOM SER, P1484, DOI 10.1109/INFOCOM.2018.8486401
+   Chen WL, 2019, IEEE INFOCOM SER, P964, DOI [10.1109/infocom.2019.8737364, 10.1109/INFOCOM.2019.8737364]
+   Chen WL, 2019, 2019 13TH IEEE INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED SYSTEM ENGINEERING (SOSE) / 10TH INTERNATIONAL WORKSHOP ON JOINT CLOUD COMPUTING (JCC) / IEEE INTERNATIONAL WORKSHOP ON CLOUD COMPUTING IN ROBOTIC SYSTEMS (CCRS), P293, DOI 10.1109/SOSE.2019.00050
+   Chen WL, 2018, WEB CONFERENCE 2018: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW2018), P1409, DOI 10.1145/3178876.3186046
+   Cheung A, 2015, APPL ECON, V47, P2348, DOI 10.1080/00036846.2015.1005827
+   Chohan U. W., 2021, Discussion Series: Notes on the 21st Century
+   Ciaian P, 2018, J INT FINANC MARK I, V52, P173, DOI 10.1016/j.intfin.2017.11.001
+   Corbet S, 2018, FINANC RES LETT, V26, P81, DOI 10.1016/j.frl.2017.12.006
+   de Best Raynor., 2021, Cryptocurrency Market Value
+   de Souza Michel Candido, 2017, Empirical Economics Letters, V16, P739
+   Dhawan A, 2023, REV FINANC, V27, P935, DOI 10.1093/rof/rfac051
+   ENGLE RF, 1987, ECONOMETRICA, V55, P251, DOI 10.2307/1913236
+   Fan SH, 2022, PROCEEDINGS OF THE 31ST ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, CIKM 2022, P468, DOI 10.1145/3511808.3557454
+   Fenu G, 2018, 2018 IEEE 1ST INTERNATIONAL WORKSHOP ON BLOCKCHAIN ORIENTED SOFTWARE ENGINEERING (IWBOSE), P26, DOI 10.1109/IWBOSE.2018.8327568
+   Fry J, 2016, INT REV FINANC ANAL, V47, P343, DOI 10.1016/j.irfa.2016.02.008
+   Gandal N, 2018, J MONETARY ECON, V95, P86, DOI 10.1016/j.jmoneco.2017.12.004
+   Garcia D, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0623
+   Gencer AE, 2018, LECT NOTES COMPUT SC, V10957, P439, DOI 10.1007/978-3-662-58387-6_24
+   Google, 2021, Google BigQuery Introduction
+   Griffin JM, 2020, J FINANC, V75, P1913, DOI 10.1111/jofi.12903
+   Hayes A., 2015, What factors give cryptocurrencies their value: an empirical analysis
+   Hayes AS, 2019, APPL ECON LETT, V26, P554, DOI 10.1080/13504851.2018.1488040
+   Jake Frankenfield, 2022, Initial Coin Offering (ICO): Coin Launch Defined, with Examples
+   Kamps J, 2018, CRIME SCI, V7, DOI 10.1186/s40163-018-0093-5
+   Kristoufek L, 2023, FINANC RES LETT, V51, DOI 10.1016/j.frl.2022.103353
+   Kristoufek L, 2019, PHYSICA A, V536, DOI 10.1016/j.physa.2019.04.109
+   Kristoufek L, 2015, PLOS ONE, V10, DOI 10.1371/journal.pone.0123923
+   Kubal J, 2022, INT REV FINANC ANAL, V84, DOI 10.1016/j.irfa.2022.102375
+   Küfeoglu S, 2019, ENERGY RES SOC SCI, V58, DOI 10.1016/j.erss.2019.101273
+   Kyriazis N, 2020, RES INT BUS FINANC, V54, DOI 10.1016/j.ribaf.2020.101254
+   La Morgia M, 2020, IEEE IC COMP COM NET, DOI 10.1109/icccn49398.2020.9209660
+   La Morgia M, 2021, Arxiv, DOI arXiv:2105.00733
+   LEROY SF, 1981, ECONOMETRICA, V49, P555, DOI 10.2307/1911512
+   Li X, 2017, DECIS SUPPORT SYST, V95, P49, DOI 10.1016/j.dss.2016.12.001
+   Liebau D, 2019, J BRIT BLOCKCHAIN AS, V2, P47, DOI 10.31585/jbba-2-1-(5)2019
+   Malhotra Akash, 2014, P 2014 C EV UN ROOT
+   McGinn D, 2016, BIG DATA-US, V4, P109, DOI 10.1089/big.2015.0056
+   Mirtaheri M, 2021, IEEE T COMPUT SOC SY, V8, P607, DOI 10.1109/TCSS.2021.3059286
+   Mizrahi Avi., 2017, Finance Magnates
+   Moore T, 2018, ACM T INTERNET TECHN, V18, DOI 10.1145/3155808
+   Nakamoto S., 2008, BITCOIN PEER TO PEER, P21260
+   Phillips P. C. B., 2013, Testing for multiple bubbles 1: Historical episodes of exuberance and collapse in the SP 500
+   Phillips PCB, 2011, INT ECON REV, V52, P201, DOI 10.1111/j.1468-2354.2010.00625.x
+   Pichl L, 2017, QUANT FINANC ECON, V1, P474, DOI 10.3934/QFE.2017.4.474
+   Pilkington M, 2016, RESEARCH HANDBOOK ON DIGITAL TRANSFORMATIONS, P225
+   Pirgaip Burak, 2019, Blockchain Economics and Financial Market Innovation: Financial Innovations in the Digital Age, P141
+   Sapuric S, 2014, LECT NOTES BUS INF P, V183, P255, DOI 10.1007/978-3-319-11460-6_22
+   Schär F, 2021, FED RESERVE BANK ST, V103, P153, DOI 10.20955/r.103.153-74
+   Shahsavari Y, 2019, 2019 IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN (BLOCKCHAIN 2019), P237, DOI 10.1109/Blockchain.2019.00038
+   Shahzad SJH, 2022, FINANC RES LETT, V47, DOI 10.1016/j.frl.2022.102695
+   Sharma Rakesh., 2022, What Is Decentralized Finance (DeFi) and How Does ItWork?
+   Sovbetov Y., 2018, Journal of Economics and Financial Analysis, V2, P1
+   Spencer D., 2009, CARD SORTING DESIGNI
+   Vasek M, 2015, LECT NOTES COMPUT SC, V8975, P44, DOI 10.1007/978-3-662-47854-7_4
+   Vujiic D., 2018, 2018 17 INT S INFOTE, P1, DOI DOI 10.1109/INFOTEH.2018.8345547
+   Wei WC, 2018, ECON LETT, V171, P19, DOI 10.1016/j.econlet.2018.07.001
+   Wockl I., 2019, Bubble detection in financial markets-a survey of theoretical bubble models and empirical bubble detection tests
+   Wood G., 2017, ETHEREUM SECURE DECE
+   Xia PC, 2021, P ACM MEAS ANAL COMP, V5, DOI 10.1145/3491051
+   Young J., 2021, Representative Sample
+   Yuan Yiming, 2021, Huobi Weekly Report Analysis, V26
+NR 77
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD MAY
+PY 2024
+VL 24
+IS 2
+DI 10.1145/3643812
+PG 26
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RN9E8
+UT WOS:001228452800001
+DA 2024-08-05
+ER
+
+PT J
+AU Wu, JS
+   Dai, H
+   Kent, KB
+   Yen, J
+   Xu, CZ
+   Wang, Y
+AF Wu, Jiashu
+   Dai, Hao
+   Kent, Kenneth B.
+   Yen, Jerome
+   Xu, Chengzhong
+   Wang, Yang
+TI Open Set Dandelion Network for IoT Intrusion Detection
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE Domain adaptation; internet of things; intrusion detection; open-set
+   domain; adaptation; dandelion network
+ID DOMAIN ADAPTATION; INTERNET
+AB As Internet of Things devices become widely used in the real-world, it is crucial to protect them from malicious intrusions. However, the data scarcity of IoT limits the applicability of traditional intrusion detection methods, which are highly data-dependent. To address this, in this article, we propose the Open-Set Dandelion Network (OSDN) based on unsupervised heterogeneous domain adaptation in an open-set manner. The OSDN model performs intrusion knowledge transfer from the knowledge-rich source network intrusion domain to facilitate more accurate intrusion detection for the data-scarce target IoT intrusion domain. Under the open-set setting, it can also detect newly-emerged target domain intrusions that are not observed in the source domain. To achieve this, the OSDN model forms the source domain into a dandelion-like feature space in which each intrusion category is compactly grouped and different intrusion categories are separated, i.e., simultaneously emphasising inter-category separability and intra-category compactness. The dandelion-based targetmembership mechanism then forms the target dandelion. Then, the dandelion angular separation mechanism achieves better inter-category separability, and the dandelion embedding alignment mechanism further aligns both dandelions in a finer manner. To promote intra-category compactness, the discriminating sampled dandelion mechanism is used. Assisted by the intrusion classifier trained using both known and generated unknown intrusion knowledge, a semantic dandelion correction mechanism emphasises easily-confused categories and guides better inter-category separability. Holistically, these mechanisms form the OSDN model that effectively performs intrusion knowledge transfer to benefit IoT intrusion detection. Comprehensive experiments on several intrusion datasets verify the effectiveness of the OSDN model, outperforming three state-of-the-art baseline methods by 16.9%. The contribution of each OSDN constituting component, the stability and the efficiency of the OSDN model are also verified.
+C1 [Wu, Jiashu; Dai, Hao] Chinese Acad Sci, Shenzhen Inst Adv Technol, Shenzhen 518055, Guangdong, Peoples R China.
+   [Wu, Jiashu; Dai, Hao] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+   [Kent, Kenneth B.] Univ New Brunswick, Fredericton, NB E3B 5A3, Canada.
+   [Yen, Jerome; Xu, Chengzhong] Univ Macau, Taipa 999078, Madhya Pradesh, Peoples R China.
+   [Wang, Yang] Chinese Acad Sci, Shenzhen Inst Adv Technol, Shenzhen 518055, Guangdong, Peoples R China.
+C3 Chinese Academy of Sciences; Shenzhen Institute of Advanced Technology,
+   CAS; Chinese Academy of Sciences; University of Chinese Academy of
+   Sciences, CAS; University of New Brunswick; University of Macau; Chinese
+   Academy of Sciences; Shenzhen Institute of Advanced Technology, CAS
+RP Wang, Y (corresponding author), Chinese Acad Sci, Shenzhen Inst Adv Technol, Shenzhen 518055, Guangdong, Peoples R China.
+EM wujiashu21@mails.ucas.ac.cn; daihao19@mails.ucas.ac.cn; ken@unb.ca;
+   jeromeyen@um.edu.mo; czxu@um.edu.mo; yang.wang1@siat.ac.cn
+RI XU, CHENGZHONG/AAX-1707-2020
+OI XU, CHENGZHONG/0000-0001-9480-0356; Wang, Yang/0000-0001-9438-6060; Wu,
+   Jiashu/0000-0002-1347-1974; Kent, Kenneth B/0000-0003-2764-823X
+FU National Key R&D Program of China [2021YFB3300200]; National Natural
+   Science Foundation of China [92267105]; Guangdong Special Support Plan
+   [2021TQ06X990]; Third Xinjiang Scientific Expedition Program
+   [2021XJKK1300]; Shenzhen Science and Technology Plan Project
+   (Shenzhen-Hong Kong-Macau Category C) [SGDX20220530111001003]; Key-Area
+   Research and Development Program of Guangdong Province [2021B010140005];
+   Chinese Academy of Sciences President's International Fellowship
+   Initiative [2023VTA0001, 2023DT0003]
+FX This work is supported by the National Key R&D Program of China (No.
+   2021YFB3300200), National Natural Science Foundation of China (No.
+   92267105), Guangdong Special Support Plan (No. 2021TQ06X990), the Third
+   Xinjiang Scientific Expedition Program (Grant No. 2021XJKK1300),
+   Shenzhen Science and Technology Plan Project (Shenzhen-Hong Kong-Macau
+   Category C, No. SGDX20220530111001003), Key-Area Research and
+   Development Program of Guangdong Province (No. 2021B010140005) and the
+   Chinese Academy of Sciences President's International Fellowship
+   Initiative (Grant No. 2023VTA0001, No. 2023DT0003).
+CR Abdelmoumin G, 2022, IEEE INTERNET THINGS, V9, P4280, DOI 10.1109/JIOT.2021.3103829
+   Anthi E, 2019, IEEE INTERNET THINGS, V6, P9042, DOI 10.1109/JIOT.2019.2926365
+   Booij TM, 2022, IEEE INTERNET THINGS, V9, P485, DOI 10.1109/JIOT.2021.3085194
+   Bovenzi G, 2023, COMPUT SECUR, V128, DOI 10.1016/j.cose.2023.103167
+   Bovenzi G, 2020, IEEE GLOB COMM CONF, DOI 10.1109/GLOBECOM42002.2020.9348167
+   Busto PP, 2017, IEEE I CONF COMP VIS, P754, DOI 10.1109/ICCV.2017.88
+   Dai H, 2023, IEEE T SERV COMPUT, V16, P2517, DOI 10.1109/TSC.2023.3247049
+   Dietz C, 2018, INT CONF NETW FUT, P88, DOI 10.1109/NOF.2018.8598138
+   Erlacher F, 2022, IEEE T DEPEND SECURE, V19, P495, DOI 10.1109/TDSC.2020.2973992
+   Eskandari M, 2020, IEEE INTERNET THINGS, V7, P6882, DOI 10.1109/JIOT.2020.2970501
+   Fang Z, 2021, IEEE T NEUR NET LEAR, V32, P4309, DOI 10.1109/TNNLS.2020.3017213
+   Ganin Y, 2016, J MACH LEARN RES, V17
+   Harb H. M., 2011, ADV COMPUT SCI TECHN, V4, P179
+   Jing T., 2021, P INT C COMP VIS ICC, P9322
+   Koroniotis N, 2019, FUTURE GENER COMP SY, V100, P779, DOI 10.1016/j.future.2019.05.041
+   Kurniabudi, 2020, IEEE ACCESS, V8, P132911, DOI 10.1109/ACCESS.2020.3009843
+   Li S, 2020, MM '20: PROCEEDINGS OF THE 28TH ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA, P3866, DOI 10.1145/3394171.3413995
+   Li XH, 2022, LECT NOTES COMPUT SC, V13694, P1, DOI 10.1007/978-3-031-19830-4_1
+   Liang Jian, 2021, PROC INT C NEURAL IN, P12917
+   Lu Y, 2019, IEEE INTERNET THINGS, V6, P2103, DOI 10.1109/JIOT.2018.2869847
+   Luo Yadan, 2020, P INT C MACH LEARN P, P6468
+   Mangino A, 2020, ACM TRANS MANAG INF, V11, DOI 10.1145/3394504
+   Mehedi ST, 2023, IEEE T IND INFORM, V19, P1006, DOI 10.1109/TII.2022.3164770
+   Mirsky Y, 2018, 25TH ANNUAL NETWORK AND DISTRIBUTED SYSTEM SECURITY SYMPOSIUM (NDSS 2018), DOI 10.14722/ndss.2018.23204
+   Mitchell R, 2014, IEEE T SYST MAN CY-S, V44, P593, DOI 10.1109/TSMC.2013.2265083
+   Mitchell R, 2013, IEEE T SMART GRID, V4, P1254, DOI 10.1109/TSG.2013.2258948
+   Moustafa N, 2015, 2015 MILITARY COMMUNICATIONS AND INFORMATION SYSTEMS CONFERENCE (MILCIS)
+   Muhammad G, 2023, IEEE INTERNET THINGS, V10, P2071, DOI 10.1109/JIOT.2020.3041184
+   Murali S, 2020, IEEE INTERNET THINGS, V7, P379, DOI 10.1109/JIOT.2019.2948149
+   Nath Kundu Jogendra, 2020, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Proceedings, P12373, DOI 10.1109/CVPR42600.2020.01239
+   Qiu H, 2021, IEEE INTERNET THINGS, V8, P10327, DOI 10.1109/JIOT.2020.3048038
+   Rozemberczki B, 2020, CIKM '20: PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, P1325, DOI 10.1145/3340531.3411866
+   Satam P, 2021, IEEE T NETW SERV MAN, V18, P1077, DOI 10.1109/TNSM.2020.3036138
+   Setz Hettich, 1999, The uci kdd archive
+   Sharafaldin I, 2018, ICISSP: PROCEEDINGS OF THE 4TH INTERNATIONAL CONFERENCE ON INFORMATION SYSTEMS SECURITY AND PRIVACY, P108, DOI 10.5220/0006639801080116
+   Tavallaee M., 2009, PROC IEEE S COMPUT, P6
+   Tavallaee M, 2010, IEEE T SYST MAN CY C, V40, P516, DOI 10.1109/TSMCC.2010.2048428
+   Viriyasitavat W, 2019, IEEE T COMPUT SOC SY, V6, P739, DOI 10.1109/TCSS.2019.2924442
+   Wu JS, 2023, IEEE INTERNET THINGS, V10, P10764, DOI 10.1109/JIOT.2023.3239872
+   Wu JS, 2023, IEEE INTERNET THINGS, V10, P13205, DOI 10.1109/JIOT.2023.3262458
+   Wu JS, 2023, IEEE INTERNET THINGS, V10, P3368, DOI 10.1109/JIOT.2022.3218339
+   Wu JS, 2023, IEEE T COMPUT, V72, P1208, DOI 10.1109/TC.2022.3191969
+   Xie BH, 2023, IEEE T KNOWL DATA EN, V35, P6518, DOI 10.1109/TKDE.2022.3185233
+   Yao HP, 2019, IEEE INTERNET THINGS, V6, P7515, DOI 10.1109/JIOT.2019.2901348
+NR 44
+TC 0
+Z9 0
+U1 9
+U2 9
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD FEB
+PY 2024
+VL 24
+IS 1
+AR 4
+DI 10.1145/3639822
+PG 26
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK7K8
+UT WOS:001193578500004
+OA Bronze, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Dong, C
+   Wang, F
+   Feng, D
+AF Dong, Chao
+   Wang, Fang
+   Feng, Dan
+TI DxHash: A Memory-saving Consistent Hashing Algorithm
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE DxHash; consistent hashing; load balance; memory saving
+AB Consistent Hashing (CH) algorithms are widely adopted in networks and distributed systems for their ability to achieve load balancing and minimize disruptions. However, the rise of the Internet of Things (IoT) has introduced new challenges for existing CH algorithms, characterized by high memory usage and update overhead. This article presents DxHash, a novel CH algorithm based on repeated pseudo-random number generation. DxHash offers significant benefits, including a remarkably low memory footprint, high lookup throughput, and minimal update overhead. Additionally, we introduce a weighted variant of DxHash, enabling adaptable weight adjustments to handle heterogeneous load distribution. Through extensive evaluation, we demonstrate that DxHash outperforms AnchorHash, a state-of-the-art CH algorithm, in terms of the reduction of up to 98.4% in memory footprint and comparable performance in lookup and update.
+C1 [Dong, Chao; Wang, Fang; Feng, Dan] Huazhong Univ Sci & Technol, Minist Educ China, Sch Comp Sci & Technol,WNLO, Key Lab Informat Storage Syst,Engn Res Ctr Data S, Wuhan, Hubei, Peoples R China.
+C3 Huazhong University of Science & Technology
+RP Dong, C (corresponding author), Huazhong Univ Sci & Technol, Minist Educ China, Sch Comp Sci & Technol,WNLO, Key Lab Informat Storage Syst,Engn Res Ctr Data S, Wuhan, Hubei, Peoples R China.
+EM chaosdong@hust.edu.cn; wangfang@mail.hust.edu.cn; dfeng@hust.edu.cn
+OI Dong, Chao/0000-0001-9965-0852
+FU National Natural Science Foundation of China (NSFC) [U22A2027, 61832020,
+   61821003]
+FX This work was supported by National Natural Science Foundation of China
+   (NSFC) Grant No. U22A2027, 61832020, 61821003.
+CR Abid SA, 2015, ACM COMPUT SURV, V47, DOI 10.1145/2632296
+   Androutsellis-Theotokis S, 2004, ACM COMPUT SURV, V36, P335, DOI 10.1145/1041680.1041681
+   Appleton B, 2015, Arxiv, DOI arXiv:1505.00062
+   Barker Elaine B., 2007, Technical Report
+   Chung C, 2019, TWENTY-FOURTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXIV), P939, DOI 10.1145/3297858.3304022
+   Cisco U., 2020, Cisco annual internet report (20182023) white paper
+   DeCandia Giuseppe, 2007, Operating Systems Review, V41, P205, DOI 10.1145/1323293.1294281
+   Di Wu, 2015, 2015 IEEE Conference on Computer Communications (INFOCOM). Proceedings, P208, DOI 10.1109/INFOCOM.2015.7218384
+   Eisenbud DE, 2016, 13TH USENIX SYMPOSIUM ON NETWORKED SYSTEMS DESIGN AND IMPLEMENTATION (NSDI '16), P523
+   Fu X, 2015, LECT NOTES COMPUT SC, V9243, P559, DOI 10.1007/978-3-319-23862-3_55
+   Goel P, 2017, INT CONF CLOUD COMP, P218, DOI 10.1109/CloudCom.2017.49
+   Gupta H., 2018, USENIX WORKSHOP HOT
+   Karger D, 1999, COMPUT NETW, V31, P1203, DOI 10.1016/S1389-1286(99)00055-9
+   Karger David, 1997, Proceedings of STOC, P654
+   Kumar S., 2011, INT JOINT C ART INT, P1360, DOI DOI 10.5591/978-1-57735-516-8/IJCAI11-230
+   Lakshman Avinash, 2010, Operating Systems Review, V44, P35, DOI 10.1145/1773912.1773922
+   Lamping J, 2014, Arxiv, DOI arXiv:1406.2294
+   Liu ZX, 2019, PROCEEDINGS OF THE 17TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P143
+   Maymounkov P, 2002, LECT NOTES COMPUT SC, V2429, P53
+   Mendelson G, 2021, IEEE ACM T NETWORK, V29, P517, DOI 10.1109/TNET.2020.3039547
+   Nakamoto S., 2008, BITCOIN PEER TO PEER, P21260
+   Nakatani Y, 2021, IEEE T PARALL DISTR, V32, P2248, DOI 10.1109/TPDS.2021.3058963
+   Philippou A. N., 1983, Stat. Probab. Lett., V1, P171, DOI DOI 10.1016/0167-7152(83)90025-1
+   Shu JW, 2020, ACM T STORAGE, V16, DOI 10.1145/3412852
+   Singhal Ronak, 2008, 2008 IEEE HOT CHIPS, P1
+   Stoica I, 2003, IEEE ACM T NETWORK, V11, P17, DOI 10.1109/TNET.2002.808407
+   Thaler DG, 1998, IEEE ACM T NETWORK, V6, P1, DOI 10.1109/90.663936
+   Wang XM, 2007, IEEE ACM T NETWORK, V15, P892, DOI 10.1109/TNET.2007.893881
+   Weiss Yair, 2009, P 2009 C COMPUTER VI, P293
+   Wu CG, 2019, PROC VLDB ENDOW, V12, P624, DOI 10.14778/3311880.3311881
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD FEB
+PY 2024
+VL 24
+IS 1
+AR 3
+DI 10.1145/3631708
+PG 22
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK7K8
+UT WOS:001193578500003
+DA 2024-08-05
+ER
+
+PT J
+AU Yang, XZ
+   Zeng, ZW
+   Liu, AF
+   Xiong, NN
+   Zhang, SB
+AF Yang, Xuezheng
+   Zeng, Zhiwen
+   Liu, Anfeng
+   Xiong, Neal N.
+   Zhang, Shaobo
+TI ADTO: A Trust Active Detecting-based Task Offloading Scheme in Edge
+   Computing for Internet of Things
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE Edge computing; task offloading; trust computing; QoS; Internet of
+   Things; active detection
+ID SYSTEM
+AB In edge computing, Internet of Things devices with weak computing power offload tasks to nearby edge servers for execution, so the task completion time can be reduced and delay-sensitive tasks can be facilitated. However, if the task is offloaded to malicious edge servers, then the system will suffer losses. Therefore, it is significant to identify the trusted edge servers and offload tasks to trusted edge servers, which can improve the performance of edge computing. However, it is still challenging. In this article, a trust Active Detecting-based Task Offloading (ADTO) scheme is proposed to maximize revenue in edge computing. The main innovation points of our work are as follows: (a) The ADTO scheme innovatively proposes a method to actively get trust by trust detection. This method offloads microtasks to edge servers whose trust needs to be identified, and then quickly identifies the trust of edge servers according to the completion of tasks by edge servers. Based on the identification of the trust, tasks can be offloaded to trusted edge servers, to improve the success rate of tasks. (b) Although the trust of edge servers can be identified by our detection, it needs to pay a price. Therefore, to maximize system revenue, searching the most suitable number of trusted edge servers for various conditions is transformed into an optimization problem. Finally, theoretical and experimental analysis shows the effectiveness of the proposed strategy, which can effectively identify the trusted and untrusted edge servers. The task offloading strategy based on trust detection proposed in this article greatly improves the success rate of tasks, compared with the strategy without trust detection, the task success rate is increased by 40.27%, and there is a significant increase in revenue, which fully demonstrates the effectiveness of the strategy.
+C1 [Yang, Xuezheng; Zeng, Zhiwen; Liu, Anfeng] Cent South Univ, Sch Elect Informat, Changsha, Hunan, Peoples R China.
+   [Xiong, Neal N.] Sul Ross State Univ, Dept Comp Sci & Math, Alpine, TX USA.
+   [Zhang, Shaobo] Hunan Univ Sci & Technol, Sch Comp Sci & Engn, Xiangtan, Peoples R China.
+C3 Central South University; Texas State University System; Hunan
+   University of Science & Technology
+RP Liu, AF (corresponding author), Cent South Univ, Sch Elect Informat, Changsha, Hunan, Peoples R China.; Xiong, NN (corresponding author), Sul Ross State Univ, Dept Comp Sci & Math, Alpine, TX USA.
+EM xuezhengyang@csu.edu.cn; zengzhiwen@csu.edu.cn;
+   afengliu@mail.csu.edu.cn; xiongnaixue@gmail.com;
+   shaobozhang@hnust.edu.cn
+RI xiong, naixue/M-4277-2019; Shaobo, Zhang/GZL-5342-2022
+OI xiong, naixue/0000-0002-0394-4635; Shaobo, Zhang/0000-0001-7980-9651;
+   zeng, zhiwen/0000-0002-8566-6965
+FU National Natural Science Foundation of China [62072475, 62272117];
+   construction of innovative provinces in Hunan Province [2021GK4012];
+   Joint Foundation of Guangzhou and Universities on Basic and Applied
+   Basic Research [202201020126]
+FX This work was supported in part by the National Natural Science
+   Foundation of China (Grants No. 62072475 and No. 62272117), special
+   funding for the construction of innovative provinces in Hunan Province
+   (Grant No. 2021GK4012), and the Joint Foundation of Guangzhou and
+   Universities on Basic and Applied Basic Research (Grant No.
+   202201020126).
+CR Abbasi M, 2021, COMPUT COMMUN, V169, P71, DOI 10.1016/j.comcom.2021.01.022
+   Al-khafajiy M, 2020, J PARALLEL DISTR COM, V137, P1, DOI 10.1016/j.jpdc.2019.10.006
+   Chen MJ, 2021, COMPUT COMMUN, V175, P1, DOI 10.1016/j.comcom.2021.04.028
+   Ge J., 2020, Trans. Emerg. Telecommun. Technol., V32, P1
+   Gedawy H, 2021, IEEE T MOBILE COMPUT, V20, P2654, DOI 10.1109/TMC.2020.2984134
+   Guo JL, 2022, IEEE T NETW SCI ENG, V9, P203, DOI 10.1109/TNSE.2021.3057881
+   Guo JL, 2021, INFORM SCIENCES, V573, P519, DOI 10.1016/j.ins.2021.05.020
+   Guo JW, 2021, J SYST ARCHITECT, V119, DOI 10.1016/j.sysarc.2021.102219
+   Huang MF, 2021, IEEE J SEL AREA COMM, V39, P3444, DOI 10.1109/JSAC.2021.3088675
+   Huang SB, 2021, IEEE T NETW SCI ENG, V8, P347, DOI 10.1109/TNSE.2020.3038454
+   Huang W, 2020, COMPUT COMMUN, V164, P201, DOI 10.1016/j.comcom.2020.10.019
+   Hwang J, 2021, IEEE INTERNET THINGS, V8, P11526, DOI 10.1109/JIOT.2021.3052498
+   Li MC, 2021, IEEE T EVOLUT COMPUT, V25, P842, DOI 10.1109/TEVC.2021.3049131
+   Li T, 2022, IEEE INTERNET THINGS, V9, P22327, DOI 10.1109/JIOT.2021.3085004
+   Li T, 2021, INFORM SCIENCES, V545, P65, DOI 10.1016/j.ins.2020.07.052
+   Mitsis G, 2022, IEEE SYST J, V16, P6546, DOI 10.1109/JSYST.2022.3188997
+   Pecori R, 2019, IEEE INTERNET COMPUT, V23, P49, DOI 10.1109/MIC.2019.2936754
+   Rahimi H, 2021, IEEE T COMPUT, V70, P1213, DOI 10.1109/TC.2021.3066579
+   Saeik F, 2021, COMPUT NETW, V195, DOI 10.1016/j.comnet.2021.108177
+   Shahryari OK, 2021, PERVASIVE MOB COMPUT, V74, DOI 10.1016/j.pmcj.2021.101395
+   Dinh TQ, 2017, IEEE T COMMUN, V65, P3571, DOI 10.1109/TCOMM.2017.2699660
+   Tran-Dang H, 2021, IEEE T PARALL DISTR, V32, P2491, DOI 10.1109/TPDS.2021.3067654
+   Yi HB, 2022, COMPUT COMMUN, V186, P45, DOI 10.1016/j.comcom.2022.01.007
+   Yue S, 2022, IEEE T PARALL DISTR, V33, P1650, DOI 10.1109/TPDS.2021.3123535
+   Zhang XF, 2020, IEEE T VEH TECHNOL, V69, P3296, DOI 10.1109/TVT.2020.2965159
+   Zhou W, 2021, IEEE T VEH TECHNOL, V70, P5172, DOI 10.1109/TVT.2021.3075018
+   Zhu XY, 2021, IEEE INTERNET THINGS, V8, P9763, DOI 10.1109/JIOT.2020.3040768
+NR 27
+TC 0
+Z9 0
+U1 8
+U2 8
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD FEB
+PY 2024
+VL 24
+IS 1
+AR 5
+DI 10.1145/3640013
+PG 25
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK7K8
+UT WOS:001193578500005
+DA 2024-08-05
+ER
+
+PT J
+AU Sachan, A
+   Kumar, N
+AF Sachan, Anuj
+   Kumar, Neetesh
+TI SDN-enabled Quantized LQR for Smart Traffic Light Controller to Optimize
+   Congestion
+SO ACM TRANSACTIONS ON INTERNET TECHNOLOGY
+LA English
+DT Article
+DE Intelligent transportation system (ITS); smart city; traffic light
+   controller (TLC); urban traffic network
+ID NETWORK
+AB Existing intersection management systems, in urban cities, lack in meeting the current requirements of selfconfiguration, lightweight computing, and software-defined control, which are necessarily required for congested road-lane networks. To satisfy these requirements, this work proposes effective, scalable, multi-input and multi-output, and congestion prevention-enabled intersection management system utilizing a softwaredefined control interface that not only regularly monitors the traffic to prevent congestion for minimizing queue length and waiting time but also offers a computationally efficient solution in real-time. For effective intersection management, a modified linear-quadratic regulator, i.e., Quantized Linear Quadratic Regulator (QLQR), is designed along with Software-defined Networking (SDN)-enabled control interface to maximize throughput and vehicles speed and minimize queue length and waiting time at the intersection. Experimental results prove that the proposed SDN-QLQR improves the comparative performance in the interval of 24.94%-49.07%, 35.78%-68.86%, 36.67%-59.08%, and 29.94%-57.87% for various performance metrics, i.e., average queue length, average waiting time, throughput, and average speed, respectively.
+C1 [Sachan, Anuj; Kumar, Neetesh] Indian Inst Technol Roorkee, Dept Comp Sci & Engn, Roorkee 247667, Uttar Pradesh, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Roorkee
+RP Sachan, A (corresponding author), Indian Inst Technol Roorkee, Dept Comp Sci & Engn, Roorkee 247667, Uttar Pradesh, India.
+EM anuj_s@cs.iitr.ac.in; neetesh@cs.iitr.ac.in
+RI Sachan, Anuj/GVT-3941-2022
+OI Sachan, Anuj/0000-0002-2907-3305; kumar, neetesh/0000-0002-0516-1095
+FU Science and Engineering Research Board (SERB), Department of Science and
+   Technology, Government of India [SER-EEQ/2019/000182]; Council of
+   Scientific and Industrial Research (CSIR), New Delhi, Government of
+   India [22-0817-19-EMR-II]
+FX This research is supported by the Science and Engineering Research Board
+   (SERB), Department of Science and Technology, Government of India (Grant
+   No. SER-EEQ/2019/000182), and the Council of Scientific and Industrial
+   Research (CSIR), New Delhi, Government of India (Grant No.
+   22-0817-19-EMR-II)..
+CR Abbasi M, 2021, IEEE T INTELL TRANSP, V22, P5283, DOI 10.1109/TITS.2020.3038250
+   Aftabuzzaman Md, 2007, P 30 AUSTR TRANS RES
+   Balaji PG, 2010, IET INTELL TRANSP SY, V4, P177, DOI 10.1049/iet-its.2009.0096
+   Barman S, 2022, TRANSPORT RES REC, V2676, P110, DOI 10.1177/03611981211072807
+   Chauhan S., 2022, INT C NEUR INF PROC, P505
+   Chen ZW, 2023, ASIA PAC J OPER RES, V40, DOI 10.1142/S0217595923400043
+   Chow AHF, 2020, IEEE T INTELL TRANSP, V21, P1697, DOI 10.1109/TITS.2019.2955425
+   Chow AHF, 2020, TRANSPORT RES C-EMER, V113, P108, DOI 10.1016/j.trc.2019.05.007
+   Cools SB, 2008, ADV INFORM KNOWL PRO, P41, DOI 10.1007/978-1-84628-982-8_3
+   Diakaki C, 2002, CONTROL ENG PRACT, V10, P183, DOI 10.1016/S0967-0661(01)00121-6
+   Farooq W, 2016, 2016 INTERNATIONAL CONFERENCE ON COMPUTING, ELECTRONIC AND ELECTRICAL ENGINEERING (ICE CUBE), P42, DOI 10.1109/ICECUBE.2016.7495251
+   Hakiri A, 2020, RTNS 2019: PROCEEDINGS OF THE 27TH INTERNATIONAL CONFERENCE ON REAL-TIME NETWORKS AND SYSTEMS (RTNS 2019), P165, DOI 10.1145/3356401.3356406
+   Hunt P. B., 1982, Traffic Engineering & Control, V23, P190
+   Hussain S, 2022, IEEE T INTELL TRANSP, V23, P15396, DOI 10.1109/TITS.2022.3140461
+   Kamal MAS, 2021, IEEE T IND INFORM, V17, P6230, DOI 10.1109/TII.2021.3051961
+   Krajzewicz D, 2012, Int J Adv Syst Meas, V5
+   Kraus W, 2010, IEEE INTEL TRANSP SY, V2, P6, DOI 10.1109/MITS.2010.939916
+   Kuang L, 2021, ACM T INTERNET TECHN, V21, DOI 10.1145/3418682
+   Kumar N, 2022, IEEE T INTELL TRANSP, V23, P2411, DOI 10.1109/TITS.2021.3095161
+   Kwakernaak H., 1972, Linear Optimal Control Systems
+   Mahjri I, 2019, IEEE INT C INTELL TR, P2213, DOI 10.1109/ITSC.2019.8916984
+   McKeown N, 2008, ACM SIGCOMM COMP COM, V38, P69, DOI 10.1145/1355734.1355746
+   Mercader P, 2020, TRANSPORT RES C-EMER, V110, P275, DOI 10.1016/j.trc.2019.10.002
+   Naseer Muhammad., 2016, Modeling Control Traffic in Distributed Software Defined Networks
+   Noaeen M, 2022, EXPERT SYST APPL, V199, DOI 10.1016/j.eswa.2022.116830
+   Park J, 2022, IEEE INT C INTELL TR, P2240, DOI 10.1109/ITSC55140.2022.9922033
+   raspberrypi, GPIO (general-purpose input/output) pins
+   Sachan A, 2023, 2023 IEEE/ACM 23RD INTERNATIONAL SYMPOSIUM ON CLUSTER, CLOUD AND INTERNET COMPUTING, CCGRID, P557, DOI 10.1109/CCGRID57682.2023.00058
+   Sachan A, 2023, J SUPERCOMPUT, V79, P14923, DOI 10.1007/s11227-023-05216-0
+   Sachan A, 2023, IEEE SYST J, V17, P1694, DOI 10.1109/JSYST.2022.3211933
+   Sharma PK, 2018, IEEE COMMUN MAG, V56, P104, DOI 10.1109/MCOM.2018.1700822
+   Sims A.G., 1979, URBAN TRANSPORT DIVI, P12
+   Stengel R. F., 1994, OPTIMAL CONTROL ESTI
+   Tedrake R, 2023, Underactuated robotics
+   Tomar I, 2022, ELECTRONICS-SWITZ, V11, DOI 10.3390/electronics11030465
+   Triantis K, 2011, TRANSPORT PLAN TECHN, V34, P637, DOI 10.1080/03081060.2011.602845
+   Varaiya P, 2013, TRANSPORT RES C-EMER, V36, P177, DOI 10.1016/j.trc.2013.08.014
+   Wang H, 2022, IEEE T INTELL TRANSP, V23, P333, DOI 10.1109/TITS.2020.3010725
+   Yadav Shivnath, 2022, AI and IoT for Smart City Applications, P47
+   Yu WQ, 2022, IEEE ACCESS, V10, P109729, DOI 10.1109/ACCESS.2022.3213798
+   Zhang HB, 2017, 2017 6TH DATA DRIVEN CONTROL AND LEARNING SYSTEMS (DDCLS), P745, DOI 10.1109/DDCLS.2017.8068166
+   Zhang ZS, 2020, IEEE T IND INFORM, V16, P2458, DOI 10.1109/TII.2019.2932093
+   Zou Q, 2023, IEEE T AUTOM SCI ENG, V20, P2454, DOI 10.1109/TASE.2022.3207289
+NR 43
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1533-5399
+EI 1557-6051
+J9 ACM T INTERNET TECHN
+JI ACM Trans. Internet. Technol.
+PD FEB
+PY 2024
+VL 24
+IS 1
+AR 7
+DI 10.1145/3641104
+PG 25
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK7K8
+UT WOS:001193578500007
+DA 2024-08-05
+ER
+
+EF

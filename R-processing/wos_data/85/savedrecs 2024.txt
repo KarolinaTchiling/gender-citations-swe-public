@@ -1,0 +1,1044 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Giacobazzi, R
+   Mastroeni, I
+   Perantoni, E
+AF Giacobazzi, Roberto
+   Mastroeni, Isabella
+   Perantoni, Elia
+TI Adversities in Abstract Interpretation: Accommodating Robustness by
+   Abstract Interpretation
+SO ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS
+LA English
+DT Article
+DE Robustness of classifying systems; abstract interpretation;
+   informationflow; policies; domain completeness; machine learning
+AB Robustness is a key and desirable property of any classifying system, in particular, to avoid the ever-rising threat of adversarial attacks. Informally, a classification system is robust when the result is not affected by the perturbation of the input. This notion has been extensively studied, but little attention has been dedicated to how the perturbation affects the classification. The interference between perturbation and classification can manifest in many different ways, and its understanding is the main contribution of the present article. Starting from a rigorous definition of a standard notion of robustness, we build a formal method for accommodating the required degree of robustness-depending on the amount of error the analyst may accept on the classification result. Our idea is to precisely model this error as an abstraction. This leads us to define weakened forms of robustness also in the context of programming languages, particularly in language-based security, e.g., information-flow policies, and in program verification. The latter is possible by moving from a quantitative (standard) model of perturbation to a novel qualitative model, given by means of the notion of abstraction. As in language-based security, we show that it is possible to confine adversities, which means to characterize the degree of perturbation (and/or the degree of class generalization) for which the classifier may be deemed adequately robust. We conclude with an experimental evaluation of our ideas, showing how weakened forms of robustness apply to state-of-the-art image classifiers.
+C1 [Giacobazzi, Roberto] Univ Arizona, Dept Comp Sci, 1040 E 4th St,POB 210077, Tucson, AZ 85721 USA.
+   [Mastroeni, Isabella; Perantoni, Elia] Univ Verona, Dept Comp Sci, Ca Vignal 2,Str Grazie 15, I-37134 Verona, Italy.
+C3 University of Arizona; University of Verona
+RP Giacobazzi, R (corresponding author), Univ Arizona, Dept Comp Sci, 1040 E 4th St,POB 210077, Tucson, AZ 85721 USA.
+EM giacobazzi@arizona.edu; isabella.mastroeni@univr.it;
+   perantonielia0@gmail.com
+RI Mastroeni, Isabella/JSL-1710-2023
+OI Mastroeni, Isabella/0000-0003-1213-536X
+FU Air Force Office of Scientific Research [FA9550-23-1-0544]; University
+   of Verona
+FX This material is based upon work supported by the Air Force Office of
+   Scientific Research under award number FA9550-23-1-0544, and also upon
+   work supported by ARES-Analyzing secuRity in modErn Software, funded by
+   the University of Verona.
+CR Albarghouthi Aws, 2021, Trends Program. Lang., V7, P1
+   Balliu M, 2010, LECT NOTES COMPUT SC, V6340, P261, DOI 10.1007/978-3-642-17499-5_11
+   Boser B. E., 1992, Proceedings of the Fifth Annual ACM Workshop on Computational Learning Theory, P144, DOI 10.1145/130385.130401
+   Bruni R, 2023, J ACM, V70, DOI 10.1145/3582267
+   Bruni R, 2022, PROCEEDINGS OF THE 43RD ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '22), P426, DOI 10.1145/3519939.3523453
+   Bruni R, 2021, IEEE S LOG, DOI 10.1109/LICS52264.2021.9470608
+   Campion M, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3498721
+   Centenaro M, 2009, LECT NOTES COMPUT SC, V5789, P53, DOI 10.1007/978-3-642-04444-1_4
+   Changliu Liu, 2021, Foundations and Trends in Optimization, V4, P244, DOI 10.1561/2400000035
+   Chaudhuri S, 2012, COMMUN ACM, V55, P107, DOI [10.1145/2240230.2240282, 10.1145/2240236.2240262]
+   Chaudhuri S, 2010, POPL'10: PROCEEDINGS OF THE 37TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P57, DOI 10.1145/1706299.1706308
+   Cousot P., 1979, 6 ACM S PRINC PROGR, P269, DOI [DOI 10.1145/567752.567778, 10.1145/567752.567778]
+   Cousot P., 1977, Conference Record of the Fourth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P238, DOI [10.1145/512950.512973, DOI 10.1145/512950.512973]
+   Fawzi A, 2017, IEEE SIGNAL PROC MAG, V34, P50, DOI 10.1109/MSP.2017.2740965
+   Ganter B., 2005, Formal Concept Analysis: Foundations and Applications.
+   Gehr T, 2018, P IEEE S SECUR PRIV, P3, DOI 10.1109/SP.2018.00058
+   Giacobazzi Roberto, 2023, Static Analysis: 30th International Symposium, SAS 2023, Proceedings. Lecture Notes in Computer Science (14284), P286, DOI 10.1007/978-3-031-44245-2_14
+   Giacobazzi R., 2004, SIGPLAN Notices, V39, P186, DOI 10.1145/982962.964017
+   Giacobazzi R, 2000, J ACM, V47, P361, DOI 10.1145/333979.333989
+   Giacobazzi R, 2018, ACM T PRIV SECUR, V21, DOI 10.1145/3175660
+   Giacobazzi R, 2010, J COMPUT SECUR, V18, P751, DOI 10.3233/JCS-2009-0382
+   Giraudon T, 2021, 2021 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP 2021), P4015, DOI 10.1109/ICASSP39728.2021.9414573
+   Hein M., 2017, ADV NEURAL INFORM PR, V30, P2266
+   Hunt S, 2005, LECT NOTES COMPUT SC, V3672, P171
+   John Stuart Mill, 1882, A System of Logic, Ratiocinative and Inductive
+   Krizhevsky A., 2009, LEARNING MULTIPLE LA
+   LeCun Y., 1998, The MNIST Database of Handwritten Digits
+   Leino K, 2021, PR MACH LEARN RES, V139
+   Li Kaican, 2022, unpublished
+   Lin TY, 2014, LECT NOTES COMPUT SC, V8693, P740, DOI 10.1007/978-3-319-10602-1_48
+   Madry A, 2019, Arxiv, DOI arXiv:1706.06083
+   Mastroeni Isabella, 2023, Static Analysis: 30th International Symposium, SAS 2023, Proceedings. Lecture Notes in Computer Science (14284), P434, DOI 10.1007/978-3-031-44245-2_19
+   Mastroeni I, 2005, LECT NOTES COMPUT SC, V3780, P418
+   Mastroeni I, 2013, ELECTRON PROC THEOR, P41, DOI 10.4204/EPTCS.129.4
+   McCulloch WS, 1943, The bulletin of mathematical biophysics, V5, P115
+   Mirman M, 2018, PR MACH LEARN RES, V80
+   Ranzato F, 2004, LECT NOTES COMPUT SC, V2986, P18
+   Ruan WJ, 2018, Arxiv, DOI arXiv:1804.05805
+   Singh G, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3290354
+   Singh G, 2018, ADV NEUR IN, V31
+   Skopljanac-Macina F, 2014, PROCEDIA ENGINEER, V69, P1258, DOI 10.1016/j.proeng.2014.03.117
+   Szegedy C, 2014, Arxiv, DOI arXiv:1312.6199
+   Tsipras D., 2018, arXiv
+   Zhang Y., 2020, Proceedings of the 37th international conference on machine learning, ICML 2020, 13-18 july 2020, virtual event
+   Zhou Bolei, 2016, unpublished
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0164-0925
+EI 1558-4593
+J9 ACM T PROGR LANG SYS
+JI ACM Trans. Program. Lang. Syst.
+PD JUN
+PY 2024
+VL 46
+IS 2
+AR 5
+DI 10.1145/3649309
+PG 31
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XS0A3
+UT WOS:001263536900001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Sistla, MA
+   Chaudhuri, S
+   Reps, T
+AF Sistla, Meghana Aparna
+   Chaudhuri, Swarat
+   Reps, Thomas
+TI CFLOBDDs: Context-Free-Language Ordered Binary Decision Diagrams
+SO ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS
+LA English
+DT Article
+DE Decision diagram; matched paths; best-case double-exponential
+   compression; quantum simulation
+AB This article presents a new compressed representation of Boolean functions, called CFLOBDDs (for ContextFree-Language Ordered Binary Decision Diagrams). They are essentially a plug-compatible alternative to BDDs (Binary Decision Diagrams), and hence are useful for representing certain classes of functions, matrices, graphs, relations, and so forth in a highly compressed fashion. CFLOBDDs share many of the good properties of BDDs, but-in the best case-the CFLOBDD for a Boolean function can be exponentially smaller than any BDD for that function. Compared with the size of the decision tree for a function, a CFLOBDD-again, in the best case-can give a double-exponential reduction in size. They have the potential to permit applications to (i) execute much faster and (ii) handle much larger problem instances than has been possible heretofore.
+   We applied CFLOBDDs in quantum-circuit simulation and found that for several standard problems, the improvement in scalability, compared to BDDs, is quite dramatic. With a 15-minute timeout, the number of qubits that CFLOBDDs can handle are 65,536 for Greenberger-Horne-Zellinger, 524,288 for BernsteinVazirani, 4,194,304 for Deutsch-Jozsa, and 4,096 for Grover's algorithm, besting BDDs by factors of 128x, 1,024x, 8,192x, and 128x, respectively.
+C1 [Sistla, Meghana Aparna; Chaudhuri, Swarat] Univ Texas Austin, Comp Sci Dept, 2317 Speedway,Stop D9500, Austin, TX 78712 USA.
+   [Reps, Thomas] Univ Wisconsin Madison, Comp Sci Dept, 1210 West Dayton St, Madison, WI 53706 USA.
+C3 University of Texas System; University of Texas Austin; University of
+   Wisconsin System; University of Wisconsin Madison
+RP Sistla, MA (corresponding author), Univ Texas Austin, Comp Sci Dept, 2317 Speedway,Stop D9500, Austin, TX 78712 USA.
+EM mesistla@utexas.edu; swarat@cs.utexas.edu; reps@cs.wisc.edu
+FU John Simon Guggenheim Memorial Foundation; Facebook under a Probability
+   and Programming Research Award; NSF [CCR-9986308, CCF-2212559]; ONR
+   [N00014-00-1-0607, N00014-19-1-2318]; MDA under SBIR contract
+   [DASG60-01-P-0048]; S.N. Bose Scholarship
+FX The work was supported, in part, by a gift from Rajiv and Ritu Batra; by
+   the John Simon Guggenheim Memorial Foundation; by Facebook under a
+   Probability and Programming Research Award; by NSF under grants
+   CCR-9986308 and CCF-2212559; by ONR under contracts N00014-00-1-0607 and
+   N00014-19-1-2318; by the MDA under SBIR contract DASG60-01-P-0048 to
+   GrammaTech Inc., and by an S.N. Bose Scholarship to M.A. Sistla. T. Reps
+   has an ownership interest in GrammaTech Inc., which has licensed
+   elements of the technology reported in this publication.
+CR Alur R, 2005, ACM T PROGR LANG SYS, V27, P786, DOI 10.1145/1075382.1075387
+   Anuchitanukul A, 1995, LECT NOTES COMPUT SC, V1000, P218
+   BAHAR RI, 1993, 1993 IEEE/ACM INTERNATIONAL CONFERENCE ON COMPUTER-AIDED DESIGN - DIGEST OF TECHNICAL PAPERS, P188, DOI 10.1109/ICCAD.1993.580054
+   Ball T., 2001, Model Checking Software. 8th International SPIN Workshop. Proceedings (Lecture Notes in Computer Science Vol.2057), P103
+   Ball T, 1996, PROCEEDINGS OF THE 29TH ANNUAL IEEE/ACM INTERNATIONAL SYMPOSIUM ON MICROARCHITECTURE - MICRO-29, P46, DOI 10.1109/MICRO.1996.566449
+   Ball T, 2001, ACM SIGPLAN NOTICES, P97
+   Bañuls MC, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.240603
+   Beauregard S, 2003, Arxiv, DOI arXiv:quant-ph/0205095
+   Benedikt M, 2001, LECT NOTES COMPUT SC, V2076, P652
+   Brace K. S., 1990, 27th ACM/IEEE Design Automation Conference. Proceedings 1990 (Cat. No.90CH2894-4), P40, DOI 10.1109/DAC.1990.114826
+   BRYANT RE, 1986, IEEE T COMPUT, V35, P677, DOI 10.1109/TC.1986.1676819
+   BRYANT RE, 1995, DES AUT CON, P535
+   Clarke Edmund M., 1995, Technical Report CS-95-160
+   Clarke EdmundM., 1996, Representations of discrete functions, P93
+   CLARKE EM, 1993, ACM IEEE D, P54
+   Clarke EM, 1995, 1995 IEEE/ACM INTERNATIONAL CONFERENCE ON COMPUTER-AIDED DESIGN, P159, DOI 10.1109/ICCAD.1995.480007
+   Constable R. L., 1972, SIAM Journal on Computing, V1, P66, DOI 10.1137/0201006
+   Darwiche Adnan, 2011, P 22 INT JOINT C ART
+   Filliatre Jean-Christophe, 2006, ML, P12, DOI DOI 10.1145/1159876.1159880
+   Fousse L, 2007, ACM T MATH SOFTWARE, V33, DOI 10.1145/1236463.1236468
+   Fowler AG, 2004, Arxiv, DOI arXiv:quant-ph/0402196
+   Garland S. J., 1973, Journal of Computer and System Sciences, V7, P119, DOI 10.1016/S0022-0000(73)80040-6
+   Goto Eiichi, 1974, Technical Report TR 74-03
+   Gray J., 2018, J. Open Source Softw., V3, P819, DOI DOI 10.21105/JOSS.00819
+   Gulwani S, 2017, FOUND TRENDS PROGRAM, V4, P1, DOI 10.1561/2500000010
+   GUPTA A, 1993, 1993 IEEE/ACM INTERNATIONAL CONFERENCE ON COMPUTER-AIDED DESIGN - DIGEST OF TECHNICAL PAPERS, P192, DOI 10.1109/ICCAD.1993.580055
+   Gupta Aarti, 1994, Ph.D. Dissertation.
+   Hong X, 2021, Arxiv, DOI arXiv:2009.02618
+   HORWITZ S, 1990, ACM T PROGR LANG SYS, V12, P26, DOI 10.1145/960116.53994
+   Huang YP, 2021, ASPLOS XXVI: TWENTY-SIXTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS, P456, DOI 10.1145/3445814.3446750
+   Hurst S.L., 1985, SPECTRAL TECHNIQUES
+   Jain J, 1997, IEEE T COMPUT, V46, P1230, DOI 10.1109/12.644298
+   Kisa D, 2014, FOURTEENTH INTERNATIONAL CONFERENCE ON THE PRINCIPLES OF KNOWLEDGE REPRESENTATION AND REASONING, P558
+   Koppel James, 2021, arXiv
+   LAI YT, 1992, 29TH ACM/IEEE DESIGN AUTOMATION CONFERENCE : PROCEEDINGS, P608
+   Lhotak Ondrej, 2006, Ph.D. Dissertation.
+   Lipton Richard J., 2009, Godel's Lost Letter and P=NP: BDD's and Factoring
+   LYNCH NA, 1979, MATH SYST THEORY, V12, P205
+   MAIRSON HG, 1992, THEOR COMPUT SCI, V103, P387, DOI 10.1016/0304-3975(92)90020-G
+   Meert Wannes, 2018, Zenodo, DOI 10.5281/ZENODO.1202374
+   Melski D, 1999, LECT NOTES COMPUT SC, V1575, P47
+   Melski David, 2002, Ph.D. Disser- tation
+   Melski David, 1998, Personal communication
+   Michie Donald, 1967, Technical Report MIP-R-29
+   Miller DM, 2006, INT SYM MVL, P177
+   Nakamura K, 2020, Arxiv, DOI arXiv:2004.02502
+   Nandi C, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3485496
+   Nielsen M.A., 2001, Phys. Today, V54, P60, DOI DOI 10.1017/CBO9780511976667
+   Paterson Michael S., 1970, REC PROJ MAC C CONC, P119, DOI [10.1145/1344551.1344563, DOI 10.1145/1344551.1344563]
+   Polozov O, 2015, ACM SIGPLAN NOTICES, V50, P107, DOI [10.1145/2814270.2814310, 10.1145/2858965.2814310]
+   Reffel Frank, 1999, P AS COMP SCI C
+   Reps T., 1995, Conference Record of POPL'95: 22nd ACM SIGPLAN-SIGACT Symposium Principles of Programming Languages, P49, DOI 10.1145/199448.199462
+   Reps T, 1997, LOGIC PROGRAMM, P5
+   Sasao T., 1996, Representations of Discrete Functions
+   Sharir M., 1981, Program flow analysis. Theory and applications, P189
+   Sistla M, 2024, Arxiv, DOI [arXiv:2211.06818, 10.48550/arXiv.2211.06818, DOI 10.48550/ARXIV.2211.06818]
+   Somenzi F., 2012, CUDD: CU Decision Diagram Package-Release 2.4.0
+   Tafertshofer P, 1997, FORM METHOD SYST DES, V10, P243, DOI 10.1023/A:1008691605584
+   Thomas W. Reps, 2002, Method for Representing Information in a Highly Compressed Fashion
+   Verstraete F, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.207204
+   Vidal G, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.147902
+   Wegener Ingo, 2000, SIAM MONOG DISCR MAT, DOI 10.1137/1.9780898719789
+   Whaley J, 2005, LECT NOTES COMPUT SC, V3780, P97
+   Whaley J, 2004, ACM SIGPLAN NOTICES, V39, P131, DOI 10.1145/996893.996859
+   Willsey M., 2021, Fast and Extensible Equality Saturation with Egg
+   Woolfe Kieran, 2015, Matrix Product Operator Simulations of Quantum Algorithms
+   YANNAKAKIS M, 1990, PROCEEDINGS OF THE NINTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, P230, DOI 10.1145/298514.298576
+   Yu NK, 2021, PROCEEDINGS OF THE 42ND ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '21), P542, DOI 10.1145/3453483.3454061
+   Zulehner A, 2019, IEEE T COMPUT AID D, V38, P848, DOI 10.1109/TCAD.2018.2834427
+   Zulehner Alwin, 2020, Introducing Design Automation for Quantum Computing
+NR 70
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0164-0925
+EI 1558-4593
+J9 ACM T PROGR LANG SYS
+JI ACM Trans. Program. Lang. Syst.
+PD JUN
+PY 2024
+VL 46
+IS 2
+AR 7
+DI 10.1145/3651157
+PG 82
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XS0A3
+UT WOS:001263536900003
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Giallorenzo, S
+   Montesi, F
+   Peressotti, M
+AF Giallorenzo, Saverio
+   Montesi, Fabrizio
+   Peressotti, Marco
+TI Choral: Object-oriented Choreographic Programming
+SO ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS
+LA English
+DT Article
+DE Choreographies; communication; higher-kinded types
+ID BUGS
+AB Choreographies are coordination plans for concurrent and distributed systems, which define the roles of the involved participants and how they are supposed to work together. In the paradigm of choreographic programming, choreographies are programs that can be compiled into executable implementations.
+   In this article, we present Choral, the first choreographic programming language based on mainstream abstractions. The key idea in Choral is a new notion of data type, which allows for expressing that data is distributed over different roles. We use this idea to reconstruct the paradigm of choreographic programming through object-oriented abstractions. Choreographies are classes, and instances of choreographies are objects with states and behaviours implemented collaboratively by roles.
+   Choral comes with a compiler that, given a choreography, generates an implementation for each of its roles. These implementations are libraries in pure Java, whose types are under the control of the Choral programmer. Developers can then modularly compose these libraries in their programs, to participate correctly in choreographies. Choral is the first incarnation of choreographic programming offering such modularity, which finally connects more than a decade of research on the paradigm to practical software development.
+   The integration of choreographic and object-oriented programming yields other powerful advantages, where the features of one paradigm benefit the other in ways that go beyond the sum of the parts. On the one hand, the high-level abstractions and static checks from the world of choreographies can be used to write concurrent and distributed object-oriented software more concisely and correctly. On the other hand, we obtain a much more expressive choreographic language from object-oriented abstractions than in previous work. This expressivity allows for writing more reusable and flexible choreographies. For example, object passing makes Choral the first higher-order choreographic programming language, whereby choreographies can be parameterised over other choreographies without any need for central coordination. We also extend method overloading to a new dimension: specialisation based on data location. Together with subtyping and generics, this allows Choral to elegantly support user-defined communication mechanisms and middleware.
+C1 [Giallorenzo, Saverio] Univ Bologna, Dept Comp Sci & Engn, Mura Anteo Zamboni 7, I-40126 Bologna, Italy.
+   [Giallorenzo, Saverio] INRIA, Sophia Antipolis, France.
+   [Montesi, Fabrizio; Peressotti, Marco] Univ Southern Denmark, Dept Math & Comp Sci, Campusvej 55, DK-5230 Odense, Denmark.
+C3 University of Bologna; Inria; University of Southern Denmark
+RP Montesi, F (corresponding author), Univ Southern Denmark, Dept Math & Comp Sci, Campusvej 55, DK-5230 Odense, Denmark.
+EM saverio.giallorenzo@gmail.com; fmontesi@imada.sdu.dk;
+   peressotti@imada.sdu.dk
+RI Montesi, Fabrizio/AAE-3306-2022; Peressotti, Marco/ABD-8202-2020;
+   Giallorenzo, Saverio/M-5713-2018
+OI Montesi, Fabrizio/0000-0003-4666-901X; Peressotti,
+   Marco/0000-0002-0243-0480; Giallorenzo, Saverio/0000-0002-3658-6395
+FU Villum Fonden [29518]
+FX This work was partially supported by Villum Fonden, Grant No. 29518.
+CR Alur R., 2000, Proceedings of the 2000 International Conference on Software Engineering. ICSE 2000 the New Millennium, P304, DOI 10.1109/ICSE.2000.870421
+   Ancona D, 2016, FOUND TRENDS PROGRAM, V3, pI, DOI 10.1561/2500000031
+   Atzori L, 2010, COMPUT NETW, V54, P2787, DOI 10.1016/j.comnet.2010.05.010
+   Autili M, 2018, SCI COMPUT PROGRAM, V160, P3, DOI 10.1016/j.scico.2017.10.010
+   Basu S, 2016, LECT NOTES COMPUT SC, V9633, P13, DOI 10.1007/978-3-662-49665-7_2
+   Basu S, 2012, POPL 12: PROCEEDINGS OF THE 39TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P191
+   Bessey A, 2010, COMMUN ACM, V53, P66, DOI 10.1145/1646353.1646374
+   Bravetti M, 2007, LECT NOTES COMPUT SC, V4829, P34
+   Burattin A., 2016, BPM (Demos), P1
+   Burattin A, 2011, LECT NOTES BUS INF P, V66, P214
+   Carbone M, 2008, LECT NOTES COMPUT SC, V5201, P402, DOI 10.1007/978-3-540-85361-9_32
+   Carbone M, 2013, ACM SIGPLAN NOTICES, V48, P263, DOI 10.1145/2480359.2429101
+   Carbone M, 2009, ELECTRON NOTES THEOR, V241, P35, DOI 10.1016/j.entcs.2009.06.003
+   Carbone M, 2012, ACM T PROGR LANG SYS, V34, DOI 10.1145/2220365.2220367
+   Cardelli L., 2000, Conference Record of POPL'00: 27th ACM SIGPLAN-SIGACT. Symposium on Principles of Programming Languages. Papers Presented at the Symposium, P365, DOI 10.1145/325694.325742
+   Castagn G, 2011, LECT NOTES COMPUT SC, V6722, P1, DOI 10.1007/978-3-642-21461-5_1
+   Castro-Perez D, 2021, PROCEEDINGS OF THE 42ND ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '21), P237, DOI 10.1145/3453483.3454041
+   Castro-Perez D, 2020, PROCEEDINGS OF THE 29TH INTERNATIONAL CONFERENCE ON COMPILER CONSTRUCTION (CC '20), P143, DOI 10.1145/3377555.3377889
+   Chen TC, 2012, LECT NOTES COMPUT SC, V7454, P209, DOI 10.1007/978-3-642-32940-1_16
+   Choral Development Team, 2020, Choral Language Website
+   Cooper E, 2007, LECT NOTES COMPUT SC, V4709, P266
+   Coppo M, 2016, MATH STRUCT COMP SCI, V26, P238, DOI 10.1017/S0960129514000188
+   Coto A, 2021, J LOG ALGEBR METHODS, V123, DOI 10.1016/j.jlamp.2021.100712
+   Cruz-Filipe L, 2023, J AUTOM REASONING, V67, DOI 10.1007/s10817-023-09665-3
+   Cruz-Filipe L, 2022, Arxiv, DOI arXiv:2205.02636
+   Cruz-Filipe L, 2021, LECT NOTES COMPUT SC, V12819, P115, DOI 10.1007/978-3-030-85315-0_8
+   Cruz-Filipe L, 2020, THEOR COMPUT SCI, V802, P38, DOI 10.1016/j.tcs.2019.07.005
+   Cruz-Filipe L, 2017, LECT NOTES COMPUT SC, V10203, P424, DOI 10.1007/978-3-662-54458-7_25
+   Cruz-Filipe L, 2016, LECT NOTES COMPUT SC, V9688, P114, DOI 10.1007/978-3-319-39570-8_8
+   Cruz-Filipe Luis, 2023, P 37 EUROPEAN C OBJE, V263, P1, DOI [10.4230/LIPIcs.ECOOP. 2023.7, DOI 10.4230/LIPICS.ECOOP.2023.7]
+   Cruz-Filipe Luis, 2021, P 12 INT C INTERACTI, DOI [DOI 10.4230/LIPICS.ITP.2021.15, 10.4230/LIPIcs., DOI 10.4230/LIPICS]
+   Cruz-Filipe Luis, 2022, P 19 INT C THEORETIC, P212, DOI [DOI 10.1007/978-3-031-17715-6, DOI 10.1007/978]
+   Cruz-Filipe Luis, P C COORDINATION MOD, V13908, P144, DOI [10.1007/978-3-031-35361-1_8, DOI 10.1007/978-3-031-35361-1_8]
+   Dalla Preda M, 2017, LOG METH COMPUT SCI, V13, DOI 10.23638/LMCS-13(2:1)2017
+   Demangeon R, 2012, LECT NOTES COMPUT SC, V7454, P272, DOI 10.1007/978-3-642-32940-1_20
+   Deniélou PM, 2011, POPL 11: PROCEEDINGS OF THE 38TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P435, DOI 10.1145/1926385.1926435
+   DIFFIE W, 1976, IEEE T INFORM THEORY, V22, P644, DOI 10.1109/TIT.1976.1055638
+   Dragoni N., 2017, Present and Ulterior Software Engineering, P195, DOI DOI 10.1007/978-3-319-67425-4_12
+   Fowler S, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3290341
+   Gamma E., 1995, DESIGN PATTERNS ELEM
+   Giallorenzo S, 2023, Arxiv, DOI [arXiv:2005.09520, 10.48550/ARXIV.2005.09520]
+   Giallorenzo S, 2019, P IEEE I C SERV COMP, P234, DOI 10.1109/SCC.2019.00048
+   Giallorenzo S, 2018, LECT NOTES COMPUT SC, V10854, P21, DOI 10.1007/978-3-319-92612-4_2
+   Giallorenzo Saverio, 2021, P 35 EUROPEAN C OBJE, V194
+   Grassi P., 2017, NIST Special Publication, V800-63-3, DOI DOI 10.6028/NIST.SP.800-63-3
+   Graversen E, 2023, Arxiv, DOI [arXiv:2303.04678, 10.48550/ARXIV.2303.04678]
+   Grotzke Martin, 2020, Kryo
+   Hamill Paul, 2004, UNIT TEST FRAMEWORKS
+   Hirsch AK, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3498684
+   Honda K, 2016, J ACM, V63, DOI 10.1145/2827695
+   Hunkeler U, 2008, 2008 3RD INTERNATIONAL CONFERENCE ON COMMUNICATION SYSTEM SOFTWARE AND MIDDLEWARE AND WORKSHOPS, VOLS 1 AND 2, P791, DOI 10.1109/COMSWA.2008.4554519
+   Hüttel H, 2016, ACM COMPUT SURV, V49, DOI 10.1145/2873052
+   Intl. Telecommunication Union, 1996, Recommendation Z.120: Message Sequence Chart
+   Jacobs J, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3498662
+   Jongmans SS, 2022, LECT NOTES COMPUT SC, V13240, P520, DOI 10.1007/978-3-030-99336-8_19
+   Jongmans SS, 2020, LECT NOTES COMPUT SC, V12075, P251, DOI 10.1007/978-3-030-44914-8_10
+   Jongmans SSTQ, 2015, SERV ORIENTED COMPUT, V9, P311, DOI 10.1007/s11761-015-0177-y
+   KARABUTSA A, 1962, DOKL AKAD NAUK SSSR+, V145, P293
+   Knuth D., 1998, The Art of Computer Programming, V2nd, P158
+   Kobayashi Naoki, 2000, P INT C THEORETICAL, V1872, P365
+   Kouzapas D, 2018, SCI COMPUT PROGRAM, V155, P52, DOI 10.1016/j.scico.2017.10.006
+   Lafuente AL, 2015, LECT NOTES COMPUT SC, V9200, P427, DOI 10.1007/978-3-319-23165-5_20
+   Lanese I, 2013, ELECTRON P THEOR COM, P34, DOI 10.4204/EPTCS.123.5
+   Lanese I, 2008, SEFM 2008: SIXTH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING AND FORMAL METHODS, PROCEEDINGS, P323, DOI 10.1109/SEFM.2008.11
+   Lange J, 2015, ACM SIGPLAN NOTICES, V50, P221, DOI [10.1145/2676726.2676964, 10.1145/2775051.2676964]
+   Leesatapornwongsa T, 2016, ACM SIGPLAN NOTICES, V51, P517, DOI 10.1145/2954679.2872374
+   Liu J, 2009, SOSP'09: PROCEEDINGS OF THE TWENTY-SECOND ACM SIGOPS SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P321
+   López HA, 2016, LECT NOTES COMPUT SC, V9688, P195, DOI 10.1007/978-3-319-39570-8_13
+   Lopez Hugo A., 2017, P S APPL COMPUTING S, P437
+   Lu S, 2008, ACM SIGPLAN NOTICES, V43, P329, DOI 10.1145/1353536.1346323
+   Lugovic Lovro, 2023, Real-world choreographic programming: An experience report
+   Massol Vincent, 2004, Junit in action
+   Milner R., 1980, Lecture Notes in Computer Science, V92, DOI DOI 10.1007/3-540-10235-3
+   Montesi Fabrizio, 2013, CONCUR 2013 - Concurrency Theory. 24th International Conference, CONCUR 2013. Proceedings: LNCS 8052, P425, DOI 10.1007/978-3-642-40184-8_30
+   Montesi F., 2014, Web Services Foundations, DOI [DOI 10.1007/978-1-4614-7518-7_4, 10.1007/978-1-4614-7518-74, DOI 10.1007/978-1-4614-7518-74, 10.1007/978-1-4614-7518-7\_4]
+   Montesi F., 2023, Introduction to Choreographies
+   Montesi F, 2018, Arxiv, DOI arXiv:1712.05465
+   Montesi Fabrizio, 2013, Ph.D. Thesis
+   Montesi Fabrizio, 2014, Lecture Notes in Computer Science, P3, DOI [10.1007/978-3-319-33612-1_1, DOI 10.1007/978-3-319-33612-1_1]
+   Moors A, 2008, OOPSLA 2008 NASHVILLE, CONFERENCE PROCEEDINGS, P423
+   Murphy T, 2004, IEEE S LOG, P286, DOI 10.1109/LICS.2004.1319623
+   Murphy T, 2008, LECT NOTES COMPUT SC, V4912, P108
+   Murty J., 2008, PROGRAMMING AMAZON W
+   Naftalin Maurice., 2006, JAVA GENERICS COLLEC
+   Neubauer M., 2005, SIGPLAN Notices, V40, P221, DOI 10.1145/1047659.1040324
+   Newman S., 2021, Building microservices
+   Neykova R, 2017, CC'17: PROCEEDINGS OF THE 26TH INTERNATIONAL CONFERENCE ON COMPILER CONSTRUCTION, P98, DOI 10.1145/3033019.3033031
+   O'Hearn P, 2018, LECT NOTES COMPUT SC, V11002, P56, DOI 10.1007/978-3-319-99725-4_5
+   OMG, 2013, BUSINESS PROCESS MOD
+   OpenID Foundation, 2014, OpenID Specification
+   OpenJDK, 2020, Loom-Fibers, Continuations, and Tail-Calls for the JVM
+   Petricek Tomas, 2009, RealWorld Functional Programming: With Examples in F# and C
+   Pohjola Johannes Aman, 2022, P 13 INT C INTERACTI, V237, P1, DOI [10.4230/LIPIcs.ITP.2022.27, DOI 10.4230/LIPICS.ITP.2022.27]
+   Qiu Zongyan, 2007, P WORLD WIDE WEB C W, P973, DOI 10.1145/1242572.1242704
+   Scalas A., 2017, 31stEuropeanConferenceonObject-OrientedProgramming, ECOOP 2017, June 19-23, 2017, V74, DOI [DOI 10.4230/LIPICS.ECOOP.2017.24, 10.4230/LIPICS.ECOOP.2017.24, 10.4230/LIPIcs.ECOOP.2017.24]
+   Scalas A, 2019, PROCEEDINGS OF THE 40TH ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '19), P502, DOI 10.1145/3314221.3322484
+   Serrano Manuel, 2006, PROCEEEDINGS 21 ANN, P975, DOI [10.1145/1176617.1176756, DOI 10.1145/1176617.1176756]
+   Shen G, 2023, Arxiv, DOI arXiv:2303.00924
+   Sporny Manu, 2011, Webid 1.0: Web identification and discovery
+   Stadelmeier Andreas, 2022, P 36 EUROPEAN C OBJE, V28, P1, DOI [10.4230/LIPIcs.ECOOP, DOI 10.4230/LIPICS.ECOOP]
+   Swaroop KN, 2019, INTERNET THINGS-NETH, V5, P116, DOI 10.1016/j.iot.2019.01.004
+   Vasconcelos VT, 2022, ACM T PROGR LANG SYS, V44, DOI 10.1145/3552519
+   Voinea AL, 2020, LECT NOTES COMPUT SC, V12136, P208, DOI 10.1007/978-3-030-50086-3_12
+   W3C, 2004, WS Choreography Description Language
+   Weisenburger P, 2020, ACM COMPUT SURV, V53, DOI 10.1145/3397495
+   Weisenburger P, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3276499
+   Weisenburger Pascal, 2019, LEIBNIZ INT P INFORM, V134, DOI [10.4230/LIPIcs.ECOOP.2019.3, DOI 10.4230/LIPICS.ECOOP.2019.3]
+   Wilder B., 2012, Cloud architecture patterns
+   Wyatt Derek, 2013, Akka Concurrency
+NR 109
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0164-0925
+EI 1558-4593
+J9 ACM T PROGR LANG SYS
+JI ACM Trans. Program. Lang. Syst.
+PD MAR
+PY 2024
+VL 46
+IS 1
+AR 1
+DI 10.1145/3632398
+PG 59
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ2U5
+UT WOS:001208683000001
+OA Bronze, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Haas, J
+   Mogk, R
+   Yanakieva, E
+   Bieniusa, A
+   Mezini, M
+AF Haas, Julian
+   Mogk, Ragnar
+   Yanakieva, Elena
+   Bieniusa, Annette
+   Mezini, Mira
+TI LoRe: A Programming Model for Verifiably Safe Local-first Software
+SO ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS
+LA English
+DT Article
+DE Local-first software; reactive programming; invariants; consistency;
+   automatic verification
+AB Local-first software manages and processes private data locally while still enabling collaboration between multiple parties connected via partially unreliable networks. Such software typically involves interactions with users and the execution environment (the outside world). The unpredictability of such interactions paired with their decentralized nature make reasoning about the correctness of local-first software a challenging endeavor. Yet, existing solutions to develop local-first software do not provide support for automated safety guarantees and instead expect developers to reason about concurrent interactions in an environment with unreliable network conditions.
+   We propose LoRe, a programming model and compiler that automatically verifies developer-supplied safety properties for local-first applications. LoRe combines the declarative data flow of reactive programming with static analysis and verification techniques to precisely determine concurrent interactions that violate safety invariants and to selectively employ strong consistency through coordination where required. We propose a formalized proof principle and demonstrate how to automate the process in a prototype implementation that outputs verified executable code. Our evaluation shows that LoRe simplifies the development of safe local-first software when compared to state-of-the-art approaches and that verification times are acceptable.
+C1 [Haas, Julian; Mogk, Ragnar; Mezini, Mira] Tech Univ Darmstadt, Dept Comp Sci, D-64289 Darmstadt, Germany.
+   [Yanakieva, Elena; Bieniusa, Annette] Rheinland Pfalz Tech Univ Kaiserslautern Landau, Dept Comp Sci, D-67663 Kaiserslautern, Germany.
+C3 Technical University of Darmstadt
+RP Haas, J (corresponding author), Tech Univ Darmstadt, Dept Comp Sci, D-64289 Darmstadt, Germany.
+EM haas@cs.tu-darmstadt.de; mogk@cs.tu-darmstadt.de;
+   yanakieva@cs.uni-kl.de; bieniusa@cs.uni-kl.de; mezini@cs.tu-darmstadt.de
+OI Yanakieva, Elena/0000-0002-2900-7252; Mezini, Mira/0000-0001-6563-7537
+FU German Federal Ministry of Education and Research; Hessen State Ministry
+   for Higher Education (ATHENE); German Research Foundation [SFB 1053];
+   German Federal Ministry for Economic Affairs and Climate Action project
+   SafeFBDC [01MK21002K]
+FX This work was funded by the German Federal Ministry of Education and
+   Research together with the Hessen State Ministry for Higher Education
+   (ATHENE), the German Research Foundation (SFB 1053), and the German
+   Federal Ministry for Economic Affairs and Climate Action project
+   SafeFBDC (01MK21002K).
+CR Akkoorath DD, 2016, INT CON DISTR COMP S, P405, DOI 10.1109/ICDCS.2016.98
+   Alvaro P, 2014, PROC INT CONF DATA, P52, DOI 10.1109/ICDE.2014.6816639
+   Alvaro Peter, 2011, P C INN DAT SYST RES
+   Automerge contributors, 2023, Automerge: Build Local-First Software
+   Bailis P, 2014, PROC VLDB ENDOW, V8, P185, DOI 10.14778/2735508.2735509
+   Balegas Valter, 2015, ACM SIGOPS Operating Systems Review, V49, P121
+   Balegas V, 2018, PROC VLDB ENDOW, V12, P404, DOI 10.14778/3297753.3297760
+   Balegas Valter, 2015, Proceedings of the Tenth European Conference on Computer Systems, DOI DOI 10.1145/2741948.2741972
+   Barnett M, 2006, LECT NOTES COMPUT SC, V4111, P364
+   Brewer E, 2012, COMPUTER, V45, P23, DOI 10.1109/MC.2012.37
+   De Porre K, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3485484
+   De Porre K, 2019, LECT NOTES COMPUT SC, V11534, P36, DOI 10.1007/978-3-030-22496-7_3
+   De Porre Kevin, 2023, P 37 EUR C OBJ OR PR, V263, DOI [10.4230/LIPIcs.ECOOP.2023.9, DOI 10.4230/LIPICS.ECOOP.2023.9]
+   Dinser Moritz, 2021, An Empirical Study on Reactive Programming
+   Drechsler J, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3276477
+   Gomes VBF, 2017, P ACM PROGRAM LANG, V1, DOI 10.1145/3133933
+   Gotsman A, 2016, ACM SIGPLAN NOTICES, V51, P371, DOI 10.1145/2914770.2837625
+   Houshmand F, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3290387
+   Kaki G, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3276534
+   Kaki G, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3360580
+   Kleppmann M., 2017, Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+   Kleppmann M, 2019, PROCEEDINGS OF THE 2019 ACM SIGPLAN INTERNATIONAL SYMPOSIUM ON NEW IDEAS, NEW PARADIGMS, AND REFLECTIONS ON PROGRAMMING AND SOFTWARE (ONWARD!' 19), P154, DOI 10.1145/3359591.3359737
+   Klophaus Rusty., 2010, ACM SIGPLAN Commercial Users of Functional Programming, CUFP '10, p14:1
+   Köhler M, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3428256
+   Kourie D.G., 2012, The Correctness-by-Construction Approach to Programming, DOI DOI 10.1007/978-3-642-27919-5
+   Laddad S, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3563336
+   Lewchenko NV, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3341710
+   Li C., 2012, Proceedings of the 10th USENIX Conference on Operating Systems Design and Implementation, P265
+   Li C., 2014, 2014 USENIX ANN TECH
+   Hellerstein JM, 2019, Arxiv, DOI arXiv:1901.01930
+   Mahajan Prince., 2011, University of Texas at Austin Tech Report 11
+   Meiklejohn C, 2015, PROCEEDINGS OF THE 17TH INTERNATIONAL SYMPOSIUM ON PRINCIPLES AND PRACTICE OF DECLARATIVE PROGRAMMING (PPDP 2015), P184, DOI 10.1145/2790449.2790525
+   Meta Platforms Inc, 2023, React: The Library for Web and Native User Interfaces
+   Milano M, 2018, PROCEEDINGS OF THE 39TH ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION, PLDI 2018, P226, DOI 10.1145/3192366.3192375
+   Mogk R, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3360570
+   Mogk Ragnar, 2018, P 32 EUR C OBJ OR PR, V109
+   Müller P, 2016, LECT NOTES COMPUT SC, V9583, P41, DOI 10.1007/978-3-662-49122-5_2
+   Myter F, 2018, ONWARD!'18: PROCEEDINGS OF THE 2018 ACM SIGPLAN INTERNATIONAL SYMPOSIUM ON NEW IDEAS, NEW PARADIGMS, AND REFLECTIONS ON PROGRAMMING AND SOFTWARE, P88, DOI 10.1145/3276954.3276957
+   Nair SS, 2020, LECT NOTES COMPUT SC, V12075, P544, DOI 10.1007/978-3-030-44914-8_20
+   Nicolaescu Petru, 2016, P 19 INT C SUPP GROU, DOI DOI 10.1145/2957276.2957310
+   Pearce DJ, 2013, LECT NOTES COMPUT SC, V8225, P238, DOI 10.1007/978-3-319-02654-1_13
+   Pregui‡a N, 2018, Arxiv, DOI [arXiv:1806.10254, 10.48550/ARXIV.1806.10254, DOI 10.48550/ARXIV.1806.10254]
+   Rustan K, 2010, LECT NOTES ARTIF INT, V6355, P348, DOI 10.1007/978-3-642-17511-4_20
+   Salvaneschi G, 2017, IEEE T SOFTWARE ENG, V43, P1125, DOI 10.1109/TSE.2017.2655524
+   Seph Gentle, 2021, 5000x faster CRDTs: An Adventure in Optimization
+   Shapiro M, 2018, Arxiv, DOI arXiv:1801.06340
+   Shapiro Marc, 2011, Research Report RR- 7506
+   Sivaramakrishnan KC, 2015, ACM SIGPLAN NOTICES, V50, P413, DOI [10.1145/2737924.2737981, 10.1145/2813885.2737981]
+   TPC, 2021, TPC-C Specification 5.11.0
+   Viper, 2021, Viperproject/Silicon Github Repository
+   Weidner Matthew, 2022, Collabs: Composable Collaborative Data Structures
+   Whittaker M, 2018, PROC VLDB ENDOW, V12, P14, DOI 10.14778/3275536.3275538
+   Zakhour G, 2023, P ACM PROGRAM LANG, V7, DOI 10.1145/3591276
+NR 53
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0164-0925
+EI 1558-4593
+J9 ACM T PROGR LANG SYS
+JI ACM Trans. Program. Lang. Syst.
+PD MAR
+PY 2024
+VL 46
+IS 1
+AR 2
+DI 10.1145/3633769
+PG 26
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ2U5
+UT WOS:001208683000002
+OA Bronze, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Ji, RY
+   Zhao, YW
+   Xiong, YF
+   Wang, D
+   Zhang, L
+   Hu, ZJ
+AF Ji, Ruyi
+   Zhao, Yuwei
+   Xiong, Yingfei
+   Wang, Di
+   Zhang, Lu
+   Hu, Zhenjiang
+TI Decomposition-based Synthesis for Applying Divide-and-Conquer-like
+   Algorithmic Paradigms
+SO ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS
+LA English
+DT Article
+DE Inductive program synthesis; algorithm synthesis; decomposition methods;
+   for program synthesis tasks
+AB Algorithmic paradigms such as divide-and-conquer (D&C) are proposed to guide developers in designing efficient algorithms, but it can still be difficult to apply algorithmic paradigms to practical tasks. To ease the usage of paradigms, many research efforts have been devoted to the automatic application of algorithmic paradigms. However, most existing approaches to this problem rely on syntax-based program transformations and thus put significant restrictions on the original program.
+   In this article, we study the automatic application of D&C and several similar paradigms, denoted as D&C-like algorithmic paradigms, and aim to remove the restrictions from syntax-based transformations. To achieve this goal, we propose an efficient synthesizer, named AutoLifter, which does not depend on syntax-based transformations. Specifically, the main challenge of applying algorithmic paradigms is from the large scale of the synthesized programs, and AutoLifter addresses this challenge by applying two novel decomposition methods that do not depend on the syntax of the input program, component elimination and variable elimination, to soundly divide the whole problem into simpler subtasks, each synthesizing a sub-program of the final program and being tractable with existing synthesizers.
+   We evaluate AutoLifter on 96 programming tasks related to six different algorithmic paradigms. AutoLifter solves 82/96 tasks with an average time cost of 20.17 s, significantly outperforming existing approaches.
+C1 [Ji, Ruyi; Zhao, Yuwei; Xiong, Yingfei; Wang, Di; Zhang, Lu; Hu, Zhenjiang] Peking Univ, Sch Comp Sci, Dept Comp Sci & Technol, Minist Educ,Key Lab High Confidence Software Tech, Beijing, Peoples R China.
+C3 Peking University
+RP Xiong, YF (corresponding author), Peking Univ, Sch Comp Sci, Dept Comp Sci & Technol, Minist Educ,Key Lab High Confidence Software Tech, Beijing, Peoples R China.
+EM jiruyi910387714@pku.edu.cn; zhaoyuwei@stu.pku.edu.cn;
+   xiongyf@pku.edu.cn; wangdi95@pku.edu.cn; zhanglucs@pku.edu.cn;
+   huzj@pku.edu.cn
+OI Zhang, Lu/0000-0001-8304-7055
+FU National Key Research and Development Program of China [2022YFB4501902]
+FX This work is supported by the National Key Research and Development
+   Program of China under Grant No. 2022YFB4501902.
+CR Acar U.A, 2005, Ph. D. Dissertation
+   Acar UA, 2009, ACM T PROGR LANG SYS, V32, DOI 10.1145/1596527.1596530
+   Ahmad MB, 2018, INT CONF MANAGE DATA, P1205, DOI 10.1145/3183713.3196891
+   Albarghouthi Aws, 2013, Computer Aided Verification. 25th International Conference, CAV 2013. Proceedings. LNCS 8044, P934, DOI 10.1007/978-3-642-39799-8_67
+   Alur R, 2019, Arxiv, DOI arXiv:1904.07146
+   Alur R, 2013, 2013 FORMAL METHODS IN COMPUTER-AIDED DESIGN (FMCAD), P1, DOI 10.3233/978-1-61499-495-4-1
+   Balog Matej, 2017, P 5 INT C LEARN REPR
+   Bentley J. L., 1977, Solution to Klee"s rectangle problem
+   Bentley Jon Louis, 1977, Solutions to Klee's rectangle problems, P282
+   Biere A, 2003, ADV COMPUT, V58, P117
+   Bird Richard, 1989, Lecture notes in theory of lists
+   BIRD RS, 1989, COMPUT J, V32, P122, DOI 10.1093/comjnl/32.2.122
+   BLUMER A, 1987, INFORM PROCESS LETT, V24, P377, DOI 10.1016/0020-0190(87)90114-1
+   Cole M. I., 1995, Parallel Processing Letters, V5, P191, DOI 10.1142/S0129626495000175
+   Farzan A, 2022, PROCEEDINGS OF THE 43RD ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '22), P244, DOI 10.1145/3519939.3523726
+   Farzan A, 2021, LECT NOTES COMPUT SC, V12759, P832, DOI 10.1007/978-3-030-81685-8_39
+   Farzan A, 2021, PROCEEDINGS OF THE 42ND ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '21), P974, DOI 10.1145/3453483.3454089
+   Farzan A, 2017, ACM SIGPLAN NOTICES, V52, P540, DOI [10.1145/3062341.3062355, 10.1145/3140587.3062355]
+   Fedyukovich G, 2017, ACM SIGPLAN NOTICES, V52, P572, DOI [10.1145/3062341.3062382, 10.1145/3140587.3062382]
+   Feser JK, 2015, ACM SIGPLAN NOTICES, V50, P229, DOI [10.1145/2813885.2737977, 10.1145/2737924.2737977]
+   Gibbons J., 1996, Journal of Functional Programming, V6, P657, DOI 10.1017/S0956796800001908
+   Hu QHP, 2020, PROCEEDINGS OF THE 41ST ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '20), P1128, DOI 10.1145/3385412.3385979
+   Hu Qinheping, 2021, arXiv
+   Huang KJ, 2022, LECT NOTES COMPUT SC, V13790, P272, DOI 10.1007/978-3-031-22308-2_13
+   Huang KJ, 2020, PROCEEDINGS OF THE 41ST ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '20), P1159, DOI 10.1145/3385412.3386027
+   Ji Ruyi, 2024, Zenodo, DOI 10.5281/ZENODO.10472709
+   Ji RY, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3485544
+   Kim J, 2021, P ACM PROGRAM LANG, V5, DOI 10.1145/3434311
+   Knoth T, 2019, PROCEEDINGS OF THE 40TH ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '19), P253, DOI 10.1145/3314221.3314602
+   Kroening Daniel, 2023, arXiv
+   Lau Joshua, 2021, P 12 INN THEOR COMP, V35, P1, DOI [10.4230/LIPIcs.ITCS.2021.35, DOI 10.4230/LIPICS.ITCS.2021.35]
+   Lee W, 2023, P ACM PROGRAM LANG, V7, DOI 10.1145/3571263
+   Lin S, 2019, PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P1146
+   Liu Y. A., 2003, Higher-Order and Symbolic Computation, V16, P37, DOI 10.1023/A:1023068020483
+   Lu SR, 2023, P ACM PROGRAM LANG, V7, DOI 10.1145/3571209
+   Mehlhorn Kurt, 1984, Algorithmic Paradigms, DOI [10.1007/978-3-642-69900-93, DOI 10.1007/978-3-642-69900-93]
+   Miltner A, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3498682
+   Morita K, 2007, PLDI'07: PROCEEDINGS OF THE 2007 ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION, P146
+   Osera PM, 2015, ACM SIGPLAN NOTICES, V50, P619, DOI [10.1145/2813885.2738007, 10.1145/2737924.2738007]
+   Padhi Saswat, 2021, The SyGuS Language Standard Version 2.1
+   Pettorossi A, 1996, ACM COMPUT SURV, V28, P360, DOI 10.1145/234528.234529
+   Polikarpova N, 2016, ACM SIGPLAN NOTICES, V51, P522, DOI [10.1145/2908080.2908093, 10.1145/2980983.2908093]
+   Pu YW, 2011, ACM SIGPLAN NOTICES, V46, P83, DOI 10.1145/2076021.2048076
+   Qiu XK, 2017, P ACM PROGRAM LANG, V1, DOI 10.1145/3133889
+   Radoi C, 2014, ACM SIGPLAN NOTICES, V49, P909, DOI [10.1145/2714064.2660228, 10.1145/2660193.2660228]
+   Raychev V, 2015, SOSP'15: PROCEEDINGS OF THE TWENTY-FIFTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P153, DOI 10.1145/2815400.2815418
+   Rolim R, 2017, PROC INT CONF SOFTW, P404, DOI 10.1109/ICSE.2017.44
+   Schweikardt Nicole, 2009, Encyclopedia of Database Systems, P1948, DOI [10.1007/978-0-387-39940-9253, DOI 10.1007/978-0-387-39940-9253]
+   Schweikardt Nicole, 2018, Encyclopedia of Database Systems, DOI [10.1007/978-1-4614-8265-9_253, DOI 10.1007/978-1-4614-8265-9_253]
+   Smith C, 2016, ACM SIGPLAN NOTICES, V51, P326, DOI [10.1145/2908080.2908102, 10.1145/2980983.2908102]
+   Solar-Lezama Armando, 2013, International Journal on Software Tools for Technology Transfer, V15, P475, DOI 10.1007/s10009-012-0249-7
+   Solar-Lezama A, 2006, ACM SIGPLAN NOTICES, V41, P404, DOI 10.1145/1168917.1168907
+   Udupa A, 2013, ACM SIGPLAN NOTICES, V48, P287, DOI 10.1145/2499370.2462174
+   Wang YC, 2019, PHYSIOTHER THEOR PR, V35, P851, DOI [10.1080/09593985.2018.1458930, 10.1145/3287071]
+   Yuan YW, 2023, P ACM PROGRAM LANG, V7, DOI 10.1145/3591255
+   ZANTEMA H, 1992, SCI COMPUT PROGRAM, V18, P39, DOI 10.1016/0167-6423(92)90033-8
+NR 56
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0164-0925
+EI 1558-4593
+J9 ACM T PROGR LANG SYS
+JI ACM Trans. Program. Lang. Syst.
+PD JUN
+PY 2024
+VL 46
+IS 2
+AR 8
+DI 10.1145/3648440
+PG 59
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XS0A3
+UT WOS:001263536900004
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Stein, B
+   Chang, BYE
+   Sridharan, M
+AF Stein, Benno
+   Chang, Bor-Yuh Evan
+   Sridharan, Manu
+TI Interactive Abstract Interpretation with Demanded Summarization
+SO ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS
+LA English
+DT Article
+DE Abstract interpretation; Incremental computation
+ID POINTS-TO ANALYSIS; DATA-FLOW ANALYSIS; VERIFICATION
+AB We consider the problem of making expressive, interactive static analyzers compositional. Such a technique could help bring the power of server-based static analyses to integrated development environments (IDEs), updating their results live as the code is modified. Compositionality is key for this scenario, as it enables reuse of already-computed analysis results for unmodified code. Previous techniques for interactive static analysis either lack compositionality, cannot express arbitrary abstract domains, or are not from-scratch consistent.
+   We present demanded summarization, the first algorithm for incremental compositional analysis in arbitrary abstract domains that guarantees from-scratch consistency. Our approach analyzes individual procedures using a recent technique for demanded analysis, computing summaries on demand for procedure calls. A dynamically updated summary dependency graph enables precise result invalidation after program edits, and the algorithm is carefully designed to guarantee from-scratch-consistent results after edits, even in the presence of recursion and in arbitrary abstract domains. We formalize our technique and prove soundness, termination, and from-scratch consistency. An experimental evaluation of a prototype implementation on synthetic and real-world program edits provides evidence for the feasibility of this theoretical framework, showing potential for major performance benefits over non-demanded compositional analyses.
+C1 [Stein, Benno] SkipLabs, London, England.
+   [Stein, Benno; Chang, Bor-Yuh Evan] Univ Colorado Boulder, 430 UCB, Boulder, CO 80309 USA.
+   [Sridharan, Manu] Univ Calif Riverside, 423 Winston Chung Hall, Riverside, CA 92521 USA.
+C3 University of Colorado System; University of Colorado Boulder;
+   University of California System; University of California Riverside
+RP Stein, B (corresponding author), SkipLabs, London, England.; Stein, B (corresponding author), Univ Colorado Boulder, 430 UCB, Boulder, CO 80309 USA.
+EM benno@skiplabs.io; evan.chang@colorado.edu; manu@cs.ucr.edu
+OI Sridharan, Manu/0000-0001-7993-302X
+FU National Science Foundation [CCF-2007024, CCF-2008369, CCF-2223825,
+   CCF-2223826]
+FX This research was supported in part by the National Science Foundation
+   under grants CCF-2007024, CCF-2008369, CCF-2223825, and CCF-2223826.
+CR Acar UA, 2002, ACM SIGPLAN NOTICES, V37, P247, DOI 10.1145/565816.503296
+   Acar UA, 2008, POPL'08: PROCEEDINGS OF THE 35TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P309, DOI 10.1145/1328438.1328476
+   [Anonymous], 2021, BugSwarm Maintainers
+   Arzt S, 2021, PROC INT CONF SOFTW, P1098, DOI 10.1109/ICSE43902.2021.00102
+   Arzt S, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2014), P288, DOI 10.1145/2568225.2568243
+   BABICH WA, 1978, ACTA INFORM, V10, P265, DOI 10.1007/BF00264320
+   Barnett M, 2011, COMMUN ACM, V54, P81, DOI 10.1145/1953122.1953145
+   Blackshear S, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3276514
+   Bodik R, 2000, ACM SIGPLAN NOTICES, V35, P321, DOI 10.1145/358438.349342
+   Brunsfeld Max, 2021, Zenodo, DOI 10.5281/ZENODO.5044536
+   BugSwarm Maintainers, 2021, SpigotMC-BungeeCord-130330788
+   BugSwarm Maintainers, 2021, tananaev-traccar-64783123
+   BugSwarm Maintainers, 2021, tananaev-traccar-255051211
+   BugSwarm Maintainers, 2021, vkostyukov-la4j-45524419
+   BugSwarm Maintainers, 2021, about us
+   BugSwarm Maintainers, 2021, tananaev-traccar-191125671
+   BugSwarm Maintainers, 2021, tananaev-traccar-164537301
+   BugSwarm Maintainers, 2021, davidmotenrxjavajdbc-172208959
+   BugSwarm Maintainers, 2021, tananaev-traccar-188473749
+   Calcagno C, 2011, J ACM, V58, DOI 10.1145/2049697.2049700
+   Calcagno C, 2011, LECT NOTES COMPUT SC, V6617, P459, DOI 10.1007/978-3-642-20398-5_33
+   Carroll M. D., 1988, Conference Record of the Fifteenth Annual ACM Symposium on Principles of Programming Languages, P274, DOI 10.1145/73560.73584
+   Chatterjee R., 1999, Conference Record of POPL '99. 26th ACM SIGPLAN-SIGACT. Symposium on Principles of Programming Languages, P133, DOI 10.1145/292540.292554
+   Cousot P, 2002, LECT NOTES COMPUT SC, V2304, P159
+   Cousot P., 1977, Conference Record of the Fourth Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P238, DOI [10.1145/512950.512973, DOI 10.1145/512950.512973]
+   Darais D, 2017, P ACM PROGRAM LANG, V1, DOI 10.1145/3110256
+   Demers Alan J., 1981, S PRINCIPLES PROGRAM, P105, DOI DOI 10.1145/567532.567544
+   Dillig I, 2011, PLDI 11: PROCEEDINGS OF THE 2011 ACM CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION, P567
+   Distefano D, 2019, COMMUN ACM, V62, P62, DOI 10.1145/3338112
+   Do LNQ, 2017, PROCEEDINGS OF THE 26TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON SOFTWARE TESTING AND ANALYSIS (ISSTA'17), P307, DOI 10.1145/3092703.3092705
+   Duesterwald E, 1996, PROC INT CONF SOFTW, P575, DOI 10.1109/ICSE.1996.493451
+   Duesterwald E., 1995, Conference Record of POPL'95: 22nd ACM SIGPLAN-SIGACT Symposium Principles of Programming Languages, P37, DOI 10.1145/199448.199461
+   Erhard Julian, 2022, CoRR abs/2209.10445
+   Fähndrich M, 2011, LECT NOTES COMPUT SC, V6528, P10
+   FARROW R, 1986, SIGPLAN NOTICES, V21, P85, DOI 10.1145/13310.13320
+   Garcia-Contreras I, 2021, THEOR PRACT LOG PROG, V21, P196, DOI 10.1017/S1471068420000496
+   Gupta A., 1993, SIGMOD Record, V22, P157, DOI 10.1145/170036.170066
+   Hammer MA, 2015, ACM SIGPLAN NOTICES, V50, P748, DOI [10.1145/2858965.2814305, 10.1145/2814270.2814305]
+   Hammer MA, 2014, ACM SIGPLAN NOTICES, V49, P156, DOI [10.1145/2594291.2594324, 10.1145/2666356.2594324]
+   Hammer MA, 2009, PLDI'09 PROCEEDINGS OF THE 2009 ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION, P25, DOI 10.1145/1542476.1542480
+   Heintze N, 2001, ACM SIGPLAN NOTICES, V36, P24, DOI 10.1145/381694.378802
+   HOARE CAR, 1969, COMMUN ACM, V12, P576, DOI 10.1145/363235.363259
+   Horwitz S., 1995, SIGSOFT Software Engineering Notes, V20, P104, DOI 10.1145/222132.222146
+   Jacobs B, 2011, LECT NOTES COMPUT SC, V6617, P41, DOI 10.1007/978-3-642-20398-5_4
+   Jeannet B, 2010, ACM T PROGR LANG SYS, V32, DOI 10.1145/1667048.1667050
+   Jeannet B, 2009, LECT NOTES COMPUT SC, V5643, P661, DOI 10.1007/978-3-642-02658-4_52
+   Keidel S, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3360602
+   Konat G, 2018, IEEE INT CONF AUTOM, P76, DOI 10.1145/3238147.3238196
+   Leino KRM, 2015, LECT NOTES COMPUT SC, V9206, P380, DOI 10.1007/978-3-319-21690-4_22
+   Liu BZ, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3527332
+   Lu Y, 2013, LECT NOTES COMPUT SC, V7791, P61, DOI 10.1007/978-3-642-37051-9_4
+   Madhavan Ravichandhran, 2015, Found. Trends Program. Lang., V1, P269
+   Magnusson E, 2007, SCI COMPUT PROGRAM, V68, P21, DOI 10.1016/j.scico.2005.06.005
+   Montagu B, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3409001
+   Müller P, 2016, LECT NOTES COMPUT SC, V9583, P41, DOI 10.1007/978-3-662-49122-5_2
+   Naeem NA, 2010, LECT NOTES COMPUT SC, V6011, P124, DOI 10.1007/978-3-642-11970-5_8
+   Padhye Rohan., 2013, P 2 ACM SIGPLAN INT, P31
+   POLLOCK LL, 1989, IEEE T SOFTWARE ENG, V15, P1537, DOI 10.1109/32.58766
+   Reps T., 1994, Compiler Construction. 5th International Conference, CC'94. Proceedings, P389
+   Reps T., 1995, Conference Record of POPL'95: 22nd ACM SIGPLAN-SIGACT Symposium Principles of Programming Languages, P49, DOI 10.1145/199448.199462
+   REPS T, 1983, ACM T PROGR LANG SYS, V5, P449, DOI 10.1145/2166.357218
+   Reps T, 1998, INFORM SOFTWARE TECH, V40, P701, DOI 10.1016/S0950-5849(98)00093-7
+   Reps T, 1982, S PRINCIPLES PROGRAM, P169, DOI [10.1145/582153.582172, DOI 10.1145/582153.582172]
+   Rustan K, 2010, LECT NOTES ARTIF INT, V6355, P348, DOI 10.1007/978-3-642-17511-4_20
+   Ryder Barbara G., 1983, P 10 ACM SIGACT SIGP, P167, DOI [10.1145/567067.567084, DOI 10.1145/567067.567084]
+   Sadowski C, 2018, COMMUN ACM, V61, P58, DOI 10.1145/3188720
+   Sagiv M, 1996, THEOR COMPUT SCI, V167, P131, DOI 10.1016/0304-3975(96)00072-2
+   Salcianu Alexandru, 2006, Ph.D. Dissertation
+   Schubert Philipp Dominik, 2021, LIPIcs, V2
+   Sergey I, 2013, ACM SIGPLAN NOTICES, V48, P399, DOI 10.1145/2499370.2491979
+   Sharir M., 1981, Program flow analysis. Theory and applications, P189
+   Soderberg Emma, 2012, Incremental evaluation of reference attribute grammars using dynamic dependency tracking
+   Spath J., 2016, PROC EUR C OBJECT OR, p22:1, DOI [10.4230/DARTS.2.1.12, DOI 10.4230/LIPICS.ECOOP.2016.22]
+   Sridharan M, 2005, ACM SIGPLAN NOTICES, V40, P59, DOI 10.1145/1103845.1094817
+   Stein B, 2021, PROCEEDINGS OF THE 42ND ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '21), P282, DOI 10.1145/3453483.3454044
+   Stein Benno, 2023, Infer PractitionersWorkshop (PLDI'23)
+   Stein Benno, 2021, DAI: Demanded Abstract Interpretation
+   Szabó T, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3276509
+   Szabó T, 2021, PROCEEDINGS OF THE 42ND ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '21), P1, DOI 10.1145/3453483.3454026
+   Szabó T, 2016, IEEE INT CONF AUTOM, P320, DOI 10.1145/2970276.2970298
+   Tomassi DA, 2019, PROC INT CONF SOFTW, P339, DOI 10.1109/ICSE.2019.00048
+   Van der Plas J, 2023, LECT NOTES COMPUT SC, V13881, P296, DOI 10.1007/978-3-031-24950-1_14
+   Van der Plas J, 2020, IEEE INT WORK C SO, P25, DOI 10.1109/SCAM51674.2020.00008
+   WALA, 2021, T. J Watson Libraries for Analysis (WALA)
+   Xin Yuan, 1997, Parallel Processing Letters, V7, P359, DOI 10.1142/S012962649700036X
+   Yorsh G, 2008, POPL'08: PROCEEDINGS OF THE 35TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P221, DOI 10.1145/1328438.1328467
+   ZADECK FK, 1984, SIGPLAN NOTICES, V19, P132, DOI 10.1145/502949.502888
+NR 87
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0164-0925
+EI 1558-4593
+J9 ACM T PROGR LANG SYS
+JI ACM Trans. Program. Lang. Syst.
+PD MAR
+PY 2024
+VL 46
+IS 1
+AR 4
+DI 10.1145/3648441
+PG 40
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ2U5
+UT WOS:001208683000004
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Nougrahiya, A
+   Nandivada, VK
+AF Nougrahiya, Aman
+   Nandivada, V. Krishna
+TI Homeostasis: Design and Implementation of a Self-Stabilizing Compiler
+SO ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS
+LA English
+DT Article
+DE Compiler design; multi-pass compilation; self-stabilization
+AB Mainstream compilers perform a multitude of analyses and optimizations on the given input program. Each analysis (such as points-to analysis) may generate a program-abstraction (such as points-to graph). Each optimization is typically composed of multiple alternating phases of inspection of such program-abstractions and transformations of the program. Upon transformation of a program, the program-abstractions generated by various analyses may become inconsistent with the modified program. Consequently, the correctness of the downstream inspection (and consequent transformation) phases cannot be ensured until the relevant program-abstractions are stabilized; that is, the program-abstractions are either invalidated or made consistent with the modified program. In general, the existing compiler frameworks do not perform automated stabilization of the program-abstractions and instead leave it to the compiler pass writers to deal with the complex task of identifying the relevant program-abstractions to be stabilized, the points where the stabilization is to be performed, and the exact procedure of stabilization. In this article, we address these challenges by providing the design and implementation of a novel compiler-design framework called Homeostasis. Homeostasis automatically captures all the program changes performed by each transformation phase, and later, triggers the required stabilization using the captured information, if needed. We also provide a formal description of Homeostasis and a correctness proof thereof. To assess the feasibility of using Homeostasis in compilers of parallel programs, we have implemented our proposed idea in IMOP, a compiler framework for OpenMP C programs. Furthermore, to illustrate the benefits of using Homeostasis, we have implemented a set of standard data-flow passes, and a set of involved optimizations that are used to remove redundant barriers in OpenMP C programs. Implementations of none of these optimizations in IMOP required any additional lines of code for stabilization of the program-abstractions. We present an evaluation in the context of these optimizations and analyses, which demonstrates that Homeostasis is efficient and easy to use.
+C1 [Nougrahiya, Aman; Nandivada, V. Krishna] IIT Madras, Dept CSE, Chennai, Tamil Nadu, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology (IIT) - Madras
+RP Nougrahiya, A (corresponding author), IIT Madras, Dept CSE, Chennai, Tamil Nadu, India.
+EM amannoug@cse.iitm.ac.in; nvk@iitm.ac.in
+FU SERB CRG grant [CRG/2022/006971]; NSM research grant
+   [MeitY/RD/HPC/2(1)/2014]
+FX This work is partially supported by SERB CRG grant (sanction number
+   CRG/2022/006971), and NSM research grant (sanction number
+   MeitY/R&D/HPC/2(1)/2014).
+CR Aloor R, 2015, PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON SUPERCOMPUTING (ICS'15), P47, DOI 10.1145/2751205.2751238
+   Andersen L. O., 1994, Ph.D. Dissertation
+   Arzt S, 2014, 36TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2014), P288, DOI 10.1145/2568225.2568243
+   Aslot V, 2001, LECT NOTES COMPUT SC, V2104, P1
+   Barik R, 2013, INT CONFER PARA, P29, DOI 10.1109/PACT.2013.6618801
+   Beckman Pete, 2017, P INT C SUP ICS 2017, V11, P1
+   Brewster NV, 2001, LECT NOTES COMPUT SC, V2110, P675
+   Carle A., 1989, Proceedings. 11th International Conference on Software Engineering (Cat. No.89CH2718-5), P178, DOI 10.1145/74587.74612
+   Carroll M. D., 1988, Conference Record of the Fifteenth Annual ACM Symposium on Principles of Programming Languages, P274, DOI 10.1145/73560.73584
+   Chen YT, 2015, LECT NOTES COMPUT SC, V8979, P164, DOI 10.1007/978-3-319-17404-4_11
+   Eichberg M, 2007, LECT NOTES COMPUT SC, V4354, P109
+   Eichberg Michael, 2005, Magellan
+   Gamma E., 1995, DESIGN PATTERNS ELEM
+   Garcia-Contreras I, 2021, THEOR PRACT LOG PROG, V21, P196, DOI 10.1017/S1471068420000496
+   Georges A, 2007, ACM SIGPLAN NOTICES, V42, P57, DOI 10.1145/1297105.1297033
+   Google, 2001, Chrome V8
+   Gupta M., 1996, Conference Record of POPL '96: The 23rd ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P322, DOI 10.1145/237721.237799
+   Gupta S, 2015, J PARALLEL DISTR COM, V75, P1, DOI 10.1016/j.jpdc.2014.10.010
+   IBM, 2017, Eclipse OpenJ9
+   Kloppenburg Sven, 2009, Incrementalization of Analyses for Next Generation IDEs
+   Krishna VSJ, 2018, IEEE T COMPUT AID D, V37, P2673, DOI 10.1109/TCAD.2018.2858366
+   Krishnakumar G, 2020, ACM T EMBED COMPUT S, V18, DOI 10.1145/3362064
+   Lattner C, 2004, INT SYM CODE GENER, P75, DOI 10.1109/cgo.2004.1281665
+   Liu BZ, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3527332
+   Liu BZ, 2019, ACM T PROGR LANG SYS, V41, DOI 10.1145/3293606
+   LLVM-Developer-Community, 2019, LLVM GitHub Repository
+   LLVM-Developer-Community, 2021, LLVM GitHub Repository
+   LLVM-Developer-Community, 2020, LLVM GitHub Repository
+   Lu JB, 2019, P ACM PROGRAM LANG, V3, DOI 10.1145/3360574
+   MARLOWE TJ, 1990, CONFERENCE RECORD OF THE SEVENTEENTH ANNUAL ACM SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P184, DOI 10.1145/96709.96728
+   Muchnick S. S., 1998, Advanced Compiler Design and Implementation
+   Nandivada VK, 2013, ACM T PROGR LANG SYS, V35, DOI 10.1145/2450136.2450138
+   Nichols L, 2019, SOAP'19: PROCEEDINGS OF THE 8TH ACM SIGPLAN INTERNATIONAL WORKSHOP ON STATE OF THE ART IN PROGRAM ANALYSIS, P2, DOI 10.1145/3315568.3329964
+   Nilsson-Nyman E, 2009, ELECTRON NOTES THEOR, V238, P155, DOI 10.1016/j.entcs.2009.09.046
+   Nougrahiya Aman, 2021, Implementation of Homeostasis in the IMOP Compiler Framework
+   Nougrahiya Aman, 2023, List of Mainstream and Experimental Compiler Frameworks
+   Nougrahiya Aman, 2019, IMOP: IIT Madras OpenMP Compiler Framework
+   Oracle, 1999, HotSpot
+   Person S, 2011, PLDI 11: PROCEEDINGS OF THE 2011 ACM CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION, P504
+   Plume W., 1995, Languages and Compilers for Parallel Computing. 7th International Workshop Proceedings, P141
+   POLLOCK LL, 1989, IEEE T SOFTWARE ENG, V15, P1537, DOI 10.1109/32.58766
+   POLLOCK LL, 1992, ACM T PROGR LANG SYS, V14, P173, DOI 10.1145/128861.128865
+   Polychronopoulos Constantine, 2003, P 17 ANN INT C SUP I, P53, DOI [10.1145/782814.782824, DOI 10.1145/782814.782824]
+   Quinlan Daniel, 2013, Technical Report
+   REPS T, 1983, ACM T PROGR LANG SYS, V5, P449, DOI 10.1145/2166.357218
+   Rumbaugh J., 1991, OBJECT ORIENTED MODE
+   Ryder Barbara G., 1983, P 10 ACM SIGACT SIGP, P167, DOI [10.1145/567067.567084, DOI 10.1145/567067.567084]
+   RYDER BG, 1988, SCI COMPUT PROGRAM, V11, P1, DOI 10.1016/0167-6423(88)90061-5
+   RYDER BG, 1987, SIGPLAN NOTICES, V22, P171, DOI 10.1145/390012.24228
+   Sathyanathan PW, 2017, INT SYM CODE GENER, P221, DOI 10.1109/CGO.2017.7863742
+   Seager M., 2008, Technical Report, DOI [10.2172/945684, DOI 10.2172/945684]
+   SMITH K, 1990, CONFERENCE PROCEEDINGS - 1990 INTERNATIONAL CONFERENCE ON SUPERCOMPUTING, P330, DOI 10.1145/77726.255173
+   Sreedhar VC, 1996, ACM SIGPLAN NOTICES, V31, P278, DOI 10.1145/249069.231434
+   Sreelatha JKV, 2018, IEEE T MULTI-SCALE C, V4, P163, DOI 10.1109/TMSCS.2018.2791955
+   Sreelatha Jyothi Krishna Viswakaran, 2016, WORKSH EN EFF HET CO
+   Stallman Richard M., 2009, Using The GNU Compiler Collection: A GNU Manual For GCC Version 4.3.3
+   Szabó T, 2018, P ACM PROGRAM LANG, V2, DOI 10.1145/3276509
+   Szabó T, 2021, PROCEEDINGS OF THE 42ND ACM SIGPLAN INTERNATIONAL CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '21), P1, DOI 10.1145/3453483.3454026
+   Szabó T, 2016, IEEE INT CONF AUTOM, P320, DOI 10.1145/2970276.2970298
+   TSENG CW, 1995, SIGPLAN NOTICES, V30, P144, DOI 10.1145/209937.209952
+   Vallee-Rai Raja, 2010, CASCON 1 DECADE HIGH, P214, DOI DOI 10.1145/1925805.1925818
+   Van der Wijngaart Rob F., 2002, Technical Report. NAS technical report, NAS-02-007
+   Yur YS, 1997, PROC INT CONF SOFTW, P422
+NR 63
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0164-0925
+EI 1558-4593
+J9 ACM T PROGR LANG SYS
+JI ACM Trans. Program. Lang. Syst.
+PD JUN
+PY 2024
+VL 46
+IS 2
+AR 6
+DI 10.1145/3649308
+PG 58
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XS0A3
+UT WOS:001263536900002
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Din, CC
+   Hähnle, R
+   Henrio, L
+   Johnsen, EB
+   Pun, VKI
+   Tarifa, SLT
+AF Din, Crystal Chang
+   Haehnle, Reiner
+   Henrio, Ludovic
+   Johnsen, Einar Broch
+   Pun, Violet Ka I.
+   Tarifa, S. Lizeth Tapia
+TI Locally Abstract, Globally Concrete Semantics of Concurrent Programming
+   Languages
+SO ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS
+LA English
+DT Article
+DE Denotational semantics; trace semantics; compositionality;
+   continuations; concurrent programming languages; program logics; program
+   calculus
+ID FULLY ABSTRACT; FAIRNESS; SYSTEM
+AB Formal, mathematically rigorous programming language semantics are the essential prerequisite for the design of logics and calculi that permit automated reasoning about concurrent programs. We propose a novel modular semantics designed to align smoothly with program logics used in deductive verification and formal specification of concurrent programs. Our semantics separates local evaluation of expressions and statements performed in an abstract, symbolic environment from their composition into global computations, at which point they are concretised. This makes incremental addition of new language concepts possible, without the need to revise the framework. The basis is a generalisation of the notion of a program trace as a sequence of evolving states that we enrich with event descriptors and trailing continuation markers. This allows to postpone scheduling constraints from the level of local evaluation to the global composition stage, where well-formedness predicates over the event structure declaratively characterise a wide range of concurrency models. We also illustrate how a sound program logic and calculus can be defined for this semantics.
+C1 [Din, Crystal Chang] Univ Bergen, Dept Informat, Thormohlens Gate 55, N-5006 Bergen, Norway.
+   [Haehnle, Reiner] Tech Univ Darmstadt, Dept Comp Sci, Hochschul Str 10, D-64289 Darmstadt, Germany.
+   [Henrio, Ludovic] Univ Lyon, CNRS, LIP Lab, EnsL,Inria,UCBL, 46 Allee Italie, F-69364 Lyon, France.
+   [Johnsen, Einar Broch; Tarifa, S. Lizeth Tapia] Univ Oslo, Dept Informat, Postboks 1080 Blindern, N-0316 Oslo, Norway.
+   [Pun, Violet Ka I.] Western Norway Univ Appl Sci, Inndalsveien 28, N-5063 Bergen, Norway.
+C3 University of Bergen; Technical University of Darmstadt; Universite
+   Claude Bernard Lyon 1; Ecole Normale Superieure de Lyon (ENS de LYON);
+   Centre National de la Recherche Scientifique (CNRS); Inria; University
+   of Oslo; Western Norway University of Applied Sciences
+RP Din, CC (corresponding author), Univ Bergen, Dept Informat, Thormohlens Gate 55, N-5006 Bergen, Norway.
+EM Crystal.Din@uib.no; haehnle@cs.tu-darmstadt.de; ludovic.henrio@cnrs.fr;
+   einarj@ifi.uio.no; Violet.Ka.I.Pun@hvl.no; sltarifa@ifi.uio.no
+OI Tapia Tarifa, Silvia Lizeth/0000-0001-9948-2748; Johnsen, Einar
+   Broch/0000-0001-5382-3949; Hahnle, Reiner/0000-0001-8000-7613
+CR Abrial J.R., 1996, B BOOK ASSIGNING PRO
+   ABS Development Team, 2021, ABS Documentation
+   ADVE SV, 1993, IEEE T PARALL DISTR, V4, P613, DOI 10.1109/71.242161
+   Ahrendt W, 2012, SCI COMPUT PROGRAM, V77, P1289, DOI 10.1016/j.scico.2010.08.003
+   Ahrendt Wolfgang, 2016, LNCS, V10001
+   Ameur-Boulifa R, 2017, J LOG ALGEBR METHODS, V89, P1, DOI 10.1016/j.jlamp.2017.02.003
+   Amighi A, 2015, LOG METH COMPUT SCI, V11, DOI 10.2168/LMCS-11(1:2)2015
+   Ancona D, 2016, FOUND TRENDS PROGRAM, V3, pI, DOI 10.1561/2500000031
+   Andrews Gregory., 1999, Multithreading, Parallel, and Concurrent Programming, V2nd
+   Apt K. R., 1980, ACM Transactions on Programming Languages and Systems, V2, P359, DOI 10.1145/357103.357110
+   Apt K.R., 2009, Texts in Computer Science, DOI [DOI 10.1007/978-1-84882-745-5, 10.1007/978-1-84882-745-5]
+   Balser M, 2000, LECT NOTES COMPUT SC, V1783, P363
+   Beckert Bernhard, 2013, Automated Deduction - CADE-24. 24th International Conference on Automated Deduction. Proceedings: LNCS 7898, P315, DOI 10.1007/978-3-642-38574-2_22
+   Ben-Ari M, 2008, PRINCIPLES SPIN MODE
+   Bertot Yves, 2004, TEXT THEORET COMP S
+   Brookes S., 2002, CONCUR 2002 - Concurrency Theory. 13th International Conference Proceedings (Lecture Notes in Computer Science Vol.2421), P466
+   Brookes S, 1996, INFORM COMPUT, V127, P145, DOI 10.1006/inco.1996.0056
+   Brookes S, 2007, THEOR COMPUT SCI, V375, P227, DOI 10.1016/j.tcs.2006.12.034
+   Bubel R, 2015, LECT NOTES ARTIF INT, V9323, P307, DOI 10.1007/978-3-319-24312-2_21
+   Bubel Richard., 2023, EPiC Series in Computing,, V94, P73, DOI [10.29007/VDFD, DOI 10.29007/VDFD]
+   Burstall R., 1974, Information Processing 74, (Stockholm, Sweden), P308
+   Chappe N, 2023, P ACM PROGRAM LANG, V7, DOI 10.1145/3571254
+   CharronBost B, 1996, DISTRIB COMPUT, V9, P173, DOI 10.1007/s004460050018
+   Cruz-Filipe L, 2023, J AUTOM REASONING, V67, DOI 10.1007/s10817-023-09665-3
+   Dahl Ole-Johan, 1977, P FOND PROGR, P57
+   Daum M, 2009, J AUTOM REASONING, V42, P349, DOI 10.1007/s10817-009-9119-8
+   De Boer F, 2017, ACM COMPUT SURV, V50, DOI 10.1145/3122848
+   de Boer FS, 2007, LECT NOTES COMPUT SC, V4421, P316
+   DIJKSTRA EW, 1975, COMMUN ACM, V18, P453, DOI [10.1145/360933.360975, 10.1145/390016.808417]
+   Din Crystal Chang, 2015, Formal Methods and Software Engineering. 17th International Conference on Formal Engineering Methods (ICFEM 2015). Proceedings: LNCS 9407, P217, DOI 10.1007/978-3-319-25423-4_14
+   Din CC, 2017, LECT NOTES ARTIF INT, V10501, P22, DOI 10.1007/978-3-319-66902-1_2
+   Din CC, 2015, LECT NOTES ARTIF INT, V9195, P517, DOI 10.1007/978-3-319-21401-6_35
+   Din CC, 2015, FORM ASP COMPUT, V27, P551, DOI 10.1007/s00165-014-0322-y
+   Din CC, 2014, J LOG ALGEBR METHODS, V83, P360, DOI 10.1016/j.jlamp.2014.03.003
+   Din CC, 2012, J LOGIC ALGEBR PROGR, V81, P227, DOI 10.1016/j.jlap.2012.01.003
+   Dovland J, 2005, IEEE INTERNATIONAL CONFERENCE ON SOFTWARE - SCIENCE, TECHNOLOGY AND ENGINEERING, PROCEEDINGS, P141, DOI 10.1109/SWSTE.2005.24
+   FELLEISEN M, 1992, THEOR COMPUT SCI, V103, P235, DOI 10.1016/0304-3975(92)90014-7
+   Godefroid P., 1997, Conference Record of POPL '97: The 24th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, P174, DOI 10.1145/263699.263717
+   Godefroid P., 2012, P IARCS ANN C FDN SO, V18, P24
+   Hahnle Reiner, 2013, Formal Methods for Components and Objects. 11th International Symposium, FMCO 2012. Revised Lectures: LNCS 7866, P1, DOI 10.1007/978-3-642-40615-7_1
+   Hahnle R., 2019, Deductive Software Verification: From PenandPaper Proofs to Industrial Tools, DOI [10.1007/978-3-319-91908-9, DOI 10.1007/978-3-319-91908-9]
+   Hahnle Reiner, 2023, The Art, Science, and Engineering of Programming, V8, P2
+   HALPERN J, 1983, LECT NOTES COMPUT SC, V154, P278
+   Harel D., 2000, FOUNDAT COMPUT
+   Heidler N, 2022, Arxiv, DOI arXiv:2202.08017
+   Hennessy Matthew, 1979, P 8 S MATH FDN COMP, V74, P108, DOI 10.1007/3-540-09526-8_8
+   Henrio L, 2010, LECT NOTES COMPUT SC, V6286, P1
+   Heule S, 2013, LECT NOTES COMPUT SC, V7737, P315
+   Hewitt C., 1973, Proceedings of the 3rd International Joint Conference on Artificial Intelligence. IJCAI'73, P235
+   Hirsch AK, 2022, P ACM PROGRAM LANG, V6, DOI 10.1145/3498684
+   Hoare C.A.R, 1985, Communicating Sequential Processes
+   HOARE CAR, 1969, COMMUN ACM, V12, P576, DOI 10.1145/363235.363259
+   Holzmann Gerard J., 2003, The SPIN Model Checker
+   Huth M., 2004, Logic in Computer Science-Modelling and Reasoning about Systems
+   Jacobs B, 2005, SEFM 2005: THIRD IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING AND FORMAL METHODS, PROCEEDINGS, P137, DOI 10.1109/SEFM.2005.39
+   Jeffrey A, 2005, LECT NOTES COMPUT SC, V3444, P423
+   Jeffrey A, 2005, THEOR COMPUT SCI, V338, P17, DOI 10.1016/j.tcs.2004.10.012
+   Johnsen E.B., 2011, Lecture Notes in Computer Science, V6957, P142, DOI [DOI 10.1007/978-3-642-25271-6, 10.1007/978- 3- 642-25271-6 8]
+   Johnsen EB, 2015, J LOG ALGEBR METHODS, V84, P67, DOI 10.1016/j.jlamp.2014.07.001
+   Jones Cliff B., Ph.D. Dissertation, pl981
+   Kamburjan E., 2020, LNCS, V12345, P85, DOI [DOI 10.1007/978-3-030-64354-6_4, 10.1007/978-3-030-64354-6 4]
+   Kamburjan E, 2019, LECT NOTES ARTIF INT, V11714, P391, DOI 10.1007/978-3-030-29026-9_22
+   Kamburjan Eduard, 2020, Modular Verification of aModular Specification: Behavioral Types as Program Logics
+   KING JC, 1976, COMMUN ACM, V19, P385, DOI 10.1145/360248.360252
+   Leino KRM, 2009, LECT NOTES COMPUT SC, V5705, P195, DOI 10.1007/978-3-642-03829-7_7
+   MEYER B, 1992, COMPUTER, V25, P40, DOI 10.1109/2.161279
+   Milner R., 1989, Communication and concurrency
+   MISRA J, 1981, IEEE T SOFTWARE ENG, V7, P417, DOI 10.1109/TSE.1981.230844
+   Mitchell J., 1996, Foundation of computing series
+   Mosses PD, 2004, J LOGIC ALGEBR PROGR, V60-1, P195, DOI 10.1016/j.jlap.2004.03.008
+   Mosses PD, 2006, ELECTRON NOTES THEOR, V148, P41, DOI 10.1016/j.entcs.2005.12.012
+   Mostowski Wojciech, 2020, Proceedings of the Deductive Software Verification: Future Perspectives-Reflections on the Occasion of 20 Years of KeY, V12345, P177, DOI [10.1007/978-3-030- 64354-6_7, DOI 10.1007/978-3-030-64354-6_7]
+   Nakata K, 2015, LOG METH COMPUT SCI, V11, DOI 10.2168/LMCS-11(1:1)2015
+   Nipkow Tobias., 2002, Isabelle/HOL-A Proof Assistant for Higher-Order Logic, volume 2283 of Lecture Notes in Computer Science
+   O'Hearn PW, 2007, THEOR COMPUT SCI, V375, P271, DOI 10.1016/j.tcs.2006.12.035
+   OWICKI S, 1976, ACTA INFORM, V6, P319, DOI 10.1007/BF00268134
+   PARIKH R, 1985, SIAM J COMPUT, V14, P935, DOI 10.1137/0214066
+   Plotkin GD, 2004, J LOGIC ALGEBR PROGR, V60-1, P17, DOI 10.1016/j.jlap.2004.03.002
+   Segala R, 1997, INFORM COMPUT, V138, P194, DOI 10.1006/inco.1997.2652
+   SISTLA AP, 1985, J ACM, V32, P733, DOI 10.1145/3828.3837
+   SOUNDARARAJAN N, 1984, ACM T PROGR LANG SYS, V6, P647, DOI 10.1145/1780.1805
+   Steinhöfel D, 2020, LECT NOTES COMPUT SC, V12005, P124, DOI 10.1007/978-3-030-38808-9_8
+   Tarifa Silvia Lizeth Tapia, 2022, P LOG SOFTW TAST MEN, P481, DOI [10.1007/978-3-031-08166-8_23, DOI 10.1007/978-3-031-08166-8_23]
+   Tuosto E, 2018, J LOG ALGEBR METHODS, V95, P17, DOI 10.1016/j.jlamp.2017.11.002
+   Turin G, 2023, J SYST SOFTWARE, V203, DOI 10.1016/j.jss.2023.111750
+   Walker David, 2001, The -Calculus: A Theory of Mobile Processes
+   Xia LY, 2020, P ACM PROGRAM LANG, V4, DOI 10.1145/3371119
+   Zaharieva-Stojanovski Marina, 2014, P 16 WORKSH FORM TEC, DOI [10.1145/2635631.2635849, DOI 10.1145/2635631.2635849]
+   Zwiers J., 1989, Compositionality, Concurrency and Partial Correctness - Proof Theories for Networks of Processes, and Their Relationship
+NR 89
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0164-0925
+EI 1558-4593
+J9 ACM T PROGR LANG SYS
+JI ACM Trans. Program. Lang. Syst.
+PD MAR
+PY 2024
+VL 46
+IS 1
+AR 3
+DI 10.1145/3648439
+PG 58
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OQ2U5
+UT WOS:001208683000003
+OA Green Published, hybrid
+DA 2024-08-05
+ER
+
+EF

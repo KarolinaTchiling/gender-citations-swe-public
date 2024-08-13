@@ -1,0 +1,977 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Auzinger, W
+   Kramer, F
+AF Auzinger, Winfried
+   Kramer, Felix
+TI On the stability and error structure of BDF schemes applied to linear
+   parabolic evolution equations
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE BDF schemes; Sectorial operator; Stability; Asymptotic error expansion
+ID KREISS MATRIX THEOREM
+AB We continue the work of various authors on the stability and error structure of multistep schemes applied to linear evolution equations. BDF schemes are considered, and, as far as reasonable, explicit expressions for all occurring bounds are specified, exploiting prior work on the location of characteristic roots. The 2-step BDF scheme is considered in particular detail, and for problems of sectorial type, an asymptotic error expansion is derived based on damping properties of the scheme.
+C1 [Auzinger, Winfried] Vienna Univ Technol, Inst Anal & Sci Comp, A-1040 Vienna, Austria.
+   [Kramer, Felix] Univ Innsbruck, Dept Math, A-6020 Innsbruck, Austria.
+C3 Technische Universitat Wien; University of Innsbruck
+RP Auzinger, W (corresponding author), Vienna Univ Technol, Inst Anal & Sci Comp, Wiedner Hauptstr 8-10 E101, A-1040 Vienna, Austria.
+EM w.auzinger@tuwien.ac.at; Felix.Kramer@uibk.ac.at
+RI Auzinger, Winfried/D-2166-2017
+CR [Anonymous], 1996, Springer Series in Computational Mathematics
+   AUZINGER W, 1990, COMPUTING, V44, P331, DOI 10.1007/BF02241272
+   Auzinger W, 2006, OPUSC MATH, V26, P203
+   CROUZEIX M, 1976, CR ACAD SC PARIS A, V287, P367
+   Del Buono N, 2002, IMA J NUMER ANAL, V22, P481, DOI 10.1093/imanum/22.3.481
+   Hairer E., 2008, Solving ordinary differential equations. I: Nonstiff problems, V2nd
+   In't Hout KJ, 2003, BIT, V43, P363, DOI 10.1023/A:1026043920914
+   LEROUX MN, 1979, MATH COMPUT, V33, P919, DOI 10.1090/S0025-5718-1979-0528047-2
+   LEVEQUE RJ, 1984, BIT, V24, P584, DOI 10.1007/BF01934916
+   LUBICH C, 1991, BIT, V31, P293, DOI 10.1007/BF01931289
+   LUBICH C, 1988, NUMER MATH, V52, P129, DOI 10.1007/BF01398686
+   Miklavcic M., 1998, Applied Functional Analysis and Partial Differential Equations
+   SPIJKER MN, 1991, BIT, V31, P551, DOI 10.1007/BF01933268
+   SPIJKER MN, 1997, APPL NUMER MATH, V37, P442
+   Trefethen L. N., 2005, SPECTRA PSEUDOSPECTR
+NR 15
+TC 1
+Z9 1
+U1 1
+U2 5
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+J9 BIT
+JI Bit
+PD SEP
+PY 2010
+VL 50
+IS 3
+BP 455
+EP 480
+DI 10.1007/s10543-010-0269-1
+PG 26
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 649RL
+UT WOS:000281790600002
+DA 2024-07-18
+ER
+
+PT J
+AU Li, CJ
+   Demichelis, V
+   Dagnino, C
+AF Li, Chong-Jun
+   Demichelis, Vittoria
+   Dagnino, Catterina
+TI Finite-part integrals over polygons by an 8-node quadrilateral spline
+   finite element
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE Finite part integral; Cauchy principal value; Spline finite element
+   method; Bivariate splines
+ID NUMERICAL-INTEGRATION; PRINCIPAL VALUE
+AB In this paper we consider the numerical integration on a polygonal domain Omega in R-2 of a function F(x, y) which is integrable except at a point P-0 = (x(0), y(0)) is an element of (Omega) over circle, where F becomes infinite of order two. We approximate either the finite-part or the two-dimensional Cauchy principal value of the integral by using a spline finite element method combined with a subdivision technique also of adaptive type. We prove the convergence of the obtained sequence of cubatures. Finally, to illustrate the behaviour of the proposed method, we present some numerical examples.
+C1 [Li, Chong-Jun] Dalian Univ Technol, Sch Math Sci, Dalian 116024, Peoples R China.
+   [Demichelis, Vittoria; Dagnino, Catterina] Univ Torino, Dept Math, I-10123 Turin, Italy.
+C3 Dalian University of Technology; University of Turin
+RP Li, CJ (corresponding author), Dalian Univ Technol, Sch Math Sci, Dalian 116024, Peoples R China.
+EM chongjun@dlut.edu.cn; vittoria.demichelis@unito.it;
+   catterina.dagnino@unito.it
+RI Demichelis, Vittoria/C-5480-2011; Dagnino, Catterina/C-5554-2011
+OI Dagnino, Catterina/0000-0001-6549-3465
+FU University of Torino; CRT of Torino (Italy); Dalian University of
+   Technology, China [SFDUT07001]; National Natural Science Foundation of
+   China [60533060, 10726067]
+FX Work supported by the WWS-World Wide Style Project of University of
+   Torino, funded by the Fondazione CRT of Torino (Italy) and by Science
+   Foundation of Dalian University of Technology (No. SFDUT07001, China).;
+   The authors thank the University of Torino for its support to WWS-World
+   Wide Style Project. The first author also thanks the National Natural
+   Science Foundation of China (Nos. 60533060, 10726067) for their support
+   to his research.
+CR Dagnino C., 2000, APPROX THEORY APPL, V16, P68
+   Farin G., 1986, Computer-Aided Geometric Design, V3, P83, DOI 10.1016/0167-8396(86)90016-6
+   Li CJ, 2006, J COMPUT APPL MATH, V195, P54, DOI 10.1016/j.cam.2005.07.017
+   Li CJ, 2010, APPL NUMER MATH, V60, P165, DOI 10.1016/j.apnum.2009.11.001
+   Li CJ, 2009, J COMPUT APPL MATH, V233, P279, DOI 10.1016/j.cam.2009.07.017
+   *MATHWORKS, 2007, MATL LANG TECHN COMP
+   MONEGATO G, 1994, J COMPUT APPL MATH, V50, P9, DOI 10.1016/0377-0427(94)90287-9
+   Monegato G, 2009, J COMPUT APPL MATH, V229, P425, DOI 10.1016/j.cam.2008.04.006
+   MONEGATO G, 1994, MATH COMPUT, V62, P765, DOI 10.2307/2153536
+   THEOCARIS PS, 1980, INT J NUMER METH ENG, V14, P629
+   Tricomi F, 1928, MATH Z, V27, P87, DOI 10.1007/BF01171089
+   Wolfram Research, 2004, MATH VERS 5 1
+   Wong RH, 1998, J COMPUT MATH, V16, P337
+   Zienkiewicz OC, 2005, FINITE ELEMENT METHOD FOR FLUID DYNAMICS, 6TH EDITION, P1
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 4
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD JUN
+PY 2010
+VL 50
+IS 2
+BP 377
+EP 394
+DI 10.1007/s10543-010-0262-8
+PG 18
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 591EV
+UT WOS:000277283100007
+DA 2024-07-18
+ER
+
+PT J
+AU Pachón, R
+   Trefethen, LN
+AF Pachon, Ricardo
+   Trefethen, Lloyd N.
+TI Barycentric-Remez algorithms for best polynomial approximation in the
+   chebfun system
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE Remez algorithm; Best polynomial approximation; Barycentric
+   interpolation; Chebfun system
+ID TSCHEBYSCHEV APPROXIMATION; CHEBYSHEV APPROXIMATION; LAGRANGE
+   INTERPOLATION; DIGITAL FILTERS; LINEAR PHASE; CURVE-FIT; PROGRAM
+AB The Remez algorithm, 75 years old, is a famous method for computing minimax polynomial approximations. Most implementations of this algorithm date to an era when tractable degrees were in the dozens, whereas today, degrees of hundreds or thousands are not a problem. We present a 21st-century update of the Remez ideas in the context of the chebfun software system, which carries out numerical computing with functions rather than numbers. A crucial feature of the new method is its use of chebfun global rootfinding to locate extrema at each iterative step, based on a recursive algorithm combining ideas of Specht, Good, Boyd, and Battles. Another important feature is the use of the barycentric interpolation formula to represent the trial polynomials, which points the way to generalizations for rational approximations. We comment on available software for minimax approximation and its scientific context, arguing that its greatest importance these days is probably for fundamental studies rather than applications.
+C1 [Pachon, Ricardo; Trefethen, Lloyd N.] Univ Oxford, Comp Lab, Oxford OX1 3QD, England.
+C3 University of Oxford
+RP Pachón, R (corresponding author), Univ Oxford, Comp Lab, Parks Rd, Oxford OX1 3QD, England.
+EM ricp@comlab.ox.ac.uk; LNT@comlab.ox.ac.uk
+CR ALMACANY M, 1984, IMA J NUMER ANAL, V4, P467, DOI 10.1093/imanum/4.4.467
+   [Anonymous], 1960, NUMER MATH
+   [Anonymous], 1934, Compt. Rend. Acade. Sc.
+   [Anonymous], MATH TABLES AIDS COM
+   [Anonymous], 1966, APPROXIMATION FUNCTI
+   Barrodale I., 1975, ACM Transactions on Mathematical Software, V1, P264, DOI 10.1145/355644.355651
+   Battles Z, 2004, SIAM J SCI COMPUT, V25, P1743, DOI 10.1137/S1064827503430126
+   BATTLES Z., 2005, THESIS U OXFORD
+   Bernstein S, 1914, ACTA MATH-DJURSHOLM, V37, P1, DOI 10.1007/BF02401828
+   Berrut JP, 2004, SIAM REV, V46, P501, DOI 10.1137/S0036144502417715
+   BOOTHROY.J, 1967, COMMUN ACM, V10, P801, DOI 10.1145/363848.363865
+   BOREL E., 1905, LECONS FONCTIONS VAR
+   Boyd JP, 2002, SIAM J NUMER ANAL, V40, P1666, DOI 10.1137/S0036142901398325
+   Brutman L., 1997, Ann. Numer. Math, V4, P111
+   Cheney E. W., 1966, Introduction to Approximation Theory
+   Cody W. J., 1975, ACM Transactions on Mathematical Software, V1, P13, DOI 10.1145/355626.355631
+   CODY WJ, 1993, ACM T MATH SOFTWARE, V19, P22, DOI 10.1145/151271.151273
+   CURTIS PC, 1959, J ACM, V6, P395, DOI 10.1145/320986.320994
+   Davis P.J., 1975, Interpolation and Approximation
+   DEBOOR C, 1982, SIAM J SCI STAT COMP, V3, P47, DOI 10.1137/0903004
+   DUNHAM CB, 1982, ACM T MATH SOFTWARE, V8, P21, DOI 10.1145/355984.355987
+   GOLUB GH, 1971, COMMUN ACM, V14, P737, DOI 10.1145/362854.362890
+   GOOD IJ, 1961, Q J MATH, V12, P61, DOI 10.1093/qmath/12.1.61
+   GUTKNECHT MH, 1982, SIAM J NUMER ANAL, V19, P358, DOI 10.1137/0719022
+   Higham N.J., 2002, ACCURACY STABILITY N, V2nd ed.
+   Higham NJ, 2004, IMA J NUMER ANAL, V24, P547, DOI 10.1093/imanum/24.4.547
+   KAUFMAN EH, 1981, INT J NUMER METH ENG, V17, P1273, DOI 10.1002/nme.1620170810
+   Le Bailly B, 1999, SIAM J NUMER ANAL, V36, P1858, DOI 10.1137/S0036142998339519
+   *MATHWORKS INC, MATLAB US GUID
+   McClellan JH, 2005, IEEE SIGNAL PROC MAG, V22, P82, DOI 10.1109/MSP.2005.1406492
+   MCCLELLAN JH, 1973, IEEE T ACOUST SPEECH, VAU21, P506, DOI 10.1109/TAU.1973.1162525
+   Meinardus G., 1967, APPROXIMATION FUNCTI
+   Mhaskar H.N., 2000, Fundamentals of Approximation Theory
+   *NUM ALG GROUP LTD, NAG LIB MAN
+   PACHON R, IMA J NUMER IN PRESS
+   PARKS TW, 1972, IEEE T CIRCUITS SYST, VCT19, P189, DOI 10.1109/TCT.1972.1083419
+   POUSSIN CJD, 1910, ACAD R BELG B SCI, V12
+   Powell M., 1981, Approximation Theory and Methods
+   RABINOWI.P, 1968, SIAM REV, V10, P121, DOI 10.1137/1010029
+   Remes E, 1934, CR HEBD ACAD SCI, V198, P2063
+   Remes Evgeny, 1934, COMMUN SOC MATH KHAR, V10
+   Rice J., 1964, APPROXIMATION FUNCTI, V1
+   SAUER FW, 1983, ACM T MATH SOFTWARE, V9, P381, DOI 10.1145/356044.356055
+   SCHMITT H, 1971, COMMUN ACM, V14, P355, DOI 10.1145/362588.362600
+   SIMPSON JC, 1976, ACM T MATH SOFTWARE, V2, P95
+   SPECHT W., 1960, MATH NACHR, V21, P201, DOI DOI 10.1002/MANA.19600210307
+   STEFFENS K.-G., 2006, HIST APPROXIMATION T
+   Stiefel E.L., 1959, NUMERICAL APPROXIMAT, P217
+   TAYLOR R, IMA J NUMER IN PRESS
+   Trefethen L., 1997, SIAM
+   TREFETHEN LN, 2000, LECT NOTES MATH, V1105
+   VARGA RS, 1985, CONSTR APPROX, V1, P333, DOI 10.1007/BF01890040
+   *VIS NUM INC, NUM LIB IMSL TECHN D
+NR 53
+TC 39
+Z9 44
+U1 0
+U2 4
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD DEC
+PY 2009
+VL 49
+IS 4
+BP 721
+EP 741
+DI 10.1007/s10543-009-0240-1
+PG 21
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 521TU
+UT WOS:000271948000004
+DA 2024-07-18
+ER
+
+PT J
+AU Wensch, J
+   Knoth, O
+   Galant, A
+AF Wensch, Joerg
+   Knoth, Oswald
+   Galant, Alexander
+TI Multirate infinitesimal step methods for atmospheric flow simulation
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE Runge Kutta methods; Multirate methods; Finite volume methods;
+   Atmospheric dynamics
+ID RUNGE-KUTTA METHODS; STABILITY PROPERTIES; EQUATIONS; SCHEME
+AB The numerical solution of the Euler equations requires the treatment of processes in different temporal scales. Sound waves propagate fast compared to advective processes. Based on a spatial discretisation on staggered grids, a multirate time integration procedure is presented here generalising split-explicit Runge-Kutta methods. The advective terms are integrated by a Runge-Kutta method with a macro stepsize restricted by the CFL number. Sound wave terms are treated by small time steps respecting the CFL restriction dictated by the speed of sound.
+   Split-explicit Runge-Kutta methods are generalised by the inclusion of fixed tendencies of previous stages. The stability barrier for the acoustics equation is relaxed by a factor of two.
+   Asymptotic order conditions for the low Mach case are given. The relation to commutator-free exponential integrators is discussed. Stability is analysed for the linear acoustic equation. Numerical tests are executed for the linear acoustics and the nonlinear Euler equations.
+C1 [Wensch, Joerg; Galant, Alexander] Tech Univ Dresden, Inst Wiss Rechnen, D-01062 Dresden, Germany.
+   [Knoth, Oswald] Inst Tropospharenforsch, D-04318 Leipzig, Germany.
+C3 Technische Universitat Dresden; Leibniz Institut fur
+   Tropospharenforschung (TROPOS)
+RP Wensch, J (corresponding author), Tech Univ Dresden, Inst Wiss Rechnen, D-01062 Dresden, Germany.
+EM joerg.wensch@tu-dresden.de; knoth@tropos.de;
+   alexander.galant@tu-dresden.de
+FU DFG [1276]
+FX This work was supported under the DFG priority program 1276, Metstrom:
+   Multiple scales in fluid mechanics and meteorology.
+CR [Anonymous], 1982, ATMOSPHERE OCEAN DYN
+   [Anonymous], 1999, Texts in Applied Mathematics
+   Arakawa A, 1966, J COMPUT PHYS, V1, P119, DOI [10.1016/0021-9991(66)90015-5, DOI 10.1016/0021-9991(66)90015-5]
+   Celledoni E, 2005, CRM PROC & LECT NOTE, V39, P77
+   Celledoni E, 2003, FUTURE GENER COMP SY, V19, P341, DOI 10.1016/S0167-739X(02)00161-9
+   CELLEDONI E, 2008, J SCI COMPU IN PRESS
+   DURRAN DR, 1989, J ATMOS SCI, V46, P1453, DOI 10.1175/1520-0469(1989)046<1453:ITAA>2.0.CO;2
+   Gassmann A, 2005, METEOROL ATMOS PHYS, V88, P23, DOI 10.1007/s00703-003-0053-8
+   GEAR CW, 1984, BIT, V24, P484, DOI 10.1007/BF01934907
+   GUNTHER M, 1993, APPL NUMER MATH, V13, P83, DOI 10.1016/0168-9274(93)90133-C
+   Hochbruck M, 2005, APPL NUMER MATH, V53, P323, DOI 10.1016/j.apnum.2004.08.005
+   Hochbruck M, 1997, SIAM J NUMER ANAL, V34, P1911, DOI 10.1137/S0036142995280572
+   Hundertmark T, 2007, Q J ROY METEOR SOC, V133, P1575, DOI 10.1002/qj.118
+   Knoth O, 1998, APPL NUMER MATH, V28, P327, DOI 10.1016/S0168-9274(98)00051-8
+   OGURA Y, 1962, J ATMOS SCI, V19, P173, DOI 10.1175/1520-0469(1962)019<0173:SAODAS>2.0.CO;2
+   Owren B, 2006, J PHYS A-MATH GEN, V39, P5585, DOI 10.1088/0305-4470/39/19/S15
+   SKAMAROCK W, 2005, TN468 NCAR
+   SKAMAROCK WC, 1992, MON WEATHER REV, V120, P2109, DOI 10.1175/1520-0493(1992)120<2109:TSOTSN>2.0.CO;2
+   Skamarock WC, 2008, J COMPUT PHYS, V227, P3465, DOI 10.1016/j.jcp.2007.01.037
+   SKELBOE S, 1989, SIAM J SCI STAT COMP, V10, P1000, DOI 10.1137/0910059
+   SKELBOE S, 1989, APPL NUMER MATH, V5, P151, DOI 10.1016/0168-9274(89)90031-7
+   STREHMEL K, 1982, COMPUTING, V29, P153, DOI 10.1007/BF02249938
+   STREHMEL K, 1981, Z ANGEW MATH MECH, V61, P253, DOI 10.1002/zamm.19810610608
+   Wicker LJ, 1998, MON WEATHER REV, V126, P1992, DOI 10.1175/1520-0493(1998)126<1992:ATSSFT>2.0.CO;2
+   Wicker LJ, 2002, MON WEATHER REV, V130, P2088, DOI 10.1175/1520-0493(2002)130<2088:TSMFEM>2.0.CO;2
+NR 25
+TC 28
+Z9 28
+U1 0
+U2 5
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD JUN
+PY 2009
+VL 49
+IS 2
+BP 449
+EP 473
+DI 10.1007/s10543-009-0222-3
+PG 25
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 453XN
+UT WOS:000266646300012
+DA 2024-07-18
+ER
+
+PT J
+AU Burman, E
+AF Burman, Erik
+TI On nonlinear artificial viscosity, discrete maximum principle and
+   hyperbolic conservation laws
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE conservation laws; monotone scheme; discrete maximum principle;
+   stabilized finite element methods; artificial viscosity; slope limiter
+ID FINITE-ELEMENT METHOD; CONVERGENCE; DIFFUSION; APPROXIMATION; EQUATIONS
+AB A finite element method for Burgers' equation is studied. The method is analyzed using techniques from stabilized finite element methods and convergence to entropy solutions is proven under certain hypotheses on the artificial viscosity. In particular we assume that a discrete maximum principle holds. We then construct a nonlinear artificial viscosity that satisfies the assumptions required for convergence and that can be tuned to minimize artificial viscosity away from local extrema.
+   The theoretical results are exemplified on a numerical example.
+C1 Ecole Polytech Fed Lausanne, Inst Anal & Sci Comp, CH-1015 Lausanne, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; Ecole Polytechnique
+   Federale de Lausanne
+RP Burman, E (corresponding author), Ecole Polytech Fed Lausanne, Inst Anal & Sci Comp, Stat 8, CH-1015 Lausanne, Switzerland.
+EM erik.burman@epfl.ch
+RI Burman, Erik/G-2414-2011
+OI Burman, Erik/0000-0003-4287-7241
+CR [Anonymous], 1993, Large eddy simulation of complex engineering and geophysical flows, DOI DOI 10.1016/0955-5986(96)00002-7
+   [Anonymous], 1997, SPRINGER SERIES COMP
+   [Anonymous], 2002, LECT MATH ETH
+   Bertoluzza S, 1999, CR ACAD SCI I-MATH, V329, P1097, DOI 10.1016/S0764-4442(00)88481-5
+   Burman E, 2005, MATH COMPUT, V74, P1637, DOI 10.1090/S0025-5718-05-01761-8
+   Burman E, 2002, COMPUT METHOD APPL M, V191, P3833, DOI 10.1016/S0045-7825(02)00318-3
+   Burman E., 2003, NUMERICAL MATH ADV A, P557
+   BURMAN E, 2007, MATH COMPUT
+   Ciarlet P. G., 1973, Computer Methods in Applied Mechanics and Engineering, V2, P17, DOI 10.1016/0045-7825(73)90019-4
+   COCKBURN B, 1989, MATH COMPUT, V52, P411, DOI 10.2307/2008474
+   Godlewski E., 1996, APPL MATH SCI, V118
+   JAFFRE J, 1995, MATH MOD METH APPL S, V5, P367, DOI 10.1142/S021820259500022X
+   JOHNSON C, 1987, MATH COMPUT, V49, P427, DOI 10.1090/S0025-5718-1987-0906180-5
+   LEVEQUE RJ, 1990, LECT MATH ETH
+   Panov E.Y., 1994, MAT ZAMETKI, V55, P159
+   Panov E.Y., 1994, MAT ZAMETKI, V55, P116
+   SZEPESSY A, 1989, MATH COMPUT, V53, P527, DOI 10.1090/S0025-5718-1989-0979941-6
+   VONNEUMANN J, 1950, J APPL PHYS, V21, P232, DOI 10.1063/1.1699639
+   Xu JC, 1999, MATH COMPUT, V68, P1429, DOI 10.1090/S0025-5718-99-01148-5
+NR 19
+TC 24
+Z9 27
+U1 0
+U2 3
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+J9 BIT
+JI Bit
+PD DEC
+PY 2007
+VL 47
+IS 4
+BP 715
+EP 733
+DI 10.1007/s10543-007-0147-7
+PG 19
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 237NH
+UT WOS:000251380800004
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Savcenco, V
+   Hundsdorfer, W
+   Verwer, JG
+AF Savcenco, V.
+   Hundsdorfer, W.
+   Verwer, J. G.
+TI A multirate time stepping strategy for stiff ordinary differential
+   equations
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE multirate time stepping; local time stepping; ordinary differential
+   equations
+ID ADAPTIVE GALERKIN METHODS
+AB To solve ODE systems with different time scales which are localized over the components, multirate time stepping is examined. In this paper we introduce a self-adjusting multirate time stepping strategy, in which the step size for a particular component is determined by its own local temporal variation, instead of using a single step size for the whole system. We primarily consider implicit time stepping methods, suitable for stiff or mildly stiff ODEs. Numerical results with our multirate strategy are presented for several test problems. Comparisons with the corresponding single-rate schemes show that substantial gains in computational work and CPU times can be obtained.
+C1 CWI, NL-1090 GB Amsterdam, Netherlands.
+RP Savcenco, V (corresponding author), CWI, POB 94079, NL-1090 GB Amsterdam, Netherlands.
+EM savcenco@cwi.nl; willem.hundsdorfer@cwi.nl; jan.verwer@cwi.nl
+CR Bartel A, 2002, J COMPUT APPL MATH, V147, P411, DOI 10.1016/S0377-0427(02)00476-4
+   BARTEL A, 2000, 200084 PHIL EL
+   Engstler C, 1997, COMPUTING, V58, P173, DOI 10.1007/BF02684438
+   Engstler C, 1997, APPL NUMER MATH, V25, P185, DOI 10.1016/S0168-9274(97)00058-5
+   ESTEP DJ, 2000, MEM AM MATH SOC, P146
+   GEAR CW, 1984, BIT, V24, P484, DOI 10.1007/BF01934907
+   Günther M, 2001, BIT, V41, P504, DOI 10.1023/A:1021967112503
+   Hundsdorfer W., 2003, NUMERICAL SOLUTION T, DOI 10.1007/978-3-662-09017-6
+   JANSSON J, 2004, ALGORITHMS MULTIADAP
+   KVAERNO A, 2000, INT J DIFFERENTIAL E, V1, P97
+   Logg A, 2003, SIAM J SCI COMPUT, V25, P1119, DOI 10.1137/S1064827501389734
+   Logg A, 2003, SIAM J SCI COMPUT, V24, P1879, DOI 10.1137/S1064827501389722
+   Shampine L.F., 1994, Numerical Solution of Ordinary Differential Equations
+   Wanner Gerhard, 1996, Springer Series in Computational Mathematics, V375, DOI DOI 10.1007/978-3-642-05221-7
+NR 14
+TC 69
+Z9 74
+U1 0
+U2 12
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD MAR
+PY 2007
+VL 47
+IS 1
+BP 137
+EP 155
+DI 10.1007/s10543-006-0095-7
+PG 19
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 145TM
+UT WOS:000244887900008
+DA 2024-07-18
+ER
+
+PT J
+AU Trefethen, LN
+   Weideman, JAC
+   Schmelzer, T
+AF Trefethen, L. N.
+   Weideman, J. A. C.
+   Schmelzer, T.
+TI Talbot quadratures and rational approximations
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE rational approximation; Caratheodory-Fejer approximation; quadrature;
+   Hankel contour; inverse Laplace transform; special functions; trapezoid
+   rule; Talbot contour
+ID LAPLACE TRANSFORMS; NUMERICAL INVERSION; PARABOLIC EQUATIONS;
+   TIME-DISCRETIZATION; TRANSIENT RESPONSES; PARALLEL METHOD; MATRIX;
+   EXPONENTIALS; CONVOLUTION; CONSTANTS
+AB Many computational problems can be solved with the aid of contour integrals containing e(z) in the integrand: examples include inverse Laplace transforms, special functions, functions of matrices and operators, parabolic PDEs, and reaction-diffusion equations. One approach to the numerical quadrature of such integrals is to apply the trapezoid rule on a Hankel contour defined by a suitable change of variables. Optimal parameters for three classes of such contours have recently been derived: (a) parabolas, (b) hyperbolas, and (c) cotangent contours, following Talbot in 1979. The convergence rates for these optimized quadrature formulas are very fast: roughly O(3(-N)), where N is the number of sample points or function evaluations. On the other hand, convergence at a rate apparently about twice as fast, O(9.28903(-N)), can be achieved by using a different approach: best supremum-norm rational approximants to e(z) for z is an element of (-infinity,0], following Cody, Meinardus and Varga in 1969. (All these rates are doubled in the case of self-adjoint operators or real integrands.) It is shown that the quadrature formulas can be interpreted as rational approximations and the rational approximations as quadrature formulas, and the strengths and weaknesses of the different approaches are discussed in the light of these connections. A MATLAB function is provided for computing Cody-Meinardus-Varga approximants by the method of Caratheodory-Fejer approximation.
+C1 Univ Oxford, Comp Lab, Oxford OX1 3QD, England.
+   Univ Stellenbosch, Dept Appl Math, ZA-7602 Matieland, South Africa.
+C3 University of Oxford; Stellenbosch University
+RP Trefethen, LN (corresponding author), Univ Oxford, Comp Lab, Wolfson Bldg,Parks Rd, Oxford OX1 3QD, England.
+EM LNT@comlab.ox.ac.uk; weideman@sun.ac.za; thoms@comlab.ox.ac.uk
+OI Weideman, JAC (Andre)/0000-0002-6833-8222
+CR [Anonymous], 1969, SPECIAL FUNCTIONS TH
+   [Anonymous], 1997, Logarithmic Potentials with External Fields
+   Aptekarev AI, 2002, SB MATH+, V193, P1, DOI 10.1070/SM2002v193n01ABEH000619
+   CALVETTI D, 1995, J COMPUT APPL MATH, V59, P349, DOI 10.1016/0377-0427(94)00037-2
+   CARPENTER AJ, 1984, LECT NOTES MATH, V1105, P383
+   CAVENDISH JC, 1972, J COMPUT PHYS, V10, P354, DOI 10.1016/0021-9991(72)90072-1
+   CODY W. J., 1969, J. Approx. Theory, V2, P50
+   GALLOPOULOS E, 1992, SIAM J SCI STAT COMP, V13, P1236, DOI 10.1137/0913071
+   Gallopoulos E., 1989, P 1989 ACM INT C SUP, P17
+   GALLOPOULOS E, 1989, 874 U ILL URB CHAMP
+   Gavrilyuk I. P., 2001, Computational Methods in Applied Mathematics, V1, DOI 10.2478/cmam-2001-0022
+   Gavrilyuk IP, 2005, SIAM J NUMER ANAL, V43, P2144, DOI 10.1137/040611045
+   Gil A, 2003, NUMER ALGORITHMS, V33, P265, DOI 10.1023/A:1025524324969
+   Gonchar A.A., 1984, MAT SBORNIK, V125, p[117, 306]
+   HALPHEN GH, 1886, THEORIE FONCTIONS EL
+   Kassam AK, 2005, SIAM J SCI COMPUT, V26, P1214, DOI 10.1137/S1064827502410633
+   KASSAM AK, 2003, 0316 NA OXF U COMP L
+   LAWSON JD, 1980, INFORMATION PROCESSI, V80, P741
+   López-Fernández M, 2005, NUMER MATH, V102, P277, DOI 10.1007/s00211-005-0624-3
+   López-Fernández M, 2004, APPL NUMER MATH, V51, P289, DOI 10.1016/j.apnum.2004.06.015
+   López-Fernández M, 2006, SIAM J NUMER ANAL, V44, P1332, DOI 10.1137/050629653
+   Lu YY, 1998, LINEAR ALGEBRA APPL, V279, P317, DOI 10.1016/S0024-3795(98)00017-2
+   Lubich C, 2002, SIAM J SCI COMPUT, V24, P161, DOI 10.1137/S1064827501388741
+   LUKE YL, 1978, J FRANKLIN I, V305, P259, DOI 10.1016/S0016-0032(78)90014-5
+   MAGNUS AP, 1994, MATH APPL, V296, P173
+   McLean W, 2004, IMA J NUMER ANAL, V24, P439, DOI 10.1093/imanum/24.3.439
+   Meinardus G., 1967, APPROXIMATION FUNCTI
+   Moler C, 2003, SIAM REV, V45, P3, DOI 10.1137/S00361445024180
+   PIESSENS R, 1971, J FRANKLIN I, V292, P57, DOI 10.1016/0016-0032(71)90041-X
+   PIESSENS R, 1971, J ENG MATH, V5, P1, DOI 10.1007/BF01535429
+   RJABOV VM, 1970, VESTN LENINGRAD U MA, V2, P119
+   RODRIGUES AJ, 1976, J I MATH APPL, V18, P49
+   Salzer, 1955, MATH TABLES, V9, P164
+   Schädle A, 2006, SIAM J SCI COMPUT, V28, P421, DOI 10.1137/050623139
+   SCHMELZER T, UNPUB SIAM J NUMER A
+   SCHONHAGE A., 1973, J APPROXIMATION THEO, V7, P395
+   Sheen D, 2003, IMA J NUMER ANAL, V23, P269, DOI 10.1093/imanum/23.2.269
+   Sheen D, 2000, MATH COMPUT, V69, P177, DOI 10.1090/S0025-5718-99-01098-4
+   Sidje RB, 1998, ACM T MATH SOFTWARE, V24, P130, DOI 10.1145/285861.285868
+   Stahl H., 1992, GEN ORTHOGONAL POLYN, V43
+   TALBOT A, 1979, J I MATH APPL, V23, P97
+   Temme N.M., 1996, Special Functions: An Introduction to the Classical Functions of Mathematical Physics
+   TREFETHEN L. N., 1983, COMPUTATIONAL ASPECT, P309
+   TREFETHEN LN, 1983, SIAM J NUMER ANAL, V20, P420, DOI 10.1137/0720030
+   TREFETHEN LN, UNPUB FAST TRAPEZOID
+   TREFETHEN LN, 1986, APPROXIMATION THEORY, V5, P599
+   TREFETHEN LN, UNPUB SIAM REV
+   Varga R.S., 1961, J. Math. and Phys, V40, P220
+   VLACH J, 1969, J FRANKLIN I, V288, P99, DOI 10.1016/0016-0032(69)90172-0
+   WEIDEMAN JAC, IN PRESS SIAM J NUME
+   WEIDEMAN JAC, IN PRESS MATH COMPUT
+   ZAKIAN V, 1975, J MATH ANAL APPL, V50, P191, DOI 10.1016/0022-247X(75)90048-7
+NR 52
+TC 149
+Z9 156
+U1 0
+U2 14
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD SEP
+PY 2006
+VL 46
+IS 3
+BP 653
+EP 670
+DI 10.1007/s10543-006-0077-9
+PG 18
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 087DD
+UT WOS:000240721800015
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Helsing, J
+AF Helsing, Johan
+TI Approximate inverse preconditioners for some large dense random
+   electrostatic interaction matrices
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE dense matrices; integral equations; preconditioners; sparse approximate
+   inverses; iterative methods; potential theory
+ID LINEAR-SYSTEMS; INTEGRAL-EQUATIONS; ALGORITHM
+AB A sparse mesh-neighbour based approximate inverse preconditioner is proposed for a type of dense matrices whose entries come from the evaluation of a slowly decaying free space Green's function at randomly placed points in a unit cell. By approximating distant potential fields originating at closely spaced sources in a certain way, the preconditioner is given properties similar to, or better than, those of a standard least squares approximate inverse preconditioner while its setup cost is only that of a diagonal block approximate inverse preconditioner. Numerical experiments on iterative solutions of linear systems with up to four million unknowns illustrate how the new preconditioner drastically outperforms standard approximate inverse preconditioners of otherwise similar construction, and especially so when the preconditioners are very sparse.
+C1 Lund Univ, Ctr Math Sci, S-22100 Lund, Sweden.
+C3 Lund University
+RP Helsing, J (corresponding author), Lund Univ, Ctr Math Sci, Box 118, S-22100 Lund, Sweden.
+EM helsing@maths.lth.se
+OI Helsing, Johan/0000-0003-1434-9222
+CR Bängtsson E, 2005, COMMUN NUMER METH EN, V21, P73, DOI 10.1002/cnm.728
+   Benzi M, 2002, J COMPUT PHYS, V182, P418, DOI 10.1006/jcph.2002.7176
+   Carpentieri B, 2005, SIAM J SCI COMPUT, V27, P774, DOI 10.1137/040603917
+   Carpentieri B, 2004, NUMER LINEAR ALGEBR, V11, P753, DOI 10.1002/nla.345
+   Carpentieri B, 2000, NUMER LINEAR ALGEBR, V7, P667, DOI 10.1002/1099-1506(200010/12)7:7/8<667::AID-NLA218>3.0.CO;2-X
+   Chen K, 2001, SIAM J MATRIX ANAL A, V22, P1058, DOI 10.1137/S0895479898348040
+   Chow E, 2000, SIAM J SCI COMPUT, V21, P1804, DOI 10.1137/S106482759833913X
+   Englund J, 2003, ENG ANAL BOUND ELEM, V27, P533, DOI 10.1016/S0955-7997(02)00160-1
+   Ford JM, 2003, SIAM J SCI COMPUT, V25, P961, DOI 10.1137/S1064827503421689
+   GREENGARD L, 1987, J COMPUT PHYS, V73, P325, DOI 10.1016/0021-9991(87)90140-9
+   Guillaume P, 2003, SIAM J MATRIX ANAL A, V24, P822, DOI 10.1137/S0895479802401515
+   Hackbusch W, 1999, COMPUTING, V62, P89, DOI 10.1007/s006070050015
+   Helsing J, 2005, J COMPUT PHYS, V202, P391, DOI 10.1016/j.jcp.2004.06.024
+   Jou HJ, 1997, J COMPUT PHYS, V131, P109, DOI 10.1006/jcph.1996.5581
+   Kapur S, 2000, DES AUT CON, P744, DOI 10.1145/337292.337767
+   Lee JF, 2003, IEEE T ANTENN PROPAG, V51, P1855, DOI 10.1109/TAP.2003.814736
+   Martinsson PG, 2005, J COMPUT PHYS, V205, P1, DOI 10.1016/j.jcp.2004.10.033
+   NABORS K, 1992, IEEE T MICROW THEORY, V40, P1496, DOI 10.1109/22.146331
+   NABORS K, 1994, SIAM J SCI COMPUT, V15, P713, DOI 10.1137/0915046
+   NILSSON M, 2000, P ANT PROP SOC INT S, V4, P1848
+   SAAD Y, 1986, SIAM J SCI STAT COMP, V7, P856, DOI 10.1137/0907058
+   VAVASIS SA, 1992, SIAM J MATRIX ANAL A, V13, P905, DOI 10.1137/0613055
+   Wang KG, 2004, PHYS REV E, V69, DOI 10.1103/PhysRevE.69.061507
+   Yu WJ, 2004, ENG ANAL BOUND ELEM, V28, P1035, DOI 10.1016/j.enganabound.2004.02.006
+NR 24
+TC 7
+Z9 7
+U1 0
+U2 0
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD JUN
+PY 2006
+VL 46
+IS 2
+BP 307
+EP 323
+DI 10.1007/s10543-006-0057-0
+PG 17
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 055IW
+UT WOS:000238444700005
+DA 2024-07-18
+ER
+
+PT J
+AU Waldvogel, J
+AF Waldvogel, J
+TI Fast construction of the Fejer and Clenshaw-Curtis quadrature rules
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE numerical quadrature; Fejer's quadrature rules; Clenshaw-Curtis
+   quadrature; discrete Fourier transform
+ID INTERPOLATORY QUADRATURES; SMOLYAK CUBATURE; WEIGHTS
+AB We present an elegant algorithm for stably and quickly generating the weights of Fejer's quadrature rules and of the Clenshaw-Curtis rule. The weights for an arbitrary number of nodes are obtained as the discrete Fourier transform of an explicitly defined vector of rational or algebraic numbers. Since these rules have the capability of forming nested families, some of them have gained renewed interest in connection with quadrature over multi-dimensional regions.
+C1 ETH, Swiss Fed Inst Technol, Seminar Appl Math, CH-8092 Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich
+RP ETH, Swiss Fed Inst Technol, Seminar Appl Math, CH-8092 Zurich, Switzerland.
+EM waldvoge@math.ethz.ch
+CR [Anonymous], 1933, Math. Z., DOI DOI 10.1007/BF01474575
+   [Anonymous], 1967, SIAM J. Numer. Anal., DOI DOI 10.1137/0704031
+   Bungartz HJ, 2004, ACT NUMERIC, V13, P147, DOI 10.1017/S0962492904000182
+   Davis Philip J., METHODS NUMERICAL IN
+   ELHAY S, 1987, ACM T MATH SOFTWARE, V13, P399, DOI 10.1145/35078.214351
+   GENTLEMAN WM, 1972, COMMUN ACM, V15, P353, DOI 10.1145/355602.355603
+   GENTLEMAN WM, 1972, COMMUN ACM, V15, P337, DOI 10.1145/355602.361310
+   KAUTSKY J, 1982, NUMER MATH, V40, P407, DOI 10.1007/BF01396453
+   Kronrod A.S., 1965, Nodes and Weights of Quadrature Formulas: Sixteen-place Tables
+   PATTERSON TN, 1969, MATH COMPUT, V23, P411
+   Petras K, 2003, NUMER MATH, V93, P729, DOI 10.1007/s002110200401
+   Petras K, 2000, ADV COMPUT MATH, V12, P71, DOI 10.1023/A:1018904816230
+   Smolyak S. A., 1963, Sov. Math. Dokl, V4, P240
+   VONWINCKEL G, 2005, MATHWORKS CENTRAL FI
+NR 14
+TC 101
+Z9 114
+U1 1
+U2 10
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD MAR
+PY 2006
+VL 46
+IS 1
+BP 195
+EP 202
+DI 10.1007/s10543-006-0045-4
+PG 8
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 022ZO
+UT WOS:000236094900012
+DA 2024-07-18
+ER
+
+PT J
+AU Al-Subaihi, I
+   Watson, GA
+AF Al-Subaihi, I
+   Watson, GA
+TI Fitting parametric curves and surfaces by <i>l</i><sub>∞</sub> distance
+   regression
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE l(infinity) norm; curve fitting; non-unique solution; Gauss-Newton
+   method; simplex method
+ID SQUARES; ALGORITHM; ELLIPSE
+AB For fitting curves or surfaces to observed or measured data, a common criterion is orthogonal distance regression. We consider here a natural generalization of a particular formulation of that problem which involves the replacement of least squares by the Chebyshev norm. For example, this criterion may be a more appropriate one in the context of accept/reject decisions for manufactured parts. The resulting problem has some interesting features: it has much structure which can be exploited, but generally the solution is not unique. We consider a method of Gauss-Newton type and show that if the non-uniqueness is resolved in a way which is consistent with a particular way of exploiting the structure in the linear subproblem, this can not only allow the method to be properly defined, but can permit a second order rate of convergence. Numerical examples are given to illustrate this.
+C1 Univ Dundee, Dept Math, Dundee DD1 4HN, Scotland.
+C3 University of Dundee
+RP Univ Dundee, Dept Math, Dundee DD1 4HN, Scotland.
+EM ialsubai@maths.dundee.ac.uk; gawatson@maths.dundee.ac.uk
+RI Al-Subaihi, I.A./M-2529-2015
+OI Al-Subaihi, I.A./0000-0003-2681-5905
+CR Ahn SJ, 2001, PATTERN RECOGN, V34, P2283, DOI 10.1016/S0031-3203(00)00152-7
+   [Anonymous], ALGORITHMS APPROXIMA
+   Atieg A, 2003, J COMPUT APPL MATH, V158, P277, DOI 10.1016/S0377-0427(03)00448-5
+   Atieg A., 2004, Australian and New Zealand Industrial and Applied Mathematics Journal, V45, pC187
+   BERMAN M, 1983, J R STAT SOC C-APPL, V32, P1
+   BOGGS PT, 1987, SIAM J SCI STAT COMP, V8, P1052, DOI 10.1137/0908085
+   Gulliksson M, 2001, BIT, V41, P308, DOI 10.1023/A:1021942507052
+   Hadley G., 1962, LINEAR PROGRAMMING
+   Helfrich HP, 1996, J COMPUT APPL MATH, V73, P119, DOI 10.1016/0377-0427(96)00039-8
+   HELFRICH HP, 2002, ALGORITHMS APPROXIMA, V4, P122
+   RICE JR, 1962, B AM MATH SOC, V68, P405, DOI 10.1090/S0002-9904-1962-10822-2
+   Ross C, 2000, SER ADV MATH APPL SC, V53, P210
+   Späth H, 1999, COMPUTATION STAT, V14, P491, DOI 10.1007/s001800050027
+   Spath H., 2001, MATH COMMUN, V6, P89
+   Strebel R, 1997, SIAM PROC S, P249
+   Turner DA, 2000, SER ADV MATH APPL SC, V53, P246
+   TURNER DA, 1999, THESIS U HUDDERSFIEL
+   Watson G.A., 1980, APPROXIMATION THEORY
+   WATSON G. A., 2002, ALGORITHMS APPROXIMA, VIV, P294
+   Watson GA, 2002, IMA J NUMER ANAL, V22, P345, DOI 10.1093/imanum/22.3.345
+   Watson GA, 2002, BIT, V42, P867, DOI 10.1023/A:1021912806510
+   WATSON GA, 1991, BIT, V31, P697, DOI 10.1007/BF01933182
+   Watson GA, 1999, BIT, V39, P176, DOI 10.1023/A:1022381510996
+   Zwick DS, 1997, SIAM PROC S, P265
+NR 24
+TC 14
+Z9 17
+U1 1
+U2 6
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD SEP
+PY 2005
+VL 45
+IS 3
+BP 443
+EP 461
+DI 10.1007/s10543-005-0018-z
+PG 19
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 987QQ
+UT WOS:000233532800002
+DA 2024-07-18
+ER
+
+PT J
+AU Birken, P
+   Meister, A
+AF Birken, P
+   Meister, A
+TI Stability of preconditioned finite volume schemes at low Mach numbers
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE preconditioning; low Mach number flow; asymptotic analysis; finite
+   volume method; conservation laws
+ID ESSENTIALLY NONOSCILLATORY SCHEMES; FLOW; EXTENSION; SOLVERS; FLUID
+AB A finite volume method for inviscid unsteady flows at low Mach numbers is studied. The method uses a preconditioning of the dissipation term within the numerical flux function only. It can be observed by numerical experiments that the preconditioned scheme combined with an explicit time integrator is unstable if the time step Delta t does not satisfy the requirement to be O(M-2) as the Mach number M tends to zero, whereas the corresponding standard method remains stable up to Delta t = O(M), M --> 0, though producing unphysical results.
+   A comprehensive mathematical substantiation of this numerical phenomenon by means of a von Neumann stability analysis is presented, which reveals that in contrast to the standard approach, the dissipation matrix of the preconditioned numerical flux function possesses an eigenvalue growing like M-2 as M tends to zero, thus causing the diminishment of the stability region of the explicit scheme. The theoretical results are afterwards confirmed by numerical experiments.
+C1 Univ Kassel, Dept Math & Comp Sci, D-34132 Kassel, Germany.
+C3 Universitat Kassel
+RP Univ Kassel, Dept Math & Comp Sci, Heinrich Plett Str 40, D-34132 Kassel, Germany.
+EM birken@mathematik.uni-kassel.de; meister@mathematik.uni-kassel.de
+CR [Anonymous], 1994, 940083 AIAA
+   CHOI YH, 1993, J COMPUT PHYS, V105, P207, DOI 10.1006/jcph.1993.1069
+   Cole J. D, 1996, APPL MATH SCI, V114
+   DEMIRDZIC I, 1993, INT J NUMER METH FL, V16, P1029, DOI 10.1002/fld.1650161202
+   Friedrich O, 1998, J COMPUT PHYS, V144, P194, DOI 10.1006/jcph.1998.5988
+   Guillard H, 1999, COMPUT FLUIDS, V28, P63, DOI 10.1016/S0045-7930(98)00017-6
+   HARLOW FH, 1965, PHYS FLUIDS, V8, P2182, DOI 10.1063/1.1761178
+   HOFFMANN L, 2001, COMPUT FLUID DYNAM J, V9, P231
+   Hu CQ, 1999, J COMPUT PHYS, V150, P97, DOI 10.1006/jcph.1998.6165
+   KLAINERMAN S, 1981, COMMUN PUR APPL MATH, V34, P481, DOI 10.1002/cpa.3160340405
+   KLEIN R, 1995, J COMPUT PHYS, V121, P213, DOI 10.1016/S0021-9991(95)90034-9
+   Klein R, 2001, J ENG MATH, V39, P261, DOI 10.1023/A:1004844002437
+   MASSJUNG R, 2002, THESIS RWTH AACHEN
+   Meister A, 2003, Z ANGEW MATH PHYS, V54, P1010, DOI 10.1007/s00033-003-2025-8
+   Meister A, 2003, Z ANGEW MATH MECH, V83, P3, DOI [10.1002/zamm.200310002, 10.1002/zamm.200310001]
+   Meister A, 1999, SIAM J APPL MATH, V60, P256, DOI 10.1137/S0036139998343198
+   MEISTER A, 2001, DISCRETE MODELLING D, P177
+   MEISTER A, 2001, THESIS U HAMBURG
+   MEISTER A, 2002, IND MATH STAT
+   PATANKAR SV, 1972, INT J HEAT MASS TRAN, V15, P1787, DOI 10.1016/0017-9310(72)90054-3
+   ROE PL, 1981, J COMPUT PHYS, V43, P357, DOI [10.1016/0021-9991(81)90128-5, 10.1006/jcph.1997.5705]
+   Schneider T, 1999, J COMPUT PHYS, V155, P248, DOI 10.1006/jcph.1999.6327
+   SHU CW, 1988, J COMPUT PHYS, V77, P439, DOI 10.1016/0021-9991(88)90177-5
+   SHUEN JS, 1993, J COMPUT PHYS, V106, P306
+   TURKEL E, 1987, J COMPUT PHYS, V72, P277, DOI 10.1016/0021-9991(87)90084-2
+   TURKEL E, 2003, AIAA 16 COMP FLUID D
+   Van-Leer B., 1991, AIAA911552
+   WEISS JM, 1995, AIAA J, V33, P2050, DOI 10.2514/3.12946
+   Wenneker I, 2002, INT J NUMER METH FL, V40, P1209, DOI 10.1002/fld.417
+NR 29
+TC 22
+Z9 23
+U1 0
+U2 5
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD SEP
+PY 2005
+VL 45
+IS 3
+BP 463
+EP 480
+DI 10.1007/s10543-005-0009-0
+PG 18
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 987QQ
+UT WOS:000233532800003
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Aparicio, ND
+   Malham, SJA
+   Oliver, M
+AF Aparicio, ND
+   Malham, SJA
+   Oliver, M
+TI Numerical evaluation of the Evans function by Magnus integration
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE Neumann expansion; Magnus expansion; Evans function
+ID DIFFERENTIAL-EQUATIONS; MATRIX; SERIES; EIGENVALUES; STABILITY
+AB We use Magnus methods to compute the Evans function for spectral problems as arise when determining the linear stability of travelling wave solutions to reaction-diffusion and related partial differential equations. In a typical application scenario, we need to repeatedly sample the solution to a system of linear non-autonomous ordinary differential equations for different values of one or more parameters as we detect and locate the zeros of the Evans function in the right half of the complex plane.
+   In this situation, a substantial portion of the computational effort-the numerical evaluation of the iterated integrals which appear in the Magnus series-can be performed independent of the parameters and hence needs to be done only once. More importantly, for any given tolerance Magnus integrators possess lower bounds on the step size which are uniform across large regions of parameter space and which can be estimated a priori. We demonstrate, analytically as well as through numerical experiment, that these features render Magnus integrators extremely robust and, depending on the regime of interest, efficient in comparison with standard ODE solvers.
+C1 Oxford Brookes Univ, Dept Math Sci, Wheatley OX33 1HX, England.
+   Heriot Watt Univ, Dept Math, Edinburgh EH14 4AS, Midlothian, Scotland.
+   Int Jacobs Univ Bremen, Sch Sci & Engn, D-28759 Bremen, Germany.
+C3 Oxford Brookes University; Heriot Watt University
+RP Oxford Brookes Univ, Dept Math Sci, Wheatley OX33 1HX, England.
+EM ndaparicio@brookes.ac.uk; simonm@ma.hw.ac.uk; oliver@member.ams.org
+RI Oliver, Marcel/AAG-8775-2020
+OI Oliver, Marcel/0000-0003-0921-4032; Malham, Simon/0000-0002-1625-4190
+CR ALEXANDER J, 1990, J REINE ANGEW MATH, V410, P167, DOI 10.1515/crll.1990.410.167
+   Allen L, 2002, NUMER MATH, V92, P197, DOI 10.1007/s002110100365
+   [Anonymous], 1987, SPRINGER SERIES COMP
+   [Anonymous], 1888, Math. Ann, DOI DOI 10.1007/BF01443609
+   Baker HF, 1903, P LOND MATH SOC, V35, P333
+   Balmforth NJ, 1999, P ROY SOC A-MATH PHY, V455, P1401, DOI 10.1098/rspa.1999.0366
+   BIALYNIC.I, 1969, ANN PHYS-NEW YORK, V51, P187, DOI 10.1016/0003-4916(69)90351-0
+   BILLINGHAM J, 1991, PHILOS T ROY SOC A, V336, P497, DOI 10.1098/rsta.1991.0098
+   Blanes S, 1998, J PHYS A-MATH GEN, V31, P259, DOI 10.1088/0305-4470/31/1/023
+   Blanes S, 2002, BIT, V42, P262, DOI 10.1023/A:1021942823832
+   Chanane B, 2002, APPL MATH LETT, V15, P459, DOI 10.1016/S0893-9659(01)00159-8
+   CHEN KT, 1957, ANN MATH, V65, P163, DOI 10.2307/1969671
+   Coombes S, 2004, SIAM J APPL DYN SYST, V3, P574, DOI 10.1137/040605953
+   DEGANI I, 2003, MCS0304 WEIZM I SCI
+   DYSON FJ, 1949, PHYS REV, V75, P486, DOI 10.1103/PhysRev.75.486
+   EVANS JW, 1975, INDIANA U MATH J, V24, P1169, DOI 10.1512/iumj.1975.24.24096
+   Greenberg L, 2001, SIAM J NUMER ANAL, V38, P1800, DOI 10.1137/S0036142999358743
+   Hairer E., 1991, SPRINGER SERIES COMP, V14
+   HENRY D, 1981, SPRINGERVERLAG LECT, V840
+   Hochbruck M, 2003, SIAM J NUMER ANAL, V41, P945, DOI 10.1137/S0036142902403875
+   Iserles A, 1999, PHILOS T R SOC A, V357, P983, DOI 10.1098/rsta.1999.0362
+   Iserles A, 2004, BIT, V44, P473, DOI 10.1023/B:BITN.0000046810.25353.95
+   Iserles A, 2002, APPL NUMER MATH, V43, P145, DOI 10.1016/S0168-9274(02)00122-8
+   Iserles A, 1999, BIT, V39, P281, DOI 10.1023/A:1022393913721
+   ISERLES A, 2002, 2002NA09 DAMTP U CAM
+   ISERLES A, 2000, ACTA NUMER, P215
+   Jódar L, 2000, ADV COMPUT MATH, V13, P231, DOI 10.1023/A:1018954227133
+   Kapitula T, 1998, SIAM J MATH ANAL, V30, P273
+   KNUTH D. E., 1981, Addison-Wesley Series in Computer Science and Information Processing, V2
+   MAGNUS W, 1954, COMMUN PUR APPL MATH, V7, P649, DOI 10.1002/cpa.3160070404
+   MOAN PC, 2002, THESIS U CAMBRIDGE
+   MOAN PC, 1998, 1998NA11 DAMTP U CAM
+   Moler C, 2003, SIAM REV, V45, P3, DOI 10.1137/S00361445024180
+   Munthe-Kaas H, 1999, PHILOS T R SOC A, V357, P957, DOI 10.1098/rsta.1999.0361
+   PEGO RL, 1992, PHILOS T R SOC A, V340, P47, DOI 10.1098/rsta.1992.0055
+   Pryce JD, 1993, MONOGRAPHS NUMERICAL
+   Reed M., 1975, Methods of Modern Mathematical Physics: I. Functional Analysis, pxv+361
+   Sandstede B., 2002, Handbook of Dynamical Systems II: Towards Applications, V2, P983, DOI [10.1016/S1874-575X(02)80039-X, DOI 10.1016/S1874-575X(02)80039-X]
+   Stuart A.M., 1996, CAMBRIDGE MONOGRAPHS
+   TERMAN D, 1990, SIAM J MATH ANAL, V21, P1139, DOI 10.1137/0521063
+NR 40
+TC 15
+Z9 16
+U1 1
+U2 4
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD JUN
+PY 2005
+VL 45
+IS 2
+BP 219
+EP 258
+DI 10.1007/s10543-005-0001-8
+PG 40
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 975LG
+UT WOS:000232663400002
+DA 2024-07-18
+ER
+
+PT J
+AU Chen, XS
+   Li, W
+   Sun, WW
+AF Chen, XS
+   Li, W
+   Sun, WW
+TI Some new perturbation bounds for the generalized polar decomposition
+SO BIT NUMERICAL MATHEMATICS
+LA English
+DT Article
+DE generalized polar decomposition; perturbation bound; subunitary polar
+   factor
+ID UNITARY
+AB The changes in the unitary polar factor under both multiplicative and additive perturbation are studied. A multiplicative perturbation bound and a new additive perturbation bound, in which a different measure of perturbation is introduced, are presented.
+C1 S China Normal Univ, Dept Math, Guangzhou 510631, Peoples R China.
+   City Univ Hong Kong, Dept Math, Hong Kong, Hong Kong, Peoples R China.
+C3 South China Normal University; City University of Hong Kong
+RP S China Normal Univ, Dept Math, Guangzhou 510631, Peoples R China.
+EM maweiw@math.cityu.edu.hk
+OI SUN, Weiwei/0000-0002-2079-4480
+CR BARRLUND A, 1990, BIT, V30, P101, DOI 10.1007/BF01932136
+   CHEN CH, 1989, J COMPUT MATH, V7, P397
+   Li RC, 1997, BIT, V37, P67, DOI 10.1007/BF02510173
+   LI RC, 1993, BIT, V33, P304, DOI 10.1007/BF01989752
+   LI RC, 1995, SIAM J MATRIX ANAL A, V16, P327, DOI 10.1137/S0895479893256359
+   Li RC, 1998, SIAM J MATRIX ANAL A, V20, P471, DOI 10.1137/S0895479896298506
+   Li W, 2003, SIAM J MATRIX ANAL A, V25, P362, DOI 10.1137/S0895479802413625
+   Li W, 2002, SIAM J MATRIX ANAL A, V23, P1183, DOI 10.1137/S0895479801394623
+   MATHIAS R, 1993, SIAM J MATRIX ANAL A, V14, P588, DOI 10.1137/0614041
+   Sun Ji-guang, 1989, Mathematica Numerica Sinica, V11, P262
+NR 10
+TC 20
+Z9 32
+U1 0
+U2 1
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0006-3835
+EI 1572-9125
+J9 BIT
+JI Bit
+PD MAY
+PY 2004
+VL 44
+IS 2
+BP 237
+EP 244
+DI 10.1023/B:BITN.0000039423.58964.e1
+PG 8
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 849CE
+UT WOS:000223515500003
+DA 2024-07-18
+ER
+
+EF

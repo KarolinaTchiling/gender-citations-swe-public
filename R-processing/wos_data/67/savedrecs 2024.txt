@@ -1,0 +1,1652 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhou, ZG
+   Li, YZ
+   Ni, YN
+   Xu, WW
+   Hu, GT
+   Lai, Y
+   Chen, PX
+   Su, WH
+AF Zhou, Zhiguang
+   Li, Yize
+   Ni, Yuna
+   Xu, Weiwen
+   Hu, Guoting
+   Lai, Ying
+   Chen, Peixiong
+   Su, Weihua
+TI VisCI: A visualization framework for anomaly detection and interactive
+   optimization of composite index
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Anomaly detection; Composite index; Human-computer interaction; Visual
+   analysis
+AB Composite index is always derived with the weighted aggregation of hierarchical components, which is widely utilized to distill intricate and multidimensional matters in economic and business statistics. However, the composite indices always present inevitable anomalies at different levels oriented from the calculation and expression processes of hierarchical components, thereby impairing the precise depiction of specific economic issues. In this paper, we propose VisCI, a visualization framework for anomaly detection and interactive optimization of composite index. First, LSTM-AE model is performed to detect anomalies from the lower level to the higher level of the composite index. Then, a comprehensive array of visual cues is designed to visualize anomalies, such as hierarchy and anomaly visualization. In addition, an interactive operation is provided to ensure accurate and efficient index optimization, mitigating the adverse impact of anomalies on index calculation and representation. Finally, we implement a visualization framework with interactive interfaces, facilitating both anomaly detection and intuitive composite index optimization. Case studies based on real-world datasets and expert interviews are conducted to demonstrate the effectiveness of our VisCI in commodity index anomaly exploration and anomaly optimization. (c) 2024 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University Press Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Zhou, Zhiguang; Li, Yize] Hangzhou Dianzi Univ, Hangzhou, Peoples R China.
+   [Li, Yize] Liaoning Tech Univ, Huludao, Peoples R China.
+   [Ni, Yuna; Xu, Weiwen] Zhejiang Univ Finance & Econ, Hangzhou, Peoples R China.
+   [Hu, Guoting] Zhejiang Univ Finance & Econ Dongfang Coll, Haining, Peoples R China.
+   [Lai, Ying; Chen, Peixiong] Marine Acad Zhejiang Prov, Hangzhou, Peoples R China.
+   [Lai, Ying; Chen, Peixiong] Key Lab Ocean Space Resource Management Technol, Hangzhou, Peoples R China.
+   [Su, Weihua] Zhejiang Gongshang Univ, Hangzhou, Peoples R China.
+C3 Hangzhou Dianzi University; Liaoning Technical University; Zhejiang
+   University of Finance & Economics; Zhejiang University of Finance &
+   Economics; Ministry of Natural Resources of the People's Republic of
+   China; Second Institute of Oceanography, Ministry of Natural Resources;
+   Zhejiang Gongshang University
+RP Hu, GT (corresponding author), Zhejiang Univ Finance & Econ Dongfang Coll, Haining, Peoples R China.
+EM hgt@zufe.edu.cn; swh@zjgsu.edu.cn
+FU National Natural Science Foundation of China [62277013, 62177040];
+   National Statistical Science Research Project [2022LY099]; Public
+   Welfare Plan Research Project of Zhejiang Provincial Science and
+   Technology Department [TGG23H260008]; Zhejiang Statistical Science
+   Research Project
+FX The authors would like to thank the anonymous review- ers for their
+   valuable comments. This work was supported in part by the National
+   Natural Science Foundation of China (No. 62277013, No. 62177040) ,
+   National Statistical Science Research Project (No. 2022LY099) , Public
+   Welfare Plan Research Project of Zhejiang Provincial Science and
+   Technology Department (No. TGG23H260008) , and Zhejiang Statistical
+   Science Research Project.
+CR Al Mamun MS, 2011, J PUBLIC TRANSPORT, V14, P69, DOI 10.5038/2375-0901.14.2.4
+   Al-Khazali O, 2017, J INT FINANC MARK I, V51, P190, DOI 10.1016/j.intfin.2017.10.001
+   Androniceanu AM, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12176812
+   Asif M, 2014, INT J QUAL RELIAB MA, V31, P983, DOI 10.1108/IJQRM-02-2013-0023
+   BALL R, 1978, J FINANC ECON, V6, P103, DOI 10.1016/0304-405X(78)90026-0
+   Blanch R, 2007, IEEE T VIS COMPUT GR, V13, P1248, DOI 10.1109/TVCG.2007.70540
+   Bolte F, 2021, IEEE T VIS COMPUT GR, V27, P3571, DOI 10.1109/TVCG.2020.2973564
+   Booysen F, 2002, SOC INDIC RES, V59, P115, DOI 10.1023/A:1016275505152
+   Burch M., 2008, P WORK C ADV VIS INT, P75
+   Burch M, 2011, IEEE T VIS COMPUT GR, V17, P2440, DOI 10.1109/TVCG.2011.193
+   Burch M, 2011, IMAGAPP & IVAPP 2011: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON IMAGING THEORY AND APPLICATIONS AND INTERNATIONAL CONFERENCE ON INFORMATION VISUALIZATION THEORY AND APPLICATIONS, P177
+   CAMPBELL SL, 1995, NUMER MATH, V72, P173, DOI 10.1007/s002110050165
+   Card SK, 2006, IEEE CONF VIS ANAL, P3
+   Carli G.R., 1804, dissertazione
+   Cirstea SD, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10030811
+   CRAIG J, 1972, J ROY STAT SOC C-APP, V21, P25
+   Defiesta G, 2014, J ENVIRON SCI MANAG, V17, P48
+   Dutot C., 1740, Reflexions politiques sur les finances et le commerce, V1
+   Flemisch T., 2020, VOILA@ ISWC, P28
+   Garcia-Bernabeu A, 2020, SUSTAINABILITY-BASEL, V12, DOI 10.3390/su12020618
+   Gou L, 2011, IEEE T VIS COMPUT GR, V17, P2449, DOI 10.1109/TVCG.2011.247
+   Han DM, 2022, FRONT COMPUT SCI-CHI, V16, DOI 10.1007/s11704-020-0013-1
+   Jevons W. S., 1865, J. Statist. Soc. London, V28, P294, DOI DOI 10.2307/2338419
+   Jones RC, 2009, AM J RESP CRIT CARE, V180, P1189, DOI 10.1164/rccm.200902-0271OC
+   Khan FA, 2019, IEEE ACCESS, V7, P30373, DOI 10.1109/ACCESS.2019.2899721
+   Kong N, 2010, IEEE T VIS COMPUT GR, V16, P990, DOI 10.1109/TVCG.2010.186
+   Landwehr JP, 2022, BUS INFORM SYST ENG+, V64, P707, DOI 10.1007/s12599-022-00745-z
+   Li Ning., 2014, P 7 INT S VISUAL INF, P188
+   Liu HY, 2021, VIS INFORM, V5, P1, DOI 10.1016/j.visinf.2021.10.002
+   Liu ZL, 2018, IEEE ACCESS, V6, P73940, DOI 10.1109/ACCESS.2018.2882812
+   Marriott JM, 1997, J R STAT SOC C-APPL, V46, P253, DOI 10.1111/1467-9876.00064
+   Mazziotta M, 2016, SOC INDIC RES, V127, P983, DOI 10.1007/s11205-015-0998-2
+   Mialou A., 2017, Journal of Banking and Financial Economics, V2, P105, DOI 10.7172/2353-6845.jbfe.2017.2.5
+   Munzner T, 2003, ACM T GRAPHIC, V22, P453, DOI 10.1145/882262.882291
+   Nardo M., 2005, HDB CONSTRUCTING COM, DOI [10.1787/533411815016, DOI 10.1787/533411815016]
+   Pandey A, 2020, IEEE T VIS COMPUT GR, V26, P938, DOI 10.1109/TVCG.2019.2934402
+   Sakairi T, 2015, 10TH IEEE INTERNATIONAL CONFERENCE ON SERVICE OPERATIONS AND LOGISTICS, AND INFORMATICS SOLI 2015, P18, DOI 10.1109/SOLI.2015.7367610
+   Schulz HJ, 2011, IEEE T VIS COMPUT GR, V17, P393, DOI 10.1109/TVCG.2010.79
+   Shirato G, 2023, VIS INFORM, V7, P77, DOI 10.1016/j.visinf.2023.01.001
+   Suschnigg J., 2020, EDBT ICDT WORKSH, P1
+   Tu Y, 2007, IEEE T VIS COMPUT GR, V13, P1286, DOI 10.1109/TVCG.2007.70529
+   Wu HJ, 2023, VIS INFORM, V7, P59, DOI 10.1016/j.visinf.2023.06.007
+   Xu K, 2019, IEEE T VIS COMPUT GR, V25, P109, DOI 10.1109/TVCG.2018.2864825
+   Zhang K, 2009, LECT NOTES ARTIF INT, V5476, P813, DOI 10.1007/978-3-642-01307-2_84
+   Zhang W, 2020, IEEE ACCESS, V8, P55483, DOI 10.1109/ACCESS.2020.2980079
+NR 45
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD JUN
+PY 2024
+VL 8
+IS 2
+BP 1
+EP 12
+DI 10.1016/j.visinf.2024.04.001
+EA MAY 2024
+PG 12
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA TM2T9
+UT WOS:001241621100001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Munz-Körner, T
+   Weiskopf, D
+AF Munz-Koerner, Tanja
+   Weiskopf, Daniel
+TI Exploring visual quality of multidimensional time series projections
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Time series; Multidimensional data; Dimensionality reduction; Projection
+   errors; Visual quality; Visual analytics
+ID DIMENSIONALITY REDUCTION; EXPLORATION
+AB Dimensionality reduction is often used to project time series data from multidimensional to twodimensional space to generate visual representations of the temporal evolution. In this context, we address the problem of multidimensional time series visualization by presenting a new method to show and handle projection errors introduced by dimensionality reduction techniques on multidimensional temporal data. For visualization, subsequent time instances are rendered as dots that are connected by lines or curves to indicate the temporal dependencies. However, inevitable projection artifacts may lead to poor visualization quality and misinterpretation of the temporal information. Wrongly projected data points, inaccurate variations in the distances between projected time instances, and intersections of connecting lines could lead to wrong assumptions about the original data. We adapt local and global quality metrics to measure the visual quality along the projected time series, and we introduce a model to assess the projection error at intersecting lines. These serve as a basis for our new uncertainty visualization techniques that use different visual encodings and interactions to indicate, communicate, and work with the visualization uncertainty from projection errors and artifacts along the timeline of data points, their connections, and intersections. Our approach is agnostic to the projection method and works for linear and non -linear dimensionality reduction methods alike. (c) 2024 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University Press Co. Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+C1 [Munz-Koerner, Tanja; Weiskopf, Daniel] Univ Stuttgart, Visualizat Res Ctr VISUS, Allmandring 19, D-70569 Stuttgart, Germany.
+C3 University of Stuttgart
+RP Munz-Körner, T (corresponding author), Univ Stuttgart, Visualizat Res Ctr VISUS, Allmandring 19, D-70569 Stuttgart, Germany.
+EM tanja.munz-koerner@visus.uni-stuttgart.de
+RI Weiskopf, Daniel/KWT-7459-2024
+OI Weiskopf, Daniel/0000-0003-1174-1026
+FU Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under
+   Germany's Excellence Strategy [EXC-2075 - 390740016]
+FX This work was funded by the Deutsche Forschungsgemeinschaft (DFG, German
+   Research Foundation) under Germany's Excellence Strategy - EXC-2075 -
+   390740016.
+CR Aigner W, 2011, HUM-COMPUT INT-SPRIN, P1, DOI 10.1007/978-0-85729-079-3
+   Aigner W, 2008, IEEE T VIS COMPUT GR, V14, P47, DOI 10.1109/TVCG.2007.70415
+   Ali M, 2019, VISUAL COMPUT, V35, P1013, DOI 10.1007/s00371-019-01673-y
+   Appel A., 1979, Proc. SIGGRAPH, P151, DOI [10.1145/965103.807437, DOI 10.1145/965103.807437]
+   Aupetit M, 2007, NEUROCOMPUTING, V70, P1304, DOI 10.1016/j.neucom.2006.11.018
+   Bach B., 2014, EuroVis-STARs, DOI [10.2312/eurovisstar.20141171, DOI 10.2312/EUROVISSTAR.20141171]
+   Bach B, 2016, IEEE T VIS COMPUT GR, V22, P559, DOI 10.1109/TVCG.2015.2467851
+   BENTLEY JL, 1979, IEEE T COMPUT, V28, P643, DOI 10.1109/TC.1979.1675432
+   Borg I., 2005, Modern multidimensional scaling: theory and applications
+   Bostock M, 2011, IEEE T VIS COMPUT GR, V17, P2301, DOI 10.1109/TVCG.2011.185
+   Brich N, 2022, COMPUT GRAPH FORUM, V41, P273, DOI 10.1111/cgf.14498
+   Brodlie K, 2012, Expanding the Frontiers of Visual Analytics and Visualization, P81, DOI [DOI 10.1007/978-1-4471-2804-56, 10.1007/978-1-4471-2804-5_6, DOI 10.1007/978-1-4471-2804-5_6]
+   Brown E.T., 2018, P MACH LEARN US INT
+   Cakmak E, 2018, IEEE CONF VIS ANAL, P104, DOI 10.1109/VAST.2018.8802502
+   Chatzimparmpas A, 2020, IEEE T VIS COMPUT GR, V26, P2696, DOI 10.1109/TVCG.2020.2986996
+   Cunningham JP, 2015, J MACH LEARN RES, V16, P2859
+   Dang T, 2022, LECT NOTES COMPUT SC, V13598, P91, DOI 10.1007/978-3-031-20713-6_7
+   de Leeuw J, 2009, J STAT SOFTW, V31, P1
+   Dong ES, 2020, LANCET INFECT DIS, V20, P533, DOI 10.1016/S1473-3099(20)30120-1
+   Donoho D.L., 2000, AM MATH SOC C MATH C
+   Engel D., 2011, VISUALIZATION LARGE, V27, P135, DOI [DOI 10.4230/OASICS.VLUDS.2011.135, 10.4230/OASIcs.VLUDS.2011.1352, DOI 10.4230/OASICS.VLUDS.2011.1352]
+   Espadoto M, 2021, IEEE T VIS COMPUT GR, V27, P2153, DOI 10.1109/TVCG.2019.2944182
+   Everts MH, 2009, IEEE T VIS COMPUT GR, V15, P1299, DOI 10.1109/TVCG.2009.138
+   Faust R, 2019, IEEE T VIS COMPUT GR, V25, P481, DOI 10.1109/TVCG.2018.2865194
+   Fernstad SJ, 2013, INFORM VISUAL, V12, P44, DOI 10.1177/1473871612460526
+   Fu Y, 2024, IEEE T VIS COMPUT GR, V30, P858, DOI 10.1109/TVCG.2023.3326910
+   Garcia R, 2021, VIS COMPUT IND BIOME, V4, DOI 10.1186/s42492-021-00090-0
+   Gracia A, 2014, INFORM SCIENCES, V270, P1, DOI 10.1016/j.ins.2014.02.068
+   Havre S, 2000, IEEE SYMPOSIUM ON INFORMATION VISUALIZATION 2000, P115, DOI 10.1109/INFVIS.2000.885098
+   Heer J, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1303
+   Heulot N., 2012, P IEEE INFOVIS
+   Hinterreiter A, 2021, ACM T INTERACT INTEL, V11, DOI 10.1145/3387165
+   Hotelling H, 1933, J EDUC PSYCHOL, V24, P417, DOI 10.1037/h0071325
+   Joia P, 2011, IEEE T VIS COMPUT GR, V17, P2563, DOI 10.1109/TVCG.2011.220
+   Kaski S, 2011, IEEE SIGNAL PROC MAG, V28, P100, DOI 10.1109/MSP.2010.940003
+   KRUSKAL JB, 1964, PSYCHOMETRIKA, V29, P1, DOI 10.1007/BF02289565
+   Lee JA, 2007, INFORM SCI STAT, P1
+   Lespinats S, 2011, COMPUT GRAPH FORUM, V30, P113, DOI 10.1111/j.1467-8659.2010.01835.x
+   Liu S, 2014, COMPUT GRAPH FORUM, V33, P101, DOI 10.1111/cgf.12366
+   MacEachren AM, 2012, IEEE T VIS COMPUT GR, V18, P2496, DOI 10.1109/TVCG.2012.279
+   Mao Y, 2007, IEEE T VIS COMPUT GR, V13, P1208, DOI 10.1109/TVCG.2007.70592
+   Martins R.M., 2014, Comput. Graph
+   McInnes L, 2020, Arxiv, DOI [arXiv:1802.03426, 10.21105/joss.00861]
+   Mokbel B, 2013, NEUROCOMPUTING, V112, P109, DOI 10.1016/j.neucom.2012.11.046
+   Molchanov V., 2014, 21 INT C CENTR EUR C, P39
+   Munz-Korner T., 2024, Supplemental Material for "Exploring Visual Quality of Multidimensional Time Series Projections, DOI [10.18419/darus-3965, DOI 10.18419/DARUS-3965]
+   Munz-Korner T., 2024, Visual Analysis System to Explore the Visual Quality of Multidimensional Time Series Projections, DOI [10.18419/darus-3553, DOI 10.18419/DARUS-3553]
+   Nonato LG, 2019, IEEE T VIS COMPUT GR, V25, P2650, DOI 10.1109/TVCG.2018.2846735
+   NOTON D, 1971, SCIENCE, V171, P308, DOI 10.1126/science.171.3968.308
+   Pang AT, 1997, VISUAL COMPUT, V13, P370, DOI 10.1007/s003710050111
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+   Perin C, 2018, IEEE T VIS COMPUT GR, V24, P698, DOI 10.1109/TVCG.2017.2743918
+   Potter Kristin, 2012, IFIP Adv Inf Commun Technol, V377, P226
+   Prandtl L., 2003, Applied Hydroand Aeromechanics
+   Raj M, 2018, COMPUT GRAPH FORUM, V37, P277, DOI 10.1111/cgf.13419
+   Rauber P. E., 2016, P EUR IEEE VGTC C VI, P73, DOI DOI 10.2312/EUROVISSHORT.20161164
+   Rieck B, 2015, COMPUT GRAPH FORUM, V34, P431, DOI 10.1111/cgf.12655
+   Roberts JC, 2007, CMV 2007: FIFTH INTERNATIONAL CONFERENCE ON COORDINATED & MULTIPLE VIEWS IN EXPLORATORY VISUALIZATION, PROCEEDINGS, P61, DOI 10.1109/CMV.2007.20
+   Rossum G, 2009, Python 3 Reference Manual, DOI DOI 10.5555/1593511
+   Seifert C., 2010, EuroVAST@ EuroVis
+   Stahnke J, 2016, IEEE T VIS COMPUT GR, V22, P629, DOI 10.1109/TVCG.2015.2467717
+   Tominski C., 2017, Inf. Des.: Res. Pract., V23
+   Torgerson WS, 1952, PSYCHOMETRIKA, V17, P401
+   van den Elzen S, 2016, IEEE T VIS COMPUT GR, V22, P1, DOI 10.1109/TVCG.2015.2468078
+   van der Maaten L., 2007, J. Mach. Learn. Res., V10
+   van der Maaten L, 2008, J MACH LEARN RES, V9, P2579
+   Vernier EF, 2020, COMPUT GRAPH FORUM, V39, P241, DOI 10.1111/cgf.13977
+   Ward M.O., 2009, Encyclopedia of Database Systems, P1623
+   Ward MO, 2011, COMPUT GRAPH FORUM, V30, P701, DOI 10.1111/j.1467-8659.2011.01919.x
+   Yuksel C, 2011, COMPUT AIDED DESIGN, V43, P747, DOI 10.1016/j.cad.2010.08.008
+NR 70
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD JUN
+PY 2024
+VL 8
+IS 2
+BP 27
+EP 42
+DI 10.1016/j.visinf.2024.04.004
+EA JUN 2024
+PG 16
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA UZ8N4
+UT WOS:001251979600001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Chen, YP
+   Zhao, Y
+   Li, XJ
+   Zhang, J
+   Long, J
+   Zhou, FF
+AF Chen, Yunpeng
+   Zhao, Ying
+   Li, Xuanjing
+   Zhang, Jiang
+   Long, Jiang
+   Zhou, Fangfang
+TI An open dataset of data lineage graphs for data governance research
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Data asset; Data governance; Data lineage; Graph; Open dataset
+AB Data have become valuable assets for enterprises. Data governance aims to manage and reuse data assets, facilitating enterprise management and enabling product innovations. A data lineage graph (DLG) is an abstracted collection of data assets and their data lineages in data governance. Analyzing DLGs can provide rich data insights for data governance. However, the progress of data governance technologies is hindered by the shortage of available open datasets for DLGs. This paper introduces an open dataset of DLGs, including the DLG model, the dataset construction process, and applied areas. This real-world dataset is sourced from Huawei Cloud Computing Technology Company Limited, which contains 18 DLGs with three types of data assets and two types of relations. To the best of our knowledge, this dataset is the first open dataset of DLGs for data governance. This dataset can also support the development of other application areas, such as graph analytics and visualization. (c) 2024 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University
+C1 [Chen, Yunpeng; Zhao, Ying; Li, Xuanjing; Zhou, Fangfang] Cent South Univ, Changsha, Hunan, Peoples R China.
+   [Zhang, Jiang; Long, Jiang] Huawei Cloud Comp Technol Co Ltd, Hangzhou, Zhejiang, Peoples R China.
+C3 Central South University
+RP Zhou, FF (corresponding author), Cent South Univ, Changsha, Hunan, Peoples R China.
+EM zff@csu.edu.cn
+FU National Natural Science Foundation of China [62272480, 62072470]
+FX This dataset originates from the collaborative project between Central
+   South University and Huawei Cloud. Appreciation to all the students of
+   Central South University involved in this project. Especially, thanks to
+   Qi'an Chen, Huiyu Lin, Gaoyuan Liang, and Jie Luo for assistance with
+   the data processing and valuable discussion. This work is supported in
+   part by the National Natural Science Foundation of China (No. 62272480
+   and 62072470) .
+CR Abraham R, 2019, INT J INFORM MANAGE, V49, P424, DOI 10.1016/j.ijinfomgt.2019.07.008
+   Birch K, 2021, BIG DATA SOC, V8, DOI 10.1177/20539517211017308
+   Boukerche A, 2020, ACM COMPUT SURV, V53, DOI [10.1145/3421763, 10.1145/3381028]
+   Burch M, 2021, VIS COMPUT IND BIOME, V4, DOI 10.1186/s42492-021-00088-8
+   Chen YP, 2023, BIG DATA COGN COMPUT, V7, DOI 10.3390/bdcc7040161
+   Cheng SH, 2022, VIS INFORM, V6, P11, DOI 10.1016/j.visinf.2022.07.002
+   Fischer M, 2020, VIS COMPUT IND BIOME, V3, DOI 10.1186/s42492-020-00043-z
+   Freche J., 2021, Digit. Journey Bank
+   Gartner Research, 2020, Market share: IT services, worldwide 2020
+   Homayouni H, 2018, IEEE INT SYMP SOFTW, P158, DOI 10.1109/ISSREW.2018.000-6
+   Janssen M, 2020, GOV INFORM Q, V37, DOI 10.1016/j.giq.2020.101493
+   Leite RA, 2020, VIS INFORM, V4, P11, DOI 10.1016/j.visinf.2020.09.006
+   Murai S, 2019, WEB CONFERENCE 2019: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2019), P1332, DOI 10.1145/3308558.3313422
+   Patel S, 2020, Int. J. Adv. Sci. Technol., V29, P4883
+   Peng YN, 2023, FRONT COMPUT SCI-CHI, V17, DOI 10.1007/s11704-021-0609-0
+   Riaz F., 2011, Proceedings of the 2011 3rd International Conference on Computational Intelligence, Communication Systems and Networks (CICSyN 2011), P142, DOI 10.1109/CICSyN.2011.40
+   Rodrigues FA, 2019, NONLIN SYST COMPLEX, V22, P177, DOI 10.1007/978-3-319-78512-7_10
+   Tang MJ, 2019, PROC INT CONF DATA, P1964, DOI 10.1109/ICDE.2019.00215
+   Telenti A, 2020, NAT GENET, V52, P1005, DOI 10.1038/s41588-020-0698-y
+   Vassiliadis P, 2002, Proceedings of the 5th ACM International Workshop on Data Warehousing and OLAP, P14, DOI DOI 10.1145/583890.583893
+   Wang XM, 2023, FRONT COMPUT SCI-CHI, V17, DOI 10.1007/s11704-023-2691-y
+   Xin R, 2019, IEEE DECIS CONTR P, P8353, DOI 10.1109/CDC40024.2019.9029217
+   Zhao Y., 2023, Visual Inform
+   Zhao Ying, 2023, IEEE Trans Vis Comput Graph, V29, P214, DOI 10.1109/TVCG.2022.3209469
+   Zhao Y, 2021, IEEE T RELIAB, V70, P1368, DOI 10.1109/TR.2021.3109122
+   Zhao Y, 2022, SCI CHINA INFORM SCI, V65, DOI 10.1007/s11432-019-2776-4
+   Zhao Y, 2022, IEEE T VIS COMPUT GR, V28, P4839, DOI 10.1109/TVCG.2021.3107297
+   Zhao Y, 2021, IEEE T VIS COMPUT GR, V27, P1698, DOI 10.1109/TVCG.2020.3030428
+   Zhou FF, 2024, IEEE T COMPUT SOC SY, V11, P731, DOI 10.1109/TCSS.2022.3231687
+   Zhou ZG, 2021, IEEE T VIS COMPUT GR, V27, P1709, DOI 10.1109/TVCG.2020.3030440
+NR 30
+TC 1
+Z9 1
+U1 4
+U2 4
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD MAR
+PY 2024
+VL 8
+IS 1
+BP 1
+EP 5
+DI 10.1016/j.visinf.2024.01.001
+EA MAR 2024
+PG 5
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA QL4U0
+UT WOS:001221023500001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Ye, YL
+   Hao, JN
+   Hou, YH
+   Wang, Z
+   Xiao, SS
+   Luo, YY
+   Zeng, W
+AF Ye, Yilin
+   Hao, Jianing
+   Hou, Yihan
+   Wang, Zhan
+   Xiao, Shishi
+   Luo, Yuyu
+   Zeng, Wei
+TI Generative AI for visualization: State of the art and future directions
+SO VISUAL INFORMATICS
+LA English
+DT Review
+DE Visualization; Generative AI
+ID INFORMATION; CHALLENGES; FRAMEWORK; NETWORKS; IMAGES
+AB Generative AI (GenAI) has witnessed remarkable progress in recent years and demonstrated impressive performance in various generation tasks in different domains such as computer vision and computational design. Many researchers have attempted to integrate GenAI into visualization framework, leveraging the superior generative capacity for different operations. Concurrently, recent major breakthroughs in GenAI like diffusion models and large language models have also drastically increased the potential of GenAI4VIS. From a technical perspective, this paper looks back on previous visualization studies leveraging GenAI and discusses the challenges and opportunities for future research. Specifically, we cover the applications of different types of GenAI methods including sequence, tabular, spatial and graph generation techniques for different tasks of visualization which we summarize into four major stages: data enhancement, visual mapping generation, stylization and interaction. For each specific visualization sub -task, we illustrate the typical data and concrete GenAI algorithms, aiming to provide in-depth understanding of the state-of-the-art GenAI4VIS techniques and their limitations. Furthermore, based on the survey, we discuss three major aspects of challenges and research opportunities including evaluation, dataset, and the gap between end -to -end GenAI methods and visualizations. By summarizing different generation algorithms, their current applications and limitations, this paper endeavors to provide useful insights for future GenAI4VIS research. (c) 2024 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University Press Co. Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+C1 [Ye, Yilin; Hao, Jianing; Hou, Yihan; Wang, Zhan; Xiao, Shishi; Luo, Yuyu; Zeng, Wei] Hong Kong Univ Sci & Technol Guangzhou, Guangzhou, Guangdong, Peoples R China.
+   [Ye, Yilin; Luo, Yuyu; Zeng, Wei] Hong Kong Univ Sci & Technol, Hong Kong, Peoples R China.
+C3 Hong Kong University of Science & Technology (Guangzhou); Hong Kong
+   University of Science & Technology
+RP Zeng, W (corresponding author), Hong Kong Univ Sci & Technol Guangzhou, Guangzhou, Guangdong, Peoples R China.
+EM weizeng@hkust-gz.edu.cn
+FU Guangzhou Basic and Applied Basic Research Foundation [2024A04J6462,
+   2023A03J0142]; Guangdong Basic and Applied Basic Research Foundation
+   [2023A1515110545]
+FX The authors wish to thank the anonymous reviewers for their valuable
+   comments. This work was supported by the Guangzhou Basic and Applied
+   Basic Research Foundation (2024A04J6462, 2023A03J0142) and Guangdong
+   Basic and Applied Basic Research Foundation (2023A1515110545) .
+CR Abukmeil M, 2021, ACM COMPUT SURV, V54, DOI 10.1145/3450963
+   Achiam OJ, 2023, Arxiv, DOI arXiv:2303.08774
+   Agrawal A., 2023, FINDINGS ASS COMPUTA, P1171
+   Andrews C, 2011, INFORM VISUAL, V10, P341, DOI 10.1177/1473871611415997
+   Badam SK, 2016, IEEE CONF VIS ANAL, P1, DOI 10.1109/VAST.2016.7883506
+   Baldrati A, 2022, PROC CVPR IEEE, P21434, DOI 10.1109/CVPR52688.2022.02080
+   Battle L, 2018, PROCEEDINGS OF THE 2018 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2018), DOI 10.1145/3173574.3174168
+   Bavarian M, 2022, Arxiv, DOI [arXiv:2207.14255, DOI 10.48550/ARXIV.2207.14255]
+   Berger M, 2019, IEEE T VIS COMPUT GR, V25, P1636, DOI 10.1109/TVCG.2018.2816059
+   Borgo R, 2012, IEEE T VIS COMPUT GR, V18, P2759, DOI 10.1109/TVCG.2012.197
+   Borkin MA, 2013, IEEE T VIS COMPUT GR, V19, P2306, DOI 10.1109/TVCG.2013.234
+   Bostock M, 2011, IEEE T VIS COMPUT GR, V17, P2301, DOI 10.1109/TVCG.2011.185
+   Bunt A., 2021, P CHI C HUM FACT COM, P1
+   Bylinskii Z, 2017, UIST'17: PROCEEDINGS OF THE 30TH ANNUAL ACM SYMPOSIUM ON USER INTERFACE SOFTWARE AND TECHNOLOGY, P57, DOI 10.1145/3126594.3126653
+   Cairo A., 2012, The Functional Art: An Introduction to Information Graphics and Visualization
+   Card S.K., 1999, Readings in Information Visualization: Using Vision to Think. The Morgan Kaufmann series in interactive technologies
+   Chaudhry R, 2020, IEEE WINT CONF APPL, P3501, DOI 10.1109/WACV45572.2020.9093269
+   Chen C, 2023, COMPUT GRAPH FORUM, V42, P449, DOI 10.1111/cgf.14855
+   Chen C, 2020, IEEE T VIS COMPUT GR, V26, P216, DOI 10.1109/TVCG.2019.2934806
+   Chen HP, 2019, PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P2074
+   Chen J, 2021, IEEE T VIS COMPUT GR, V27, P3826, DOI 10.1109/TVCG.2021.3054916
+   Chen JY, 2023, Arxiv, DOI arXiv:2305.10855
+   Chen M, 2009, IEEE COMPUT GRAPH, V29, P12, DOI 10.1109/MCG.2009.6
+   Chen Q., 2023, IEEE Transactions on Visualization and Computer Graphics, P1
+   Chen X, 2021, IEEE T VIS COMPUT GR, V27, P1514, DOI 10.1109/TVCG.2020.3030338
+   Chen ZT, 2020, IEEE T VIS COMPUT GR, V26, P917, DOI 10.1109/TVCG.2019.2934810
+   Cheng JX, 2023, Arxiv, DOI arXiv:2302.08908
+   Cho J, 2021, PR MACH LEARN RES, V139
+   Choi J, 2019, IEEE I CONF COMP VIS, P6829, DOI 10.1109/ICCV.2019.00693
+   Coelho D, 2020, COMPUT GRAPH FORUM, V39, P593, DOI 10.1111/cgf.14004
+   Cohen S., 2011, 5 BIENN C INN DAT SY, P148
+   Cui WW, 2020, IEEE T VIS COMPUT GR, V26, P906, DOI 10.1109/TVCG.2019.2934785
+   Dai A, 2017, PROC CVPR IEEE, P6545, DOI 10.1109/CVPR.2017.693
+   Davila K, 2021, IEEE T PATTERN ANAL, V43, P3799, DOI 10.1109/TPAMI.2020.2992028
+   Devlin J, 2019, Arxiv, DOI arXiv:1810.04805
+   Dibia V, 2023, PROCEEDINGS OF THE 61ST ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, ACL-DEMO 2023, VOL 3, P113
+   Dibia V, 2019, IEEE COMPUT GRAPH, V39, P33, DOI 10.1109/MCG.2019.2924636
+   Dinh L, 2015, Arxiv, DOI [arXiv:1410.8516, 10.48550/arXiv.1410.8516]
+   Donahue J., 2016, Adversarial feature learning
+   Dosovitskiy A, 2021, Arxiv, DOI arXiv:2010.11929
+   Evirgen N, 2023, PROCEEDINGS OF THE 2023 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2023), DOI 10.1145/3544548.3581226
+   Fan A, 2022, PROCEEDINGS OF THE 2022 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI' 22), DOI 10.1145/3491102.3502138
+   Fan J, 2020, PROC VLDB ENDOW, V13, P1962, DOI 10.14778/3407790.3407802
+   Fu JY, 2021, IEEE T VIS COMPUT GR, V27, P337, DOI 10.1109/TVCG.2020.3030351
+   Galanter P., 2016, A Companion to Digital Art, P146, DOI [10.1002/9781118475249.ch5, DOI 10.1002/9781118475249.CH5]
+   Gan W., 2023, IEEE Transactions on Visualization and Computer Graphics, P1
+   Gómez-Bombarelli R, 2018, ACS CENTRAL SCI, V4, P268, DOI 10.1021/acscentsci.7b00572
+   Goodfellow IJ, 2014, ADV NEUR IN, V27, P2672, DOI 10.1145/3422622
+   Gou L, 2021, IEEE T VIS COMPUT GR, V27, P261, DOI 10.1109/TVCG.2020.3030350
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   Gu JT, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P1631
+   Gui J, 2023, IEEE T KNOWL DATA EN, V35, P3313, DOI 10.1109/TKDE.2021.3130191
+   Han J, 2022, IEEE T VIS COMPUT GR, V28, P270, DOI 10.1109/TVCG.2021.3114815
+   Han Kai, 2022, ADV NEURAL INF PROCE, V35, P8291, DOI DOI 10.48550/ARXIV.2206.00272
+   Han YC, 2023, Arxiv, DOI [arXiv:2311.16483, 10.48550/arXiv.2311.16483]
+   Haroz S, 2015, CHI 2015: PROCEEDINGS OF THE 33RD ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P1191, DOI 10.1145/2702123.2702275
+   Harper J, 2018, IEEE T VIS COMPUT GR, V24, P1274, DOI 10.1109/TVCG.2017.2659744
+   Harrison L, 2015, CHI 2015: PROCEEDINGS OF THE 33RD ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, P1187, DOI 10.1145/2702123.2702545
+   He KM, 2016, PROC CVPR IEEE, P770, DOI 10.1109/CVPR.2016.90
+   He WB, 2022, IEEE T VIS COMPUT GR, V28, P1040, DOI 10.1109/TVCG.2021.3114855
+   He Y, 2024, Arxiv, DOI arXiv:2401.14010
+   Hegselmann S, 2023, INT C ARTIFICIAL INT, P5549
+   Herzig J, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020), P4320
+   Hong F, 2019, IEEE PAC VIS SYMP, P282, DOI 10.1109/PacificVis.2019.00041
+   Hoque E, 2022, COMPUT GRAPH FORUM, V41, P555, DOI 10.1111/cgf.14573
+   Hoque E, 2018, IEEE T VIS COMPUT GR, V24, P309, DOI 10.1109/TVCG.2017.2744684
+   Hou YH, 2024, Arxiv, DOI arXiv:2401.12586
+   Hu K, 2019, CHI 2019: PROCEEDINGS OF THE 2019 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, DOI 10.1145/3290605.3300358
+   Hu K, 2019, CHI 2019: PROCEEDINGS OF THE 2019 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, DOI 10.1145/3290605.3300892
+   Huang DQ, 2021, INT C PATT RECOG, P7625, DOI 10.1109/ICPR48806.2021.9412153
+   Huang G, 2017, PROC CVPR IEEE, P2261, DOI 10.1109/CVPR.2017.243
+   Huang R, 2024, Arxiv, DOI arXiv:2401.17120
+   Huang SW, 2018, LECT NOTES COMPUT SC, V11213, P731, DOI 10.1007/978-3-030-01240-3_44
+   Hullman J, 2011, IEEE T VIS COMPUT GR, V17, P2231, DOI 10.1109/TVCG.2011.255
+   Jeon I, 2021, AAAI CONF ARTIF INTE, V35, P7926
+   Ji ZW, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3571730
+   Kadavath S, 2022, Arxiv, DOI arXiv:2207.05221
+   Kafle K, 2020, IEEE WINT CONF APPL, P1487, DOI 10.1109/WACV45572.2020.9093494
+   Kafle K, 2018, PROC CVPR IEEE, P5648, DOI 10.1109/CVPR.2018.00592
+   Kahou Samira Ebrahimi, 2018, arXiv, DOI DOI 10.48550/ARXIV.1710.07300
+   Kantharaj S, 2022, PROCEEDINGS OF THE 60TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022), VOL 1: (LONG PAPERS), P4005
+   Key Alicia, 2012, P 2012 ACM SIGMOD IN, P681, DOI [10.1145/2213836.2213931, DOI 10.1145/2213836.2213931]
+   Kim DH, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376467
+   Kim G, 2022, LECT NOTES COMPUT SC, V13688, P498, DOI 10.1007/978-3-031-19815-1_29
+   Kirillov A, 2023, Arxiv, DOI arXiv:2304.02643
+   Ko HK, 2024, Arxiv, DOI arXiv:2309.10245
+   Kwon OH, 2020, IEEE T VIS COMPUT GR, V26, P665, DOI 10.1109/TVCG.2019.2934396
+   Lagunas M, 2019, MULTIMED TOOLS APPL, V78, P10733, DOI 10.1007/s11042-018-6628-7
+   Lai CF, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376443
+   Latif S, 2022, IEEE T VIS COMPUT GR, V28, P184, DOI 10.1109/TVCG.2021.3114802
+   Lee DJL, 2020, IEEE T VIS COMPUT GR, V26, P1267, DOI 10.1109/TVCG.2019.2934666
+   Lewis P., 2020, ADV NEURAL INFORM PR, P9459, DOI DOI 10.48550/ARXIV.2005.11401
+   Li GZ, 2024, Arxiv, DOI arXiv:2401.11255
+   Li HT, 2022, PROCEEDINGS OF THE 2022 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI' 22), DOI 10.1145/3491102.3502048
+   Li HT, 2022, IEEE T VIS COMPUT GR, V28, P195, DOI 10.1109/TVCG.2021.3114863
+   Li S., 2023, arXiv
+   Li SM, 2024, Arxiv, DOI arXiv:2402.07909
+   Li Y, 2021, IRBM, V42, P120, DOI 10.1016/j.irbm.2020.08.004
+   Liew A, 2022, Arxiv, DOI arXiv:2212.14047
+   Lin YN, 2023, Arxiv, DOI arXiv:2307.07922
+   Liu C., 2023, IEEE Transactions on Visualization and Computer Graphics, P1
+   Liu C, 2021, IEEE PAC VIS SYMP, P11, DOI 10.1109/PacificVis52677.2021.00010
+   Liu C, 2020, IEEE PAC VIS SYMP, P191, DOI 10.1109/PacificVis48177.2020.1043
+   Liu HT, 2023, Arxiv, DOI arXiv:2304.08485
+   Liu J, 2023, arXiv
+   Liu S., 2022, IEEE Transactions on Visualization and Computer Graphics, P1
+   Liu SL, 2023, Arxiv, DOI arXiv:2303.05499
+   Liu SS, 2023, Arxiv, DOI arXiv:2312.04494
+   Liu XF, 2018, INT C PATT RECOG, P728, DOI 10.1109/ICPR.2018.8545506
+   Liu Y, 2019, COMPUT GRAPH FORUM, V38, P67, DOI 10.1111/cgf.13672
+   Liu Z, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P9992, DOI 10.1109/ICCV48922.2021.00986
+   Lu JY, 2024, Arxiv, DOI arXiv:2402.08995
+   Lu M, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376263
+   Luo JY, 2021, IEEE WINT CONF APPL, P1916, DOI 10.1109/WACV48630.2021.00196
+   Luo Yuyu, 2023, Proceedings of the ACM on Management of Data, V1, DOI 10.1145/3588942
+   Luo YY, 2021, Arxiv, DOI arXiv:2112.12926
+   Luo YY, 2022, IEEE T VIS COMPUT GR, V28, P217, DOI 10.1109/TVCG.2021.3114848
+   Luo YY, 2022, IEEE T KNOWL DATA EN, V34, P475, DOI 10.1109/TKDE.2020.2981464
+   Luo YY, 2018, INT CONF MANAGE DATA, P1733, DOI 10.1145/3183713.3193545
+   Luo YY, 2018, PROC INT CONF DATA, P101, DOI 10.1109/ICDE.2018.00019
+   Ma RX, 2021, IEEE T VIS COMPUT GR, V27, P3717, DOI 10.1109/TVCG.2020.2980227
+   Mackinlay JD, 2007, IEEE T VIS COMPUT GR, V13, P1137, DOI 10.1109/TVCG.2007.70594
+   Maddigan P, 2023, Arxiv, DOI arXiv:2303.14292
+   Masry A., 2023, P 2023 C EMPIRICAL M, P14662
+   Masry A, 2022, FINDINGS OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022), P2263
+   McNabb L, 2017, COMPUT GRAPH FORUM, V36, P589, DOI 10.1111/cgf.13212
+   Meng FQ, 2024, Arxiv, DOI [arXiv:2401.02384, 10.48550/arXiv.2401.02384]
+   Methani N, 2020, IEEE WINT CONF APPL, P1516, DOI 10.1109/WACV45572.2020.9093523
+   Narechania A, 2021, IEEE T VIS COMPUT GR, V27, P369, DOI 10.1109/TVCG.2020.3030378
+   Burgess CP, 2018, Arxiv, DOI arXiv:1804.03599
+   Kingma DP, 2014, Arxiv, DOI arXiv:1312.6114
+   Park N, 2018, PROC VLDB ENDOW, V11, P1071, DOI 10.14778/3231751.3231757
+   Poco J, 2018, IEEE T VIS COMPUT GR, V24, P637, DOI 10.1109/TVCG.2017.2744320
+   Poole B., 2022, INT C LEARN REPR
+   Qin X., 2018, EDBT, P441
+   Qin XB, 2019, PROC CVPR IEEE, P7471, DOI 10.1109/CVPR.2019.00766
+   Qin XD, 2020, VLDB J, V29, P93, DOI 10.1007/s00778-019-00588-3
+   Qin XD, 2018, BIG DATA MIN ANAL, V1, P75, DOI 10.26599/BDMA.2018.9020007
+   Qinl XD, 2022, PROC INT CONF DATA, P2359, DOI 10.1109/ICDE53745.2022.00222
+   Radford A, 2016, Arxiv, DOI [arXiv:1511.06434, DOI 10.48550/ARXIV.1511.06434]
+   Radford A, 2021, PR MACH LEARN RES, V139
+   Ramesh A., 2022, ARXIV
+   Reddy R, 2019, IEEE IJCNN, DOI 10.1109/ijcnn.2019.8851830
+   Ren SQ, 2017, IEEE T PATTERN ANAL, V39, P1137, DOI 10.1109/TPAMI.2016.2577031
+   Rombach R, 2022, PROC CVPR IEEE, P10674, DOI 10.1109/CVPR52688.2022.01042
+   Saleh B, 2015, Arxiv, DOI arXiv:1505.01214
+   Schetinger V, 2023, COMPUT GRAPH FORUM, V42, P423, DOI 10.1111/cgf.14841
+   Segel E, 2010, IEEE T VIS COMPUT GR, V16, P1139, DOI 10.1109/TVCG.2010.179
+   Sella E, 2023, IEEE I CONF COMP VIS, P430, DOI 10.1109/ICCV51070.2023.00046
+   Shen LX, 2024, IEEE T VIS COMPUT GR, V30, P109, DOI 10.1109/TVCG.2023.3327197
+   Shen LX, 2023, IEEE T VIS COMPUT GR, V29, P3121, DOI 10.1109/TVCG.2022.3148007
+   Shi CH, 2024, IEEE T VIS COMPUT GR, V30, P814, DOI 10.1109/TVCG.2023.3326522
+   Shi DQ, 2021, IEEE T VIS COMPUT GR, V27, P453, DOI 10.1109/TVCG.2020.3030403
+   Shi N, 2022, IEEE T VIS COMPUT GR, V28, P2301, DOI 10.1109/TVCG.2022.3165345
+   Shi Yang, 2022, Proceedings of the ACM on Human-Computer Interaction, DOI 10.1145/3555534
+   Shi Y., 2023, IEEE Trans. Vis. Comput. Graphics, P1
+   Shi Yang, 2023, IEEE Trans Vis Comput Graph, V29, P236, DOI 10.1109/TVCG.2022.3209486
+   Singh H., 2020, arXiv
+   Singh H, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), P3275
+   Song SC, 2023, PROCEEDINGS OF THE 2023 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2023, DOI 10.1145/3544548.3581067
+   Song SC, 2023, IEEE T VIS COMPUT GR, V29, P3169, DOI 10.1109/TVCG.2022.3153514
+   Song YF, 2022, PROCEEDINGS OF THE 28TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, KDD 2022, P1646, DOI 10.1145/3534678.3539330
+   Srinivasan A, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376782
+   Sun F.-Y., 2020, INT C LEARN REPR
+   Sun ZY, 2022, INT J COAL PREP UTIL, V42, P221, DOI [10.1080/19392699.2019.1590346, 10.1109/eurosime.2019.8724592]
+   Tang JW, 2022, INT CONF MANAGE DATA, P2353, DOI 10.1145/3514221.3520150
+   Tang T, 2021, IEEE T VIS COMPUT GR, V27, P294, DOI 10.1109/TVCG.2020.3030467
+   Teng ZW, 2021, 20TH IEEE INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS (ICMLA 2021), P853, DOI 10.1109/ICMLA52953.2021.00141
+   Tennekes M, 2014, IEEE T VIS COMPUT GR, V20, P2072, DOI 10.1109/TVCG.2014.2346277
+   Tian Y., 2024, IEEE Trans. Vis. Comput. Graphics, P1
+   Touvron H, 2023, Arxiv, DOI [arXiv:2302.13971, DOI 10.48550/ARXIV.2302.13971]
+   Tran L, 2017, PROC CVPR IEEE, P1283, DOI 10.1109/CVPR.2017.141
+   Vaswani A, 2017, ADV NEUR IN, V30
+   Voynov A, 2023, PROCEEDINGS OF SIGGRAPH 2023 CONFERENCE PAPERS, SIGGRAPH 2023, DOI 10.1145/3588432.3591560
+   Walny J, 2012, IEEE T VIS COMPUT GR, V18, P2779, DOI 10.1109/TVCG.2012.275
+   Wang CL, 2023, IEEE T VIS COMPUT GR, V29, P3714, DOI 10.1109/TVCG.2022.3167896
+   Wang HX, 2024, Arxiv, DOI arXiv:2310.15308
+   Wang JP, 2023, Arxiv, DOI arXiv:2307.07712
+   Wang JP, 2020, IEEE PAC VIS SYMP, P51, DOI 10.1109/PacificVis48177.2020.3542
+   Wang L., 2023, arXiv
+   Wang QW, 2023, PROCEEDINGS OF THE 2023 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2023), DOI 10.1145/3544548.3581127
+   Wang QW, 2022, IEEE T VIS COMPUT GR, V28, P5134, DOI 10.1109/TVCG.2021.3106142
+   Wang X., 2022, arXiv
+   Wang YF, 2020, IEEE T VIS COMPUT GR, V26, P960, DOI 10.1109/TVCG.2019.2934369
+   Wang Y, 2020, IEEE T VIS COMPUT GR, V26, P676, DOI 10.1109/TVCG.2019.2934798
+   Wang Z, 2024, Arxiv, DOI arXiv:2401.11923
+   White T, 2016, Arxiv, DOI arXiv:1609.04468
+   Wiewel S, 2019, COMPUT GRAPH FORUM, V38, P71, DOI 10.1111/cgf.13620
+   Wu AY, 2022, IEEE T VIS COMPUT GR, V28, P5049, DOI 10.1109/TVCG.2021.3099002
+   Wu GD, 2024, IEEE T VIS COMPUT GR, V30, P131, DOI 10.1109/TVCG.2023.3327363
+   Wu JQ, 2023, Arxiv, DOI arXiv:2304.01919
+   Wu LW, 2022, PROC CVPR IEEE, P16179, DOI 10.1109/CVPR52688.2022.01572
+   Wu M., 2023, IEEE Trans. Vis. Comput. Graphics, P1
+   Wu ZH, 2021, IEEE T NEUR NET LEAR, V32, P4, DOI 10.1109/TNNLS.2020.2978386
+   [夏佳志 Xia Jiazhi], 2021, [中国科学. 信息科学, Scientia Sinica Informationis], V51, P1777
+   Xiao SS, 2024, Arxiv, DOI arXiv:2401.11094
+   Xiao SS, 2024, IEEE T VIS COMPUT GR, V30, P284, DOI 10.1109/TVCG.2023.3326913
+   Xiao SS, 2023, COMPUT GRAPH FORUM, V42, P311, DOI 10.1111/cgf.14832
+   Xu L, 2019, ADV NEUR IN, V32
+   Yang W., 2023, Comput. Vis. Media.
+   Yang ZC, 2016, PROC CVPR IEEE, P21, DOI 10.1109/CVPR.2016.10
+   Ye HY, 2024, IEEE T VIS COMPUT GR, V30, P1139, DOI 10.1109/TVCG.2023.3326597
+   Ye Y., 2022, IEEE Transactions on Visualization and Computer Graphics, P1
+   Ye YL, 2023, Arxiv, DOI arXiv:2312.01656
+   YEN JY, 1971, MANAGE SCI, V17, P712, DOI 10.1287/mnsc.17.11.712
+   Yen RY, 2023, Arxiv, DOI arXiv:2310.08699
+   Ying L, 2024, Arxiv, DOI arXiv:2309.02967
+   Yuan LP, 2022, IEEE T VIS COMPUT GR, V28, P4048, DOI 10.1109/TVCG.2021.3070876
+   Yuan LP, 2022, IEEE T VIS COMPUT GR, V28, P4252, DOI 10.1109/TVCG.2021.3085327
+   Yuan YQ, 2024, Arxiv, DOI arXiv:2312.10032
+   Zeng XC, 2024, Arxiv, DOI arXiv:2401.15559
+   Zhang JE, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376172
+   Zhang J, 2017, ACM T DATABASE SYST, V42, DOI 10.1145/3134428
+   Zhang LM, 2023, IEEE I CONF COMP VIS, P3813, DOI 10.1109/ICCV51070.2023.00355
+   Zhang PY, 2023, Arxiv, DOI arXiv:2309.12302
+   Zhang PY, 2021, IEEE T VIS COMPUT GR, V27, P326, DOI 10.1109/TVCG.2020.3030343
+   Zhang TY, 2023, IEEE T KNOWL DATA EN, V35, P1258, DOI 10.1109/TKDE.2021.3094236
+   Zhang Y., 2023, P INT S VIS INF COMM, P1
+   Zhao Y., 2024, IEEE Trans. Vis. Comput. Graphics, P1
+   Zheng GC, 2023, PROC CVPR IEEE, P22490, DOI 10.1109/CVPR52729.2023.02154
+   Zheng Q, 2022, COMPUT VIS MEDIA, V8, P613, DOI 10.1007/s41095-021-0258-0
+   Zheng WJ, 2023, VIS INFORM, V7, P13, DOI 10.1016/j.visinf.2023.10.002
+   Zhou CL, 2023, PROCEEDINGS OF SIGGRAPH 2023 CONFERENCE PAPERS, SIGGRAPH 2023, DOI 10.1145/3588432.3591532
+   Zhou MY, 2021, KDD '21: PROCEEDINGS OF THE 27TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P2389, DOI 10.1145/3447548.3467279
+   Zhou ZL, 2017, CGI'17: PROCEEDINGS OF THE COMPUTER GRAPHICS INTERNATIONAL CONFERENCE, DOI 10.1145/3095140.3095178
+   Zhu SJ, 2020, VIS INFORM, V4, P24, DOI 10.1016/j.visinf.2020.07.002
+   Zou JL, 2020, IEEE INT CON MULTI, DOI 10.1109/icme46284.2020.9102911
+NR 228
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD JUN
+PY 2024
+VL 8
+IS 2
+BP 43
+EP 66
+DI 10.1016/j.visinf.2024.04.003
+EA JUN 2024
+PG 24
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WY9C9
+UT WOS:001258542200001
+OA gold, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Xu, J
+   Zhang, CJ
+   Xie, M
+   Zhan, XX
+   Yan, LW
+   Tao, YB
+   Pan, ZG
+AF Xu, Jin
+   Zhang, Chaojian
+   Xie, Ming
+   Zhan, Xiuxiu
+   Yan, Luwang
+   Tao, Yubo
+   Pan, Zhigeng
+TI IMVis: Visual analytics for influence maximization algorithm evaluation
+   in hypergraphs
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Influence maximization evaluation; Comparative visual analysis; Visual
+   analytics
+ID INFORMATION DIFFUSION; NETWORKS
+AB Influence maximization (IM) algorithms play a significant role in hypergraph analysis tasks, such as epidemic control analysis, viral marketing, and social influence analysis, and various IM algorithms have been proposed. The main challenge lies in IM algorithm evaluation, due to the complexity and diversity of the spreading processes of different IM algorithms in different hypergraphs. Existing evaluation methods mainly leverage statistical metrics, such as influence spread, to quantify overall performance, but do not fully unravel spreading characteristics and patterns. In this paper, we propose an exploratory visual analytics system, IMVis, to assist users in exploring and evaluating IM algorithms at the overview, pattern, and node levels. A spreading pattern mining method is first proposed to characterize spreading processes and extract important spreading patterns to facilitate efficient analysis and comparison of IM algorithms. Novel visualization glyphs are designed to comprehensively reveal both temporal and structural features of IM algorithms' spreading processes in hypergraphs at multiple levels. The effectiveness and usefulness of IMVis are demonstrated through two case studies and expert interviews. (c) 2024 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Xu, Jin; Zhang, Chaojian; Xie, Ming; Zhan, Xiuxiu; Yan, Luwang] Hangzhou Normal Univ, Hangzhou 311121, Peoples R China.
+   [Tao, Yubo] Zhejiang Univ, Hangzhou 313000, Peoples R China.
+   [Pan, Zhigeng] Nanjing Univ Informat Sci & Technol, Nanjing 210044, Peoples R China.
+C3 Hangzhou Normal University; Zhejiang University; Nanjing University of
+   Information Science & Technology
+RP Pan, ZG (corresponding author), Nanjing Univ Informat Sci & Technol, Nanjing 210044, Peoples R China.
+EM zhanxiuxiu@hznu.edu.cn; 443922077@qq.com
+FU Zhejiang Provincial Natural Science Foundation of China [LQ22F020017];
+   National Natural Science Foundation of China [62302137]; Open Project
+   Program of the State Key Lab of CAD&CG of Zhejiang University [A2104]
+FX We would like to thank the team from the Complex Networks Research
+   Center at our university for their data and insightful sug- gestions.
+   This research was partially supported by the Zhejiang Provincial Natural
+   Science Foundation of China (LQ22F020017) , National Natural Science
+   Foundation of China (62302137) , and Open Project Program of the State
+   Key Lab of CAD&CG of Zhejiang University (A2104) .
+CR Ahuja G, 2000, ADMIN SCI QUART, V45, P425, DOI 10.2307/2667105
+   Amato F, 2017, LECT NOTES COMPUT SC, V10232, P207, DOI 10.1007/978-3-319-57186-7_17
+   Amburg I., 2022, P 2022 SIAM INT C DA, P145, DOI DOI 10.1137/1.9781611977172.17
+   [Anonymous], 2012, P 18 ACM SIGKDD INT
+   Antelmi A, 2021, ENTROPY-SWITZ, V23, DOI 10.3390/e23070796
+   Arleo A, 2022, IEEE T VIS COMPUT GR, V28, P3428, DOI 10.1109/TVCG.2022.3190623
+   Athul MA, 2022, PROCEEDINGS OF THE 5TH JOINT INTERNATIONAL CONFERENCE ON DATA SCIENCE & MANAGEMENT OF DATA, CODS COMAD 2022, P100, DOI 10.1145/3493700.3493706
+   Ayres J., 2002, P 8 ACM SIGKDD INT C, P429
+   Bertens R, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P735, DOI 10.1145/2939672.2939761
+   Borgs C., 2014, SODA 2014, P946, DOI [DOI 10.1137/1.9781611973402.70, 10.1137/1.9781611973402.70]
+   Calders T., 2009, P 2009 ACM S APPL CO, P1451
+   Cao N, 2012, IEEE T VIS COMPUT GR, V18, P2649, DOI 10.1109/TVCG.2012.291
+   Chen SM, 2017, IEEE CONF VIS ANAL, P36, DOI 10.1109/VAST.2017.8585638
+   Chen W., 2011, P 11 SIAM INT C DAT, P379, DOI DOI 10.1137/1.9781611972818.33
+   Chen YZ, 2018, IEEE T VIS COMPUT GR, V24, P45, DOI 10.1109/TVCG.2017.2745083
+   Deng ZK, 2020, IEEE T VIS COMPUT GR, V26, P800, DOI 10.1109/TVCG.2019.2934670
+   Fischer MT, 2021, 2021 IEEE VISUALIZATION CONFERENCE - SHORT PAPERS (VIS 2021), P81, DOI 10.1109/VIS49827.2021.9623305
+   Fournier-Viger P, 2016, LECT NOTES ARTIF INT, V9853, P36, DOI 10.1007/978-3-319-46131-1_8
+   Fournier-Viger P, 2014, LECT NOTES COMPUT SC, V8436, P83, DOI 10.1007/978-3-319-06483-3_8
+   FournierViger P., 2017, Data Science and Pattern Recognition, V1, P54, DOI DOI 10.1007/978-3-030-04921-8_4
+   Fu K, 2021, APPL SCI-BASEL, V11, DOI 10.3390/app11052399
+   Gonzalez R.C., 2018, Digital Image Processing
+   He QL, 2016, I C VIRTUAL REALITY, P488, DOI 10.1109/ICVRV.2016.88
+   Ho CT, 2011, 2011 INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS ANALYSIS AND MINING (ASONAM 2011), P328, DOI 10.1109/ASONAM.2011.37
+   Hu CC, 2019, ADV INTELL SYST, V935, P563, DOI 10.1007/978-3-030-19063-7_45
+   Huang XM, 2014, IEEE IJCNN, P1401, DOI 10.1109/IJCNN.2014.6889910
+   Huang YC, 2020, IEEE T VIS COMPUT GR, V26, P2944, DOI 10.1109/TVCG.2019.2906900
+   Kempe D., 2003, Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining, ACM
+   Kiernan J, 2009, ACM T KNOWL DISCOV D, V3, DOI 10.1145/1631162.1631169
+   Law PM, 2018, IEEE CONF VIS ANAL, P72, DOI 10.1109/VAST.2018.8802415
+   Li Q, 2018, IEEE CONF VIS ANAL, P48, DOI 10.1109/VAST.2018.8802454
+   Li Q, 2017, IEEE PAC VIS SYMP, P31, DOI 10.1109/PACIFICVIS.2017.8031576
+   Liu ZC, 2017, COMPUT GRAPH FORUM, V36, P527, DOI 10.1111/cgf.13208
+   Long C, 2018, ACM T KNOWL DISCOV D, V12, DOI 10.1145/3110216
+   Loukides G, 2018, INT J DATA SCI ANAL, V5, P19, DOI 10.1007/s41060-017-0082-x
+   Maguire E., 2016, P EUR IEEE VGTC C VI, P103
+   Morone F, 2015, NATURE, V524, P65, DOI 10.1038/nature14604
+   Ni JM, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), P188
+   Pan YH, 2019, COMPUT VIS MEDIA, V5, P375, DOI 10.1007/s41095-019-0157-9
+   Perer Adam., 2014, P 19 INT C INTELLIGE, P153
+   Qu DZ, 2022, COMPUT GRAPH FORUM, V41, P223, DOI 10.1111/cgf.14535
+   Ren DH, 2014, IEEE PAC VIS SYMP, P330, DOI 10.1109/PacificVis.2014.38
+   Shin M, 2019, IEEE CONF VIS ANAL, P1, DOI [10.1109/vast47406.2019.8986934, 10.1109/VAST47406.2019.8986934]
+   Viegas F., 2013, P 22 INT C WORLD WID, P1389, DOI DOI 10.1145/2488388.2488504
+   Wang S, 2021, IEEE T EVOLUT COMPUT, V25, P419, DOI 10.1109/TEVC.2020.3048174
+   Wang S, 2021, IEEE T CYBERNETICS, V51, P900, DOI 10.1109/TCYB.2019.2917059
+   Wu J, 2020, IEEE CONF VIS ANAL, P36, DOI 10.1109/VAST50239.2020.00009
+   Wu YH, 2016, IEEE T VIS COMPUT GR, V22, P260, DOI [10.1109/TVCG.2015.2468151, 10.1109/TVCG.2015.2465151]
+   Xie M, 2023, INFORM PROCESS MANAG, V60, DOI 10.1016/j.ipm.2022.103161
+   Xie W, 2018, ACM T KNOWL DISCOV D, V12, DOI 10.1145/3178048
+   Yadav P., 2021, Rank refinement: An algorithmic framework with applications to diversity aware influence maximization
+   Yang Yujie, 2020, ESSE 2020: Proceedings of the 2020 European Symposium on Software Engineering, P181, DOI 10.1145/3393822.3432322
+   Ye P, 2016, J VISUAL-JAPAN, V19, P823, DOI 10.1007/s12650-016-0347-9
+   [原恺涓 Yuan Kaijuan], 2020, [计算机辅助设计与图形学学报, Journal of Computer-Aided Design & Computer Graphics], V32, P1655
+   Zhou YJ, 2023, IEEE T VIS COMPUT GR, V29, P3209, DOI 10.1109/TVCG.2022.3153895
+   Zhu JM, 2019, IEEE T NETW SCI ENG, V6, P801, DOI 10.1109/TNSE.2018.2873759
+NR 56
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD JUN
+PY 2024
+VL 8
+IS 2
+BP 13
+EP 26
+DI 10.1016/j.visinf.2024.04.006
+EA MAY 2024
+PG 14
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA UF5I8
+UT WOS:001246654600001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Wang, J
+   Lei, BH
+   Ding, LY
+   Xu, XY
+   Gu, XF
+   Zhang, M
+AF Wang, Jun
+   Lei, Bohan
+   Ding, Liya
+   Xu, Xiaoyin
+   Gu, Xianfeng
+   Zhang, Min
+TI Autoencoder-based conditional optimal transport generative adversarial
+   network for medical image generation
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Medical image generation; Mode collapse; Mode mixing; Optimal transport;
+   Generative adversarial networks
+AB Medical image generation has recently garnered significant interest among researchers. However, the primary generative models, such as Generative Adversarial Networks (GANs), often encounter challenges during training, including mode collapse. To address these issues, we proposed the AECOT-GAN model (Autoencoder-based Conditional Optimal Transport Generative Adversarial Network) for the generation of medical images belonging to specific categories. The training process of our model comprises three fundamental components. The training process of our model encompasses three fundamental components. First, we employ an autoencoder model to obtain a low-dimensional manifold representation of real images. Second, we apply extended semi-discrete optimal transport to map Gaussian noise distribution to the latent space distribution and obtain corresponding labels effectively. This procedure leads to the generation of new latent codes with known labels. Finally, we integrate a GAN to train the decoder further to generate medical images. To evaluate the performance of the AE-COT-GAN model, we conducted experiments on two medical image datasets, namely DermaMNIST and BloodMNIST. The model's performance was compared with state-of-the-art generative models. Results show that the AE-COT-GAN model had excellent performance in generating medical images. Moreover, it effectively addressed the common issues associated with traditional GANs. (c) 2023 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University Press Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Wang, Jun] Zhejiang Univ, Sch Software Technol, Ningbo, Zhejiang, Peoples R China.
+   [Lei, Bohan; Zhang, Min] Zhejiang Univ, Coll Comp Sci & Technol, Hangzhou, Zhejiang, Peoples R China.
+   [Ding, Liya] Zhejiang Univ, Sch Med, Sir Run Run Shaw Hosp, Dept Pathol, Hangzhou, Zhejiang, Peoples R China.
+   [Xu, Xiaoyin] Zhejiang Univ, Coll Biomed Engn & Instrument Sci, Hangzhou, Zhejiang, Peoples R China.
+   [Gu, Xianfeng] SUNY Stony Brook, Dept Comp Sci, Stony Brook, NY USA.
+C3 Zhejiang University; Zhejiang University; Zhejiang University; Zhejiang
+   University; State University of New York (SUNY) System; State University
+   of New York (SUNY) Stony Brook
+RP Zhang, M (corresponding author), Zhejiang Univ, Coll Comp Sci & Technol, Hangzhou, Zhejiang, Peoples R China.
+EM min_zhang@zju.edu.cn
+FU National Key R&D Program of China [2022ZD0117000]; National Institutes
+   of Health, United States [CMMI-1762287, FAIN-2115095]; National Science
+   Foundation, United States [3R01LM012434-05S1];  [1R21EB029733-01A1]
+FX The work of Min Zhang was supported in part by the National Key R&D
+   Program of China under Grant No. 2022ZD0117000. The work of Xianfeng Gu
+   was supported by the National Institutes of Health, United States under
+   award number 3R01LM012434-05S1 and 1R21EB029733-01A1, and the National
+   Science Foundation, United States under Grant No. FAIN-2115095 and Grant
+   No. CMMI-1762287.
+CR An D., 2019, ICLR 2020
+   Arjovsky M, 2017, Arxiv, DOI [arXiv:1701.07875, DOI 10.48550/ARXIV.1701.07875]
+   BRENIER Y, 1991, COMMUN PUR APPL MATH, V44, P375, DOI 10.1002/cpa.3160440402
+   Brock A, 2019, Arxiv, DOI arXiv:1809.11096
+   Chen SB, 2017, J FUNCT ANAL, V272, P4588, DOI 10.1016/j.jfa.2017.02.025
+   Choi Y, 2018, PROC CVPR IEEE, P8789, DOI 10.1109/CVPR.2018.00916
+   Cronin NJ, 2020, COMPUT METH PROG BIO, V196, DOI 10.1016/j.cmpb.2020.105583
+   Dongsheng An, 2020, Computer Vision - ECCV 2020. 16th European Conference. Proceedings. Lecture Notes in Computer Science (LNCS 12371), P548, DOI 10.1007/978-3-030-58574-7_33
+   Figalli A, 2010, COMMUN PART DIFF EQ, V35, P465, DOI 10.1080/03605300903307673
+   Frid-Adar M, 2018, NEUROCOMPUTING, V321, P321, DOI 10.1016/j.neucom.2018.09.013
+   Gatys LA, 2015, ADV NEUR IN, V28
+   Goodfellow IJ, 2014, ADV NEUR IN, V27, P2672, DOI 10.1145/3422622
+   Gu X., 2013, VARIATIONAL PRINCIPL
+   Hou L, 2022, PR MACH LEARN RES
+   Gulrajani I, 2017, ADV NEUR IN, V30
+   Kang M., 2020, Advances in Neural Information Processing Systems, P21357
+   Kang M, 2021, ADV NEUR IN, V34
+   Karras T, 2019, PROC CVPR IEEE, P4396, DOI 10.1109/CVPR.2019.00453
+   Khayatkhoei M, 2018, ADV NEUR IN, V31
+   Kweon J, 2022, SENSORS-BASEL, V22, DOI 10.3390/s22103960
+   Kwon G, 2019, LECT NOTES COMPUT SC, V11766, P118, DOI 10.1007/978-3-030-32248-9_14
+   Mendes J, 2023, EXPERT SYST APPL, V215, DOI 10.1016/j.eswa.2022.119350
+   Metz L, 2017, Arxiv, DOI arXiv:1611.02163
+   Miyato T, 2018, Arxiv, DOI arXiv:1802.05957
+   Nagarajan V, 2017, ADV NEUR IN, V30
+   Quiros AC, 2021, Arxiv, DOI [arXiv:1907.02644, DOI 10.48550/ARXIV.1907.02644]
+   Singh N. K., 2021, Health informatics: A computational perspective in healthcare, P77, DOI DOI 10.1007/978-981-15-9735-05
+   Srivastava A, 2017, ADV NEUR IN, V30
+   Tian Q., 2022, Adv. Neural Inf. Process. Syst., V35, P32789
+   Wang XL, 2018, PROC CVPR IEEE, P7794, DOI 10.1109/CVPR.2018.00813
+   Wang Y, 2019, IEEE T MED IMAGING, V38, P1328, DOI 10.1109/TMI.2018.2884053
+   Xiao C., 2018, Adv. Neural Inf. Process. Syst., V31
+   Xu ZH, 2019, IEEE INT C BIOINFORM, P563, DOI [10.1109/BIBM47256.2019.8982932, 10.1109/bibm47256.2019.8982932]
+   Yang JC, 2023, SCI DATA, V10, DOI 10.1038/s41597-022-01721-8
+NR 34
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD MAR
+PY 2024
+VL 8
+IS 1
+BP 15
+EP 25
+DI 10.1016/j.visinf.2023.11.001
+EA APR 2024
+PG 11
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA PQ2N6
+UT WOS:001215483600001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Lawton, B
+   Wang, NJ
+   Samoil, S
+   Daeijavad, P
+   Xie, SQ
+   Chen, ZX
+   Maurer, F
+AF Lawton, Bryson
+   Wang, Nanjia
+   Samoil, Steven
+   Daeijavad, Parisa
+   Xie, Siqi
+   Chen, Zhangxin
+   Maurer, Frank
+TI Empirically evaluating virtual reality's effect on reservoir engineering
+   tasks
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Immersive analytics; Visual analytics; Data visualization; Reservoir
+   engineering; Virtual reality; VR
+ID VISUALIZATION
+AB To help determine in what ways virtual reality (VR) technologies may benefit reservoir engineering workflows, we conducted a usability study on a prototype VR tool for performing reservoir model analysis tasks. By leveraging the strengths of VR technologies, this tool's aim is to help advance reservoir analysis workflows beyond conventional methods by improving how one understands, analyzes, and interacts with reservoir model visualizations. To evaluate our tool's VR approach to this, the study presented herein was conducted with reservoir engineering experts who used the VR tool to perform three common reservoir model analysis tasks: the spatial filtering of model cells using movable planes, the cross-comparison of multiple models, and well path planning. Our study found that accomplishing these tasks with the VR tool was generally regarded as easier, quicker, more effective, and more intuitive than traditional model analysis software while maintaining a feeling of low task workload on average. Overall, participants provided positive feedback regarding their experience with using VR to perform reservoir engineering work tasks, and in general, it was found to improve multi-model cross-analysis and rough object manipulation in 3D. This indicates the potential for VR to be better than conventional means for some work tasks and participants also expressed they could see it best utilized as an addition to current software in their reservoir model analysis workflows. There were, however, some concerns voiced when considering the full adoption of VR into their work that would be best first addressed before this took place. (c) 2023 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University Press Co. Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+C1 [Lawton, Bryson; Wang, Nanjia; Daeijavad, Parisa; Maurer, Frank] Univ Calgary, Dept Comp Sci, 2500 Univ Dr NW, Calgary, AB T2N 1N4, Canada.
+   [Samoil, Steven; Xie, Siqi; Chen, Zhangxin] Univ Calgary, Dept Chem & Petr Engn, 2500 Univ Dr NW, Calgary, AB T2N 1N4, Canada.
+C3 University of Calgary; University of Calgary
+RP Lawton, B (corresponding author), Univ Calgary, Dept Comp Sci, 2500 Univ Dr NW, Calgary, AB T2N 1N4, Canada.
+EM brlawton@ucalgary.ca; nanjia.wang1@ucalgary.ca; ssamoil@ucalgary.ca;
+   parisa.daeijavad@ucalgary.ca; siqi.xie1@ucalgary.ca;
+   zhachen@ucalgary.ca; fmaurer@ucalgary.ca
+RI Xie, Siqi/HLX-8684-2023
+OI Xie, Siqi/0000-0003-3520-3898; Maurer, Frank/0000-0002-0240-715X; Chen,
+   Zhangxin/0000-0002-9107-1925; Wang, Nanjia/0000-0003-2276-512X
+FU Computer Modelling Group Ltd.; Natural Sciences and Engineering Research
+   Council of Canada (NSERC); NSERC Alliance; NSERC ALLRP;  [554596-20]
+FX The authors wish to thank Stephen Cartwright, Die Hu, Rachel Dalton,
+   Amir Aminbeidokhti, Farzana Aktar, Seher Dawar, and Kyson Su who were
+   all also part of the team which developed this prototype over the course
+   of its development and thus its evaluation would not have been possible
+   without their work. The authors also wish to thank Rob Ursem, Adrian
+   Thomas, and Sunbir Brar who provided expert insights crucial for
+   developing this tool and informing which model analysis tasks were best
+   to focus on for the study. Lastly, we would also like to express our
+   gratitude to both the Computer Modelling Group Ltd. and the Natural
+   Sciences and Engineering Research Council of Canada (NSERC) who together
+   supported this research via the NSERC Alliance grant NSERC ALLRP
+   554596-20.
+CR Aktar F, 2022, IEEE INT SYMP M AU R, P91, DOI 10.1109/ISMAR-Adjunct57072.2022.00027
+   Aminolroaya Z., 2023, Ph.D. thesis
+   Bérard F, 2009, LECT NOTES COMPUT SC, V5727, P400, DOI 10.1007/978-3-642-03658-3_45
+   Besançon L, 2021, COMPUT GRAPH FORUM, V40, P293, DOI 10.1111/cgf.14189
+   Brand J., 2008, REV HUMAN FACTORS ER, V4, P245, DOI DOI 10.1518/155723408X342871
+   Bryson S, 1996, COMMUN ACM, V39, P62, DOI 10.1145/229459.229467
+   Büschel W, 2018, LECT NOTES COMPUT SC, V11190, P95, DOI 10.1007/978-3-030-01388-2_4
+   Chen XJ, 2022, ISPRS INT J GEO-INF, V11, DOI 10.3390/ijgi11030176
+   Chen Z, 2007, CBMS NSF REGIONAL C, V77, P1
+   CMG Ltd, 2022, CMG suite (general release 2022.10)
+   Dadario NB, 2021, J CLIN NEUROSCI, V94, P41, DOI 10.1016/j.jocn.2021.09.037
+   El Beheiry M, 2019, J MOL BIOL, V431, P1315, DOI 10.1016/j.jmb.2019.01.033
+   Ens Barrett, 2021, CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, DOI 10.1145/3411764.3446866
+   Fonnet A, 2021, IEEE T VIS COMPUT GR, V27, P2101, DOI 10.1109/TVCG.2019.2929033
+   Google, 2016, Tilt brush
+   Gruchalla K, 2004, P IEEE VIRT REAL ANN, P157, DOI 10.1109/VR.2004.1310069
+   HART S G, 1988, P139
+   Hart SG., 2006, P HUM FACT ERG SOC A, V50, P904, DOI [10.1177/154193120605000909, DOI 10.1177/154193120605000909]
+   HTC, 2023, VIVE Pro 2 Overview
+   Hwang W, 2010, COMMUN ACM, V53, P130, DOI 10.1145/1735223.1735255
+   Jacob RJK, 2008, CHI 2008: 26TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS VOLS 1 AND 2, CONFERENCE PROCEEDINGS, P201
+   Kinsland GL, 2015, INTERPRETATION-J SUB, V3, pSX13, DOI 10.1190/INT-2014-0252.1
+   Kjaerup M., 2021, Advances in Longitudinal HCI Research, P11, DOI [10.1007/978-3-030-67322-2_2, DOI 10.1007/978-3-030-67322-22]
+   Klein K, 2022, IT-INF TECHNOL, V64, P155, DOI 10.1515/itit-2022-0037
+   Korkut EH, 2023, VIRTUAL REAL-LONDON, V27, P1447, DOI 10.1007/s10055-023-00753-8
+   Laha B, 2014, IEEE T VIS COMPUT GR, V20, P513, DOI 10.1109/TVCG.2014.20
+   Laha B, 2012, IEEE T VIS COMPUT GR, V18, P597, DOI 10.1109/TVCG.2012.42
+   Laureanti JA, 2020, PROTEIN SCI, V29, P237, DOI 10.1002/pro.3773
+   Lawton B, 2020, ISS '20 COMPANION: COMPANION PROCEEDINGS OF THE 2020 CONFERENCE ON INTERACTIVE SURFACES AND SPACES, P73, DOI [10.1145/33808673426223, 10.1145/3380867.3426223]
+   Lidal EM, 2007, IEEE COMPUT GRAPH, V27, P94, DOI 10.1109/MCG.2007.141
+   Lisle L, 2020, 2020 IEEE CONFERENCE ON VIRTUAL REALITY AND 3D USER INTERFACES WORKSHOPS (VRW 2020), P331, DOI [10.1109/VRW50115.2020.0-203, 10.1109/VRW50115.2020.00073]
+   Lisle L, 2021, 2021 IEEE VIRTUAL REALITY AND 3D USER INTERFACES (VR), P529, DOI 10.1109/VR50410.2021.00077
+   Marai GE, 2016, 2016 WORKSHOP ON IMMERSIVE ANALYTICS (IA), P54, DOI 10.1109/IMMERSIVE.2016.7932384
+   Marriott K, 2018, LECT NOTES COMPUT SC, V11190, P25, DOI 10.1007/978-3-030-01388-2_2
+   Mendes D, 2019, COMPUT GRAPH FORUM, V38, P21, DOI 10.1111/cgf.13390
+   Mota RCR, 2016, SUI'16: PROCEEDINGS OF THE 2016 SYMPOSIUM ON SPATIAL USER INTERACTION, P121, DOI 10.1145/2983310.2985762
+   Munzner T., 2014, Visualization Analysis and Design, P117
+   Nesbitt K., 2018, Encyclopedia of Computer Graphics and Games, P1, DOI [10.1007/978-3-319-08234-9_252-1, DOI 10.1007/978-3-319-08234-9_252-1]
+   Prabhat, 2008, IEEE T VIS COMPUT GR, V14, P551, DOI 10.1109/TVCG.2007.70433
+   Ragan ED, 2013, IEEE T VIS COMPUT GR, V19, P886, DOI 10.1109/TVCG.2012.163
+   Rhyne TM, 2021, IEEE COMPUT GRAPH, V41, P125, DOI 10.1109/MCG.2021.3075258
+   Santos W, 2019, 2019 IEEE INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND VIRTUAL REALITY (AIVR), P271, DOI [10.1109/AIVR46125.00063, 10.1109/AIVR46125.2019.00063]
+   Satriadi Kadek Ananta, 2020, Proceedings of the ACM on Human-Computer Interaction, V4, DOI 10.1145/3427329
+   Schuchardt P, 2007, VRST 2007: ACM SYMPOSIUM ON VIRTUAL REALITY SOFTWARE AND TECHNOLOGY, PROCEEDINGS, P121, DOI 10.1115/IMECE2007-43781
+   Shao XF, 2020, BMC MED EDUC, V20, DOI 10.1186/s12909-019-1911-5
+   SLB Ltd, 2022, Petrel E&P software platform
+   Valve, 2023, Controllers-Valve Index
+   Wagner JA, 2019, IEEE COMPUT GRAPH, V39, P41, DOI 10.1109/MCG.2019.2898856
+   Wang X., 2019, CHI 2019 THE ACM CHI
+   Wang XY, 2022, INT J HUM-COMPUT ST, V163, DOI 10.1016/j.ijhcs.2022.102820
+   Whitlock M, 2020, 2020 IEEE CONFERENCE ON VIRTUAL REALITY AND 3D USER INTERFACES (VR 2020), P616, DOI [10.1109/VR46266.2020.00-20, 10.1109/VR46266.2020.1582298687237]
+   Yang C., 2007, SPE ANN TECHN C EXH, DOI [10.2118/109825-MS,SPE-109825-MS, DOI 10.2118/109825-MS,SPE-109825-MS]
+   Zehner B, 2010, GRAPP 2010: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON COMPUTER GRAPHICS THEORY AND APPLICATIONS, P364
+   Zhang S, 2003, IEEE T VIS COMPUT GR, V9, P454, DOI 10.1109/TVCG.2003.1260740
+NR 54
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD MAR
+PY 2024
+VL 8
+IS 1
+BP 26
+EP 46
+DI 10.1016/j.visinf.2023.11.002
+EA APR 2024
+PG 21
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA QD4F9
+UT WOS:001218920800001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Zhao, Y
+   Lv, SL
+   Long, WW
+   Fan, YL
+   Yuan, J
+   Jiang, HJ
+   Zhou, FF
+AF Zhao, Ying
+   Lv, Shenglan
+   Long, Wenwei
+   Fan, Yilun
+   Yuan, Jian
+   Jiang, Haojin
+   Zhou, Fangfang
+TI Malicious webshell family dataset for webshell multi-classification
+   research
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Open dataset; Webshell; Webshell family; Cloud security
+ID INTRUSION DETECTION TECHNIQUES; VISUALIZATION; ENVIRONMENT; EFFICIENT;
+   GRAPHS; MODEL
+AB Malicious webshells currently present tremendous threats to cloud security. Most relevant studies and open webshell datasets consider malicious webshell defense as a binary classification problem, that is, identifying whether a webshell is malicious or benign. However, a fine-grained multi -classification is urgently needed to enable precise responses and active defenses on malicious webshell threats. This paper introduces a malicious webshell family dataset named MWF to facilitate webshell multiclassification researches. This dataset contains 1359 malicious webshell samples originally obtained from the cloud servers of Alibaba Cloud. Each of them is provided with a family label. The samples of the same family generally present similar characteristics or behaviors. The dataset has a total of 78 families and 22 outliers. Moreover, this paper introduces the human-machine collaboration process that is adopted to remove benign or duplicate samples, address privacy issues, and determine the family of each sample. This paper also compares the distinguished features of the MWF dataset with previous datasets and summarizes the potential applied areas in cloud security and generalized sequence, graph, and tree data analytics and visualization. (c) 2023 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University Press Co. Ltd. This is an open access article under the CC BY -NC -ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Zhao, Ying; Lv, Shenglan; Long, Wenwei; Fan, Yilun; Yuan, Jian; Zhou, Fangfang] Cent South Univ, Sch Comp Sci & Engn, Changsha, Hunan, Peoples R China.
+   [Jiang, Haojin] Alibaba Cloud, Alibaba Cloud Intelligence Business Grp, Beijing, Peoples R China.
+C3 Central South University; Alibaba Group
+RP Zhou, FF (corresponding author), Cent South Univ, Sch Comp Sci & Engn, Changsha, Hunan, Peoples R China.
+EM zff@csu.edu.cn
+FU National Natural Science Foundation of China [62272480, 62072470]
+FX Thanks to Xinming Chen from Alibaba Cloud Intelligence Group for his
+   support with the webshell data. The work is supported in part by the
+   National Natural Science Foundation of China (No. 62272480 and 62072470)
+   . The malicious webshell family dataset is available at
+   https://github.com /csuvis/MWF-Dataset.
+CR Ahmadi M, 2016, CODASPY'16: PROCEEDINGS OF THE SIXTH ACM CONFERENCE ON DATA AND APPLICATION SECURITY AND PRIVACY, P183, DOI 10.1145/2857705.2857713
+   Ai Z, 2020, SYMMETRY-BASEL, V12, DOI 10.3390/sym12091406
+   Ai Z, 2020, IEEE ACCESS, V8, P75785, DOI 10.1109/ACCESS.2020.2989304
+   Akhtar Z, 2021, Arxiv, DOI arXiv:2101.08429
+   Aldribi A, 2018, STUD BIG DATA, V39, P333, DOI 10.1007/978-3-319-73676-1_13
+   Alibaba Cloud, 2023, Security center:Overview of the security center agent
+   Amazon Web Services Inc., 2021, Intelligent threat detection-Amazon GuardDuty-AWS
+   Andrienko N, 2021, VIS INFORM, V5, P23, DOI 10.1016/j.visinf.2020.12.002
+   [Anonymous], 2012, P 2012 SIAM INT C DA
+   Arp D, 2014, 21ST ANNUAL NETWORK AND DISTRIBUTED SYSTEM SECURITY SYMPOSIUM (NDSS 2014), DOI 10.14722/ndss.2014.23247
+   Batagelj V, 2011, IEEE T VIS COMPUT GR, V17, P1587, DOI 10.1109/TVCG.2010.265
+   Bayer U., 2009, 16 ANN NETW DISTR SY, P8
+   Burch M, 2021, VIS COMPUT IND BIOME, V4, DOI 10.1186/s42492-021-00088-8
+   Burch M, 2011, IEEE T VIS COMPUT GR, V17, P2440, DOI 10.1109/TVCG.2011.193
+   Cidre E., 2016, Learn. Authoritative Secur. Experim. Results 1
+   Cornelissen B, 2007, INT C PROGRAM COMPRE, P49
+   Elmqvist N, 2008, IEEE PACIFIC VISUALISATION SYMPOSIUM 2008, PROCEEDINGS, P215
+   Fan W., 2012, P 38 ACM SIGMOD INT, P157
+   Fang Y, 2018, PROCEEDINGS OF 2018 INTERNATIONAL CONFERENCE ON COMPUTING AND ARTIFICIAL INTELLIGENCE (ICCAI 2018), P52, DOI 10.1145/3194452.3194470
+   Fangjian Tao, 2019, Artificial Intelligence and Security. 5th International Conference, ICAIS 2019. Proceedings: Lecture Notes in Computer Science (LNCS 11635), P408, DOI 10.1007/978-3-030-24268-8_38
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   FournierViger P., 2017, Data Science and Pattern Recognition, V1, P54, DOI DOI 10.1007/978-3-030-04921-8_4
+   García-García D, 2009, IEEE T PATTERN ANAL, V31, P1325, DOI 10.1109/TPAMI.2008.268
+   Gottwalt F, 2019, COMPUT SECUR, V83, P234, DOI 10.1016/j.cose.2019.02.008
+   Guan Tianmin, 2019, 2019 3rd International Conference on Electronic Information Technology and Computer Engineering (EITCE). Proceedings, P1391, DOI 10.1109/EITCE47263.2019.9094767
+   Guo SN, 2019, IEEE T VIS COMPUT GR, V25, P417, DOI 10.1109/TVCG.2018.2864885
+   Guo Y, 2022, IEEE T VIS COMPUT GR, V28, P5091, DOI 10.1109/TVCG.2021.3100413
+   Guo Y, 2020, FUTURE INTERNET, V12, DOI 10.3390/fi12010012
+   Hamed T., 2017, Computer and Information Security Handbook, VThird, P109, DOI DOI 10.1016/B978-0-12-803843-7.00006-5
+   Han DM, 2021, VIS INFORM, V5, P61, DOI 10.1016/j.visinf.2021.01.002
+   Han JW, 2004, DATA MIN KNOWL DISC, V8, P53, DOI 10.1023/B:DAMI.0000005258.31418.83
+   Handong Cui, 2018, 2018 IEEE Third International Conference on Data Science in Cyberspace (DSC). Proceedings, P153, DOI 10.1109/DSC.2018.00030
+   Hannousse A, 2023, INT J INF SECUR, V22, P47, DOI 10.1007/s10207-022-00615-5
+   Hannousse A, 2021, COMPUT SECUR, V108, DOI 10.1016/j.cose.2021.102366
+   Hao Lin, 2002, Proceedings of the 35th Annual Hawaii International Conference on System Sciences, DOI 10.1109/HICSS.2002.994506
+   Haoyu Wang, 2019, 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR), P404, DOI 10.1109/MSR.2019.00067
+   He W., 2019, P 28 INT JOINT C ART
+   Heer J, 2010, COMMUN ACM, V53, P59, DOI 10.1145/1743546.1743567
+   HeyWhale, 2017, The CNTC-2017
+   Holten D, 2007, 4TH IEEE INTERNATIONAL WORKSHOP ON VISUALIZING SOFTWARE FOR UNDERSTANDING AND ANALYSIS, PROCEEDINGS, P47, DOI 10.1109/VISSOF.2007.4290699
+   Hu PL, 2013, Arxiv, DOI arXiv:1308.5865
+   Huang WQ, 2021, IEEE SYMP COMP COMMU, DOI 10.1109/ISCC53001.2021.9631400
+   Isenberg P, 2007, IEEE T VIS COMPUT GR, V13, P1232, DOI 10.1109/TVCG.2007.70568
+   Jin ZC, 2021, J VISUAL-JAPAN, V24, P365, DOI 10.1007/s12650-020-00706-2
+   Kephart J. O., 1992, Computation: The micro and the macro view, P71
+   Kholidy H. A., 2012, Proceedings of the 2012 Ninth International Conference on Information Technology: New Generations (ITNG), P397, DOI 10.1109/ITNG.2012.97
+   Kim JS, 2015, J INF PROCESS SYST, V11, P229, DOI 10.3745/JIPS.03.0026
+   KRAMER MA, 1987, AICHE J, V33, P1067, DOI 10.1002/aic.690330703
+   Lancichinetti A, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.056117
+   Le H, 2023, IEEE T INTELL TRANSP, V24, P2630, DOI 10.1109/TITS.2021.3122979
+   Lim Y, 2014, IEEE T KNOWL DATA EN, V26, P3077, DOI 10.1109/TKDE.2014.2320716
+   Liu HY, 2021, VIS INFORM, V5, P1, DOI 10.1016/j.visinf.2021.10.002
+   Liu ZQ, 2022, SECUR COMMUN NETW, V2022, DOI 10.1155/2022/3434920
+   Lu Jinping, 2020, CIPAE 2020: Proceedings of the 2020 International Conference on Computers, Information Processing and Advanced Education, P251, DOI 10.1145/3419635.3419716
+   Microsoft Incident Response and Microsoft 365 Defender Research Team, 2021, Web shell attacks continue to rise
+   Mishra P, 2017, J NETW COMPUT APPL, V77, P18, DOI 10.1016/j.jnca.2016.10.015
+   Modi C, 2013, J NETW COMPUT APPL, V36, P42, DOI 10.1016/j.jnca.2012.05.003
+   Muñoz-González L, 2017, ACM T PRIV SECUR, V20, DOI 10.1145/3105760
+   Mushtaq MF, 2017, INT J ADV COMPUT SC, V8, P183, DOI 10.14569/IJACSA.2017.081025
+   Naderi-Afooshteh A, 2019, PROCEEDINGS OF THE 2019 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (CCS'19), P1849, DOI 10.1145/3319535.3363199
+   Nguyen NH, 2019, SOICT 2019: PROCEEDINGS OF THE TENTH INTERNATIONAL SYMPOSIUM ON INFORMATION AND COMMUNICATION TECHNOLOGY, P514, DOI 10.1145/3368926.3369733
+   Paiva JGS, 2011, IEEE T VIS COMPUT GR, V17, P2459, DOI 10.1109/TVCG.2011.212
+   Qi LC, 2018, INT CONF INSTR MEAS, P660, DOI 10.1109/IMCCC.2018.00143
+   Quigley A., 2001, Graph Drawing. 8th International Symposium, GD 2000. Proceedings (Lecture Notes in Computer Science Vol.1984), P197
+   Rahman M, 2014, IEEE T KNOWL DATA EN, V26, P2466, DOI 10.1109/TKDE.2013.2297929
+   REINGOLD EM, 1981, IEEE T SOFTWARE ENG, V7, P223, DOI 10.1109/TSE.1981.234519
+   Ronen R, 2018, Arxiv, DOI [arXiv:1802.10135, 10.48550/arXiv.1802.10135, DOI 10.48550/ARXIV.1802.10135]
+   Sadiq W, 2000, INFORM SYST, V25, P117, DOI 10.1016/S0306-4379(00)00012-0
+   Shen ZHEN Element Technology Co. Ltd., 2021, D-shield
+   Shneiderman B, 2001, IEEE SYMPOSIUM ON INFORMATION VISUALIZATION 2001, PROCEEDINGS, P73, DOI 10.1109/INFVIS.2001.963283
+   Singh J., 2014, Int. J. Electron. Inform. Eng., V1, P78
+   Starov O, 2016, PROCEEDINGS OF THE 25TH INTERNATIONAL CONFERENCE ON WORLD WIDE WEB (WWW'16), P1021, DOI 10.1145/2872427.2882992
+   Sun X, 2017, PROCEEDINGS OF 2017 INTERNATIONAL CONFERENCE ON INDUSTRIAL DESIGN ENGINEERING (ICIDE 2017), P66, DOI 10.1145/3178264.3178274
+   tennc, 2021, Tennc
+   Tian YF, 2017, PROCEEDINGS OF 2017 VI INTERNATIONAL CONFERENCE ON NETWORK, COMMUNICATION AND COMPUTING (ICNCC 2017), P75, DOI 10.1145/3171592.3171593
+   Tounsi W, 2018, COMPUT SECUR, V72, P212, DOI 10.1016/j.cose.2017.09.001
+   Troony J., 2020, JohnTroony
+   Tu TD, 2014, 2014 INTERNATIONAL CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT
+   Tu Y, 2007, IEEE T VIS COMPUT GR, V13, P1286, DOI 10.1109/TVCG.2007.70529
+   van den Elzen S, 2014, IEEE T VIS COMPUT GR, V20, P1087, DOI 10.1109/TVCG.2013.263
+   von Landesberger T, 2011, COMPUT GRAPH FORUM, V30, P1719, DOI 10.1111/j.1467-8659.2011.01898.x
+   wargio, 2022, Php-malware-finder
+   Welling Luke., 2003, PHP MYSQL WEB DEV, VSECOND
+   Wrench P, 2016, SAIEE AFR RES J, V107, P65, DOI 10.23919/SAIEE.2016.8531543
+   Wrench PM, 2015, INFO SECUR S AFR
+   Yang J, 2003, PROC INT CONF DATA, P101, DOI 10.1109/ICDE.2003.1260785
+   Yong BB, 2022, T EMERG TELECOMMUN T, V33, DOI 10.1002/ett.4085
+   Yu L, 2023, IEEE T KNOWL DATA EN, V35, P5935, DOI 10.1109/TKDE.2022.3160208
+   Zhang H, 2018, IEEE ACCESS, V6, P75268, DOI 10.1109/ACCESS.2018.2882517
+   Zhao JZ, 2022, ELECTRONICS-SWITZ, V11, DOI 10.3390/electronics11050758
+   Zhao JZ, 2021, APPL SCI-BASEL, V11, DOI 10.3390/app11167763
+   Zhao Ying, 2023, IEEE Trans Vis Comput Graph, V29, P214, DOI 10.1109/TVCG.2022.3209469
+   Zhao Y, 2021, IEEE T RELIAB, V70, P1368, DOI 10.1109/TR.2021.3109122
+   Zhao Y, 2022, SCI CHINA INFORM SCI, V65, DOI 10.1007/s11432-019-2776-4
+   Zhao Y, 2022, IEEE T VIS COMPUT GR, V28, P4839, DOI 10.1109/TVCG.2021.3107297
+   Zhao Y, 2021, IEEE T VIS COMPUT GR, V27, P1698, DOI 10.1109/TVCG.2020.3030428
+   Zhao ZH, 2020, LECT NOTES COMPUT SC, V11999, P725, DOI 10.1007/978-3-030-41579-2_42
+   Zhou FF, 2024, IEEE T COMPUT SOC SY, V11, P731, DOI 10.1109/TCSS.2022.3231687
+   Zhu TT, 2020, APPL SCI-BASEL, V10, DOI 10.3390/app10186274
+NR 99
+TC 5
+Z9 5
+U1 2
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD MAR
+PY 2024
+VL 8
+IS 1
+BP 47
+EP 55
+DI 10.1016/j.visinf.2023.06.008
+EA APR 2024
+PG 9
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA QK9P6
+UT WOS:001220888300001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Dong, JL
+   Zhang, HJ
+   Cui, MQ
+   Lin, YM
+   Wu, HY
+   Bi, CK
+AF Dong, Jialu
+   Zhang, Huijie
+   Cui, Meiqi
+   Lin, Yiming
+   Wu, Hsiang-Yun
+   Bi, Chongke
+TI TCEVis: Visual analytics of traffic congestion influencing factors based
+   on explainable machine learning
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Visual analytics; Speed prediction; Explainable; Traffic congestion
+AB Traffic congestion is becoming increasingly severe as a result of urbanization, which not only impedes people's ability to travel but also hinders the economic development of cities. Modeling the correlation between congestion and its influencing factors using machine learning methods makes it possible to quickly identify congested road segments. Due to the intrinsic black -box character of machine learning models, it is difficult for experts to trust the decision results of road congestion prediction models and understand the significance of congestion-causing factors. In this paper, we present a model interpretability method to investigate the potential causes of traffic congestion and quantify the importance of various influencing factors using the SHAP method. Due to the multidimensionality of these factors, it can be challenging to visually represent the impact of all factors. In response, we propose TCEVis, an interactive visual analytics system that enables multi-level exploration of road conditions. Through three case studies utilizing actual data, we demonstrate that the TCEVis system offers advantages for assisting traffic managers in analyzing the causes of traffic congestion and elucidating the significance of various influencing factors. (c) 2023 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University
+C1 [Dong, Jialu; Zhang, Huijie; Cui, Meiqi; Lin, Yiming] Northeast Normal Univ, Sch Informat Sci & Technol, Changchun, Peoples R China.
+   [Cui, Meiqi] Baicheng Normal Univ, Sch Comp Sci, Baicheng, Peoples R China.
+   [Wu, Hsiang-Yun] St Polten Univ Appl Sci, St Polten, Austria.
+   [Bi, Chongke] Tianjin Univ, Coll Intelligence & Comp, Tianjin, Peoples R China.
+C3 Northeast Normal University - China; Baicheng Normal University; St.
+   Polten University of Applied Sciences; Tianjin University
+RP Zhang, HJ (corresponding author), Northeast Normal Univ, Sch Informat Sci & Technol, Changchun, Peoples R China.
+EM zhanghj167@nenu.edu.cn
+RI Wu, Hsiang-Yun/T-8434-2018
+OI Wu, Hsiang-Yun/0000-0003-1028-0010
+FU National Natural Science Foundation of China [42171450, 62377008]; Key
+   R&D Project of Science and Technology Development Plan of Jilin Province
+   [20210201074GX]
+FX This research was supported by National Natural Science Foundation of
+   China under grant number 42171450, Key R&D Project of Science and
+   Technology Development Plan of Jilin Province under Grant 20210201074GX
+   and National Natural Science Foundation of China under grant number
+   62377008.
+CR Abadi A, 2015, IEEE T INTELL TRANSP, V16, P653, DOI 10.1109/TITS.2014.2337238
+   Ajay P, 2022, ENVIRON DEV SUSTAIN, DOI 10.1007/s10668-021-02010-x
+   Bachechi C, 2022, BIG DATA RES, V27, DOI 10.1016/j.bdr.2021.100292
+   Bialek J, 2022, ENERGY, V261, DOI 10.1016/j.energy.2022.125075
+   Cheng FR, 2022, IEEE T VIS COMPUT GR, V28, P378, DOI 10.1109/TVCG.2021.3114836
+   Chunjie Li, 2022, 2022 IEEE 2nd International Conference on Power, Electronics and Computer Applications (ICPECA)., P1032, DOI 10.1109/ICPECA53709.2022.9719202
+   Clarinval A, 2022, IEEE T INTELL TRANSP, V23, P6298, DOI 10.1109/TITS.2021.3092036
+   Ferreira N, 2013, IEEE T VIS COMPUT GR, V19, P2149, DOI 10.1109/TVCG.2013.226
+   Guo K, 2021, IEEE T INTELL TRANSP, V22, P1138, DOI 10.1109/TITS.2019.2963722
+   Ji Dashuang, 2022, 2022 IEEE Conference on Telecommunications, Optics and Computer Science (TOCS), P512, DOI 10.1109/TOCS56154.2022.10016130
+   Jiang Y., 2022, arXiv
+   Jin Seungmin, 2023, IEEE Trans Vis Comput Graph, V29, P1102, DOI 10.1109/TVCG.2022.3209462
+   Kahng M, 2018, IEEE T VIS COMPUT GR, V24, P88, DOI 10.1109/TVCG.2017.2744718
+   Kosugi Yuto, 2022, 2022 IEEE International Conference on Big Data (Big Data), P5971, DOI 10.1109/BigData55660.2022.10020545
+   Lee C, 2020, IEEE T VIS COMPUT GR, V26, P3133, DOI 10.1109/TVCG.2019.2922597
+   Li D, 2022, IEEE T INTELL TRANSP, V23, P8337, DOI 10.1109/TITS.2021.3078187
+   Li ZQ, 2022, COMPUT ENVIRON URBAN, V96, DOI 10.1016/j.compenvurbsys.2022.101845
+   Lin K, 2022, EXPERT SYST APPL, V210, DOI 10.1016/j.eswa.2022.118354
+   Linardatos P, 2021, ENTROPY-SWITZ, V23, DOI 10.3390/e23010018
+   Liu H, 2019, VIS INFORM, V3, P140, DOI 10.1016/j.visinf.2019.10.002
+   Lu J, 2021, CITIES, V108, DOI 10.1016/j.cities.2020.102974
+   Lundberg SM, 2017, ADV NEUR IN, V30
+   Lundberg SM, 2019, Arxiv, DOI [arXiv:1802.03888, 10.48550/arXiv.1802.03888, DOI 10.48550/ARXIV.1802.03888]
+   Pan ZY, 2019, KDD'19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1720, DOI 10.1145/3292500.3330884
+   Sobral T, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19020332
+   Song Y, 2012, TRANSPORTATION, V39, P215, DOI 10.1007/s11116-011-9343-z
+   Wang Y, 2022, INFORM SCIENCES, V607, P869, DOI 10.1016/j.ins.2022.05.127
+   Zhang JY, 2023, J ENVIRON MANAGE, V332, DOI 10.1016/j.jenvman.2023.117357
+   Zhang ZK, 2021, NEUROCOMPUTING, V461, P109, DOI 10.1016/j.neucom.2021.07.052
+   Zhao WX, 2022, VIS INFORM, V6, P1, DOI 10.1016/j.visinf.2022.06.002
+   Zhao X, 2019, IEEE T VIS COMPUT GR, V25, P407, DOI 10.1109/TVCG.2018.2864475
+NR 31
+TC 1
+Z9 1
+U1 2
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD MAR
+PY 2024
+VL 8
+IS 1
+BP 56
+EP 66
+DI 10.1016/j.visinf.2023.11.003
+EA APR 2024
+PG 11
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA QR5T0
+UT WOS:001222617200001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Zheng, MY
+   Lillis, D
+   Campbell, AG
+AF Zheng, Mengya
+   Lillis, David
+   Campbell, Abraham G.
+TI Current state of the art and future directions: Augmented reality data
+   visualization to support decision-making
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Augmented reality; Decision support; Data visualization; Taxonomy
+ID BUILDING INFORMATION; SYSTEMS; PRECISION; TAXONOMY; CONTEXT
+AB Augmented Reality (AR), as a novel data visualization tool, is advantageous in revealing spatial data patterns and data-context associations. Accordingly, recent research has identified AR data visualization as a promising approach to increasing decision-making efficiency and effectiveness. As a result, AR has been applied in various decision support systems to enhance knowledge conveying and comprehension, in which the different data-reality associations have been constructed to aid decision-making. However, how these AR visualization strategies can enhance different decision support datasets has not been reviewed thoroughly. Especially given the rise of big data in the modern world, this support is critical to decision-making in the coming years. Using AR to embed the decision support data and explanation data into the end user's physical surroundings and focal contexts avoids isolating the human decision-maker from the relevant data. Integrating the decision-maker's contexts and the DSS support in AR is a difficult challenge. This paper outlines the current state of the art through a literature review in allowing AR data visualization to support decision-making. To facilitate the publication classification and analysis, the paper proposes one taxonomy to classify different AR data visualization based on the semantic associations between the AR data and physical context. Based on this taxonomy and a decision support system taxonomy, 37 publications have been classified and analyzed from multiple aspects. One of the contributions of this literature review is a resulting AR visualization taxonomy that can be applied to decision support systems. Along with this novel tool, the paper discusses the current state of the art in this field and indicates possible future challenges and directions that AR data visualization will bring to support decision-making. (c) 2024 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University Press Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Zheng, Mengya; Lillis, David; Campbell, Abraham G.] Univ Coll Dublin, Sch Comp Sci, Dublin, Ireland.
+C3 University College Dublin
+RP Zheng, MY (corresponding author), Univ Coll Dublin, Sch Comp Sci, Dublin, Ireland.
+EM mengya.zheng@ucdconnect.ie; david.lillis@ucd.ie; abey.campbell@ucd.ie
+OI Lillis, David/0000-0002-5702-4463
+FU SFI Strategic Partnerships Programme [16/SPP/3296]; Origin Enterprises
+   Plc
+FX This research forms part of the CONSUS Programme which is funded under
+   the SFI Strategic Partnerships Programme (16/SPP/3296) and is co -funded
+   by Origin Enterprises Plc.
+CR Al Delail B, 2013, IEEE I C ELECT CIRC, P929, DOI 10.1109/ICECS.2013.6815564
+   Alam MF, 2017, J NETW COMPUT APPL, V89, P109, DOI 10.1016/j.jnca.2017.03.022
+   ALTER S, 1977, SLOAN MANAGE REV, V19, P39
+   Amirebrahimi S., 2016, FIG Working Week 2016: Recover from disaster
+   Anagnostou K., 2011, Proceedings of the 2011 3rd International Conference on Games and Virtual Worlds for Serious Applications (VS-GAMES 2011), P128, DOI 10.1109/VS-GAMES.2011.24
+   Arnott D, 2005, J INF TECHNOL-UK, V20, P67, DOI 10.1057/palgrave.jit.2000035
+   Baskaran S, 2018, I C INF COMM TECH CO, P103, DOI 10.1109/ICTC.2018.8539469
+   Ben Othman Sarah, 2021, Computational Science - ICCS 2021. 21st International Conference. Lecture Notes in Computer Science (LNCS 12745), P485, DOI 10.1007/978-3-030-77970-2_37
+   Bichlmeier C., 2007, Proc. IEEE ACM Int. Sym. on Mix. Aug. Reality, P1, DOI [DOI 10.1109/ISMAR.2007.4538837, DOI 10.1109/ISMAR.2007.4538837.18M]
+   Billinghurst M, 1998, SECOND INTERNATIONAL SYMPOSIUM ON WEARABLE COMPUTERS - DIGEST OF PAPERS, P76, DOI 10.1109/ISWC.1998.729532
+   Billinghurst M., 1998, Virtual Reality, V3, P25, DOI 10.1007/BF01409795
+   Billinghurst M, 2012, COMPUTER, V45, P56, DOI 10.1109/MC.2012.111
+   Bohanec M, 2003, SPRING INT SER ENG C, V745, P23
+   Braz Jose M., 2008, International Journal of Virtual Reality, V7, P47
+   Cavallo M, 2016, ADJUNCT PROCEEDINGS OF THE 2016 IEEE INTERNATIONAL SYMPOSIUM ON MIXED AND AUGMENTED REALITY (ISMAR-ADJUNCT), P160, DOI [10.1109/ISMAR-Adjunct.2016.60, 10.1109/ISMAR-Adjunct.2016.0068]
+   Chai Zhengmeng, 2011, Proceedings of the 2011 International Symposium on Information Technology in Medicine and Education (ITME 2011), P401, DOI 10.1109/ITiME.2011.6132134
+   Chang HY, 2013, BRIT J EDUC TECHNOL, V44, pE95, DOI 10.1111/j.1467-8535.2012.01379.x
+   Chen PHC, 2019, NAT MED, V25, P1453, DOI 10.1038/s41591-019-0539-7
+   COURY BG, 1992, HUM FACTORS, V34, P707, DOI 10.1177/001872089203400605
+   Diya Li, 2021, ARIC '21: Proceedings of the 4th ACM SIGSPATIAL International Workshop on Advances in Resilient and Intelligent Cities, P27, DOI 10.1145/3486626.3493430
+   Dubois E, 1999, HUMAN-COMPUTER INTERACTION - INTERACT '99, P353
+   ElSayed NAM, 2016, J VISUAL LANG COMPUT, V36, P13, DOI 10.1016/j.jvlc.2016.07.006
+   Ens B, 2017, IEEE COMPUT GRAPH, V37, P66, DOI 10.1109/MCG.2016.38
+   Eyraud R, 2015, TRANSPORT RES F-TRAF, V32, P46, DOI 10.1016/j.trf.2015.04.011
+   Finlay P.N., 1994, INTRO DECISION SUPPO
+   Gershman SJ, 2015, SCIENCE, V349, P273, DOI 10.1126/science.aac6076
+   Golparvar-Fard M, 2009, J INF TECHNOL CONSTR, V14, P129
+   Gomes P, 2012, IEEE T INTELL TRANSP, V13, P930, DOI 10.1109/TITS.2012.2188289
+   Guarese R, 2020, PROCEEDINGS OF THE WORKING CONFERENCE ON ADVANCED VISUAL INTERFACES AVI 2020, DOI 10.1145/3399715.3399838
+   Guarese R, 2021, COMPUT GRAPH-UK, V94, P1, DOI 10.1016/j.cag.2020.10.001
+   Gushima K, 2017, FUTURE INTERNET, V9, DOI 10.3390/fi9040060
+   Gutiérrez F, 2019, PROCEEDINGS OF THE 52ND ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES, P1738
+   Hahn J, 2012, NEW LIB WORLD, V113, P429, DOI 10.1108/03074801211273902
+   Heller J, 2019, J RETAILING, V95, P219, DOI 10.1016/j.jretai.2019.10.008
+   Heller J, 2019, J RETAILING, V95, P94, DOI 10.1016/j.jretai.2019.03.005
+   Henrysson A., 2004, Proceedings of the 3rd international conference on Mobile and ubiquitous multimedia, P41, DOI [10.1145/1052380.1052387, DOI 10.1145/1052380.1052387]
+   Hockett P, 2016, Arxiv, DOI arXiv:1610.04281
+   Hugues O, 2011, HANDBOOK OF AUGMENTED REALITY, P47, DOI 10.1007/978-1-4614-0064-6_2
+   Irizarry J, 2013, AUTOMAT CONSTR, V33, P11, DOI 10.1016/j.autcon.2012.09.002
+   Jain P, 2018, LECT NOTES COMPUT SC, V10923, P313, DOI 10.1007/978-3-319-91716-0_24
+   Jo D, 2016, IEEE T CONSUM ELECTR, V62, P334, DOI 10.1109/TCE.2016.7613201
+   Kaklauskas A, 2015, PROCEDIA ENGINEER, V122, P143, DOI 10.1016/j.proeng.2015.10.018
+   Karlsson I, 2017, WINT SIMUL C PROC, P3988, DOI 10.1109/WSC.2017.8248108
+   Lee JY, 2008, EXPERT SYST APPL, V35, P1873, DOI 10.1016/j.eswa.2007.08.092
+   Leppänen T, 2014, 2014 EIGHTH INTERNATIONAL CONFERENCE ON NEXT GENERATION MOBILE APPS, SERVICES AND TECHNOLOGIES (NGMAST), P54, DOI 10.1109/NGMAST.2014.24
+   Lindeman RW, 2007, VRST 2007: ACM SYMPOSIUM ON VIRTUAL REALITY SOFTWARE AND TECHNOLOGY, PROCEEDINGS, P175
+   Mackay W.E., 1998, Proceedings of the working conference on Advanced visual interfaces, P13
+   Mao CC, 2017, ICIET'17: PROCEEDINGS OF THE 5TH INTERNATIONAL CONFERENCE ON INFORMATION AND EDUCATION TECHNOLOGY, P73, DOI 10.1145/3029387.3029418
+   Marques B., 2019, An augmented reality framework for supporting technicians during maintenance procedures
+   Marques B, 2019, IEEE INT CON INF VIS, P13, DOI 10.1109/IV.2019.00012
+   Martins NC, 2022, MULTIMED TOOLS APPL, V81, P14749, DOI 10.1007/s11042-021-10971-4
+   Meiguins B., 2006, Proceedings of the 2006 ACM international conference on Virtual reality continuum and its applications, P391
+   Mekni A., 2014, APPL COMPUTATIONAL S, V20, P205
+   MILGRAM P, 1994, P SOC PHOTO-OPT INS, V2351, P282
+   MILLER RA, 1994, J AM MED INFORM ASSN, V1, P8, DOI 10.1136/jamia.1994.95236141
+   Navarro-Hellín H, 2016, COMPUT ELECTRON AGR, V124, P121, DOI 10.1016/j.compag.2016.04.003
+   Normand J.M., 2012, ACM International Conference Proceeding Series, DOI [10.1145/2160125.2160143, DOI 10.1145/2160125.2160143]
+   Nunes I, 2017, USER MODEL USER-ADAP, V27, P393, DOI 10.1007/s11257-017-9195-0
+   Olaniyan O.M., 2018, A decision support system for automatic fertilizer application to tomato plants using artificial neural network
+   Olshannikova E., 2015, J BIG DATA-GER, V2, P22, DOI 10.1186/s40537-015-0031-2
+   Olsson TD, 2012, EWORK AND EBUSINESS IN ARCHITECTURE, ENGINEERING AND CONSTRUCTION, P733
+   Pacheco D, 2015, 2015 DIGITAL HERITAGE INTERNATIONAL CONGRESS, VOL 1: DIGITIZATION & ACQUISITION, COMPUTER GRAPHICS & INTERACTION, P393, DOI 10.1109/DigitalHeritage.2015.7413911
+   Pan XY, 2021, IEEE ACCESS, V9, P164742, DOI 10.1109/ACCESS.2021.3134589
+   Park H, 2016, SECOND INTERNATIONAL CONFERENCE ON IOT IN URBAN SPACE (URB-IOT 2016), P18, DOI 10.1145/2962735.2962746
+   PEARSON JM, 1994, INFORM MANAGE, V27, P45, DOI 10.1016/0378-7206(94)90101-5
+   Perini A, 2004, ENVIRON MODELL SOFTW, V19, P821, DOI 10.1016/j.envsoft.2003.03.001
+   Phupattanasilp P, 2019, SUSTAINABILITY-BASEL, V11, DOI 10.3390/su11092658
+   Platonov Juri, 2006, 2006 IEEE/ACM International Symposium on Mixed and Augmented Reality, P105, DOI 10.1109/ISMAR.2006.297800
+   Power DJ, 2007, DECIS SUPPORT SYST, V43, P1044, DOI 10.1016/j.dss.2005.05.030
+   Reitmayr G., 2004, COLLABORATIVE AUGMEN
+   Richard E, 2007, 2007 VIRTUAL REHABILITATION, P100
+   Roetzel P.G., 2019, BuRBusiness Research, V12, P479, DOI DOI 10.1007/S40685-018-0069-Z
+   Sangiorgio V, 2021, AUTOMAT CONSTR, V124, DOI 10.1016/j.autcon.2021.103567
+   Santos MEC, 2014, IEEE T LEARN TECHNOL, V7, P38, DOI 10.1109/TLT.2013.37
+   Schall G, 2008, INT SYM MIX AUGMENT, P95, DOI 10.1109/ISMAR.2008.4637332
+   Schubert G, 2015, COMM COM INF SC, V527, P55, DOI 10.1007/978-3-662-47386-3_4
+   Segovia D, 2015, PROCEDIA COMPUT SCI, V75, P291, DOI 10.1016/j.procs.2015.12.250
+   Setiyawan, 2013, J. Chem. Inf. Model., V53, P1689
+   Shenai MB, 2011, NEUROSURGERY, V68, DOI 10.1227/NEU.0b013e3182077efd
+   Stasa P, 2018, INT J MIN RECLAM ENV, V32, P449, DOI 10.1080/17480930.2017.1388337
+   Suomela R., 2004, Virtual Real, V8, P71, DOI DOI 10.1007/S10055-004-0139-8
+   Thorp KR, 2008, COMPUT ELECTRON AGR, V64, P276, DOI 10.1016/j.compag.2008.05.022
+   Tonnis M., 2011, Presentation principles in augmented reality classification and categorization guidelines, P19
+   Varian H.R., 2014, Intermediate Microeconomics: A Modern Approach
+   Wake N, 2018, UROLOGY, V116, P227, DOI 10.1016/j.urology.2017.12.038
+   Walsh J.A., 2011, Conferences in Research and Practice in Information Technology Series, V117, P39
+   Waltner G, 2015, LECT NOTES COMPUT SC, V9281, P425, DOI 10.1007/978-3-319-23222-5_52
+   Wang XY, 2013, AUTOMAT CONSTR, V34, P37, DOI 10.1016/j.autcon.2012.10.012
+   White S, 2009, CHI2009: PROCEEDINGS OF THE 27TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4, P1117
+   White Sean Michael, 2009, Interaction and presentation techniques for situated visualization. phd
+   Willett W, 2017, IEEE T VIS COMPUT GR, V23, P461, DOI 10.1109/TVCG.2016.2598608
+   Wither J, 2009, COMPUT GRAPH-UK, V33, P679, DOI 10.1016/j.cag.2009.06.001
+   Wolle P, 2018, ACS CHEM BIOL, V13, P496, DOI 10.1021/acschembio.8b00153
+   Wu HY, 2012, IEEE INTL CONF IND I, P520, DOI 10.1109/INDIN.2012.6300922
+   Xi M., 2018, Future Agriculture Farm Management using Augmented Reality march, P2018
+   Zheng M., 2022, 2022 IEEE C VIRT REA
+   Zheng MY, 2019, ADJUNCT PROCEEDINGS OF THE 2019 IEEE INTERNATIONAL SYMPOSIUM ON MIXED AND AUGMENTED REALITY (ISMAR-ADJUNCT 2019), P93, DOI 10.1109/ISMAR-Adjunct.2019.00039
+   Zhu B., 2008, Handbook on Decision Support Systems 2: Variations, P699, DOI [DOI 10.1007/978-3-540-48716-6_32, 10.1007/978-3-540-48716-632]
+   Zhu W., 2004, Electron. J. E-commerce Tools, P1
+   Zulkifli M.S.F, 2021, Enhancing decision making process in choosing the right outfit using augmented reality
+NR 100
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD JUN
+PY 2024
+VL 8
+IS 2
+BP 80
+EP 105
+DI 10.1016/j.visinf.2024.05.001
+EA JUN 2024
+PG 26
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA XD3H5
+UT WOS:001259702500001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Yuan, L
+   Yan, DK
+   Saito, S
+   Fujishiro, I
+AF Yuan, Liang
+   Yan, Dingkun
+   Saito, Suguru
+   Fujishiro, Issei
+TI DiffMat: Latent diffusion models for image-guided material generation
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE SVBRDF; Diffusion model; Generative model; Appearance modeling
+AB Creating realistic materials is essential in the construction of immersive virtual environments. While existing techniques for material capture and conditional generation rely on flash-lit photos, they often produce artifacts when the illumination mismatches the training data. In this study, we introduce DiffMat, a novel diffusion model that integrates the CLIP image encoder and a multi-layer, crossattention denoising backbone to generate latent materials from images under various illuminations. Using a pre-trained StyleGAN-based material generator, our method converts these latent materials into high-resolution SVBRDF textures, a process that enables a seamless fit into the standard physically based rendering pipeline, reducing the requirements for vast computational resources and expansive datasets. DiffMat surpasses existing generative methods in terms of material quality and variety, and shows adaptability to a broader spectrum of lighting conditions in reference images. (c) 2024 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University Press Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Yuan, Liang] Keio Univ, Grad Sch Sci & Technol, Yokohama, Kanagawa, Japan.
+   [Yan, Dingkun; Saito, Suguru] Tokyo Inst Technol, Sch Comp, Tokyo, Japan.
+   [Fujishiro, Issei] Keio Univ, Dept Informat & Comp Sci, Yokohama, Kanagawa, Japan.
+C3 Keio University; Tokyo Institute of Technology; Keio University
+RP Yuan, L (corresponding author), Keio Univ, Grad Sch Sci & Technol, Yokohama, Kanagawa, Japan.
+EM liangyuan@keio.jp
+OI Fujishiro, Issei/0000-0002-8898-730X
+FU Research Grant of Keio Leading -edge Laboratory of Science and
+   Technology, Japan [JP21H04916]
+FX This work has been partially supported by Grant -in -Aid for Scientific
+   Research (A) JP21H04916 and the Research Grant of Keio Leading -edge
+   Laboratory of Science and Technology, Japan.
+CR Burley B., 2012, ACM SIGGRAPH 2012 Courses
+   Choi Y, 2018, PROC CVPR IEEE, P8789, DOI 10.1109/CVPR.2018.00916
+   Cook RL, 1982, ACM Trans. Graph., V1, P7, DOI DOI 10.1145/357290.357293
+   Deschaintre V, 2019, COMPUT GRAPH FORUM, V38, P1, DOI 10.1111/cgf.13765
+   Deschaintre V, 2018, ACM T GRAPHIC, V37, DOI 10.1145/3197517.3201378
+   Dhariwal P, 2021, ADV NEUR IN, V34
+   Dong Y, 2010, ACM T GRAPHIC, V29, DOI 10.1145/1778765.1778835
+   Esser P, 2021, PROC CVPR IEEE, P12868, DOI 10.1109/CVPR46437.2021.01268
+   Gao D, 2019, ACM T GRAPHIC, V38, DOI 10.1145/3306346.3323042
+   Gatys LA, 2016, PROC CVPR IEEE, P2414, DOI 10.1109/CVPR.2016.265
+   Goodfellow IJ, 2014, ADV NEUR IN, V27, P2672, DOI 10.1145/3422622
+   Guarnera D, 2016, COMPUT GRAPH FORUM, V35, P625, DOI 10.1111/cgf.12867
+   Guerrero P, 2022, ACM T GRAPHIC, V41, DOI 10.1145/3528223.3530173
+   Guo J, 2021, ACM T GRAPHIC, V40, DOI 10.1145/3450626.3459854
+   Guo Y, 2020, ACM T GRAPHIC, V39, DOI 10.1145/3414685.3417779
+   Hensel M, 2017, ADV NEUR IN, V30
+   Henzler P, 2021, ACM T GRAPHIC, V40, DOI 10.1145/3478513.3480507
+   Ho JAT, 2022, Arxiv, DOI [arXiv:2207.12598, DOI 10.48550/ARXIV.2207.12598]
+   Ho JAT, 2020, Arxiv, DOI [arXiv:2006.11239, DOI 10.48550/ARXIV.2006.11239]
+   Hu YW, 2022, COMPUT GRAPH FORUM, V41, P117, DOI 10.1111/cgf.14591
+   Ilharco Gabriel, 2021, Zenodo
+   Jaegle A, 2021, PR MACH LEARN RES, V139
+   Karis B., 2013, ACM SIGGRAPH 2013 CO
+   Karras Tero, 2020, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Proceedings, P8107, DOI 10.1109/CVPR42600.2020.00813
+   Karras T, 2021, IEEE T PATTERN ANAL, V43, P4217, DOI 10.1109/TPAMI.2020.2970919
+   Kasten Y., 2020, PROC NEURIPS, V33, P2492, DOI 10.48550/arXiv.2003.09852
+   Kingma D. P., 2014, arXiv
+   Lensch HPA, 2001, SPRING EUROGRAP, P103
+   Li ZQ, 2020, PROC CVPR IEEE, P2472, DOI 10.1109/CVPR42600.2020.00255
+   Loshchilov I, 2019, Arxiv, DOI [arXiv:1711.05101, 10.48550/arXiv.1711.05101, DOI 10.48550/ARXIV.1711.05101]
+   Lu C, 2022, Arxiv, DOI arXiv:2211.01095
+   Lu C, 2022, Arxiv, DOI arXiv:2206.00927
+   Luan FJ, 2021, COMPUT GRAPH FORUM, V40, P101, DOI 10.1111/cgf.14344
+   Martin R, 2022, COMPUT GRAPH FORUM, V41, P163, DOI 10.1111/cgf.14466
+   Nichol A, 2021, Arxiv, DOI arXiv:2102.09672
+   Kingma DP, 2014, Arxiv, DOI arXiv:1312.6114
+   Paszke A, 2019, ADV NEUR IN, V32
+   PolyHaven, 2023, Poly Haven: The public 3D asset library
+   Radford A, 2021, PR MACH LEARN RES, V139
+   Ramesh A., 2022, Hierarchical text-conditional image generation with clip latents, DOI 10.48550/arXiv.2204.06125
+   Ramesh A, 2021, Arxiv, DOI arXiv:2102.12092
+   Razavi A, 2019, ADV NEUR IN, V32
+   Rombach R., 2021, arXiv, DOI DOI 10.48550/ARXIV.2112.10752
+   Ronneberger O, 2015, LECT NOTES COMPUT SC, V9351, P234, DOI 10.1007/978-3-319-24574-4_28
+   Schuhmann C., 2022, ADV NEURAL INFORM PR, V35, P25278
+   Shi L, 2020, ACM T GRAPHIC, V39, DOI 10.1145/3414685.3417781
+   Shu ZX, 2017, PROC CVPR IEEE, P5444, DOI 10.1109/CVPR.2017.578
+   Sohl-Dickstein J, 2015, Arxiv, DOI arXiv:1503.03585
+   Song SR, 2019, PROC CVPR IEEE, P6911, DOI 10.1109/CVPR.2019.00708
+   Tewari A, 2017, IEEE I CONF COMP VIS, P3735, DOI 10.1109/ICCV.2017.401
+   Unity, 2023, High definition render pipeline in unity
+   Vaswani A, 2017, ADV NEUR IN, V30
+   Vecchio G, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P12820, DOI 10.1109/ICCV48922.2021.01260
+   Walter B., 2007, P 18 EUR C REND TECH, P195, DOI [10.2312/EGWR/EGSR07/195-206, DOI 10.2312/EGWR/EGSR07/195-206]
+   Wu HZ, 2016, IEEE T VIS COMPUT GR, V22, P2012, DOI 10.1109/TVCG.2015.2498617
+   Yan DK, 2023, COMPUT GRAPH FORUM, V42, DOI 10.1111/cgf.14791
+   Ye H, 2023, Arxiv, DOI arXiv:2308.06721
+   Yu J, 2021, arXiv
+   Yuan L, 2023, VIS INFORM, V7, P11, DOI 10.1016/j.visinf.2023.06.006
+   Yunjey Choi, 2020, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Proceedings, P8185, DOI 10.1109/CVPR42600.2020.00821
+   Zhang K, 2021, PROC CVPR IEEE, P5449, DOI 10.1109/CVPR46437.2021.00541
+   Zhang L, 2023, Arxiv, DOI [arXiv:2302.05543, 10.48550/ARXIV.2302.05543]
+   Zhou XL, 2023, PROCEEDINGS OF SIGGRAPH 2023 CONFERENCE PAPERS, SIGGRAPH 2023, DOI 10.1145/3588432.3591535
+   Zhou XL, 2022, PROCEEDINGS SIGGRAPH ASIA 2022, DOI 10.1145/3550469.3555403
+   Zhou XL, 2021, COMPUT GRAPH FORUM, V40, P315, DOI 10.1111/cgf.142635
+NR 65
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD MAR
+PY 2024
+VL 8
+IS 1
+BP 6
+EP 14
+DI 10.1016/j.visinf.2023.12.001
+EA MAR 2024
+PG 9
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA QB3E1
+UT WOS:001218372800001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Soni, P
+   de Runz, C
+   Bouali, F
+   Venturini, G
+AF Soni, Praveen
+   de Runz, Cyril
+   Bouali, Fatma
+   Venturini, Gilles
+TI A survey on automatic dashboard recommendation systems
+SO VISUAL INFORMATICS
+LA English
+DT Article
+DE Automatic visualization; Dashboard recommendation; Multiple view
+   interfaces
+ID VISUALIZATION; GENERATION
+AB This paper presents a survey on automatic or semi-automatic recommendation systems that help users create dashboards. It starts by showing the important role that dashboards play in data science, and gives an informal definition of dashboards, i.e., a set of visualizations possibly with linkage, a screen layout and user feedback. We are mainly interested in systems that use a fully or partially automatic mechanism to recommend dashboards to users. This automation includes the suggestion of data and visualizations, the optimization of the layout and the use of user feedback. We position our work with respect to existing surveys. Starting from a set of over 1000 papers, we have selected and analyzed 19 papers/systems along several dimensions. The main dimensions were the set of considered visualizations, the suggestion method, the utility/objective functions, the layout, and the user interface. We conclude by highlighting the main achievements in this domain and by proposing perspectives. (c) 2024 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Zhejiang University Press Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+C1 [Soni, Praveen; de Runz, Cyril; Bouali, Fatma; Venturini, Gilles] Univ Tours, LIFAT, 64 Ave Jean Portalis, F-37200 Tours, France.
+   [Bouali, Fatma] Univ Lille, IUT C, 53 Rue Alma, F-59100 Roubaix, France.
+C3 Universite de Tours; Universite de Lille
+RP Soni, P (corresponding author), Univ Tours, LIFAT, 64 Ave Jean Portalis, F-37200 Tours, France.
+EM praveen.soni@univ-tours.fr
+FU Agence Nationale de la Recherche (The French National Research Agency)
+FX This research work has been supported and funded by the Agence Nationale
+   de la Recherche (The French National Research Agency) with the BI4PEOPLE
+   project. We confirm that the manuscript has been read and approved by
+   all named authors.
+CR Abduldaem A, 2019, PROCEEDINGS OF INTCESS 2019- 6TH INTERNATIONAL CONFERENCE ON EDUCATION AND SOCIAL SCIENCES, P1307
+   Aksu Ü, 2019, LECT NOTES COMPUT SC, V11877, P363, DOI 10.1007/978-3-030-33246-4_24
+   Al-Maneea H.M.A., 2020, Eurographics & Eurovis 2020
+   Amazon Web Services, 2016, QuickSight
+   Borkin MA, 2013, IEEE T VIS COMPUT GR, V19, P2306, DOI 10.1109/TVCG.2013.234
+   Brouns F., 2015, Technical Report
+   Chen X, 2021, IEEE T VIS COMPUT GR, V27, P1514, DOI 10.1109/TVCG.2020.3030338
+   Costa C.J., 2019, Proceedings of 254th The IIER International Conference, P10
+   Da Col S, 2021, PROCEEDINGS OF THE 30TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT, CIKM 2021, P4696, DOI 10.1145/3459637.3481968
+   Database Group, 2018, DeepEye
+   Diamond M., 2017, J. Instr. Pedagog., V18
+   El Meseery M., 2018, 2018 INT S BIG DAT V, P1
+   Elias M., 2012, P SIGCHI C HUM FACT, P1641, DOI DOI 10.1145/2207676.2208288
+   Elias M, 2011, LECT NOTES COMPUT SC, V6949, P274, DOI 10.1007/978-3-642-23768-3_23
+   Elshehaly M, 2021, IEEE T VIS COMPUT GR, V27, P689, DOI 10.1109/TVCG.2020.3030424
+   Few S., 2003, Information dashboard design
+   Few S., 2006, Information dashboard design: The effective visual communication of data, V2
+   Gowthami K., 2017, International Research Journal of Engineering and Technology, V4, P2987
+   Ji M, 2014, LECT NOTES COMPUT SC, V8719, P440, DOI 10.1007/978-3-319-11200-8_39
+   Kaur P, 2017, PROCEEDINGS OF THE 12TH INTERNATIONAL JOINT CONFERENCE ON COMPUTER VISION, IMAGING AND COMPUTER GRAPHICS THEORY AND APPLICATIONS (VISIGRAPP 2017), VOL 3, P266, DOI 10.5220/0006175002660273
+   Key Alicia, 2012, P 2012 ACM SIGMOD IN, P681, DOI [10.1145/2213836.2213931, DOI 10.1145/2213836.2213931]
+   Kubernatova P., 2018, INT C DAT MAN TECHN, P1
+   L'Yi S, 2019, COMPUT GRAPH FORUM, V38, P201, DOI 10.1111/cgf.13682
+   Law PM, 2020, 2020 IEEE VISUALIZATION CONFERENCE - SHORT PAPERS (VIS 2020), P171, DOI 10.1109/VIS47514.2020.00041
+   Luo YY, 2018, PROC INT CONF DATA, P101, DOI 10.1109/ICDE.2018.00019
+   Ma RX, 2021, IEEE T VIS COMPUT GR, V27, P3717, DOI 10.1109/TVCG.2020.2980227
+   MACKINLAY J, 1986, ACM T GRAPHIC, V5, P110, DOI 10.1145/22949.22950
+   Mackinlay JD, 2007, IEEE T VIS COMPUT GR, V13, P1137, DOI 10.1109/TVCG.2007.70594
+   Microsoft, 2015, PowerBI
+   Moher D, 2009, J CLIN EPIDEMIOL, V62, P1006, DOI 10.1016/j.jclinepi.2009.06.005
+   Moritz D, 2019, IEEE T VIS COMPUT GR, V25, P438, DOI 10.1109/TVCG.2018.2865240
+   Park Y, 2015, J UNIVERS COMPUT SCI, V21, P110
+   Pauwels K, 2009, J SERV RES-US, V12, P175, DOI 10.1177/1094670509344213
+   Qin XD, 2020, VLDB J, V29, P93, DOI 10.1007/s00778-019-00588-3
+   QlikTech International, 2013, Qlik Sense
+   Saket B, 2019, IEEE T VIS COMPUT GR, V25, P2505, DOI 10.1109/TVCG.2018.2829750
+   Sarikaya A, 2019, IEEE T VIS COMPUT GR, V25, P682, DOI 10.1109/TVCG.2018.2864903
+   Schwendimann BA, 2017, IEEE T LEARN TECHNOL, V10, P30, DOI 10.1109/TLT.2016.2599522
+   Shen L., 2021, arXiv
+   Shi DQ, 2021, IEEE T VIS COMPUT GR, V27, P453, DOI 10.1109/TVCG.2020.3030403
+   Siddiqui T, 2018, Arxiv, DOI arXiv:1604.03583
+   Sisense Inc, 2004, Sisense
+   Srinivasan A, 2019, IEEE T VIS COMPUT GR, V25, P672, DOI 10.1109/TVCG.2018.2865145
+   Tableau Software, 2007, Tableau (ShowMe)
+   Toasa R, 2018, IBER CONF INF SYST
+   Dang TN, 2014, IEEE PAC VIS SYMP, P73, DOI 10.1109/PacificVis.2014.42
+   Tundo Alessandro, 2020, 2020 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), P215, DOI 10.1109/ISSREW51248.2020.00075
+   Vazquez-Ingelmo A., 2019, P 20 INT C HUM COMP, P1
+   Wang Y, 2020, IEEE T VIS COMPUT GR, V26, P895, DOI 10.1109/TVCG.2019.2934398
+   Wongsuphasawat K, 2016, P WORKSH HUM IN THE, P1, DOI [10.1145/2939502.2939506, 10.1145/2939502.29395061,2,3,9, DOI 10.1145/2939502.29395061,2,3,9]
+   Wongsuphasawat K, 2017, PROCEEDINGS OF THE 2017 ACM SIGCHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'17), P2648
+   Wongsuphasawat K, 2016, IEEE T VIS COMPUT GR, V22, P649, DOI 10.1109/TVCG.2015.2467191
+   Wu AY, 2022, IEEE T VIS COMPUT GR, V28, P162, DOI 10.1109/TVCG.2021.3114826
+   Yuan LP, 2022, IEEE T VIS COMPUT GR, V28, P4252, DOI 10.1109/TVCG.2021.3085327
+   Zeng ZH, 2022, IEEE T VIS COMPUT GR, V28, P346, DOI 10.1109/TVCG.2021.3114814
+   Zhu SJ, 2020, VIS INFORM, V4, P24, DOI 10.1016/j.visinf.2020.07.002
+NR 56
+TC 2
+Z9 2
+U1 2
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2468-502X
+J9 VIS INFORM
+JI Vis. Inform.
+PD MAR
+PY 2024
+VL 8
+IS 1
+BP 67
+EP 79
+DI 10.1016/j.visinf.2024.01.002
+EA APR 2024
+PG 13
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Computer Science, Software Engineering
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA QT5G4
+UT WOS:001223128000001
+OA gold
+DA 2024-08-05
+ER
+
+EF

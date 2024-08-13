@@ -1,0 +1,1929 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pasadas, A
+   Rodríguez, ML
+AF Pasadas, A.
+   Rodriguez, M. L.
+TI Construction of blending surfaces by parametric discrete interpolation
+   PDE splines
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT International Conference on French Acronyms of Approximation Methods and
+   Numerical Modelling in Environment and Natural Resources
+CY MAY 09-11, 2005
+CL Univ Mohammed I, Oujda, MOROCCO
+SP Univ Mohammed I, CNRST, Univ Granada, Univ Pau, CNRS, IMACS, Int Assoc Math & Comp Simulat
+HO Univ Mohammed I
+DE surfaces; PDE; boundary value problem; interpolation; finite elements
+ID BEZIER SURFACES
+AB In this paper the problem of blending parametric surfaces is discussed. We present a constructing method of blending surfaces by parametric discrete interpolation PDE splines. These functions are obtained from some boundary conditions and a given interpolation data point set, by minimizing a functional associated with a partial differential equation (PDE) in a parametric finite element space.
+   We formulate the corresponding problem and we establish a variational characterization of the solution and some convergence results. Finally, we show a graphical example. (c) 2007 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 [Pasadas, A.; Rodriguez, M. L.] Univ Granada, Dept Appl Math, ETSI Caminos, CyP, E-18071 Granada, Spain.
+C3 University of Granada
+RP Pasadas, A (corresponding author), Univ Granada, Dept Appl Math, ETSI Caminos, CyP, E-18071 Granada, Spain.
+EM mpasadas@ugr.es; miguelrg@ugr.es
+RI Rodriguez, Miguel L./AAN-8244-2021; Pasadas, M./L-1927-2014
+OI Rodriguez, Miguel L./0000-0002-0743-9783; Pasadas,
+   M./0000-0002-3392-3931
+CR Arcangeli R., 2004, MULTIDIMENSIONAL MIN, DOI DOI 10.1007/B130045
+   Bloor M. I. G., 1989, Theory and Practice of Geometric Modeling, P221
+   Bloor MIG, 1997, COMPUT METHOD APPL M, V148, P125, DOI 10.1016/S0045-7825(97)00033-9
+   BLOOR MIG, 1995, COMPUT AIDED GEOM D, V12, P381, DOI 10.1016/0167-8396(94)00021-J
+   Brown JM, 1998, COMPUT METHOD APPL M, V158, P221, DOI 10.1016/S0045-7825(98)00252-7
+   Ciarlet P., 1978, The Finite Element Method for Elliptic Problems
+   GREINER C, 1995, GRAPHICS ROBOTICS, P163
+   HARTMANN E, 1990, COMPUT AIDED DESIGN, V22, P500, DOI 10.1016/0010-4485(90)90066-L
+   HOFFMANN C, 1986, COMPUT AIDED DESIGN, V18, P301, DOI 10.1016/0010-4485(86)90091-6
+   Holmstrom L., 1987, Computer-Aided Geometric Design, V4, P171, DOI 10.1016/0167-8396(87)90011-2
+   Monterde J, 2006, COMPUT AIDED GEOM D, V23, P208, DOI 10.1016/j.cagd.2005.09.001
+   Monterde J, 2004, COMPUT AIDED GEOM D, V21, P697, DOI 10.1016/j.cagd.2004.07.003
+   Ugail H, 2004, COMPUTING, V72, P195, DOI 10.1007/s00607-003-0057-8
+   WOODWARK CD, 1987, MATH SURFACES, V2, P255
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD MAR 7
+PY 2008
+VL 77
+IS 2-3
+BP 282
+EP 290
+DI 10.1016/j.matcom.2007.08.011
+PG 9
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 281XB
+UT WOS:000254531100017
+DA 2024-07-18
+ER
+
+PT J
+AU Solín, P
+   Cerveny, J
+   Dolezel, I
+AF Solin, Pavel
+   Cerveny, Jakub
+   Dolezel, Ivo
+TI Arbitrary-level hanging nodes and automatic adaptivity in the
+   <i>hp</i>-FEM
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article
+DE constrained approximation; hanging nodes; hp-FEM; automatic
+   hp-adaptivity
+ID FINITE-ELEMENT-METHOD; DISCRETE MAXIMUM PRINCIPLE; P-VERSION;
+   1-DIMENSION; PRECONDITIONERS; IMPLEMENTATION; APPROXIMATION
+AB In this paper we present a new automatic adaptivity algorithm for the hp-FEM which is based on arbitrary-level hanging nodes and local element projections. The method is very simple to implement compared to other existing hp-adaptive strategies, while its performance is comparable or superior. This is demonstrated on several numerical examples which include the L-shape domain problem, a problem with internal layer, and the Girkmann problem of linear elasticity. With appropriate simplifications, the proposed technique can be applied to standard lower-order and spectral finite element methods. (c) 2007 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 [Solin, Pavel; Cerveny, Jakub] Univ Texas El Paso, Dept Math Sci, El Paso, TX 79968 USA.
+   [Solin, Pavel; Cerveny, Jakub; Dolezel, Ivo] Acad Sci Czech Republic, Inst Thermomech, CZ-10800 Prague, Czech Republic.
+C3 University of Texas System; University of Texas El Paso; Czech Academy
+   of Sciences; Institute of Thermomechanics of the Czech Academy of
+   Sciences
+RP Solín, P (corresponding author), Univ Texas El Paso, Dept Math Sci, El Paso, TX 79968 USA.
+EM solin@utep.edu; jcerveny@utep.edu; dolezel@fel.cvut.cz
+CR Aksoylu B, 2003, SIAM J SCI COMPUT, V25, P478, DOI 10.1137/S1064827502407676
+   BABUSKA I, 1989, INT J NUMER METH ENG, V28, P1891, DOI 10.1002/nme.1620280813
+   BABUSKA I, 1981, SIAM J NUMER ANAL, V18, P515, DOI 10.1137/0718033
+   Babuska I, 1996, COMPUT METHOD APPL M, V133, P319, DOI 10.1016/0045-7825(95)00946-9
+   BABUSKA I, 1984, UNIFICATION FINITE E, P97
+   Bauer AC, 2004, INT J NUMER METH ENG, V59, P337, DOI 10.1002/nme.866
+   Bauer AC, 2002, COMMUN NUMER METH EN, V18, P305, DOI 10.1002/cnm.465
+   Bertolazzi E, 1998, MATH MOD METH APPL S, V8, P685, DOI 10.1142/S0218202598000317
+   DEMKOWICZ L, 1989, COMPUT METHOD APPL M, V77, P79, DOI 10.1016/0045-7825(89)90129-1
+   DEMKOWICZ L, 2001, 0128 TICAM
+   GUI W, 1986, NUMER MATH, V49, P613, DOI 10.1007/BF01389734
+   GUI W, 1986, NUMER MATH, V49, P659, DOI 10.1007/BF01389735
+   GUI W, 1986, NUMER MATH, V49, P577, DOI 10.1007/BF01389733
+   Karniadakis GE, 2005, Spectral/hp Element Methods for CFD
+   Laszloffy A, 2000, PARALLEL COMPUT, V26, P1765, DOI 10.1016/S0167-8191(00)00054-5
+   Melenk J.M., 2002, LECT NOTES MATH, V1796
+   PARDO D, 2006, COMPUT METHODS APPL, V195
+   PASZYNSKI M, 2004, 0407 TICAM
+   Peano A., 1976, Computers & Mathematics with Applications, V2, P211, DOI 10.1016/0898-1221(76)90014-6
+   Rachowicz W, 2002, INT J NUMER METH ENG, V53, P147, DOI 10.1002/nme.396
+   Schwab Ch., 1998, P HP FINITE ELEMENT
+   Solín O, 2004, COMPUT METHOD APPL M, V193, P449, DOI 10.1016/j.cma.2003.09.015
+   Solin P., 2005, Partial Differential Equations and the Finite Element Method
+   Solin P., 2003, HIGHER ORDER FINITE
+   Solín P, 2007, J COMPUT APPL MATH, V209, P54, DOI 10.1016/j.cam.2006.10.028
+   Solín P, 2007, MATH COMPUT SIMULAT, V76, P211, DOI 10.1016/j.matcom.2007.01.025
+   Szabo B.A., 1991, Finite Element Analysis, P368
+   VEJCHODSKY T, 2006, IN PRESS MATH COMPUT
+   Vejchodsky T, 2007, MATH COMPUT SIMULAT, V76, P223, DOI 10.1016/j.matcom.2007.02.001
+NR 29
+TC 126
+Z9 144
+U1 2
+U2 18
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD FEB 15
+PY 2008
+VL 77
+IS 1
+BP 117
+EP 132
+DI 10.1016/j.matcom.2007.02.011
+PG 16
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 267GB
+UT WOS:000253496400012
+DA 2024-07-18
+ER
+
+PT J
+AU Christov, CI
+AF Christov, C. I.
+TI Maxwell-Lorentz electrodynamics as a manifestation of the dynamics of a
+   viscoelastic metacontinuum
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT 4th IMACS International Conference on Nonlinear Evolution Equations and
+   Wave Phenomena
+CY APR 11-14, 2005
+CL Athens, GA
+SP Int Assoc Math & Comp Simulat, Natl Sci Fdn, Univ Georgia Res Fdn, UGA, Comp Sci Dept
+DE Maxwell-Lorentz electrodynamics; shear waves; viscoelastic liquid
+AB We prove that, when linearized, the governing equations of an incompressible viscoelastic continuum can be rendered into a form identical to that of Maxwell's equations of electrodynamics. The divergence of deviator stress tensor is analogous to the electric field, while the vorticity (the curl of velocity field) is interpreted as the magnetic field. The elastic part of constitutive relation explains Maxwell's displacement current, and is responsible for the propagation of gradient (shear) waves. In turn, the viscous part is associated with the Ampere's and Ohm's laws for the current. This analogy is extended further and the nonlinearity of the material time derivative (the advective part of acceleration) is interpreted as the Lorentz force. The classical wave equations of electrodynamics are also derived as corollaries. Thus an interesting and far reaching analogy between the viscoelastic continuum and the electrodynamics is established. (c) 2006 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Univ SW Louisiana, Dept Math, Lafayette, LA 70504 USA.
+C3 University of Louisiana Lafayette
+RP Christov, CI (corresponding author), Univ SW Louisiana, Dept Math, Lafayette, LA 70504 USA.
+EM christov@louisiana.edu
+RI Christov, Christo i/C-1081-2008
+CR [Anonymous], 1985, Solitons in mathematics and physics
+   [Anonymous], 1993, MODERN COSMOLOGY DAR
+   [Anonymous], 1989, HIST THEORIES AETHER
+   BATCHELOR GK, 1960, INTRO FLUID DYNAMICS
+   Bird R. Byron, 1987, Dynamics of polymeric liquids, volume1: Fluid mechanics, V1
+   Bland D. R., 1960, The Theory of Linear Viscoelasticity
+   BULLOUGH RK, 1980, SOLITONS, P11
+   Christov, 2006, APEIRON, V13, P129
+   Christov CI, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.154301
+   Christov CI, 2005, AIP CONF PROC, V755, P46
+   CHRISTOV CI, FDN PHYS LETT, V36
+   CHRISTOV CI, 1996, CONTINUUM MODELS DIS, P370
+   CHRISTOV CI, 2001, ANN U SOFIA, V95, P109
+   de Groot S.R., 1984, Non-equilibrium Thermodynamics
+   DENN MM, 1980, PROCESS FLUID DYNAMI
+   Einstein A., 1961, Relativity: The special and the general theory
+   Einstein Albert., 1983, Sidelights on Relativity
+   Eringen A.C., 1990, Electrodynamics of Continua II, Fluids and Complex Media
+   Feynman R.P., 1964, The Feynman Lectures on Physics: Electromagnetism and Matter, VII.
+   Griffiths D.J., 1981, Introduction to Electrodynamics, Vfourth
+   Jackson J. D., 1975, CLASSICAL ELECTRODYN, V2nd edn.
+   Joos Georgewith., 1986, THEORETICAL PHYS, V3rd
+   LORENTZ HA, 1952, THEORY ELLECTRONS IT
+   Lovelock D., 1989, DIFFERENTIAL FORMS V
+   Maugin GA., 2001, SLECTED TOPICS NONLI, P141
+   Maxwell J. C., 1867, PHILOS T ROY SOC LON, V157, P49, DOI DOI 10.1098/RSTL.1867.0004
+   OLDROYD JG, 1950, PROC R SOC LON SER-A, V200, P523, DOI 10.1098/rspa.1950.0035
+   SEDOV LI, 1981, COURSE CONTINUUM MEC, V1
+NR 28
+TC 19
+Z9 19
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD MAR 7
+PY 2007
+VL 74
+IS 2-3
+BP 93
+EP 104
+DI 10.1016/j.matcom.2006.10.019
+PG 12
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 144LK
+UT WOS:000244797300004
+DA 2024-07-18
+ER
+
+PT J
+AU Ludu, A
+   Hutchings, N
+AF Ludu, A.
+   Hutchings, N.
+TI Internally generated nonlinear waves in filament bundles
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT 4th IMACS International Conference on Nonlinear Evolution Equations and
+   Wave Phenomena
+CY APR 11-14, 2005
+CL Athens, GA
+SP Int Assoc Math & Comp Simulat, Natl Sci Fdn, Univ Georgia Res Fdn, UGA, Comp Sci Dept
+DE filament; flagellum; nonlinear waves; soliton; deformations
+AB We develop a geometrical approach for the relative sliding (shear) between filaments in a bundle subjected to bending and twisting deformations, with applications to motility in flagellated cells. Particular examples for helical and toroidal shapes, and combinations of these, are discussed. The resulting equations for sliding, expressed in terms of the curvature and torsion of filaments, provide conditions for existence of nonlinear internally driven waves along the filament bundle. (c) 2006 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 NW State Univ, Dept Chem & Phys, Natchitoches, LA 71497 USA.
+   IDEAS, Natchitoches, LA 71497 USA.
+   Louisiana State Univ, Dept Biol, Shreveport, LA 71115 USA.
+C3 University of Louisiana System; Northwestern State University of
+   Louisiana; Louisiana State University System; Louisiana State University
+   Shreveport
+RP Ludu, A (corresponding author), NW State Univ, Dept Chem & Phys, Natchitoches, LA 71497 USA.
+EM ludua@nsula.edu; NHutchin@lsus.edu
+CR ALBERTS B, 1994, CELL MOTIL CYTOSKEL, V29, P141
+   ANDRIETTI F, 1994, BIOPHYS J, V67, P1767, DOI 10.1016/S0006-3495(94)80651-4
+   [Anonymous], 2001, CURVE SHORTENING PRO
+   Camalet S, 2000, NEW J PHYS, V2, P241, DOI 10.1088/1367-2630/2/1/324
+   Camalet S, 1999, PHYS REV LETT, V82, P1590, DOI 10.1103/PhysRevLett.82.1590
+   Do Carmo M., 1976, Differential Geometry of Curves and Surfaces
+   EKMEKCI N., 2001, DIFFER GEOM DYN SYST, V3, P17
+   GOLDSTEIN RE, 1995, PHYS REV LETT, V75, P1094, DOI 10.1103/PhysRevLett.75.1094
+   Hutchings NR, 2005, AIP CONF PROC, V755, P137, DOI 10.1063/1.1900400
+   Kruse K, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.051913
+   Kruse K, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.138101
+   LUDU A, PHYSICS0309026
+   Morita Y, 2004, CURR BIOL, V14, P2113, DOI 10.1016/j.cub.2004.11.028
+   NAKAYAMA K, 1992, PHYS REV LETT, V69, P2603, DOI 10.1103/PhysRevLett.69.2603
+   PERKINS TT, 1994, SCIENCE, V264, P822, DOI 10.1126/science.8171336
+   SEKIMOTO K, 1995, PHYS REV LETT, V75, P172, DOI 10.1103/PhysRevLett.75.172
+   VOLKMUTH WD, 1992, NATURE, V358, P600, DOI 10.1038/358600a0
+   WEATHERBURN CE, DIFFERENTIAL GEOM 12
+NR 18
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD MAR 7
+PY 2007
+VL 74
+IS 2-3
+BP 179
+EP 189
+DI 10.1016/j.matcom.2006.10.007
+PG 11
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 144LK
+UT WOS:000244797300012
+DA 2024-07-18
+ER
+
+PT J
+AU Prasianakis, NI
+   Chikatamarla, SS
+   Karlin, IV
+   Ansumali, S
+   Boulouchos, K
+AF Prasianakis, N. I.
+   Chikatamarla, S. S.
+   Karlin, I. V.
+   Ansumali, S.
+   Boulouchos, K.
+TI Entropic lattice Boltzmann method for simulation of thermal flows
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT 14th International Conference on Discrete Simulation of Fluid Dynamics
+   in Comples Systems
+CY AUG 22-26, 2005
+CL Kyoto Univ, Kyoto, JAPAN
+SP 21st Century COE Program Res & Educ Complex Funct Mech Syst, Kyoto Univ Fdn, Kyoto Univ, Grad Sch Engn
+HO Kyoto Univ
+DE entropic lattice Boltzmann method; thermal flows
+ID EQUATION; MODELS
+AB A new thermal entropic lattice Boltzmann model on the standard two-dimensional nine-velocity lattice is introduced for simulation of weakly compressible flows. The new model covers a wider range of flows than the standard isothermal model on the same lattice, and is computationally efficient and stable. (c) 2006 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 ETH, Aerothermochem & Combust Syst Lab, LAV, CH-8092 Zurich, Switzerland.
+   Nanyang Technol Univ, Sch Chem & Biomed Engn, Singapore 639798, Singapore.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich; Nanyang
+   Technological University
+RP Karlin, IV (corresponding author), ETH, Aerothermochem & Combust Syst Lab, LAV, CH-8092 Zurich, Switzerland.
+EM prasianakis@lav.mavt.ethz.ch; chikatamarla@lav.mavt.ethz.ch;
+   karlin@lav.mavt.ethz.ch; asantosh@ntu.edu.sg;
+   boulouchos@lav.mavt.ethz.ch
+RI Chikatamarla, Shyam s/H-5092-2011; Ansumali, Santosh/A-7602-2010;
+   Karlin, Ilya/AAD-7202-2021; KARLIN, ILYA/F-8015-2011
+OI Karlin, Ilya/0000-0001-9996-9679; Prasianakis,
+   Nikolaos/0000-0002-2252-4265
+CR ALEXANDER FJ, 1993, PHYS REV E, V47, pR2249, DOI 10.1103/PhysRevE.47.R2249
+   Ansumali S, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.026311
+   Ansumali S, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.260605
+   Ansumali S, 2003, EUROPHYS LETT, V63, P798, DOI 10.1209/epl/i2003-00496-6
+   He X, 1998, J COMPUT PHYS, V146, P282, DOI 10.1006/jcph.1998.6057
+   HIGUERA FJ, 1989, EUROPHYS LETT, V9, P345, DOI 10.1209/0295-5075/9/4/008
+   Karlin IV, 1999, EUROPHYS LETT, V47, P182, DOI 10.1209/epl/i1999-00370-1
+   QIAN YH, 1992, EUROPHYS LETT, V17, P479, DOI 10.1209/0295-5075/17/6/001
+   Shan XW, 1998, PHYS REV LETT, V80, P65, DOI 10.1103/PhysRevLett.80.65
+NR 9
+TC 23
+Z9 26
+U1 1
+U2 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD SEP 9
+PY 2006
+VL 72
+IS 2-6
+BP 179
+EP 183
+DI 10.1016/j.matcom.2006.05.012
+PG 5
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 082EQ
+UT WOS:000240369900022
+DA 2024-07-18
+ER
+
+PT J
+AU Sullivan, SP
+   Gladden, LF
+   Johns, ML
+AF Sullivan, Simon P.
+   Gladden, Lynn F.
+   Johns, Michael L.
+TI 3D chemical reactor LB simulations
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT 14th International Conference on Discrete Simulation of Fluid Dynamics
+   in Comples Systems
+CY AUG 22-26, 2005
+CL Kyoto Univ, Kyoto, JAPAN
+SP 21st Century COE Program Res & Educ Complex Funct Mech Syst, Kyoto Univ Fdn, Kyoto Univ, Grad Sch Engn
+HO Kyoto Univ
+DE lattice Boltzmann; chemical reaction; packed beds
+ID NAVIER-STOKES EQUATION; LATTICE BOLTZMANN METHOD; BED REACTORS; GAS;
+   DIFFUSION; FLOWS; ESTERIFICATION; DISPERSION; CONVERSION; BHATNAGAR
+AB The lattice Boltzmann (LB) method was used to simulate hydrodynamics and mass transfer, with reaction, in a 3D packed bed of porous catalyst particles. The current LB implementation enables particle Peclet numbers up to 10(8) to be readily simulated. Importantly we are able to easily and efficiently simulate realistic values of diffusivity and realistic values for the ratio of liquid viscosity to diffusivity. In addition, the mass transfer simulations are modified to permit spatially varying values of diffusivity, essential to differentiate between intra- and inter-particle diffusivity (Dicta and D-inter, respectively). We investigate the effect of D-intra and D-intra on reaction conversion for a commercially relevant esterification reaction. The 3D simulations are conducted on an experimentally determined MRI image of a random packed bed of porous catalyst particles. Particle Reynolds and Peclet numbers were 0.13 and 88.4, respectively. The value of D-intra is found to have a limited effect for D-intra > 0, which is in good agreement with an analytical study of catalyst effectiveness in literature for this reaction system. Simulated 3D conversion data agrees quantitatively well with the experimental findings. (c) 2006 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Univ Cambridge, Dept Chem Engn, Cambridge CB2 3RA, England.
+C3 University of Cambridge
+RP Sullivan, SP (corresponding author), Univ Cambridge, Dept Chem Engn, Pembroke St, Cambridge CB2 3RA, England.
+EM sps38@cam.ac.uk
+OI johns, michael/0000-0001-7953-0597
+CR AGREDA VH, 1990, CHEM ENG PROG, V86, P40
+   ARIS R, 1957, CHEM ENG SCI, V6, P262, DOI 10.1016/0009-2509(57)85028-3
+   BISCHOFF KB, 1965, AICHE J, V11, P351, DOI 10.1002/aic.690110229
+   CHEN HD, 1992, PHYS REV A, V45, pR5339, DOI 10.1103/PhysRevA.45.R5339
+   Chen S, 1998, ANNU REV FLUID MECH, V30, P329, DOI 10.1146/annurev.fluid.30.1.329
+   DAWSON SP, 1993, J CHEM PHYS, V98, P1514, DOI 10.1063/1.464316
+   FLEKKOY EG, 1993, PHYS REV E, V47, P4247, DOI 10.1103/PhysRevE.47.4247
+   Freund H, 2003, CHEM ENG SCI, V58, P903, DOI 10.1016/S0009-2509(02)00622-X
+   Guo ZL, 2000, J COMPUT PHYS, V165, P288, DOI 10.1006/jcph.2000.6616
+   He XY, 1997, J STAT PHYS, V88, P927, DOI 10.1023/B:JOSS.0000015179.12689.e4
+   HIGUERA FJ, 1989, EUROPHYS LETT, V9, P663, DOI 10.1209/0295-5075/9/7/009
+   HIGUERA FJ, 1989, EUROPHYS LETT, V9, P345, DOI 10.1209/0295-5075/9/4/008
+   Kandhai D, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.234501
+   QIAN YH, 1992, EUROPHYS LETT, V17, P479, DOI 10.1209/0295-5075/17/6/001
+   Rakotomalala N, 1996, PHYS FLUIDS, V8, P3200, DOI 10.1063/1.869093
+   Ravindra PV, 1997, IND ENG CHEM RES, V36, P5133, DOI 10.1021/ie9703088
+   Sani F.M., 2002, THESIS U CAMBRIDGE
+   Sederman AJ, 1998, CHEM ENG SCI, V53, P2117, DOI 10.1016/S0009-2509(98)00059-1
+   SMITH, 1970, CHEM ENG KINETICS
+   Stevenson P, 2003, CHEM ENG SCI, V58, P5025, DOI 10.1016/j.ces.2003.05.003
+   Sullivan SP, 2005, CHEM ENG SCI, V60, P3405, DOI 10.1016/j.ces.2005.01.038
+   Xu ZP, 1997, CHEM ENG SCI, V52, P3011, DOI 10.1016/S0009-2509(97)00082-1
+   Yuen EHL, 2003, CHEM ENG SCI, V58, P613, DOI 10.1016/S0009-2509(02)00586-9
+   Yuen EHL, 2002, APPL CATAL A-GEN, V232, P29, DOI 10.1016/S0926-860X(02)00064-9
+   Zeiser T, 2001, CHEM ENG SCI, V56, P1697, DOI 10.1016/S0009-2509(00)00398-5
+NR 25
+TC 18
+Z9 20
+U1 0
+U2 19
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD SEP 9
+PY 2006
+VL 72
+IS 2-6
+BP 206
+EP 211
+DI 10.1016/j.matcom.2006.05.023
+PG 6
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 082EQ
+UT WOS:000240369900027
+DA 2024-07-18
+ER
+
+PT J
+AU Khatounian, F
+   Moreau, S
+   Louis, JP
+   Monmasson, E
+   Louveau, F
+   Alexandre, JM
+AF Khatounian, F.
+   Moreau, S.
+   Louis, J. P.
+   Monmasson, E.
+   Louveau, F.
+   Alexandre, J. M.
+TI Modeling and simulation of a hybrid dynamic system used in haptic
+   interfaces
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT 8th International Conference on Modeling and Simulation of Electric
+   Machines, Converters and Systems (ELECTRIMACS 2005)
+CY APR 17-20, 2005
+CL Hammamet, TUNISIA
+SP IMACS, TC 1
+DE haptic interface; hybrid dynamic system; permanent magnet synchronous
+   machine
+AB A haptic system consists of an articulated mechanical structure with motors and position sensors, as well as embedded electronics allowing force feedback. It is driven by a haptic interface, which enables the user to interact with an image in a virtual reality application, through the sense of touch. Thus, it is a hybrid dynamic system, which contains subsystems with continuous dynamics and subsystems with discrete dynamics that interact with each other. This paper develops a hybrid dynamic system model of the system, which takes into account the different sampling periods of the desired regulation, and the interaction between continuous, switching and discrete subsystems. It is interesting when very short electrical transients coexist with very long mechanical ones. (c) 2006 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Univ Cergy Pontoisa, CNRS, UMR8029, SATIE, F-95301 Cergy Pontoise, France.
+   ENS Cachan, CNRS, UMR8029, SATIE, F-94230 Cachan, France.
+   HAPTION Virtual Touch, Atelier Relais Soulge Ouette, F-53210 Soulge Sur Ouette, France.
+C3 Centre National de la Recherche Scientifique (CNRS); Universite Paris
+   Saclay; Centre National de la Recherche Scientifique (CNRS)
+RP Khatounian, F (corresponding author), Univ Cergy Pontoisa, CNRS, UMR8029, SATIE, Rue Eragny, F-95301 Cergy Pontoise, France.
+EM flavia.khatounian@iupge.u-cergy.fr; sandrine.moreau@univ-poitiers.fr;
+   jplouis@satie.ens-cachan.fr; eric.monmasson@iupge.u-cergy.fr;
+   francois.louveau@haption.com; jean-marc.alexandre@cea.fr
+RI Khatounian, Flavia/I-7713-2019; Monmasson, Eric/F-7879-2011; Monmasson,
+   Eric/IVH-2306-2023
+OI Monmasson, Eric/0000-0003-2180-5740; Khatounian,
+   Flavia/0000-0001-9163-3679
+CR Antsaklis PJ, 1998, IEEE T AUTOMAT CONTR, V43, P457, DOI 10.1109/TAC.1998.664148
+   Colgate JE, 1993, P IEEE VIRT REAL ANN, P202
+   Flieller D, 1998, MATH COMPUT SIMULAT, V46, P373, DOI 10.1016/S0378-4754(97)00149-3
+   LABRIQUE F, 2004, MODELE COMMANDE ACTI, P185
+   LOUIS JP, 1995, TECHNIQUE INGENIEUR, P1
+   MILLMAN PA, 1993, IEEE VIRTUAL REALITY ANNUAL INTERNATIONAL SYMPOSIUM, P216, DOI 10.1109/VRAIS.1993.380775
+   Zaytoon J., 2001, SYSTEMES DYNAMIQUES
+NR 7
+TC 3
+Z9 3
+U1 1
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD JUN 19
+PY 2006
+VL 71
+IS 4-6
+BP 270
+EP 281
+DI 10.1016/j.matcom.2006.02.021
+PG 12
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 056OJ
+UT WOS:000238534000003
+DA 2024-07-18
+ER
+
+PT J
+AU Kamach, O
+   Piétrac, L
+   Niel, É
+AF Kamach, O
+   Piétrac, L
+   Niel, É
+TI Multi-model approach to discrete events systems:: Application to
+   operating mode management
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT IMACS Multi-Conference on Computational Engineering in Systems
+   Applications
+CY 2003
+CL Lille, FRANCE
+DE multi-model approach; operating mode management; supervisory control
+   theory; switching controllers; systems with changing dynamics
+ID SUPERVISORY CONTROL
+AB In this paper, we propose a framework for designing suitable switching control decisions for discrete event systems (DES) whose structures change as they develop in different operating modes. Control decisions consist of either an event in a sequence to occur enabling an event or preventing the event from taking place disabling an event.
+   Our contribution enables to adopt different modeling approaches and ensures switching between all designed process models when there is commutation between the operating modes. Thus, in the context of supervisory control theory (SCT), we propose that each model automaton represents process functionning in a specific operating mode.
+   Specifications imposed on any operating mode could be conflicting. An attractive alternative is switching control, in which a different controller is applied to each operating mode [P. Charbonnaud, F. Rotella, S. Medar. Process Operating mode Monitoring Process: Switching Online the Right Controller, IEEE transactions on systems, Man and Cybernetics, Part C 3 1 (1) pp 77-86. 2002; M. Zefran, J. Burdick, Design of switching controllers for systems with changing dynamics, in: Proceedings of the 37th conference on Decision and control, 1998, pp. 2113-2118]. Control of process functionning means that both process and specification models must be associated with one specific operating mode.
+   Based on supervisory control theory, our work focuses on operating mode management in particular when the process is subject to failure. The adopted approach (multi-model) assumes that only one attempted operating mode is activated at any one time, while the others are considered desactivated. The problem of commutation and tracking between all designed models (process and specification) is formalised by the proposed framework. In this context, several questions are raised. Is the process engaged in a state which is compatible with the atteined mode ? Are the specifications consistant with each starting state ?. Are the specification conflicting ? Can all defined states be reachable ?
+   To answer correctly these questions, a mode switching mechanism must be formalised. (c) 2005 Published by Elsevier B.V. on behalf of IMACS.
+C1 Inst Natl Sci Appl, Lab Automat Ind, F-69621 Villeurbanne, France.
+C3 Institut National des Sciences Appliquees de Lyon - INSA Lyon
+RP Kamach, O (corresponding author), Inst Natl Sci Appl, Lab Automat Ind, Bat Antoine St Exupery,27 Ave Jean Capelle, F-69621 Villeurbanne, France.
+EM oulaid.kamach@insa-lyon.fr
+OI KAMACH, Oulaid/0000-0003-0642-0041
+CR CASSANDRAS GC, 1999, INTRO DISCRETE EVENT, P822
+   CHAFIK S, 2000, THESIS INSA LYON
+   Charbonnaud P, 2001, IEEE T SYST MAN CY C, V31, P77, DOI 10.1109/5326.923270
+   DANGOUMAU N, 2000, THESIS U SCI TECHNOL, P181
+   KAMACH O, 2002, IEEE SMC HAMM TUN RE
+   LIN F, 1990, IEEE T AUTOMAT CONTR, V35, P1330, DOI 10.1109/9.61009
+   LIN F, 1988, INFORM SCIENCES, V44, P173, DOI 10.1016/0020-0255(88)90001-1
+   LIN F, 1987, INF SCI, V25, P1202
+   RAMADGE PJ, 1987, SIAM J CONTROL OPTIM, V25, P206, DOI 10.1137/0325013
+   RAMADGE PJG, 1989, P IEEE, V77, P81, DOI 10.1109/5.21072
+   Rudie K., 1999, Proceedings of the 1999 American Control Conference (Cat. No. 99CH36251), P1965, DOI 10.1109/ACC.1999.786208
+   WONG KC, 1988, DISCRETE EVENT DYN S, V10, P131
+   WONHAM WM, 2002, NOTES CONTROL DISCRE
+   Yoo TS, 2000, IEEE DECIS CONTR P, P1, DOI 10.1109/CDC.2000.912722
+   Zefran M, 1998, IEEE DECIS CONTR P, P2113, DOI 10.1109/CDC.1998.758647
+NR 15
+TC 8
+Z9 8
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD FEB 24
+PY 2006
+VL 70
+IS 5-6
+BP 394
+EP 407
+DI 10.1016/j.matcom.2005.11.008
+PG 14
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 017GT
+UT WOS:000235682800011
+DA 2024-07-18
+ER
+
+PT J
+AU Wu, JH
+   Yuan, JM
+AF Wu, JH
+   Yuan, JM
+TI The effect of dissipation on solutions of the complex KdV equation
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT 3rd International Conference on Nonlinear Evolution Equations and Wave
+   Phenomena
+CY APR 07-10, 2003
+CL Athens, GA
+SP IMACS
+DE complex KdV-Burgers equation; dissipation; global well-posedness
+ID KORTEWEG-DEVRIES EQUATION
+AB It is known that some periodic solutions of the complex KdV equation with smooth initial data blow up in finite time. In this paper, we investigate the effect of dissipation on the regularity of solutions of the complex KdV equation. It is shown here that if the initial datum is comparable to the dissipation coefficient in the L-2-norm, then the corresponding solution does not develop any finite-time singularity. The solution actually decays exponentially in time and becomes real analytic as time elapses. Numerical simulations are also performed to provide detailed information on the behavior of solutions in different parameter ranges. (c) 2005 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Oklahoma State Univ, Dept Math, Stillwater, OK 74078 USA.
+   Providence Univ, Dept Appl Math, Taichung 433, Taiwan.
+C3 Oklahoma State University System; Oklahoma State University -
+   Stillwater; Providence University - Taiwan
+RP Oklahoma State Univ, Dept Math, Stillwater, OK 74078 USA.
+EM jiahong@math.okstate.edu
+RI Yuan, Juan-Ming/AAY-8285-2021; Wu, Jiahong/J-7207-2019
+OI Wu, Jiahong/0000-0001-9496-9709
+CR BIRNIR B, 1986, COMMUN PUR APPL MATH, V39, P283, DOI 10.1002/cpa.3160390302
+   BIRNIR B, 1987, SIAM J APPL MATH, V47, P710, DOI 10.1137/0147049
+   CHAN TF, 1985, SIAM J NUMER ANAL, V22, P441, DOI 10.1137/0722026
+   Doering C.R., 1995, Applied analysis of the Navier-Stokes equations
+   KRUSKAL MD, 1970, J MATH PHYS, V11, P952, DOI 10.1063/1.1665232
+   Yuan JM, 2005, DISCRETE CONT DYN-B, V5, P489, DOI 10.3934/dcdsb.2005.5.489
+NR 6
+TC 4
+Z9 5
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD AUG 5
+PY 2005
+VL 69
+IS 5-6
+BP 589
+EP 599
+DI 10.1016/j.matcom.2005.03.002
+PG 11
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 959GN
+UT WOS:000231506300016
+DA 2024-07-18
+ER
+
+PT J
+AU Fukiharu, I
+AF Fukiharu, I
+TI General equilibrium analysis on arms exports to developing countries in
+   conflict
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT International Congress on Modelling and Simulation
+CY JUL 14-17, 2003
+CL Townsville, AUSTRALIA
+SP Modelling & Simulat Soc Australia & New Zealand, Environm Modelling & Software, CSIRO, James Cook Univ, Japan Soc Simulat Technol, IMACS, SCS
+DE conflict game; general equilibrium; existence; stability; simulation
+AB In this paper a conflict game between the two developing countries is constructed. It is assumed that weapons are imported at the fixed world price, p(M) and the consequence of the decline of pm is examined, which happened when the former Soviet Union collapsed. In Section 2, specifying the utility and production functions in general equilibrium (GE) model by Cobb-Douglass type, we actually derive the reaction functions of GE conflict game. In Section 3, we examine the effect of the decline of p(M) on the "existence" of solution to the game, its "stability", and finally on the utility levels of two countries in the "stability" case. By simulation we show that as pm falls, the number of "non-existence" cases increases, the percentage of "instability" cases among "existence" cases rises, and finally as pm falls, the percentage of "rising utility levels of two countries" cases among "stability" cases falls. In Section 4, assuming that the above countries have domestic military industries, we derive the reaction functions in this conflict game. (c) 2005 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Hiroshima Univ, Fac Econ, Hiroshima 730, Japan.
+C3 Hiroshima University
+RP Fukiharu, I (corresponding author), Hiroshima Univ, Fac Econ, Hiroshima 730, Japan.
+EM fukito@hiroshima-u.ac.jp
+CR [Anonymous], 1965, Prisoners dilemma
+   [Anonymous], EC INT SECURITY ESSA
+   FUKIHARU T, 1990, KOBE U EC REV, V36, P1
+   KLEIN LR, 1994, EC INT SECURITY, P14
+   KLEIN LR, 1996, ECAAR SEM TOK JUN 1
+   Mishan EJ., 1971, COST BENEFIT ANAL
+   Richardson LewisF., 1960, ARMS AND INSECURITY
+NR 7
+TC 2
+Z9 2
+U1 0
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD MAY 26
+PY 2005
+VL 68
+IS 5-6
+BP 439
+EP 448
+DI 10.1016/j.matcom.2005.02.006
+PG 10
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 938UR
+UT WOS:000230029400005
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Karaa, S
+   Zhang, J
+   Yang, FQ
+AF Karaa, S
+   Zhang, J
+   Yang, FQ
+TI A numerical study of a 3D bioheat transfer problem with different
+   spatial heating
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article
+DE bioheat transfer; hyperthermia; Pennes equation; preconditioning
+ID LINEAR-SYSTEMS
+AB We develop numerical methods for the computer simulation and modeling of a three dimensional heat transfer problem in biological bodies. The technique is intended for the temperature predications and parameter measurements in thermal medical practices and for the studies of thermomechanical interaction of biological bodies at high temperature.
+   We examine a mathematical model based on the classical well-known Pennes equation for heat transfer in biological bodies. A finite difference discretization scheme is used to discretize the governing partial differential equation. A preconditioned iterative solver is employed to solve the resulting sparse linear system at each time step. Numerical results are obtained to demonstrate the efficacy of the proposed numerical methods. (c) 2005 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Univ Kentucky, Dept Comp Sci, Lab High Performance Sci Comp & Comp Simulat, Lexington, KY 40506 USA.
+   Univ Kentucky, Dept Chem & Mat Engn, Lexington, KY 40506 USA.
+C3 University of Kentucky; University of Kentucky
+RP Univ Kentucky, Dept Comp Sci, Lab High Performance Sci Comp & Comp Simulat, 773 Anderson Hall, Lexington, KY 40506 USA.
+EM samir@csr.uky.edu; jzhang@cs.uky.edu; fyang0@engr.uky.edu
+CR Anderson G. T., 1990, P ADV MEAS COMP TEMP, V147, P31
+   Chato J. C., 1989, FUNDAMENTALS BIOHEAT
+   CRANK J, 1947, P CAMB PHILOS SOC, V43, P50, DOI 10.1007/BF02127704
+   DENG ZS, 2002, ASME, V124, P638, DOI DOI 10.1115/1.1516810
+   Diller KR., 1992, Advances in heat transfer, V22, P157
+   GAUTHERIE M, 1990, CLIN THERMOLOGY, V1
+   Holmes KR, 1997, ALL WORKSH FUT BIOTH
+   Killer K. R., 1991, INT J HEAT MASS TRAN, V34, P1393
+   LEONARD JB, 1984, IEEE T BIO-MED ENG, V31, P533, DOI 10.1109/TBME.1984.325296
+   Liu FL, 2001, CHINESE SCI BULL, V46, P1037
+   Liu J, 2001, J BIOMECH, V34, P1637, DOI 10.1016/S0021-9290(01)00134-8
+   LIU P, 1989, ACTION MECH LASER BI, P127
+   MEIJERINK JA, 1977, MATH COMPUT, V31, P148, DOI 10.2307/2005786
+   PENNES HH, 1948, J APPL PHYSIOL, V1, P93, DOI 10.1152/jappl.1948.1.2.93
+   SAAD Y, 1986, SIAM J SCI STAT COMP, V7, P856, DOI 10.1137/0907058
+   Saad Y., 1996, Iterative Methods for Sparse Linear Systems
+   WEINBAUM S, 1984, J BIOMECH ENG-T ASME, V106, P321, DOI 10.1115/1.3138501
+   ZHAO JJ, 2002, IN PRESS APPL MATH C
+NR 18
+TC 48
+Z9 55
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD MAY 16
+PY 2005
+VL 68
+IS 4
+BP 375
+EP 388
+DI 10.1016/j.matcom.2005.02.032
+PG 14
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 934HC
+UT WOS:000229698900006
+DA 2024-07-18
+ER
+
+PT J
+AU Papaodysseus, C
+   Roussopoulos, G
+   Panagopoulos, A
+AF Papaodysseus, C
+   Roussopoulos, G
+   Panagopoulos, A
+TI Using a fast RLS adaptive algorithm for efficient speech processing
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article
+DE speech coding; speech processing; adaptive RLS filtering; forward linear
+   prediction
+ID LINEAR PREDICTION
+AB In this paper, a new method is presented that offers efficient computation of Linear Prediction Coefficients (LPC) via a new Recursive Least Squares (RLS) adaptive filtering algorithm. This method can be successfully used in speech coding and processing. The introduced algorithm is numerically robust, fast, parallelizable and has particularly good tracking properties. By means of this scheme, Linear Prediction Coefficients are obtained that offer an improvement in the reconstruction of the speech signal before coding, as compared to the signal obtained by various classical algorithm. An analogous improvement is observed in speech coding experiments too, while a subjective test confirms the improvement of the quality of synthesized speech. The overall processing time of the proposed method of speech coding is a bit greater, but comparable to the time the classical methods need. (c) 2004 IMACS. Published by Elsevier B.V All rights reserved.
+C1 Natl Tech Univ Athens, Dept Elect & Comp Engn, GR-15773 Zografos, Greece.
+C3 National Technical University of Athens
+RP Natl Tech Univ Athens, Dept Elect & Comp Engn, 9 Iroon Politechneiou Str, GR-15773 Zografos, Greece.
+EM cpapaod@cs.ntua.gr
+RI Papaodysseus, Constantin/JCD-9028-2023; Papaodysseus,
+   Constantin/AAI-6900-2020; Panagopoulos, Athanasios/P-8713-2018
+OI Papaodysseus, Constantin/0000-0002-5238-5833; Panagopoulos,
+   Athanasios/0000-0003-4716-3328
+CR [Anonymous], 1993, Discrete Time Processing of Speech Signals
+   ATAL BS, 1971, J ACOUST SOC AM, V50, P637, DOI 10.1121/1.1912679
+   LEFEVRE GP, 1985, P IEEE ICASSP 1985, V2, P957
+   MAKHOUL J, 1975, P IEEE, V63, P561, DOI 10.1109/PROC.1975.9792
+   MANOULAKIS D, 1987, IEEE CAS, V34
+   PAPAODYSSEUS C, 2000, STOCH ENV RES RISK A, V17, P1
+   PAPAODYSSEUS CN, 1993, IEEE T SIGNAL PROCES, V41, P768, DOI 10.1109/78.193216
+   Rabiner Lawrence, 2010, Digital Processing of Speech Signals
+   SCHROEDER MR, 1985, P ICASSP, V2, P937
+   SLOCK DTM, 1992, SIGNAL PROCESS, V28, P47, DOI 10.1016/0165-1684(92)90064-4
+   SLOCK DTM, 1991, IEEE T SIGNAL PROCES, V39, P92, DOI 10.1109/78.80769
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD APR 20
+PY 2005
+VL 68
+IS 2
+BP 105
+EP 113
+DI 10.1016/j.matcom.2004.10.007
+PG 9
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 925TU
+UT WOS:000229077000002
+DA 2024-07-18
+ER
+
+PT J
+AU Millerioux, G
+   Anstett, F
+   Bloch, G
+AF Millerioux, G
+   Anstett, F
+   Bloch, G
+TI Considering the attractor structure of chaotic maps for observer-based
+   synchronization problems
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article
+DE polytopic observers; chaos synchronization; minimal convex hull
+ID DEPENDENT LYAPUNOV FUNCTIONS; ADAPTIVE SYNCHRONIZATION;
+   DYNAMICAL-SYSTEMS
+AB The main purpose of this paper is to state some sufficient conditions for global synchronization of chaotic maps. The synchronization is viewed as a state reconstruction problem which is tackled by polytopic observers. Unlike most standard observers, polytopic observers can account for a special property of chaotic dynamics. Indeed, it is shown that many chaotic maps can be described in a so-called convexified form, involving a time-varying parameter which depends on the chaotic state vector. Such a form makes it possible to incorporate knowledge on the structure of the compact set wherein the parameter lies. This set depends implicitly on the structure of the chaotic attractor. It is proved that the conservatism of the polyquadratic stability conditions for the state reconstruction, stated in a companion paper, can be reduced when the corresponding Linear Matrix Inequalities involve the vertices of the minimal convex hull of this set. Theoretical developments along with special emphasis on computational aspects are provided and illustrated in the context of adaptive synchronization. (C) 2004 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Univ Nancy 1, CNRS, UMR 7039, CRAN,ESSTIN, F-54519 Vandoeuvre Les Nancy, France.
+C3 Centre National de la Recherche Scientifique (CNRS); Universite de
+   Lorraine
+RP Millerioux, G (corresponding author), Univ Nancy 1, CNRS, UMR 7039, CRAN,ESSTIN, 2 Rue Jean Lamour, F-54519 Vandoeuvre Les Nancy, France.
+EM millerioux@esstin.uhp-nancy.fr
+CR ALLISON DCS, 1994, COMPUT PHYS COMMUN, V103, P74
+   [Anonymous], 1985, COMPUTATIONAL GEOMET, DOI DOI 10.1007/978-1-4612-1098-6
+   ANSTETT F, 2004, P IEEE INT S CIRC SY
+   BECKER G, 1993, P AM CONTR C SAN FRA
+   Blekhman II, 1997, SYST CONTROL LETT, V31, P299, DOI 10.1016/S0167-6911(97)00047-9
+   BLEKHMAN II, 2002, SPECIAL ISSUE CHAOS, V58
+   BLIMAN PA, 2002, P 41 IEEE CONTR DEC
+   Blondel V.D., 1999, Open Problems in Mathematical Systems and Control Theory
+   CHATTERJEE S, 1990, COMPUT STAT DATA AN, V10, P87, DOI 10.1016/0167-9473(90)90105-Q
+   Cruz C, 2000, INT J BIFURCAT CHAOS, V10, P763, DOI 10.1142/S0218127400000530
+   Daafouz J, 2001, SYST CONTROL LETT, V43, P355, DOI 10.1016/S0167-6911(01)00118-9
+   Daafouz J, 2002, MATH COMPUT SIMULAT, V58, P295, DOI 10.1016/S0378-4754(01)00374-3
+   DEDIEU H, 1993, IEEE T CIRCUITS-II, V40, P634, DOI 10.1109/82.246164
+   Devaney RL., 1989, An introduction to chaotic dynamical systems, V2
+   Du CJ, 1996, ADV ENG SOFTW, V27, P21, DOI 10.1016/0965-9978(96)00004-X
+   EDDY WF, 1977, ACM T MATH SOFT, V3
+   ELGHAOUI L, 2000, SIAMS ADV DESIGN CON
+   Feron E, 1996, IEEE T AUTOMAT CONTR, V41, P1041, DOI 10.1109/9.508913
+   Fradkov AL, 1997, IEEE T CIRCUITS-I, V44, P905, DOI 10.1109/81.633879
+   Gahinet P, 1996, IEEE T AUTOMAT CONTR, V41, P436, DOI 10.1109/9.486646
+   Graham R. L., 1973, INFORM PROCESS LETT, V2, P132
+   GUMOWSKI I, 1980, DYNAMIQUE CHAOTIQUE
+   Huijberts HJC, 2001, INT J BIFURCAT CHAOS, V11, P1997, DOI 10.1142/S0218127401003218
+   Kennedy MP, 1997, IEEE T CIRCUITS-I, V44, P853
+   Millerioux G, 2003, INT J BIFURCAT CHAOS, V13, P703, DOI 10.1142/S0218127403006856
+   Nijmeijer H, 1997, IEEE T CIRCUITS-I, V44, P882, DOI 10.1109/81.633877
+   Nijmeijer H, 1997, SYST CONTROL LETT, V31, P259, DOI 10.1016/S0167-6911(97)00042-X
+   OTT E, 1990, PHYS REV LETT, V64, P1196, DOI 10.1103/PhysRevLett.64.1196
+   PARDALOS PM, 1995, COMPUT MATH APPL, V29, P23, DOI 10.1016/0898-1221(95)00015-Q
+   PECORA LM, 1990, PHYS REV LETT, V64, P821, DOI 10.1103/PhysRevLett.64.821
+   PECORA LM, 1991, PHYS REV A, V44, P2374, DOI 10.1103/PhysRevA.44.2374
+   Pogromsky A, 1998, INT J BIFURCAT CHAOS, V8, P2243, DOI 10.1142/S0218127498001832
+   Sira-Ramírez H, 2001, INT J BIFURCAT CHAOS, V11, P1381, DOI 10.1142/S0218127401002778
+   Wu CW, 1996, INT J BIFURCAT CHAOS, V6, P455, DOI 10.1142/S0218127496000187
+   2000, INT J BIFURCAT CHAOS, V10
+NR 35
+TC 16
+Z9 18
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD FEB 3
+PY 2005
+VL 68
+IS 1
+BP 67
+EP 85
+DI 10.1016/j.matcom.2004.10.001
+PG 19
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 898OH
+UT WOS:000227085600006
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Ismailova, BB
+AF Ismailova, BB
+TI Geoinformation modeling of wind-induced surges on the northem-eastern
+   Caspian Sea
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT Conference on Mathematical Modeling of Ecological Systems
+CY SEP 09-12, 2003
+CL Almaty, KAZAKHSTAN
+SP Int Assoc Math & Comp Simulat
+DE geoinformation system; modeling; hydro-dynamic simulation; numerical
+   method; pollution
+AB Shallow north part of the Caspian Sea is part of the most important region of the Caspian Sea. The Northeast part. especially its coastal zone, is unexplored areas of the Caspian Sea. In last years the north part of the Caspian Sea became one of the main sources of pollution of the whole sea. For this reason it is necessary to investigate wind-induced level variations of water at northeast coast of Caspian sea and to reveal ecological damage.
+   The role of mathematical modeling rather increases on the background of the shorted data because it allows numerical experiments in areas, there is not enough or at all not covered the measure data with significant expenditures.
+   To solve the task there has been used the system equation theory of sallow water. Using this method has allowed to study storms of fluctuation in areas, where are absent measurements to simulate catastrophic storms of a situation and to determinate of zones of possible flooding of coast with various marks of a background sea level to make a real and forecast maps of flooding, and also to definite to region of the zones of flooding and maximal marks storm surges (C) 2004 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Minist Educ & Sci, Space Res Inst, Alma Ata 480100, Kazakhstan.
+RP Ismailova, BB (corresponding author), Minist Educ & Sci, Space Res Inst, 15 Shevchenko St, Alma Ata 480100, Kazakhstan.
+CR BAKLANOVSKAJA VF, 1979, CALCULAT MATH MATH P, V19, P708
+   DOBROVOLSKAJA ZN, 1981, WATER RESOU, V3, P33
+   FHIDRICHS KO, 1958, COMMUN PURE APPL MAT, V11, P333
+   HETMAN IR, 1976, WORK GMZ, V164, P61
+   HETMAN IR, 1973, WORK GMZ, V127, P16
+   LICK W, 1976, EPA6001376020
+   PERMINOV SM, 1985, HYDROPHYSICS NO CASP, P25
+   PHELZENBAUM AI, 1976, THEORETICAL BASIS ME, P184
+   SHENG YP, 1978, J PHYS OCEANOGR, V8, P713, DOI 10.1175/1520-0485(1978)008<0713:NCOTDC>2.0.CO;2
+   TITOV VS, 1978, VARIABILITY WATER CI, P147
+   VOLTSINGER NE, 1968, BASIC OCEANOLOGIC PR
+NR 11
+TC 6
+Z9 7
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD DEC 3
+PY 2004
+VL 67
+IS 4-5
+BP 371
+EP 377
+DI 10.1016/j.matcom.2004.06.021
+PG 7
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 880LO
+UT WOS:000225791500013
+DA 2024-07-18
+ER
+
+PT J
+AU Velikanov, AE
+AF Velikanov, AE
+TI About the nature of regional thermal anomaly in Semipalatinsk Test Site
+   region
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT Conference on Mathematical Modeling of Ecological Systems
+CY SEP 09-12, 2003
+CL Almaty, KAZAKHSTAN
+SP Int Assoc Math & Comp Simulat
+DE thermal anomaly; Semipalatinsk Test Site; nuclear reactions;
+   radionuclides
+AB Thermal anomaly with area more than 20,000 km(2) was revealed using space pictures in Semipalatinsk Test Site. It is observed every year in certain days, mainly at winter-spring period. Mostly, it appears in days of intensive precipitations, possible thawing of snow blanket and is accompanied by decreasing of ozone concentration in the atmosphere. Such behaviour of thermal anomaly is explained in the article by nuclear reactions caused by the energy of radioactive decay of radionuclides, which have been deposited in soil after surface and air explosions, and by radiolysis in soil solutions. (C) 2004 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Natl Nucl Ctr RK, Inst Geophys Res, Almaty 480020, Kazakhstan.
+C3 Kazakhstan National Nuclear Center
+RP Velikanov, AE (corresponding author), Natl Nucl Ctr RK, Inst Geophys Res, 4 Chaikina Str, Almaty 480020, Kazakhstan.
+EM erdas@kndc.kz
+OI Velikanov, Alexandr/0009-0009-2322-3163
+CR ALEKSANDROV EL, 1992, OZONE SHIELD EARTH I, P9
+   [Anonymous], WEATHER OBSERVATION
+   *EP TOMS, 1997, TOT OZ
+   KOPNICHEV YF, 2001, GEOPHYSICS PROBLEMS, P106
+   PIKAYEV AK, 1985, MODERN RAD CHEM, P95
+   SHALINETS AB, 1981, RADIOACTIVE ELEMENTS
+   SULTANGAZIN UM, 1997, REMOTE SENSING THERM, P51
+   VELIKANOVA AA, 2003, 29 REP RES PRAC C MI, P68
+   ABNORMAL THERMAL ZON
+   1977, POPULAR LIB CHEM ELE
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD DEC 3
+PY 2004
+VL 67
+IS 4-5
+BP 459
+EP 465
+DI 10.1016/j.matcom.2004.06.024
+PG 7
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 880LO
+UT WOS:000225791500023
+DA 2024-07-18
+ER
+
+PT J
+AU Zhantaev, ZS
+   Postoev, JK
+   Stepanova, TB
+   Khachikyan, VS
+AF Zhantaev, ZS
+   Postoev, JK
+   Stepanova, TB
+   Khachikyan, VS
+TI To the construction of spatial distribution of electron concentration
+   over Kazakhstan, using the IRI model corrected by ionospheric data
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT Conference on Mathematical Modeling of Ecological Systems
+CY SEP 09-12, 2003
+CL Almaty, KAZAKHSTAN
+SP Int Assoc Math & Comp Simulat
+DE spatial distribution; electron concentration; ionosphere; linear
+   regression equation; radio communication systems
+AB Using the IRI model, corrected by ionospheric data measured in Almaty, the N(h)-profiles in Karaganda and Novo-Kazalinsk are estimated. Comparison with available experimental data shows that the precision of profile reconstruction is about 10%. (C) 2004 Published by Elsevier B.V. on behalf of IMACS.
+C1 Minist Educ & Sci, Inst Ionosphere, Almaty 480020, Kazakhstan.
+C3 Institute of Ionosphere
+RP Postoev, JK (corresponding author), Minist Educ & Sci, Inst Ionosphere, Almaty 480020, Kazakhstan.
+EM adm@ionos.alma-ata.su
+OI Khachikyan, Vladislav/0000-0001-7655-6097
+CR POSTOEV JK, 2000, P 2 INT SCI TECHN C, P236
+   WILKINSON PJ, 1994, SOLAR TERRESTRIAL, P496
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD DEC 3
+PY 2004
+VL 67
+IS 4-5
+BP 399
+EP 402
+DI 10.1016/j.matcom.2004.06.014
+PG 4
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 880LO
+UT WOS:000225791500016
+DA 2024-07-18
+ER
+
+PT J
+AU Chaabane, S
+   Elhechmi, C
+   Jaoua, M
+AF Chaabane, S
+   Elhechmi, C
+   Jaoua, M
+TI A stable recovery method for the Robin inverse problem
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT Workshop on Inverse Obstacle Problems
+CY NOV 04-06, 2002
+CL Lisbon, PORTUGAL
+SP FCT
+DE inverse problem; Robin coefficient; stability; recovery algorithms
+ID IDENTIFICATION; CORROSION; DAMAGE
+AB We consider the inverse problem of identifying a Robin coefficient by performing measurement on some part of the boundary. After turning the inverse problem to an optimisation one by using a Kohn and Vogelius cost function, we study the stability of this method and present some numericals experiments using synthetic data. (C) 2004 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 LAMSIN, ENIT, Tunis 1002, Tunisia.
+   LAMSIN, ENIT, Sfax 3038, Tunisia.
+C3 Universite de Tunis-El-Manar; Ecole Nationale d'Ingenieurs de Tunis
+   (ENIT); Universite de Tunis-El-Manar; Ecole Nationale d'Ingenieurs de
+   Tunis (ENIT)
+RP Jaoua, M (corresponding author), LAMSIN, ENIT, BP 37, Tunis 1002, Tunisia.
+EM slim.chaabane@fsm.rnu.tn; chokri.elhechmi@issatm.rnu.tn;
+   mohamed.jaoua@enit.rnu.tn
+CR Alessandrini G, 2003, INVERSE PROBL, V19, P973, DOI 10.1088/0266-5611/19/4/312
+   [Anonymous], 1999, Analyse Fonctionnelle: Theorie et applications
+   Chaabane S, 2004, INVERSE PROBL, V20, P47, DOI 10.1088/0266-5611/20/1/003
+   Chaabane S, 1999, INVERSE PROBL, V15, P1425, DOI 10.1088/0266-5611/15/6/303
+   Chaabane S, 2000, ESAIM-MATH MODEL NUM, V34, P707, DOI 10.1051/m2an:2000163
+   CHAABANE S, 2003, INT J INVERSE ILL PO, V11, P35
+   CHOULLI M, 2002, P PICOF 02 C CARTH T
+   Fasino D, 1999, INVERSE PROBL, V15, P41, DOI 10.1088/0266-5611/15/1/008
+   FASINO D, 1998, IMA J NUMER ANAL, V14, P1
+   Inglese G, 1997, INVERSE PROBL, V13, P977, DOI 10.1088/0266-5611/13/4/006
+   Kaup PG, 1996, INVERSE PROBL, V12, P279, DOI 10.1088/0266-5611/12/3/008
+   Santosa F, 1998, Z ANGEW MATH PHYS, V49, P656, DOI 10.1007/s000000050114
+   Santosa F., 1999, Q APPL MATH, V56, P479
+NR 13
+TC 36
+Z9 39
+U1 0
+U2 3
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD JUL 21
+PY 2004
+VL 66
+IS 4-5
+BP 367
+EP 383
+DI 10.1016/j.matcom.2004.02.016
+PG 17
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 842GU
+UT WOS:000222992500010
+DA 2024-07-18
+ER
+
+PT J
+AU Shen, M
+   Saikin, S
+   Cheng, MC
+   Privman, V
+AF Shen, M
+   Saikin, S
+   Cheng, MC
+   Privman, V
+TI Monte Carlo modeling of spin FETs controlled by spin-orbit interaction
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT Workshop on Wave Phenomena in Physics and Engineering
+CY MAY, 2003
+CL Montreal, CANADA
+DE spintronics; spin orbit; FET; Monte Carlo
+ID RELAXATION; TRANSPORT; INJECTION; ELECTRONS; SEMICONDUCTORS;
+   SPINTRONICS; LIGHT; DRIFT
+AB A method for Monte Carlo simulation of 2D spin-polarized electron transport in III-V semiconductor heterojunction (FETs) is presented. In the simulation, the dynamics of the electrons in coordinate and momentum space is treated semiclassically. The density matrix description of the spin is incorporated in the Monte Carlo method to account for the spin polarization dynamics. The spin-orbit interaction in the spin FET leads to both coherent evolution and dephasing of the electron spin polarization. Spin-independent scattering mechanisms, including optical phonons, acoustic phonons and ionized impurities, are implemented in the simulation. The electric field is determined self-consistently from the charge distribution resulting from the electron motion. Description of the Monte Carlo scheme is given and simulation results are reported for temperatures in the range 77-300 K. (C) 2004 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Clarkson Univ, Ctr Quantum Device Technol, Dept Elect & Comp Engn, Potsdam, NY 13699 USA.
+   Clarkson Univ, Dept Phys, Potsdam, NY 13699 USA.
+   Kazan VI Lenin State Univ, Dept Phys, Kazan 420008, Russia.
+C3 Clarkson University; Clarkson University; Kazan Federal University
+RP Privman, V (corresponding author), Clarkson Univ, Ctr Quantum Device Technol, Dept Elect & Comp Engn, Potsdam, NY 13699 USA.
+EM privman@clarkson.edu
+RI Saikin, Semion K./A-3989-2010
+OI Saikin, Semion K./0000-0003-1924-3961
+CR Awschalom DD, 2002, SCI AM, V286, P66, DOI 10.1038/scientificamerican0602-66
+   Barry EA, 2003, APPL PHYS LETT, V82, P3686, DOI 10.1063/1.1578180
+   Blum K., 2012, Density Matrix Theory and Applications
+   Bournel A, 2001, PHYSICA E, V10, P86, DOI 10.1016/S1386-9477(01)00059-5
+   Britton RS, 1998, APPL PHYS LETT, V73, P2140, DOI 10.1063/1.122403
+   BYCHKOV YA, 1984, J PHYS C SOLID STATE, V17, P6039, DOI 10.1088/0022-3719/17/33/015
+   CAHAY M, 2003, PHYS REV B, V68
+   CARDONA M, 1988, PHYS REV B, V38, P1806, DOI 10.1103/PhysRevB.38.1806
+   CHENG M, 1988, J APPL PHYS, V63, P2322, DOI 10.1063/1.341048
+   Cheng MC, 1997, J PHYS D APPL PHYS, V30, P2343, DOI 10.1088/0022-3727/30/16/013
+   Ciuti C, 2002, APPL PHYS LETT, V81, P4781, DOI 10.1063/1.1530737
+   Das Sarma S, 2001, AM SCI, V89, P516
+   Das Sarma S, 2000, IEEE T MAGN, V36, P2821, DOI 10.1109/20.908600
+   DATTA S, 1990, APPL PHYS LETT, V56, P665, DOI 10.1063/1.102730
+   DRESSELHAUS G, 1955, PHYS REV, V100, P580, DOI 10.1103/PhysRev.100.580
+   DYAKONOV MI, 1971, SOV PHYS JETP-USSR, V33, P1053
+   DYAKONOV MI, 1986, SOV PHYS SEMICOND+, V20, P110
+   ELLIOTT RJ, 1954, PHYS REV, V96, P266, DOI 10.1103/PhysRev.96.266
+   Fabian J, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.165301
+   Fiederling R, 1999, NATURE, V402, P787, DOI 10.1038/45502
+   FISCHETTI MV, 1995, DEMOCLES THEORETICAL
+   FISHMAN G, 1977, PHYS REV B, V16, P820, DOI 10.1103/PhysRevB.16.820
+   Flatté ME, 2001, APPL PHYS LETT, V78, P1273, DOI 10.1063/1.1348317
+   Gantmakher V. F., 1987, Modern problems in condensed matter sciences, V19
+   Hanbicki AT, 2002, APPL PHYS LETT, V80, P1240, DOI 10.1063/1.1449530
+   Hess K., 1991, Monte Carlo Device Simulation: Full Band and Beyond
+   Inoue J, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.033104
+   JACOBONI C, 1983, REV MOD PHYS, V55, P645, DOI 10.1103/RevModPhys.55.645
+   JOHNSON M, 1993, SCIENCE, V260, P320, DOI 10.1126/science.260.5106.320
+   KANE BE, 1992, PHYS REV B, V46, P7264, DOI 10.1103/PhysRevB.46.7264
+   Kiselev AA, 2000, PHYS REV B, V61, P13115, DOI 10.1103/PhysRevB.61.13115
+   Koga T, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.126601
+   Mani RG, 2002, PHYSICA E, V12, P152, DOI 10.1016/S1386-9477(01)00290-9
+   Mattana R, 2003, PHYS REV LETT, V90, DOI [10.1103/PhysRevLett.90.166601, 10.1103/PhysRevLett.166601]
+   Mireles F, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.024426
+   Mitin V.V., 1999, QUANTUM HETEROSTRUCT
+   Moglestue C, 2013, Monte Carlo Simulation of Semiconductor Devices
+   Motsnyi VF, 2002, APPL PHYS LETT, V81, P265, DOI 10.1063/1.1491010
+   Nitta J, 1997, PHYS REV LETT, V78, P1335, DOI 10.1103/PhysRevLett.78.1335
+   Ohno Y, 1999, PHYS REV LETT, V83, P4196, DOI 10.1103/PhysRevLett.83.4196
+   PRAMANIK S, 2003, PHYS REV B, V67
+   Reggiani L., 1985, TOPICS APPL PHYS, V58
+   Saikin S, 2003, J APPL PHYS, V94, P1769, DOI 10.1063/1.1589581
+   Sanada H, 2002, APPL PHYS LETT, V81, P2788, DOI 10.1063/1.1512818
+   Sato Y, 2002, PHYSICA E, V12, P399, DOI 10.1016/S1386-9477(01)00310-1
+   Schäpers T, 2002, PHYSICA E, V13, P564, DOI 10.1016/S1386-9477(02)00171-6
+   Schliemann J, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.146801
+   Schmidt G, 2002, SEMICOND SCI TECH, V17, P310, DOI 10.1088/0268-1242/17/4/304
+   SCMIDT G, 2002, CONDMAT0206347
+   Tomizawa K., 1993, Numerical Simulation of Submicron Semiconductor Devices
+   VALET T, 1993, PHYS REV B, V48, P7099, DOI 10.1103/PhysRevB.48.7099
+   Wang XF, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165217
+   Weng MQ, 2003, J APPL PHYS, V93, P410, DOI 10.1063/1.1526936
+   Wolf SA, 2001, SCIENCE, V294, P1488, DOI 10.1126/science.1065389
+   YI Q, 2003, PHYS REV B, V67
+   Yu ZG, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.235302
+   Zutic I, 2001, APPL PHYS LETT, V79, P1558, DOI 10.1063/1.1399002
+   [No title captured]
+NR 58
+TC 19
+Z9 19
+U1 0
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD MAY 11
+PY 2004
+VL 65
+IS 4-5
+BP 351
+EP 363
+DI 10.1016/j.matcom.2004.01.007
+PG 13
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 823GP
+UT WOS:000221598400005
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Pinheiro, AC
+   Peça, JO
+AF Pinheiro, AC
+   Peça, JO
+TI Forage drying models for oats and vetches under Mediterranean climate
+   conditions
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT IMACS/IFAC Fourth International Symposium on Mathematical Modelling and
+   Simulation in Agricultural and Bio-Industries
+CY JUN 12-14, 2001
+CL Haifa, ISRAEL
+SP IMACS, IFAC
+DE forage; oats; vetches; field drying; mowers; conditioning effect; rakes;
+   modelling; weather variables; operational factors
+ID HAY; EVAPORATION; ALFALFA; RATES
+AB This paper reports the results of experimental and model studies of the field drying process of forage composed of oats and vetches. Under Mediterranean conditions, the drying process was observed in two consecutive years. Different cutting dates, different mowers, with and without conditioners, and different raking treatments were compared for their effect on forage moisture content reduction during the haymaking process. Physically based models were developed to determine the influence of weather and operational factors, that have major influences on the drying process in the field of the whole swath, oats, vetches and "other species". Among the operational factors, the conditioning effect was always the most important in the prediction equations, modelling the whole swath field drying process. Raking 24 h after mowing also had a positive influence on moisture loss. Vapour pressure deficit and wind velocity were the weather variables that had the greatest influence on the drying process. In the equation developed to predict the drying of the swath components, the drying rate of oats was influenced by that of both the vetches and other species, and vice versa. (C) 2003 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Univ Evora, Rural Engn Dept, P-7002554 Evora, Portugal.
+C3 University of Evora
+RP Pinheiro, AC (corresponding author), Univ Evora, Rural Engn Dept, Apartado 94, P-7002554 Evora, Portugal.
+EM pinheiro@uevora.pt
+OI Peca, Jose/0000-0002-2718-0596
+CR BRUCK IGM, 1969, J AGR ENG RES, V14, P105, DOI 10.1016/0021-8634(69)90084-5
+   CORRIE WJ, 1975, DNSY5631957 NAT I AG
+   DALE JG, 1978, 785030 ASAE
+   FIRESTONE RL, 1988, T ASAE, V31, P52
+   FIRESTONE RL, 1988, T ASAE, V31, P62
+   GLASBEY CA, 1985, SIN480 SCOTT I AGR E
+   Henderson S.M., 1955, AGR PROCESS ENG
+   HOLMES R. M., 1958, CANADIAN JOUR PLANT SCI, V38, P164
+   KEMP JG, 1968, CAN J PLANT SCI, V48, P554, DOI 10.4141/cjps68-105
+   KEMP JG, 1972, T ASAE, V15, P723
+   Lewis WK, 1921, J IND ENG CHEM-US, V13, P427, DOI 10.1021/ie50137a021
+   MCGECHAN MB, 5 SCOTT I AGR ENG
+   MCGECHAN MB, SIN434 SCOTT I AGR E
+   MCGECHAN MB, SIN462 SCOTT I AGR E
+   PARK D, 1979, DNSY92011007 NAT I A
+   PARK D, 1978, J BR GRASSLAND SOC, V3, P261
+   PATTEY E, 1988, CAN AGR ENG, V30, P43
+   PITT RE, 1982, T ASAE, V25, P549
+   PITT RE, 1984, T ASAE, V27, P1933
+   PITT RE, 1982, T ASAE, V25, P562
+   ROBERTSON GW, 1957, INT ASS SCI HYDROL I, V3, P399
+   ROBERTSON GW, 1954, LATENT EVAPORATION I
+   ROTZ CA, 1985, T ASAE, V28, P1686
+   Savoie P., 1990, Applied Engineering in Agriculture, V6, P138
+   SAVOIE P, 1982, T ASAE, V25, P581
+   SAVOIE P, 1990, T ASAE, V33, P1790, DOI 10.13031/2013.31541
+   Sherwood TK, 1929, IND ENG CHEM, V21, P12, DOI 10.1021/ie50229a004
+   SMITH EA, 1988, J AGR ENG RES, V41, P251, DOI 10.1016/0021-8634(88)90212-0
+   SPATZ G, 1969, TROCKNUNGSVERLAUF HE
+   SPENCER HB, 1987, SIN484 SCOTT I AGR E
+   THOMPSON N, 1981, J AGR SCI-CAMBRIDGE, V97, P241, DOI 10.1017/S0021859600040685
+   Van Eimern J., 1968, BAYERISCHES LANDWIRT, V45, P350
+   Von Bargen K., 1966, T ASAE, V9, P768
+   VONBARGEN K, 1966, T ASAE, V9, P773
+NR 34
+TC 3
+Z9 4
+U1 1
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD APR 9
+PY 2004
+VL 65
+IS 1-2
+BP 87
+EP 100
+DI 10.1016/j.matcom.2003.09.011
+PG 14
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 818IX
+UT WOS:000221239900010
+DA 2024-07-18
+ER
+
+PT J
+AU Foroni, I
+   Gardini, L
+   Rosser, JB
+AF Foroni, I
+   Gardini, L
+   Rosser, JB
+TI Adaptive and statistical expectations in a renewable resource market
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article
+DE adaptive models; statistical learning; fishery models; complex basins;
+   global bifurcations
+ID DYNAMICS
+AB Rational expectations models have increasingly been replaced by models with various forms of learning. This paper studies the global dynamics of a model of renewable resource markets due to Hommes and Rosser [Macroecon. Dyn. 5 (2001) 180] under adaptive and statistical learning systems. The statistical learning system is seen to generate greater complexity of the structures of the basins of attraction, especially at higher discount rates. An element of particular interest is that bifurcations generating lobes in the basins arise from particular focal points, associated with prefocal sets at infinity on the Poincare equator in the statistical learning model. (C) 2003 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Univ Urbino, Inst Econ, I-61029 Urbino, Italy.
+   Univ Bicocca Milano, I-20126 Milan, Italy.
+   James Madison Univ, Dept Econ, Harrisonburg, VA 22807 USA.
+C3 University of Urbino; University of Milano-Bicocca; James Madison
+   University
+RP Univ Urbino, Inst Econ, Via Saffi 2, I-61029 Urbino, Italy.
+EM gardini@uniurb.it
+OI FORONI, ILARIA/0000-0002-5296-531X
+CR Agliari A, 2000, CHAOS SOLITON FRACT, V11, P961, DOI 10.1016/S0960-0779(98)00258-6
+   AGLIARI A, 2000, SOLITONS FRACTALS, V11, P2531
+   Aicardi F, 1992, INT J BIFURCAT CHAOS, V2, P815, DOI 10.1142/S0218127492000458
+   [Anonymous], 1991, From catastrophe to chaos: A general theory of economic discontinuities
+   [Anonymous], 1993, Bounded Rationality in Macroeconomics
+   [Anonymous], MARINE RESOURCE EC
+   Bischi GI, 1999, INT J BIFURCAT CHAOS, V9, P119, DOI 10.1142/S0218127499000079
+   Bischi GI, 2001, MACROECON DYN, V5, P148, DOI 10.1017/S1365100501019022
+   Bischi GI, 2001, J ECON BEHAV ORGAN, V46, P73, DOI 10.1016/S0167-2681(01)00188-3
+   Bischi GI, 1997, INT J BIFURCAT CHAOS, V7, P1555, DOI 10.1142/S0218127497001229
+   BISCHI GI, 1996, 39 U URB
+   BISCHI GI, IN PRESS INT J BIFUR
+   BISCHI GI, 1996, 36 U URB FAC EC
+   BISCHI GI, 1997, EC NOTES, V26, P143
+   BISCHI GI, 2000, 9 U PARMA
+   BLANCHARD OJ, 1981, AM ECON REV, V71, P132
+   CHIARELLA C, 1986, ECON MODEL, V3, P283, DOI 10.1016/0264-9993(86)90029-5
+   CHIARELLA C, 1991, ANN OPER RES, V37, P101
+   Chiarella C., 1991, EUR J POLIT ECON, V7, P65
+   Clark C. W., 1990, MATH BIOECONOMICS OP
+   Conlisk J, 1996, J ECON LIT, V34, P669
+   COPES P, 1970, SCOT J POLIT ECON, V17, P69, DOI 10.1111/j.1467-9485.1970.tb00487.x
+   Evans G.W., 1995, Learning, and Rationality, in Economics, P216
+   FLASHEL P, 1999, ECON MODELL, V2, P307
+   FORONI I, 2001, THESIS U TRIESTE
+   FRIEDMAN BM, 1979, J MONETARY ECON, V5, P23, DOI 10.1016/0304-3932(79)90022-9
+   Gordon HS, 1954, J POLIT ECON, V62, P124, DOI 10.1086/257497
+   HEINER RA, 1989, J ECON BEHAV ORGAN, V12, P233, DOI 10.1016/0167-2681(89)90057-7
+   Hommes C, 1998, MACROECON DYN, V2, P287, DOI 10.1017/S1365100598008013
+   Hommes CH, 1998, J ECON BEHAV ORGAN, V33, P333, DOI 10.1016/S0167-2681(97)00062-0
+   HOMMES CH, 1991, ECON LETT, V36, P127, DOI 10.1016/0165-1765(91)90176-L
+   Hommes CH, 2001, MACROECON DYN, V5, P180, DOI 10.1017/S1365100501019034
+   LUCAS RE, 1986, J BUSINESS, V59
+   LUCAS RE, RATIONAL EXPECTATION, V1
+   Marimon R., 1997, ADV EC ECONOMETRICS, VI
+   Mira C., 1987, Chaotic dynamics
+   MIRA C, 1996, CHAOTIC DYNAMICS 2 A
+   Rosser JB, 2001, ECOL ECON, V37, P23, DOI 10.1016/S0921-8009(00)00259-7
+   Sargent T., 1998, CONQUEST AM INFLATIO
+   SCHAEFER MB, 1957, J FISH RES BOARD CAN, V14, P669, DOI 10.1139/f57-025
+   Thaler R.H., 1992, WINNERS CURSE PARADO
+NR 41
+TC 17
+Z9 17
+U1 0
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD NOV 24
+PY 2003
+VL 63
+IS 6
+BP 541
+EP 567
+DI 10.1016/S0378-4754(03)00063-6
+PG 27
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Mathematics
+GA 751FC
+UT WOS:000187041300005
+DA 2024-07-18
+ER
+
+PT J
+AU Ianovsky, E
+   Kreimer, J
+AF Ianovsky, E
+   Kreimer, J
+TI Optimization of real-time multiserver system with two different channels
+   and shortage of maintenance facilities
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article
+DE assignment probabilities; availability; loss penalty; maintenance;
+   real-time system
+ID NONIDENTICAL CHANNELS; MULTICHANNEL SYSTEMS; SCHEDULING PROBLEM;
+   DATA-ACQUISITION; ALGORITHMS
+AB We present optimality conditions for real-time multiserver system with large number of identical servers (e.g. unmanned air vehicles, machine controllers, etc.) and two non-identical channels (e.g. surveillance regions, assembly lines, etc.) working under maximum load regime with limited maintenance facilities. Real-time systems are responsible for operations management of increasingly sensitive applications, particularly those in which failures to satisfy temporal restrictions can lead to serious or even dangerous consequences. Optimization of these systems is very important. We calculate limiting values of system availability and its loss penalty function and show how to obtain optimal assignment probabilities which optimize (maximize and minimize, respectively) these performance measures. (C) 2003 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Ben Gurion Univ Negev, Dept Ind Engn & Management, IL-84105 Beer Sheva, Israel.
+C3 Ben Gurion University
+RP Ianovsky, E (corresponding author), Ben Gurion Univ Negev, Dept Ind Engn & Management, POB 653, IL-84105 Beer Sheva, Israel.
+CR [Anonymous], 1960, A First Course in Stochastic Process
+   [Anonymous], 1997, TABU SEARCH
+   DHALL SK, 1978, OPER RES, V26, P127, DOI 10.1287/opre.26.1.127
+   FEO TA, 1991, COMPUT OPER RES, V18, P635, DOI 10.1016/0305-0548(91)90001-8
+   FEO TA, 1989, OPER RES LETT, V8, P67, DOI 10.1016/0167-6377(89)90002-3
+   GARVEY A, 1993, SURVEY RES DELIBERAT, P84
+   Gross D., 1998, FUNDAMENTALS QUEUEIN
+   HO YC, 1991, PERTURBATION ANAL DI
+   IANOVSKY E, 2001, COMMUN DEPEND QUAL M, V4, P16
+   KIRKPATRICK S, 1983, SCIENCE, V220, P671, DOI 10.1126/science.220.4598.671
+   KREIMER J, 1993, EUR J OPER RES, V69, P50, DOI 10.1016/0377-2217(93)90089-6
+   KREIMER J, 1994, OPER RES, V42, P24, DOI 10.1287/opre.42.1.24
+   Kreimer J, 2002, IEEE T RELIAB, V51, P91, DOI 10.1109/24.994922
+   Kreimer J, 2002, COMPUT OPER RES, V29, P1465, DOI 10.1016/S0305-0548(01)00042-9
+   Kreimer J, 1999, MATH COMPUT MODEL, V30, P169, DOI 10.1016/S0895-7177(99)00206-X
+   Kreimer J, 1998, J OPER RES SOC, V49, P1095, DOI 10.2307/3010533
+   Kreimer J, 2000, MATH COMPUT SIMULAT, V53, P85, DOI 10.1016/S0378-4754(00)00171-3
+   KREIMER J, 1999, COMMUN DEPENDABILITY, V2, P16
+   Labetoulle J., 1974, Computer Architectures and Networks, P285
+   LAFFEY TJ, 1988, AI MAG, V9, P27
+   Litoiu M, 1997, EUR J OPER RES, V100, P475, DOI 10.1016/S0377-2217(96)00094-X
+   LIU CL, 1973, J ACM, V20, P46, DOI 10.1145/321738.321743
+   NAOR P, 1956, J ROY STAT SOC B, V18, P280
+   Potvin J.-Y., 1996, INFORMS Journal of Computing, V8, P165, DOI 10.1287/ijoc.8.2.165
+   Potvin JY, 1996, ANN OPER RES, V63, P339
+   Rubinstein R.Y., 1993, DISCRETE EVENT SYSTE
+   Seguin R, 1997, J OPER RES SOC, V48, P162, DOI 10.1057/palgrave.jors.2600341
+   SERLIN O, 1972, P JOINT COMPUTERS C, V40, P925
+   STROSNIDER JK, 1993, AI MAG, V14, P45
+NR 29
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD NOV 24
+PY 2003
+VL 63
+IS 6
+BP 615
+EP 627
+DI 10.1016/S0378-4754(03)00092-2
+PG 13
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 751FC
+UT WOS:000187041300009
+DA 2024-07-18
+ER
+
+PT J
+AU Ladde, GS
+   Lawrence, BA
+AF Ladde, GS
+   Lawrence, BA
+TI On joint probability density functions of discrete time iterative
+   processes
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article
+DE density function; Liouville's Theorem
+AB In this work, we develop an algorithm for determining the marginal probability density function of the solution processes of a nonlinear non-stationary discrete time iterative process with random parameters. The results include the case of degenerate random initial states. As a by-product of our study, the special case when the initial state is non-degenerate is addressed. (C) 2003 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Univ Texas, Dept Math, Arlington, TX 76019 USA.
+   Marshall Univ, Dept Math, Huntington, WV USA.
+C3 University of Texas System; University of Texas Arlington; Marshall
+   University
+RP Ladde, GS (corresponding author), Univ Texas, Dept Math, Arlington, TX 76019 USA.
+CR [Anonymous], 1992, MATH STAT
+   BELLOMO N, 1979, MECH RES COMMUN, V6, P75, DOI 10.1016/0093-6413(79)90016-8
+   HARLOW DG, 1991, MATH COMPUT SIMULAT, V33, P243, DOI 10.1016/0378-4754(91)90122-J
+   Hogg RV., 1978, Introduction to Mathematical Statistics, V4
+   Ladde G.S., 1980, RANDOM DIFFERENTIAL
+   LADDE GS, 1988, J MATH PHY SCI, V22, P557
+   LADDE GS, 2003, STOCHASTIC VERSUS DE
+   LORD ME, 1979, J I MATH APPL, V23, P285
+   Soong T.-T., 1973, RANDOM DIFFERENTIAL
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD NOV 24
+PY 2003
+VL 63
+IS 6
+BP 629
+EP 650
+DI 10.1016/S0378-4754(03)00093-4
+PG 22
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 751FC
+UT WOS:000187041300010
+DA 2024-07-18
+ER
+
+PT J
+AU Chiasson, J
+   Tolbert, L
+   McKenzie, K
+   Du, Z
+AF Chiasson, J
+   Tolbert, L
+   McKenzie, K
+   Du, Z
+TI Real-time computer control of a multilevel converter using the
+   mathematical theory of resultants
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT Electrimacs 2002 Meeting
+CY AUG 18-21, 2002
+CL MONTREAL, CANADA
+DE multilevel inverter; multilevel converter; resultants; dual processors;
+   real-time; cascade inverter
+ID DRIVES
+AB The mathematical theory of resultants is used to compute the switching angles in a multilevel converter so that it produces the required fundamental voltage while at the same time cancels out unwanted order harmonics. Experimental results are given for the three dc source case. It is shown that for a range of the modulation index the switching angles can be chosen to produce the desired fundamental while at the same time the fifth and seventh harmonics are identically zero. (C) 2003 IMACS. Published by Elsevier B.V. All rights reserved.
+C1 Univ Tennessee, Dept Elect & Comp Engn, Knoxville, TN 37996 USA.
+C3 University of Tennessee System; University of Tennessee Knoxville
+RP Chiasson, J (corresponding author), Univ Tennessee, Dept Elect & Comp Engn, Knoxville, TN 37996 USA.
+OI Tolbert, Leon/0000-0002-7285-609X
+CR Chen C. T., 1999, Linear Systems Theory and Design
+   CUNNYNGHAM T, 2001, THESIS U TENNESSEE
+   Kailath T., 1980, LINEAR SYSTEMS, V156
+   KLABUNDE M, 1994, P C REC 1994 IEEE IA, P2348
+   Lai JS, 1996, IEEE T IND APPL, V32, P509, DOI 10.1109/28.502161
+   MENZIES RW, 1994, IEEE T IND APPL, V30, P938, DOI 10.1109/28.297910
+   SINHA G, 1996, P IEEE IAS 96 C, P980
+   STEINKE K, 1988, P IEEE PESC, P431
+   Tolbert LM, 2002, IEEE T IND ELECTRON, V49, P1058, DOI 10.1109/TIE.2002.803213
+   Tolbert LM, 2000, IEEE T POWER ELECTR, V15, P719, DOI 10.1109/63.849042
+   Tolbert LM, 1999, IEEE T IND APPL, V35, P36, DOI 10.1109/28.740843
+   Tolbert LM, 1999, IEEE T IND APPL, V35, P1098, DOI 10.1109/28.793371
+   ZHANG J, 1995, P IEEE IAS 95 C, P22
+NR 13
+TC 25
+Z9 26
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD NOV 17
+PY 2003
+VL 63
+IS 3-5
+SI SI
+BP 197
+EP 208
+DI 10.1016/S0378-4754(03)00067-3
+PG 12
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 751FB
+UT WOS:000187041200007
+DA 2024-07-18
+ER
+
+PT J
+AU Flahive, ME
+AF Flahive, ME
+TI The quality parameter for digital (<i>t</i>, <i>m</i>, <i>s</i>)-nets
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT 3rd IMACS Seminar on Monte Carlo Methods (MCM 2001)
+CY SEP 10-14, 2001
+CL SALZBURG, AUSTRIA
+DE continued fractions; finite fields; digital nets
+ID SETS
+AB The theory of continued fractions over finite fields has been used to identify good digital (t, m, 2)-nets. In this article, we generalize some techniques from real diophantine approximation which can be helpful for locating good candidates for (t, m, s)-nets for s greater than or equal to 3. We include some computational results for binary (t, m, 3)-nets. (C) 2002 IMACS. Published by Elsevier Science B.V. All rights reserved.
+C1 Oregon State Univ, Dept Math, Corvallis, OR 97331 USA.
+C3 Oregon State University
+RP Oregon State Univ, Dept Math, Corvallis, OR 97331 USA.
+EM flahive@math.orst.edu
+CR BAUM LE, 1976, ANN MATH, V103, P593, DOI 10.2307/1970953
+   HANSEN T, 1993, MATH COMPUT, V61, P225, DOI 10.2307/2152949
+   Larcher G, 1996, SIAM J NUMER ANAL, V33, P2239, DOI 10.1137/S0036142994264705
+   LARCHER G, 1998, LECT NOTES STAT, V138, P167
+   MESIROV JP, 1987, J NUMBER THEORY, V27, P144, DOI 10.1016/0022-314X(87)90058-8
+   NIEDERREITER H, 1992, CZECH MATH J, V42, P143
+   NIEDERREITER H, 1998, LECT NOTES STAT, V138, P267
+   NIEDERREITER H, 1992, CBMS NSF SERIES APPL, pCH4
+   OSTROWSKI A, 1923, ABH MATH SEM HAMBURG, V1, P77
+   Pirsic G, 2001, J COMPLEXITY, V17, P827, DOI 10.1006/jcom.2001.0597
+   Schmid WC, 2000, MONTE CARLO AND QUASI-MONTE CARLO METHODS 1998, P436
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD MAR 3
+PY 2003
+VL 62
+IS 3-6
+BP 327
+EP 333
+AR PII S0378-4754(02)00240-9
+DI 10.1016/S0378-4754(02)00240-9
+PG 7
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 656JU
+UT WOS:000181605300013
+DA 2024-07-18
+ER
+
+PT J
+AU Schürer, R
+AF Schürer, R
+TI A comparison between (quasi-)Monte Carlo and cubature rule based methods
+   for solving high-dimensional integration problems
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT 3rd IMACS Seminar on Monte Carlo Methods (MCM 2001)
+CY SEP 10-14, 2001
+CL SALZBURG, AUSTRIA
+DE numerical integration; Monte Carlo; quasi-Monte Carlo; cubature rule
+AB Algorithms for estimating the integral over hyper-rectangular regions are discussed. Solving this problem in high dimensions is usually considered a domain of Monte Carlo and quasi-Monte Carlo methods, because their power degrades little with increasing dimension. These algorithms are compared to integration routines based on interpolatory cubature rules, which are usually only used in low dimensions. Adaptive as well as non-adaptive algorithms based on a variety of rules result in a Wide range of different integration routines. Empirical tests performed with Genz's test function package show that cubature rule based algorithms can provide more accurate results than quasi-Monte Carlo routines for dimensions up to s = 100. (C) 2003 IMACS. Published by Elsevier Science B.V. All rights reserved.
+C1 Salzburg Univ, Dept Math, A-5020 Salzburg, Austria.
+C3 Salzburg University
+EM rudolf.schuerer@sbg.ac.at
+CR BRATLEY P, 1988, ACM T MATH SOFTWARE, V14, P88, DOI 10.1145/42288.214372
+   BRATLEY P, 1994, ACM T MATH SOFTWARE, V20, P494, DOI 10.1145/198429.198436
+   Genz A., 1984, TOOLS METHODS LANGUA, P81
+   Genz A.C., 1980, J COMPUT APPL MATH, V6, P295, DOI [10.1016/0771-050X(80)90039-X, DOI 10.1016/0771-050X(80)90039-X]
+   HAMMER PC, 1958, TABLES OTHER AIDS CO, V12, P272
+   Kocis L, 1997, ACM T MATH SOFTWARE, V23, P266, DOI 10.1145/264029.264064
+   Matsumoto M., 1998, ACM Transactions on Modeling and Computer Simulation, V8, P3, DOI 10.1145/272991.272995
+   PHILLIPS GM, 1967, COMPUT J, V10, P297, DOI 10.1093/comjnl/10.3.297
+   Schurer R., 2001, Computational Science - ICCS 2001. International Conference. Proceedings, Part I (Lecture Notes in Computer Science Vol.2073), P1262
+   STENGER F, 1963, THESIS U ALBERTA CAN
+   Stroud A., 1971, Approximate Calculation of Multiple Integrals
+   Stroud A., 1957, MATH COMPUT, V11, P257, DOI DOI 10.1090/S0025-5718-1957-0093911-3
+   STROUD AH, 1968, MATH COMPUT, V22, P271
+NR 13
+TC 35
+Z9 42
+U1 0
+U2 3
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD MAR 3
+PY 2003
+VL 62
+IS 3-6
+BP 509
+EP 517
+AR PII S0378-4754(02)00250-1
+DI 10.1016/S0378-4754(02)00250-1
+PG 9
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 656JU
+UT WOS:000181605300033
+DA 2024-07-18
+ER
+
+PT J
+AU Ludu, A
+   O'Connell, RF
+   Draayer, JP
+AF Ludu, A
+   O'Connell, RF
+   Draayer, JP
+TI Nonlinear equations and wavelets
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT International Conference on Nonlinear Evolution Equations and Wave
+   Phenomena: Computation and Theory
+CY APR 09-12, 2001
+CL ATHENS, GA
+DE wavelets; multi-scale similarity analysis; linear harmonic analysis
+ID SOLITONS; COMPACTONS
+AB We use a multi-scale similarity analysis which gives specific relations between the velocity, amplitude and width of localized solutions of nonlinear differential equations, whose exact solutions are generally difficult to obtain. (C) 2002 IMACS. Published by Elsevier Science B.V. All rights reserved.
+C1 Northwestern Univ, Dept Chem & Phys, Natchitoches, LA 71497 USA.
+   Louisiana State Univ, Dept Phys & Astron, Baton Rouge, LA 70803 USA.
+C3 Northwestern University; Louisiana State University System; Louisiana
+   State University
+RP Northwestern Univ, Dept Chem & Phys, Natchitoches, LA 71497 USA.
+EM ludua@nsula.edu
+CR ANDERSON MH, 1995, SCIENCE, V269, P198, DOI 10.1126/science.269.5221.198
+   Bona J.L., 1996, CONT MATH, V200, P17
+   BONA JL, 1995, PHILOS T R SOC A, V351, P107, DOI 10.1098/rsta.1995.0027
+   Busch T, 2000, PHYS REV LETT, V84, P2298, DOI 10.1103/PhysRevLett.84.2298
+   COOPER F, COMPACTON SOLUTIONS
+   Dey B, 1998, PHYS REV E, V57, P4733, DOI 10.1103/PhysRevE.57.4733
+   GROSSMANN A, 1984, SIAM J MATH ANAL, V15, P723, DOI 10.1137/0515056
+   Hyman JM, 1998, PHYSICA D, V123, P502, DOI 10.1016/S0167-2789(98)00146-8
+   Kartavenko VG, 1996, INT J MOD PHYS E, V5, P329, DOI 10.1142/S0218301396000153
+   KUMAR CN, SOLVINT9904020
+   LINA JM, 1993, PHYS REV E, V48, pR4160, DOI 10.1103/PhysRevE.48.R4160
+   Ludu A, 1998, PHYS REV LETT, V80, P2125, DOI 10.1103/PhysRevLett.80.2125
+   ROSENAU P, 1983, PHYSICA D, V8, P273, DOI 10.1016/0167-2789(83)90325-1
+   ROSENAU P, 1994, PHYS REV LETT, V73, P1737, DOI 10.1103/PhysRevLett.73.1737
+   ROSENAU P, 1993, PHYS REV LETT, V70, P564, DOI 10.1103/PhysRevLett.70.564
+   Rosenau P, 1996, PHYS LETT A, V211, P265, DOI 10.1016/0375-9601(95)00933-7
+   Rosenau P, 1998, PHYSICA D, V123, P525, DOI 10.1016/S0167-2789(98)00148-1
+   ZIMMERMANN G, 1998, P INT C GROUP THEOR
+NR 18
+TC 2
+Z9 2
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4754
+EI 1872-7166
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD FEB 15
+PY 2003
+VL 62
+IS 1-2
+SI SI
+BP 91
+EP 99
+AR PII S0378-4754(02)00183-0
+DI 10.1016/S0378-4754(02)00183-0
+PG 9
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Mathematics
+GA 651JR
+UT WOS:000181317200010
+OA Green Submitted
+DA 2024-07-18
+ER
+
+PT J
+AU Nedoma, J
+   Klézl, Z
+   Fousek, J
+   Kestránek, Z
+   Stehlík, J
+AF Nedoma, J
+   Klézl, Z
+   Fousek, J
+   Kestránek, Z
+   Stehlík, J
+TI Numerical simulation of some biomechanical problems
+SO MATHEMATICS AND COMPUTERS IN SIMULATION
+LA English
+DT Article; Proceedings Paper
+CT 2nd IMACS Conference on Mathematical Modelling and Computational Methods
+   in Mechanics, Physics, Biomechanics and Geodynamics
+CY JUN 19-25, 2001
+CL PLZEN, CZECH REPUBLIC
+SP Univ W Bohemia, Dept Math, Fac Appl Sci, Acad Sci Czech Republic, Inst Comp Sci, Acad Sci Czech Republic, Math Inst
+DE non-linear elasticity; contact problems; variational inequality; finite
+   element method; wrist; spine; fracture; biomechanics
+AB The paper is concerned with the numerical solution of non-linear conservation laws, and the contribution biomechanical models of spine and of loaded wrist are formulated and analysed. The models are based on a contact problem in non-linear elastic theology. The stress-strain relation is derived from a positive definite strain energy density function. For a weak solution of the problem, a variational inequality approach is used. Then the secant modules method and the finite element method are applied. First, the model of the weight bearing wrist, and secondly, the model of the Chance's fracture of lumbar spine are discussed. (C) 2002 Published by Elsevier Science B.V. on behalf of IMACS.
+C1 AS CR, Inst Comp Sci, Prague 18207 8, Czech Republic.
+   Cent Mil Hosp, Dept Orthopaedy & Traumatol, Prague 16000 6, Czech Republic.
+   Klaudians Hosp, Orthopaed & Traumatol Dept, Mlada Boleslav 29301, Czech Republic.
+C3 Czech Academy of Sciences; Institute of Computer Science of the Czech
+   Academy of Sciences; Military University Hospital Prague
+RP Nedoma, J (corresponding author), AS CR, Inst Comp Sci, Vodarenskou Vezi 2, Prague 18207 8, Czech Republic.
+RI Nedoma, Jiri/E-8735-2014; Klezl Sn, Zdenek/K-5196-2016
+OI Klezl Sn, Zdenek/0000-0001-5239-4097
+CR [Anonymous], 1981, Mathematical Theory of Elastic and Elastoplastic Bodies: An Introduction
+   BELYTSCHKO T, 1974, J BIOMECH, V7, P277, DOI 10.1016/0021-9290(74)90019-0
+   DICK W, 1984, INTERNAL FIXATION TH, P131
+   FUNG YC, 1965, GEN HOOKES LAW FDN S
+   Gajewski H., 1974, Nichtlineare Operatorgleichungen und Operatordifferentialgleichungen
+   KULAK RF, 1976, J BIOMECH, V9, P377, DOI 10.1016/0021-9290(76)90115-9
+   NDEOMA J, 2000, P 16 IMACS WORLD C L
+   Necas J., 1983, APL MAT, V28, P199
+   Nedoma J, 2002, MATH COMPUT SIMULAT, V60, P119, DOI 10.1016/S0378-4754(02)00033-2
+   Nedoma J, 1999, NUMER LINEAR ALGEBR, V6, P557, DOI 10.1002/(SICI)1099-1506(199910/11)6:7<557::AID-NLA180>3.3.CO;2-Z
+   NEDOMA J, 1993, MATH MODELLING BIOME
+   WHITE AA, 1978, CLIN BIOMECHANICS SP, P722
+NR 12
+TC 5
+Z9 6
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4754
+J9 MATH COMPUT SIMULAT
+JI Math. Comput. Simul.
+PD JAN 30
+PY 2003
+VL 61
+IS 3-6
+BP 283
+EP 295
+AR PII S0378-4754(02)00084-8
+DI 10.1016/S0378-4754(02)00084-8
+PG 13
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA 640UM
+UT WOS:000180706400013
+DA 2024-07-18
+ER
+
+EF

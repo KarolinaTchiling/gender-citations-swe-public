@@ -1,0 +1,880 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cabalar, P
+   Muñiz, B
+AF Cabalar, Pedro
+   Muniz, Brais
+TI Model Explanation via Support Graphs
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+DE answer set programming; explanations; supported models; justified models
+ID LOGIC
+AB In this note, we introduce the notion of support graph to define explanations for any model of a logic program. An explanation is an acyclic support graph that, for each true atom in the model, induces a proof in terms of program rules represented by labels. A classical model may have zero, one or several explanations: when it has at least one, it is called a justified model. We prove that all stable models are justified, whereas, for disjunctive programs, some justified models may not be stable. We also provide a meta-programming encoding in Answer Set Programming that generates the explanations for a given stable model of some program. We prove that the encoding is sound and complete, that is, there is a one-to-one correspondence between each answer set of the encoding and each explanation for the original stable model.
+C1 [Cabalar, Pedro; Muniz, Brais] Univ A Coruna, Coruna, Spain.
+C3 Universidade da Coruna
+RP Cabalar, P (corresponding author), Univ A Coruna, Coruna, Spain.
+EM cabalar@udc.es; brais.mcastro@udc.es
+RI Cabalar, Pedro/AAE-5198-2020
+CR Aguado F, 2019, ARTIF INTELL, V275, P575, DOI 10.1016/j.artint.2019.07.005
+   [Anonymous], 1999, P 16 INT JOINT C ART
+   Arias J, 2020, ELECTRON P THEOR COM, P59, DOI 10.4204/EPTCS.325.12
+   Bondarenko A, 1997, ARTIF INTELL, V93, P63, DOI 10.1016/S0004-3702(97)00015-5
+   Brewka G, 2011, COMMUN ACM, V54, P92, DOI 10.1145/2043174.2043195
+   Cabalar P., 2023, P INT C LOGIC PROGRA, V3437
+   Cabalar P, 2014, THEOR PRACT LOG PROG, V14, P603, DOI 10.1017/S1471068414000234
+   Clark K. L., 1978, Logic and data bases, P293
+   Denecker M., 2015, Lecture Notes in Computer Science, V9345
+   Dung PM, 2009, ARGUMENTATION IN ARTIFICIAL INTELLIGENCE, P199, DOI 10.1007/978-0-387-98197-0_10
+   Eiter T., 2019, INT JOINT C ARTIFICI
+   Erdem E., 2013, Theory and Practice of Logic Programming, V15
+   Fandinno J., 2015, A Causal Semantics for Logic Programming
+   Fandinno J, 2019, THEOR PRACT LOG PROG, V19, P114, DOI 10.1017/S1471068418000534
+   Gebser M., 2008, P 23 AAAI C ARTIFICI
+   Gelfond M., 1988, Proceedings of the Fifth International Conference and Symposium, Seattle, Washington, August 1519, 1988 (2 Volumes), V2, P1070
+   Marynissen S., 2022, Advances in Justification Theory
+   Pontelli E, 2006, LECT NOTES COMPUT SC, V4079, P196, DOI 10.1007/11799573_16
+   Saribatur ZG, 2021, ARTIF INTELL, V300, DOI 10.1016/j.artint.2021.103563
+   Schulz C, 2016, THEOR PRACT LOG PROG, V16, P59, DOI 10.1017/S1471068414000702
+   Shen YD, 2019, ARTIF INTELL, V277, DOI 10.1016/j.artint.2019.103165
+   Trieu LL, 2022, LECT NOTES ARTIF INT, V13416, P363, DOI 10.1007/978-3-031-15707-3_28
+   VANEMDEN MH, 1976, J ACM, V23, P733, DOI 10.1145/321978.321991
+NR 23
+TC 1
+Z9 1
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 FEB 29
+PY 2024
+DI 10.1017/S1471068424000048
+EA FEB 2024
+PG 14
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA JO4N0
+UT WOS:001174095500001
+OA hybrid, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Costantini, S
+   Formisano, A
+AF Costantini, Stefania
+   Formisano, Andrea
+TI Epistemic Logic Programs: A Study of Some Properties
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+DE answer set programming; epistemic logic programs; epistemic splitting
+ID STABLE MODELS; SEMANTICS; NEGATION
+AB Epistemic logic programs (ELPs), extend answer set programming (ASP) with epistemic operators. The semantics of such programs is provided in terms of world views, which are sets of belief sets, that is, syntactically, sets of sets of atoms. Different semantic approaches propose different characterizations of world views. Recent work has introduced semantic properties that should be met by any semantics for ELPs, like the Epistemic Splitting Property, that, if satisfied, allows to modularly compute world views in a bottom-up fashion, analogously to "traditional" ASP. We analyze the possibility of changing the perspective, shifting from a bottom-up to a top-down approach to splitting. We propose a basic top-down approach, which we prove to be equivalent to the bottom-up one. We then propose an extended approach, where our new definition: (i) is provably applicable to many of the existing semantics; (ii) operates similarly to "traditional" ASP; (iii) provably coincides under any semantics with the bottom-up notion of splitting at least on the class of Epistemically Stratified Programs (which are, intuitively, those where the use of epistemic operators is stratified); (iv) better adheres to common ASP programming methodology.
+C1 [Costantini, Stefania] Univ Aquila, DISIM, Via Vetoio, Laquila, Italy.
+   [Costantini, Stefania; Formisano, Andrea] INdAM, Grp Nazl Calcolo Sci, Rome, Italy.
+   [Formisano, Andrea] Univ Udine, DMIF, Via Sci 206, Udine, Italy.
+C3 University of L'Aquila; University of Udine
+RP Costantini, S (corresponding author), Univ Aquila, DISIM, Via Vetoio, Laquila, Italy.
+EM stefania.costantini@univaq.it; andrea.formisano@uniud.it
+OI COSTANTINI, Stefania/0000-0002-5686-6124
+FU Action COST [CA17124]; Interdepartmental Project on AI; INdAM-GNCS
+   project [CUPE53C22001930001]
+FX Research partially performed within the activities of the Action COST
+   CA17124 "DigForASP", the Interdepartmental Project on AI (Strategic Plan
+   UniUD-22-25), and the INdAM-GNCS project CUPE53C22001930001.
+CR Cabalar P, 2021, THEOR PRACT LOG PROG, V21, P296, DOI 10.1017/S1471068420000058
+   Cabalar P, 2019, LECT NOTES ARTIF INT, V11481, P120, DOI 10.1007/978-3-030-20528-7_10
+   Costantini S, 2006, THEOR PRACT LOG PROG, V6, P169, DOI 10.1017/S1471068405002589
+   Costantini S, 2002, LECT NOTES ARTIF INT, V2408, P253
+   Costantini S., 2022, P INT C LOG PROGR 20, V3193
+   Costantini S, 2021, FUND INFORM, V181, P71, DOI 10.3233/FI-2021-2051
+   Costantini S, 2019, THEOR PRACT LOG PROG, V19, P790, DOI 10.1017/S147106841900019X
+   Costantini S, 2015, FUND INFORM, V140, P279, DOI 10.3233/FI-2015-1255
+   del Cerro LF, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), P2964
+   Dix J., 1995, Fundamenta Informaticae, V22, P227
+   Fandinno J, 2022, THEOR PRACT LOG PROG, V22, P1043, DOI 10.1017/S147106842100048X
+   GELFOND M, 1991, LOGIC PROGRAMMING AND NON-MONOTONIC REASONING, P245
+   Gelfond M., 1994, Annals of Mathematics and Artificial Intelligence, V12, P89, DOI 10.1007/BF01530762
+   Gelfond M, 2011, LECT NOTES ARTIF INT, V6645, P260
+   Gelfound M., 1988, Logic Programming: Proceedings of the Fifth International Conference and Symposium, P1070
+   Kahl P. T., 2018, OASIcs, V1, P1
+   Kahl P, 2020, J LOGIC COMPUT, V30, P953, DOI 10.1093/logcom/exv065
+   Leone N, 1997, INFORM COMPUT, V135, P69, DOI 10.1006/inco.1997.2630
+   LIFSCHITZ V, 1994, MIT PS LOG, P23
+   Lifschitz V, 2010, LECT NOTES COMPUT SC, V6300, P488, DOI 10.1007/978-3-642-15025-8_24
+   Lloyd J. W., 1987, Foundations of logic programming
+   Shen Y., 2020, CoRR abs/2010.00191, P1
+   Shen YD, 2016, ARTIF INTELL, V237, P115, DOI 10.1016/j.artint.2016.04.004
+   Su E. I., 2021, ELECT P THEORETICAL
+   Su EI, 2019, LECT NOTES ARTIF INT, V11468, P608, DOI 10.1007/978-3-030-19570-0_40
+   Truszczyriski Miroslaw, 2011, Logic Programming, Knowledge Representation, and Nonmonotonic Reasoning. Essays Dedicated to Michael Gelfond on the Occasion of his 65th Birthday, P315, DOI 10.1007/978-3-642-20832-4_20
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 FEB 5
+PY 2024
+DI 10.1017/S1471068424000012
+EA FEB 2024
+PG 23
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA GZ4X2
+UT WOS:001156500700001
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Vandevelde, S
+   Vennekens, J
+   Jordens, J
+   VAN Doninck, B
+   Witters, M
+AF Vandevelde, Simon
+   Vennekens, Joost
+   Jordens, Jeroen
+   VAN Doninck, Bart
+   Witters, Maarten
+TI Knowledge-Based Support for Adhesive Selection: Will it Stick?
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+DE knowledge base; first order logic; decision support; adhesive selection
+ID SYSTEM
+AB As the popularity of adhesive joints in industry increases, so does the need for tools to support the process of selecting a suitable adhesive. While some such tools already exist, they are either too limited in scope or offer too little flexibility in use. This work presents a more advanced tool, that was developed together with a team of adhesive experts. We first extract the experts' knowledge about this domain and formalize it in a Knowledge Base (KB). The IDP-Z3 reasoning system can then be used to derive the necessary functionality from this KB. Together with a user-friendly interactive interface, this creates an easy-to-use tool capable of assisting the adhesive experts. To validate our approach, we performed user testing in the form of qualitative interviews. The experts are very positive about the tool, stating that, among others, it will help save time and find more suitable adhesives.
+C1 [Vandevelde, Simon; Vennekens, Joost] Katholieke Univ Leuven, Dept Comp Sci, Nayer Campus,J-P Nayerlaan 5, B-2560 St Katelijne Waver, Belgium.
+   [Vandevelde, Simon; Vennekens, Joost] KU Leuven Inst AI, Leuven AI, B-3000 Leuven, Belgium.
+   [Vandevelde, Simon; Vennekens, Joost] Flanders Make DTAI FET, Leuven, Belgium.
+   [Jordens, Jeroen; VAN Doninck, Bart; Witters, Maarten] Flanders Make, Oude Diestersebaan 133, B-3920 Lommel, Belgium.
+C3 KU Leuven
+RP Vandevelde, S (corresponding author), Katholieke Univ Leuven, Dept Comp Sci, Nayer Campus,J-P Nayerlaan 5, B-2560 St Katelijne Waver, Belgium.
+EM s.vandevelde@kuleuven.be; joost.vennekens@kuleuven.be;
+   jeroen.jordens@flandersmake.be; bart.vandoninck@flandersmake.be;
+   maarten.witters@flandersmake.be
+RI Vennekens, Joost/ABE-6600-2020
+OI Vennekens, Joost/0000-0002-0791-0176; Vandevelde,
+   Simon/0000-0001-7312-3675
+FU Flemish Government; Flanders Make vzw
+FX This research received funding from the Flemish Government under the
+   "Onderzoeksprogramma Artificiele Intelligentie (AI) Vlaanderen" program
+   and from Flanders Make vzw. We would also like to thank Wouter
+   Groeneveld for his suggestions on the interview structure, Benjamin
+   Callewaert for cross-validating the codes and themes, and the members of
+   the Joining and Materials Lab for participating in our study.
+CR Aerts B, 2022, EXPERT SYST APPL, V187, DOI 10.1016/j.eswa.2021.115869
+   ALLEN RB, 1995, ADHES AGE, V38, P16
+   Carbonnelle P., 2022, FOSDEM 2023
+   Carbonnelle P., 2019, P 31 BEN C ART INT B, V2491
+   Cat B. D., 2018, DECLARATIVE LOGIC PR, P279, DOI [10.1145/3191315.3191321, DOI 10.1145/3191315.3191321, DOI 10.1145/3191315]
+   CORBIN J, 1990, Z SOZIOL, V19, P418, DOI 10.1007/BF00988593
+   Denecker M, 2008, LECT NOTES COMPUT SC, V5366, P71, DOI 10.1007/978-3-540-89982-2_12
+   Deryck Marjolein, 2022, Towards Sustainable Customization: Bridging Smart Products and Manufacturing Systems: Proceedings of the 8th Changeable, Agile, Reconfigurable and Virtual Production Conference (CARV2021) and the 10th World Mass Customization & Personalization Conference (MCPC2021). Lecture Notes in Mechanical Engineering, P860, DOI 10.1007/978-3-030-90700-6_98
+   Deryck M, 2019, IEEE INT C SEMANT CO, P174, DOI [10.1109/ICSC.2019.00040, 10.1109/ICOSC.2019.8665543]
+   Guest G, 2020, PLOS ONE, V15, DOI 10.1371/journal.pone.0232076
+   Kannan T., 2004, P REC DEV MAT PROC C
+   Kellar EJC, 2010, WOODHEAD PUBL MATER, P3
+   Lammel C., 2002, Adhesives Sealants Industry 9, V5, P42
+   LEES WAK, 1993, INT J ADHES ADHES, V13, P120, DOI 10.1016/0143-7496(93)90023-3
+   M da Silva L.F., 2018, Handbook of adhesion technology, V1
+   McCarney R, 2007, BMC MED RES METHODOL, V7, DOI 10.1186/1471-2288-7-30
+   Meyler K. L., 1993, Technical report
+   MOSELEY LG, 1992, ENG APPL ARTIF INTEL, V5, P319, DOI 10.1016/0952-1976(92)90040-Q
+   Object Modelling Group, 2021, Decision model and notation v1.3
+   Richards KAR, 2018, J TEACH PHYS EDUC, V37, P225, DOI 10.1123/jtpe.2017-0084
+   SU YY, 1993, COMPUT IND ENG, V25, P111, DOI 10.1016/0360-8352(93)90233-N
+   Vandevelde S., 2022, Logic Programming and Nonmonotonic Reasoning
+   Vandevelde S., 2021, Theory and Practice of Logic Programming 23, V3, P535
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 JAN 31
+PY 2024
+DI 10.1017/S1471068424000024
+EA JAN 2024
+PG 21
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA GM3J8
+UT WOS:001153042300001
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Callewaert, B
+   Vennekens, J
+AF Callewaert, Benjamin
+   Vennekens, Joost
+TI Multi-Shot Answer Set Programming for Flexible Payroll Management
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+DE answer set programming; payroll management; decision modelling
+ID CALCULUS; SYSTEM
+AB Payroll management is a critical business task that is subject to a large number of rules, which vary widely between companies, sectors, and countries. Moreover, the rules are often complex and change regularly. Therefore, payroll management systems must be flexible in design. In this paper, we suggest an approach based on a flexible answer set programming (ASP) model and an easy-to-read tabular representation based on the decision model and notation standard. It allows HR consultants to represent complex rules without the need for a software engineer and to ultimately design payroll systems for a variety of different scenarios. We show how the multi-shot solving capabilities of the clingo ASP system can be used to reach the performance that is necessary to handle real-world instances.
+C1 [Callewaert, Benjamin; Vennekens, Joost] Katholieke Univ Leuven, Dept Comp Sci, De Nayer Campus,J P De Nayerlaan 5, B-2860 St Katelijne Waver, Belgium.
+   [Callewaert, Benjamin; Vennekens, Joost] AI KU Leuven, Inst AI, B-3000 Leuven, Belgium.
+   [Callewaert, Benjamin; Vennekens, Joost] Flanders Make DTAI FET, Leuven, Belgium.
+C3 KU Leuven
+RP Callewaert, B (corresponding author), Katholieke Univ Leuven, Dept Comp Sci, De Nayer Campus,J P De Nayerlaan 5, B-2860 St Katelijne Waver, Belgium.; Callewaert, B (corresponding author), AI KU Leuven, Inst AI, B-3000 Leuven, Belgium.
+EM benjamin.callewaert@kuleuven.be; joost.vennekens@kuleuven.be
+RI Vennekens, Joost/A-3571-2015
+OI Vennekens, Joost/0000-0002-0791-0176
+CR Alviano M, 2019, LECT NOTES ARTIF INT, V11481, P241, DOI 10.1007/978-3-030-20528-7_18
+   [Anonymous], 1997, Solving the frame problem-a mathematical investigation of the common sense law of inertia
+   Arias J, 2022, THEOR PRACT LOG PROG, V22, P51, DOI 10.1017/S1471068421000156
+   Arias J, 2019, THEOR PRACT LOG PROG, V19, P412, DOI 10.1017/S1471068418000571
+   Arias J, 2018, THEOR PRACT LOG PROG, V18, P337, DOI 10.1017/S1471068418000285
+   Brewka G, 2011, COMMUN ACM, V54, P92, DOI 10.1145/2043174.2043195
+   Calimeri F., 2022, P 24 INT S PRINC PRA, P1
+   Clark K. L., 1978, Logic and data bases, P293
+   Denecker M., 2007, Artificial Intelligence, V171, P5
+   Doody R. J., 1982, Report on the payroll system
+   Eshghi K., 1988, Logic Programming: Proceedings of the Fifth International Conference and Symposium, P562
+   Faber W, 2008, THEOR PRACT LOG PROG, V8, P545, DOI 10.1017/S1471068408003323
+   Gebser M., 2012, Synthesis Lectures on Artificial Intelligence and Machine Learning, V6, P1, DOI [10.2200/S00457ED1V01Y201211AIM019, DOI 10.2200/S00457ED1V01Y201211AIM019]
+   Gebser M., 2014, TECHNICAL COMMUNICAT
+   Gebser M, 2019, THEOR PRACT LOG PROG, V19, P27, DOI 10.1017/S1471068418000054
+   Gelfond M., 1991, New Generation Computing, V9, P365, DOI 10.1007/BF03037169
+   Gelfond M., 2013, Journal of Applied Non-Classical Logics, V23, P1
+   Gelfond M., 2009, P 2 INT WORKSHOP SOF, P64
+   Gelfond M., 1988, Proceedings of the Fifth International Conference and Symposium, Seattle, Washington, August 1519, 1988 (2 Volumes), V2, P1070
+   Hasic F, 2020, KNOWL INF SYST, V62, P2011, DOI 10.1007/s10115-019-01416-4
+   Hasic M., 2017, INT C ADV INF SYST E, P210
+   Hasic M., 2016, ACM SIGMIS Database: The DATABASE for Advances in Information Systems 47, V4, P23
+   Ianni G, 2020, THEOR PRACT LOG PROG, V20, P719, DOI 10.1017/S147106842000040X
+   Janhunen T, 2009, J ARTIF INTELL RES, V35, P813, DOI 10.1613/jair.2810
+   Kim TW, 2009, 21ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-09), PROCEEDINGS, P823
+   Kowalski R, 1999, ANN MATH ARTIF INTEL, V25, P391, DOI 10.1023/A:1018934223383
+   KOWALSKI R, 1986, NEW GENERAT COMPUT, V4, P67, DOI 10.1007/BF03037383
+   Kowalski R. A., 1995, Informatics and the Foundations of Legal Reasoning, P325
+   Lee J, 2012, J ARTIF INTELL RES, V43, P571, DOI 10.1613/jair.3489
+   Lee J, 2009, LECT NOTES COMPUT SC, V5753, P515, DOI 10.1007/978-3-642-04238-6_51
+   Leone N, 2006, ACM T COMPUT LOG, V7, P499, DOI 10.1145/1149114.1149117
+   Ma J., 2014, EPiC Series in Computing, V26, P75, DOI DOI 10.29007/ZSWJ
+   MCCARTHY J, 1980, ARTIF INTELL, V13, P27, DOI 10.1016/0004-3702(80)90011-9
+   Mellarkod VS, 2008, ANN MATH ARTIF INTEL, V53, P251, DOI 10.1007/s10472-009-9116-y
+   Mueller E. T., 2004, P 17 INT FLOR ART IN, V4, P17
+   Mueller ET, 2004, J LOGIC COMPUT, V14, P703, DOI 10.1093/logcom/14.5.703
+   Object Management Group, 2015, Decision model and notation (DMN) 1.0 specification
+   Oikarinen E, 2006, FRONT ARTIF INTEL AP, V141, P412
+   Shanahan M, 2000, J LOGIC PROGRAM, V44, P207, DOI 10.1016/S0743-1066(99)00077-1
+   Shanahan M., 1999, Artificial intelligence today. Recent trends and developments, P409
+   Shanahan M., 1990, ECAI 90. Proceedings of the 9th European Conference on Artificial Intelligence, P598
+   Shanahan M, 1999, IJCAI-99: PROCEEDINGS OF THE SIXTEENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOLS 1 & 2, P140
+   Shanahan M., 1996, ECAI 96. 12th European Conference on Artificial Intelligence, P684
+   Silver B., 2016, DMN Method and Style: The Practitioner's Guide to Decision Modeling with Business Rules
+   Sooter LJ, 2019, APPL CLIN INFORM, V10, P935, DOI 10.1055/s-0039-3400749
+NR 45
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 MAY 2
+PY 2024
+DI 10.1017/S1471068424000115
+EA MAY 2024
+PG 29
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA PV6G2
+UT WOS:001216891000001
+DA 2024-08-05
+ER
+
+PT J
+AU Hahn, S
+   Sabuncu, O
+   Schaub, T
+   Stolzmann, T
+AF Hahn, Susana
+   Sabuncu, Orkunt
+   Schaub, Torsten
+   Stolzmann, Tobias
+TI <i>Clingraph</i>: A System for ASP-based Visualization
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+DE logic programming methodology and applications; knowledge representation
+   and nonmonotonic reasoning
+AB We present the Answer Set Programming (ASP)-based visualization tool clingraph, which aims at visualizing various concepts of ASP by means of ASP itself. This idea traces back to the aspviz tool and clingraph redevelops and extends it in the context of modern ASP systems. More precisely, clingraph takes graph specifications in terms of ASP facts and hands them over to the graph visualization system graphviz. The use of ASP provides a great interface between logic programs and/or answer sets and their visualization. Also, clingraph offers a Python application programming interface (API) that extends this ease of interfacing to clingo's API and in turn to connect and monitor various aspects of the solving process.
+C1 [Hahn, Susana; Schaub, Torsten; Stolzmann, Tobias] Univ Potsdam, Potsdam, Germany.
+   [Hahn, Susana; Schaub, Torsten; Stolzmann, Tobias] Germany Potassco Solut, Potsdam, Germany.
+   [Sabuncu, Orkunt] TED Univ, Ankara, Turkiye.
+   [Sabuncu, Orkunt] Turkey Potassco Solut, Potsdam, Germany.
+C3 University of Potsdam; Ted University
+RP Hahn, S (corresponding author), Univ Potsdam, Potsdam, Germany.; Hahn, S (corresponding author), Germany Potassco Solut, Potsdam, Germany.
+EM susana.hahn.martin.lunas@uni-potsdam.de; orkunt.sabuncu@tedu.edu.tr;
+   torsten.schaub@uni-potsdam.de; tobias.stolzmann@uni-potsdam.de
+OI Sabuncu, Orkunt/0000-0003-1432-042X; Stolzmann,
+   Tobias/0000-0002-1436-0715
+FU DFG [SCHA 550/11]; BMBF project ISCO [KK5291302GR1]
+FX This work was supported by DFG grants SCHA 550/11 and 15 as well as BMBF
+   project ISCO with support code KK5291302GR1.
+CR Bösel A, 2004, LECT NOTES COMPUT SC, V3229, P702, DOI 10.1007/978-3-540-30227-8_61
+   Calimeri F., 2009, Proceed- ings of the 2nd International Workshop on Software Engineering for Answer Set Programming (SEA 2009), P79
+   Cliffe O, 2008, LECT NOTES COMPUT SC, V5366, P724, DOI 10.1007/978-3-540-89982-2_65
+   Gebser M, 2018, THEOR PRACT LOG PROG, V18, P502, DOI 10.1017/S1471068418000200
+   Hahn S., 2023, IN PRESS
+   Hahn S, 2022, LECT NOTES ARTIF INT, V13416, P401, DOI 10.1007/978-3-031-15707-3_31
+   Kloimullner C., 2011, Technical Report Series, P325
+   Konig A., 2013, Theory and Practice of Logic Programming, V13
+   Lifschitz Vladimir, 2019, ANSWER SET PROGRAMMI, DOI DOI 10.1007/978-3-030-24658-7
+   Perrin S, 2007, PROCEEDINGS OF THE 2007 IEEE INTERNATIONAL FREQUENCY CONTROL SYMPOSIUM-JOINTLY WITH THE 21ST EUROPEAN FREQUENCY AND TIME FORUM, VOLS 1-4, P86, DOI 10.1109/FREQ.2007.4319037
+NR 10
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 FEB 14
+PY 2024
+DI 10.1017/S147106842400005X
+EA FEB 2024
+PG 27
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA HV8R0
+UT WOS:001162379500001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Eiter, T
+   Geibinger, T
+   Musliu, N
+   Oetsch, J
+   Skocovsky, P
+   Stepanova, D
+AF Eiter, Thomas
+   Geibinger, Tobias
+   Musliu, Nysret
+   Oetsch, Johannes
+   Skocovsky, Peter
+   Stepanova, Daria
+TI Answer-Set Programming for Lexicographical Makespan Optimisation in
+   Parallel Machine Scheduling (vol 23, pg 1281, 2023)
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+C1 [Eiter, Thomas; Geibinger, Tobias; Musliu, Nysret; Oetsch, Johannes] Vienna Univ Technol, Inst Log & Computat, TU Wien, Vienna, Austria.
+   [Skocovsky, Peter; Stepanova, Daria] Bosch Ctr AI, Robert Bosch Campus 1, D-71272 Renningen, Germany.
+C3 Technische Universitat Wien
+RP Eiter, T (corresponding author), Vienna Univ Technol, Inst Log & Computat, TU Wien, Vienna, Austria.
+EM eiter@kr.tuwien.ac.at; tgeibing@dbai.tuwien.ac.at;
+   musliu@dbai.tuwien.ac.at; oetsch@kr.tuwien.ac.at;
+   fixed-term.peter.skocovsky@de.bosch.com; daria.stepanova@de.bosch.com
+OI Oetsch, Johannes/0000-0002-9902-7662; Eiter, Thomas/0000-0001-6003-6345
+FU TU Wien Bibliothek
+FX The authors acknowledge TU Wien Bibliothek for financial support through
+   its Open Access Funding Program.
+CR Eiter T, 2023, THEOR PRACT LOG PROG, V23, P1281, DOI 10.1017/S1471068423000017
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 FEB 29
+PY 2024
+DI 10.1017/S1471068424000061
+EA FEB 2024
+PG 1
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA JU9O5
+UT WOS:001175795600001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Fichte, JK
+   Gaggl, SA
+   Hecher, M
+   Rusovac, D
+AF Fichte, Johannes K.
+   Gaggl, Sarah Alice
+   Hecher, Markus
+   Rusovac, Dominik
+TI IASCAR: Incremental Answer Set Counting by Anytime Refinement
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+DE ASP; answer set counting; knowledge compilation
+ID LOGIC PROGRAMS; KNOWLEDGE COMPILATION; SEMANTICS
+AB Answer set programming (ASP) is a popular declarative programming paradigm with various applications. Programs can easily have many answer sets that cannot be enumerated in practice, but counting still allows quantifying solution spaces. If one counts under assumptions on literals, one obtains a tool to comprehend parts of the solution space, so-called answer set navigation. However, navigating through parts of the solution space requires counting many times, which is expensive in theory. Knowledge compilation compiles instances into representations on which counting works in polynomial time. However, these techniques exist only for conjunctive normal form (CNF) formulas, and compiling ASP programs into CNF formulas can introduce an exponential overhead. This paper introduces a technique to iteratively count answer sets under assumptions on knowledge compilations of CNFs that encode supported models. Our anytime technique uses the inclusion-exclusion principle to improve bounds by over- and undercounting systematically. In a preliminary empirical analysis, we demonstrate promising results. After compiling the input (offline phase), our approach quickly (re)counts.
+C1 [Fichte, Johannes K.] Linkoping Univ, Dept Comp Sci IDA, Linkoping, Sweden.
+   [Gaggl, Sarah Alice; Rusovac, Dominik] Tech Univ Dresden, Dresden, Germany.
+   [Hecher, Markus] MIT, Cambridge, MA 02139 USA.
+C3 Linkoping University; Technische Universitat Dresden; Massachusetts
+   Institute of Technology (MIT)
+RP Fichte, JK (corresponding author), Linkoping Univ, Dept Comp Sci IDA, Linkoping, Sweden.
+EM johannes.fichte@liu.se; sarah.gaggl@tu-dresden.de; hecher@mit.edu;
+   dominik.rusovac@tu-dresden.de
+RI Gaggl, Sarah Alice/AFK-5227-2022
+OI Gaggl, Sarah/0000-0003-2425-6089
+FU BMBF [01IS20056NAVAS]; ELLIIT - Swedish government; Austrian Science
+   Fund (FWF) [J4656, P32830, Y1329]; GWK; Swedish Research Council
+   [2022-06725]; Austrian Science Fund (FWF) [J4656] Funding Source:
+   Austrian Science Fund (FWF)
+FX Research was funded by the BMBF, Grant 01IS20056NAVAS, by ELLIIT funded
+   by the Swedish government, by the Austrian Science Fund (FWF) grants
+   J4656, P32830, and Y1329. The authors gratefully acknowledge the GWK
+   support for funding this project by providing computing time through the
+   Center for Information Services and HPC (ZIH) at TU Dresden. Additional
+   computations were enabled by resources provided by the National Academic
+   Infrastructure for Supercomputing in Sweden(NAISS) at Linkoping
+   partially funded by the Swedish Research Council through grant agreement
+   no.2022-06725.
+CR Alviano M, 2023, ARTIF INTELL, V320, DOI 10.1016/j.artint.2023.103931
+   Apt K.R., 1988, THEORY DECLARATIVE K, P89
+   Baral C., 2003, KNOWLEDGE REPRESENTA
+   Besin V, 2021, THEOR PRACT LOG PROG, V21, P575, DOI 10.1017/S1471068421000399
+   Beyersdorff O., 2023, LEIBNIZ INT P INFORM, V2, P1
+   Bistarelli Stefano, 2020, P WORKSH ADV ARG ART, V2777, P90
+   BLOOM BH, 1970, COMMUN ACM, V13, P422, DOI 10.1145/362686.362692
+   Böhl E, 2022, LECT NOTES ARTIF INT, V13416, P89, DOI 10.1007/978-3-031-15707-3_8
+   Bogaerts B, 2015, THEOR PRACT LOG PROG, V15, P464, DOI 10.1017/S1471068415000162
+   Bohl E., 2023, Frontiers in Artificial Intelligence and Applications, V372, P271
+   Bomanson J., 2016, OpenAccess Series in Informatics (OASIcs), V5, P1
+   Bondy J.A., 1976, Graph Theory, V290
+   Brewka G, 2011, COMMUN ACM, V54, P92, DOI 10.1145/2043174.2043195
+   Bryant R. E., 2023, LEIBNIZ INT P INFORM, V6, P1
+   Buning Hans Kleine, 1999, PROPOSITIONAL LOGIC
+   Chakraborty S, 2014, AAAI CONF ARTIF INTE, P1722
+   Clark K. L., 1978, Logic and data bases, P293
+   Dachselt R, 2022, FRONT ARTIF INTEL AP, V353, P116, DOI 10.3233/FAIA220146
+   Darwiche A, 2004, FRONT ARTIF INTEL AP, V110, P328
+   Darwiche A, 2002, J ARTIF INTELL RES, V17, P229, DOI 10.1613/jair.989
+   Darwiche A, 1999, IJCAI-99: PROCEEDINGS OF THE SIXTEENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOLS 1 & 2, P284
+   Darwiche A., 2001, Journal of Applied Non-Classical Logics, V11, P11, DOI DOI 10.3166/JANCL.11.11-34
+   Dell H., 2017, LEIBNIZ INT P INFORM, V30, P1
+   Dewoprabowo R, 2022, LECT NOTES ARTIF INT, V13416, P387, DOI 10.1007/978-3-031-15707-3_30
+   Dimopoulos Y., 1997, Recent Advances in AI Planning. 4th European Conference on Planning, ECP'97 Proceedings, P169, DOI 10.1007/3-540-63912-8_84
+   Dodaro C., 2019, The answer set programming challenge
+   Dvorák W, 2020, FRONT ARTIF INTEL AP, V326, P461, DOI 10.3233/FAIA200534
+   Eiter Thomas, 2021, P 18 INT C PRINCIPLE, P269
+   Fages F., 1994, Methods of Logic in Computer Science, V1, P51
+   Ferraris P, 2006, ANN MATH ARTIF INTEL, V47, P79, DOI 10.1007/s10472-006-9025-2
+   Fichte Johannes K., 2020, Principles and Practice of Constraint Programming. 26th International Conference, CP 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12333), P304, DOI 10.1007/978-3-030-58475-7_18
+   Fichte J. K., 2023, IASCAR: Incremental answer set counting by anytime refinement (experiments)
+   Fichte J. K., 2022, LEIBNIZ INT P INFORM, V30, P1
+   Fichte J. K., 2021, ACM Journal of Experimental Algorithmics, V26a, P1
+   Fichte J. K., 2023, The model counting competitions 2021-2023
+   Fichte J. K., 2021, LEIBNIZ INT P INFORM, V25, P1
+   Fichte J. K., 2021, LEIBNIZ INT P INFORM, V24, P1
+   Fichte JK, 2017, LECT NOTES ARTIF INT, V10377, P132, DOI 10.1007/978-3-319-61660-5_13
+   Fichte Johannes K, 2022, P 31 INT JOINT C ART, P2620
+   Fichte JK, 2022, THEOR PRACT LOG PROG, V22, P128, DOI 10.1017/S147106842100003X
+   Fichte JK, 2022, AAAI CONF ARTIF INTE, P5651
+   Fichte JK, 2022, LECT NOTES ARTIF INT, V13416, P217, DOI 10.1007/978-3-031-15707-3_17
+   Fierens D, 2015, THEOR PRACT LOG PROG, V15, P358, DOI 10.1017/S1471068414000076
+   Gaggl SA, 2020, ARTIF INTELL, V279, DOI 10.1016/j.artint.2019.103193
+   Gebser M, 2017, LECT NOTES ARTIF INT, V10377, P3, DOI 10.1007/978-3-319-61660-5_1
+   Gebser M, 2011, LECT NOTES ARTIF INT, V6645, P345
+   Gebser M, 2012, ARTIF INTELL, V187, P52, DOI 10.1016/j.artint.2012.04.001
+   Gebser M, 2009, LECT NOTES COMPUT SC, V5753, P509, DOI 10.1007/978-3-642-04238-6_50
+   Gelfond M., 1991, New Generation Computing, V9, P365, DOI 10.1007/BF03037169
+   Gelfond M., 1988, Proceedings of the Fifth International Conference and Symposium, Seattle, Washington, August 1519, 1988 (2 Volumes), V2, P1070
+   Hahn S, 2022, LECT NOTES ARTIF INT, V13416, P401, DOI 10.1007/978-3-031-15707-3_31
+   Hecher M, 2020, KR2020: PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON PRINCIPLES OF KNOWLEDGE REPRESENTATION AND REASONING, P485
+   Janhunen Tomi, 2011, Logic Programming, Knowledge Representation, and Nonmonotonic Reasoning. Essays Dedicated to Michael Gelfond on the Occasion of his 65th Birthday, P111, DOI 10.1007/978-3-642-20832-4_8
+   Janhunen T, 2006, J APPL NONCLASSICAL, V16, P35, DOI DOI 10.3166/JANCL.16.35-86
+   Kabir M, 2022, AAAI CONF ARTIF INTE, P5755
+   Korhonen T., 2021, LEIBNIZ INT P INFORM, V8, P1
+   Kuiter E, 2022, IEEE INT CONF AUTOM, DOI 10.1145/3551349.3556938
+   Lagniez J., 2016, P INT JOINT C ART IN, P751
+   Lagniez JM, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P667
+   Lagniez JM, 2017, J AUTOM REASONING, V58, P413, DOI 10.1007/s10817-016-9370-8
+   Lagniez JM, 2014, AAAI CONF ARTIF INTE, P2688
+   LAUTEMANN C, 1983, INFORM PROCESS LETT, V17, P215, DOI 10.1016/0020-0190(83)90044-3
+   Lee J, 2003, LECT NOTES COMPUT SC, V2916, P451, DOI 10.1007/978-3-540-24599-5_31
+   Lee J., 2015, 2015 AAAI SPRING S
+   Lee J, 2005, 19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05), P503
+   Lifschitz V, 1999, LOGIC PROGRAMM, P23
+   Lifschitz V, 2006, ACM T COMPUT LOG, V7, P261, DOI 10.1145/1131313.1131316
+   Lin FZ, 2004, ARTIF INTELL, V157, P115, DOI 10.1016/j.artint.2004.04.004
+   Mailly J., 2021, ICCMA 21
+   MAREK VW, 1999, LOGIC PROGRAMMING PA, P375, DOI DOI 10.1007/978-3-642-60085-2_17
+   MAREK W, 1992, THEOR COMPUT SCI, V103, P365, DOI 10.1016/0304-3975(92)90019-C
+   Masina G., 2023, P 26 INT C THEOR APP, V271, P1, DOI [10.4230/LIPIcs.SAT.2023.15, DOI 10.4230/LIPICS.SAT.2023.15]
+   Meel K. S., 2018, LEIBNIZ INT P INFORM, V93
+   Niemelä I, 1999, ANN MATH ARTIF INTEL, V25, P241, DOI 10.1023/A:1018930122475
+   Nogueira M., 2001, Practical Aspects of Declarative Languages. Third International Symposium, PADL 2001. Proceedings (Lecture Notes in Computer Science Vol.1990), P169
+   Pontelli E., 2012, Lecture Notes in Computer Science, V7265, P509
+   Robinson J. Alan, 2001, Handbook of automated reasoning
+   Roussel O., 2011, Journal on Satisfiability, Boolean Modeling and Computation, V7, P139
+   Sang T., 2005, AAAI 05
+   Sipser Michael, 1983, 15TH P ACM S THEOR C, P330, DOI [DOI 10.1145/800061.808762, 10.1145/800061.808762]
+   Spallitta G., 2023, CoRR, abs/2306.00461
+   Stockmeyer L. J., 1976, Theoretical Computer Science, V3, P1, DOI 10.1016/0304-3975(76)90061-X
+   Stockmeyer L. J., 1983, P 15 ANN ACM S THEOR, P118, DOI 10.1145/ 800061.808740
+   TODA S, 1991, SIAM J COMPUT, V20, P865, DOI 10.1137/0220053
+   Truszczynski M, 2011, THEOR PRACT LOG PROG, V11, P881, DOI 10.1017/S1471068410000463
+   Tseitin G.S., 1983, On the Complexity of Derivation in Propositional Calculus, P466, DOI [10.1007/978-3-642-81955-1_28, DOI 10.1007/978-3-642-81955-1_28, DOI 10.1007/978-3-642-81955-128, 10.1007/978-3-642-81955-128]
+   van der Kouwe E., 2018, CoRR, P1
+   Wang Y, 2015, AAAI CONF ARTIF INTE, P4218
+   Weaver S. A., 2012, Journal on Satisfiability, Boolean Modeling and Computation, V8, P129
+NR 89
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 FEB 21
+PY 2024
+DI 10.1017/S1471068424000036
+EA FEB 2024
+PG 28
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA IV6W9
+UT WOS:001169162100001
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Fandinno, J
+   Lifschitz, V
+   Temple, N
+AF Fandinno, Jorge
+   Lifschitz, Vladimir
+   Temple, Nathan
+TI Locally Tight Programs
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+DE theory; specification; analysis and verification of systems; security;
+   logic programming methodology and applications
+ID EQUILIBRIUM LOGIC; ANSWER SETS
+AB Program completion is a translation from the language of logic programs into the language of first-order theories. Its original definition has been extended to programs that include integer arithmetic, accept input, and distinguish between output predicates and auxiliary predicates. For tight programs, that generalization of completion is known to match the stable model semantics, which is the basis of answer set programming. We show that the tightness condition in this theorem can be replaced by a less restrictive "local tightness" requirement. From this fact we conclude that the proof assistant anthem-p2p can be used to verify equivalence between locally tight programs.
+C1 [Fandinno, Jorge] Univ Nebraska, Omaha, NE 68182 USA.
+   [Lifschitz, Vladimir; Temple, Nathan] Univ Texas Austin, Austin, TX 78712 USA.
+C3 University of Nebraska System; University of Texas System; University of
+   Texas Austin
+RP Fandinno, J (corresponding author), Univ Nebraska, Omaha, NE 68182 USA.
+EM jorgefandinno@gmail.com; lifschitzv@gmail.com; nathan-temple@live.com
+RI Fandino, Jorge/F-8705-2016
+OI Fandino, Jorge/0000-0002-3917-8717
+CR Clark K. L., 1978, Logic and data bases, P293
+   Fages F., 1994, Methods of Logic in Computer Science, V1, P51
+   Fandinno J., 2023, Theory and Practice of Logic Programming
+   Fandinno J., 2023, IN PRESS
+   Fandinno J., 2022, P AAAI C ARTIFICIAL
+   Fandinno J, 2020, THEOR PRACT LOG PROG, V20, P735, DOI 10.1017/S1471068420000344
+   Ferraris P, 2005, LECT NOTES ARTIF INT, V3662, P119, DOI 10.1007/11546207_10
+   Ferraris P, 2011, ARTIF INTELL, V175, P236, DOI 10.1016/j.artint.2010.04.011
+   Gebser M., 2019, POTASSCO USER GUIDE
+   Gebser M, 2007, LECT NOTES COMPUT SC, V4483, P266, DOI 10.1007/978-3-540-72200-7_24
+   Gebser M, 2007, LECT NOTES COMPUT SC, V4483, P260, DOI 10.1007/978-3-540-72200-7_23
+   Gebser M, 2015, THEOR PRACT LOG PROG, V15, P449, DOI 10.1017/S1471068415000150
+   Harrison A, 2017, ARTIF INTELL, V246, P22, DOI 10.1016/j.artint.2017.02.002
+   Kovacs Laura, 2013, Computer Aided Verification. 25th International Conference, CAV 2013. Proceedings. LNCS 8044, P1, DOI 10.1007/978-3-642-39799-8_1
+   Lee J, 2011, J ARTIF INTELL RES, V42, P125
+   Leone N, 2006, ACM T COMPUT LOG, V7, P499, DOI 10.1145/1149114.1149117
+   Lierler Y, 2004, LECT NOTES ARTIF INT, V2923, P346
+   Lifschitz Vladimir, 2020, Fields of Logic and Computation III. Essays Dedicated to Yuri Gurevich on the Occasion of His 80th Birthday. Lecture Notes in Computer Science (LNCS 12180), P190, DOI 10.1007/978-3-030-48006-6_14
+   Lifschitz V., 2019, P 15 INT C LOGIC PRO
+   Lifschitz V., 2022, THEOR PRACT LOG PROG, V22
+   Lifschitz V, 2008, FOUND ARTIF INTELL, P3, DOI 10.1016/S1574-6526(07)03001-5
+   Lifschitz Vladimir, 2019, ANSWER SET PROGRAMMI, DOI DOI 10.1007/978-3-030-24658-7
+   Lin FZ, 2004, ARTIF INTELL, V157, P115, DOI 10.1016/j.artint.2004.04.004
+   Pearce D, 2004, LECT NOTES COMPUT SC, V3229, P147, DOI 10.1007/978-3-540-30227-8_15
+   Truszczynski M., 2012, Lecture Notes in Computer Science, V7265, P543
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 JAN 19
+PY 2024
+DI 10.1017/S147106842300039X
+EA JAN 2024
+PG 31
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA FI2G1
+UT WOS:001145061100001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Amendola, G
+   Mazzotta, G
+   Ricca, F
+   Berei, T
+AF Amendola, Giovanni
+   Mazzotta, Giuseppe
+   Ricca, Francesco
+   Berei, Tobias
+TI Unit Testing in ASP Revisited: Language and Test-Driven Development
+   Environment
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+DE answer set programming; unit testing; development environments
+ID ANSWER-SET PROGRAMS; COMPLEXITY
+AB Unit testing frameworks are nowadays considered a best practice, included in almost all modern software development processes, to achieve rapid development of correct specifications. Knowledge representation and reasoning paradigms such as Answer Set Programming (ASP), that have been used in industry-level applications, are not an exception. Indeed, the first unit testing specification language for ASP was proposed in 2011 as a feature of the ASPIDE development environment. Later, a more portable unit testing language was included in the LANA annotation language. In this paper we revisit both languages and tools for unit testing in ASP. We propose a new unit test specification language that allows one to inline tests within ASP programs, and we identify the computational complexity of the tasks associated with checking the various program-correctness assertions. Test-case specifications are transparent to the traditional evaluation, but can be interpreted by a specific testing tool. Thus, we present a novel environment supporting test-driven development of ASP programs.
+C1 [Amendola, Giovanni; Mazzotta, Giuseppe; Ricca, Francesco] Univ Calabria, Arcavacata Di Rende, Italy.
+   [Berei, Tobias] Univ Appl Sci Upper Austria, Campus Hagenberg, Hagenberg, Austria.
+C3 University of Calabria
+RP Amendola, G (corresponding author), Univ Calabria, Arcavacata Di Rende, Italy.
+EM giovanni.amendola@unical.it; giuseppe.mazzotta@unical.it;
+   francesco.ricca@unical.it; tobias.berei@students.fh-hagenberg.at
+FU Italian Ministry of Research (MUR) under PRIN project PINPOINT [CUP
+   H23C22000280006]; Tech4You "Technologies for climate change adaptation
+   and quality of life improvement" [CUP H23C22000370006]; PNRR projects
+   FAIR "Future AI Research" [Spoke 9 -WP9.1 - CUP H23C22000860006]
+FX This work was supported by Italian Ministry of Research (MUR) under PRIN
+   project PINPOINT, CUP H23C22000280006, Tech4You "Technologies for
+   climate change adaptation and quality of life improvement", CUP
+   H23C22000370006, and PNRR projects FAIR "Future AI Research" - Spoke 9
+   -WP9.1 - CUP H23C22000860006.
+CR Alviano M., 2017, Lecture Notes in Computer Science
+   Amendola Giovanni, 2021, Logics in Artificial Intelligence. 17th European Conference, JELIA 2021. Proceedings. Lecture Notes in Artificial Intelligence, Subseries of Lecture Notes in Computer Science (LNAI 12678), P362, DOI 10.1007/978-3-030-75775-5_24
+   Balai E, 2013, LECT NOTES COMPUT SC, V8148, P135, DOI 10.1007/978-3-642-40564-8_14
+   Balduccini M, 2017, THEOR PRACT LOG PROG, V17, P462, DOI 10.1017/S1471068417000102
+   Banbara M, 2017, THEOR PRACT LOG PROG, V17, P408, DOI 10.1017/S1471068417000138
+   Bartholomew M, 2019, ARTIF INTELL, V273, P56, DOI 10.1016/j.artint.2019.01.001
+   Beck, 2002, Test Driven Development: By Example
+   Ben-Eliyahu R., 1994, Annals of Mathematics and Artificial Intelligence, V12, P53, DOI 10.1007/BF01530761
+   Berei T., 2019, Annotation-based testing for answer set programming, P1
+   Bezerra C., 2017, P 9 SEM ONT RES I DO, V1908, P159
+   Bogaerts B., 2019, P 35 INT C LOG PROGR, V306
+   Brewka G, 2011, COMMUN ACM, V54, P92, DOI 10.1145/2043174.2043195
+   Buccafurri F, 2000, IEEE T KNOWL DATA EN, V12, P845, DOI 10.1109/69.877512
+   Busoniu PA, 2013, THEOR PRACT LOG PROG, V13, P657, DOI 10.1017/S1471068413000410
+   Calimeri F, 2020, THEOR PRACT LOG PROG, V20, P294, DOI 10.1017/S1471068419000450
+   Dantsin E, 2001, ACM COMPUT SURV, V33, P374, DOI 10.1145/502807.502810
+   De Vos M, 2012, THEOR PRACT LOG PROG, V12, P619, DOI 10.1017/S147106841200021X
+   Derler Y, 2016, AI MAG, V37, P45
+   Eiter T, 1995, ANN MATH ARTIF INTEL, V15, P289, DOI 10.1007/BF01536399
+   Eiter T, 2018, KUNSTL INTELL, V32, P187, DOI 10.1007/s13218-018-0535-y
+   Erdem E, 2003, THEOR PRACT LOG PROG, V3, P499, DOI 10.1017/S1471068403001765
+   Erdem E, 2016, AI MAG, V37, P53, DOI 10.1609/aimag.v37i3.2678
+   Erdogmus H, 2005, IEEE T SOFTWARE ENG, V31, P226, DOI 10.1109/TSE.2005.37
+   Fandinno J, 2020, THEOR PRACT LOG PROG, V20, P735, DOI 10.1017/S1471068420000344
+   Febbraro O., 2011, Lecture Notes in Computer
+   Febbraro O, 2011, LECT NOTES ARTIF INT, V6645, P317
+   Fichte J. K., 2016, CoRR abs/1612.07601
+   Fichte JK, 2022, AAAI CONF ARTIF INTE, P5651
+   Fraser S., 2003, Proceedings of the 4th International Conference on Extreme Programming and Agile Processes in Software Engineering, XP'03, P459
+   Froleyks N, 2021, ARTIF INTELL, V301, DOI 10.1016/j.artint.2021.103572
+   Gebser M., 2012, Synthesis Lectures on Artificial Intelligence and Machine Learning, V6, P1, DOI [10.2200/S00457ED1V01Y201211AIM019, DOI 10.2200/S00457ED1V01Y201211AIM019]
+   Gebser M, 2020, THEOR PRACT LOG PROG, V20, P176, DOI 10.1017/S1471068419000061
+   Gebser M, 2019, THEOR PRACT LOG PROG, V19, P27, DOI 10.1017/S1471068418000054
+   Gebser M, 2017, J ARTIF INTELL RES, V60, P41, DOI 10.1613/jair.5373
+   Gelfond M., 1991, New Generation Computing, V9, P365, DOI 10.1007/BF03037169
+   Gomes C. P., 2006, NIPS, P481
+   Gomes CP, 2007, LECT NOTES COMPUT SC, V4501, P100
+   Gressler A, 2017, LECT NOTES ARTIF INT, V10377, P229, DOI 10.1007/978-3-319-61660-5_21
+   Hemaspaandra L. A., 1995, SIGACT News, V26, P2, DOI 10.1145/203610.203611
+   Janhunen T, 2011, LECT NOTES ARTIF INT, V6645, P242
+   Janhunen T, 2010, FRONT ARTIF INTEL AP, V215, P950, DOI 10.3233/978-1-60750-606-5-951
+   Janhunen T, 2009, J ARTIF INTELL RES, V35, P813, DOI 10.1613/jair.2810
+   Lazaar N, 2010, LECT NOTES COMPUT SC, V6308, P330, DOI 10.1007/978-3-642-15396-9_28
+   Leone N, 2006, ACM T COMPUT LOG, V7, P499, DOI 10.1145/1149114.1149117
+   LIFSCHITZ V, 1994, MIT PS LOG, P23
+   Madeyski L, 2010, TEST-DRIVEN DEVELOPMENT, P1, DOI 10.1007/978-3-642-04288-1
+   MAREK W, 1991, J ACM, V38, P588, DOI 10.1145/116825.116836
+   Mellarkod VS, 2008, ANN MATH ARTIF INTEL, V53, P251, DOI 10.1007/s10472-009-9116-y
+   Oetsch J., 2012, PRINCIPLES KNOWLEDGE
+   Papadimitriou Christos H., 2007, Computational complexity
+   Ricca F., 2003, CEUR Workshop Proceedings, V78
+   Shen D, 2018, SIXTEENTH INTERNATIONAL CONFERENCE ON PRINCIPLES OF KNOWLEDGE REPRESENTATION AND REASONING, P67
+   Sommerville Ian., 2007, International Computer Science Series
+   VALIANT LG, 1979, SIAM J COMPUT, V8, P410, DOI 10.1137/0208032
+NR 54
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 APR 2
+PY 2024
+DI 10.1017/S1471068424000103
+EA APR 2024
+PG 31
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA MP2G9
+UT WOS:001194755400001
+OA hybrid, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Majid, QH
+   Wolfgang, F
+AF Majid, Qureshi Haya
+   Wolfgang, Faber
+TI Evaluating Datalog Tools for Meta-reasoning over OWL 2 QL
+SO THEORY AND PRACTICE OF LOGIC PROGRAMMING
+LA English
+DT Article; Early Access
+DE ontology; Datalog; metamodeling; rules
+ID DESCRIPTION LOGICS
+AB Metamodeling is a general approach to expressing knowledge about classes and properties in an ontology. It is a desirable modeling feature in multiple applications that simplifies the extension and reuse of ontologies. Nevertheless, allowing metamodeling without restrictions is problematic for several reasons, mainly due to undecidability issues. Practical languages, therefore, forbid classes to occur as instances of other classes or treat such occurrences as semantically different objects. Specifically, meta-querying in SPARQL under the Direct Semantic Entailment Regime uses the latter approach, thereby effectively not supporting meta-queries. However, several extensions enabling different metamodeling features have been proposed over the last decade. This paper deals with the Metamodeling Semantics (MS) over OWL 2 QL and the Metamodeling Semantic Entailment Regime (MSER), as proposed in Lenzerini et al. (2015, Description Logics) and Lenzerini et al. (2020, Information Systems 88, 101294), Cima et al. (2017, Proceedings of the 7th International Conference on Web Intelligence, Mining and Semantics, 1-6). A reduction from OWL 2 QL to Datalog for meta-querying was proposed in Cima et al. (2017, Proceedings of the 7th International Conference on Web Intelligence, Mining and Semantics, 1-6). In this paper, we experiment with various logic programming tools that support Datalog querying to determine their suitability as back-ends to MSER query answering. These tools stem from different logic programming paradigms (Prolog, pure Datalog, Answer Set Programming, Hybrid Knowledge Bases). Our work shows that the Datalog approach to MSER querying is practical also for sizeable ontologies with limited resources (time and memory). This paper significantly extends Qureshi and Faber (2021, International Joint Conference on Rules and Reasoning, Springer, 218-233.) by a more detailed experimental analysis and more background.
+C1 [Majid, Qureshi Haya; Wolfgang, Faber] Univ Klagenfurt, Klagenfurt, Austria.
+C3 University of Klagenfurt
+RP Majid, QH (corresponding author), Univ Klagenfurt, Klagenfurt, Austria.
+EM hmq.17@hotmail.com; wolfgang.faber@aau.at
+CR Alviano M, 2017, LECT NOTES ARTIF INT, V10377, P215, DOI 10.1007/978-3-319-61660-5_19
+   [Anonymous], 2009, W3C recommendation
+   [Anonymous], 2011, P 2011 ACM SIGMOD IN, DOI DOI 10.1145/1989323.1989456
+   Antoniou G., 2009, Handbook on Ontologies, P91, DOI [10.1007/978-3-540-92673-3_4, DOI 10.1007/978-3-540-92673-3_4]
+   Aref M, 2015, SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1371, DOI 10.1145/2723372.2742796
+   Baader F, 2003, DESCRIPTION LOGIC HANDBOOK: THEORY, IMPLEMENTATION AND APPLICATIONS, P43
+   Brasileiro F, 2016, LECT NOTES COMPUT SC, V9981, P53, DOI 10.1007/978-3-319-46523-4_4
+   Brewka G, 2011, COMMUN ACM, V54, P92, DOI 10.1145/2043174.2043195
+   Bruijn J. D., 2011, ACM Transactions on Computational Logic (TOCL) 12, V3, P1
+   Calvanese D, 2007, J AUTOM REASONING, V39, P385, DOI 10.1007/s10817-007-9078-x
+   Ceri S., 2012, Logic Programming and Databases
+   CHEN WD, 1993, J LOGIC PROGRAM, V15, P187, DOI 10.1016/0743-1066(93)90039-J
+   Cima G., 2017, P 7 INT C WEB INTELL, P1
+   de Moor O., 2008, P 27 ACM SIGMOD SIGA, P291
+   De Moor O., 2012, Revised Selected Papers, V6702
+   Eiter T., 2012, 8 INT SUMMER SCH 201, V7487
+   Eiter T, 2008, ARTIF INTELL, V172, P1495, DOI 10.1016/j.artint.2008.04.002
+   Eiter T, 2006, 2006 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE, (WI 2006 MAIN CONFERENCE PROCEEDINGS), P1073, DOI 10.1109/WI.2006.64
+   Gebser M., 2010, gringo, clasp, clingo, and iclingo
+   Gebser M, 2012, ARTIF INTELL, V187, P52, DOI 10.1016/j.artint.2012.04.001
+   Glimm B, 2011, LECT NOTES COMPUT SC, V6848, P137, DOI 10.1007/978-3-642-23032-5_3
+   Gottlob G, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), P2999
+   Guizzardi G., 2015, JOWO IJCAI
+   Guo YB, 2005, J WEB SEMANT, V3, P158, DOI 10.1016/j.websem.2005.06.005
+   Horrocks I., 2012, WORLD WIDE WEB CONSO, P42
+   Horrocks Ian, 2003, Journal of Web Semantics, V1, P7, DOI [DOI 10.1016/J.WEBSEM.2003.07.001, 10.1016/j.websem.2003.07.001]
+   Kontchakov R, 2014, LECT NOTES COMPUT SC, V8796, P552, DOI 10.1007/978-3-319-11964-9_35
+   Lenzerini M., 2016, IJCAI, P1174
+   Lenzerini M., 2016, 15 INT C PRINCIPLES
+   Lenzerini M., 2015, Description Logics
+   Lenzerini M, 2021, ARTIF INTELL, V292, DOI 10.1016/j.artint.2020.103432
+   Lenzerini M, 2020, INFORM SYST, V88, DOI 10.1016/j.is.2018.02.012
+   Lloyd J. W., 1987, Foundations of logic programming, V2nd
+   Lopes C, 2017, LECT NOTES ARTIF INT, V10377, P236, DOI 10.1007/978-3-319-61660-5_22
+   Minh Dao-Tran, 2012, Logics in Artificial Intelligence. Proceedings of the 13th European Conference (JELIA 2012), P480, DOI 10.1007/978-3-642-33353-8_38
+   Motik B, 2007, J LOGIC COMPUT, V17, P617, DOI 10.1093/logcom/exm027
+   Motik B, 2007, 20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, P477
+   Nenov Y, 2015, LECT NOTES COMPUT SC, V9367, P3, DOI 10.1007/978-3-319-25010-6_1
+   Pérez J, 2006, LECT NOTES COMPUT SC, V4273, P30
+   Poggi A., 2016, Description Logics
+   Qureshi HM, 2021, LECT NOTES COMPUT SC, V12851, P218, DOI 10.1007/978-3-030-91167-6_15
+   Schüller P, 2019, LECT NOTES ARTIF INT, V11468, P593, DOI 10.1007/978-3-030-19570-0_39
+   Swift T, 2012, THEOR PRACT LOG PROG, V12, P157, DOI 10.1017/S1471068411000500
+   Wang KW, 2004, LECT NOTES COMPUT SC, V3323, P170
+   Weinzierl A., 2019, ALP Newsletter
+   Weinzierl A, 2017, LECT NOTES ARTIF INT, V10377, P191, DOI 10.1007/978-3-319-61660-5_17
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 1471-0684
+EI 1475-3081
+J9 THEOR PRACT LOG PROG
+JI Theory Pract. Log. Program.
+PD 2024 MAR 7
+PY 2024
+DI 10.1017/S1471068424000073
+EA MAR 2024
+PG 26
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods; Logic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Science & Technology - Other Topics
+GA MF7K5
+UT WOS:001192275600001
+OA hybrid, Green Submitted
+DA 2024-08-05
+ER
+
+EF

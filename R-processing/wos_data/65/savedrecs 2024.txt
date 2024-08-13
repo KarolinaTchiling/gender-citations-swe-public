@@ -1,0 +1,1293 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ruhan, A
+   Shen, DY
+   Liu, LJ
+   Yin, JJ
+   Lin, RP
+AF Ruhan, A.
+   Shen, Danyao
+   Liu, Lijing
+   Yin, Juanjuan
+   Lin, Renpu
+TI Hyperspectral Anomaly Detection Based on a Beta Wavelet Graph Neural
+   Network
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Hyperspectral imaging; Anomaly detection; Graph neural networks; Wavelet
+   transforms; Band-pass filters; Symmetric matrices; Image edge detection
+AB In this article, graph neural networks are applied to hyperspectral anomaly detection, treating each pixel as a node, the correlations between pixels as edges, and the spectral features of each pixel as node attributes, thus fully utilizing both spatial and spectral information in hyperspectral data. Due to the phenomenon of "right-shifted" spectral energy caused by the presence of anomalous targets, the beta wavelet graph neural network detector is proposed in this article; it takes advantage of this phenomenon using beta graph wavelets to generate an efficient, localized bandpass filter to accurately capture anomalous targets. Experimental results show that the proposed method has high accuracy and robustness in hyperspectral anomaly detection.
+C1 [Ruhan, A.; Liu, Lijing] Xian Peihua Univ Xian, Xian 710125, Shaanxi, Peoples R China.
+   [Shen, Danyao; Lin, Renpu] Xian Res Inst Hitech, Xian 710025, Shaanxi, Peoples R China.
+   [Yin, Juanjuan] Northwest Univ, Xian 710127, Shaanxi, Peoples R China.
+   [Ruhan, A.] Xian Peihua Univ, Sch Accounting & Finance, Xian 710125, Shaanxi, Peoples R China.
+   [Liu, Lijing] Xian Peihua Univ, Sch Intelligent Sci & Informat Engn, Xian 710125, Peoples R China.
+   [Liu, Lijing] Xian Shiyou Univ, Comp Software & Theory, Xian, Peoples R China.
+   [Yin, Juanjuan] Northwest Univ, Sch Informat Sci & Technol, Xian 710127, Shaanxi, Peoples R China.
+   [Yin, Juanjuan] Xian Shiyou Univ, Commun & Informat Syst, Xian, Peoples R China.
+C3 Rocket Force University of Engineering; Northwest University Xi'an;
+   Xi'an Shiyou University; Northwest University Xi'an; Xi'an Shiyou
+   University
+RP Shen, DY (corresponding author), Xian Res Inst Hitech, Xian 710025, Shaanxi, Peoples R China.
+EM aruhan890309@163.com; danyao.shn@gmail.com; aug_liu@163.com;
+   yinjuanjuan@stumail.nwu.edu.cn; 861330950@qq.com
+FU Xi'an Science and Technology Plan Project [22GXFW0098]
+FX This work was supported by the Xi'an Science and Technology Plan
+   Project, Fund 22GXFW0098.
+CR Chang SZ, 2018, IEEE T GEOSCI REMOTE, V56, P3747, DOI 10.1109/TGRS.2018.2810124
+   Dong YN, 2022, IEEE T IMAGE PROCESS, V31, P1559, DOI 10.1109/TIP.2022.3144017
+   Hammond DK, 2011, APPL COMPUT HARMON A, V30, P129, DOI 10.1016/j.acha.2010.04.005
+   Hu HJ, 2022, REMOTE SENS-BASEL, V14, DOI 10.3390/rs14246224
+   Hu HJ, 2022, IEEE GEOSCI REMOTE S, V19, DOI 10.1109/LGRS.2021.3108883
+   Jiang K, 2021, AAAI CONF ARTIF INTE, V35, P4139
+   Kang XD, 2017, IEEE T GEOSCI REMOTE, V55, P5600, DOI 10.1109/TGRS.2017.2710145
+   Li CY, 2023, IEEE T GEOSCI REMOTE, V61, DOI 10.1109/TGRS.2023.3279834
+   Li W, 2017, IEEE GEOSCI REMOTE S, V14, P597, DOI 10.1109/LGRS.2017.2657818
+   Li W, 2015, IEEE T GEOSCI REMOTE, V53, P1463, DOI 10.1109/TGRS.2014.2343955
+   Ning HY, 2019, IEEE T GEOSCI REMOTE, V57, P2263, DOI 10.1109/TGRS.2018.2872590
+   REED IS, 1990, IEEE T ACOUST SPEECH, V38, P1760, DOI 10.1109/29.60107
+   Tang JH, 2022, PR MACH LEARN RES
+   Tu B, 2024, IEEE T NEUR NET LEAR, V35, P8358, DOI 10.1109/TNNLS.2022.3227167
+   Tu B, 2022, IEEE T GEOSCI REMOTE, V60, DOI 10.1109/TGRS.2022.3217329
+   Tu B, 2022, IEEE T GEOSCI REMOTE, V60, DOI 10.1109/TGRS.2021.3116681
+   Xu YC, 2022, IEEE J-STARS, V15, P3351, DOI 10.1109/JSTARS.2022.3167830
+   Xu YC, 2020, IEEE GEOSCI REMOTE S, V17, P1248, DOI 10.1109/LGRS.2019.2943861
+   Yang XC, 2023, IEEE T NEUR NET LEAR, DOI 10.1109/TNNLS.2023.3303273
+NR 19
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD APR-JUN
+PY 2024
+VL 31
+IS 2
+BP 69
+EP 79
+DI 10.1109/MMUL.2024.3371381
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YF2K2
+UT WOS:001267003000007
+DA 2024-08-05
+ER
+
+PT J
+AU Yu, MZ
+   Tang, ZJ
+   Liang, XP
+   Zhang, XQ
+   Zhang, XP
+AF Yu, Mengzhu
+   Tang, Zhenjun
+   Liang, Xiaoping
+   Zhang, Xianquan
+   Zhang, Xinpeng
+TI Perceptual Hashing With Deep and Texture Features
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Feature extraction; Discrete cosine transforms; Tensors; Distortion;
+   Robustness; Three-dimensional displays; Sensitivity; Transforms; Image
+   quality; Multimedia systems; Classification algorithms; Detection
+   algorithms; Hash functions
+ID IMAGE QUALITY ASSESSMENT
+AB Image hashing is a useful technique for many multimedia systems, such as image authentication, image copy detection, tampering detection, and image quality assessment (IQA). However, most of the image hashing schemes do not make desirable performance of IQA. To tackle this, a new hashing scheme with deep and texture features is proposed for reduced-reference (RR)-IQA. In the proposed hashing, deep features are calculated from the discrete cosine transform coefficients of the three-order tensor stacked by the feature maps generated by the pretrained ResNet18. Texture features are extracted by the gray-level co-occurrence matrix in the nonsubsampled shearlet transform domain. Hash is determined by combining the quantized versions of the deep and texture features. Extensive experiments performed on open datasets indicate that the proposed perceptual hashing is superior to some baseline schemes in the performances of RR-IQA and classification.
+C1 [Yu, Mengzhu] Guangxi Normal Univ, Software Engn, Guilin 541004, Peoples R China.
+   [Tang, Zhenjun; Liang, Xiaoping; Zhang, Xianquan] Guangxi Normal Univ, Sch Comp Sci & Engn, Guilin 541004, Peoples R China.
+   [Zhang, Xinpeng] Fudan Univ, Sch Comp Sci, Shanghai 200433, Peoples R China.
+C3 Guangxi Normal University; Guangxi Normal University; Fudan University
+RP Tang, ZJ (corresponding author), Guangxi Normal Univ, Sch Comp Sci & Engn, Guilin 541004, Peoples R China.
+EM yumz1030@163.com; tangzj230@163.com; xpliang6@163.com; zxq6622@126.com;
+   zhangxinpeng@fudan.edu.cn
+OI Zhang, Xianquan/0000-0003-3359-117X; Tang, Zhenjun/0000-0003-3664-1363;
+   yu, mengzhu/0000-0002-5650-6065
+FU Guangxi Natural Science Foundation
+FX No Statement Available
+CR Boussakta S, 2004, IEEE T SIGNAL PROCES, V52, P992, DOI 10.1109/TSP.2004.823472
+   Easley G, 2008, APPL COMPUT HARMON A, V25, P25, DOI 10.1016/j.acha.2007.09.003
+   Gao GP, 2023, IEEE MULTIMEDIA, V30, P129, DOI 10.1109/MMUL.2023.3280669
+   Golestaneh S, 2016, IEEE T IMAGE PROCESS, V25, P5293, DOI 10.1109/TIP.2016.2601821
+   He KM, 2016, PROC CVPR IEEE, P770, DOI 10.1109/CVPR.2016.90
+   Huang X, 2016, IEEE TRUST BIG, P14, DOI [10.1109/TrustCom.2016.39, 10.1109/TrustCom.2016.0040]
+   Huang ZQ, 2021, IEEE T MULTIMEDIA, V23, P1516, DOI 10.1109/TMM.2020.2999188
+   Lin TY, 2014, LECT NOTES COMPUT SC, V8693, P740, DOI 10.1007/978-3-319-10602-1_48
+   Liu YT, 2018, IEEE T MULTIMEDIA, V20, P379, DOI 10.1109/TMM.2017.2729020
+   Qin C, 2018, SIGNAL PROCESS, V142, P194, DOI 10.1016/j.sigpro.2017.07.019
+   Schaefer G, 2004, PROC SPIE, V5307, P472, DOI 10.1117/12.525375
+   Tanchenko A, 2014, J VIS COMMUN IMAGE R, V25, P874, DOI 10.1016/j.jvcir.2014.01.008
+   Tang ZJ, 2018, COMPUT J, V61, P1695, DOI 10.1093/comjnl/bxy047
+   Tang ZJ, 2016, COMPUT SECUR, V62, P133, DOI 10.1016/j.cose.2016.07.006
+   Wang Z, 2005, PROC SPIE, V5666, P149, DOI 10.1117/12.597306
+   Wang Z, 2004, IEEE T IMAGE PROCESS, V13, P600, DOI 10.1109/TIP.2003.819861
+   Wu JJ, 2018, IEEE ACCESS, V6, P12493, DOI 10.1109/ACCESS.2018.2798573
+   Wu JJ, 2016, INFORM SCIENCES, V351, P18, DOI 10.1016/j.ins.2016.02.043
+   Yu MZ, 2022, IEEE T CIRC SYST VID, V32, P7559, DOI 10.1109/TCSVT.2022.3190273
+   Yu MZ, 2023, COMPUT J, V66, P1241, DOI 10.1093/comjnl/bxac010
+NR 20
+TC 1
+Z9 1
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JAN
+PY 2024
+VL 31
+IS 1
+BP 65
+EP 75
+DI 10.1109/MMUL.2024.3354998
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SC2P4
+UT WOS:001232197600006
+DA 2024-08-05
+ER
+
+PT J
+AU Guo, LQ
+   Lin, YX
+   Li, J
+   Wen, BH
+AF Guo, Lanqing
+   Lin, Yuxin
+   Li, Jian
+   Wen, Bihan
+TI Exploiting Illumination Knowledge in the Real World for Low-Light Image
+   Enhancement
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Lighting; Training; Generators; Cameras; Task analysis; Image
+   enhancement; Benchmark testing; Deep learning; Image quality;
+   Semisupervised learning
+AB Recently, deep-learning-based low-light image enhancement (LLIE) methods achieved promising results with large collections of data. However, low-/normal-light image pairs are difficult to obtain in practice. Although the indoor training pairs may be synthesized by manually adjusting the light exposure, there is currently no outdoor LLIE benchmark captured in the real world. To bridge the gap and benchmark outdoor LLIE tasks, we propose the first outdoor, real-world, 2-D, low-light dataset, dubbed RE2L. Based on RE2L, we propose a semisupervised LLIE framework to further exploit the illumination knowledge from both the signal fidelity constraint and characteristics of normal-light natural images. As the images in our RE2L dataset have various illumination conditions, we propose integrating the illumination degree information into the generator as guidance for controllable LLIE. Experimental results demonstrate that using RE2L for training deep LLIE schemes can improve the model effectiveness, both quantitatively and visually, especially on semisupervised LLIE.
+C1 [Guo, Lanqing; Wen, Bihan] Nanyang Technol Univ NTU, Sch Elect & Elect Engn, Singapore, Singapore.
+   [Lin, Yuxin; Li, Jian] Nanyang Technol Univ NTU, Elect & Elect Engn, Singapore, Singapore.
+C3 Nanyang Technological University; Nanyang Technological University
+RP Guo, LQ (corresponding author), Nanyang Technol Univ NTU, Sch Elect & Elect Engn, Singapore, Singapore.
+EM lanqing001@e.ntu.edu.sg; liny0090@e.ntu.edu.sg; liji0041@e.ntu.edu.sg;
+   bihan.wen@ntu.edu.sg
+OI Lin, Yuxin/0009-0004-5875-2966
+FU Ministry of Education, Republic of Singapore [RG61/22]
+FX This work was supported in part by the Ministry of Education, Republic
+   of Singapore, through its Start-Up Grant and Academic Research Fund Tier
+   1 (RG61/22)
+CR Abdullah-Al-Wadud M, 2007, IEEE T CONSUM ELECTR, V53, P593, DOI 10.1109/TCE.2007.381734
+   Cai JR, 2018, IEEE T IMAGE PROCESS, V27, P2049, DOI 10.1109/TIP.2018.2794218
+   Chen C, 2018, PROC CVPR IEEE, P3291, DOI 10.1109/CVPR.2018.00347
+   Lee C, 2013, IEEE T IMAGE PROCESS, V22, P5372, DOI 10.1109/TIP.2013.2284059
+   Lin Yuxin, 2022, 2022 IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR), P133, DOI 10.1109/MIPR54900.2022.00030
+   Lore KG, 2017, PATTERN RECOGN, V61, P650, DOI 10.1016/j.patcog.2016.06.008
+   Wang TC, 2018, PROC CVPR IEEE, P8798, DOI 10.1109/CVPR.2018.00917
+   Wang XT, 2018, PROC CVPR IEEE, P606, DOI 10.1109/CVPR.2018.00070
+   Wei C, 2018, Arxiv, DOI arXiv:1808.04560
+   Yang WH, 2020, PROC CVPR IEEE, P3060, DOI 10.1109/CVPR42600.2020.00313
+   Zhang YH, 2019, PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA (MM'19), P1632, DOI 10.1145/3343031.3350926
+   Zhu JY, 2017, IEEE I CONF COMP VIS, P2242, DOI 10.1109/ICCV.2017.244
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JAN
+PY 2024
+VL 31
+IS 1
+BP 33
+EP 41
+DI 10.1109/MMUL.2023.3314741
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SC2P4
+UT WOS:001232197600009
+DA 2024-08-05
+ER
+
+PT J
+AU Wang, MH
+   Hsieh, TS
+   Tseng, YY
+   Chi, PW
+AF Wang, Ming-Hung
+   Hsieh, Ting-Shen
+   Tseng, Yu-Yao
+   Chi, Po-Wen
+TI A Software-Defined Networking-Driven Reliable Transmission Architecture
+   for Enhancing Real-Time Video Streaming Quality
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Reliability engineering; Real-time systems; Streaming media; Data
+   communication; Computer network reliability; Packet loss; Software
+   defined networking; Protocols; Quality assessment
+AB This article introduces a novel framework designed to enhance the reliability and quality of real-time video streaming by implementing a retransmission scheme that integrates the Real-Time Streaming Protocol (RTSP) and software-defined networking (SDN) capabilities. Conventional data transmission approaches, like those based on the TCP, often suffer from high latency and diminished reliability when managing multiple retransmission requests. To address these issues, we implemented the proposed framework in the SDN switches, including a retransmission mechanism that incorporates a buffering agent to mitigate packet loss. Moreover, by utilizing SDN controllers to create a reliable User Datagram Protocol scheme for efficient data transmission, the framework strengthens both practicality and reliability. The framework's effectiveness is evaluated using three quality assessment metrics, and it demonstrates superior performance with a slight compromise in terms of latency compared to standard RTSP-based streaming.
+C1 [Wang, Ming-Hung; Hsieh, Ting-Shen] Natl Chung Cheng Univ, Dept Comp Sci & Informat Engn, Chiayi 621, Taiwan.
+   [Tseng, Yu-Yao] Natl Chung Cheng Univ, Comp Sci & Informat Engn, Chiayi 621, Taiwan.
+   [Chi, Po-Wen] Natl Taiwan Normal Univ, Dept Comp Sci & Informat Engn, Taipei 106, Taiwan.
+C3 National Chung Cheng University; National Chung Cheng University;
+   National Taiwan Normal University
+RP Wang, MH (corresponding author), Natl Chung Cheng Univ, Dept Comp Sci & Informat Engn, Chiayi 621, Taiwan.
+EM tonymhwang@ccu.edu.tw; donald880313@gmail.com; jordon7936185@gmail.com;
+   neokent@gapps.ntnu.edu.tw
+OI Chi, Po-Wen/0000-0001-5663-078X; Tseng, Yu-Yao/0009-0003-6142-5176;
+   Hsieh, Ting-Shen/0009-0008-5572-319X
+FU National Science and Technology Council
+FX No Statement Available
+CR Brassil J, 1997, P SOC PHOTO-OPT INS, V3231, P196, DOI 10.1117/12.290410
+   Chen H, 2020, IEEE T MULTIMEDIA, V22, P459, DOI 10.1109/TMM.2019.2928497
+   Farahani R, 2022, IEEE ICC, P745, DOI 10.1109/ICC45855.2022.9838949
+   Feamster N, 2014, ACM SIGCOMM COMP COM, V44, P87, DOI 10.1145/2602204.2602219
+   Go Y, 2019, IEEE T VEH TECHNOL, V68, P5114, DOI 10.1109/TVT.2019.2906561
+   Gómez D, 2014, 2014 IEEE SYMPOSIUM ON COMPUTERS AND COMMUNICATION (ISCC)
+   Gu Y., Using UDP for reliable data transfer over high bandwidth-delay product networks
+   He E, 2002, 2002 IEEE INTERNATIONAL CONFERENCE ON CLUSTER COMPUTING, PROCEEDINGS, P317, DOI 10.1109/CLUSTR.2002.1137760
+   Jung JH, 2020, ELECTRONICS-SWITZ, V9, DOI 10.3390/electronics9081320
+   Kalan RS, 2021, IEEE ACCESS, V9, P129917, DOI 10.1109/ACCESS.2021.3114299
+   Kreutz D, 2015, P IEEE, V103, P14, DOI 10.1109/JPROC.2014.2371999
+   Leon D., 2006, RFC 4588
+   Li Guo, 2012, 2012 International Conference on Computer Science and Service System (CSSS), P627, DOI 10.1109/CSSS.2012.162
+   Meggers J, 2000, IEEE SYMP COMP COMMU, P540, DOI 10.1109/ISCC.2000.860693
+   REED IS, 1960, J SOC IND APPL MATH, V8, P300, DOI 10.1137/0108018
+   Schulzrinne H., 1998, RFC2326
+   Shokrollahi A, 2006, IEEE T INFORM THEORY, V52, P2551, DOI 10.1109/TIT.2006.874390
+   Taha A. A., 2022, Webology, V19, P6555
+   Tran D. T., 2007, P WSEAS INT C COMP E, P1
+   Wang MH, 2017, IEEE ACCESS, V5, P5904, DOI 10.1109/ACCESS.2017.2693376
+NR 20
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JAN
+PY 2024
+VL 31
+IS 1
+BP 54
+EP 64
+DI 10.1109/MMUL.2023.3326835
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SC2P4
+UT WOS:001232197600010
+DA 2024-08-05
+ER
+
+PT J
+AU Wang, X
+   Zhang, HY
+   Liu, QH
+   Gong, W
+   Bai, S
+   You, HZ
+AF Wang, Xin
+   Zhang, Hongyan
+   Liu, Qianhe
+   Gong, Wei
+   Bai, Song
+   You, Hezhen
+TI You-Only-Look-Once Multiple-Strategy Printed Circuit Board Defect
+   Detection Model
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Feature extraction; Computational modeling; Transmission line matrix
+   methods; Surface treatment; Production; Convolutional neural networks;
+   Adaptive systems; Detection algorithms; YOLO; Printed circuits; Location
+   awareness; Boosting; Data mining
+AB Addressing the challenges of complex backgrounds, minute defects, and irregular shapes in PCB defect images that often lead to missed detections, inaccurate localizations, and false positives, this article introduces an improved you only look once (YOLO) model, termed YOLO-Biformer, to enhance the network's ability to detect surface defects on PCBs. First, YOLO-Biformer incorporates a hybrid attention module to differentiate the importance among various channels, thus strengthening the extraction of small target defect features and preventing the loss of minor target information often caused by deep convolutional networks. Second, the model introduces a jumping hollow space convolutional pyramid aimed at preserving more image details and interrelated information, thereby boosting the network's defect localization capability. Finally, the Enhanced Intersection Over Union-FocalLoss loss function is employed to enhance the network's ability to distinguish between defects with similar features. Experimental results demonstrate that the proposed algorithm increases the mean average precision by 4.1%, showing excellent performance in recognizing small target defects on printed circuit board surfaces and achieving both high accuracy and real-time capabilities.
+C1 [Wang, Xin; Zhang, Hongyan; Liu, Qianhe; Gong, Wei; Bai, Song] Shenyang Jianzhu Univ, Sch Elect & Control Engn, Shenyang 110168, Peoples R China.
+   [You, Hezhen] Tongji Univ, Comp Sci & Technol Dept, Shanghai 200092, Peoples R China.
+C3 Shenyang Jianzhu University; Tongji University
+RP Zhang, HY (corresponding author), Shenyang Jianzhu Univ, Sch Elect & Control Engn, Shenyang 110168, Peoples R China.
+EM wangx7988@sjzu.edu.cn; 799509995@qq.com; 2238552865@qq.com;
+   15640039693@163.com; 593493746@qq.com; 15542849392@163.com
+CR Ali R, 2022, AUTOMAT CONSTR, V141, DOI 10.1016/j.autcon.2022.104412
+   Choi W, 2020, IEEE T IND ELECTRON, V67, P8016, DOI 10.1109/TIE.2019.2945265
+   Girshick R, 2014, PROC CVPR IEEE, P580, DOI 10.1109/CVPR.2014.81
+   Hu J, 2018, PROC CVPR IEEE, P7132, DOI [10.1109/CVPR.2018.00745, 10.1109/TPAMI.2019.2913372]
+   Kang DH, 2022, STRUCT HEALTH MONIT, V21, P2190, DOI 10.1177/14759217211053776
+   Lewis J, 2023, SCI REP-UK, V13, DOI 10.1038/s41598-023-28530-2
+   Luo QW, 2020, IEEE T INSTRUM MEAS, V69, P626, DOI 10.1109/TIM.2019.2963555
+   Redmon J, 2016, PROC CVPR IEEE, P779, DOI 10.1109/CVPR.2016.91
+   Reis D, 2024, Arxiv, DOI [arXiv:2305.09972, DOI 10.48550/ARXIV.2305.09972]
+   Sandler M, 2018, PROC CVPR IEEE, P4510, DOI 10.1109/CVPR.2018.00474
+   Tsung-Yi Lin, 2017, 2017 IEEE International Conference on Computer Vision (ICCV), P2999, DOI 10.1109/ICCV.2017.324
+   Wang CY, 2023, PROC CVPR IEEE, P7464, DOI 10.1109/CVPR52729.2023.00721
+   Wang XL, 2018, PROC CVPR IEEE, P7794, DOI 10.1109/CVPR.2018.00813
+   Woo SH, 2018, LECT NOTES COMPUT SC, V11211, P3, DOI 10.1007/978-3-030-01234-2_1
+   Yang FC, 2024, SIGNAL IMAGE VIDEO P, V18, P173, DOI 10.1007/s11760-023-02726-5
+   Zhou YB, 2023, J MANUF SYST, V70, P557, DOI 10.1016/j.jmsy.2023.08.019
+NR 16
+TC 0
+Z9 0
+U1 5
+U2 5
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JAN
+PY 2024
+VL 31
+IS 1
+BP 76
+EP 87
+DI 10.1109/MMUL.2024.3359267
+PG 12
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SC2P4
+UT WOS:001232197600011
+DA 2024-08-05
+ER
+
+PT J
+AU Yang, J
+   Wang, HX
+   Taniguchi, I
+   Fan, YB
+   Zhou, JJ
+AF Yang, Jian
+   Wang, Haixin
+   Taniguchi, Ittetsu
+   Fan, Yibo
+   Zhou, Jinjia
+TI aVCSR: Adaptive Video Compressive Sensing Using Region-of-Interest
+   Detection in the Compressed Domain
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Image reconstruction; Compressed sensing; Sensors; Video sequences;
+   Matching pursuit algorithms; Transforms; Surveillance; Encoding; Channel
+   allocation
+ID NETWORK
+AB Existing video compressive sensing (CS) techniques with fixed sampling rates can deliver satisfactory reconstructed quality but necessitate large transmission bandwidth. To overcome this challenge, region-of-interest (ROI)-based CS algorithms have been introduced to allocate different coding resources between ROI and non-ROI segments. However, neglecting non-ROI excessively in these algorithms leads to unsatisfactory average quality for the eventual reconstruction. In this article, we integrate the ideas of these methods and propose a novel adaptive video CS approach using a low-complexity ROI detection method in the compressed domain. The ROI is detected and sampled by calculating the measurement variance between the reference frame and the subsequent frames. Conversely, the non-ROI is not transmitted but will be reconstructed by utilizing the reference frame through the corresponding position information. In addition, we present a compact method for adapting the threshold value, which allows each frame of a video to have a unique threshold rather than an artificially predetermined fixed value. Moreover, a reference-frame-updating strategy is developed to improve the versatility of the entire framework. Compared to state-of-the-art counterparts, extensive experimental results have demonstrated that our proposed methods achieve superior performance while tackling diverse scenes and using a lower sampling rate.
+C1 [Yang, Jian; Wang, Haixin; Zhou, Jinjia] Hosei Univ, Tokyo 1848584, Japan.
+   [Taniguchi, Ittetsu] Osaka Univ, Osaka 5650871, Japan.
+   [Fan, Yibo] Fudan Univ, Shanghai 200433, Peoples R China.
+C3 Hosei University; Osaka University; Fudan University
+RP Zhou, JJ (corresponding author), Hosei Univ, Tokyo 1848584, Japan.
+EM jian.yang.4f@stu.hosei.ac.jp; haixin.wang.8v@stu.hosei.ac.jp;
+   i-tanigu@ist.osaka-u.ac.jp; fanyibo@fudan.edu.cn; zhou@hosei.ac.jp
+OI Taniguchi, Ittetsu/0000-0002-7843-5907
+FU Japan Society for the Promotion of Science
+FX No Statement Available
+CR Agustsson E, 2017, IEEE COMPUT SOC CONF, P1122, DOI 10.1109/CVPRW.2017.150
+   Chen WJ, 2022, INT CONF ACOUST SPEE, P2460, DOI 10.1109/ICASSP43922.2022.9746648
+   Donoho DL, 2009, P NATL ACAD SCI USA, V106, P18914, DOI 10.1073/pnas.0909892106
+   Du J, 2021, 2021 THE 5TH INTERNATIONAL CONFERENCE ON VIDEO AND IMAGE PROCESSING, ICVIP 2021, P177, DOI 10.1145/3511176.3511203
+   Huang BW, 2021, Arxiv, DOI arXiv:2108.01522
+   Iliadis M, 2020, DIGIT SIGNAL PROCESS, V96, DOI 10.1016/j.dsp.2019.102591
+   Li HL, 2021, SENS IMAGING, V22, DOI 10.1007/s11220-021-00365-z
+   Liao LL, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19092079
+   Nandhini SA, 2018, MULTIMED TOOLS APPL, V77, P1905, DOI 10.1007/s11042-017-4345-2
+   Song JC, 2023, IEEE T IMAGE PROCESS, V32, P2202, DOI 10.1109/TIP.2023.3263100
+   Sultani W, 2018, PROC CVPR IEEE, P6479, DOI 10.1109/CVPR.2018.00678
+   Tropp JA, 2007, IEEE T INFORM THEORY, V53, P4655, DOI 10.1109/TIT.2007.909108
+   viratdata viratdata, VIRAT Description
+   Wang JM, 2022, IEEE T IMAGE PROCESS, V31, P734, DOI 10.1109/TIP.2021.3135476
+   Yang J, 2023, IEEE DATA COMPR CONF, P374, DOI 10.1109/DCC55655.2023.00057
+   Yang SL, 2017, PROC SPIE, V10605, DOI 10.1117/12.2295082
+   You D, 2021, IEEE T IMAGE PROCESS, V30, P6066, DOI 10.1109/TIP.2021.3091834
+   Zhang J, 2020, IEEE J-STSP, V14, P765, DOI 10.1109/JSTSP.2020.2977507
+   Zhang J, 2018, PROC CVPR IEEE, P1828, DOI 10.1109/CVPR.2018.00196
+   Zhao ZF, 2019, SIGNAL PROCESS-IMAGE, V78, P113, DOI 10.1016/j.image.2019.06.006
+NR 20
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JAN
+PY 2024
+VL 31
+IS 1
+BP 19
+EP 32
+DI 10.1109/MMUL.2023.3342062
+PG 14
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SC2P4
+UT WOS:001232197600002
+DA 2024-08-05
+ER
+
+PT J
+AU Ajankar, S
+   Dutta, T
+AF Ajankar, Sonali
+   Dutta, Tanima
+TI Image-Relevant Entities Knowledge-Aware News Image Captioning
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Decoding; Task analysis; Feature extraction; Visualization; Encoding;
+   Internet; Encyclopedias; Publishing; Image capture; Online services;
+   Semantics; Information integrity; Media; Multisensory integration
+AB News image captioning (NIC) generates entity-rich captions for news images via news article context. However, it inherits various challenges, like the presence of abstract semantic information based on named entities deteriorating the relationship between news images and the article. Due to the ambiguous relationship among image articles, the existing works struggle to exploit multimodal clues between text and images. To alleviate the aforementioned limitations, we proposed the image-relevant entities knowledge-aware NIC (IEK-NIC) novel framework. We propose to tweak the output of the model using the time-step-bounded entity constrained beam search algorithm for incorporating the entities' knowledge produced by the image-relevant entities generation method. The efficient usage of entities while generating captions plays a crucial role in enhancing performance. IEK-NIC shows an improvement in Consensus-based Image Description Evaluation score by a margin of 1.46 and 1.49 compared to the state of the art on the GoodNews and NYTimes800K datasets, respectively.
+C1 [Ajankar, Sonali; Dutta, Tanima] Indian Inst Technol, Dept Comp Sci & Engn, Varanasi 221005, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of
+   Technology BHU Varanasi (IIT BHU Varanasi)
+RP Ajankar, S (corresponding author), Indian Inst Technol, Dept Comp Sci & Engn, Varanasi 221005, India.
+EM sonaliajankar.rs.cse19@itbhu.ac.in; tanima.cse@iitbhu.ac.in
+RI Ajankar, Sonali/ACX-7296-2022
+OI Ajankar, Sonali/0000-0001-9608-7101
+FU Science and Engineering Research Board (SERB) Mathematical Research
+   Impact Centric Support (MATRICS)
+FX We thank the Science and Engineering Research Board (SERB) Mathematical
+   Research Impact Centric Support (MATRICS) for supporting this research.
+   This article has supplementary downloadable material avail-able at
+   https://doi.org/10.1109/MMUL.2024.3363429, provided by the authors.
+CR Bojanowski Piotr, 2017, T ASSOC COMPUT LING, V5, P135, DOI [10.48550/arXiv.1607.04606, DOI 10.1162/TACLA00051]
+   Biten AF, 2019, PROC CVPR IEEE, P12458, DOI 10.1109/CVPR.2019.01275
+   Hokamp C, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017), VOL 1, P1535, DOI 10.18653/v1/P17-1141
+   Liu FX, 2021, 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021), P6761
+   Liu YH, 2019, Arxiv, DOI [arXiv:1907.11692, DOI 10.48550/ARXIV.1907.11692]
+   Muller-Budack Eric, 2020, ICMR '20: Proceedings of the 2020 International Conference on Multimedia Retrieval, P16, DOI 10.1145/3372278.3390670
+   Ramisa A, 2018, IEEE T PATTERN ANAL, V40, P1072, DOI 10.1109/TPAMI.2017.2721945
+   Schroff F, 2015, PROC CVPR IEEE, P815, DOI 10.1109/CVPR.2015.7298682
+   Shetty R, 2018, IEEE MULTIMEDIA, V25, P34, DOI 10.1109/MMUL.2018.112135923
+   Tran Alasdair, 2020, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Proceedings, P13032, DOI 10.1109/CVPR42600.2020.01305
+   Vaswani A, 2017, ADV NEUR IN, V30
+   Wen Y, 2022, IEEE MULTIMEDIA, V29, P114, DOI 10.1109/MMUL.2022.3142986
+   Yang XW, 2021, 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021), P5162
+   Zhang J., 2023, P FIND ASS COMP LING, P12923, DOI [10.18653/v1/2023.findings-acl.818, DOI 10.18653/V1/2023.FINDINGS-ACL.818]
+   Zhang JJ, 2022, PROCEEDINGS OF THE 30TH ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA, MM 2022, P4365, DOI 10.1145/3503161.3547883
+   Zhang KP, 2016, IEEE SIGNAL PROC LET, V23, P1499, DOI 10.1109/LSP.2016.2603342
+   Zhang ZK, 2022, COMPUT ELECTR ENG, V104, DOI 10.1016/j.compeleceng.2022.108429
+   Zhao WT, 2021, Arxiv, DOI arXiv:2107.11970
+   Zhou MY, 2022, Arxiv, DOI arXiv:2212.00843
+NR 19
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JAN
+PY 2024
+VL 31
+IS 1
+BP 88
+EP 98
+DI 10.1109/MMUL.2024.3363429
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SC2P4
+UT WOS:001232197600008
+DA 2024-08-05
+ER
+
+PT J
+AU Sukel, M
+   Rudinac, S
+   Worring, M
+AF Sukel, Maarten
+   Rudinac, Stevan
+   Worring, Marcel
+TI Multimodal Temporal Fusion Transformers are Good Product Demand
+   Forecasters
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Demand forecasting; Task analysis; Transformers; Feature extraction;
+   Visualization; Logic gates; Data mining; Multimodal sensors
+AB Multimodal demand forecasting aims at predicting product demand utilizing visual, textual, and contextual information. This article proposes a method for such forecasting using an integrated architecture composed of convolutional, graph-based, and transformer-based networks. Since traditional forecasting methods depend on historical demand and factors like manually generated categorical information, they face challenges such as the cold start problem and handling of category dynamics. To address these challenges, our architecture allows for incorporating multimodal information, such as geographical information, product images, and textual descriptions. Experiments with the multimodal approach are performed on a real-world dataset of more than 50 million data points of article demand. The pipeline presented in this work enhances the reliability of the predictions, demonstrating the potential of leveraging multimodal information in product demand forecasting.
+C1 [Sukel, Maarten; Rudinac, Stevan; Worring, Marcel] Univ Amsterdam, NL-1089 XH Amsterdam, Netherlands.
+C3 University of Amsterdam
+RP Sukel, M (corresponding author), Univ Amsterdam, NL-1089 XH Amsterdam, Netherlands.
+EM m.m.sukel@uva.nl; s.rudinac@uva.nl; m.worring@uva.nl
+OI Worring, Marcel/0000-0003-4097-4136
+CR Das A., Google Research
+   Dheenadayalan Kumar, 2023, Neural Information Processing: 29th International Conference, ICONIP 2022, Virtual Event, Proceedings. Lecture Notes in Computer Science (13625), P409, DOI 10.1007/978-3-031-30111-7_35
+   Gao SC, 2022, PROCEEDINGS OF THE 2022 INTERNATIONAL CONFERENCE ON MULTIMEDIA RETRIEVAL, ICMR 2022, P416, DOI 10.1145/3512527.3531355
+   Gelli F, 2019, PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA (MM'19), P2263, DOI 10.1145/3343031.3350574
+   Gong YS, 2021, PROCEEDINGS OF THE 29TH ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA, MM 2021, P1120, DOI 10.1145/3474085.3481538
+   Grover A, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P855, DOI 10.1145/2939672.2939754
+   He KM, 2016, PROC CVPR IEEE, P770, DOI 10.1109/CVPR.2016.90
+   Honbu Y, 2022, PROCEEDINGS OF THE 2022 INTERNATIONAL CONFERENCE ON MULTIMEDIA RETRIEVAL, ICMR 2022, P19, DOI 10.1145/3512527.3531426
+   Li JN, 2022, PR MACH LEARN RES
+   Lim B, 2021, INT J FORECASTING, V37, P1748, DOI 10.1016/j.ijforecast.2021.03.012
+   Lim B, 2021, PHILOS T R SOC A, V379, DOI 10.1098/rsta.2020.0209
+   Mazloom M, 2016, P 24 ACM INT C MULT, P197, DOI [DOI 10.1145/2964284.2967210, 10.1145/2964284.2967210, 10]
+   Ramya N., 2016, Int. J. Appl. Res., V2, P76
+   Sales LF, 2021, MULTIMED TOOLS APPL, V80, P25851, DOI 10.1007/s11042-021-10885-1
+   Sanh V, 2020, Arxiv, DOI [arXiv:1910.01108, 10.48550/arXiv.1910.01108]
+   Singh L, 2019, Arxiv, DOI arXiv:1906.12120
+   Vergori AS, 2017, TOURISM ECON, V23, P1011, DOI 10.1177/1354816616656418
+   Wang EST, 2013, INT J RETAIL DISTRIB, V41, P805, DOI 10.1108/IJRDM-12-2012-0113
+   Wolters J, 2021, J RETAILING, V97, P726, DOI 10.1016/j.jretai.2021.01.003
+   Yamakata Y, 2022, PROCEEDINGS OF THE 30TH ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA, MM 2022, P6898, DOI 10.1145/3503161.3549203
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD APR-JUN
+PY 2024
+VL 31
+IS 2
+BP 48
+EP 60
+DI 10.1109/MMUL.2024.3373827
+PG 13
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YF2K2
+UT WOS:001267003000002
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Gong, R
+   Zhang, X
+   Pan, JN
+   Guo, J
+   Nie, XS
+AF Gong, Rui
+   Zhang, Xue
+   Pan, Jianan
+   Guo, Jie
+   Nie, Xiushan
+TI Vehicle Reidentification Based on Convolution and Vision Transformer
+   Feature Fusion
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Feature extraction; Transformers; Task analysis; Multilayer perceptrons;
+   Nonhomogeneous media; Correlation; Surveillance; Cameras; Security;
+   Vehicle detection
+AB Currently, surveillance cameras are extensively employed in public security, and vehicle reidentification has emerged as a burgeoning research area in computer vision. Nevertheless, vehicle reidentification grapples with the challenges of low intraclass similarity and high interclass similarity. This study tackles these challenges by introducing a novel vehicle reidentification method that integrates convolution and vision transformer features. Specifically, channel-by-channel convolution is incorporated into the feedforward layer to bolster the extraction of local features. Concurrently, the information from the last layer's class token and other patches is fused to yield a comprehensive and rich featured representation. Experiments conducted on the VeRi776 and VehicleID datasets validate that the proposed method outperforms current state-of-the-art vehicle reidentification methods.
+C1 [Gong, Rui; Zhang, Xue; Pan, Jianan; Guo, Jie; Nie, Xiushan] Shandong Jianzhu Univ, Sch Comp Sci & Technol, Jinan 250000, Peoples R China.
+C3 Shandong Jianzhu University
+RP Gong, R (corresponding author), Shandong Jianzhu Univ, Sch Comp Sci & Technol, Jinan 250000, Peoples R China.
+EM gongr1223@163.com; z15665783236@163.com; 15205813907@163.com;
+   guojiesdu@163.com; niexiushan@163.com
+FU National Natural Science Foundation of China [62176141, 62176139,
+   61876098]; Major Basic Research Project of the Natural Science
+   Foundation of Shandong Province [ZR2021ZD15]; Taishan Scholar Project of
+   Shandong Province [tsqn202103088]; Shandong Provincial Natural Science
+   Foundation for Distinguished Young Scholars [ZR2021JQ26]; Natural
+   Science Foundation of Shandong Province [ZR2021QF119]; Shandong Jianzhu
+   University
+FX This work was supported in part by the National Natural Science
+   Foundation of China (62176141, 62176139, and 61876098), Major Basic
+   Research Project of the Natural Science Foundation of Shandong
+   Province(ZR2021ZD15), Taishan Scholar Project of Shandong Province
+   (tsqn202103088), Shandong Provincial Natural Science Foundation for
+   Distinguished Young Scholars(ZR2021JQ26), Natural Science Foundation of
+   Shandong Province (ZR2021QF119), and special funds for distinguished
+   professors of Shandong Jianzhu University. This article was produced by
+   the Machine Learning and Pattern Recognition Group at Shandong Jianzhu
+   University. Jie Guo is the corresponding author.
+CR Bottou L., 2012, Neural Networks: Tricks of the Trade, volume 7700 of Lecture Notes in Computer Science, P1
+   Cao J, 2013, J ZHEJIANG U-SCI C, V14, P495, DOI 10.1631/jzus.CIDE1303
+   Chen CF, 2012, P AMER CONTR CONF, P6515
+   Chu RH, 2019, IEEE I CONF COMP VIS, P8281, DOI 10.1109/ICCV.2019.00837
+   Dosovitskiy A, 2021, Arxiv, DOI arXiv:2010.11929
+   Du L., 2023, P 2023 3 INT C NEUR, P287, DOI DOI 10.1109/NNICE58320.2023.10105738
+   Fang YK, 2020, PATTERN RECOGN, V102, DOI 10.1016/j.patcog.2020.107249
+   Guo HY, 2019, IEEE T IMAGE PROCESS, V28, P4328, DOI 10.1109/TIP.2019.2910408
+   Han K, 2021, Arxiv, DOI arXiv:2103.00112
+   He KM, 2016, PROC CVPR IEEE, P770, DOI 10.1109/CVPR.2016.90
+   He ST, 2021, Arxiv, DOI arXiv:2102.04378
+   Jin X, 2020, AAAI CONF ARTIF INTE, V34, P11165
+   Khorramshahi Pirazh, 2020, Computer Vision - ECCV 2020. 16th European Conference. Proceedings. Lecture Notes in Computer Science (LNCS 12359), P369, DOI 10.1007/978-3-030-58568-6_22
+   Khorramshahi P, 2019, IEEE I CONF COMP VIS, P6131, DOI 10.1109/ICCV.2019.00623
+   Li MX, 2014, IEEE T CONTR SYST T, V22, P1708, DOI 10.1109/TCST.2014.2298893
+   Li QP, 2013, CHIN CONT DECIS CONF, P3792
+   Liu HY, 2016, PROC CVPR IEEE, P2167, DOI 10.1109/CVPR.2016.238
+   Liu XC, 2016, IEEE INT CON MULTI
+   Meng DC, 2020, PROC CVPR IEEE, P7101, DOI 10.1109/CVPR42600.2020.00713
+   Qian JJ, 2020, MEAS SCI TECHNOL, V31, DOI 10.1088/1361-6501/ab8b81
+   Shen F, 2023, IEEE T IMAGE PROCESS, V32, P1039, DOI 10.1109/TIP.2023.3238642
+   Tang Z, 2019, IEEE I CONF COMP VIS, P211, DOI 10.1109/ICCV.2019.00030
+   Touvron H, 2021, PR MACH LEARN RES, V139, P7358
+   Vaswani A., 2017, Advances in neural information processing systems, P5998
+   Wang ZD, 2017, IEEE I CONF COMP VIS, P379, DOI 10.1109/ICCV.2017.49
+   Yuan K, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P559, DOI 10.1109/ICCV48922.2021.00062
+   Yuan L, 2021, Arxiv, DOI arXiv:2101.11986
+   Zhong Z, 2020, AAAI CONF ARTIF INTE, V34, P13001
+   Zhu JQ, 2020, IEEE T INTELL TRANSP, V21, P410, DOI 10.1109/TITS.2019.2901312
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD APR-JUN
+PY 2024
+VL 31
+IS 2
+BP 61
+EP 68
+DI 10.1109/MMUL.2024.3398189
+PG 8
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YF2K2
+UT WOS:001267003000001
+DA 2024-08-05
+ER
+
+PT J
+AU Zhou, JJ
+   Fu, C
+AF Zhou, Jinjia
+   Fu, Chen
+TI Adaptive Detachable Partition-Based Reference Frame Recompression for
+   Video Coding
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Encoding; Partitioning algorithms; Random access memory; Decoding;
+   Complexity theory; Termination of employment; Video coding
+ID ALGORITHM; COMPRESSION
+AB To reduce the huge off-chip dynamic random-access memory bandwidth which occupies a significant portion of the system power, reference frame recompression (RFRC) becomes one of the most vital components in the application-specified integrated circuit implementation of video codecs. RFRC challenges to increase the compression ratio with low-complexity and support random access of the compressed data. This article presents an adaptive detachable partition-based RFRC scheme which is capable of compressing a variable-size to a fixed bit of access unit. Compared with the conventional schemes which compress fixed-size partition to variable bits, this work can increase the compression ratio by greatly reducing the redundancy of the partitions' boundaries. Moreover, a high-speed coding algorithm is applied to reduce the complexity and increase the parallelism of compressing and decompressing. Finally, a new memory mapping strategy is utilized to support random access. As a result, the reference frame can be compressed by 68% with no quality degradation.
+C1 [Zhou, Jinjia] Hosei Univ, English Based Grad program, Tokyo 1848584, Japan.
+   [Fu, Chen] Hosei Univ, Sci & Engn, Tokyo 1848584, Japan.
+C3 Hosei University; Hosei University
+RP Zhou, JJ (corresponding author), Hosei Univ, English Based Grad program, Tokyo 1848584, Japan.
+EM zhou@hosei.ac.jp; chen.fu.6r@stu.hosei.ac.jp
+FU JSPS Bilateral Programs Joint Research Projects [JPJSBP120223210]
+FX This work was supported by the JSPS Bilateral Programs Joint Research
+   Projects under Grant JPJSBP120223210. Both authors contributed equally
+   to this work.Fu is the corresponding author.
+CR Abdoli M, 2021, IEEE MULTIMEDIA, V28, P88, DOI 10.1109/MMUL.2020.3042280
+   Cheng CC, 2009, IEEE T CIRC SYST VID, V19, P141, DOI 10.1109/TCSVT.2008.2009250
+   Guo L, 2014, IEEE T MULTIMEDIA, V16, P2323, DOI 10.1109/TMM.2014.2350256
+   Guo L, 2013, 2013 PROCEEDINGS OF THE 21ST EUROPEAN SIGNAL PROCESSING CONFERENCE (EUSIPCO)
+   Hsieh JH, 2023, IEEE MULTIMEDIA, V30, P37, DOI 10.1109/MMUL.2023.3253521
+   Hwang I, 2021, J WEB ENG, V20, P1813, DOI 10.13052/jwe1540-9589.2065
+   Hwang YT, 2015, IEEE T CIRC SYST VID, V25, P674, DOI 10.1109/TCSVT.2014.2355691
+   Kim J, 2010, IEEE T CIRC SYST VID, V20, P848, DOI 10.1109/TCSVT.2010.2045923
+   Kuo HC, 2012, IEEE T MULTIMEDIA, V14, P500, DOI 10.1109/TMM.2012.2191945
+   Lee YJ, 2007, IEEE INT SYMP CIRC S, P1621, DOI 10.1109/ISCAS.2007.378829
+   Lee YH, 2021, J CIRCUIT SYST COMP, V30, DOI 10.1142/S021812662130004X
+   Lian XC, 2018, IEEE T CIRC SYST VID, V28, P958, DOI 10.1109/TCSVT.2016.2638857
+   Lian XC, 2016, IEEE T CIRC SYST VID, V26, P223, DOI 10.1109/TCSVT.2015.2469572
+   Liu C, 2022, IEEE MULTIMEDIA, V29, P83, DOI 10.1109/MMUL.2022.3159372
+   Silveira D, 2019, J REAL-TIME IMAGE PR, V16, P391, DOI 10.1007/s11554-015-0551-1
+   Song L, 2010, EUR SIGNAL PR CONF, P2017
+   Zhou DJ, 2014, IEEE IMAGE PROC, P2120, DOI 10.1109/ICIP.2014.7025425
+   Zhou DJ, 2016, ISSCC DIG TECH PAP I, V59, P266, DOI 10.1109/ISSCC.2016.7418009
+   Zhou DJ, 2011, IEEE J SOLID-ST CIRC, V46, P777, DOI 10.1109/JSSC.2011.2109550
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD APR-JUN
+PY 2024
+VL 31
+IS 2
+BP 17
+EP 25
+DI 10.1109/MMUL.2024.3399236
+PG 9
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YF2K2
+UT WOS:001267003000004
+DA 2024-08-05
+ER
+
+PT J
+AU Fu, DX
+   Zheng, SW
+   Xie, PC
+   Li, WH
+AF Fu, Dongxin
+   Zheng, Shaowu
+   Xie, Pengcheng
+   Li, Weihua
+TI Depth-Guided Aggregation for Real-Time Binocular Depth Estimation
+   Network
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Costs; Estimation; Feature extraction; Three-dimensional displays;
+   Convolution; Real-time systems; Data mining; Cameras
+AB Using binocular cameras to obtain depth information of target pixels offers a cost-effective and natural alternative to lidar systems. However, most of the current binocular depth estimation networks have difficulty achieving a better balance between speed and accuracy in real-world situations, and their prediction accuracy for long-range depth is often limited. In this article, we introduce the end-to-end real-time depth estimation network (RTDENet), which efficiently utilizes multiscale cost volumes for improved performance. We propose an efficient and flexible cost aggregation module that supplements residual information with high-resolution cost volumes. By replacing some computationally demanding 3-D convolutional layers with depth-guided excitation, we maintain accuracy while effectively controlling model computation. Alongside the distance-sensitive loss function, RTDENet achieves a global difference of 2.41 m and an inference time of 27 ms on the KITTI Stereo dataset. This balance of speed and accuracy outperforms other state-of-the-art algorithms in depth estimation tasks.
+C1 [Fu, Dongxin; Zheng, Shaowu; Xie, Pengcheng; Li, Weihua] South China Univ Technol, Guangzhou, Peoples R China.
+C3 South China University of Technology
+RP Li, WH (corresponding author), South China Univ Technol, Guangzhou, Peoples R China.
+EM fdx24@foxmail.com; mezhengsw@mail.scut.edu.cn; xpc97@foxmail.com;
+   whlee@scut.edu.cn
+OI Li, Weihua/0000-0002-7493-1399
+FU Key-Area Research and Development Program of Guangzhou City
+   [202206030005]
+FX This work was supported in part by the Key-Area Research and Development
+   Program of Guangzhou City under Grant 202206030005.
+CR Chang JR, 2018, PROC CVPR IEEE, P5410, DOI 10.1109/CVPR.2018.00567
+   Cheng X., 2020, P ADV NEUR INF PROC, P169
+   Chuah W, 2020, Arxiv, DOI arXiv:2009.04629
+   Guo XY, 2019, PROC CVPR IEEE, P3268, DOI 10.1109/CVPR.2019.00339
+   Kendall A, 2017, IEEE I CONF COMP VIS, P66, DOI 10.1109/ICCV.2017.17
+   Khamis S, 2018, LECT NOTES COMPUT SC, V11219, P596, DOI 10.1007/978-3-030-01267-0_35
+   Mayer N, 2016, PROC CVPR IEEE, P4040, DOI 10.1109/CVPR.2016.438
+   Menze M, 2015, PROC CVPR IEEE, P3061, DOI 10.1109/CVPR.2015.7298925
+   Pang JH, 2017, IEEE INT CONF COMP V, P878, DOI 10.1109/ICCVW.2017.108
+   Reza MA, 2018, IEEE INT C INT ROBOT, P4751, DOI 10.1109/IROS.2018.8593971
+   Shen ZL, 2021, PROC CVPR IEEE, P13901, DOI 10.1109/CVPR46437.2021.01369
+   Wang Y, 2019, IEEE INT CONF ROBOT, P5893, DOI [10.1109/icra.2019.8794003, 10.1109/ICRA.2019.8794003]
+   Weinzaepfel P., 2023, P IEEE CVF C COMP VI, P969
+   Xie Y, 2021, IEEE MULTIMEDIA, V28, P38, DOI 10.1109/MMUL.2020.3030027
+   Xu HF, 2020, PROC CVPR IEEE, P1956, DOI 10.1109/CVPR42600.2020.00203
+   Yang GR, 2019, PROC CVPR IEEE, P899, DOI 10.1109/CVPR.2019.00099
+   You Y., 2020, ICLR
+   Zhang FH, 2019, PROC CVPR IEEE, P185, DOI 10.1109/CVPR.2019.00027
+   Zhang H., 2020, arXiv
+   Zhong Y., 2017, arXiv, DOI 10.48550/arXiv.1709.00930(2017).1709.00930
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD APR-JUN
+PY 2024
+VL 31
+IS 2
+BP 36
+EP 47
+DI 10.1109/MMUL.2024.3395695
+PG 12
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YF2K2
+UT WOS:001267003000006
+DA 2024-08-05
+ER
+
+PT J
+AU Baraheem, SS
+   Nguyen, TV
+AF Baraheem, Samah S.
+   Nguyen, Tam V.
+TI S<SUP>5</SUP>: Sketch-to-Image Synthesis via Scene and Size Sensing
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Image synthesis; Instance segmentation; Feature extraction; Semantics;
+   Image edge detection; Task analysis; Image analysis
+AB The sketch-to-image synthesis method transforms a simple abstract black-and-white sketch into an image. Most sketch-to-image synthesis methods generate an image in an end-to-end manner, leading them to generate a nonsatisfactory result. The reason is that, in end-to-end models, the models generate images directly from the input sketches. Thus, with very abstract and complicated sketches, the models might struggle in generating naturalistic images due to the simultaneous focus on both factors: overall shape and fine-grained details. In this article, we propose dividing the problem into subproblems. To this end, an intermediate output, which is a semantic mask map, is first generated from the input sketch via an instance and semantic segmentation. In the instance segmentation stage, the objects' sizes might be modified depending on the surrounding environment and their respective sizes before to reflect reality and produce more realistic images. In the semantic segmentation stage, a background segmentation is first constructed based on the context of the detected objects. Various natural scenes are implemented for both indoor and outdoor scenes. Following this, a foreground segmentation process is commenced, where each detected object is semantically added into the constructed segmented background. Then, in the next stage, an image-to-image translation model is leveraged to convert the semantic mask map into a colored image. Finally, a postprocessing stage is incorporated to further enhance the image result. Extensive experiments demonstrate the superiority of our proposed method over state-of-the-art methods.
+C1 [Baraheem, Samah S.] Umm Al Qura Univ, Dept Comp Sci, Mecca 21955, Saudi Arabia.
+   [Nguyen, Tam V.] Univ Dayton, Dept Comp Sci, Dayton, OH 45469 USA.
+C3 Umm Al Qura University; University System of Ohio; University of Dayton
+RP Baraheem, SS (corresponding author), Umm Al Qura Univ, Dept Comp Sci, Mecca 21955, Saudi Arabia.
+EM ssbaraheem@uqu.edu.sa; tnguyen1@udayton.edu
+OI Nguyen, Tam/0000-0003-0236-7992
+FU Umm Al-Qura University, in Saudi Arabia; NSF [2025234]; University of
+   DaytonOffice for Graduate Academic Affairs through the Graduate Student
+   Summer Fellowship Program
+FX The first author would like to thank Umm Al-Qura University, in Saudi
+   Arabia, for the continuous support. The second author is supported by
+   NSF Grant 2025234. This work was supported in part by the University of
+   DaytonOffice for Graduate Academic Affairs through the Graduate Student
+   Summer Fellowship Program.
+CR Beyeler M., 2015, OpenCV with Python Blueprints: Design and Develop Advanced Computer Vision Projects Using OpenCV with Python
+   Eitz M, 2012, ACM T GRAPHIC, V31, DOI 10.1145/2185520.2185540
+   Gao CY, 2020, PROC CVPR IEEE, P5173, DOI 10.1109/CVPR42600.2020.00522
+   Gao JY, 2020, Arxiv, DOI arXiv:1912.03672
+   Han T., 2020, P 34 INT C NEUR INF, V33, P9972, DOI DOI 10.5555/3495724.3496560
+   Hensel M, 2017, ADV NEUR IN, V30
+   Li D, 2017, IEEE I CONF COMP VIS, P5543, DOI 10.1109/ICCV.2017.591
+   Liu XH, 2020, Arxiv, DOI arXiv:1910.06809
+   Qiao SY, 2021, PROC CVPR IEEE, P10208, DOI 10.1109/CVPR46437.2021.01008
+   Rajput GG, 2019, PROCEDIA COMPUT SCI, V165, P216, DOI 10.1016/j.procs.2020.01.089
+   Runtao Liu, 2020, Computer Vision - ECCV 2020. 16th European Conference. Proceedings. Lecture Notes in Computer Science (LNCS 12348), P36, DOI 10.1007/978-3-030-58580-8_3
+   Salimans T, 2016, ADV NEUR IN, V29
+   Sangkloy P, 2016, ACM T GRAPHIC, V35, DOI 10.1145/2897824.2925954
+   Wan ZY, 2021, Arxiv, DOI arXiv:2103.14031
+   Wang TF, 2022, Arxiv, DOI arXiv:2205.12952
+   Wang Z, 2004, IEEE T IMAGE PROCESS, V13, P600, DOI 10.1109/TIP.2003.819861
+   Xie SN, 2015, IEEE I CONF COMP VIS, P1395, DOI [10.1007/s11263-017-1004-z, 10.1109/ICCV.2015.164]
+   Yang BY, 2022, IEEE T NEUR NET LEAR, V33, P7141, DOI 10.1109/TNNLS.2021.3084252
+   Zhang CZ, 2021, IEEE T NEUR NET LEAR, V32, P5404, DOI 10.1109/TNNLS.2021.3072883
+   Zhang R, 2018, PROC CVPR IEEE, P586, DOI 10.1109/CVPR.2018.00068
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD APR-JUN
+PY 2024
+VL 31
+IS 2
+BP 7
+EP 16
+DI 10.1109/MMUL.2024.3375610
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YF2K2
+UT WOS:001267003000005
+DA 2024-08-05
+ER
+
+PT J
+AU Veksler, M
+   Aygun, RS
+   Akkaya, K
+   Iyengar, SS
+AF Veksler, Maryna
+   Aygun, Ramazan S.
+   Akkaya, Kemal
+   Iyengar, Sitharama S.
+TI A Convolutional Neural Network Ensemble for Video Source Camera
+   Forensics
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Convolutional neural networks; Cameras; Data mining; Feature extraction;
+   Streaming media; Metadata; Internet of Things
+AB The advancement of Internet of Things technologies has influenced a substantial increase in the use of multimedia devices. Consequently, forensic specialists have begun to experience a vast load of video and image data during investigative procedures. This has triggered a need to ensure the integrity of multimedia data and verify its source origin for digital forensics processes. In this article, we address the problem of identifying the video source camera of the video data acquired by investigators. We develop a novel convolutional neural network (CNN) ensemble framework to identify the video source camera. In our method, we analyze the video data using patches extracted from intracoded frame (I-frame) quadrants (i.e., nonoverlapping squares) using independent CNNs for each quadrant to achieve location awareness. Experimental results demonstrate that our framework is robust for the same device-type classification and outperforms existing deep learning-based techniques.
+C1 [Veksler, Maryna] Florida Int Univ, Adv Wireless & Secur Lab Knight Fdn, Sch Comp & Informat Sci, Miami, FL 33174 USA.
+   [Aygun, Ramazan S.] Kennesaw State Univ, Dept Comp Sci, Marietta, GA 30060 USA.
+   [Akkaya, Kemal; Iyengar, Sitharama S.] Florida Int Univ, Knight Fdn, Sch Comp & Informat Sci, Miami, FL 33174 USA.
+C3 State University System of Florida; Florida International University;
+   University System of Georgia; Kennesaw State University; State
+   University System of Florida; Florida International University
+RP Veksler, M (corresponding author), Florida Int Univ, Adv Wireless & Secur Lab Knight Fdn, Sch Comp & Informat Sci, Miami, FL 33174 USA.
+EM mveks001@fiu.edu; raygun@kennesaw.edu; kakkaya@fiu.edu;
+   iyengar@cis.fiu.edu
+OI Aygun, Ramazan/0000-0001-7244-7475
+FU U.S. Army Research Office;  [W911NF-21-1-0264]
+FX This work was supported primarily by the U.S. Army Research Office and
+   accomplished under Grant W911NF-21-1-0264. The views and conclusions
+   con-tained in this article are those of the authors andshould not be
+   interpreted as representing the offi-cial policies, either expressed or
+   implied, of theU.S. Army Research Office or the U.S. government.The U.S.
+   government is authorized to reproduceand distribute reprints for
+   government purposesnotwithstanding any copyright notation herein.This
+   work was supported in part by research computing resources and technical
+   expertise via a partnership between Kennesaw State University'sOffice of
+   the Vice President for Research and the Office of the CIO and Vice
+   President for Information Technology.
+CR Akbari Y, 2024, EXPERT SYST APPL, V238, DOI 10.1016/j.eswa.2023.121603
+   Akbari Y, 2022, INT C PATT RECOG, P599, DOI 10.1109/ICPR56361.2022.9956272
+   Akbari Y, 2022, IEEE ACCESS, V10, P20080, DOI 10.1109/ACCESS.2022.3151406
+   Altinisik E, 2022, IEEE T INF FOREN SEC, V17, P3211, DOI 10.1109/TIFS.2022.3204210
+   [Anonymous], HIGH PERFORMANCE COM
+   Bayar B, 2018, IEEE T INF FOREN SEC, V13, P2691, DOI 10.1109/TIFS.2018.2825953
+   Bennabhaktula G. S., 2022, SN Comput. Sci., V3, DOI DOI 10.1007/S42979-022-01202-0
+   Cozzolino D, 2020, IEEE T INF FOREN SEC, V15, P144, DOI 10.1109/TIFS.2019.2916364
+   Dal Cortivo D, 2021, J IMAGING, V7, DOI 10.3390/jimaging7080135
+   Holt B., 2013, ECML PKDD Workshop: Languages for Data Mining and Machine Learning, P108, DOI [DOI 10.48550/ARXIV.1309.0238, 10.48550/arXiv.1309.0238]
+   Hosler B, 2019, INT CONF ACOUST SPEE, P8271, DOI 10.1109/icassp.2019.8682608
+   Iuliani M, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19030649
+   Jordan C. M., 2020, Discovery of social media evidence in legal proceedings
+   Lawgaly Ashref, 2021, 2021 International Conference on Computing, Electronics & Communications Engineering (iCCECE), P19, DOI 10.1109/iCCECE52344.2021.9534850
+   López RR, 2020, IEEE ACCESS, V8, P36363, DOI 10.1109/ACCESS.2020.2971785
+   Rong D., 2021, Open J. Internet Things, V7, P23
+   Shullani D, 2017, EURASIP J INF SECUR, DOI 10.1186/s13635-017-0067-2
+   Veksler Maryna, 2022, 2022 IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR), P41, DOI 10.1109/MIPR54900.2022.00015
+   Yang WC, 2021, MULTIMED TOOLS APPL, V80, P6617, DOI 10.1007/s11042-020-09763-z
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD APR-JUN
+PY 2024
+VL 31
+IS 2
+BP 26
+EP 35
+DI 10.1109/MMUL.2024.3372372
+PG 10
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YF2K2
+UT WOS:001267003000008
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, C
+   Niu, Y
+   Ma, MM
+   Li, F
+   Shi, GM
+AF Liu, Chang
+   Niu, Yi
+   Ma, Mingming
+   Li, Fu
+   Shi, Guangming
+TI Retinex-Guided Channel Grouping-Based Patch Swap for Arbitrary Style
+   Transfer
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Feature extraction; Surface texture; Reflectivity; Lighting; Tensors;
+   Codes; Image reconstruction; Image synthesis; Decoding; User experience
+AB Since the finite features harvested from one single esthetic style image are inadequate to represent the rich textures of the content natural image, existing techniques treat the full channel style feature patches as simple signal tensors and create new style feature patches via signal-level fusion, which ignore the implicit diversities existing in style features and thus fail in generating better stylized results. In this article, we propose a retinex theory guided, channel grouping-based patch swap technique to solve the aforementioned challenges. A channel grouping strategy groups the style feature maps into surface and texture channels, which prevents the winner-takes-all problem. Retinex theory-based decomposition controls a more stable channel code rate generation. In addition, we provide a complementary fusion and multiscale generation strategy to prevent unexpected black areas and over-stylized results, respectively. Experimental results demonstrate that the proposed method outperforms the existing techniques in providing more style-consistent textures while keeping the content fidelity.
+C1 [Liu, Chang; Niu, Yi; Ma, Mingming; Li, Fu; Shi, Guangming] Xidian Univ, Xian 710000, Peoples R China.
+C3 Xidian University
+RP Niu, Y (corresponding author), Xidian Univ, Xian 710000, Peoples R China.
+EM liuchang1996@stu.xidian.edu.cn; niuyi@mail.xidian.edu.cn;
+   mamm@stu.xidian.edu.cn; fuli@mail.xidian.edu.cn;
+   gmshi@mail.xidian.edu.cn
+FU NSFC
+FX No Statement Available
+CR Gatys LA, 2015, Arxiv, DOI [arXiv:1508.06576, 10.1167/16.12.326, DOI 10.1167/16.12.326]
+   Chandran P, 2021, PROC CVPR IEEE, P7968, DOI 10.1109/CVPR46437.2021.00788
+   Chen HB, 2021, ADV NEUR IN, V34
+   Cheng JX, 2021, PROC CVPR IEEE, P134, DOI 10.1109/CVPR46437.2021.00020
+   Choi DH, 2007, IEEE INT SYMP CIRC S, P3948, DOI 10.1109/ISCAS.2007.378664
+   Choi I. H., 2008, P 16 EUR SIGN PROC C, P1
+   Deng YY, 2020, MM '20: PROCEEDINGS OF THE 28TH ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA, P2719, DOI 10.1145/3394171.3414015
+   Ding H, 2022, INFORM SCIENCES, V587, P63, DOI 10.1016/j.ins.2021.11.077
+   Duck S. Y., Painter by numbers
+   Frigo O, 2016, PROC CVPR IEEE, P553, DOI 10.1109/CVPR.2016.66
+   Ghiasi G., 2017, arXiv
+   Huang X, 2017, IEEE I CONF COMP VIS, P1510, DOI 10.1109/ICCV.2017.167
+   Huo J, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P14841, DOI 10.1109/ICCV48922.2021.01459
+   [纪则轩 JI Ze-xuan], 2009, [微电子学与计算机, Microelectronics & Computer], V26, P99
+   Jing YC, 2022, LECT NOTES COMPUT SC, V13667, P111, DOI 10.1007/978-3-031-20071-7_7
+   Jing YC, 2020, AAAI CONF ARTIF INTE, V34, P4369
+   Jing YC, 2020, IEEE T VIS COMPUT GR, V26, P3365, DOI 10.1109/TVCG.2019.2921336
+   Johnson J, 2016, LECT NOTES COMPUT SC, V9906, P694, DOI 10.1007/978-3-319-46475-6_43
+   Li YJ, 2017, ADV NEUR IN, V30
+   Lin TY, 2014, LECT NOTES COMPUT SC, V8693, P740, DOI 10.1007/978-3-319-10602-1_48
+   Liu SH, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P6629, DOI 10.1109/ICCV48922.2021.00658
+   Luo XA, 2023, LECT NOTES COMPUT SC, V13847, P134, DOI 10.1007/978-3-031-26293-7_9
+   Mordvintsev A., 2015, Inceptionism:Going deeper into neural networks
+   Parihar AS, 2018, PROCEEDINGS OF THE 2ND INTERNATIONAL CONFERENCE ON INVENTIVE SYSTEMS AND CONTROL (ICISC 2018), P619, DOI 10.1109/ICISC.2018.8398874
+   Park DY, 2019, PROC CVPR IEEE, P5873, DOI 10.1109/CVPR.2019.00603
+   Chen TQ, 2016, Arxiv, DOI arXiv:1612.04337
+   Qu Y, 2022, IEEE T PATTERN ANAL, V44, P7046, DOI 10.1109/TPAMI.2021.3095948
+   RUDIN LI, 1992, PHYSICA D, V60, P259, DOI 10.1016/0167-2789(92)90242-F
+   Samuth B, 2022, IEEE IMAGE PROC, P3490, DOI 10.1109/ICIP46576.2022.9897334
+   Shen L, 2017, Arxiv, DOI arXiv:1711.02488
+   Sheng L, 2018, PROC CVPR IEEE, P8242, DOI 10.1109/CVPR.2018.00860
+   Simonyan K, 2015, Arxiv, DOI arXiv:1409.1556
+   Ulyanov D, 2017, PROC CVPR IEEE, P4105, DOI 10.1109/CVPR.2017.437
+   Wang ZZ, 2022, Arxiv, DOI arXiv:2101.06381
+   Wei C, 2018, Arxiv, DOI arXiv:1808.04560
+   Yao Y, 2019, PROC CVPR IEEE, P1467, DOI 10.1109/CVPR.2019.00156
+   Zhang YH, 2019, PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA (MM'19), P1632, DOI 10.1145/3343031.3350926
+   Zhu Y, 2020, IEEE IMAGE PROC, P613, DOI 10.1109/ICIP40778.2020.9190962
+   Zotin Alexander G., 2020, International Journal of Reasoning-based Intelligent Systems, V12, P106, DOI 10.1016/j.procs.2018.04.179
+NR 39
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JAN
+PY 2024
+VL 31
+IS 1
+BP 7
+EP 18
+DI 10.1109/MMUL.2023.3318636
+PG 12
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SC2P4
+UT WOS:001232197600005
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Li, HF
+   Hong, XW
+   Huang, GH
+   Xu, XB
+   Xia, QF
+AF Li, Hengfan
+   Hong, Xinwei
+   Huang, Guohua
+   Xu, Xuanbo
+   Xia, Qingfeng
+TI Uncertainty-Guided Different Levels of Pseudolabels for Semisupervised
+   Medical Image Segmentation
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Uncertainty; Reliability; Predictive models; Biomedical imaging; Image
+   segmentation; Noise measurement; Training; Design methodology; Labeling
+AB The significance of low-quality data in unlabeled medical images is always underestimated. We believe that these underestimated data contain valuable information that remains largely unexplored. We present a novel uncertainty-guided different levels of pseudolabels (UDLP) framework to explore the underestimated data in medical images. The framework consists of a student-teacher model that uses uncertainty to classify the pseudolabels predicted by the teacher model into three levels: high confidence, low confidence, and unreliability. The student model learns directly from high-confidence pseudolabels. By using the confident learning method in low-confidence pseudolabels, the teacher model corrects the noisy labels in low-confidence voxels to provide positive feature information for the student model. We design a method for removing unreliable pseudolabels, to further enhance model's generalizability. The proposed framework UDLP is evaluated on two datasets and demonstrates superior performance compared to other state-of-the-art methods.
+C1 [Li, Hengfan; Huang, Guohua] Shaoyang Univ, Shaoyang 422000, Peoples R China.
+   [Hong, Xinwei] Peking Univ, Beijing 100080, Peoples R China.
+   [Xu, Xuanbo] Shantou Power Supply Bur Guangdong Power Grid, Shantou 515000, Peoples R China.
+   [Xia, Qingfeng] Wuxi Neurosurg Inst, Wuxi, Peoples R China.
+C3 Shaoyang University; Peking University
+RP Li, HF (corresponding author), Shaoyang Univ, Shaoyang 422000, Peoples R China.
+EM 1401210020@qq.com; timmyhxw@163.com; 342255780@qq.com;
+   xuanbo_xu@163.com; xqf@cwxu.edu.cn
+OI Xia, Qingfeng/0000-0003-0829-6750
+FU Shaoyang University Innovation Foundation for Postgraduate
+FX No Statement Available
+CR Ainam JP, 2019, IEEE ACCESS, V7, P27899, DOI 10.1109/ACCESS.2019.2901599
+   Alves N, 2022, LECT NOTES COMPUT SC, V13816, P116, DOI 10.1007/978-3-031-23911-3_11
+   Bakas Spyridon (Spyros), 2020, IEEE DataPort
+   Dwivedi S, 2022, IEEE MULTIMEDIA, V29, P45, DOI 10.1109/MMUL.2022.3156471
+   Gao SB, 2023, Arxiv, DOI arXiv:2307.06312
+   Huai Z, 2023, LECT NOTES COMPUT SC, V14226, P618, DOI 10.1007/978-3-031-43990-2_58
+   Isensee F, 2021, NAT METHODS, V18, P203, DOI 10.1038/s41592-020-01008-z
+   Milletari F, 2016, INT CONF 3D VISION, P565, DOI 10.1109/3DV.2016.79
+   Northcutt CG, 2021, J ARTIF INTELL RES, V70, P1373
+   Peiris H, 2023, NAT MACH INTELL, V5, P724, DOI 10.1038/s42256-023-00682-w
+   Shen ZQ, 2023, Arxiv, DOI [arXiv:2301.04465, DOI 10.48550/ARXIV.2301.04465]
+   Thompson BH, 2022, I S BIOMED IMAGING, DOI 10.1109/ISBI52829.2022.9761681
+   Wu YC, 2022, MED IMAGE ANAL, V81, DOI 10.1016/j.media.2022.102530
+   Xiong ZH, 2021, MED IMAGE ANAL, V67, DOI 10.1016/j.media.2020.101832
+   Yao HF, 2022, AAAI CONF ARTIF INTE, P3099
+   Yu LQ, 2019, LECT NOTES COMPUT SC, V11765, P605, DOI 10.1007/978-3-030-32245-8_67
+   Zhang YC, 2023, ARTIF INTELL MED, V138, DOI 10.1016/j.artmed.2022.102476
+   Zhao XY, 2023, Arxiv, DOI arXiv:2301.05500
+   Zhao Y, 2023, IEEE J BIOMED HEALTH, V27, P3912, DOI 10.1109/JBHI.2023.3273609
+   Zhong LF, 2023, Arxiv, DOI arXiv:2305.18830
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JAN
+PY 2024
+VL 31
+IS 1
+BP 42
+EP 53
+DI 10.1109/MMUL.2023.3329006
+PG 12
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SC2P4
+UT WOS:001232197600001
+DA 2024-08-05
+ER
+
+PT J
+AU Li, CQ
+   Shen, XH
+   Liu, S
+AF Li, Chengqing
+   Shen, Xianhui
+   Liu, Sheng
+TI Cryptanalyzing an Image Encryption Algorithm Underpinned by 2-D
+   Lag-Complex Logistic Map
+SO IEEE MULTIMEDIA
+LA English
+DT Article
+DE Encryption; Logistics; Heuristic algorithms; Three-dimensional displays;
+   Social networking (online); Resists; Security management; Image
+   analysis; Two dimensional displays; Random sequences; Algorithm design
+   and analysis
+ID PERMUTATION
+AB This article conducts a security analysis of an image encryption algorithm that employs 2-D lag-complex logistic map (LCLM) as a pseudorandom number generator (PRNG). This algorithm uses the sum of all pixel values in the plain image as the initial value for the PRNG, thereby influencing the randomization of basic encryption operations. However, it is observed that certain factors lead to the generation of identical pseudorandom sequences for different plain images. Capitalizing on this vulnerability, we propose a chosen-plaintext attack strategy that effectively cracks the six encryption steps through a divide-and-conquer approach. By exploiting weaknesses inherent in the 2-D LCLM, the number of required chosen plain images is significantly reduced to $ 5\cdot \log_{2}(MN)+95$5<middle dot>log2(MN)+95, where $ MN$MN represents the total pixel count of the plain image.
+C1 [Li, Chengqing; Shen, Xianhui] Xiangtan Univ, Sch Comp Sci, Xiangtan 411105, Hunan, Peoples R China.
+   [Liu, Sheng] Hunan Univ, Sch Comp Sci & Elect Engn, Changsha 410082, Hunan, Peoples R China.
+C3 Xiangtan University; Hunan University
+RP Li, CQ (corresponding author), Xiangtan Univ, Sch Comp Sci, Xiangtan 411105, Hunan, Peoples R China.
+EM chengqingg@gmail.com; xianhui_shen@163.com; shengliu@hnu.edu.cn
+RI Shen, Xianhui/JWP-3819-2024; Liu, Sheng/GNP-1840-2022; liu,
+   xingwang/KCY-1277-2024; hu, xin/KHT-2406-2024; Li, Chengqing/B-9388-2008
+OI Liu, Sheng/0000-0002-1285-7381; Li, Chengqing/0000-0002-5385-7644
+FU National Natural Science Foundation of China
+FX No Statement Available
+CR Chen JX, 2021, IEEE T MULTIMEDIA, V23, P2372, DOI 10.1109/TMM.2020.3011315
+   Chen L, 2022, J VIS COMMUN IMAGE R, V83, DOI 10.1016/j.jvcir.2021.103424
+   He Y, 2020, NEURAL COMPUT APPL, V32, P247, DOI 10.1007/s00521-018-3577-z
+   Hua ZY, 2021, NONLINEAR DYNAM, V104, P4505, DOI 10.1007/s11071-021-06472-6
+   Kong K, 2022, IEEE MULTIMEDIA, V29, P97, DOI 10.1109/MMUL.2022.3194066
+   Li CQ, 2017, IEEE MULTIMEDIA, V24, P64, DOI 10.1109/MMUL.2017.3051512
+   Li M, 2018, IEEE MULTIMEDIA, V25, P92, DOI 10.1109/MMUL.2018.112142439
+   Li XH, 2022, SOFT COMPUT, V26, P511, DOI 10.1007/s00500-021-06500-y
+   Lin RY, 2024, J VIS COMMUN IMAGE R, V98, DOI 10.1016/j.jvcir.2023.104045
+   Liu S, 2022, IEEE MULTIMEDIA, V29, P74, DOI 10.1109/MMUL.2021.3114589
+   Lu XX, 2023, INT J BIFURCAT CHAOS, V33, DOI 10.1142/S0218127423500633
+   Ma YL, 2020, J INF SECUR APPL, V54, DOI 10.1016/j.jisa.2020.102566
+   Ping P, 2018, NEUROCOMPUTING, V283, P53, DOI 10.1016/j.neucom.2017.12.048
+   Qu LF, 2022, IEEE T MULTIMEDIA, V24, P2924, DOI 10.1109/TMM.2021.3090588
+   Tajik K, 2019, 26TH ANNUAL NETWORK AND DISTRIBUTED SYSTEM SECURITY SYMPOSIUM (NDSS 2019), DOI 10.14722/ndss.2019.23432
+   Vinyals O., 2016, Advances in neural information processing systems, V29
+   Ye GD, 2016, IEEE MULTIMEDIA, V23, P64, DOI 10.1109/MMUL.2015.72
+   Zhang FF, 2021, IEEE MULTIMEDIA, V28, P96, DOI 10.1109/MMUL.2021.3080579
+   Zhou SW, 2023, IEEE T MULTIMEDIA, V25, P2022, DOI 10.1109/TMM.2022.3142952
+   Zhou SW, 2021, IEEE T MULTIMEDIA, V23, P2627, DOI 10.1109/TMM.2020.3014561
+NR 20
+TC 3
+Z9 3
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1070-986X
+EI 1941-0166
+J9 IEEE MULTIMEDIA
+JI IEEE Multimedia
+PD JAN
+PY 2024
+VL 31
+IS 1
+BP 99
+EP 109
+DI 10.1109/MMUL.2024.3356494
+PG 11
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SC2P4
+UT WOS:001232197600003
+OA Green Submitted
+DA 2024-08-05
+ER
+
+EF

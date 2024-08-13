@@ -1,0 +1,3018 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bodden, E
+   Pottebaum, J
+   Fockel, M
+   Grasler, I
+AF Bodden, Eric
+   Pottebaum, Jens
+   Fockel, Markus
+   Grasler, Iris
+TI Evaluating Security Through Isolation and Defense in Depth
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Privacy; Codes; Security; Software systems; Performance evaluation;
+   Trustless services
+AB We explain why evaluating a software system's security is currently complicated by the inclusion of untrusted code and how novel technologies for code isolation may come to the rescue and enable an effective security evaluation.
+C1 [Bodden, Eric] Paderborn Univ, Heinz Nixdorf Inst, Secure Software Engn Grp, D-33102 Paderborn, Germany.
+   [Bodden, Eric] Fraunhofer Inst Mechatron Syst Design, Software Engn & IT Secur Unit, D-33102 Paderborn, Germany.
+   [Pottebaum, Jens] Paderborn Univ, Heinz Nixdorf Inst, Chair Prod Creat, Digital & Virtual Prod Creat, D-33102 Paderborn, Germany.
+   [Fockel, Markus] Fraunhofer IEM, Safe & Secure IoT Syst Dept, D-33102 Paderborn, Germany.
+   [Grasler, Iris] Paderborn Univ, Heinz Nixdorf Inst, Chair Prod Creat, D-33102 Paderborn, Germany.
+C3 University of Paderborn; Fraunhofer Gesellschaft; University of
+   Paderborn; University of Paderborn
+RP Bodden, E (corresponding author), Paderborn Univ, Heinz Nixdorf Inst, Secure Software Engn Grp, D-33102 Paderborn, Germany.
+EM eric.bodden@uni-paderborn.de; jens.pottebaum@hni.uni-paderborn.de;
+   markus.fockel@iem.fraunhofer.de; iris.graessler@hni.uni-paderborn.de
+RI Bodden, Eric/AAE-1365-2021
+OI Bodden, Eric/0000-0003-3470-3647; Pottebaum, Jens/0000-0001-8778-2989
+CR [Anonymous], 2013, EUR-Lex
+   [Anonymous], 1967, Military Construction Pricing GUIDE
+   Chen L., 1978, FTCS-8. The Eighth Annual International Conference on Fault-Tolerant Computing, P3
+   Dezfuli H., 2014, PROC 32 INT SYST SAF
+   Garrick B. J., 1968, Unified Systems Safety Analysis for Nuclear Power Plants
+   Hebert C, 2022, IEEE SECUR PRIV, V20, P79, DOI 10.1109/MSEC.2022.3202625
+   Krautsevich L., 2010, PROC 4 EUR C SOFTW A, P162
+   Larsen P, 2014, IEEE SECUR PRIV, V12, P28, DOI 10.1109/MSP.2013.129
+   Manadhata PK, 2011, IEEE T SOFTWARE ENG, V37, P371, DOI 10.1109/TSE.2010.60
+   Morrison P, 2018, INFORM SOFTWARE TECH, V102, P146, DOI 10.1016/j.infsof.2018.05.011
+   Narayan S, 2020, PROCEEDINGS OF THE 29TH USENIX SECURITY SYMPOSIUM, P699
+   Rosenthal C., 2020, Chaos engineering: system resiliency in practice
+   Torkura KA, 2019, 2019 IEEE 18TH INTERNATIONAL SYMPOSIUM ON NETWORK COMPUTING AND APPLICATIONS (NCA), P215, DOI 10.1109/nca.2019.8935040
+   Wang JQ, 2009, PROCEEDINGS OF 2009 CONFERENCE ON SYSTEMS SCIENCE, MANAGEMENT SCIENCE & SYSTEM DYNAMICS, VOL 7, P1
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD JAN
+PY 2024
+VL 22
+IS 1
+BP 69
+EP 72
+DI 10.1109/MSEC.2023.3336028
+PG 4
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA KA7G0
+UT WOS:001177299100009
+DA 2024-08-05
+ER
+
+PT J
+AU Oesch, S
+   Austria, P
+   Chaulagain, A
+   Weber, B
+   Watson, C
+   Dixson, M
+   Sadovnik, A
+AF Oesch, Sean
+   Austria, Phillipe
+   Chaulagain, Amul
+   Weber, Brian
+   Watson, Cory
+   Dixson, Matthew
+   Sadovnik, Amir
+TI The Path to Autonomous Cyberdefense
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Games; Autonomous agents; Human-machine systems; Training; Computer
+   security; Detectors; Organizations
+AB Defenders are overwhelmed by attacks against their networks, which will only be exacerbated as attackers leverage artificial intelligence to automate workflows. We propose a path to autonomous cyberagents able to augment defenders by automating critical steps in the cyberdefense lifecycle.
+C1 [Oesch, Sean; Austria, Phillipe; Chaulagain, Amul; Weber, Brian; Watson, Cory; Dixson, Matthew] Oak Ridge Natl Lab, Oak Ridge, TN 37830 USA.
+   [Sadovnik, Amir] Oak Ridge Natl Lab, Ctr AI Secur, Oak Ridge, TN 37830 USA.
+C3 United States Department of Energy (DOE); Oak Ridge National Laboratory;
+   United States Department of Energy (DOE); Oak Ridge National Laboratory
+RP Oesch, S (corresponding author), Oak Ridge Natl Lab, Oak Ridge, TN 37830 USA.
+EM oeschts@ornl.gov; austriaps@ornl.gov; chaulagaina@ornl.gov;
+   weberb@ornl.gov; watsoncl1@ornl.gov; dixsonmk@ornl.gov;
+   sadovnika@ornl.gov
+FU U.S. Department of Energy [DE-AC05-00OR22725]; Department of Energy
+FX This article has been authored by UT-Battelle, LLC, under Contract
+   DE-AC05-00OR22725 with the U.S. Department of Energy. The U.S.
+   Government retains and the publisher, by accepting the article for
+   publication, acknowledges that the U.S. Government retains a
+   nonexclusive, paid-up, irrevocable, worldwide license to publish or
+   reproduce the published form of this article, or allow others to do so,
+   for U.S. Government purposes. The Department of Energy will provide
+   public access to these results of federally sponsored research in
+   accordance with the DOE Public Access Plan
+   (http://energy.gov/down-loads/doe-public-access-plan). This article was
+   prepared as part of the Emerging and Cyber Security Technologies
+   initiative at Oak Ridge National Laboratory
+CR Andrew A., 2022, P WORKSH MACH LEARN
+   Gronauer S, 2022, ARTIF INTELL REV, V55, P895, DOI 10.1007/s10462-021-09996-w
+   Hammar K, 2020, INT CONF NETW SER, DOI 10.23919/cnsm50824.2020.9269092
+   Hu ZG, 2020, 2020 IEEE EUROPEAN SYMPOSIUM ON SECURITY AND PRIVACY WORKSHOPS (EUROS&PW 2020), P2, DOI 10.1109/EuroSPW51379.2020.00010
+   Jain A., 2020, P 37 INT C MACH LEAR, V119, P4661
+   Janisch J, 2024, LECT NOTES COMPUT SC, V14399, P589, DOI 10.1007/978-3-031-54129-2_35
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Molina-Markham A, 2023, PROCEEDINGS OF THE 2023 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, CCS 2023, P3531, DOI 10.1145/3576915.3624381
+   Nyberg J., 2023, P WORKSH SOC OP CONS
+   Ridley A., 2018, Next Wave, V22, P7
+   Silver D, 2016, NATURE, V529, P484, DOI 10.1038/nature16961
+   Standen M., 2021, P 1 INT WORKSH AD CY
+   Vyas S, 2023, Arxiv, DOI arXiv:2303.04926
+   Walter E., 2021, P 1 INT WORKSH AD CY
+   Xu YQ, 2020, IEEE CONF COMPU INTE, P65, DOI [10.1109/CoG47356.2020.9231622, 10.1109/cog47356.2020.9231622]
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUL 26
+PY 2024
+DI 10.1109/MSEC.2024.3427640
+EA JUL 2024
+PG 9
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA ZZ2J8
+UT WOS:001279039600001
+DA 2024-08-05
+ER
+
+PT J
+AU Roesner, F
+   Kohno, T
+AF Roesner, Franziska
+   Kohno, Tadayoshi
+TI Security and Privacy in the Metaverse
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Special issues and sections; Metaverse; Security; Privacy; Augmented
+   reality; Extended reality; Virtual reality; Social implications of
+   technology
+AB This special issue explores current and future security, privacy, and safety challenges that will arise with the increasingly widespread adoption of sensor-rich augmented, mixed, and virtual reality technologies that mediate users' perceptions of the physical world.
+C1 [Roesner, Franziska; Kohno, Tadayoshi] Univ Washington, Paul G Allen Sch Comp Sci & Engn, Seattle, WA 98195 USA.
+C3 University of Washington; University of Washington Seattle
+RP Roesner, F (corresponding author), Univ Washington, Paul G Allen Sch Comp Sci & Engn, Seattle, WA 98195 USA.
+EM franzi@cs.washington.edu; yoshi@cs.washington.edu
+OI Kohno, Tadayoshi/0000-0002-4899-226X
+CR Roesner F., 2021, PROC 1 INT WORKSHOP, P1
+NR 1
+TC 0
+Z9 0
+U1 4
+U2 4
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD JAN
+PY 2024
+VL 22
+IS 1
+BP 7
+EP 9
+DI 10.1109/MSEC.2023.3333989
+PG 3
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA KA7G0
+UT WOS:001177299100008
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU McAmis, R
+   Durak, B
+   Chase, M
+   Laine, K
+   Roesner, F
+   Kohno, T
+AF McAmis, Rachel
+   Durak, Betul
+   Chase, Melissa
+   Laine, Kim
+   Roesner, Franziska
+   Kohno, Tadayoshi
+TI Handling Identity and Fraud in the Metaverse
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Metaverse; Fraud; Privacy; Internet; Avatars; Security; Museums
+AB Given the metaverse's potential realism and immersive nature, users may find it difficult to detect fraud. We explore the design space and technical aspects of verification and identification and how they may apply to fraud prevention in the metaverse.
+C1 [McAmis, Rachel] Univ Washington, Seattle, WA 98195 USA.
+   [Durak, Betul; Chase, Melissa; Laine, Kim] Microsoft Res, Crypog & Privacy Grp, Redmond, WA 98052 USA.
+   [Roesner, Franziska; Kohno, Tadayoshi] Univ Washington, Paul G Allen Sch Comp Sci Engn, Seattle, WA 98195 USA.
+C3 University of Washington; University of Washington Seattle; Microsoft;
+   University of Washington; University of Washington Seattle
+RP McAmis, R (corresponding author), Univ Washington, Seattle, WA 98195 USA.
+EM rcmcamis@uw.edu; betul.durak@microsoft.com; melissac@microsoft.com;
+   kim.laine@microsoft.com; franzi@cs.washington.edu;
+   yoshi@cs.washington.edu
+OI , Rachel/0009-0006-9250-3554
+CR [Anonymous], 2006, GUARDIAN
+   [Anonymous], "XR privacy/security list-serv
+   [Anonymous], 1995, Works Days
+   Anti-Fraud Community Group, 2021, "Call for participation in anti-fraud community group
+   Camenisch J, 2001, LECT NOTES COMPUT SC, V2045, P93
+   Chase M., 2023, P ANN INT CRYPT C SA, P418
+   CHAUM D, 1985, COMMUN ACM, V28, P1030, DOI 10.1145/4372.4373
+   CHAUM DL, 1981, COMMUN ACM, V24, P84, DOI 10.1145/358549.358563
+   Cheng KM, 2023, PROCEEDINGS OF THE 32ND USENIX SECURITY SYMPOSIUM, P911
+   Davidson Alex, 2018, Proceedings on Privacy Enhancing Technologies, V2018, P164, DOI 10.1515/popets-2018-0026
+   Durak FB, 2023, Arxiv, DOI arXiv:2311.04861
+   Edgerly S, 2019, CYBERPSYCH BEH SOC N, V22, P283, DOI 10.1089/cyber.2018.0475
+   Felt A. P., 2016, P 12 S US PRIV SEC D, P14
+   Felt AP, 2011, PROCEEDINGS OF THE 18TH ACM CONFERENCE ON COMPUTER & COMMUNICATIONS SECURITY (CCS 11), P627
+   Kohno T., HyphenPunk
+   Martens MAG, 2019, J PSYCHOPHARMACOL, V33, P1264, DOI 10.1177/0269881119860156
+   Mott ME, 2020, 22ND INTERNATIONAL ACM SIGACCESS CONFERENCE ON COMPUTERS AND ACCESSIBILITY (ASSETS '20), DOI [10.1145/3396956.3396969, 10.1145/3373625.3416998]
+   Roesner F., 2021, P 1 INT WORKSH SEC X
+   Schechter SE, 2007, P IEEE S SECUR PRIV, P51, DOI 10.1109/SP.2007.35
+   Sweeney Latanya, 2000, SIMPLE DEMOGRAPHICS, DOI DOI 10.1184/R1/6625769.V1
+   X Reality Safety Intelligence, 2024, "Human intelligence the loop
+NR 21
+TC 0
+Z9 0
+U1 5
+U2 5
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUN 6
+PY 2024
+DI 10.1109/MSEC.2024.3399699
+EA JUN 2024
+PG 11
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TR3Y5
+UT WOS:001242959800001
+DA 2024-08-05
+ER
+
+PT J
+AU Natella, R
+   Liguori, P
+   Improta, C
+   Cukic, B
+   Cotroneo, D
+AF Natella, Roberto
+   Liguori, Pietro
+   Improta, Cristina
+   Cukic, Bojan
+   Cotroneo, Domenico
+TI AI Code Generators for Security: Friend or Foe?
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Codes; Artificial intelligence; Security; Generators; Task analysis;
+   Natural languages; Writing
+AB Recent advances of artificial intelligence (AI) code generators are opening new opportunities in software security research, including misuse by malicious actors. We review use cases for AI code generators for security and introduce an evaluation benchmark.
+C1 [Natella, Roberto; Liguori, Pietro; Improta, Cristina; Cotroneo, Domenico] Univ Naples Federico II, Naples, Italy.
+   [Cukic, Bojan] Univ North Carolina Charlotte, Charlotte, NC USA.
+C3 University of Naples Federico II; University of North Carolina;
+   University of North Carolina Charlotte
+RP Natella, R (corresponding author), Univ Naples Federico II, Naples, Italy.
+EM roberto.natella@unina.it; pietro.liguori@unina.it;
+   cristina.improta@unina.it; bcukic@charlotte.edu; cotroneo@unina.it
+RI Natella, Roberto/AAT-7087-2020; Liguori, Pietro/KIG-0258-2024
+OI Natella, Roberto/0000-0003-1084-4824; Liguori,
+   Pietro/0000-0001-5579-1696; , Rachana Behera/0009-0008-8885-9042;
+   Improta, Cristina/0000-0001-5300-2358; Cukic, Bojan/0000-0001-7130-9054
+FU Ministry of University and Research Projects of Significant National
+   Interest 2022 project Federated Learning for Generative Emulation of
+   Advanced Persistent Threats [CUP E53D23007950001]
+FX This work has been partially supported by Ministry of University and
+   Research Projects of Significant National Interest 2022 project
+   Federated Learning for Generative Emulation of Advanced Persistent
+   Threats, CUP E53D23007950001 (https://flegrea.github.io/).
+CR Botacin M, 2023, IEEE SEC PRIV WORKS, P238, DOI 10.1109/SPW59333.2023.00027
+   Grigoriadou S, 2023, 2023 IEEE INTERNATIONAL CONFERENCE ON CYBER SECURITY AND RESILIENCE, CSR, P142, DOI 10.1109/CSR57506.2023.10224981
+   Gupta M, 2023, IEEE ACCESS, V11, P80218, DOI 10.1109/ACCESS.2023.3300381
+   Kim H, 2023, IEEE COMMUN LETT, V27, P377, DOI 10.1109/LCOMM.2022.3218050
+   Liguori P, 2023, EXPERT SYST APPL, V225, DOI 10.1016/j.eswa.2023.120073
+   Liguori P, 2021, PROC INT SYMP SOFTW, P321, DOI 10.1109/ISSRE52982.2021.00042
+   Liguori P, 2022, AUTOMAT SOFTW ENG, V29, DOI 10.1007/s10515-022-00331-3
+   McIntosh T, 2023, COMPUT SECUR, V134, DOI 10.1016/j.cose.2023.103424
+   O'Connor T.J., 2012, Violent Python: a cookbook for hackers, forensic analysts, penetration testers and security engineers
+   Pa YMP, 2023, PROCEEDINGS OF 16TH CYBER SECURITY EXPERIMENTATION AND TEST WORKSHOP, CSET 2023, P10, DOI 10.1145/3607505.3607513
+   Svyatkovskiy A, 2020, PROCEEDINGS OF THE 28TH ACM JOINT MEETING ON EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING (ESEC/FSE '20), P1433, DOI 10.1145/3368089.3417058
+   Xiao Y, 2023, IEEE T SOFTWARE ENG, V49, P3524, DOI 10.1109/TSE.2023.3265362
+   Yang G, 2023, J SYST SOFTWARE, V197, DOI 10.1016/j.jss.2022.111577
+   Yang G, 2022, EUR CON SFTWR MTNCE, P361, DOI 10.1109/SANER53432.2022.00052
+   Zhou CT, 2023, Arxiv, DOI arXiv:2305.11206
+NR 15
+TC 3
+Z9 3
+U1 12
+U2 12
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 FEB 1
+PY 2024
+DI 10.1109/MSEC.2024.3355713
+EA FEB 2024
+PG 9
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA HA0K2
+UT WOS:001156645400001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Piessens, F
+   van Oorschot, PC
+   Piessens, F
+   van Oorshot, PC
+AF Piessens, Frank
+   van Oorschot, Paul C.
+   Piessens, Frank
+   van Oorshot, Paul C.
+TI Side-Channel Attacks: A Short Tour
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Privacy; Side-channel attacks; Computer security
+AB We provide a brief, accessible introduction to side-channel attacks, a growing subarea of computer security. We explain the key underlying ideas, give a chronological overview of selected classical attacks, and characterize side-channel attacks along several axes.
+C1 [Piessens, Frank; Piessens, Frank] Katholieke Univ Leuven, B-3001 Leuven, Belgium.
+   [van Oorschot, Paul C.] Carleton Univ, Comp Sci, Ottawa, ON K1S 5B6, Canada.
+C3 KU Leuven; Carleton University
+RP Piessens, F (corresponding author), Katholieke Univ Leuven, B-3001 Leuven, Belgium.
+EM frank.piessens@kuleuven.be; paulv@scs.carleton.ca;
+   frank.piessens@kuleuven.be; paulv@scs.carleton.ca
+RI Piessens, Frank/B-1695-2014
+CR Anderson R. J., 2020, Security Engineer-ing: A Guide to Building Dependable Distributed Systems, V3rd
+   Bonneau J, 2006, LECT NOTES COMPUT SC, V4249, P201
+   Brumley D, 2003, USENIX ASSOCIATION PROCEEDINGS OF THE 12TH USENIX SECURITY SYMPOSIUM, P1
+   Mutlu O, 2020, IEEE T COMPUT AID D, V39, P1555, DOI 10.1109/TCAD.2019.2915318
+   Yarom Y, 2014, PROCEEDINGS OF THE 23RD USENIX SECURITY SYMPOSIUM, P719
+NR 5
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAR-APR
+PY 2024
+VL 22
+IS 2
+BP 75
+EP 80
+DI 10.1109/MSEC.2024.3352848
+PG 6
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MW6I9
+UT WOS:001196708600011
+DA 2024-08-05
+ER
+
+PT J
+AU Redmiles, EM
+AF Redmiles, Elissa M.
+TI Friction Matters: Balancing the Pursuit of Perfect Protection With
+   Target Hardening
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+AB It is my great pleasure to share a guest "Last Word" column by Dr. Elissa Redmiles, Clare Luce Boothe Assistant Professor at Georgetown University, with IEEE Security & Privacy (S&P) readers. Prof. Redmiles has gained particular attention due to her highly lauded work in security and privacy inequities in marginalized and at-risk communities. This column gives a flavor of the real-world practical insights that have resulted from this work, which I hope will also lead S&P readers to want to delve further into the terrific set of references provided.
+C1 [Redmiles, Elissa M.] Georgetown Univ, Washington, DC 20057 USA.
+C3 Georgetown University
+RP Redmiles, EM (corresponding author), Georgetown Univ, Washington, DC 20057 USA.
+EM elissa.redmiles@georgetown.edu
+OI Redmiles, Elissa/0000-0003-3930-8128
+CR [Anonymous], Step 39: Increase the effort of crime
+   Cho JH, 2020, IEEE COMMUN SURV TUT, V22, P709, DOI 10.1109/COMST.2019.2963791
+   DiLella C., 2022, CNBCSep. 8,
+   Eaton Asia., 2017, 2017 NATIONWIDE ONLI
+   Fennelly L.J., 2018, CPTED and traditional security countermeasures: 150 things you should know
+   Henry N., 2021, Image-Based Sexual Abuse: A Study on the Causes and Consequences of Non-consensual Nude or Sexual Imagery
+   Lee S. M., 2022, P CHI C HUM FACT COM, P1, DOI [10.1145/3491101.3519812, DOI 10.1145/3491101.3519812]
+   More M., 2023, NBC4 WashingtonFeb. 24,
+   Morrison Sarah., VOX
+   popcenter.asu, ASU Center for Problem-Oriented Policing
+   Qin L., 2023, Toward safer intimate futures: Recommendations for tech platforms to reduce image based sexual abuse
+   Schneier B., 2010, Worst-case thinking makes us nuts, not safe
+   Stratton KR., 2001, Clearing the smoke: assessing the science base for tobacco harm reduction
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD JAN
+PY 2024
+VL 22
+IS 1
+DI 10.1109/MSEC.2023.3333972
+PG 3
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA KA7G0
+UT WOS:001177299100005
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Ramokapane, KM
+   Sameen, M
+   Dkaidek, Z
+AF Ramokapane, Kopo M.
+   Sameen, Maria
+   Dkaidek, Zaina
+TI Inclusive Internet of Things Privacy Labels
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Privacy; Internet of Things; Security; Data privacy; Usability;
+   Protection; Smart homes
+AB Internet of Things (IoT) privacy labels present an opportunity for consumers to learn about the security and privacy of IoT devices, but they must be inclusive and serve all users in a manner that is accessible and valuable.
+C1 [Ramokapane, Kopo M.] Univ Bristol, Cyber Secur Grp, Bristol, England.
+   [Sameen, Maria] Univ Bristol, Ctr Doctoral Training Cyber Secur, Bristol, England.
+   [Dkaidek, Zaina] Univ Bath, Ctr Doctoral Training Cyber Secur, Bath, England.
+C3 University of Bristol; University of Bristol; University of Bath
+RP Ramokapane, KM (corresponding author), Univ Bristol, Cyber Secur Grp, Bristol, England.
+EM marvin.ramokapane@bristol.ac.uk; maria.sameen@bristol.ac.uk;
+   zd420@bath.ac.uk
+FU Engineering and Physical Sciences Research Council (EPSRC)
+   [EP/V011189/1]; EPSRC Equitable Privacy Grant [EP/W025361/1]; EPSRC
+   Center for Doctoral Training in Trust, Identity, Privacy, and Security
+   in Large-Scale Infrastructures [EP/S022465/1]
+FX This work was supported in part by Engineering and Physical Sciences
+   Research Council (EPSRC) Research Center on Privacy, Harm Reduction, and
+   Adversarial Influence Online Grant EP/V011189/1; EPSRC Equitable Privacy
+   Grant EP/W025361/1; and EPSRC Center for Doctoral Training in Trust,
+   Identity, Privacy, and Security in Large-Scale Infrastructures Grant
+   EP/S022465/1.
+CR Clarkson PJ, 2015, APPL ERGON, V46, P235, DOI 10.1016/j.apergo.2013.03.002
+   Cranor L. F., 2012, J. Telecomm. High Tech., V10
+   Das Chowdhury P, 2023, NEW SECURITY PARADIGMS WORKSHOP, NSPW 2022, P60, DOI 10.1145/3584318.3584323
+   Emami-Naeini P, 2020, P IEEE S SECUR PRIV, P447, DOI 10.1109/SP40000.2020.00043
+   Havron S, 2019, PROCEEDINGS OF THE 28TH USENIX SECURITY SYMPOSIUM, P105
+   Kavrestad J., 2021, IFIP INT SUMMER SCH, P105
+   Kelley P. G., 1999, P 5 S US PRIV SEC, P1
+   Khandelwal R, 2023, Arxiv, DOI arXiv:2306.08111
+   McDonald N, 2020, PROCEEDINGS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI'20), DOI 10.1145/3313831.3376167
+   McParlan J, 2021, ACI 2021: EIGHTH INTERNATIONAL CONFERENCE ON ANIMAL-COMPUTER INTERACTION, DOI 10.1145/3493842.3493888
+   Ramokapane KM, 2023, Arxiv, DOI arXiv:2308.00004
+   Renaud Karen, 2022, SN Comput Sci, V3, P346, DOI 10.1007/s42979-022-01239-1
+   Sannon Shruti, 2022, Proceedings of the ACM on Human-Computer Interaction, DOI 10.1145/3555556
+   Shen Y, 2019, LECT NOTES COMPUT SC, V11498, P136, DOI 10.1007/978-3-030-21752-5_9
+   Wang Y, 2017, NEW SECURITY PARADIGMS WORKSHOP (NSPW 2017), P122, DOI 10.1145/3171533.3171538
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUL 10
+PY 2024
+DI 10.1109/MSEC.2024.3417819
+EA JUL 2024
+PG 8
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YW0R9
+UT WOS:001271409000001
+DA 2024-08-05
+ER
+
+PT J
+AU Larsen, P
+AF Larsen, Per
+TI Migrating C to Rust for Memory Safety
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Codes; Safety; Program processors; Memory management; Resource
+   management; Security; Costs
+AB The path for migrating C to Rust can be partially automated. This article discusses when to choose automation and when to migrate by hand and considers several paths to increase automation so more code can be migrated at constant cost.
+C1 [Larsen, Per] Immunant Inc, Irvine, CA 92612 USA.
+RP Larsen, P (corresponding author), Immunant Inc, Irvine, CA 92612 USA.
+EM perl@immunant.com
+FU Defense Advanced Research Projects Agency (DARPA) [HR0011-22-C-0020]
+FX This material is based upon work supported by the Defense Advanced
+   Research Projects Agency (DARPA) under Contract HR0011-22-C-0020. Any
+   opinions, findings and conclusions, or recommendations expressed in this
+   material are those of the author(s) and do not necessarily reflect the
+   views of DARPA or the U.S. Government. This article represents the work
+   of many people from Galois, Inc., and Immunant, Inc., including Eddy
+   Westbrook, Stuart Pernsteiner, Eric Mertens, David Anekstein, Khyber
+   Sen, Frances Wingerter, Stephen Crane, Andrei Homescu, and others.
+CR ISRG Prossimo Contributors, rav1d.
+   Karvonen A., Galois
+   Roziere Baptiste, 2020, Advances in neural information processing systems, V33, P20601
+   Szekeres L, 2013, P IEEE S SECUR PRIV, P48, DOI 10.1109/SP.2013.13
+   Zhang C., 2023, PROC INT C COMPUT AI, P459, DOI [10.1007/978-3-031-37709-9_22, DOI 10.1007/978-3-031-37709-9_22]
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 APR 18
+PY 2024
+DI 10.1109/MSEC.2024.3385357
+EA APR 2024
+PG 8
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA OF4D4
+UT WOS:001205828500001
+DA 2024-08-05
+ER
+
+PT J
+AU Kharvi, PL
+AF Kharvi, Prakash L.
+TI Understanding the Impact of AI-Generated Deepfakes on Public Opinion,
+   Political Discourse, and Personal Security in Social Media
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Deepfakes; Social networking (online); Security; Artificial
+   intelligence; Software; Privacy; Watermarking
+AB With the rapid advancement in and easy accessibility of deepfake technology, there is much to comprehend about its impact on social media. This research aims to fortify trust, authenticity, and security in online communication and information sharing by analyzing deepfake impacts and scrutinizing existing strategies.
+C1 [Kharvi, Prakash L.] Marymount Univ, Arlington, VA 22207 USA.
+C3 Marymount University
+RP Kharvi, PL (corresponding author), Marymount Univ, Arlington, VA 22207 USA.
+EM plk78754@marymount.edu
+CR Aberna P, 2023, MULTIMED TOOLS APPL, DOI 10.1007/s11042-023-15806-y
+   Ahmad N, 2022, IEEE T EMERG TOP COM, V10, P1456, DOI 10.1109/TETC.2021.3093444
+   [Anonymous], 2023 state of deepfakes: Realities, threats, and impact
+   Bonfanti M. E., 2020, The weaponisation of synthetic media: what threat does this pose to national security?
+   Chawki M, 2024, COGENT ENG, V11, DOI 10.1080/23311916.2024.2320971
+   Chesney B, 2019, CALIF LAW REV, V107, P1753, DOI 10.15779/Z38RV0D15J
+   Fallis Don, 2021, Philos Technol, V34, P623, DOI 10.1007/s13347-020-00419-2
+   Goss T., 2024, Deepfakes and Societal Impacts, DOI [10.13140/RG.2.2.12829.49128, DOI 10.13140/RG.2.2.12829.49128]
+   Habgood-Coote J, 2023, SYNTHESE, V201, DOI 10.1007/s11229-023-04097-3
+   Hameleers M, 2024, COMPUT HUM BEHAV, V152, DOI 10.1016/j.chb.2023.108096
+   Hill RK, 2024, COMMUN ACM, V67, P8, DOI 10.1145/3639711
+   Kondamudi MR, 2023, J KING SAUD UNIV-COM, V35, DOI 10.1016/j.jksuci.2023.101571
+   Kshetri N, 2023, COMPUTER, V56, P14, DOI 10.1109/MC.2023.3252059
+   Lollia F., 2023, At the heart of social networks: influence, disinformation and societal risk
+   Rayhan S., 2023, The Role of AI in Democratic Systems: Implications for Privacy, Security, and Political Manipulation, DOI [10.13140/RG.2.2.31121.61281, DOI 10.13140/RG.2.2.31121.61281]
+   Sloane M, 2022, ACM CONFERENCE ON EQUITY AND ACCESS IN ALGORITHMS, MECHANISMS, AND OPTIMIZATION, EAAMO 2022, DOI 10.1145/3551624.3555285
+   Thaler M, 2024, AM ECON J-MICROECON, V16, DOI 10.1257/mic.20220146
+   Twomey J, 2023, PLOS ONE, V18, DOI 10.1371/journal.pone.0291668
+   Vakilinia I, 2022, 2022 IEEE 13TH ANNUAL UBIQUITOUS COMPUTING, ELECTRONICS & MOBILE COMMUNICATION CONFERENCE (UEMCON), P195, DOI 10.1109/UEMCON54665.2022.9965686
+   Van Bavel JJ, 2024, CURR OPIN PSYCHOL, V56, DOI 10.1016/j.copsyc.2023.101787
+NR 20
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUN 7
+PY 2024
+DI 10.1109/MSEC.2024.3405963
+EA JUN 2024
+PG 8
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA TL9K1
+UT WOS:001241532900001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Pierson, TJ
+   Arguello, C
+   Perez, B
+   Zegeye, W
+   Kornegay, K
+   Gunter, CA
+   Kotz, D
+AF Pierson, Timothy J.
+   Arguello, Cesar
+   Perez, Beatrice
+   Zegeye, Wondimu
+   Kornegay, Kevin
+   Gunter, Carl A.
+   Kotz, David
+TI We Need a "Building Inspector for IoT" When Smart Homes Are Sold
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Internet of Things; Security; Task analysis; Privacy; Smart homes; Smart
+   devices; Wireless fidelity
+AB Internet of Things (IoT) devices left behind when a home is sold create security and privacy concerns for both prior and new residents. We envision a specialized "building inspector for IoT" to help securely facilitate transfer of the home.
+C1 [Pierson, Timothy J.] Dartmouth Coll, Dept Comp Sci, Hanover, NH 03755 USA.
+   [Arguello, Cesar] Dartmouth Coll, Hanover, NH 03755 USA.
+   [Perez, Beatrice] Univ Massachusetts, Boston, MA USA.
+   [Zegeye, Wondimu] Morgan State Univ, Baltimore, MD 21251 USA.
+   [Kornegay, Kevin] Morgan State Univ, Cybersecur Assurance & Policy Ctr, Baltimore, MD 21251 USA.
+   [Gunter, Carl A.] Univ Illinois, Dept Comp Sci, Urbana, IL 61801 USA.
+   [Kotz, David] Dartmouth Coll, Dept Comp Sci, Hanover, NH 03755 USA.
+C3 Dartmouth College; Dartmouth College; University of Massachusetts
+   System; University of Massachusetts Boston; Morgan State University;
+   Morgan State University; University of Illinois System; University of
+   Illinois Urbana-Champaign; Dartmouth College
+RP Pierson, TJ (corresponding author), Dartmouth Coll, Dept Comp Sci, Hanover, NH 03755 USA.
+OI Arguello, Cesar/0009-0009-8266-1104; Kornegay,
+   Kevin/0000-0002-5233-0154; Kotz, David/0000-0001-7411-2783; Perez,
+   Beatrice/0000-0002-7458-6433
+FU SaTC Frontiers program by National Science Foundation [CNS-1955805,
+   CNS-1955172, CNS-1955228, CNS-1955231]
+FX This research results from the SPLICE research program, supported by a
+   collaborative award from the SaTC Frontiers program at the supported by
+   the National Science Foundation under awards CNS-1955805, CNS-1955172,
+   CNS-1955228, and CNS-1955231. The views and conclusions contained herein
+   are those of the authors and should not be interpreted as necessarily
+   representing the official policies, either expressed or implied, of the
+   sponsors. Any mention of specific companies or products does not imply
+   any endorsement by the authors, by their employers, or by the
+   sponsors.The authors are grateful for the insightful guidance provided
+   by Denise Anthony, Adam Bates, Susan Landau, Michel Kornegay, Michelle
+   Mazurek, and Avi Rubin.
+CR Achir M, 2022, J NETW COMPUT APPL, V200, DOI 10.1016/j.jnca.2021.103331
+   [Anonymous], Hapifork bluetooth-enabled smart fork
+   [Anonymous], IoT value set to accelerate through 2030: Where and how to capture it
+   [Anonymous], Number of existing homes sold in the United States from2005 to 2023
+   [Anonymous], Fingerprint smart door lock
+   He WJ, 2018, PROCEEDINGS OF THE 27TH USENIX SECURITY SYMPOSIUM, P255
+   Kounoudes AD, 2021, 2021 IEEE SMARTWORLD, UBIQUITOUS INTELLIGENCE & COMPUTING, ADVANCED & TRUSTED COMPUTING, SCALABLE COMPUTING & COMMUNICATIONS, INTERNET OF PEOPLE, AND SMART CITY INNOVATIONS (SMARTWORLD/SCALCOM/UIC/ATC/IOP/SCI 2021), P210, DOI 10.1109/SWC50871.2021.00037
+   Panduro-Ramirez J., 2023, P INT C ART INT SMAR, P596, DOI [10.1109/AISC56616.2023.10085452, DOI 10.1109/AISC56616.2023.10085452]
+   Perez B, 2022, REMOTE SENS-BASEL, V14, DOI 10.3390/rs14020327
+   Perez Beatrice, 2023, INT C DISTR COMP SMA, P248, DOI [10.1109/DCOSSIoT58021.2023.00050, DOI 10.1109/DCOSSIOT58021.2023.00050]
+   Solove DJ, 2006, U PENN LAW REV, V154, P477, DOI 10.2307/40041279
+   Wang Z, 2013, INT J DISTRIB SENS N, DOI 10.1155/2013/503404
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 MAY 7
+PY 2024
+DI 10.1109/MSEC.2024.3386467
+EA MAY 2024
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA QC2Y6
+UT WOS:001218627400001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Yavuz, C
+AF Yavuz, Can
+TI A Multidisciplinary Look at History and Future of Deepfake With Gartner
+   Hype Cycle
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Deepfakes; Media; Artificial intelligence; Productivity; History
+AB Deepfake has been swiftly advanced, misused, and democratized, which created overhype around it. To separate the overhype from reality, this study presents a multidisciplinary history of deepfake and speculates on the future of deepfake using the Gartner Hype Cycle.
+C1 [Yavuz, Can] Univ Ghent, Fac Law & Criminol, B-9000 Ghent, Belgium.
+C3 Ghent University
+RP Yavuz, C (corresponding author), Univ Ghent, Fac Law & Criminol, B-9000 Ghent, Belgium.
+EM can.yavuz@ugent.be
+FU Research Foundation-Flanders (Fonds voor Weten-schappelijk Onderzoek -
+   Vlaanderen) [G016620N]
+FX The author expresses his deepest gratitude to Prof. Dr. Gert Vermeulen
+   for his constructive feedback and insightful suggestions. This work was
+   supported by the Research Foundation-Flanders (Fonds voor
+   Weten-schappelijk Onderzoek - Vlaanderen) under Grant G016620N.
+CR Ajder H., 2019, The State of Deepfakes: Landscape, Threats, and Impact
+   AllttA, 2023, SAVAGES
+   Anderson M., 2024, GOOGLE HAS BANNED TR
+   Anderson M., ARCHIVETODAY
+   [Anonymous], 2020, 5 TRENDS DRIVE GARTN
+   [Anonymous], 2024, CONTENT AUTHENTICITY
+   [Anonymous], 2024, GOVINFO
+   [Anonymous], 2024, DEEPTOMCRUISE
+   [Anonymous], 2024, WITNESS
+   [Anonymous], 2024, VIDEO GENERATION MOD
+   [Anonymous], 2024, TEXAS LEGISLATURE ON
+   [Anonymous], 2024, CHINA LAW TRANSLATE
+   [Anonymous], 2024, DEEPFAKE DETECTION C
+   [Anonymous], 2024, CONGRESSGOV
+   [Anonymous], 2024, LEGISLATIVE INFORM S
+   [Anonymous], 2023, IS BEING ABUSED CREA
+   [Anonymous], 2023, ART INT IND REP 2023
+   [Anonymous], 2019, TICKS IT DIDNT HAPPE
+   [Anonymous], 2024, CALIFORNIA LEGISLATI
+   [Anonymous], 2024, GOOGLE TRENDS
+   [Anonymous], DEEPTOM CRUISE
+   [Anonymous], 2019, SENATE BILL 5959D
+   [Anonymous], 2024, COALITION CONTENT PR
+   Aral Sinan, 2020, HYPE MACHINE
+   Bailenson J., 2018, Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do
+   Bickerton J., 2023, NEWSWEEK        0324
+   Blackall M., 2023, INEWS           1027
+   Boylan J. F., 2018, NY TIMES        1017
+   Breen D. C., 2021, J HIGH TECHNOLOGY LA, V21, P122
+   Bregler C., 1997, P 24 ANN C COMP GRAP, V97, P353, DOI DOI 10.1145/258734.258880
+   Bulakh A., 2023, COMMUNICATION   0406
+   Chesney B, 2019, CALIF LAW REV, V107, P1753, DOI 10.15779/Z38RV0D15J
+   Chollet F, 2018, DEEP LEARNING PYTHON
+   Cole S., 2020, VICE
+   Collingridge D., 1980, The Social Control of Technology
+   Cootes TF, 2001, IEEE T PATTERN ANAL, V23, P681, DOI 10.1109/34.927467
+   Corvey W., DARPA
+   Cramer JK, 2009, ROUT GLOB SECUR STUD, P1
+   Croitoru Florinel-Alin, 2022, ARXIV
+   Dedehayir O, 2016, TECHNOL FORECAST SOC, V108, P28, DOI 10.1016/j.techfore.2016.04.005
+   Delcker J., 2019, POLITICO        1217
+   Europol's European Cybercrime Centre & United Nations Interregional Crime and Justice Research Institute & Trend Micro Research, 2020, MALICIOUS USES ABUSE
+   Fallis Don, 2021, Philos Technol, V34, P623, DOI 10.1007/s13347-020-00419-2
+   Fenn J., 2003, UNDERSTANDING GARTNE
+   Fenn J., 2008, Mastering the Hype Cycle: How to Choose the Right Innovation at the Right Time
+   FOSTER RN, 1986, RES MANAGE, V29, P17, DOI 10.1080/00345334.1986.11756976
+   Franks Mary Anne, 2019, MD. L. REV., V78, P892
+   GOODFELLOW I, 2014, ADV NEURAL INFORM PR, V27
+   Goodfellow L., LEX FRIDMAN PODCAST
+   Gregory S., 2023, COMMUNICATION   0427
+   Keary T., 2022, VentureBeat
+   Khanjani Z, 2023, FRONT BIG DATA, V5, DOI 10.3389/fdata.2022.1001063
+   Kong C., 2022, DIGITAL PHYS FACE AT
+   Masood M., 2021, ARXIV
+   Mitchell M., 2019, Artificial Intelligence: A Guide for Thinking Humans
+   Paris B., DATA SOC
+   Patel Y, 2023, IEEE ACCESS, V11, P143296, DOI 10.1109/ACCESS.2023.3342107
+   Phillipe Cardenuto J., 2023, ARXIV
+   Philmlee D., 2023, PRACTICE INNOVATIONS
+   Ratcliffe S., 2016, OXFORD ESSENTIAL QUO, DOI [10.1093/acref/9780191826719.001.0001/q-oro-ed4-00018679, DOI 10.1093/ACREF/9780191826719.001.0001/Q-ORO-ED4-00018679]
+   Riparbelli V., MEDIUM
+   Russell S., 2020, Artificial intelligence-a modern approach, V4th
+   Schick N., 2020, DEEPFAKES COMING INF
+   Schwartz Oscar, 2018, The Guardian
+   Seow JW, 2022, NEUROCOMPUTING, V513, P351, DOI 10.1016/j.neucom.2022.09.135
+   Snow J., 2017, MIT TECHNOL REV 1007
+   Temkin M., 2022, VCS TRY PARSENOISE G
+   Thierer Adam., 2013, MINN. J.L. SCI. TECH, V14, P309, DOI DOI 10.2139/SSRN.2012494
+   Toews R., 2020, FORBES          0525
+   Tran T. H., FUTURISM
+   Tufekci Zeynep., 2019, WIRED
+   v d Sloot B., 2022, DEEPFAKES LEGAL CHAL
+   v Huijstee M., 2021, TACKLING DEEPFAKES E
+   Vincent J., The Verge
+   Vincent J., 2024, VERGE
+   Watts C., 2020, WASHINGTON POST 0910
+   Webb Amy., 2019, The big nine: How the tech titans their thinking machines could warp humanity
+   Wong M., 2022, ATLANTIC        1220
+   Yang Ling, 2022, ARXIV
+   Zimmermann A., 2023, UNDERSTAND EXPLOIT G
+NR 80
+TC 0
+Z9 0
+U1 5
+U2 5
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 50
+EP 61
+DI 10.1109/MSEC.2024.3380324
+EA APR 2024
+PG 12
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001205834900001
+DA 2024-08-05
+ER
+
+PT J
+AU Nissenbaum, H
+AF Nissenbaum, Helen
+TI AI Safety: A Poisoned Chalice?
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+AB We hear a lot about the awesome potential of AI-the achievements of reinforcement learning, the astonishing power of foundation models and generative AI. Amplifying the hype, AI Safety has emerged as its counterpoint. AI Safety, when I first encountered it, brought to mind autonomous vehicle crashes, nuclear meltdowns, killer drones, and robots-gone-haywire. Nowadays, I see a different, more aggressive intention as AI Safety has come to dominate the public agenda around AI, beyond the purely technical and economic.
+C1 [Nissenbaum, Helen] Cornell Tech, New York, NY 10044 USA.
+RP Nissenbaum, H (corresponding author), Cornell Tech, New York, NY 10044 USA.
+EM hn288@cornell.edu
+NR 0
+TC 0
+Z9 0
+U1 6
+U2 6
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAR-APR
+PY 2024
+VL 22
+IS 2
+BP 94
+EP 96
+DI 10.1109/MSEC.2024.3356848
+PG 3
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MW6I9
+UT WOS:001196708600002
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Backendal, M
+   Haller, M
+   Paterson, K
+AF Backendal, Matilda
+   Haller, Miro
+   Paterson, Kenny
+TI End-to-End Encrypted Cloud Storage
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Surveys; Cloud computing; Privacy; Focusing; Encryption; Secure storage;
+   Face recognition; Data privacy; Storage management
+AB End-to-end encryption is rapidly becoming the accepted security goal for personal data. In this article, we examine consumer cloud storage systems, focusing in particular on those systems that attempt to provide end-to-end security for customer data. We survey the security guarantees of current service providers and the issues they face, discuss open research questions, and highlight the challenges that impede the deployment of end-to-end secure cloud storage.
+C1 [Backendal, Matilda] Swiss Fed Inst Technol, Zurich, Switzerland.
+   [Haller, Miro] Univ Calif San Diego, La Jolla, CA USA.
+   [Paterson, Kenny] Swiss Fed Inst Technol, Dept Comp Sci, Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich; University of
+   California System; University of California San Diego; Swiss Federal
+   Institutes of Technology Domain; ETH Zurich
+RP Backendal, M (corresponding author), Swiss Fed Inst Technol, Zurich, Switzerland.
+EM mbackendal@inf.ethz.ch; mhaller@ucsd.edu; kenny.paterson@inf.ethz.ch
+CR Albrecht M. R., 2023, Advances in Cryptology EUROCRYPT, P190
+   [Anonymous], MEGA: Registered users
+   [Anonymous], How Dropbox keeps your files secure | Dropbox Help
+   [Anonymous], Data Deduplication Overview
+   [Anonymous], Default encryption at rest | Documentation
+   [Anonymous], Cloudflare radar: Adoption and usage
+   [Anonymous], Advanced data protection for iCloud
+   [Anonymous], Whitepaper: Security overview of AWS Lambda Security and compliance best practices
+   [Anonymous], iCloud data security overview
+   [Anonymous], Apple v. FBI
+   Backendal M, 2023, P IEEE S SECUR PRIV, P146, DOI 10.1109/SP46215.2023.10179290
+   Coppola D., 2022, Semester thesis
+   Gellman B., 2013, Washington PostOct. 30
+   Heninger Nadia, 2023, Public-Key Cryptography - PKC 2023: 26th IACR International Conference on Practice and Theory of Public-Key Cryptography, Proceedings. Lecture Notes in Computer Science (13940), P147, DOI 10.1007/978-3-031-31368-4_6
+   Menezes A, 2021, IEEE SECUR PRIV, V19, P60, DOI 10.1109/MSEC.2021.3077403
+   Morgan S., 2020, Cybercrime Mag.Jun. 8
+   Smart N, 2023, IEEE SECUR PRIV, V21, P94, DOI 10.1109/MSEC.2023.3279517
+   Sreeharsha V., 2016, NY TimesMar. 1
+NR 18
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAR-APR
+PY 2024
+VL 22
+IS 2
+BP 69
+EP 74
+DI 10.1109/MSEC.2024.3352788
+PG 6
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MW6I9
+UT WOS:001196708600003
+DA 2024-08-05
+ER
+
+PT J
+AU O'Hagan, J
+   Gugenheimer, J
+   Mathis, F
+   Bonner, J
+   Jones, R
+   McGill, M
+AF O'Hagan, Joseph
+   Gugenheimer, Jan
+   Mathis, Florian
+   Bonner, Jolie
+   Jones, Richard
+   McGill, Mark
+TI A Viewpoint on the Societal Impact of Everyday Augmented Reality and the
+   Need for Perceptual Human Rights
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Social factors; Augmented reality; Social implications of technology;
+   Media; Headphones; Smart phones; Advertising; Extended reality;
+   Metaverse; Privacy; Business
+AB Everyday augmented reality will become as fundamental to our daily lives as smartphones are today. -empowering users, communities, businesses, governments, and more to alter or mediate our perception of reality. But is society prepared for a world where a common objective reality that we all perceive and experience no longer exists?
+C1 [O'Hagan, Joseph; Bonner, Jolie; McGill, Mark] Univ Glasgow, Sch Comp Sci, Glasgow City G12 8QQ, Scotland.
+   [Gugenheimer, Jan] Tech Univ Darmstadt, Comp Sci, D-64277 Darmstadt, Germany.
+   [Mathis, Florian] Univ St Gallen, CH-9000 St Gallen, Switzerland.
+   [Jones, Richard] Univ Edinburgh, Sch Law, Criminol, Edinburgh EH10 5HF, Midlothian, Scotland.
+C3 University of Glasgow; Technical University of Darmstadt; University of
+   St Gallen; University of Edinburgh
+RP McGill, M (corresponding author), Univ Glasgow, Sch Comp Sci, Glasgow City G12 8QQ, Scotland.
+EM joseph.ohagan@glasogw.ac.uk; jan.gugenheimer@tu-darmstadt.de;
+   florian-mathis@outlook.com; joliebonner@gmail.com;
+   richard.jones@ed.ac.uk; mark.mcgill@glasgow.ac.uk
+OI O'Hagan, Joseph/0000-0003-2905-1584
+CR Alegre S., 2023, Financial Times
+   [Anonymous], 2021, RightsCon: As AR/VR becomes a reality, it needs a human rights framework
+   Bonnail E, 2023, PROCEEDINGS OF THE 2023 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2023, DOI 10.1145/3544548.3580988
+   Bonner J, 2023, 29TH ACM SYMPOSIUM ON VIRTUAL REALITY SOFTWARE AND TECHNOLOGY, VRST 2023, DOI 10.1145/3611659.3615707
+   Chung JW, 2023, DESIGNING INTERACTIVE SYSTEMS CONFERENCE, DIS 2023, P493, DOI 10.1145/3563657.3595967
+   Eghtebas C, 2023, DESIGNING INTERACTIVE SYSTEMS CONFERENCE, DIS 2023, P2392, DOI 10.1145/3563657.3596073
+   Gugenheimer J, 2020, CHI'20: EXTENDED ABSTRACTS OF THE 2020 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, DOI 10.1145/3334480.3375180
+   Heller B., 2020, Carr Center Discussion Paper Series, V2020-008
+   Lebeck K, 2018, P IEEE S SECUR PRIV, P392, DOI 10.1109/SP.2018.00051
+   Lemley MA, 2018, U PENN LAW REV, V166, P1051
+   O'Hagan J, 2022, PROC ACM INTERACT MO, V6, DOI 10.1145/3569501
+   OHagan Joseph, 2023, P 22 INT C MOB UB MU, P225, DOI [10.1145/3626705.3627782, DOI 10.1145/3626705.3627782]
+   Roesner F, 2014, PROCEEDINGS OF THE 2014 ACM INTERNATIONAL JOINT CONFERENCE ON PERVASIVE AND UBIQUITOUS COMPUTING (UBICOMP'14 ADJUNCT), P1283, DOI 10.1145/2638728.2641709
+   Skwarek M, 2018, SPR SER CULT COMPUT, P3, DOI 10.1007/978-3-319-69932-5_1
+   Yuste R., 2021, J. Int. Relations Sustainable Develop, V1, P154
+NR 15
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD JAN
+PY 2024
+VL 22
+IS 1
+BP 64
+EP 68
+DI 10.1109/MSEC.2023.3333988
+PG 5
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA KA7G0
+UT WOS:001177299100002
+OA Bronze, Green Accepted
+DA 2024-08-05
+ER
+
+PT J
+AU Watson, RNM
+   Chisnall, D
+   Clarke, J
+   Davis, B
+   Filardo, NW
+   Laurie, B
+   Moore, SW
+   Neumann, PG
+   Richardson, A
+   Sewell, P
+   Witaszczyk, K
+   Woodruff, J
+AF Watson, Robert N. M.
+   Chisnall, David
+   Clarke, Jessica
+   Davis, Brooks
+   Filardo, Nathaniel Wesley
+   Laurie, Ben
+   Moore, Simon W.
+   Neumann, Peter G.
+   Richardson, Alexander
+   Sewell, Peter
+   Witaszczyk, Konrad
+   Woodruff, Jonathan
+TI CHERI: Hardware-Enabled C/C plus plus Memory Protection at Scale
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Safety; C plus plus languages; Software; Microarchitecture; Hardware;
+   Security; Protection
+AB The memory-safe Capability Hardware Enhanced RISC Instructions (CHERI) C and C++ languages build on architectural capabilities in the CHERI protection model. With the development of two industrial CHERI-enabled processors, Arm's Morello and Microsoft's CHERIoT, CHERI may offer the fastest path to widely deployed memory safety.
+C1 [Watson, Robert N. M.; Clarke, Jessica; Moore, Simon W.; Witaszczyk, Konrad; Woodruff, Jonathan] Univ Cambridge, Dept Comp Sci & Technol, Cambridge CB3 0FD, England.
+   [Chisnall, David] SCI Semicond, Cambridge CB23 7NU, England.
+   [Davis, Brooks; Neumann, Peter G.] SRI Int, Comp Sci Lab, Menlo Pk, CA 94025 USA.
+   [Filardo, Nathaniel Wesley] Microsoft, Redmond, WA USA.
+   [Laurie, Ben] Google, London N1C 4AG, England.
+   [Richardson, Alexander] Google, Mountain View, CA 94025 USA.
+   [Sewell, Peter] Univ Cambridge, Cambridge CB3 0FD, England.
+C3 University of Cambridge; SRI International; Microsoft; Google
+   Incorporated; Google Incorporated; University of Cambridge
+RP Watson, RNM (corresponding author), Univ Cambridge, Dept Comp Sci & Technol, Cambridge CB3 0FD, England.
+EM robert.watson@cl.cam.ac.uk; david.chisnall@cl.cam.ac.uk;
+   jessica.clarke@cl.cam.ac.uk; brooks.davis@sri.com;
+   nfilardo@microsoft.com; benl@google.com; simon.moore@cl.cam.ac.uk;
+   neumann@csl.sri.com; alexrichardson@google.com;
+   peter.sewell@cl.cam.ac.uk; konrad.witaszczyk@cl.cam.ac.uk;
+   jonathan.woodruff@cl.cam.ac.uk
+FU Innovate U.K. [105694, 107145, 10027440]; European Research Council
+   under the European Union's Horizon 2020 research and innovation program
+   [789108]; EPSRC REMS Program [EP/K008528/1]; EPSRC CHaOS [EP/V000292/1];
+   Arm; Google; Microsoft
+FX This work was supported in part by the Innovate U.K. DSbD Technology
+   Platform Prototype Project 105694 as well as Innovate U.K. Project
+   107145 and Project 10027440. This project received funding from the
+   European Research Council under the European Union's Horizon 2020
+   research and innovation program (Grant 789108). We further acknowledge
+   the EPSRC REMS Program (Grant EP/K008528/1) and the EPSRC CHaOS (Grant
+   EP/V000292/1). Additional support was received from Arm, Google, and
+   Microsoft.
+CR Amar S., 2023, P 56 IEEE ACM INT S, DOI [10.1145/3613424.3614266, DOI 10.1145/3613424.3614266]
+   Bae Y, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P84, DOI 10.1145/3477132.3483570
+   Bauereiss T, 2022, LECT NOTES COMPUT SC, V13240, P174, DOI 10.1007/978-3-030-99336-8_7
+   Chisnall D, 2015, ACM SIGPLAN NOTICES, V50, P117, DOI [10.1145/2775054.2694367, 10.1145/2694344.2694367]
+   Davis B, 2019, TWENTY-FOURTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXIV), P379, DOI 10.1145/3297858.3304042
+   Filardo N. W., 2024, P ACM INT C ARCH SUP, DOI [10.1145/3620665.3640416, DOI 10.1145/3620665.3640416]
+   Grisenthwaite R, 2023, IEEE MICRO, V43, P50, DOI 10.1109/MM.2023.3264676
+   Joly N., "Security analysis of CHERI ISA
+   Levy HM., 1984, Capability-based computer systems
+   Szekeres L, 2013, P IEEE S SECUR PRIV, P48, DOI 10.1109/SP.2013.13
+   Watson R. N. M., 2021, "Assessing the viability of an open-source CHERI desktop software ecosystem
+   Watson R. N. M., 2023, Tech. Rep. UCAM-CL-TR-987
+   Watson R. N. M., 2020, Tech. Rep. UCAM-CL-TR-947
+   Zaliva V., P ARCH SUPP PROGR LA, P181, DOI [10.1145/3617232.3624859, DOI 10.1145/3617232.3624859]
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUN 21
+PY 2024
+DI 10.1109/MSEC.2024.3396701
+EA JUN 2024
+PG 12
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WD5R4
+UT WOS:001252949600001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Huang, KM
+   Payer, M
+   Qian, ZY
+   Sampson, J
+   Tan, G
+   Jaeger, T
+AF Huang, Kaiming
+   Payer, Mathias
+   Qian, Zhiyun
+   Sampson, Jack
+   Tan, Gang
+   Jaeger, Trent
+TI Comprehensive Memory Safety Validation: An Alternative Approach to
+   Memory Safety
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Safety; Runtime; Memory management; Protection; Costs; Static analysis;
+   Software
+AB Comprehensive memory safety validation identifies the memory objects whose accesses provably comply with all classes of memory safety, protecting them from memory errors elsewhere at low overhead. We assess the breadth and depth of comprehensive memory safety validation.
+C1 [Huang, Kaiming; Sampson, Jack; Tan, Gang] Penn State Univ, State Coll, PA 16802 USA.
+   [Payer, Mathias] Ecole Polytech Fed Lausanne, CH-1015 Lausanne, Switzerland.
+   [Qian, Zhiyun; Jaeger, Trent] Univ Calif Riverside, Riverside, CA 92521 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Swiss Federal Institutes of Technology
+   Domain; Ecole Polytechnique Federale de Lausanne; University of
+   California System; University of California Riverside
+RP Huang, KM (corresponding author), Penn State Univ, State Coll, PA 16802 USA.
+EM kzh529@psu.edu; mathias.payer@epfl.ch; zhiyunq@cs.ucr.edu;
+   jms1257@psu.edu; gtan@psu.edu; trentj@ucr.edu
+OI Sampson, John/0009-0008-4990-8585; Tan, Gang/0000-0001-6109-6091; Huang,
+   Kaiming/0000-0003-3665-2687
+CR Jeon Y, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P249
+   Kuznetsov Volodymyr, 2014, 11 USENIX S OP SYST, P147
+   Necula GC, 2005, ACM T PROGR LANG SYS, V27, P477, DOI 10.1145/1065887.1065892
+   Serebryany K., 2012, USENIX ANN TECHNICAL, P309
+   Zhang YC, 2022, PROCEEDINGS OF THE 31ST USENIX SECURITY SYMPOSIUM, P4345
+NR 5
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 APR 4
+PY 2024
+DI 10.1109/MSEC.2024.3379947
+EA APR 2024
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NB2N6
+UT WOS:001197916700001
+DA 2024-08-05
+ER
+
+PT J
+AU Pastor-Galindo, J
+   Nespoli, P
+   Ruipérez-Valiente, JA
+AF Pastor-Galindo, Javier
+   Nespoli, Pantaleone
+   Ruiperez-Valiente, Jose A.
+TI Large-Language-Model-Powered Agent-Based Framework for Misinformation
+   and Disinformation Research: Opportunities and Open Challenges
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Information integrity; Social networking (online); Fake news; Context
+   modeling; Integrated circuit modeling; Fraud; Visualization
+AB The affordances that generative artificial intelligence can have in mis/disinformation contexts are major threats to our digitalized society. We present a research framework to generate customized agent-based social networks for disinformation simulations that would enable understanding and evaluating the phenomena.
+C1 [Pastor-Galindo, Javier; Nespoli, Pantaleone; Ruiperez-Valiente, Jose A.] Univ Murcia, Dept Informat & Commun Engn, Murcia 30100, Spain.
+C3 University of Murcia
+RP Nespoli, P (corresponding author), Univ Murcia, Dept Informat & Commun Engn, Murcia 30100, Spain.
+EM javierpg@um.es; pantaleone.nespoli@um.es; jruiperez@um.es
+RI Ruiperez-Valiente, Jose A./U-8795-2018
+OI Ruiperez-Valiente, Jose A./0000-0002-2304-6365; Pastor-Galindo,
+   Javier/0000-0003-4827-6682
+FU Spanish National Institute of Cybersecurity; Recovery, Transformation
+   and Resilience Plan, Next Generation EU
+FX This study was partially funded by the strategic project "Development of
+   Professionals and Researchers in Cybersecurity, Cyberdefense and Data
+   Science (CDL-TALENTUM)" from the Spanish National Institute of
+   Cybersecurity and by the Recovery, Transformation and Resilience Plan,
+   Next Generation EU.
+CR Argyle LP, 2023, POLIT ANAL, V31, P337, DOI 10.1017/pan.2023.2
+   Beskow DM, 2019, WINT SIMUL C PROC, P750, DOI 10.1109/WSC40007.2019.9004942
+   Fui-Hoon Nah F., 2023, J Inf Technol Case Appl Res, V25, P277, DOI [DOI 10.1080/15228053.2023.2233814, 10.1080/15228053.2023.2233814]
+   Gao Changyu, 2023, ARXIV
+   Ghaffarzadegan N, 2024, SYST DYNAM REV, V40, DOI 10.1002/sdr.1761
+   Gozalo-Brizuela R., 2023, ARXIV
+   Jiang Haotian, 2023, ARXIV
+   Liu PF, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3560815
+   Park J. S., 2023, Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology
+   Pastor-Galindo J, 2020, IEEE T NETW SERV MAN, V17, P2156, DOI 10.1109/TNSM.2020.3031573
+   Sharma K, 2019, ACM T INTEL SYST TEC, V10, DOI 10.1145/3305260
+   Sharma M, 2023, Security and Privacy, P451, DOI 10.1109/EuroSPW59978.2023.00055
+   Sison AJG, 2023, INT J HUM-COMPUT INT, DOI 10.1080/10447318.2023.2225931
+   Sumers Theodore, 2023, ARXIV
+   Ziems C., 2023, ARXIV
+NR 15
+TC 1
+Z9 1
+U1 15
+U2 15
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 24
+EP 36
+DI 10.1109/MSEC.2024.3380511
+EA APR 2024
+PG 13
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001201895700001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Tariang, D
+   Corvi, R
+   Cozzolino, D
+   Poggi, G
+   Nagano, K
+   Verdoliva, L
+AF Tariang, Diangarti
+   Corvi, Riccardo
+   Cozzolino, Davide
+   Poggi, Giovanni
+   Nagano, Koki
+   Verdoliva, Luisa
+TI Synthetic Image Verification in the Era of Generative Artificial
+   Intelligence: What Works and What Isn’t There yet
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Training; Image synthesis; Generative adversarial networks; Generators;
+   Forensics; Computer architecture; Robustness
+AB In this work, we present an overview of approaches for the detection and attribution of synthetic images and highlight their strengths and weaknesses. We also point out and discuss hot topics in this field and outline promising directions for future research.
+C1 [Tariang, Diangarti; Corvi, Riccardo; Cozzolino, Davide; Poggi, Giovanni; Verdoliva, Luisa] Univ Federico II Naples, Dept Elect Engn & Informat Technol, I-80138 Naples, Italy.
+   [Nagano, Koki] NVIDIA Res, Santa Clara, CA 95051 USA.
+C3 University of Naples Federico II
+RP Tariang, D (corresponding author), Univ Federico II Naples, Dept Elect Engn & Informat Technol, I-80138 Naples, Italy.
+EM diangarti.tariang@gmail.com; riccardo.corvi@unina.it;
+   davide.cozzolino@unina.it; poggi@unina.it; knagano@nvidia.com;
+   verdoliv@unina.it
+OI COZZOLINO, DAVIDE/0000-0001-6158-7595
+FU Technical University of Munich-Institute for Advanced Study Hans Fischer
+   Senior Fellowship; Defense Advanced Research Projects Agency and Air
+   Force Research Laboratory [FA8750-20-2-1004]; European Union [101070093]
+FX This research was supported by a Technical University of
+   Munich-Institute for Advanced Study Hans Fischer Senior Fellowship and a
+   Google Gift. This material is also based on research sponsored by the
+   Defense Advanced Research Projects Agency and Air Force Research
+   Laboratory under Agreement FA8750-20-2-1004. In addition, this work has
+   received funding by the European Union under the Horizon Europe vera.ai
+   project, Grant Agreement 101070093. Finally, we thank Tero Karras,
+   Yogesh Balaji, and Ming-Yu Liu for sharing data for Style GAN-T and e
+   Diff-I experiments.
+CR Barrett C., 2023, Foundations and Trends in Privacy and Security, V6, P1, DOI DOI 10.1561/3300000041
+   Cardenuto JP, 2023, APSIPA TRANS SIGNAL, V12, DOI 10.1561/116.00000138
+   Chen M, 2008, IEEE T INF FOREN SEC, V3, P74, DOI 10.1109/TIFS.2007.916285
+   Corvi Riccardo, 2023, 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), P973, DOI 10.1109/CVPRW59228.2023.00104
+   Cozzolino D, 2021, IEEE COMPUT SOC CONF, P990, DOI 10.1109/CVPRW53098.2021.00110
+   Dhariwal P, 2021, ADV NEUR IN, V34
+   Durall R., 2020, P IEEE CVF C COMP VI, P7890
+   Epstein Z., 2023, ARXIV
+   Goodfellow IJ, 2014, ADV NEUR IN, V27, P2672, DOI 10.1145/3422622
+   Ho Jonathan, 2020, Denoising diffusion probabilistic models. 2020-Decem, V2020, P1
+   Karras T, 2021, IEEE T PATTERN ANAL, V43, P4217, DOI 10.1109/TPAMI.2020.2970919
+   Radford A, 2021, PR MACH LEARN RES, V139
+   Saharia C., 2022, ADV NEURAL INF PROCE, V35, P36479
+   Schuhmann C., DATA CENTRIC AI NEUR, P1
+   Vaze S., 2022, P INT C LEARN REPR, DOI 10.48550/arXiv.2110.06207
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 37
+EP 49
+DI 10.1109/MSEC.2024.3376637
+EA APR 2024
+PG 13
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001201943200001
+DA 2024-08-05
+ER
+
+PT J
+AU Mentens, N
+AF Mentens, Nele
+TI Hardware Security in the Era of Emerging Device and System Technologies
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+AB In this editor's column, I would like to advocate for putting more research effort in the security of electronic systems that are based on emerging hardware technologies. The reason for existence of these emerging technologies is that they are more efficient than traditional semiconductor technologies with respect to one or more nonfunctional properties, such as the energy consumption, the peak power dissipation, the computational delay, the cost and/or the size of the chip. The requirements of a system determine which of these properties are the most important for that system and whether it is necessary to step away from traditional technologies. For example, a pacemaker chip should consume as little energy as possible because the battery should last as long as possible, while a disposable medical sensor should be as cheap as possible because it cannot be reused. When traditional semiconductor technologies cannot fulfill these requirements, emerging technologies can offer a solution.
+EM n.mentens@liacs.leidenuniv.nl
+CR [Anonymous], 2022, ReRAM proves resistant to inva-sive attacks
+   [Anonymous], 2024, International roadmap for devices and systems
+   [Anonymous], 2022, IRDS 2022: Executive summary
+   [Anonymous], 2022, IRDS 2022: More than Moore
+   [Anonymous], 2023, IRDS 2023: Beyond CMOS and emerging materials inte-gration
+   Bleier N, 2023, DES AUT TEST EUROPE, DOI 10.23919/DATE56975.2023.10137258
+   Chuang K., 2020, Ph.D. thesis
+   Elias A., 2024, SynopsysMar. 8
+   Erozan AT, 2020, IEEE T VLSI SYST, V28, P1485, DOI 10.1109/TVLSI.2020.2975876
+   Erozan AT, 2018, IEEE T VLSI SYST, V26, P2935, DOI 10.1109/TVLSI.2018.2866188
+   europracticeic, Pragmatic.
+   Mentens N., 2019, IACR Trans. Cryptogr. Hardware Embedded Syst., V2019, P1
+   Moore GE, 1965, ELECTRONICS, V38, P114
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 4
+EP 6
+DI 10.1109/MSEC.2024.3379768
+PG 3
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001226314400007
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Hutchings, A
+AF Hutchings, Alice
+TI The Amplification of Online Deviancy Through the Language of Violent
+   Crime, War, and Aggression
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Privacy; Computer crime; Computer security; Computer hacking; Trojan
+   horses; Law enforcement; Computer science; Visualization; Social
+   implications of technology; Online services
+ID CYBERCRIME
+AB Depictions of cybercrime use language often related to violence and war. Reality, for victims, offenders, and defenders, is often vastly different. We should not use terms of violence to describe cybercrimes, which are mostly low level, automated, and financially driven.
+C1 [Hutchings, Alice] Univ Cambridge, Cambridge, England.
+C3 University of Cambridge
+RP Hutchings, A (corresponding author), Univ Cambridge, Cambridge, England.
+EM alice.hutchings@cl.cam.ac.uk
+OI Hutchings, Alice/0000-0003-3037-2684
+FU European Union's Horizon 2020 research and innovation program
+FX No Statement Available
+CR Anderson R., 2019, WORKSH EC INF SEC WE
+   Aust S., 1987, The inside Story of a Phenomenon
+   Braithwaite J, 2022, Peacebuilding Compar, P1, DOI 10.22459/MF.2021
+   Camp LJ, 2009, IEEE TECHNOL SOC MAG, V28, P37, DOI 10.1109/MTS.2009.934142
+   Collier B, 2021, BRIT J CRIMINOL, V61, P1407, DOI 10.1093/bjc/azab026
+   Gilbert JE, 2022, COMMUN ACM, V65, P36, DOI 10.1145/3539488
+   Goldsmith A, 2022, EUR J CRIMINOL, V19, P98, DOI 10.1177/1477370819887305
+   Hicks M, 2017, HIST COMPUT-MIT PRES, P1
+   Johnston AC, 2010, MIS QUART, V34, P549
+   Moncur W, 2016, COMPUT HUM BEHAV, V63, P125, DOI 10.1016/j.chb.2016.05.042
+   Pinker S., 2012, The Better Angels of Our Nature: A History of Violence and Humanity
+   Vu AV, 2024, Arxiv, DOI arXiv:2208.10629
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAR-APR
+PY 2024
+VL 22
+IS 2
+BP 81
+EP 84
+DI 10.1109/MSEC.2024.3353428
+PG 4
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MW6I9
+UT WOS:001196708600009
+DA 2024-08-05
+ER
+
+PT J
+AU Park, JK
+   Akter, M
+   Wisniewski, P
+   Badillo-Urquiola, K
+AF Park, Jinkyung Katie
+   Akter, Mamtaj
+   Wisniewski, Pamela
+   Badillo-Urquiola, Karla
+TI It's Still Complicated: From Privacy-Invasive Parental Control to
+   Teen-Centric Solutions for Digital Resilience
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Safety; Privacy; Social networking (online); Mediation; Media;
+   Resilience; Legislation
+AB We discuss the paradigm shift from restrictive approaches toward resilience-based solutions to promote adolescents' online safety and well-being. We describe how restrictive strategies induce a tradeoff between teens' privacy and online safety and present empirical studies that examine resilience-based approaches.
+C1 [Park, Jinkyung Katie; Wisniewski, Pamela] Vanderbilt Univ, Comp Sci, Nashville, TN 37235 USA.
+   [Akter, Mamtaj] Vanderbilt Univ, Nashville, TN USA.
+   [Badillo-Urquiola, Karla] Univ Notre Dame, Comp Sci & Engn, Notre Dame, IN 46556 USA.
+C3 Vanderbilt University; Vanderbilt University; University of Notre Dame
+RP Park, JK (corresponding author), Vanderbilt Univ, Comp Sci, Nashville, TN 37235 USA.
+EM jinkyung.park@vanderbilt.edu; mamtaj.akter@vanderbilt.edu;
+   pam.wisniewski@vanderbilt.edu; kbadillou@nd.edu
+FU U.S. National Science Foundation [IIP-2329976, IIS-2333207,
+   CNS-2326901]; William T. Grant Foundation [187941]
+FX The work of Dr. Wisniewski was supported by the U.S. National Science
+   Foundation under Grant IIP-2329976, Grant IIS-2333207, and Grant
+   CNS-2326901 and by the William T. Grant Foundation Grant 187941. Any
+   opinions, findings, conclusions, or recommendations expressed in this
+   material are those of the authors and do not necessarily reflect the
+   views of the research sponsors.
+CR Aghaet al Z., 2024, P CHI C HUM FACT COM, P1, DOI [10.1145/3613904.3642313, DOI 10.1145/3613904.3642313]
+   Akter Mamtaj, 2022, Proceedings of the ACM on Human-Computer Interaction, V6, DOI 10.1145/3512904
+   Ali Z., 2024, P CHI C HUM FACT COM, P1, DOI [10.1145/3613905.3637121.11, DOI 10.1145/3613905.3637121.11]
+   Anderson Monica., 2020, TEENS SOCIAL MEDIA T
+   [Anonymous], S.3663-Kids Online Safety Act
+   Badillo-Urquiola Karla, 2024, Proceedings of the ACM on Human-Computer Interaction, V8, DOI 10.1145/3637412
+   Badillo-Urquiola Karla, 2020, Proceedings of the ACM on Human-Computer Interaction, V4, DOI 10.1145/3432930
+   Davis K, 2023, 22ND ANNUAL ACM INTERACTION DESIGN AND CHILDREN CONFERENCE, IDC 2023, P322, DOI 10.1145/3585088.3589387
+   Ghosh AK, 2018, PROCEEDINGS OF THE 2018 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS (CHI 2018), DOI 10.1145/3173574.3173698
+   Iftikhar Z, 2021, LECT NOTES COMPUT SC, V12935, P676, DOI 10.1007/978-3-030-85610-6_39
+   Razi A, 2022, EXTENDED ABSTRACTS OF THE 2022 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, CHI 2022, DOI 10.1145/3491101.3503569
+   Smahel David, 2020, EU Kids Online 2020: Survey Results from 19 Countries, DOI [DOI 10.21953/LSE.47FDEQJ01OFO, 10.21953/lse.47fdeqj01of]
+   Smirnova S., euConsent
+   Vitak J, 2014, J BROADCAST ELECTRON, V58, P470, DOI 10.1080/08838151.2014.935944
+   Wisniewski P. J., 2022, Modern Socio Technical Perspectives on Pri- vacy, P315, DOI 10.1007/978-3-030-82786-1
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUL 12
+PY 2024
+DI 10.1109/MSEC.2024.3417804
+EA JUL 2024
+PG 11
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YW5T9
+UT WOS:001271543100001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Maiano, L
+   Benova, A
+   Papa, L
+   Stockner, M
+   Marchetti, M
+   Convertino, G
+   Mazzoni, G
+   Amerini, I
+AF Maiano, Luca
+   Benova, Alexandra
+   Papa, Lorenzo
+   Stockner, Mara
+   Marchetti, Michela
+   Convertino, Gianmarco
+   Mazzoni, Giuliana
+   Amerini, Irene
+TI Human Versus Machine: A Comparative Analysis in Detecting Artificial
+   Intelligence-Generated Images
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Privacy
+AB This article delves into the intricate process of artificial intelligence-generated content detection, shedding light on automated detectors' challenges and revealing human detection biases, strengths, and weaknesses.
+C1 [Maiano, Luca; Papa, Lorenzo] Sapienza Univ Rome, Dept Comp Control Management Engn Antonio Ruberti, I-00185 Rome, Italy.
+   [Benova, Alexandra] Osnabruck Univ, Inst Cognit Sci, Cognit Sci, D-49073 Osnabruck, Germany.
+   [Stockner, Mara] Sapienza Univ Rome, Fac Med & Psychol, I-00185 Rome, Italy.
+   [Stockner, Mara; Marchetti, Michela] Sapienza Univ Rome, Sci Psychol, Rome, Italy.
+   [Mazzoni, Giuliana] Sapienza Univ Rome, Psychol, I-00185 Rome, Italy.
+   [Convertino, Gianmarco; Amerini, Irene] Sapienza Univ Rome, Comp Sci, I-00185 Rome, Italy.
+C3 Sapienza University Rome; University Osnabruck; Sapienza University
+   Rome; Sapienza University Rome; Sapienza University Rome; Sapienza
+   University Rome
+RP Maiano, L (corresponding author), Sapienza Univ Rome, Dept Comp Control Management Engn Antonio Ruberti, I-00185 Rome, Italy.
+EM luca.maiano@uniroma1.it; abenova@uni-osnabrueck.de;
+   lorenzo.papa@uniroma1.it; mara.stockner@uniroma1.it;
+   michela.marchetti@uniroma1.it; gianmarco.convertino@uniroma1.it;
+   giuliana.mazzoni@uniroma1.it; irene.amerini@uniroma1.it
+OI Convertino, Gianmarco/0000-0002-8612-9854; Marchetti,
+   Michela/0000-0002-4746-1053; Papa, Lorenzo/0000-0002-9393-5248;
+   Stockner, Mara/0000-0002-2692-3458
+FU Cyberspace Foundation
+FX No Statement Available
+CR Amerini I, 2021, FOUND TRENDS COMPUT, V12, P309, DOI 10.1561/0600000096
+   Bonettini N, 2021, INT C PATT RECOG, P5012, DOI 10.1109/ICPR48806.2021.9412711
+   Corvi Riccardo, 2023, ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), P1, DOI 10.1109/ICASSP49357.2023.10095167
+   Fysh MC, 2020, ROY SOC OPEN SCI, V7, DOI 10.1098/rsos.200233
+   Gragnaniello D., 2021, 2021 IEEE International Conference on Multimedia and Expo (ICME), P1, DOI 10.1109/ICME51207.2021.9428429
+   Groh M, 2022, P NATL ACAD SCI USA, V119, DOI 10.1073/pnas.2110013119
+   Korshunov Pavel, 2022, IEEE Transactions on Biometrics, Behavior, and Identity Science, V4, P386, DOI 10.1109/TBIOM.2022.3143404
+   Korshunov P, 2021, 2021 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL PROCESSING (ICASSP 2021), P2510, DOI 10.1109/ICASSP39728.2021.9414258
+   Li CQ, 2023, IEEE WINT CONF APPL, P1339, DOI 10.1109/WACV56688.2023.00139
+   Miller EJ, 2023, PSYCHOL SCI, V34, P1390, DOI 10.1177/09567976231207095
+   Papa L, 2023, 2023 11TH INTERNATIONAL WORKSHOP ON BIOMETRICS AND FORENSICS, IWBF, DOI 10.1109/IWBF57495.2023.10156981
+   Ramon M, 2024, IEEE SECUR PRIV, V22, P68, DOI 10.1109/MSEC.2024.3371030
+   Tucciarelli R, 2022, ISCIENCE, V25, DOI 10.1016/j.isci.2022.105441
+   Vaswani A, 2017, ADV NEUR IN, V30
+   Willis J, 2006, PSYCHOL SCI, V17, P592, DOI 10.1111/j.1467-9280.2006.01750.x
+NR 15
+TC 0
+Z9 0
+U1 7
+U2 7
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 77
+EP 86
+DI 10.1109/MSEC.2024.3390555
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001226314400009
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Massacci, F
+AF Massacci, Fabio
+TI The Holy Grail of Vulnerability Predictions
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+AB Scoring vulnerabilities is a hard task, and we build standards for this purpose: the Common Vulnerability Scoring System (CVSS) used by NIST is the oldest of them. It was invented by Peter Mell and Karen Scarfone, among others, to assess severity.1
+EM fabio.massacci@ieee.org
+CR Allodi L, 2020, EMPIR SOFTW ENG, V25, P1063, DOI 10.1007/s10664-019-09797-4
+   Allodi L, 2014, ACM T INFORM SYST SE, V17, DOI 10.1145/2630069
+   Bouwman X, 2020, PROCEEDINGS OF THE 29TH USENIX SECURITY SYMPOSIUM, P433
+   Bozorgi Mehran, 2010, P 16 ACM SIGKDD INT, P105
+   Chen HP, 2019, KDD'19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P3143, DOI 10.1145/3292500.3330742
+   Jacobs J, 2023, Security and Privacy, P194, DOI 10.1109/EuroSPW59978.2023.00027
+   Le THM, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3529757
+   Lipner S, 2023, COMMUN ACM, V66, P21, DOI 10.1145/3587826
+   Massacci F, 2023, COMMUN ACM, V66, P31, DOI 10.1145/3571452
+   Scarfone K, 2009, INT SYMP EMP SOFTWAR, P517
+   Spring JM, 2023, COMPUT SECUR, V131, DOI 10.1016/j.cose.2023.103191
+   Spring JM, 2021, IEEE SECUR PRIV, V19, P74, DOI 10.1109/MSEC.2020.3044475
+   Suciu O, 2022, PROCEEDINGS OF THE 31ST USENIX SECURITY SYMPOSIUM, P377
+   Tizio GD, 2023, IEEE T SOFTWARE ENG, V49, P1359, DOI 10.1109/TSE.2022.3176674
+   Zhang M., 2023, How language model hallucinations can snowball
+NR 15
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD JAN
+PY 2024
+VL 22
+IS 1
+BP 4
+EP 6
+DI 10.1109/MSEC.2023.3333936
+PG 3
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA KA7G0
+UT WOS:001177299100003
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Mbaka, W
+   Tuma, K
+AF Mbaka, Winnie
+   Tuma, Katja
+TI Role of Gender in the Evaluation of Security Decisions
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Security; Decision making; Ethics; Behavioral sciences; Human factors;
+   Education; Surveys
+AB Cybersecurity decisions are made by human analysts under uncertain conditions, leaving room for bias, but demographic characteristics can affect these security decisions. We conducted an empirical study to investigate their influence on cybersecurity decision evaluations, addressing this knowledge gap.
+C1 [Mbaka, Winnie; Tuma, Katja] Vrije Univ Amsterdam, Dept Comp Sci, NL-10811 Amsterdam, Netherlands.
+C3 Vrije Universiteit Amsterdam
+RP Tuma, K (corresponding author), Vrije Univ Amsterdam, Dept Comp Sci, NL-10811 Amsterdam, Netherlands.
+EM w.mbaka@vu.nl; k.tuma@vu.nl
+OI Mbaka, Winnie Bahati/0000-0001-6913-1971
+FU Network Institute Academy Assistant program at the Vrije Universiteit;
+   Nederlandse Organisatie voor Wetenschappelijk Onderzoek [14261];
+   European Commission [952647]; Horizon Europe Sec4AI4Sec Project
+   [101120393]
+FX We thank Fabio Massacci and Romy Van Der Lee for useful discussions and
+   suggestions. This work was partially supported by the Network Institute
+   Academy Assistant program at the Vrije Universiteit, the Nederlandse
+   Organisatie voor Wetenschappelijk Onderzoek under the Knowledge
+   Innovation Communities HEW-STI Project under Grant 14261, the European
+   Commission under the H2020 AssureMOSS project under Grant 952647, and
+   the Horizon Europe Sec4AI4Sec Project under Grant 101120393. This work
+   involved human subjects or animals in its research. The author(s)
+   confirm(s) that all human/animal subject research pro-cedures and
+   protocols are exempt from review board approval.
+CR [Anonymous], 2018, CASE MALWARE DISRUPT
+   [Anonymous], 2018, ACM CODE ETHICS PROF
+   CRONBACH LJ, 1951, PSYCHOMETRIKA, V16, P297, DOI DOI 10.1007/BF02310555
+   Farooq A, 2015, INT J INF SECUR PRIV, V9, P60, DOI 10.4018/IJISP.2015040104
+   Frey S, 2019, IEEE T SOFTWARE ENG, V45, P521, DOI 10.1109/TSE.2017.2782813
+   Giddens L, 2020, COMPUT SECUR, V99, DOI 10.1016/j.cose.2020.102066
+   Gustafson PE, 1998, RISK ANAL, V18, P805, DOI 10.1023/B:RIAN.0000005926.03250.c0
+   Hibshi H, 2015, INT REQUIR ENG CONF, P146, DOI 10.1109/RE.2015.7320417
+   Jalali MS, 2019, J STRATEGIC INF SYST, V28, P66, DOI 10.1016/j.jsis.2018.09.003
+   Jaspersen JG, 2015, RISK ANAL, V35, P1317, DOI 10.1111/risa.12357
+   Johnson CK, 2021, 2021 36TH IEEE/ACM INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING WORKSHOPS (ASEW 2021), P140, DOI 10.1109/ASEW52652.2021.00038
+   Mbaka W., 2023, ARXIV
+   McCormac A, 2017, COMPUT HUM BEHAV, V69, P151, DOI 10.1016/j.chb.2016.11.065
+   McGill Tanya, 2018, P AUSTRALASIAN C INF, DOI DOI 10.5130/ACIS2018.CO
+   Meyners M, 2012, FOOD QUAL PREFER, V26, P231, DOI 10.1016/j.foodqual.2012.05.003
+   Olofsson A, 2011, RISK ANAL, V31, P1016, DOI 10.1111/j.1539-6924.2010.01566.x
+   Rodríguez-Pérez G, 2021, EMPIR SOFTW ENG, V26, DOI 10.1007/s10664-021-09992-2
+   Svahnberg M, 2008, ESEM'08: PROCEEDINGS OF THE 2008 ACM-IEEE INTERNATIONAL SYMPOSIUM ON EMPIRICAL SOFTWARE ENGINEERING AND MEASUREMENT, P288
+   Taber KS, 2018, RES SCI EDUC, V48, P1273, DOI 10.1007/s11165-016-9602-2
+   Wei Min, 2023, P 2023 17 INT C UB I, P1
+   Wright G, 2002, RISK ANAL, V22, P1107, DOI 10.1111/1539-6924.00276
+NR 21
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAR-APR
+PY 2024
+VL 22
+IS 2
+BP 38
+EP 48
+DI 10.1109/MSEC.2023.3343837
+EA JAN 2024
+PG 11
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MW6I9
+UT WOS:001142798400001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Cascavilla, G
+AF Cascavilla, Giuseppe
+TI The Rise of Cybercrime and Cyber-Threat Intelligence: Perspectives and
+   Challenges From Law Enforcement
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Computer crime; Phishing; Dark Web; Drugs; Terrorism; Bibliographies;
+   Weapons
+AB This study explores whether state-of-the-art approaches help Law Enforcement Agencies (LEAs) recognize and prevent cybercrime. Interviews and surveys show an overlap between these methods and those used by LEAs and practitioners, highlighting the need for closer collaboration in developing innovative tools to fight cybercrime.
+C1 [Cascavilla, Giuseppe] Eindhoven Univ Technol, Comp Sci, NL-5612 AZ Eindhoven, Netherlands.
+C3 Eindhoven University of Technology
+RP Cascavilla, G (corresponding author), Eindhoven Univ Technol, Comp Sci, NL-5612 AZ Eindhoven, Netherlands.
+EM org.cascavilla@tue.nl
+FU EU H2020 framework program, grant "ANITA" [787061]; EU H2020 framework
+   program, Grant "PRoTECT" [815356]
+FX This work was supported by the EU H2020 framework program, grant "ANITA"
+   under Grant 787061 and Grant "PRoTECT" under Grant 815356. More-over,
+   the author would like to thank Prof. W.J. Van Den Heuvel for the
+   experience and comments shared during the writing process of this paper
+   and Prof. D. A. Tam-burri from The Jheronimus Academy of Data Science
+   (Netherlands) for feedback, support, and for the help provided during
+   the interview process.
+CR AL-Hawamleh AM, 2023, INT J ADV COMPUT SC, V14, P801
+   Alharbi S.H., 2017, British Journal of Economics, Management and Trade, V17, P1
+   [Anonymous], About Open Threat Exchange (OTX)
+   [Anonymous], 2020, Global study on firearms trafficking
+   Cascavilla G, 2021, COMPUT SECUR, V105, DOI 10.1016/j.cose.2021.102258
+   Danyliw R., 2016, RFC 7970
+   Emmanuel O. Igbekele, 2023, 2023 International Conference on Science, Engineering and Business for Sustainable Development Goals (SEB-SDG), P1, DOI 10.1109/SEB-SDG57117.2023.10124473
+   Intel & Analysis Working Group, What is cyber threat intelligence?
+   Kagan J., 2022, Investopedia
+   Krauss O., 2022, P INT C EL COMP COMM, P1, DOI [10.1109/ICECCME55909.2022.9988073, DOI 10.1109/ICECCME55909.2022.9988073]
+   Liang B.A., 2005, CAL INT LJ, V36, P7
+   Majumder A., 2019, The Impact of Global Terrorism on Economic and Political Development
+   Pathak R, 2023, PHARM MED, V37, P281, DOI 10.1007/s40290-023-00468-w
+   Pieter S. T. W., 2016, Tech. Rep.
+   Ziavrou KS, 2022, FORENSIC SCI INT, V338, DOI 10.1016/j.forsciint.2022.111382
+NR 15
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUN 14
+PY 2024
+DI 10.1109/MSEC.2024.3407859
+EA JUN 2024
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UL3L7
+UT WOS:001248174400001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Moreira, D
+   Marcel, S
+   Rocha, A
+AF Moreira, Daniel
+   Marcel, Sebastien
+   Rocha, Anderson
+TI Synthetic Realities and Artificial Intelligence-Generated Contents
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+AB Welcome to the IEEE Security & Privacy Special Issue on Synthetic Realities and Artificial Intelligence-Generated Contents! In this edition, we delve into the topic of synthetic realities, where generative artificial intelligence (GAI) is revolutionizing the construction of narratives, blurring the boundaries between fact and fiction, for the good and the bad. Indeed, content created or enabled by GAI spans a wide spectrum of usage and intentions, from fostering positive experiences, such as entertainment, training, and education, to more questionable utilization, such as deception, propaganda, and manipulation.
+C1 [Moreira, Daniel] Loyola Univ Chicago, Dept Comp Sci, Chicago, IL 60611 USA.
+   [Marcel, Sebastien] Idiap Res Inst, CH-1920 Martigny, Switzerland.
+   [Rocha, Anderson] Univ Estadual Campinas, Inst Comp, Artificial Intelligence & Digital Forens, BR-13083852 Campinas, SP, Brazil.
+C3 Loyola University Chicago; Universidade Estadual de Campinas
+RP Moreira, D (corresponding author), Loyola Univ Chicago, Dept Comp Sci, Chicago, IL 60611 USA.
+EM dmoreira1@luc.edu; marcel@idiap.ch; anderson.rocha@ic.unicamp.br
+OI Moreira, Daniel/0000-0001-9757-5756; Marcel,
+   Sebastien/0000-0002-2497-9140
+CR Corvi D., 2024, IEEE Security Privacy, V22, P37, DOI [10.1109/MSEC.2024.3376637.A4, DOI 10.1109/MSEC.2024.3376637.A4]
+   Pastor-Galindo P., 2024, IEEE Security Privacy, V22, P24, DOI [10.1109/MSEC.2024.3380511.A3, DOI 10.1109/MSEC.2024.3380511.A3]
+   Sun Y. S., 2024, IEEE Security Privacy, V22, P12, DOI [10.1109/MSEC.2024.3384415.A2.J., DOI 10.1109/MSEC.2024.3384415.A2.J]
+NR 3
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 7
+EP 10
+DI 10.1109/MSEC.2024.3388244
+PG 4
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001226314400010
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Hussain, SR
+   McDaniel, P
+   Gandhi, A
+   Ghose, K
+   Gopalan, K
+   Lee, D
+   Liu, YD
+   Liu, ZH
+   Mu, S
+   Zadok, E
+AF Hussain, Syed Rafiul
+   McDaniel, Patrick
+   Gandhi, Anshul
+   Ghose, Kanad
+   Gopalan, Kartik
+   Lee, Dongyoon
+   Liu, Yu David
+   Liu, Zhenhua
+   Mu, Shuai
+   Zadok, Erez
+TI Verifiable Sustainability in Data Centers
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Data centers; Sustainable development; Security; Measurement; Green
+   products; Carbon; Manufacturing
+AB The current techniques and tools for collecting, aggregating, and reporting verifiable sustainability data are vulnerable to cyberattacks and misuse, requiring new security and privacy-preserving solutions. This article outlines security challenges and research directions for addressing these requirements.
+C1 [Hussain, Syed Rafiul] Penn State Univ, Dept Comp Sci & Engn, State Coll, PA 16802 USA.
+   [McDaniel, Patrick] Univ Wisconsin Madison, Comp Sci, Sch Comp Data & Informat Sci, Madison, WI 53706 USA.
+   [Gandhi, Anshul; Lee, Dongyoon; Liu, Zhenhua; Mu, Shuai] SUNY Stony Brook, Dept Comp Sci, Stony Brook, NY 11790 USA.
+   [Ghose, Kanad] Binghamton Univ, Comp Sci, Binghamton, NY 13902 USA.
+   [Gopalan, Kartik; Liu, Yu David] Binghamton Univ, Dept Comp Sci, Binghamton, NY 13902 USA.
+   [Liu, Zhenhua] SUNY Stony Brook, Dept Appl Math & Stat, Stony Brook, NY 11790 USA.
+   [Zadok, Erez] SUNY Stony Brook, Stony Brook, NY 11790 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; University of Wisconsin System;
+   University of Wisconsin Madison; State University of New York (SUNY)
+   System; State University of New York (SUNY) Stony Brook; State
+   University of New York (SUNY) System; State University of New York
+   (SUNY) Binghamton; State University of New York (SUNY) System; State
+   University of New York (SUNY) Binghamton; State University of New York
+   (SUNY) System; State University of New York (SUNY) Stony Brook; State
+   University of New York (SUNY) System; State University of New York
+   (SUNY) Stony Brook
+RP Hussain, SR (corresponding author), Penn State Univ, Dept Comp Sci & Engn, State Coll, PA 16802 USA.
+EM hussain1@psu.edu; mcdaniel@cs.wisc.edu; anshul@cs.stonybrook.edu;
+   ghose@binghamton.edu; kartik@binghamton.edu; dongyoon@cs.stonybrook.edu;
+   davidl@binghamton.edu; zhenhua.liu@stonybrook.edu;
+   shuai@cs.stonybrook.edu; erez.zadok@stonybrook.edu
+OI McDaniel, Patrick/0000-0003-2091-7484; Gopalan,
+   Kartik/0000-0003-1078-4446; Zadok, Erez/0000-0001-5248-9184
+FU National Science Foundation [2215017, 2214980, 2046444, 2215016,
+   1750109, 1900706, 1918225, 1951880, 2106263, 2106434]
+FX The work reported in this article has been supported by the National
+   Science Foundation, under Grants 2215017, 2214980, 2046444, 2215016,
+   1750109, 1900706, 1918225, 1951880, 2106263, and 2106434.
+CR Aloqaily M, 2020, IEEE NETWORK, V34, P119, DOI 10.1109/MNET.011.1900573
+   [Anonymous], How much energy do data centers really use?
+   [Anonymous], Microsoft and 20 others call for carbon accounting standards
+   [Anonymous], AI power consumption exploding
+   [Anonymous], 2020, NSF 20-594: NSF/VMware partnership on the next generation of sustainable digital infrastructure (NGSDI)
+   [Anonymous], Physical infrastructure cybersecurity: A growing problem for data centers
+   [Anonymous], 2019, Computerworld
+   [Anonymous], 2023, Sophos News
+   [Anonymous], 2021, Federal sustainability plan: Catalyzing America's clean energy industries and jobs
+   [Anonymous], 1998, Manuscript. Preliminary version
+   [Anonymous], 2015, BBC NEWS
+   [Anonymous], Carbon emissions of data usage increasing, but what is yours?
+   [Anonymous], 2011, EURONEWS
+   [Anonymous], Reading the runes: EU data center regulations are coming sooner than you think
+   [Anonymous], CO2e
+   bain, Achieving breakthrough results in sustainability
+   Chuangang Ren, 2012, 2012 IEEE 20th International Symposium on Modelling, Analysis & Simulation of Computer and Telecommunication Systems (MASCOTS), P391, DOI 10.1109/MASCOTS.2012.51
+   D-REC, About us
+   deloitte, Driving accountable sustainability in the consumer industry
+   Donaldson T., 2017, Sourcing J.
+   Dwork C., 2011, Proceedings of the 33rd International Conference on Automata, Languages and Programming-Volume Part II, ICALP '06, P338
+   Gandhi A., 2023, ACM SIGENERGY Energy Inform. Rev., V3, P40
+   Gentry C., 2009, FULLY HOMOMORPHIC EN, P43
+   Goldwasser S., 1985, P 17 ANN ACM S THEOR, P291, DOI [10.1145/22145.22178, 10.1145/22145, DOI 10.1145/22145]
+   Greig J., 2022, the record
+   Heartbleed Bug, about us
+   Hlavacs H., 2011, Proceedings of the 2011 IEEE 9th International Conference on Dependable, Autonomic and Secure Computing (DASC 2011), P605, DOI 10.1109/DASC.2011.110
+   Jacobs D., 2019, CPA J. Content
+   Jin JK, 2022, P IEEE S SECUR PRIV, P473, DOI [10.1109/SP46214.2022.9833672, 10.1109/SP46214.2022.00118]
+   Masanet E, 2020, SCIENCE, V367, P984, DOI 10.1126/science.aba3758
+   McKenna E, 2012, ENERG POLICY, V41, P807, DOI 10.1016/j.enpol.2011.11.049
+   Miller R., The bitcoin energy debate: Lessons from the data center industry
+   Mironov I, 2012, CCS, P650, DOI [DOI 10.1145/2382196.2382264, DOI 10.1145/2382196]
+   Nelson N., Bug in the Linux kernel allows privilege escalation, container escape
+   nnlabs, Power requirements to train modern LLMs
+   Pucker K. P., 2021, Harvard Bus. Rev.
+   Ristenpart T, 2009, CCS'09: PROCEEDINGS OF THE 16TH ACM CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P199
+   Shumailov I, 2021, 2021 IEEE EUROPEAN SYMPOSIUM ON SECURITY AND PRIVACY (EUROS&P 2021), P212, DOI 10.1109/EuroSP51992.2021.00024
+   Siddik MA, 2021, ENVIRON RES LETT, V16, DOI 10.1088/1748-9326/abfba1
+   Tsai CC, 2017, 2017 USENIX ANNUAL TECHNICAL CONFERENCE (USENIX ATC '17), P645
+   Zhu JP, 2020, P IEEE S SECUR PRIV, P1450, DOI 10.1109/SP40000.2020.00054
+NR 41
+TC 0
+Z9 0
+U1 4
+U2 4
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 MAR 18
+PY 2024
+DI 10.1109/MSEC.2024.3372488
+EA MAR 2024
+PG 14
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LV3Y9
+UT WOS:001189548600001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Williams, L
+AF Williams, Laurie
+TI Narrowing the Software Supply Chain Attack Vectors: The SSDF Is
+   Wonderful but not Enough
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+AB Recent years have shown increased cyberattacks targeting less secure elements in the software supply chain and causing fatal damage to businesses and organizations. Past well-known examples of software supply chain attacks are the SolarWinds or log4j incidents that have affected thousands of customers and businesses. In 2023, Sonatype1 reported the detection of 245,000 malicious packages, double the number of malicious packages discovered in 2019-2022 combined.
+C1 [Williams, Laurie] North Carolina State Univ, Raleigh, NC 27695 USA.
+C3 North Carolina State University
+RP Williams, L (corresponding author), North Carolina State Univ, Raleigh, NC 27695 USA.
+EM lawilli3@ncsu.edu
+OI Williams, Laurie/0000-0003-3300-6540
+FU National Science Foundation
+FX No Statement Available
+CR [Anonymous], Cloud native computing foundation
+   [Anonymous], 2022, NIST SP 800-161 Rev. 1
+   [Anonymous], 2009, Secure supply chain management (SecureSCM) project deliverable: D9.2 security analysis
+   [Anonymous], 2022, NIST SP 800-218
+   [Anonymous], 2022, Securing the software supply chain: Recommended practices for developers
+   [Anonymous], 2023, Secure software development attestation form (Draft)
+   [Anonymous], Sonatype's 9th annual state of the soft- ware supply chain report reveals ways to improve developer, DevSecOps efficiency
+   Enck W, 2022, IEEE SECUR PRIV, V20, P96, DOI 10.1109/MSEC.2022.3142338
+   OpenSSF, Supply-chain levels for software artifacts v1.0
+NR 9
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAR-APR
+PY 2024
+VL 22
+IS 2
+BP 4
+EP 7
+DI 10.1109/MSEC.2024.3359798
+PG 4
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MW6I9
+UT WOS:001196708600005
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Schneider, D
+   Zeitschner, J
+   Kloos, M
+   Lemke-Rust, K
+   Iacono, L
+AF Schneider, Dominik
+   Zeitschner, Jannik
+   Kloos, Michael
+   Lemke-Rust, Kerstin
+   Iacono, Luigilo
+TI Developers: Beware of Timing Side-Channels
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Timing; Software; Cryptography; Codes; Microarchitecture; Static
+   analysis; Source coding
+AB Resilience of digital systems to cyberattacks remains a major challenge and requires attention within protection technologies themselves. This article explores the evolution of timing side-channels into multistage threats, illustrates their complexity, and highlights the need to support developers.
+C1 [Schneider, Dominik; Lemke-Rust, Kerstin] H BRS Univ Appl Sci, D-53757 St Augustin, Germany.
+   [Zeitschner, Jannik] Ruhr Univ Bochum, D-44801 Bochum, Germany.
+   [Kloos, Michael; Iacono, Luigilo] H BRS Univ Appl Sci, Inst Cyber Secur & Privacy, D-53757 St Augustin, Germany.
+C3 Ruhr University Bochum
+RP Schneider, D (corresponding author), H BRS Univ Appl Sci, D-53757 St Augustin, Germany.
+EM dominik.schneider@h-brs.de; jannik.zeitschner@rub.de;
+   michael.kloos@h-brs.de; kerstin.lemke-rust@h-brs.de;
+   luigi.lo_iacono@h-brs.de
+OI Lo Iacono, Luigi/0000-0002-7863-0622
+FU German Federal Ministry of Education and Research [16KIS1602]
+FX This research was supported by the project DevToSCA funded by the German
+   Federal Ministry of Education and Research (Grant 16KIS1602).
+CR Brumley D, 2005, COMPUT NETW, V48, P701, DOI 10.1016/j.comnet.2005.01.010
+   Kocher P. C., 1996, Advances in Cryptology - CRYPTO'96. 16th Annual International Cryptology Conference. Proceedings, P104
+   Lipp M, 2016, PROCEEDINGS OF THE 25TH USENIX SECURITY SYMPOSIUM, P549
+   Yarom Y, 2014, PROCEEDINGS OF THE 23RD USENIX SECURITY SYMPOSIUM, P719
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 MAY 30
+PY 2024
+DI 10.1109/MSEC.2024.3399330
+EA MAY 2024
+PG 6
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA ST1N7
+UT WOS:001236608400001
+DA 2024-08-05
+ER
+
+PT J
+AU Blasingame, ZW
+   Liu, C
+AF Blasingame, Zander W.
+   Liu, Chen
+TI Fast-DiM: Towards Fast Diffusion Morphs
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Faces; Stochastic processes; Generators; Encoding; Mathematical models;
+   Face recognition; Codes
+AB Diffusion morphs (DiM) create high-quality face morphs; however, they require a high number of network function evaluations (NFE) to create them. We propose a new DiM pipeline, Fast-DiM, which can create morphs of a similar quality but with fewer NFE.
+C1 [Blasingame, Zander W.] Clarkson Univ, Elect & Comp Engn, Potsdam, NY 13699 USA.
+   [Liu, Chen] Clarkson Univ, Dept Elect & Comp Engn, Potsdam, NY 13699 USA.
+C3 Clarkson University; Clarkson University
+RP Blasingame, ZW (corresponding author), Clarkson Univ, Elect & Comp Engn, Potsdam, NY 13699 USA.
+EM blasinzw@clarkson.edu; cliu@clarkson.edu
+OI Blasingame, Zander/0000-0002-9508-8425
+FU Center for Identification Technology Research; National Science
+   Foundation [1650503]
+FX This material is based upon work supported by the Center for
+   Identification Technology Research and National Science Foundation under
+   Grant 1650503.
+CR Blasingame Z., 2021, P IEEE INT JOINT C B, P18, DOI [10.1109/IJCB52358.2021.9484383.2.H, DOI 10.1109/IJCB52358.2021.9484383.2.H]
+   Blasingame Zander W., 2024, IEEE Transactions on Biometrics, Behavior, and Identity Science, V6, P118, DOI 10.1109/TBIOM.2024.3349857
+   Boutros F, 2022, IEEE COMPUT SOC CONF, P1577, DOI 10.1109/CVPRW56347.2022.00164
+   DeBruine L., 2017, Face research lab london set
+   Deng JK, 2019, PROC CVPR IEEE, P4685, DOI 10.1109/CVPR.2019.00482
+   Ferrara M, 2022, I W BIOMETRIC FORENS, DOI 10.1109/IWBF55382.2022.9794509
+   Haoyu Zhang, 2021, IEEE Transactions on Biometrics, Behavior, and Identity Science, V3, P365, DOI 10.1109/TBIOM.2021.3072349
+   Huber M, 2022, 2022 IEEE INTERNATIONAL JOINT CONFERENCE ON BIOMETRICS (IJCB), DOI 10.1109/IJCB54206.2022.10007950
+   Karras T, 2019, PROC CVPR IEEE, P4396, DOI 10.1109/CVPR.2019.00453
+   Kim M, 2022, PROC CVPR IEEE, P18729, DOI 10.1109/CVPR52688.2022.01819
+   Lu C, 2022, Arxiv, DOI arXiv:2211.01095
+   Preechakul K, 2022, PROC CVPR IEEE, P10609, DOI 10.1109/CVPR52688.2022.01036
+   Scherhag U, 2017, 2017 INTERNATIONAL CONFERENCE OF THE BIOMETRICS SPECIAL INTEREST GROUP (BIOSIG)
+   Song Y., 2021, P INT C LEARN REPR
+   Zhang R, 2018, PROC CVPR IEEE, P586, DOI 10.1109/CVPR.2018.00068
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUN 24
+PY 2024
+DI 10.1109/MSEC.2024.3410112
+EA JUN 2024
+PG 12
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WZ9W2
+UT WOS:001258825700001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Ramon, M
+   Vowels, M
+   Groh, M
+AF Ramon, Meike
+   Vowels, Matthew
+   Groh, Matthew
+TI Deepfake Detection in Super-Recognizers and Police Officers
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Deepfakes; Law enforcement; Observers; Particle measurements; Faces;
+   Atmospheric measurements; Predictive models
+AB We examined human deepfake detection performance (DDP) in relation to face identity processing ability among Berlin Police officers, including Super-Recognizers (SRs). While we find no relationship, further research into human DDP using state-of-the-art static deepfakes is needed to establish the potential value of SR-deployment.
+C1 [Ramon, Meike] Univ Lausanne, Appl Face Cognit Lab, CH-1015 Lausanne, Switzerland.
+   [Ramon, Meike] Univ Lausanne, Cognit & Affect Regulat Lab, CH-1015 Lausanne, Switzerland.
+   [Ramon, Meike] Assoc Independent Res AIR, Geneva, Switzerland.
+   [Vowels, Matthew] Univ Lausanne, Lausanne Univ Hosp, Lausanne, Switzerland.
+   [Vowels, Matthew] Univ Lausanne, Inst Psychol, CH-1015 Lausanne, Switzerland.
+   [Vowels, Matthew] Sense Innovat & Res Ctr, Lausanne, Switzerland.
+   [Groh, Matthew] Northwestern Univ, Kellogg Sch Management, Dept Comp Sci, Dept Management & Org,McCormick Sch Engn, Evanston, IL 60208 USA.
+C3 University of Lausanne; University of Lausanne; University of Lausanne;
+   Centre Hospitalier Universitaire Vaudois (CHUV); University of Lausanne;
+   Northwestern University
+RP Ramon, M (corresponding author), Univ Lausanne, Appl Face Cognit Lab, CH-1015 Lausanne, Switzerland.; Ramon, M (corresponding author), Univ Lausanne, Cognit & Affect Regulat Lab, CH-1015 Lausanne, Switzerland.; Ramon, M (corresponding author), Assoc Independent Res AIR, Geneva, Switzerland.
+RI Ramon, Meike/R-5687-2017
+OI Ramon, Meike/0000-0001-5753-5493; Groh, Matthew/0000-0002-9029-0157;
+   Vowels, Matthew/0000-0002-8811-1156
+CR [Anonymous], 2022, GUARDIAN         JUN
+   Bates D, 2015, J STAT SOFTW, V67, P1, DOI 10.18637/jss.v067.i01
+   Breiman L., 2001, Machine Learning, V45, P5, DOI 10.1023/A:1010933404324
+   Chesney B, 2019, CALIF LAW REV, V107, P1753, DOI 10.15779/Z38RV0D15J
+   Dunn S., 2021, Women, Not Politicians, Are Targeted Most Often by Deepfake Videos
+   Farid H., 2022, J ONLINE TRUST SAF, P1, DOI [10.54501/jots.vli4.56, DOI 10.54501/JOTS.VLI4.56]
+   Groh M., PAPERS CODE
+   Groh M, 2022, P NATL ACAD SCI USA, V119, DOI 10.1073/pnas.2110013119
+   Kersten D, 2004, ANNU REV PSYCHOL, V55, P271, DOI 10.1146/annurev.psych.55.090902.142005
+   Lakens D, 2017, SOC PSYCHOL PERS SCI, V8, P355, DOI 10.1177/1948550617697177
+   Linka M, 2022, J VISION, V22, DOI 10.1167/jov.22.8.17
+   Mayer M, 2023, P NATL ACAD SCI USA, V120, DOI 10.1073/pnas.2220580120
+   Nador J., 2021, SWISS PSYCHOL OPEN J, V1, P1, DOI [DOI 10.5334/SPO.28, 10.5334/spo.28]
+   Nador JD, 2021, SCI REP-UK, V11, DOI 10.1038/s41598-021-92549-6
+   Pataranutaporn P, 2021, NAT MACH INTELL, V3, P1013, DOI 10.1038/s42256-021-00417-9
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+   Pournelle G. H., 1953, Journal of Mammalogy, V34, P133, DOI 10.1890/0012-9658(2002)083[1421:SDEOLC]2.0.CO;2
+   Probst P, 2019, WIRES DATA MIN KNOWL, V9, DOI 10.1002/widm.1301
+   Prolific, 2021, US
+   Ramon M., 2022, BESURE BERLIN TEST 1
+   Ramon M., 2023, LARGE SCALE SUPER RE, DOI [10.31234/osf.io/x6ryw, DOI 10.31234/OSF.IO/X6RYW]
+   Ramon M, 2021, NEUROPSYCHOLOGIA, V158, DOI 10.1016/j.neuropsychologia.2021.107809
+   Ramon M, 2019, BRIT J PSYCHOL, V110, P461, DOI 10.1111/bjop.12368
+   Ramon M, 2010, CORTEX, V46, P374, DOI 10.1016/j.cortex.2009.06.001
+   Stasinopoulos D., 2017, Flexible regression and smoothing: using GAMLSS in R
+   Wichmann FA, 2023, ANNU REV VIS SCI, V9, P501, DOI 10.1146/annurev-vision-120522-031739
+NR 26
+TC 1
+Z9 1
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 68
+EP 76
+DI 10.1109/MSEC.2024.3371030
+EA MAR 2024
+PG 9
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001194019900001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Rostami, M
+   Chen, C
+   Kande, R
+   Li, HM
+   Rajendran, J
+   Sadeghi, AR
+AF Rostami, Mohamadreza
+   Chen, Chen
+   Kande, Rahul
+   Li, Huimin
+   Rajendran, Jeyavijayan
+   Sadeghi, Ahmad-Reza
+TI Fuzzerfly Effect: Hardware Fuzzing for Memory Safety
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Hardware; Safety; Fuzzing; Software; Security; Microarchitecture;
+   Program processors
+AB Hardware-level memory vulnerabilities severely threaten computing systems. However, hardware patching is inefficient or difficult postfabrication. We investigate the effectiveness of hardware fuzzing in detecting hardware memory vulnerabilities and highlight challenges and potential future research directions to enhance hardware fuzzing for memory safety.
+C1 [Rostami, Mohamadreza; Sadeghi, Ahmad-Reza] Tech Univ Darmstadt, Comp Sci, D-64277 Darmstadt, Germany.
+   [Chen, Chen; Kande, Rahul] Texas A&M Univ, Comp Engn, College Stn, TX 77843 USA.
+   [Li, Huimin] Delft Univ Technol, Cyber Secur, Delft, Netherlands.
+   [Rajendran, Jeyavijayan] Texas A&M Univ, Dept Elect & Comp Engn, College Stn, TX 77843 USA.
+C3 Technical University of Darmstadt; Texas A&M University System; Texas
+   A&M University College Station; Delft University of Technology; Texas
+   A&M University System; Texas A&M University College Station
+RP Rostami, M (corresponding author), Tech Univ Darmstadt, Comp Sci, D-64277 Darmstadt, Germany.
+EM mohamadreza.rostami@trust.tu-darmstadt.de; chenc@tamu.edu;
+   rahulkande@tamu.edu; h.li-7@tudelft.nl; jv.rajendran@tamu.edu;
+   ahmad.sadeghi@trust.tu-darmstadt.de
+OI Li, Huimin/0000-0003-3984-1272
+FU Intel's Scalable Assurance Program; Deutsche Forschungsgemeinschaft
+   (DFG) [SFB 1119-36615297]; European Union under Horizon Europe Programme
+   [101070537]; European Research Council under the ERC Programme
+   [101055025]; U.S. Office of Naval Research (ONR Award
+   [N00014-18-1-2058]; European Research Council (ERC) [101055025] Funding
+   Source: European Research Council (ERC); Horizon Europe - Pillar II
+   [101070537] Funding Source: Horizon Europe - Pillar II
+FX Our research work was partially funded by the Intel's Scalable Assurance
+   Program, Deutsche Forschungsgemeinschaft (DFG), SFB 1119-36615297, the
+   European Union under Horizon Europe Programme, Grant 101070537-CrossCon,
+   the European Research Council under the ERC Programme, Grant
+   101055025-HYDRANOS, and the U.S. Office of Naval Research (ONR Award
+   #N00014-18-1-2058). This work does not in any way constitute an Intel
+   endorsement of a product or supplier. Any opinions, findings,
+   conclusions, or recommendations expressed herein are those of the
+   authors and do not necessarily reflect those of Intel, the European
+   Union, the European Research Council, or the U.S. Government.
+CR Bahmani R, 2021, PROCEEDINGS OF THE 30TH USENIX SECURITY SYMPOSIUM, P1073
+   Chen C, 2023, ICCAD-IEEE ACM INT, DOI 10.1109/ICCAD57390.2023.10323913
+   Chen C, 2023, PROCEEDINGS OF THE 32ND USENIX SECURITY SYMPOSIUM, P1361
+   Dessouky G., 2022, PROC NDSS S, P1
+   Dessouky G, 2019, PROCEEDINGS OF THE 28TH USENIX SECURITY SYMPOSIUM, P213
+   Frassetto T, 2018, PROCEEDINGS OF THE 27TH USENIX SECURITY SYMPOSIUM, P83
+   Gohil V., 2024, PROC IEEE AUTOM TEST, P1
+   Jaewon Hur, 2021, 2021 IEEE Symposium on Security and Privacy (SP), P1286, DOI 10.1109/SP40001.2021.00103
+   Laeufer K, 2018, ICCAD-IEEE ACM INT, DOI 10.1145/3240765.3240842
+   Rostami M., 2024, PROC IEEE AUTOM TEST, P1
+   Watson RNM, 2015, P IEEE S SECUR PRIV, P20, DOI 10.1109/SP.2015.9
+   Xu JY, 2023, PROCEEDINGS OF THE 32ND USENIX SECURITY SYMPOSIUM, P1307
+NR 12
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 MAR 7
+PY 2024
+DI 10.1109/MSEC.2024.3365070
+EA MAR 2024
+PG 11
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA KQ7R0
+UT WOS:001181502900001
+DA 2024-08-05
+ER
+
+PT J
+AU Bezzi, M
+AF Bezzi, Michele
+TI Large Language Models and Security
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Security; Phishing; Malware; Fake news; Electronic mail; Costs;
+   Computational modeling
+AB We analyze the security implications of large language models (LLMs) from their use as security tools for both attackers and defenders and the security of LLMs. We discuss how LLMs increase the scale of traditional threats such as social engineering and add new ones such as prompt injections.
+C1 [Bezzi, Michele] SAP Secur Res, F-06254 Mougins, France.
+RP Bezzi, M (corresponding author), SAP Secur Res, F-06254 Mougins, France.
+CR Asare O., 2023, arXiv
+   Caliskan A, 2017, SCIENCE, V356, DOI 10.1126/science.aal4230
+   Chen Chao, 2023, ARXIV
+   Claburn T., 2020, REGISTER
+   Debenedetti E., 2023, ARXIV
+   Hutchins M., MALWARETECH
+   Jain N., 2023, ARXIV
+   Lee K, 2022, PROCEEDINGS OF THE 60TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2022), VOL 1: (LONG PAPERS), P8424
+   Nasr Milad, 2023, ARXIV
+   research.checkpoint, OPWN CYB START US CH
+   Shi W., 2022, ARXIV
+   Sims J., HYAS
+   Wolf Yotam, 2023, ARXIV
+   Zou A., 2003, ARXIV
+NR 14
+TC 0
+Z9 0
+U1 25
+U2 25
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAR-APR
+PY 2024
+VL 22
+IS 2
+BP 60
+EP 68
+DI 10.1109/MSEC.2023.3345568
+EA JAN 2024
+PG 9
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MW6I9
+UT WOS:001167328700001
+DA 2024-08-05
+ER
+
+PT J
+AU Rösti, A
+   Voulimeneas, A
+   Franz, M
+AF Rosti, Andre
+   Voulimeneas, Alexios
+   Franz, Michael
+TI The Astonishing Evolution of Probabilistic Memory Safety: From Basic
+   Heap-Data Attack Detection Toward Fully Survivable Multivariant
+   Execution
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Monitoring; Hardware; Software; Security; Probabilistic logic; Layout;
+   Diversity reception
+AB Probabilistic memory safety combines randomization and replication in the hope that attacks will lead to observable differences across the replicas and hence be detected. It has evolved from simple heap-data protection to full-fledged survivability, harnessing checkpoint/restore facilities and hardware heterogeneity.
+C1 [Rosti, Andre; Franz, Michael] Univ Calif Irvine, Irvine, CA 92697 USA.
+   [Voulimeneas, Alexios] Delft Univ Technol, NL-2628 XE Delft, Netherlands.
+C3 University of California System; University of California Irvine; Delft
+   University of Technology
+RP Rösti, A (corresponding author), Univ Calif Irvine, Irvine, CA 92697 USA.
+EM aroesti@uci.edu; a.voulimeneas@tudelft.nl; franz@uci.edu
+FU Office of Naval Research (ONR) [N00014-21-1-2409]
+FX This research was funded in part by the Office of Naval Research (ONR)
+   under grant N00014-21-1-2409; any opinions, findings and conclusions or
+   recommenda-tions expressed in this material are those of the authors and
+   do not necessarily reflect the views of ONR . Andre Roesti is the
+   corresponding author.
+CR Abadi Martin, 2005, P 12 ACM C COMP COMM, P340
+   Berger ED, 2006, ACM SIGPLAN NOTICES, V41, P158, DOI 10.1145/1133981.1134000
+   Hosek P, 2015, ACM SIGPLAN NOTICES, V50, P339, DOI [10.1145/2694344.2694390, 10.1145/2775054.2694390]
+   Salamat B, 2009, EUROSYS'09: PROCEEDINGS OF THE FOURTH EUROSYS CONFERENCE, P33
+NR 4
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUN 14
+PY 2024
+DI 10.1109/MSEC.2024.3407648
+EA JUN 2024
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UL3P1
+UT WOS:001248177800001
+DA 2024-08-05
+ER
+
+PT J
+AU Sabetta, A
+   Ponta, SE
+   Lozoya, RC
+   Bezzi, M
+   Sacchetti, T
+   Greco, M
+   Balogh, G
+   Hegedüs, P
+   Ferenc, R
+   Paramitha, R
+   Pashchenko, I
+   Papotti, A
+   Milánkovich, A
+   Massacci, F
+AF Sabetta, Antonino
+   Ponta, Serena Elisa
+   Lozoya, Rocio Cabrera
+   Bezzi, Michele
+   Sacchetti, Tommaso
+   Greco, Matteo
+   Balogh, Gergo
+   Hegedus, Peter
+   Ferenc, Rudolf
+   Paramitha, Ranindya
+   Pashchenko, Ivan
+   Papotti, Aurora
+   Milankovich, Akos
+   Massacci, Fabio
+TI Known Vulnerabilities of Open Source Projects: Where Are the Fixes?
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Codes; Security; Source coding; Databases; Metadata; Knowledge based
+   systems; Data mining
+AB Every day, developers have the daunting task of tracing vulnerabilities back in a morass of commits. In this article, we report the experience of the industrial open source tool, Prospector, to support developers in this task.
+C1 [Sabetta, Antonino; Ponta, Serena Elisa; Lozoya, Rocio Cabrera; Bezzi, Michele] SAP Secur Res, F-06254 Mougins, France.
+   [Sacchetti, Tommaso] Eurecom, S3 Res Grp, F-06410 Biot, France.
+   [Greco, Matteo] Be Innova, I-38123 Trento, Italy.
+   [Balogh, Gergo; Hegedus, Peter; Ferenc, Rudolf] Univ Szeged, Dept Software Engn, Szeged, Hungary.
+   [Paramitha, Ranindya; Massacci, Fabio] Univ Trento, Trento, Italy.
+   [Pashchenko, Ivan] Tom Tom, Amsterdam, Netherlands.
+   [Papotti, Aurora] Vrije Univ Amsterdam, Amsterdam, Netherlands.
+   [Milankovich, Akos] SEARCH LAB Ltd, Budapest, Hungary.
+C3 IMT - Institut Mines-Telecom; EURECOM; Szeged University; University of
+   Trento; TomTom; Vrije Universiteit Amsterdam
+RP Sabetta, A (corresponding author), SAP Secur Res, F-06254 Mougins, France.
+EM antonino.sabetta@sap.com; serena.ponta@sap.com;
+   rocio.cabrera.lozoya@sap.com; michele.bezzi@sap.com;
+   tommaso.sacchetti@eurecom.fr; matteo.greco@be-innova.eu;
+   geryxyz@inf.u-szeged.hu; peter.hegedus@frontendart.com;
+   rudolf.ferenc@frontendart.com; ranindya.paramitha@unitn.it;
+   ivan.pashchenko@tomtom.com; a.papotti@vu.nl;
+   akos.milankovich@search-lab.hu; fabio.massacci@ieee.org
+RI Paramitha, Ranindya/KRQ-1510-2024; Ferenc, Rudolf/A-1317-2008
+OI Paramitha, Ranindya/0000-0002-6682-4243; Sabetta,
+   Antonino/0000-0003-3506-8374; Hegedus, Peter/0000-0003-4592-6504;
+   Ferenc, Rudolf/0000-0001-8897-7403; Balogh, Gergo/0000-0002-6781-5453; ,
+   Matteo Greco/0009-0009-2643-9103
+FU EU [101120393, 952647]; NWO [NWA.121518006]
+FX This work was partially supported by EU-funded projects Sec4AI4Sec
+   (Grant 101120393) and Assure-Moss (Grant 952647) and NWO-funded project
+   Theseus (Grant NWA.121518006). Antonino Sabetta would like to thank
+   Henrik Plate, Bonaventura Coppola, Daan Hommersom, Damian A. Tamburri,
+   and Dario Di Nucci for insightful discussions.
+CR Anwar A, 2021, I C DEPEND SYS NETWO, P1, DOI 10.1109/DSN-S52858.2021.00011
+   Dong Y, 2019, PROCEEDINGS OF THE 28TH USENIX SECURITY SYMPOSIUM, P869
+   Dunlap T., 2023, ARXIV
+   Hong H, 2022, IEEE ACCESS, V10, P85050, DOI 10.1109/ACCESS.2022.3197786
+   Perl H, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P426, DOI 10.1145/2810103.2813604
+   Ponta SE, 2020, EMPIR SOFTW ENG, V25, P3175, DOI 10.1007/s10664-020-09830-x
+   Ponta SE, 2018, PROC IEEE INT CONF S, P449, DOI 10.1109/ICSME.2018.00054
+   Tan X, 2021, CCS '21: PROCEEDINGS OF THE 2021 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P3282, DOI 10.1145/3460120.3484593
+   Wang XD, 2021, I C DEPEND SYS NETWO, P149, DOI 10.1109/DSN48987.2021.00030
+   Xu CY, 2022, PROCEEDINGS OF THE 30TH ACM JOINT MEETING EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING, ESEC/FSE 2022, P860, DOI 10.1145/3540250.3549125
+NR 10
+TC 1
+Z9 1
+U1 0
+U2 1
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAR-APR
+PY 2024
+VL 22
+IS 2
+BP 49
+EP 59
+DI 10.1109/MSEC.2023.3343836
+EA JAN 2024
+PG 11
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MW6I9
+UT WOS:001142777400001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Sharevski, F
+AF Sharevski, Filipo
+TI Inclusive Involvement of At-Risk Users in Cybersecurity Research
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Security; Computer security; Privacy; Passwords; Ethics; Phishing;
+   Protection
+AB This article outlines an approach to assist cybersecurity research involving excluded at-risk users or those whose needs are overlooked. Attention is devoted to "ethics in practice" as an enabler of inclusive experimentation accounting for "human vulnerabilities" while addressing "cybersecurity vulnerabilities."
+C1 [Sharevski, Filipo] DePaul Univ, Chicago, IL 60604 USA.
+C3 DePaul University
+RP Sharevski, F (corresponding author), DePaul Univ, Chicago, IL 60604 USA.
+EM fsharevs@depaul.edu
+OI Sharevski, Filipo/0000-0003-3058-7255
+CR [Anonymous], 2024, Accessibility, usability, and inclusion, Web Accessibility Initiative (WAI)
+   [Anonymous], Glossary: Vulnerability
+   Faulkner A., 2004, The Ethics of Survivor Research: Guidelines for the Ethical Conduct of Research Carried Out by Men- tal Health Service Users and Survivors
+   Greig AD., 2012, DOING RES CHILDREN P
+   Guillemin M, 2004, QUAL INQ, V10, P261, DOI 10.1177/1077800403262360
+   Hayhoe S., 2000, P EUR C ED RES, P1
+   OSullivan R., 2020, Older Citizens Involvement in Ageing Research, P637
+   Paluck EL, 2014, HANDBOOK OF RESEARCH METHODS IN SOCIAL AND PERSONALITY PSYCHOLOGY, SECOND EDITION, P81
+   Pérez-Escolar M, 2023, UNIVERSAL ACCESS INF, V22, P1059, DOI 10.1007/s10209-022-00867-x
+   Persson H, 2015, UNIVERSAL ACCESS INF, V14, P505, DOI 10.1007/s10209-014-0358-z
+   Renaud Karen, 2022, SN Comput Sci, V3, P346, DOI 10.1007/s42979-022-01239-1
+   SALTZER JH, 1975, P IEEE, V63, P1278, DOI 10.1109/PROC.1975.9939
+   Singleton JL, 2014, J EMPIR RES HUM RES, V9, P59, DOI 10.1177/1556264614540589
+   Wang Y, 2017, NEW SECURITY PARADIGMS WORKSHOP (NSPW 2017), P122, DOI 10.1145/3171533.3171538
+   Warford N, 2022, P IEEE S SECUR PRIV, P2344, DOI 10.1109/SP46214.2022.00116
+NR 15
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 JUL 10
+PY 2024
+DI 10.1109/MSEC.2024.3416878
+EA JUL 2024
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YW2E9
+UT WOS:001271448600001
+DA 2024-08-05
+ER
+
+PT J
+AU Sun, YS
+   Chen, ZK
+   Huang, YT
+   Chen, MC
+AF Sun, Yeali S.
+   Chen, Zhi-Kang
+   Huang, Yi-Ting
+   Chen, Meng Chang
+TI Unleashing Malware Analysis and Understanding With Generative AI
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Malware; Linux; Object recognition; IP networks; Cyber threat
+   intelligence; Termination of employment; Performance analysis
+AB Dissecting low-level malware behaviors into human-readable reports, such as cyber threat intelligence, is time-consuming and requires expertise in systems and cybersecurity. This work combines dynamic analysis and artificial intelligence-generative transformation for malware report generation, providing detailed technical insights and articulating malware intentions.
+C1 [Sun, Yeali S.] Natl Taiwan Univ, Dept Informat Management, Taipei 106, Taiwan.
+   [Chen, Zhi-Kang] Natl Taiwan Univ, Taipei 106, Taiwan.
+   [Huang, Yi-Ting] Natl Taiwan Univ Sci & Technol, Taipei 106, Taiwan.
+   [Chen, Meng Chang] Acad Sinica, Inst Informat Sci, Taipei 115, Taiwan.
+   [Chen, Meng Chang] Acad Sinica, Res Ctr Informat Technol Innovat, Taipei 115, Taiwan.
+C3 National Taiwan University; National Taiwan University; National Taiwan
+   University of Science & Technology; Academia Sinica - Taiwan; Academia
+   Sinica - Taiwan
+RP Sun, YS (corresponding author), Natl Taiwan Univ, Dept Informat Management, Taipei 106, Taiwan.
+EM sunny@ntu.edu.tw; r10725013@ntu.edu.tw; ythuang@mail.ntust.edu.tw;
+   mcc@iis.sinica.edu.tw
+RI chen, meng chang/AAJ-7239-2020
+OI chen, meng chang/0000-0002-6815-2436; Huang,
+   Yi-Ting/0000-0002-6315-8927; Sun, Yeali/0000-0001-6382-5198
+CR [Anonymous], strace
+   [Anonymous], ADVERSARY TACTIC TEC
+   [Anonymous], ChatGPT: Optimizing language models for dialogue
+   [Anonymous], LINUX MANUAL PAGE CL
+   [Anonymous], LINUX MANUAL PAGE
+   Cozzi E, 2018, P IEEE S SECUR PRIV, P161, DOI 10.1109/SP.2018.00054
+   Kong A., 2023, ARXIV
+   Milajerdi SM, 2019, P IEEE S SECUR PRIV, P1137, DOI 10.1109/SP.2019.00026
+   Or-Meir O, 2019, ACM COMPUT SURV, V52, DOI 10.1145/3329786
+   Pa YMP, 2023, PROCEEDINGS OF 16TH CYBER SECURITY EXPERIMENTATION AND TEST WORKSHOP, CSET 2023, P10, DOI 10.1145/3607505.3607513
+   Pearce H., 2022, ARXIV
+   Sharma S, CSO Online
+   Ul Hassan W, 2020, P IEEE S SECUR PRIV, P1172, DOI 10.1109/SP40000.2020.00096
+   Wei JS, 2022, ADV NEUR IN
+   Yao S, 2023, ARXIV
+NR 15
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 12
+EP 23
+DI 10.1109/MSEC.2024.3384415
+EA APR 2024
+PG 12
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001208901400001
+DA 2024-08-05
+ER
+
+PT J
+AU De Cristofaro, E
+AF De Cristofaro, Emiliano
+TI Synthetic Data: Methods, Use Cases, and Risks
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Synthetic data; Data privacy; Data models; Privacy; Training; Training
+   data; Security
+AB Sharing data can endanger the privacy of users and organizations. In this article, I provide an introduction to synthetic data and discuss its use cases, the privacy challenges that are still unaddressed, and its inherent limitations as an effective privacy-enhancing technology.
+C1 [De Cristofaro, Emiliano] Univ Calif Riverside, Dept Comp Sci & Engn, Riverside, CA 92521 USA.
+C3 University of California System; University of California Riverside
+RP De Cristofaro, E (corresponding author), Univ Calif Riverside, Dept Comp Sci & Engn, Riverside, CA 92521 USA.
+EM emilianodc@cs.ucr.edu
+CR Alzantot M., ARXIV
+   [Anonymous], LOCATION TIME MEMBER
+   [Anonymous], SYNTHETIC TRAINING D
+   Goodfellow I., 2014, PROC NEURAL INF PROC, V27, P56
+   Jordon J., 2018, OPINION 52018 PRELIM, P19
+   Karras T., 2017, ARXIV
+   Narayanan A, 2009, P IEEE S SECUR PRIV, P173, DOI 10.1109/SP.2009.22
+   Nissim K., 2017, PROC PRIVACY LAW SCH
+   Papernot N., 2018, ARXIV
+   Pyrgelis A, 2018, 25TH ANNUAL NETWORK AND DISTRIBUTED SYSTEM SECURITY SYMPOSIUM (NDSS 2018), DOI 10.14722/ndss.2018.23183
+   Snow D., DEEP GENERATIVE MODE
+   Stadler T, 2022, PROCEEDINGS OF THE 31ST USENIX SECURITY SYMPOSIUM, P1451
+   Tucker A, 2020, NPJ DIGIT MED, V3, DOI 10.1038/s41746-020-00353-9
+   Xie Liyang, 2018, ARXIV
+   Zhang ZQ, 2022, J BIOMED INFORM, V125, DOI 10.1016/j.jbi.2021.103977
+NR 15
+TC 1
+Z9 1
+U1 7
+U2 7
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 62
+EP 67
+DI 10.1109/MSEC.2024.3371505
+EA MAR 2024
+PG 6
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001185645400001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Pallas, F
+   Koerner, K
+   Barberá, I
+   Hoepman, JH
+   Jensen, M
+   Narla, NR
+   Samarin, N
+   Ulbricht, MR
+   Wagner, I
+   Wuyts, K
+   Zimmermann, C
+AF Pallas, Frank
+   Koerner, Katharina
+   Barbera, Isabel
+   Hoepman, Jaap-Henk
+   Jensen, Meiko
+   Narla, Nandita Rao
+   Samarin, Nikita
+   Ulbricht, Max-R.
+   Wagner, Isabel
+   Wuyts, Kim
+   Zimmermann, Christian
+TI Privacy Engineering From Principles to Practice: A Roadmap
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+DE Industries; Privacy; Information systems; Engineering profession
+AB Privacy engineering is gaining momentum in industry and academia alike. So far, manifold low-level primitives and higher-level methods and strategies have successfully been established. Still, fostering adoption in real-world information systems calls for additional aspects to be consciously considered in research and practice.
+C1 [Pallas, Frank] Tech Univ Berlin, Informat Syst Engn Grp, D-10587 Berlin, Germany.
+   [Koerner, Katharina] Daiki, San Jose, CA 95129 USA.
+   [Barbera, Isabel] Rhite, NL-3526 KS Utrecht, Netherlands.
+   [Hoepman, Jaap-Henk] Radboud Univ Nijmegen, Digital Secur Grp, NL-6500 HD Nijmegen, Netherlands.
+   [Jensen, Meiko] Karlstad Univ, Cybersecur & Privacy, S-65188 Karlstad, Sweden.
+   [Narla, Nandita Rao] DoorDash, Tech Privacy & Governance, San Francisco, CA 94107 USA.
+   [Samarin, Nikita] Univ Calif Berkeley, Dept Elect Engn & Comp Sci, Berkeley, CA 94709 USA.
+   [Ulbricht, Max-R.] Berlin Commissioner Data Protect & Freedom Inform, D-10555 Berlin, Germany.
+   [Wagner, Isabel] Univ Basel, Dept Math & Comp Sci, Cybersecur, CH-4051 Basel, Switzerland.
+   [Wuyts, Kim] PriceWaterhouseCoopers Belgium, B-1831 Diegem, Belgium.
+   [Zimmermann, Christian] Robert Bosch GmbH, Cybersecur & Privacy Engn, D-70839 Gerlingen, Germany.
+C3 Technical University of Berlin; Radboud University Nijmegen; Karlstad
+   University; University of California System; University of California
+   Berkeley; University of Basel; Bosch
+RP Pallas, F (corresponding author), Tech Univ Berlin, Informat Syst Engn Grp, D-10587 Berlin, Germany.
+EM frank.pallas@tu-berlin.de; kk@dai.ki; isabel@rhite.tech; jhh@cs.ru.nl;
+   Meiko.Jensen@kau.se; nnarla@fpf.com; nsamarin@berkeley.edu;
+   mru@meta-level.net; isabel.wagner@unibas.ch; kim.wuyts@pwc.com;
+   christian.zimmermann3@de.bosch.com
+OI Wagner, Isabel/0000-0003-0242-6278; Wuyts, Kim/0000-0002-0950-9490;
+   Pallas, Frank/0000-0002-5543-0265
+CR [Anonymous], 2018, Privacy design strategies (the little blue book)
+   bfdi, The standard data protection model." BFDI
+   Gurses Seda, 2017, Pri-vacy after the agile turn, P579
+   Iwaya Leonardo Horn, 2023, IEEE Transactions on Software Engineering, P4324, DOI 10.1109/TSE.2023.3290237
+   Kissner L, 2021, COMMUN ACM, V64, P23, DOI 10.1145/3486631
+   Mulligan DK, 2016, PHILOS T R SOC A, V374, DOI 10.1098/rsta.2016.0118
+   Pallas F, 2020, PROCEEDINGS OF THE 35TH ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING (SAC'20), P1288, DOI 10.1145/3341105.3375764
+   Taylor R., 2009, Software Architecture: Foun-dations, Theory, and Practice, P447
+   Wuyts K, 2020, 2020 IEEE EUROPEAN SYMPOSIUM ON SECURITY AND PRIVACY WORKSHOPS (EUROS&PW 2020), P302, DOI 10.1109/EuroSPW51379.2020.00047
+NR 9
+TC 0
+Z9 0
+U1 3
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAR-APR
+PY 2024
+VL 22
+IS 2
+BP 86
+EP 92
+DI 10.1109/MSEC.2024.3363829
+PG 7
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MW6I9
+UT WOS:001196708600010
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Bellovin, SM
+AF Bellovin, Steven M.
+TI Degenerative AI?
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article
+AB It is not secret that generative AI, especially in the form of large language models (LLMs), is extremely popular today. One might go so far as to say that it's eaten the world. It may be a bubble, or it may last-though the death of cryptocurrencies has long been predicted, as I write this Bitcoin has just reached an all-time high value against the American dollar-but for now and at least the next few years, generative AI will be with us. As people who care about security and privacy, we need to understand the implications of it: is it good or bad for our field, and if the latter, what should we do about it? Ignoring it is not an option.
+C1 [Bellovin, Steven M.] Columbia Univ, New York, NY 10027 USA.
+C3 Columbia University
+RP Bellovin, SM (corresponding author), Columbia Univ, New York, NY 10027 USA.
+EM smb@cs.columbia.edu
+OI , Rachana Behera/0009-0008-8885-9042
+CR Bender EM, 2021, PROCEEDINGS OF THE 2021 ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY, FACCT 2021, P610, DOI 10.1145/3442188.3445922
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD MAY-JUN
+PY 2024
+VL 22
+IS 3
+BP 88
+EP 88
+DI 10.1109/MSEC.2024.3385549
+PG 1
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RF7I9
+UT WOS:001226314400008
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Cloosters, T
+   Draissi, O
+   Willbold, J
+   Holz, T
+   Davi, L
+AF Cloosters, Tobias
+   Draissi, Oussama
+   Willbold, Johannes
+   Holz, Thorsten
+   Davi, Lucas
+TI Memory Corruption at the Border of Trusted Execution
+SO IEEE SECURITY & PRIVACY
+LA English
+DT Article; Early Access
+DE Codes; Fuzzing; Random access memory; Instruction sets; Protection;
+   Libraries; Kernel
+AB Trusted execution environments provide strong security guarantees, like isolation and confidentiality, but are not immune from memory-safety violations. Our investigation of public trusted execution environment code based on symbolic execution and fuzzing reveals subtle memory safety issues.
+C1 [Cloosters, Tobias; Draissi, Oussama; Davi, Lucas] Univ Duisburg Essen, D-45127 Essen, Germany.
+   [Willbold, Johannes] Ruhr Univ Bochum, D-44801 Bochum, Germany.
+   [Holz, Thorsten] CISPA Helmholtz Ctr Informat Secur, D-66123 Saarbrucken, Germany.
+C3 University of Duisburg Essen; Ruhr University Bochum
+RP Cloosters, T (corresponding author), Univ Duisburg Essen, D-45127 Essen, Germany.
+OI Cloosters, Tobias/0009-0008-3682-0197; Davi, Lucas
+   Vincenzo/0000-0002-7322-2777
+FU Deutsche Forsc-hungsgemeinschaft (DFG, German Research Foundation) [EXC
+   2092 CASA - 390781972, SFB 1119-236615297]; Ministry of Culture and
+   Science-North Rhine Westphalia research training group SecHuman;
+   European Research Council [101045669]
+FX his work has been partially funded by the Deutsche
+   Forsc-hungsgemeinschaft (DFG, German Research Foundation) under
+   Germany's Excellence Strategy - EXC 2092 CASA - 390781972 and SFB
+   1119-236615297 within project S2. The work was partially supported by
+   the Ministry of Culture and Science-North Rhine Westphalia research
+   training group SecHuman and the European Research Council under the
+   consolidator grant RS3 (101045669).
+CR Aublin P, 2017, Tech. Rep. 2017/5
+   Biondo A, 2018, PROCEEDINGS OF THE 27TH USENIX SECURITY SYMPOSIUM, P1213
+   Checkoway S, 2013, ACM SIGPLAN NOTICES, V48, P253, DOI 10.1145/2499368.2451145
+   Chen SC, 2023, PROCEEDINGS OF THE 32ND USENIX SECURITY SYMPOSIUM, P4069
+   Cloosters T, 2022, PROCEEDINGS OF THE 31ST USENIX SECURITY SYMPOSIUM, P3147
+   Cloosters T, 2020, PROCEEDINGS OF THE 29TH USENIX SECURITY SYMPOSIUM, P841
+   Cui RZ, 2021, 28TH ANNUAL NETWORK AND DISTRIBUTED SYSTEM SECURITY SYMPOSIUM (NDSS 2021), DOI 10.14722/ndss.2021.24328
+   Khan A, 2023, 2023 IEEE 8TH EUROPEAN SYMPOSIUM ON SECURITY AND PRIVACY, EUROS&P, P472, DOI 10.1109/EuroSP57164.2023.00035
+   Khandaker MR, 2020, TWENTY-FIFTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXV), P971, DOI 10.1145/3373376.3378486
+   Lee J, 2017, PROCEEDINGS OF THE 26TH USENIX SECURITY SYMPOSIUM (USENIX SECURITY '17), P523
+   Radev Martin, 2020, ROOTS'20: Proceedings of the 4th Reversing and Offensive-oriented Trends Symposium, P1, DOI 10.1145/3433667.3433668
+NR 11
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1540-7993
+EI 1558-4046
+J9 IEEE SECUR PRIV
+JI IEEE Secur. Priv.
+PD 2024 APR 10
+PY 2024
+DI 10.1109/MSEC.2024.3381439
+EA APR 2024
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NQ4Y5
+UT WOS:001201918300001
+OA hybrid
+DA 2024-08-05
+ER
+
+EF

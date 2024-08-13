@@ -1,0 +1,590 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tang, B
+   Khalil, EB
+AF Tang, Bo
+   Khalil, Elias B.
+TI PyEPO: a PyTorch-based end-to-end predict-then-optimize library for
+   linear and integer programming
+SO MATHEMATICAL PROGRAMMING COMPUTATION
+LA English
+DT Article; Early Access
+DE Data-driven optimization; Mixed integer programming; Machine learning
+AB In deterministic optimization, it is typically assumed that all problem parameters are fixed and known. In practice, however, some parameters may be a priori unknown but can be estimated from contextual information. A typical predict-then-optimize approach separates predictions and optimization into two distinct stages. Recently, end-to-end predict-then-optimize has emerged as an attractive alternative. This work introduces the PyEPO package, a PyTorch-based end-to-end predict-then-optimize library in Python. To the best of our knowledge, PyEPO (pronounced like pineapple with a silent "n") is the first such generic tool for linear and integer programming with predicted objective function coefficients. It includes various algorithms such as surrogate decision losses, black-box solvers, and perturbated methods. PyEPO offers a user-friendly interface for defining new optimization problems, applying state-of-the-art algorithms, and using custom neural network architectures. We conducted experiments comparing various methods on problems such as the Shortest Path, the Multiple Knapsack, and the Traveling Salesperson Problem, discussing empirical insights that may guide future research. PyEPO and its documentation are available at https://github.com/khalil-research/PyEPO.
+C1 [Tang, Bo; Khalil, Elias B.] Univ Toronto, Dept Mech & Ind Engn, 5 Kings Coll Rd, Toronto, ON M5S 3G8, Canada.
+C3 University of Toronto
+RP Khalil, EB (corresponding author), Univ Toronto, Dept Mech & Ind Engn, 5 Kings Coll Rd, Toronto, ON M5S 3G8, Canada.
+EM botang@mie.utoronto.ca; khalil@mie.utoronto.ca
+FU SCALE AI Research Chair; NSERC
+FX This work was supported by funding from a SCALE AI Research Chair and an
+   NSERC Discovery Grant to Elias B. Khalil. DAS:All data analyzed during
+   this study are publicly available.
+CR Abadi M., 2016, arXiv
+   Agrawal A., 2019, Advances in Neural Information Processing Systems
+   Agrawal A, 2020, Arxiv, DOI arXiv:1904.09043
+   Amos B, 2017, PR MACH LEARN RES, V70
+   Bengio Y, 1997, INT J NEURAL SYST, V8, P433, DOI 10.1142/S0129065797000422
+   Berthet Q, 2020, Arxiv, DOI arXiv:2002.08676
+   Blondel M, 2020, J MACH LEARN RES, V21
+   Bynum M.L., 2021, Pyomo-optimization modeling in python, V67
+   Chen TQ, 2015, Arxiv, DOI arXiv:1512.01274
+   Cplex, 2009, INT BUSINESS MACHINE, V46, P157
+   Dalle G, 2022, Arxiv, DOI arXiv:2207.13513
+   DANTZIG G, 1954, J OPER RES SOC AM, V2, P393, DOI 10.1287/opre.2.4.393
+   Djolonga J., 2017, Advances in Neural Information Processing Systems
+   Domke Justin, 2012, ARTIFICIAL INTELLIGE, P318
+   Donti P., 2017, Advances in Neural Information Processing Systems
+   Elmachtoub A. N., 2020, PMLR, P2858
+   Elmachtoub AN, 2022, MANAGE SCI, V68, P9, DOI 10.1287/mnsc.2020.3922
+   Ferber A, 2020, AAAI CONF ARTIF INTE, V34, P1504
+   Feurer M, 2015, ADV NEUR IN, V28
+   Ford B, 2015, LECT NOTES COMPUT SC, V9406, P35, DOI 10.1007/978-3-319-25594-1_3
+   Gavish B., 1978, Operations Research Center Working Paper; OR 078-78
+   Ge D., 2022, Cardinal optimizer (COPT) user guide
+   Gould S, 2016, Arxiv, DOI arXiv:1607.05447
+   Gurobi Optimization LLC, 2023, GUROBI OPTIMIZER REF
+   Hagberg A. A., 2008, EXPLORING NETWORK ST, P11, DOI DOI 10.1016/J.JELECTROCARD.2010.09.003
+   Kao Yh., 2009, Advances in Neural Information Processing Systems
+   Mandi J., 2020, ADV NEURAL INFORM PR, V33, P7272
+   Mandi J., 2022, PMLR, P14935
+   Mandi J, 2024, Arxiv, DOI arXiv:2307.13565
+   Mandi J, 2020, AAAI CONF ARTIF INTE, V34, P1603
+   Martello S., 1990, Knapsack Problems
+   Mattingley J, 2012, OPTIM ENG, V13, P1, DOI 10.1007/s11081-011-9176-9
+   MILLER CE, 1960, J ACM, V7, P326, DOI 10.1145/321043.321046
+   Mulamba M, 2021, Arxiv, DOI arXiv:2011.05354
+   Ortega-Arranz H., 2014, Synth. Lect. Theor. Comput. Sci, V1, P1, DOI [10.1007/978-3-031-02574-7, DOI 10.1007/978-3-031-02574-7]
+   Paszke A., 2019, Advances in Neural Information Processing Systems, ppp 8024, DOI DOI 10.48550/ARXIV.1912.01703
+   Paszke A., 2017, PROC INT C NEURAL I
+   Pedregosa F, 2011, J MACH LEARN RES, V12, P2825
+   Pogancic M. V., 2019, INT C LEARN REPR
+   Sadana U, 2024, Arxiv, DOI arXiv:2306.10374
+   Tie-Yan Liu, 2009, Foundations and Trends in Information Retrieval, V3, P225, DOI 10.1561/1500000016
+   Wilder B, 2019, AAAI CONF ARTIF INTE, P1658
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1867-2949
+EI 1867-2957
+J9 MATH PROGRAM COMPUT
+JI Math. Program. Comput.
+PD 2024 JUL 18
+PY 2024
+DI 10.1007/s12532-024-00255-x
+EA JUL 2024
+PG 39
+WC Computer Science, Software Engineering; Operations Research & Management
+   Science; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Operations Research & Management Science; Mathematics
+GA YW3P9
+UT WOS:001271486600001
+DA 2024-08-05
+ER
+
+PT J
+AU Bolusani, S
+   Besancon, M
+   Gleixner, A
+   Berthold, T
+   D'Ambrosio, C
+   Munoz, G
+   Paat, J
+   Thomopulos, D
+AF Bolusani, Suresh
+   Besancon, Mathieu
+   Gleixner, Ambros
+   Berthold, Timo
+   D'Ambrosio, Claudia
+   Munoz, Gonzalo
+   Paat, Joseph
+   Thomopulos, Dimitri
+TI The MIP Workshop 2023 Computational Competition on reoptimization
+SO MATHEMATICAL PROGRAMMING COMPUTATION
+LA English
+DT Article
+DE Mixed integer optimization; Reoptimization; Warm starting; Computational
+   optimization
+AB This paper describes the computational challenge developed for a computational competition held in 2023 for the 20 th \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$20{\text {th}}$$\end{document} anniversary of the Mixed Integer Programming Workshop. The topic of this competition was reoptimization, also known as warm starting, of mixed integer linear optimization problems after slight changes to the input data for a common formulation. The challenge was to accelerate the proof of optimality of the modified instances by leveraging the information from the solving processes of previously solved instances, all while creating high-quality primal solutions. Specifically, we discuss the competition's format, the creation of public and hidden datasets, and the evaluation criteria. Our goal is to establish a methodology for the generation of benchmark instances and an evaluation framework, along with benchmark datasets, to foster future research on reoptimization of mixed integer linear optimization problems.
+C1 [Bolusani, Suresh; Besancon, Mathieu; Gleixner, Ambros] Zuse Inst Berlin, Berlin, Germany.
+   [Besancon, Mathieu] Univ Grenoble Alpes, LIG, INRIA, Grenoble, France.
+   [Gleixner, Ambros] HTW Berlin, Berlin, Germany.
+   [Berthold, Timo] TU Berlin, Berlin, Germany.
+   [Berthold, Timo] FICO, Berlin, Germany.
+   [D'Ambrosio, Claudia] Inst Polytech Paris, Ecole Polytech, LIX, CNRS, Palaiseau, France.
+   [Munoz, Gonzalo] Univ Chile, Ind Engn Dept, Santiago, Chile.
+   [Paat, Joseph] Univ British Columbia, Sauder Sch Business, Vancouver, BC, Canada.
+   [Thomopulos, Dimitri] Univ Pisa, DESTEC, Pisa, Italy.
+C3 Zuse Institute Berlin; Communaute Universite Grenoble Alpes; Institut
+   National Polytechnique de Grenoble; Universite Grenoble Alpes (UGA);
+   Centre National de la Recherche Scientifique (CNRS); Inria; Technical
+   University of Berlin; Centre National de la Recherche Scientifique
+   (CNRS); Institut Polytechnique de Paris; Ecole Polytechnique;
+   Universidad de Chile; University of British Columbia; University of Pisa
+RP Gleixner, A (corresponding author), Zuse Inst Berlin, Berlin, Germany.; Gleixner, A (corresponding author), HTW Berlin, Berlin, Germany.
+EM gleixner@htw-berlin.de
+OI Gleixner, Ambros/0000-0003-0391-5903; Bolusani,
+   Suresh/0000-0002-5735-3443; THOMOPULOS, DIMITRI/0000-0003-0601-1790;
+   Berthold, Timo/0000-0002-6320-8154; Besancon,
+   Mathieu/0000-0002-6284-3033
+FU Hochschule fr Technik und Wirtschaft Berlin (3378)
+FX We wish to thank all participants in the competition for their
+   submissions, Daniel Bienstock for providing us with computational
+   infrastructure in order to evaluate the submissions, Dimitri Kniasew
+   from SAP for submitting one hidden series of supply chain network
+   planning instances, Felipe Serrano for discussing initial suggestions
+   for the topic of the competition, and Domenico Salvagnin for
+   participating in the final evaluation process.
+CR Achterberg T, 2006, OPER RES LETT, V34, P361, DOI 10.1016/j.orl.2005.07.009
+   Andreassian V., 2021, EGU GEN ASS C, DOI [10.5194/egusphere-egu21-13349, DOI 10.5194/EGUSPHERE-EGU21-13349]
+   Angulo G, 2016, INFORMS J COMPUT, V28, P483, DOI 10.1287/ijoc.2016.0695
+   [Anonymous], 2023, MIP COMPUTATIONAL CO
+   Ausiello G., 2011, COMPUTABILITY CONTEX, P101, DOI DOI 10.1142/9781848162778_0004
+   Berthold T, 2021, MATH PROGRAM, V188, P523, DOI 10.1007/s10107-020-01547-5
+   Bestuzheva K, 2023, ACM T MATH SOFTWARE, V49, DOI 10.1145/3585516
+   Bock R., 2007, UCI MACH LEARN REPOS, DOI DOI 10.24432/C52C8B
+   Boland N, 2018, SIAM J OPTIMIZ, V28, P1312, DOI 10.1137/16M1076290
+   Bolusani S, 2022, MATH PROGRAM, V196, P389, DOI 10.1007/s10107-021-01763-7
+   Caroe CC, 1999, OPER RES LETT, V24, P37, DOI 10.1016/S0167-6377(98)00050-9
+   DESROCHERS M, 1988, EUR J OPER RES, V35, P242, DOI 10.1016/0377-2217(88)90034-3
+   Energetici G.M., 2022, HIST DATA DAY AHEAD
+   Etheve M, 2020, LECT NOTES COMPUT SC, V12296, P176, DOI 10.1007/978-3-030-58942-4_12
+   Firat M, 2020, COMPUT OPER RES, V116, DOI 10.1016/j.cor.2019.104866
+   Gamrath G, 2019, MATH PROGRAM COMPUT, V11, P675, DOI 10.1007/s12532-019-00159-1
+   github, 2023, MIP COMPUTATIONAL CO
+   Gleixner A, 2021, MATH PROGRAM COMPUT, V13, P443, DOI 10.1007/s12532-020-00194-3
+   Hassanzadeh A., 2015, THESIS LEHIGH U
+   Jiménez-Cordero A, 2022, KNOWL-BASED SYST, V253, DOI 10.1016/j.knosys.2022.109570
+   Koch T, 2011, MATH PROGRAM COMPUT, V3, P103, DOI 10.1007/s12532-011-0025-9
+   mixedinteger, MIX INT PROGR WORKSH
+   Ntaimo L, 2010, OPER RES, V58, P229, DOI 10.1287/opre.1090.0693
+   Patel KK, 2024, MATH PROGRAM COMPUT, V16, P267, DOI 10.1007/s12532-024-00253-z
+   Ralphs T., 2006, P 2006 NSF DES SERV
+   SAP SE or an SAP affiliate company, 2023, MILP BENCHMARKS CELL
+   Schieber B, 2018, ALGORITHMICA, V80, P576, DOI 10.1007/s00453-017-0274-8
+   Tanner MW, 2010, EUR J OPER RES, V207, P290, DOI 10.1016/j.ejor.2010.04.019
+   Thomopulos D, 2024, TOP, V32, P106, DOI 10.1007/s11750-023-00660-w
+   Witzig J., 2014, THESIS TU BERLIN
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1867-2949
+EI 1867-2957
+J9 MATH PROGRAM COMPUT
+JI Math. Program. Comput.
+PD JUN
+PY 2024
+VL 16
+IS 2
+BP 255
+EP 266
+DI 10.1007/s12532-024-00256-w
+EA JUN 2024
+PG 12
+WC Computer Science, Software Engineering; Operations Research & Management
+   Science; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Operations Research & Management Science; Mathematics
+GA YL2I6
+UT WOS:001242284100001
+OA Green Submitted, hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Arslan, AN
+   Omer, J
+   Yan, FL
+AF Arslan, Ayse N.
+   Omer, Jeremy
+   Yan, Fulin
+TI KidneyExchange.jl: a Julia package for solving the kidney exchange
+   problem with branch-and-price
+SO MATHEMATICAL PROGRAMMING COMPUTATION
+LA English
+DT Article
+DE Kidney exchange problem; Market exchange; Column-generation;
+   Decomposition; Branch-and-price; Julia language
+ID LONG-CHAINS; DONATION
+AB The kidney exchange problem (KEP) is an increasingly important healthcare management problem in most European and North American countries which consists of matching incompatible patient-donor pairs in a centralized system. Despite the significant progress in the exact solution of KEP instances in recent years, larger instances still pose a challenge especially when non-directed donors are taken into account. In this article, we present a branch-and-price algorithm for the exact solution of KEP in the presence of non-directed donors. This algorithm is based on a disaggregated cycle and chains formulation where subproblems are managed through graph copies. We additionally present a branch-and-price algorithm based on the position-indexed chain-edge formulation as well as two compact formulations. We formalize and analyze the complexity of the resulting pricing problems and identify the conditions under which they can be solved using polynomial-time algorithms. We propose several algorithmic improvements for the branch-and-price algorithms as well as for the solution of pricing problems. We extensively test all of our implementations using a benchmark made up of different types of instances. Our numerical results show that the proposed algorithm can be significantly faster compared to the state-of-the-art. All models and algorithms presented in the paper are gathered in an open-access Julia package, KidneyExchange.jl.
+C1 [Arslan, Ayse N.] Univ Bordeaux, Ctr Inria, F-33405 Talence, France.
+   [Arslan, Ayse N.] Univ Bordeaux, CNRS,INRIA, Bordeaux INP, IMB,UMR 5251, F-33400 Talence, France.
+   [Omer, Jeremy; Yan, Fulin] Univ Rennes, INSA Rennes, CNRS, IRMAR UMR 6625, F-35000 Rennes, France.
+C3 Universite de Bordeaux; Centre National de la Recherche Scientifique
+   (CNRS); Inria; Universite de Bordeaux; CNRS - National Institute for
+   Mathematical Sciences (INSMI); Universite de Rennes; Institut National
+   des Sciences Appliquees de Rennes; Centre National de la Recherche
+   Scientifique (CNRS); CNRS - National Institute for Mathematical Sciences
+   (INSMI)
+RP Arslan, AN (corresponding author), Univ Bordeaux, Ctr Inria, F-33405 Talence, France.; Arslan, AN (corresponding author), Univ Bordeaux, CNRS,INRIA, Bordeaux INP, IMB,UMR 5251, F-33400 Talence, France.
+EM ayse-nur.arslan@inria.fr
+CR Abraham DJ, 2007, EC'07: PROCEEDINGS OF THE EIGHTH ANNUAL CONFERENCE ON ELECTRONIC COMMERCE, P295
+   Ahuja R, 1993, Network Flows, Theory, Algorithms and Applications
+   Anderson R, 2015, P NATL ACAD SCI USA, V112, P663, DOI 10.1073/pnas.1421853112
+   Ashlagi I., 2013, ARXIV
+   Axelrod DA, 2018, AM J TRANSPLANT, V18, P1168, DOI 10.1111/ajt.14702
+   Bezanson J, 2017, SIAM REV, V59, P65, DOI 10.1137/141000671
+   Biró P, 2021, EUR J OPER RES, V291, P447, DOI 10.1016/j.ejor.2019.09.006
+   Carvalho M, 2023, EUR J OPER RES, V305, P373, DOI 10.1016/j.ejor.2022.05.027
+   Constantino M, 2013, EUR J OPER RES, V231, P57, DOI 10.1016/j.ejor.2013.05.025
+   Delorme M, 2022, COMPUT OPER RES, V141, DOI 10.1016/j.cor.2022.105707
+   Desaulniers G, 2002, OPER RES COMPUT SCI, V15, P309
+   Dickerson J.P., 2012, P 11 INT C AUT AG MU, P8
+   Dickerson JP, 2019, MANAGE SCI, V65, P1768, DOI 10.1287/mnsc.2018.3026
+   Dickerson JP, 2016, EC'16: PROCEEDINGS OF THE 2016 ACM CONFERENCE ON ECONOMICS AND COMPUTATION, P25, DOI 10.1145/2940716.2940759
+   Dunning I, 2017, SIAM REV, V59, P295, DOI 10.1137/15M1020575
+   Farnadi G, 2021, AAAI CONF ARTIF INTE, V35, P11496
+   Ferrari P, 2015, NEPHROL DIAL TRANSPL, V30, P1276, DOI 10.1093/ndt/gfu309
+   Glorie KM, 2014, M&SOM-MANUF SERV OP, V16, P498, DOI 10.1287/msom.2014.0496
+   Huangfu Q, 2018, MATH PROGRAM COMPUT, V10, P119, DOI 10.1007/s12532-017-0130-5
+   Klimentova X, 2014, LECT NOTES COMPUT SC, V8580, P237, DOI 10.1007/978-3-319-09129-7_18
+   Lam E, 2020, COMPUT OPER RES, V115, DOI 10.1016/j.cor.2019.104852
+   Mak-Hau V, 2017, J COMB OPTIM, V33, P35, DOI 10.1007/s10878-015-9932-4
+   Malik Shafi, 2014, Can J Kidney Health Dis, V1, P6, DOI 10.1186/2054-3581-1-6
+   Plaut B., 2016, ARXIV
+   Plaut B, 2016, AAAI CONF ARTIF INTE, P601
+   RAPAPORT FT, 1986, TRANSPL P, V18, P5
+   Riascos-Alvarez L.C., 2020, ARXIV
+   Roth AE, 2005, J ECON THEORY, V125, P151, DOI 10.1016/j.jet.2005.04.004
+   Roth AE, 2004, Q J ECON, V119, P457, DOI 10.1162/0033553041382157
+   Roth AE, 2007, AM ECON REV, V97, P828, DOI 10.1257/aer.97.3.828
+   Saidman SL, 2006, TRANSPLANTATION, V81, P773, DOI 10.1097/01.tp.0000195775.77081.25
+   Smeulders B, 2022, INFORMS J COMPUT, V34, P1191, DOI 10.1287/ijoc.2021.1099
+   Taccari L, 2016, EUR J OPER RES, V252, P122, DOI 10.1016/j.ejor.2016.01.003
+   TARJAN RE, 1976, ACTA INFORM, V6, P171, DOI 10.1007/BF00268499
+NR 34
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1867-2949
+EI 1867-2957
+J9 MATH PROGRAM COMPUT
+JI Math. Program. Comput.
+PD MAR
+PY 2024
+VL 16
+IS 1
+BP 151
+EP 184
+DI 10.1007/s12532-023-00251-7
+EA JAN 2024
+PG 34
+WC Computer Science, Software Engineering; Operations Research & Management
+   Science; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Operations Research & Management Science; Mathematics
+GA JD7N8
+UT WOS:001144213100001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Patel, KK
+AF Patel, Krunal Kishor
+TI Progressively strengthening and tuning MIP solvers for reoptimization
+SO MATHEMATICAL PROGRAMMING COMPUTATION
+LA English
+DT Article
+DE MIP; Reoptimization; Warmstart; Pseudocosts; Parameter-tuning
+AB This paper explores reoptimization techniques for solving sequences of similar mixed integer programs (MIPs) more effectively. Traditionally, these MIPs are solved independently, without capitalizing on information from previously solved instances. Our approach focuses on primal bound improvements by reusing the solutions of the previously solved instances, as well as dual bound improvements by reusing the branching history and automating parameter tuning. We also describe ways to improve the solver performance by extending ideas from reliability branching to generate better pseudocosts. Our reoptimization approach, crafted for the MIP 2023 workshop computational competition, was honored with the first prize. In this paper, we thoroughly analyze the performance of each technique and their combined impact on the solver's performance. Finally, we present ways to extend our techniques in practice for further improvements.
+C1 [Patel, Krunal Kishor] Polytech Montreal, CERC, Montreal, PQ, Canada.
+C3 Universite de Montreal; Polytechnique Montreal
+RP Patel, KK (corresponding author), Polytech Montreal, CERC, Montreal, PQ, Canada.
+EM krunal.patel@polymtl.ca
+FU Canada Excellence Research Chair (CERC), Polytechnique Montreal
+FX The author received financial support from the Canada Excellence
+   Research Chair (CERC), Polytechnique Montreal and the computational
+   resources for experimental evaluation were provided by CERC. The author
+   would also like to thank Prof. Andrea Lodi, Prof. Guy Desaulniers, and
+   the anonymous reviewers for their helpful comments.
+CR Achterberg T, 2005, OPER RES LETT, V33, P42, DOI 10.1016/j.orl.2004.04.002
+   Andreassian V., 2021, EGU GEN ASS C
+   Angulo G, 2016, INFORMS J COMPUT, V28, P483, DOI 10.1287/ijoc.2016.0695
+   Applegate D., 1995, FINDING CUTS TSP PRE, V95
+   Auer P, 2002, MACH LEARN, V47, P235, DOI 10.1023/A:1013689704352
+   Ausiello G., 2011, COMPUTABILITY CONTEX, P101, DOI DOI 10.1142/9781848162778_0004
+   Benichou M., 1971, Mathematical Programming, V1, P76
+   Berthold T., 2006, Primal Heuristics for Mixed Integer Programs
+   Berthold T, 2022, LECT NOTES COMPUT SC, V13292, P24, DOI 10.1007/978-3-031-08011-1_3
+   Bestuzheva, 2021, SCIP OPTIMIZATION SU, P21
+   Blum C, 2016, COMPUT OPER RES, V68, P75, DOI 10.1016/j.cor.2015.10.014
+   Bolusani S., 2023, ARXIV
+   Bolusani S, 2022, MATH PROGRAM, V196, P389, DOI 10.1007/s10107-021-01763-7
+   Cplex IBM ILOG, 2023, IBM ILOG CPLEX OPT
+   Danna E, 2005, MATH PROGRAM, V102, P71, DOI 10.1007/s10107-004-0518-7
+   Firat M, 2020, COMPUT OPER RES, V116, DOI 10.1016/j.cor.2019.104866
+   Gamrath G, 2019, MATH PROGRAM COMPUT, V11, P675, DOI 10.1007/s12532-019-00159-1
+   Gamrath G, 2015, LECT NOTES COMPUT SC, V9125, P181, DOI 10.1007/978-3-319-20086-6_14
+   Gleixner A, 2021, MATH PROGRAM COMPUT, V13, P443, DOI 10.1007/s12532-020-00194-3
+   Gurobi Optimization LLC, 2023, GUROBI OPTIMIZER REF
+   Hendel G, 2022, MATH PROGRAM COMPUT, V14, P185, DOI 10.1007/s12532-021-00209-7
+   Hendel G, 2015, LECT NOTES COMPUT SC, V9075, P199, DOI 10.1007/978-3-319-18008-3_14
+   Jiménez-Cordero A, 2022, KNOWL-BASED SYST, V253, DOI 10.1016/j.knosys.2022.109570
+   Li LS, 2018, J MACH LEARN RES, V18
+   Linderoth JT, 1999, INFORMS J COMPUT, V11, P173, DOI 10.1287/ijoc.11.2.173
+   Ralphs T., 2006, P 2006 NSF DES SERV
+   Sabharwal Ashish, 2012, Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems. Proceedings 9th International Conference, CPAIOR 2012, P356, DOI 10.1007/978-3-642-29828-8_23
+   SAP SE, 2023, MILP BENCHMARKS CELL
+   Schieber B, 2018, ALGORITHMICA, V80, P576, DOI 10.1007/s00453-017-0274-8
+   Tanner MW, 2010, EUR J OPER RES, V207, P290, DOI 10.1016/j.ejor.2010.04.019
+   Thomopulos D., 2023, TOP, V66, P1
+   Witzig J., 2014, THESIS TU BERLIN
+   Xu L., 2011, P RCRA WORKSH EXP EV, P16
+NR 33
+TC 1
+Z9 1
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1867-2949
+EI 1867-2957
+J9 MATH PROGRAM COMPUT
+JI Math. Program. Comput.
+PD JUN
+PY 2024
+VL 16
+IS 2
+BP 267
+EP 295
+DI 10.1007/s12532-024-00253-z
+EA MAY 2024
+PG 29
+WC Computer Science, Software Engineering; Operations Research & Management
+   Science; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Operations Research & Management Science; Mathematics
+GA YL2I6
+UT WOS:001223444100001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Chen, WY
+   Mazumder, R
+   Samworth, RJ
+AF Chen, Wenyu
+   Mazumder, Rahul
+   Samworth, Richard J.
+TI A new computational framework for log-concave density estimation
+SO MATHEMATICAL PROGRAMMING COMPUTATION
+LA English
+DT Article
+DE Dual averaging; Large-scale computation; Log-concavity; Nesterov
+   smoothing; Randomized smoothing; Shape-constrained density estimation
+ID MAXIMUM-LIKELIHOOD-ESTIMATION; LEAST-SQUARES ESTIMATORS; RISK BOUNDS;
+   GLOBAL RATES; CONVERGENCE; ADAPTATION; REGRESSION; APPROXIMATION;
+   DISTRIBUTIONS; INFERENCE
+AB In statistics, log-concave density estimation is a central problem within the field of nonparametric inference under shape constraints. Despite great progress in recent years on the statistical theory of the canonical estimator, namely the log-concave maximum likelihood estimator, adoption of this method has been hampered by the complexities of the non-smooth convex optimization problem that underpins its computation. We provide enhanced understanding of the structural properties of this optimization problem, which motivates the proposal of new algorithms, based on both randomized and Nesterov smoothing, combined with an appropriate integral discretization of increasing accuracy. We prove that these methods enjoy, both with high probability and in expectation, a convergence rate of order 1/T up to logarithmic factors on the objective function scale, where T denotes the number of iterations. The benefits of our new computational framework are demonstrated on both synthetic and real data, and our implementation is available in a github repository LogConcComp (Log-Concave Computation).
+C1 [Chen, Wenyu] MIT, Operat Res Ctr, Cambridge, MA USA.
+   [Mazumder, Rahul] MIT, Operat Res Ctr, MIT Ctr Stat, MIT Sloan Sch Management, Cambridge, MA 02142 USA.
+   [Samworth, Richard J.] Univ Cambridge, Ctr Math Sci, Stat Lab, Cambridge, England.
+C3 Massachusetts Institute of Technology (MIT); Massachusetts Institute of
+   Technology (MIT); University of Cambridge
+RP Mazumder, R (corresponding author), MIT, Operat Res Ctr, MIT Ctr Stat, MIT Sloan Sch Management, Cambridge, MA 02142 USA.
+EM wenyu.main@gmail.com; rahulmaz@mit.edu; r.samworth@statslab.cam.ac.uk
+FU Massachusetts Institute of Technology (MIT)
+FX The authors acknowledge MIT SuperCloud and Lincoln Laboratory
+   Supercomputing Center for providing HPC resources that have contributed
+   to the research results reported within this paper. We also thank the
+   anonymous reviewers for constructive comments on an earlier version that
+   helped to improve this paper.
+CR Agarwal A, 2012, IEEE T INFORM THEORY, V58, P3235, DOI 10.1109/TIT.2011.2182178
+   Axelrod B., 2019, ADV NEURAL INFORM PR, P7723
+   AZUMA K., 1967, TOHOKU MATH J, V19, P357, DOI DOI 10.2748/TMJ/1178243286
+   Barber C.B., 1993, GCG53 U MINN
+   Barber R.F., 2021, IN PRESS
+   Bellec PC, 2018, ANN STAT, V46, P745, DOI 10.1214/17-AOS1566
+   Bertsekas D., 2016, Athena Scientific Optimization and Computation Series
+   Bertsekas D.P., 2009, Convex Optimization Theory
+   Brunk H., 1972, STAT INFERENCE ORDER
+   Buldygin Valerii. Vladimirovich, 2000, Translations of mathematical monographs, V188
+   Cai TT, 2015, STAT SINICA, V25, P423, DOI 10.5705/ss.2013.279
+   Carpenter Timothy, 2018, C LEARN THEOR, P1234
+   Chatterjee Y, 2015, ANN STAT, V43, P1774, DOI 10.1214/15-AOS1324
+   Chen W., 2020, ARXIV
+   Chen YN, 2016, J ROY STAT SOC B, V78, P729, DOI 10.1111/rssb.12137
+   Chen YN, 2013, STAT SINICA, V23, P1373, DOI 10.5705/ss.2011.224
+   Clarke FH., 1983, OPTIMIZATION NONSMOO, DOI DOI 10.1137/1.9781611971309
+   Cule M.L., 2008, ARXIV
+   Cule M, 2010, J ROY STAT SOC B, V72, P545, DOI 10.1111/j.1467-9868.2010.00753.x
+   Cule M, 2010, ELECTRON J STAT, V4, P254, DOI 10.1214/09-EJS505
+   Cule M, 2009, J STAT SOFTW, V29, P1
+   Dalalyan AS, 2017, J ROY STAT SOC B, V79, P651, DOI 10.1111/rssb.12183
+   Dharmadhikari S., 1988, Unimodality, Convexity, and Applications
+   Doss CR, 2016, ANN STAT, V44, P954, DOI 10.1214/15-AOS1394
+   Duchi JC, 2012, SIAM J OPTIMIZ, V22, P674, DOI 10.1137/110831659
+   Dümbgen L, 2011, J STAT SOFTW, V39, P1, DOI 10.18637/jss.v039.i06
+   Dümbgen L, 2011, ANN STAT, V39, P702, DOI 10.1214/10-AOS853
+   Dümbgen L, 2009, BERNOULLI, V15, P40, DOI 10.3150/08-BEJ141
+   Dümbgen L, 2021, BERNOULLI, V27, P818, DOI 10.3150/20-BEJ1256
+   Durot C, 2018, STAT SCI, V33, P547, DOI 10.1214/18-STS664
+   Fang B, 2019, BERNOULLI, V25, P2206, DOI 10.3150/18-BEJ1051
+   Feng OY, 2021, ANN STAT, V49, P129, DOI 10.1214/20-AOS1950
+   Grenander U., 1957, Scandinavian Actuarial Journal, V39, P125
+   Groeneboom P., 2014, NONPARAMETRIC ESTIMA, DOI DOI 10.1017/CBO9781139020893
+   Guntuboyina A, 2015, PROBAB THEORY REL, V163, P379, DOI 10.1007/s00440-014-0595-3
+   Gurobi Optimization LLC, 2023, GUROBI OPTIMIZER REF
+   Han Q., 2021, IN PRESS
+   Han QY, 2019, ANN STAT, V47, P2440, DOI 10.1214/18-AOS1753
+   Han QY, 2016, ANN STAT, V44, P1332, DOI 10.1214/15-AOS1408
+   Han Qiyang, 2016, ARXIV
+   HILDRETH C, 1954, J AM STAT ASSOC, V49, P598, DOI 10.2307/2281132
+   Kappel F, 2000, COMPUT OPTIM APPL, V15, P193, DOI 10.1023/A:1008739111712
+   Kim AKH, 2018, ANN STAT, V46, P2279, DOI 10.1214/17-AOS1619
+   Kim AKH, 2016, ANN STAT, V44, P2756, DOI 10.1214/16-AOS1480
+   Klenke A., 2014, Probability Theory: A Comprehensive Course
+   Koenker R, 2010, ANN STAT, V38, P2998, DOI 10.1214/10-AOS814
+   Kur Gil, 2019, ARXIV
+   Lakshmanan H, 2008, SIAM J OPTIMIZ, V19, P911, DOI 10.1137/060662228
+   Liu Y, 2018, AUST NZ J STAT, V60, P258, DOI 10.1111/anzs.12232
+   MCMULLEN P, 1970, MATHEMATIKA, V17, P179, DOI 10.1112/S0025579300002850
+   Nemirovskij AS, 1983, Problem Complexity and Method Efficiency in Optimization
+   Nesterov Y, 2005, MATH PROGRAM, V103, P127, DOI 10.1007/s10107-004-0552-5
+   Nesterov Y, 2009, MATH PROGRAM, V120, P221, DOI 10.1007/s10107-007-0149-x
+   Pal J.K., 2007, IMS LECT NOTES MONOG, P239
+   Pananjady A., 2020, ARXIV
+   Polyak B. T., 1987, Translations Series in Mathematics and Engineering
+   Rathke F, 2019, COMPUT STAT DATA AN, V140, P41, DOI 10.1016/j.csda.2019.04.005
+   Reuther A, 2018, IEEE HIGH PERF EXTR
+   Rockafellar RT., 1997, CONVEX ANAL
+   Samworth RJ, 2018, STAT SCI, V33, P469, DOI 10.1214/18-STS673
+   Samworth RJ, 2018, STAT SCI, V33, P493, DOI 10.1214/18-STS666
+   Samworth RJ, 2012, ANN STAT, V40, P2973, DOI 10.1214/12-AOS1060
+   Schuhmacher D, 2011, STATIST RISK MODEL, V28, P277, DOI 10.1524/stnd.2011.1073
+   Seijo E, 2011, ANN STAT, V39, P1633, DOI 10.1214/10-AOS852
+   Seregin A, 2010, ANN STAT, V38, P3751, DOI 10.1214/10-AOS840
+   Shor Naum Z., 1985, Minimization Methods for Non-Differentiable Functions
+   Tseng P., 2008, SIAM J OPTIMIZ UNPUB, V1
+   Walther G, 2002, J AM STAT ASSOC, V97, P508, DOI 10.1198/016214502760047032
+   Walther G, 2009, STAT SCI, V24, P319, DOI 10.1214/09-STS303
+   Xiao L, 2010, J MACH LEARN RES, V11, P2543
+   Xu M, 2021, ANN STAT, V49, P650, DOI 10.1214/20-AOS1972
+   Yang F, 2019, ELECTRON J STAT, V13, P646, DOI 10.1214/18-EJS1520
+   Yousefian F, 2012, AUTOMATICA, V48, P56, DOI 10.1016/j.automatica.2011.09.043
+   Zhang CH, 2002, ANN STAT, V30, P528, DOI 10.1214/aos/1021379864
+NR 74
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1867-2949
+EI 1867-2957
+J9 MATH PROGRAM COMPUT
+JI Math. Program. Comput.
+PD JUN
+PY 2024
+VL 16
+IS 2
+BP 185
+EP 228
+DI 10.1007/s12532-024-00252-0
+EA APR 2024
+PG 44
+WC Computer Science, Software Engineering; Operations Research & Management
+   Science; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Operations Research & Management Science; Mathematics
+GA YL2I6
+UT WOS:001229977100001
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Karimi, S
+   Vavasis, SA
+AF Karimi, Sahar
+   Vavasis, Stephen A.
+TI Nonlinear conjugate gradient for smooth convex functions
+SO MATHEMATICAL PROGRAMMING COMPUTATION
+LA English
+DT Article
+DE 65K10; 90C25
+ID CONVERGENCE PROPERTIES
+AB The method of nonlinear conjugate gradients (NCG) is widely used in practice for unconstrained optimization, but it satisfies weak complexity bounds at best when applied to smooth convex functions. In contrast, Nesterov's accelerated gradient (AG) method is optimal up to constant factors for this class. However, when specialized to quadratic function, conjugate gradient is optimal in a strong sense among function-gradient methods. Therefore, there is seemingly a gap in the menu of available algorithms: NCG, the optimal algorithm for quadratic functions that also exhibits good practical performance for general functions, has poor complexity bounds compared to AG. We propose an NCG method called C+AG ("conjugate plus accelerated gradient") to close this gap, that is, it is optimal for quadratic functions and still satisfies the best possible complexity bound for more general smooth convex functions. It takes conjugate gradient steps until insufficient progress is made, at which time it switches to accelerated gradient steps, and later retries conjugate gradient. The proposed method has the following theoretical properties: (i) It is identical to linear conjugate gradient (and hence terminates finitely) if the objective function is quadratic; (ii) Its running-time bound is O(& varepsilon;-1/2)\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$O(\epsilon <^>{-1/2})$$\end{document} gradient evaluations for an L-smooth convex function, where & varepsilon;\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\epsilon $$\end{document} is the desired residual reduction, (iii) Its running-time bound is O(L/& ell;ln(1/& varepsilon;))\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$O(\sqrt{L/\ell }\ln (1/\epsilon ))$$\end{document} if the function is both L-smooth and & ell;\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\ell $$\end{document}-strongly convex. We also conjecture and outline a proof that a variant of the method has the property: (iv) It is n-step quadratically convergent for a function whose second derivative is smooth and invertible at the optimizer. Note that the bounds in (ii) and (iii) match AG and are the best possible, i.e., they match lower bounds up to constant factors for the classes of functions under consideration. On the other hand, (i) and (iv) match NCG. In computational tests, the function-gradient evaluation count for the C+AG method typically behaves as whichever is better of AG or classical NCG. In some test cases it outperforms both.
+C1 [Karimi, Sahar; Vavasis, Stephen A.] Univ Waterloo, Dept Combinator & Optimizat, 200 Univ Ave, Waterloo, ON N2L 3G1, Canada.
+C3 University of Waterloo
+RP Vavasis, SA (corresponding author), Univ Waterloo, Dept Combinator & Optimizat, 200 Univ Ave, Waterloo, ON N2L 3G1, Canada.
+EM sahar.karimi@gmail.com; vavasis@uwaterloo.ca
+FU Natural Sciences and Engineering Research Council (NSERC) of Canada
+FX The work has been supported in part by a Discovery Grant from the
+   Natural Sciences and Engineering Research Council (NSERC) of Canada.
+CR BECK A, 2017, 1 ORDER METHODS OPTI, DOI DOI 10.1137/1.9781611974997
+   Bubeck S., 2015, ARXIV
+   Buhler C.K., 2021, ARXIV
+   Carmon Y, 2017, PR MACH LEARN RES, V70
+   COHEN AI, 1972, SIAM J NUMER ANAL, V9, P248, DOI 10.1137/0709024
+   Dai YH, 1998, SCI CHINA SER A, V41, P1142, DOI 10.1007/BF02871976
+   Dai YH, 2001, ANN OPER RES, V103, P33, DOI 10.1023/A:1012930416777
+   Dai YH, 2013, SIAM J OPTIMIZ, V23, P296, DOI 10.1137/100813026
+   Daniel James W, 1967, SIAM J. Optim., V4, P10
+   Golub GH., 2013, MATRIX COMPUTATIONS, DOI 10.56021/9781421407944
+   Gould NIM, 1999, SIAM J OPTIMIZ, V9, P504, DOI 10.1137/S1052623497322735
+   Hager WW, 2005, SIAM J OPTIMIZ, V16, P170, DOI 10.1137/030601880
+   HESTENES MR, 1952, J RES NAT BUR STAND, V49, P409, DOI 10.6028/jres.049.044
+   HUBER PJ, 1973, ANN STAT, V1, P799, DOI 10.1214/aos/1176342503
+   Karimi S., 2017, ARXIV
+   Karimi S., 2014, THESIS U WATERLOO
+   McCormick GP, 1974, J OPTIMIZ THEORY APP, V13, P497, DOI 10.1007/BF00933041
+   Nemirovsky A.S., 1979, PROBLEM COMPLEXITY M
+   Nesterov Y., 2004, INTRO LECT CONVEX OP
+   Nesterov Yu. E., 1983, Doklady Akademii Nauk SSSR, V269, P543
+   Nocedal J, 2006, SPRINGER SER OPER RE, P1, DOI 10.1007/978-0-387-40065-5
+   O'Donoghue B, 2015, FOUND COMPUT MATH, V15, P715, DOI 10.1007/s10208-013-9150-3
+   Paquette C., 2019, ARXIV
+   POWELL MJD, 1977, MATH PROGRAM, V12, P241, DOI 10.1007/BF01593790
+   Zhang JZ, 2020, SIAM J OPTIMIZ, V30, P3170, DOI 10.1137/18M1232772
+NR 25
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1867-2949
+EI 1867-2957
+J9 MATH PROGRAM COMPUT
+JI Math. Program. Comput.
+PD JUN
+PY 2024
+VL 16
+IS 2
+BP 229
+EP 254
+DI 10.1007/s12532-024-00254-y
+EA JUN 2024
+PG 26
+WC Computer Science, Software Engineering; Operations Research & Management
+   Science; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Operations Research & Management Science; Mathematics
+GA YL2I6
+UT WOS:001242152000001
+OA Green Submitted
+DA 2024-08-05
+ER
+
+EF

@@ -1,0 +1,2796 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Derbez, P
+   Euler, M
+AF Derbez, Patrick
+   Euler, Marie
+TI Equivalence of Generalised Feistel Networks
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE GFN; WARP; TWINE; LBlock
+ID PERMUTATIONS
+AB This paper focuses on equivalences between Generalised Feistel Networks (GFN) of type -II. We introduce a new definition of equivalence which captures the concept that two GFNs are identical up to re -labelling of the inputs/outputs, and give a procedure to test this equivalence relation. Such two GFNs are therefore cryptographically equivalent for several classes of attacks. It induces a reduction of the space of possible GFNs: the set of the (k!)2 possible even -odd GFNs with 2k branches can be partitioned into k! different classes. This result can be very useful when looking for an optimal GFN regarding specific computationally intensive properties, such as the minimal number of active S -boxes in a differential trail. We also show that in several previous papers, many GFN candidates are redundant as they belong to only a few classes. Because of this reduction of candidates, we are also able to suggest better permutations than the one of WARP: they reach 64 active S -boxes in one round less and still have the same diffusion round that WARP. Finally, we also point out a new family of permutations with good diffusion properties.
+C1 [Derbez, Patrick; Euler, Marie] Univ Rennes, Inst Rech Informat & Syst Aleatoires IRISA, Ctr Natl Rech Sci CNRS, Inria, Rennes, France.
+   [Euler, Marie] DGA MI, Bruz, France.
+C3 Inria; Universite de Rennes; Centre National de la Recherche
+   Scientifique (CNRS)
+RP Derbez, P (corresponding author), Univ Rennes, Inst Rech Informat & Syst Aleatoires IRISA, Ctr Natl Rech Sci CNRS, Inria, Rennes, France.
+EM patrick.derbez@irisa.fr; marie.euler@irisa.fr
+CR [Anonymous], Math Overflow
+   Banik S, 2021, LECT NOTES COMPUT SC, V12804, P535, DOI 10.1007/978-3-030-81652-0_21
+   Berger TP, 2014, LECT NOTES COMPUT SC, V8282, P289
+   Bogdanov A, 2013, DESIGN CODE CRYPTOGR, V66, P75, DOI 10.1007/s10623-012-9660-z
+   Cauchois V, 2019, IACR T SYMMETRIC CRY, V2019, P264, DOI 10.13154/tosc.v2019.i1.264-301
+   Danping Shi, 2018, Advances in Cryptology - ASIACRYPT 2018. 24th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings: Lecture Notes in Computer Science (LNCS 11273), P3, DOI 10.1007/978-3-030-03329-3_1
+   Data Encryption Standard, 1977, Federal Information Processing Standards Publication, V46
+   Delaune S, 2022, LECT NOTES COMPUT SC, V13774, P103, DOI 10.1007/978-3-031-22912-1_5
+   Derbez P, 2019, IACR T SYMMETRIC CRY, V2019, P218, DOI 10.13154/tosc.v2019.i2.218-240
+   Holt Derek F., 2005, Handbook of computational group theory. Discrete Mathematics and its Applications
+   Hong D, 2006, LECT NOTES COMPUT SC, V4249, P46, DOI 10.1007/11894063_4
+   Leander G, 2015, LECT NOTES COMPUT SC, V9056, P254, DOI 10.1007/978-3-662-46800-5_11
+   LUBY M, 1988, SIAM J COMPUT, V17, P373, DOI 10.1137/0217022
+   Matsui M., 1995, Advances in Cryptology - EUROCRYPT '94. Workshop on the Theory and Application of Cryptographic Techniques. Proceedings, P366, DOI 10.1007/BFb0053451
+   Nyberg K., 1996, Advances in Cryptology - ASIACRYPT'96 International Conference on the Theory and Applications of Cryptology and Information Security. Proceedings, P91, DOI 10.1007/BFb0034838
+   Shirai T, 2007, LECT NOTES COMPUT SC, V4593, P181
+   Sims C.C, 1970, Computational Problems in Abstract Algebra, P169
+   Suzaki T., 2013, P INT C SEL ARE CRYP, V7707, P339, DOI 10. 1007/978- 3- 642-35999-6
+   Suzaki T, 2010, LECT NOTES COMPUT SC, V6147, P19, DOI 10.1007/978-3-642-13858-4_2
+   Wu WL, 2011, LECT NOTES COMPUT SC, V6715, P327, DOI 10.1007/978-3-642-21554-4_19
+   ZHENG Y, 1990, LECT NOTES COMPUT SC, V435, P461
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 412
+EP 440
+DI 10.46586/tosc.v2024.i1.412-440
+PG 29
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500010
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Takeuchi, R
+   Todo, Y
+   Iwata, T
+AF Takeuchi, Ryunouchi
+   Todo, Yosuke
+   Iwata, Tetsu
+TI Key Recovery, Universal Forgery, and Committing Attacks against Revised
+   Rocca: How Finalization Affects Security
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Rocca key recovery universal forgery committing attacks
+AB This paper examines the security of Rocca, an authenticated encryption algorithm designed for Beyond 5G/6G contexts. Rocca has been revised multiple times in the initialization and finalization for security reasons. In this paper, we study how the choice of the finalization affects the overall security of Rocca, covering key recovery, universal forgery, and committing attacks. We show a key -recovery attack faster than the exhaustive key search if a linear key mixing is used in the finalization. We also consider the ideally secure keyed finalization, which prevents key -recovery attacks. We show that, in the nonce -misuse setting, this does not prevent universal forgery with a practical data complexity, although the time complexity is high. Our result on committing attacks shows that none of the versions of Rocca considered in this paper is secure. We complete our analysis by presenting a concrete example of colliding inputs against the designers' latest version of Rocca in the FROB setting, a strong notion of the committing security. Our analysis significantly improves the key committing attack against Rocca shown in ToSC 2024(1)/FSE 2024.
+C1 [Takeuchi, Ryunouchi; Iwata, Tetsu] Nagoya Univ, Nagoya, Aichi, Japan.
+   [Todo, Yosuke] NTT Social Informat Labs, Musashino, Japan.
+C3 Nagoya University
+RP Takeuchi, R (corresponding author), Nagoya Univ, Nagoya, Aichi, Japan.
+EM takeuchi.ryunosuke.u2@s.mail.nagoya-u.ac.jp; yosuke.todo@ntt.com;
+   tetsu.iwata@nagoya-u.jp
+FU JSPS KAKENHI [JP24K07489]
+FX We would like to thank the anonymous reviewers for their valuable
+   comments and sugges-tions, especially for pointing out the generic
+   universal forgery discussed in Sect. 4.3.1. We also would like to thank
+   the designers of Rocca for their feedback on the preliminary draft of
+   the paper, and the authors of [DFI + 24] for comments. This work was
+   supported in part by JSPS KAKENHI Grant Number JP24K07489.
+CR Advanced Encryption Standard (AES), 2001, NIST FIPS PUB 197
+   Albertini A, 2022, PROCEEDINGS OF THE 31ST USENIX SECURITY SYMPOSIUM, P3291
+   Anand R, 2024, LECT NOTES COMPUT SC, V14344, P229, DOI 10.1007/978-3-031-50594-2_12
+   Anand R, 2023, QUANTUM INF PROCESS, V22, DOI 10.1007/s11128-023-03908-3
+   Anand R, 2022, LECT NOTES COMPUT SC, V13218, P283, DOI 10.1007/978-3-031-08896-4_14
+   Ashur T, 2017, LECT NOTES COMPUT SC, V10403, P3, DOI 10.1007/978-3-319-63697-9_1
+   Bellare M, 2022, LECT NOTES COMPUT SC, V13276, P845, DOI 10.1007/978-3-031-07085-3_29
+   Bock Hanno, 2016, 10 USENIX WORKSH OFF
+   Bonnetain Xavier, 2023, IACR Cryptol. ePrint Arch., V2023
+   CAESAR, Competition for Authenticated Encryption: Security, Applicability, and Robustness
+   Chan J, 2022, LECT NOTES COMPUT SC, V13555, P275, DOI 10.1007/978-3-031-17146-8_14
+   Derbez P, 2024, IACR T SYMMETRIC CRY, V2024, P135, DOI 10.46586/tosc.v2024.i1.135-157
+   Dodis Y, 2018, LECT NOTES COMPUT SC, V10991, P155, DOI 10.1007/978-3-319-96884-1_6
+   Farshim P, 2017, IACR T SYMMETRIC CRY, V2017, P449, DOI 10.13154/tosc.v2017.i1.449-473
+   Grubbs P, 2017, LECT NOTES COMPUT SC, V10403, P66, DOI 10.1007/978-3-319-63697-9_3
+   Gueron S., 2010, Intel™advanced encryption standard (aes) new instructions set
+   Gueron S, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P109, DOI 10.1145/2810103.2813613
+   Hosoyamada A, 2022, IACR T SYMMETRIC CRY, V2022, P123, DOI 10.46586/tosc.v2022.i3.123-151
+   Jean J, 2016, LECT NOTES COMPUT SC, V9783, P334, DOI 10.1007/978-3-662-52993-5_17
+   Joux Antoine, 2006, Public comment to NIST
+   Len J, 2021, PROCEEDINGS OF THE 30TH USENIX SECURITY SYMPOSIUM, P195
+   McGrew DA, 2004, LECT NOTES COMPUT SC, V3348, P343
+   Menda Sanketh, 2023, Lecture Notes in Computer Science, V14007, P379
+   Nikolic Ivica, 2014, Tiaoxin-346: Version 2.0
+   Peyrin T, 2016, LECT NOTES COMPUT SC, V9814, P33, DOI 10.1007/978-3-662-53018-4_2
+   Rupprecht D, 2020, PROCEEDINGS OF THE 29TH USENIX SECURITY SYMPOSIUM, P73
+   Sakamoto K, 2021, IACR T SYMMETRIC CRY, V2021, P1, DOI 10.46586/tosc.v2021.i2.1-30
+   Sakamoto Kosei, 2022, IACR Cryptol. ePrint Arch., 2022/116
+   Shiraya T, 2023, IET INFORM SECUR, V17, P458, DOI 10.1049/ise2.12109
+   Takeuchi N, 2023, IEICE T FUND ELECTR, VE106A, P253, DOI 10.1587/transfun.2022CIP0013
+   Takeuchi N, 2023, IEICE T FUND ELECTR, VE106A, P45, DOI 10.1587/transfun.2021EAP1158
+   Takeuchi Ryunosuke, 2023, Private Communication
+   Vanhoef M, 2017, CCS'17: PROCEEDINGS OF THE 2017 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P1313, DOI 10.1145/3133956.3134027
+   Wu HJ, 2014, LECT NOTES COMPUT SC, V8282, P185, DOI 10.1007/978-3-662-43414-7_10
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 85
+EP 117
+DI 10.46586/tosc.v2024.i2.85-117
+PG 33
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800004
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Choi, W
+   Lee, J
+   Lee, Y
+AF Choi, Wonseok
+   Lee, Jooyoung
+   Lee, Yeongmin
+TI Building PRFs from TPRPs: Beyond the Block and the Tweak Length Bounds
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Mirror theory; pseudorandom function; tweakable block cipher; sum of
+   permutations
+ID SECURITY; BLOCKCIPHERS
+AB A secure n -bit tweakable block cipher (TBC) using t -bit tweaks can be modeled as a tweakable uniform random permutation, where each tweak defines an independent random n -bit permutation. When an input to this tweakable permutation is fixed, it can be viewed as a perfectly secure t -bit random function. On the other hand, when a tweak is fixed, it can be viewed as a perfectly secure n -bit random permutation, and it is well known that the sum of two random permutations is pseudorandom up to 2(n) queries. A natural question is whether one can construct a pseudorandom function (PRF) beyond the block and the tweak length bounds using a small number of calls to the underlying tweakable permutations. A straightforward way of constructing a PRF from tweakable permutations is to xor the outputs from two tweakable permutations with c bits of the input to each permutation fixed. Using the multi-user security of the sum of two permutations, one can prove that the (t + n - c) -to -n bit PRF is secure up to 2(n+c )queries. In this paper, we propose a family of PRF constructions based on tweakable permutations, dubbed XoTPc, achieving stronger security than the straightforward construction. XoTPc is parameterized by c, giving a (t + n - c) -to -n bit PRF. When t < 3n and c = t/3, XoTP 3t becomes an (n + 2t/3) -to -n bit pseudorandom function, which is secure up to 2n+2t/3 queries. It provides security beyond the block and the tweak length bounds, making two calls to the underlying tweakable permutations. In order to prove the security of XoTPc, we extend Mirror theory to q >> 2(n), where q is the number of equations. From a practical point of view, our construction can be used to construct TBC-based MAC finalization functions and CTR-type encryption modes with stronger provable security compared to existing schemes.
+C1 [Choi, Wonseok] Purdue Univ, W Lafayette, IN 47907 USA.
+   [Lee, Jooyoung; Lee, Yeongmin] Korea Adv Inst Sci & Technol KAIST, Daejeon, South Korea.
+C3 Purdue University System; Purdue University; Korea Advanced Institute of
+   Science & Technology (KAIST)
+RP Choi, W (corresponding author), Purdue Univ, W Lafayette, IN 47907 USA.
+EM wonseok@purdue.edu; hicalf@kaist.ac.kr; dudals4780@kaist.ac.kr
+FU National Research Foundation of Korea (NRF) - Korea government (MSIT)
+   [RS-2023-00239620]; Institute for Information & communications
+   Technology Planning&Evaluation (IITP) - Korea government (MSIT)
+   [2022-0-01202]
+FX Wonseok Choi was supported in part by the National Research Foundation
+   of Korea (NRF) grant funded by the Korea government (MSIT)
+   (No.RS-2023-00239620) , by AnalytiXIN, and by Sunday Group. Jooyoung Lee
+   was supported by Institute for Information & communications Technology
+   Planning & Evaluation (IITP) grant funded by the Korea government (MSIT)
+   (No.2022-0-01202, Regional strategic industry convergence security core
+   talent training business) . We would like to express our appreciation to
+   the anonymous reviewers for their valuable feedback and insightful
+   suggestions.
+CR Beierle C, 2016, LECT NOTES COMPUT SC, V9815, P123, DOI 10.1007/978-3-662-53008-5_5
+   Bellare M, 1998, LECT NOTES COMPUT SC, V1403, P266, DOI 10.1007/BFb0054132
+   Bellare M., 1999, Report 1999/024, P24
+   Bhattacharya S, 2021, LECT NOTES COMPUT SC, V13092, P345, DOI 10.1007/978-3-030-92078-4_12
+   Bhattacharya S, 2018, LECT NOTES COMPUT SC, V10820, P387, DOI 10.1007/978-3-319-78381-9_15
+   Chen Yu Long, 2023, Advances in Cryptology - CRYPTO 2023: 43rd Annual International Cryptology Conference, CRYPTO 2023, Proceedings. Lecture Notes in Computer Science (14082), P694, DOI 10.1007/978-3-031-38545-2_23
+   Choi W, 2022, LECT NOTES COMPUT SC, V13792, P682, DOI 10.1007/978-3-031-22966-4_23
+   Choi W, 2019, LECT NOTES COMPUT SC, V11921, P175, DOI 10.1007/978-3-030-34578-5_7
+   Choi Wonseok, 2023, Paper 2023/1704
+   Cogliati Benoit, 2023, Advances in Cryptology - EUROCRYPT 2023: 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Proceedings. Lecture Notes in Computer Science (14007), P470, DOI 10.1007/978-3-031-30634-1_16
+   Cogliati B, 2017, IACR T SYMMETRIC CRY, V2017, P27, DOI 10.13154/tosc.v2017.i2.27-58
+   Cogliati B, 2015, LECT NOTES COMPUT SC, V9215, P189, DOI 10.1007/978-3-662-47989-6_9
+   Cogliati Benoit, 2020, Report 2020/734
+   Crowley Paul, 2000, LNCS, V1978, P49
+   Dai W, 2017, LECT NOTES COMPUT SC, V10403, P497, DOI 10.1007/978-3-319-63697-9_17
+   Datta N, 2018, LECT NOTES COMPUT SC, V10991, P631, DOI 10.1007/978-3-319-96884-1_21
+   Dutta A, 2019, LECT NOTES COMPUT SC, V11476, P437, DOI 10.1007/978-3-030-17653-2_15
+   Dutta Avijit, 2022, IEEE Transactions on Information Theory, P1
+   Ferguson Niels, 2010, Submission to NIST (round 3)
+   Gilboa S, 2018, J CRYPTOL, V31, P162, DOI 10.1007/s00145-017-9253-0
+   Gunsing A, 2020, LECT NOTES COMPUT SC, V12170, P187, DOI 10.1007/978-3-030-56784-2_7
+   Hall C, 1998, LECT NOTES COMPUT SC, V1462, P370, DOI 10.1007/BFb0055742
+   Iwata T, 2006, LECT NOTES COMPUT SC, V4047, P310
+   Iwata T, 2017, LECT NOTES COMPUT SC, V10403, P34, DOI 10.1007/978-3-319-63697-9_2
+   Jean J., 2016, Deoxys v1. 41
+   Jean J, 2014, LECT NOTES COMPUT SC, V8874, P274, DOI 10.1007/978-3-662-45608-8_15
+   Jha A, 2020, J CRYPTOL, V33, P1272, DOI 10.1007/s00145-020-09347-y
+   Kim S, 2020, LECT NOTES COMPUT SC, V12105, P435, DOI 10.1007/978-3-030-45721-1_16
+   Landecker W, 2012, LECT NOTES COMPUT SC, V7417, P14
+   Lee J, 2017, IEEE T INFORM THEORY, V63, P4050, DOI 10.1109/TIT.2017.2679757
+   Liskov M, 2002, LECT NOTES COMPUT SC, V2442, P31
+   Mennink B, 2017, LECT NOTES COMPUT SC, V10403, P556, DOI 10.1007/978-3-319-63697-9_19
+   Mennink B, 2016, LECT NOTES COMPUT SC, V9814, P64, DOI 10.1007/978-3-662-53018-4_3
+   Naito Y, 2017, IACR T SYMMETRIC CRY, V2017, P1, DOI 10.13154/tosc.v2017.i2.1-26
+   Naito Y, 2015, LECT NOTES COMPUT SC, V9451, P167, DOI 10.1007/978-3-319-26059-4_9
+   Nandi M, 2020, LECT NOTES COMPUT SC, V12105, P203, DOI 10.1007/978-3-030-45721-1_8
+   Patarin J., 2010, IACR CRYPTOL EPRINT, V2010, P287
+   Patarin J, 2008, LECT NOTES COMPUT SC, V5155, P232
+   Patarin Jacques, 2010, Report 2010/287
+   Schroeppel Rich, 1998, NIST
+   Shen YB, 2020, IACR T SYMMETRIC CRY, V2020, P425, DOI 10.13154/tosc.v2020.i1.425-457
+   Hoang VT, 2020, CCS '20: PROCEEDINGS OF THE 2020 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P243, DOI 10.1145/3372297.3417273
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 35
+EP 70
+DI 10.46586/tosc.v2024.i1.35-70
+PG 36
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500004
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Bonnetain, X
+   Cordero, M
+   Lallemand, V
+   Minier, M
+   Naya-Plasencia, M
+AF Bonnetain, Xavier
+   Cordero, Margarita
+   Lallemand, Virginie
+   Minier, Marine
+   Naya-Plasencia, Maria
+TI On Impossible Boomerang Attacks Application to Simon and SKINNYee
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Cryptanalysis; Impossible boomerang attack; Simon; SKINNYee
+ID RECTANGLE ATTACKS; CRYPTANALYSIS
+AB The impossible boomerang attack, introduced in 2008 by Jiqiang Lu, is an extension of the impossible differential attack that relies on a boomerang distinguisher of probability 0 for discarding incorrect key guesses. In Lu's work, the considered impossible boomerang distinguishers were built from 4 (different) probability -1 differentials that lead to 4 differences that do not sum to 0 in the middle, in a miss -in -the -middle way. In this article, we study the possibility of extending this notion by looking at finerlevel contradictions that derive from boomerang switch constraints. We start by discussing the case of quadratic Feistel ciphers and in particular of the SIMON ciphers. We exploit their very specific boomerang constraints to enforce a contradiction that creates a new type of impossible boomerang distinguisher that we search with an SMT solver. We next switch to word -oriented ciphers and study how to leverage the Boomerang Connectivity Table contradictions. We apply this idea to SKINNY ee, a recent tweakable block cipher proposed at Crypto 2022 and obtain a 21 -round distinguisher. After detailing the process and the complexities of an impossible boomerang attack in the single (twea)key and related (twea)key model, we extend our distinguishers into attacks and present a 23 -round impossible boomerang attack on SIMON -32/64 (out of 32 rounds) and a 29 -round impossible boomerang attack on SKINNY ee (out of 56 rounds). To the best of our knowledge our analysis covers two more rounds than the (so far, only) other third -party analysis of SKINNY ee that has been published to date.
+C1 [Bonnetain, Xavier; Cordero, Margarita; Lallemand, Virginie; Minier, Marine] Univ Lorraine, CNRS, Inria, LORIA, Nancy, France.
+   [Naya-Plasencia, Maria] Inria, Paris, France.
+C3 Universite de Lorraine; Inria; Centre National de la Recherche
+   Scientifique (CNRS); Inria
+RP Bonnetain, X (corresponding author), Univ Lorraine, CNRS, Inria, LORIA, Nancy, France.
+EM xavier.bonnetain@loria.fr; margarita.cordero@loria.fr;
+   virginie.lallemand@loria.fr; marine.minier@loria.fr;
+   maria.naya_plasencia@inria.fr
+FU French Agence Nationale de la Recherche through the OREO project
+   [ANR-22-CE39-0015]; France 2030 program [ANR-22-PECY-0010]; European
+   Union [101125450]
+FX The authors would like to thank the anonymous ToSC reviewers and Fukang
+   Liu for their valuable comments. This work has been partially supported
+   by the French Agence Nationale de la Recherche through the OREO project
+   under Contract ANR-22-CE39-0015, through the France 2030 program under
+   grant agreement No. ANR-22-PECY-0010 CRYPTANALYSE and it has been
+   partially funded by the European Union (ERC-2023-COG, SoBaSyC,
+   101125450) . Views and opinions expressed are however those of the
+   author (s) only and do not necessarily reflect those of the European
+   Union or the European Research Council Executive Agency. Neither the
+   European Union nor the granting authority can be held responsible for
+   them.
+CR Ashur T, 2016, IACR T SYMMETRIC CRY, V2016, P57, DOI 10.13154/tosc.v2016.i1.57-70
+   Bariant A., 2023, Lecture Notes in Computer Science, V14007, P3
+   Beaulieu R., 2015, Cryptol. ePrint Arch, V2015, P585
+   Beierle C, 2016, LECT NOTES COMPUT SC, V9815, P123, DOI 10.1007/978-3-662-53008-5_5
+   Biham E, 2005, LECT NOTES COMPUT SC, V3494, P507
+   Biham E, 1999, LECT NOTES COMPUT SC, V1636, P124
+   Biham E, 1999, LECT NOTES COMPUT SC, V1592, P12
+   Biryukov A, 2009, LECT NOTES COMPUT SC, V5912, P1, DOI 10.1007/978-3-642-10366-7_1
+   Bonnetain X, 2023, IACR T SYMMETRIC CRY, V2023, P101, DOI 10.46586/tosc.v2023.i3.101-145
+   Boukerrou Hamid, 2020, IACR Trans. Symm. Cryptol., P331
+   Boura C, 2018, J CRYPTOL, V31, P101, DOI 10.1007/s00145-016-9251-7
+   Boura C, 2014, LECT NOTES COMPUT SC, V8873, P179, DOI 10.1007/978-3-662-45611-8_10
+   Chakraborti A, 2020, IACR T SYMMETRIC CRY, V2020, P350, DOI 10.13154/tosc.v2020.iS1.350-389
+   Chen HF, 2016, LECT NOTES COMPUT SC, V9783, P428, DOI 10.1007/978-3-662-52993-5_22
+   Chu ZH, 2018, SECUR COMMUN NETW, DOI 10.1155/2018/5160237
+   Cid C, 2018, LECT NOTES COMPUT SC, V10821, P683, DOI 10.1007/978-3-319-78375-8_22
+   Delaune S, 2020, IACR T SYMMETRIC CRY, V2020, P104, DOI 10.46586/tosc.v2020.i4.104-129
+   Dunkelman O, 2014, J CRYPTOL, V27, P824, DOI 10.1007/s00145-013-9154-9
+   Dunkelman O, 2010, LECT NOTES COMPUT SC, V6223, P393, DOI 10.1007/978-3-642-14623-7_21
+   Hadipour H., 2023, LNCS, P128
+   Hadipour H, 2021, IACR T SYMMETRIC CRY, V2021, P140, DOI 10.46586/tosc.v2021.i2.140-198
+   Hong S, 2005, LECT NOTES COMPUT SC, V3557, P368
+   Jean J., 2016, TikZ for Cryptographers
+   Kircanski Aleksandar, 2015, Applied Cryptography and Network Security. 13th International Conference, ACNS 2015. RevisedSelected Papers: LNCS 9092, P331, DOI 10.1007/978-3-319-28166-7_16
+   Knudsen Lars., 1998, complexity, V258, P216
+   Leurent G, 2021, LECT NOTES COMPUT SC, V13090, P272, DOI 10.1007/978-3-030-92062-3_10
+   Ling Sun, 2020, IACR Trans. Symm. Cryptol., V2020, P262
+   Lu JQ, 2011, DESIGN CODE CRYPTOGR, V60, P123, DOI 10.1007/s10623-010-9421-9
+   Lu JQ, 2008, LECT NOTES COMPUT SC, V5365, P279
+   Lu Jiqiang, 2008, PhD thesis
+   Mala H, 2010, LECT NOTES COMPUT SC, V6498, P282, DOI 10.1007/978-3-642-17401-8_20
+   Murphy S, 2011, IEEE T INFORM THEORY, V57, P2517, DOI 10.1109/TIT.2011.2111091
+   Naito Y, 2022, LECT NOTES COMPUT SC, V13509, P315, DOI 10.1007/978-3-031-15982-4_11
+   Nethercote N, 2007, LECT NOTES COMPUT SC, V4741, P529
+   Peyrin T, 2022, IACR T SYMMETRIC CRY, V2022, P179, DOI 10.46586/tosc.v2022.i4.179-207
+   Qiao Kexin, 2015, Report 2015/902
+   Sasaki Y, 2017, LECT NOTES COMPUT SC, V10212, P185, DOI 10.1007/978-3-319-56617-7_7
+   Song L, 2019, IACR T SYMMETRIC CRY, V2019, P118, DOI 10.13154/tosc.v2019.i1.118-141
+   Wagner D, 1999, LECT NOTES COMPUT SC, V1636, P156
+   Wang DC, 2023, IACR T SYMMETRIC CRY, V2023, P152, DOI 10.46586/tosc.v2023.i1.152-191
+   Wang HY, 2019, IACR T SYMMETRIC CRY, V2019, P142, DOI 10.13154/tosc.v2019.i1.142-169
+   Wang Libo, 2023, IEEE Transactions on Information Theory
+   Wu Baofeng, 2022, Inscrypt 2022, V13837, P213
+   Xichao Hu, 2020, Advances in Cryptology - ASIACRYPT 2020. 26th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings. Lecture Notes in Computer Science (LNCS 12491), P415, DOI 10.1007/978-3-030-64837-4_14
+   Yang QQ, 2022, IACR T SYMMETRIC CRY, V2022, P208, DOI 10.46586/tosc.v2022.i4.208-242
+   Zhao BX, 2020, DESIGN CODE CRYPTOGR, V88, P1103, DOI 10.1007/s10623-020-00730-1
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 222
+EP 253
+DI 10.46586/tosc.v2024.i2.222-253
+PG 32
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800009
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Dong, XY
+   Guo, J
+   Li, S
+   Pham, P
+   Zhang, TY
+AF Dong, Xiaoyang
+   Guo, Jian
+   Li, Shun
+   Pham, Phuong
+   Zhang, Tianyu
+TI Improved Meet-in-the-Middle Nostradamus Attacks on AES-like Hashing
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Hash Function; Meet-in -the -middle Attack; AES-like; Nostradamus Attack
+ID PREIMAGE ATTACKS; QUANTUM; SECURITY
+AB The Nostradamus attack was originally proposed as a security vulnerability for a hash function by Kelsey and Kohno at EUROCRYPT 2006. It requires the attacker to commit to a hash value y of an iterated hash function H. Subsequently, upon being provided with a message prefix P, the adversary's task is to identify a suffix S such that H(P parallel to S) equals y. Kelsey and Kohno demonstrated a herding attack requiring O(root n center dot 22n/3) evaluations of the compression function of H, where n represents the output and state size of the hash, placing this attack between preimage attacks and collision searches in terms of complexity. At ASIACRYPT 2022, Benedikt et al. transform Kelsey and Kohno's attack into a quantum variant, decreasing the time complexity from O(root n center dot 22n/3) to O(3 root n center dot 23n/7). At ToSC 2023, Zhang et al. proposed the first dedicated Nostradamus attack on AES-like hashing in both classical and quantum settings. In this paper, we have made revisions to the multi-target technique incorporated into the meet-in-the-middle automatic search framework. This modification leads to a decrease in time complexity during the online linking phase, effectively reducing the overall attack time complexity in both classical and quantum scenarios. Specifically, we can achieve more rounds in the classical setting and reduce the time complexity for the same round in the quantum setting. Keywords: Hash Function center dot Meet-in-the-middle Attack center dot AES-like center dot Nostradamus
+C1 [Dong, Xiaoyang] Tsinghua Univ, Inst Network Sci & Cyberspace, BNRist, Beijing, Peoples R China.
+   [Guo, Jian; Li, Shun; Pham, Phuong; Zhang, Tianyu] Nanyang Technol Univ, Singapore, Singapore.
+   [Dong, Xiaoyang] State Key Lab Cryptol, POB 5159, Beijing 100878, Peoples R China.
+   [Li, Shun] Univ Chinese Acad Sci, Sch Cryptol, Beijing, Peoples R China.
+   [Dong, Xiaoyang] Zhongguancun Lab, Beijing, Peoples R China.
+   [Dong, Xiaoyang] Shandong Inst Blockchain, Jinan, Peoples R China.
+C3 Tsinghua University; Nanyang Technological University; Chinese Academy
+   of Sciences; University of Chinese Academy of Sciences, CAS;
+   Zhongguancun Laboratory
+RP Li, S (corresponding author), Nanyang Technol Univ, Singapore, Singapore.; Li, S (corresponding author), Univ Chinese Acad Sci, Sch Cryptol, Beijing, Peoples R China.
+EM xiaoyangdong@tsinghua.edu.cn; guojian@ntu.edu.sg; lishun@ucas.ac.cn;
+   pham0079@e.ntu.edu.sg; tianyu005@e.ntu.edu.sg
+RI zhang, tianyu/IAP-2927-2023
+OI zhang, tianyu/0000-0003-0372-0049
+FU National Key R&D Program of China [2022YFB2701900, 2022YFB2702804,
+   2018YFA0704701]; Ministry of Education in Singapore [RG93/23]; Natural
+   Science Foundation of China [62272257, 62302250, 62202017]; Shandong Key
+   Research and Development Program [2020ZLYS09]; Major Scientific and
+   Technological Innovation Project of Shandong, China [2019JZZY010133];
+   Major Program of Guangdong Basic and Applied Research [2019B030302008,
+   2022A1515140090]; Key Research Project of Zhejiang Province, China
+   [2023C01025]
+FX We would like to thank Eik List, Shiyao Chen and the anonymous reviewers
+   of ToSC for their valuable comments and suggestions. This research is
+   partially supported by the National Key R & D Program of China (Grants
+   No. 2022YFB2701900) and Ministry of Education in Singapore under Grants
+   RG93/23. Xiaoyang Dong is supported by National Key R & D Program of
+   China (2022YFB2702804, 2018YFA0704701) , the Natural Science Foundation
+   of China (62272257, 62302250, 62202017) , Shandong Key Research and
+   Development Program (2020ZLYS09) , the Major Scientific and
+   Technological Innovation Project of Shandong, China (2019JZZY010133) ,
+   the Major Program of Guangdong Basic and Applied Research
+   (2019B030302008, 2022A1515140090) , Key Research Project of Zhejiang
+   Province, China (2023C01025) .
+CR Andreeva E, 2009, LECT NOTES COMPUT SC, V5867, P393, DOI 10.1007/978-3-642-05445-7_25
+   Arunachalam Srinivasan, 2015, TQC 2015, P226
+   Bao ZZ, 2022, LECT NOTES COMPUT SC, V13787, P687, DOI 10.1007/978-3-031-23020-2_39
+   Bao ZZ, 2022, LECT NOTES COMPUT SC, V13507, P64, DOI 10.1007/978-3-031-15802-5_3
+   Bao ZZ, 2021, LECT NOTES COMPUT SC, V12696, P771, DOI 10.1007/978-3-030-77870-5_27
+   Bao ZZ, 2019, IACR T SYMMETRIC CRY, V2019, P318, DOI 10.13154/tosc.v2019.i4.318-347
+   Barreto P., 2000, P 1 OP NESSIE WORKSH, VVolume 13, P14
+   Benadjila Ryad, 2009, Submission to NIST, P113
+   Benedikt BJ, 2022, LECT NOTES COMPUT SC, V13793, P583, DOI 10.1007/978-3-031-22969-5_20
+   Blackburn Simon R, 2010, Report 2010/030
+   Bonnetain X, 2021, LECT NOTES COMPUT SC, V13090, P422, DOI 10.1007/978-3-030-92062-3_15
+   Bonnetain X, 2019, IACR T SYMMETRIC CRY, V2019, P55, DOI 10.13154/tosc.v2019.i2.55-93
+   Bonnetain X, 2020, LECT NOTES COMPUT SC, V11959, P492, DOI 10.1007/978-3-030-38471-5_20
+   Bonnetain X, 2019, LECT NOTES COMPUT SC, V11921, P552, DOI 10.1007/978-3-030-34578-5_20
+   Brassard Gilles, 2002, Contemporary Mathematics, V305, P53, DOI [10.1090/conm/305/05215, DOI 10.1090/CONM/305/05215]
+   Chailloux Andre, 2017, Advances in Cryptology - ASIACRYPT 2017. 23rd International Conference on the Theory and Applications of Cryptology and Information Security. Proceedings: LNCS 10625, P211, DOI 10.1007/978-3-319-70697-9_8
+   DAMGARD IB, 1990, LECT NOTES COMPUT SC, V435, P416
+   Dong XY, 2021, LECT NOTES COMPUT SC, V12827, P278, DOI 10.1007/978-3-030-84252-9_10
+   Dong XY, 2020, DESIGN CODE CRYPTOGR, V88, P1179, DOI 10.1007/s10623-020-00741-y
+   Dong Xiaoyang, 2023, Paper 2023/1286
+   Gauravaram Praveen., 2009, DAGSTUHL SEMINAR P
+   Giovannetti V, 2008, PHYS REV A, V78, DOI 10.1103/PhysRevA.78.052310
+   Guo J, 2010, LECT NOTES COMPUT SC, V6477, P56, DOI 10.1007/978-3-642-17373-8_4
+   Hosoyamada Akinori, 2017, Advances in Cryptology - ASIACRYPT 2017. 23rd International Conference on the Theory and Applications of Cryptology and Information Security. Proceedings: LNCS 10625, P179, DOI 10.1007/978-3-319-70697-9_7
+   Hosoyamada A, 2021, LECT NOTES COMPUT SC, V12825, P616, DOI 10.1007/978-3-030-84242-0_22
+   Hosoyamada A, 2020, LECT NOTES COMPUT SC, V12106, P249, DOI 10.1007/978-3-030-45724-2_9
+   Hosoyamada A, 2018, LECT NOTES COMPUT SC, V11035, P386, DOI 10.1007/978-3-319-98113-0_21
+   Hosoyamada A, 2018, LECT NOTES COMPUT SC, V10808, P198, DOI 10.1007/978-3-319-76953-0_11
+   Hosoyamada Akinori, 2022, Cryptology ePrint Archive
+   Kaplan M, 2016, IACR T SYMMETRIC CRY, V2016, P71, DOI 10.13154/tosc.v2016.i1.71-94
+   Kaplan M, 2016, LECT NOTES COMPUT SC, V9815, P207, DOI 10.1007/978-3-662-53008-5_8
+   Kelsey J, 2006, LECT NOTES COMPUT SC, V4004, P183
+   Knudsen LR, 2007, LECT NOTES COMPUT SC, V4593, P39
+   Kolbl S, 2016, Cryptology ePrint Archive
+   Kuwakado H, 2012, 2012 INTERNATIONAL SYMPOSIUM ON INFORMATION THEORY AND ITS APPLICATIONS (ISITA 2012), P312
+   Kuwakado H, 2010, IEEE INT SYMP INFO, P2682, DOI 10.1109/ISIT.2010.5513654
+   Leander Gregor, 2017, Advances in Cryptology - ASIACRYPT 2017. 23rd International Conference on the Theory and Applications of Cryptology and Information Security. Proceedings: LNCS 10625, P161, DOI 10.1007/978-3-319-70697-9_6
+   Merkle R. C., 1989, C THEORY APPL CRYPTO, P428
+   Naya-Plasencia M, 2020, LECT NOTES COMPUT SC, V12106, P311, DOI 10.1007/978-3-030-45724-2_11
+   Sasaki Y, 2011, LECT NOTES COMPUT SC, V6733, P378
+   Schrottenloher A, 2022, LECT NOTES COMPUT SC, V13509, P717, DOI 10.1007/978-3-031-15982-4_24
+   Schrottenloher Andre., 2023, Cryptology ePrint Archive
+   SHOR PW, 1994, AN S FDN CO, P124
+   Xiaoyang Dong, 2020, Advances in Cryptology - ASIACRYPT 2020. 26th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings. Lecture Notes in Computer Science (LNCS 12492), P727, DOI 10.1007/978-3-030-64834-3_25
+   Zhang ZY, 2023, IACR T SYMMETRIC CRY, V2023, P224, DOI 10.46586/tosc.v2023.i2.224-252
+NR 45
+TC 0
+Z9 1
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 158
+EP 187
+DI 10.46586/tosc.v2024.i1.158-187
+PG 30
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500003
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Boura, C
+   Minematsu, K
+AF Boura, Christina
+   Minematsu, Kazuhiko
+TI Preface to Volume 2024, Issue 1
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+C1 [Boura, Christina] Univ Versailles, Versailles, France.
+   [Minematsu, Kazuhiko] NEC Corp Ltd, Kawasaki, Japan.
+   [Minematsu, Kazuhiko] Yokohama Natl Univ, Yokohama, Japan.
+C3 Universite Paris Saclay; NEC Corporation; Yokohama National University
+RP Boura, C (corresponding author), Univ Versailles, Versailles, France.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 1
+EP 4
+DI 10.46586/tosc.v2024.i1.1-4
+PG 4
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500015
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Derbez, P
+   Fouque, PA
+   Isobe, T
+   Rahman, M
+   Schrottenloher, A
+AF Derbez, Patrick
+   Fouque, Pierre -Alain
+   Isobe, Takanori
+   Rahman, Mostafizar
+   Schrottenloher, Andre
+TI Key Committing Attacks against AES-based AEAD Schemes
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE AEGIS; Key Commitment; Rocca-S; Rocca; Tiaoxin-346; AEAD
+AB Recently, there has been a surge of interest in the security of authenticated encryption with associated data (AEAD) within the context of key commitment frameworks. Security within this framework ensures that a ciphertext chosen by an adversary does not decrypt to two different sets of key, nonce, and associated data. Despite this increasing interest, the security of several widely deployed AEAD schemes has not been thoroughly examined within this framework. In this work, we assess the key committing security of several AEAD schemes. First, the AEGIS family, which emerged as a winner in the Competition for Authenticated Encryption: Security, Applicability, and Robustness (CAESAR), and has been proposed to standardization at the IETF. A now outdated version of the draft standard suggested that AEGIS could qualify as a fully committing AEAD scheme; we prove that it is not the case by proposing a novel attack applicable to all variants, which has been experimentally verified. We also exhibit a key committing attack on Rocca-S. Our attacks are executed within the FROB game setting, which is known to be one of the most stringent key committing frameworks. This implies that they remain valid in other, more relaxed frameworks, such as CMT-1, CMT-4, and so forth. Finally, we show that applying the same attack techniques to Rocca and Tiaoxin-346 does not compromise their key-committing security. This observation provides valuable insights into the design of such secure round update functions for AES-based AEAD schemes.
+C1 [Derbez, Patrick; Fouque, Pierre -Alain; Schrottenloher, Andre] Univ Rennes, Inst Rech Informat & Syst Aleatoires IRISA, Inria, CNRS, Rennes, France.
+   [Isobe, Takanori; Rahman, Mostafizar] Univ Hyogo, Kobe, Japan.
+C3 Universite de Rennes; Inria; Centre National de la Recherche
+   Scientifique (CNRS); University of Hyogo
+RP Derbez, P (corresponding author), Univ Rennes, Inst Rech Informat & Syst Aleatoires IRISA, Inria, CNRS, Rennes, France.
+EM patrick.derbez@irisa.fr; pierre-alain.fouque@irisa.fr;
+   takanori.isobe@ai.u-hyogo.ac.jp; mrahman454@gmail.com;
+   andre.schrottenloher@inria.fr
+FU Ministry of Internal Affairs and Communications, Japan [JPJ000254];
+   National Institute of Information and Communications Technology (NICT) ,
+   Japan [JPJ012368C05801]; French Agence Nationale de la Recherche
+   [ANR-22-CE39-0015, ANR-22-PECY-0010]
+FX We are grateful to the anonymous reviewers of ToSC and Mustafa
+   Khairallah for their detailed comments and suggestions. This research
+   was in part conducted under a contract of "Research and development on
+   new generation cryptography for secure wireless communication
+   services"among "Research and Development for Expansion of Radio Wave
+   Resources (JPJ000254) ", which was supported by the Ministry of Internal
+   Affairs and Communications, Japan. This result is obtained from the
+   commissioned research (JPJ012368C05801) by the National Institute of
+   Information and Communications Technology (NICT) , Japan. This work has
+   been supported by the French Agence Nationale de la Recherche through
+   the OREO project under Contract ANR-22-CE39-0015, and through the France
+   2030 program under grant agreement ANR-22-PECY-0010.
+CR Albertini A, 2022, PROCEEDINGS OF THE 31ST USENIX SECURITY SYMPOSIUM, P3291
+   Anand Ravi, 2023, Lecture Notes in Computer Science, V14344, P229
+   Bellare M, 2022, LECT NOTES COMPUT SC, V13276, P845, DOI 10.1007/978-3-031-07085-3_29
+   CAESAR, 2019, Competition for authenticated encryption: Security, applicability, and robustness 2014
+   Chan J, 2022, LECT NOTES COMPUT SC, V13555, P275, DOI 10.1007/978-3-031-17146-8_14
+   Daemen J, 2020, Information Security and Cryptography, V2nd
+   Daemen J., 2000, AES CAND C, P343, DOI DOI 10.1007/0-387-23483-7_358
+   Denis Frank, The AEGIS Family of Authenticated Encryption Algorithms
+   Dodis Y, 2018, LECT NOTES COMPUT SC, V10991, P155, DOI 10.1007/978-3-319-96884-1_6
+   Farshim P, 2017, IACR T SYMMETRIC CRY, V2017, P449, DOI 10.13154/tosc.v2017.i1.449-473
+   Grubbs P, 2017, LECT NOTES COMPUT SC, V10403, P66, DOI 10.1007/978-3-319-63697-9_3
+   Kales Daniel, 2017, IACR Cryptol. ePrint Arch., P1137
+   Kolbl Stefan, 2022, Open Questions around Key Committing AEADs
+   Len J, 2021, PROCEEDINGS OF THE 30TH USENIX SECURITY SYMPOSIUM, P195
+   Mattsson John Preuss, 2023, Proposals for Standardization of Encryption Schemes
+   Menda Sanketh, 2023, Lecture Notes in Computer Science, V14007, P379
+   Nakano Yuto, 2023, Encryption algorithm Rocca-S
+   Nakano Yuto, 2023, Rocca-S: IETF Version
+   Nikolic Ivica, 2016, Tiaoxin-346 for the CAESAR Competition
+   Sakamoto K, 2021, IACR T SYMMETRIC CRY, V2021, P1, DOI 10.46586/tosc.v2021.i2.1-30
+   Sakamoto Kosei, 2022, IACR Cryptol. ePrint Arch., P116
+   Takeuchi Ryunosuke, Private Communication
+   Wu HJ, 2014, LECT NOTES COMPUT SC, V8282, P185, DOI 10.1007/978-3-662-43414-7_10
+   Wu Hongjun, 2013, Paper 2013/695
+   Wu Hongjun, 2016, AEGIS: A Fast Authenticated Encryption Algorithm (v1.1)
+NR 25
+TC 1
+Z9 1
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 135
+EP 157
+DI 10.46586/tosc.v2024.i1.135-157
+PG 23
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500002
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, C
+   Tian, T
+AF Liu, Chen
+   Tian, Tian
+TI Dynamic Cube Attacks against Grain-128AEAD
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Dynamic Cube Attacks; Division Property; MILP; Grain-128AEAD; Grain-128
+ID DIVISION PROPERTY
+AB In this paper, we revisit the division property based dynamic cube attack on the full Grain -128 presented by Hao et al. at FSE 2020 and demonstrate that their attack on the full Grain -128 is invalid, that is, no key information could be successfully recovered. The theoretical framework for the dynamic cube attack provided by Hao et al. is correct, but the technique for building the MILP model in the dynamic cube attack has flaws. Besides, strong evidence indicates that their bias estimation method is not applicable to Grain-128AEAD and Grain -128. Accordingly, we introduce the three -subset division property without unknown subset (3SDP/u) into dynamic cube attacks and present a correct MILP modeling technique. In addition, we propose a heuristic technique called Polynomial Approximation with regard to Bias (PAB) to evaluate the bias in superpolies in the dynamic cube attack, which can provide a more accurate bias evaluation for high -dimension cubes. As a result, we implemented the dynamic cube attack based on 3SDP/u on 190 -round Grain-128AEAD, and we could recover 3 key bits with a complexity 2 103 .44 and the success probability was evaluated to be 99.68%. For Grain -128, some zero -sum distinguishers of cube size 80 are given for the first time.
+C1 [Liu, Chen; Tian, Tian] Informat Engn Univ, Zhengzhou 450001, Peoples R China.
+C3 PLA Information Engineering University
+RP Liu, C (corresponding author), Informat Engn Univ, Zhengzhou 450001, Peoples R China.
+EM LC_LiuChen@126.com; tiantian_d@126.com
+CR Agren Martin, 2011, International Journal of Wireless and Mobile Computing, V5, P48, DOI 10.1504/IJWMC.2011.044106
+   Aumasson JP, 2009, LECT NOTES COMPUT SC, V5665, P1, DOI 10.1007/978-3-642-03317-9_1
+   Dinur I, 2011, LECT NOTES COMPUT SC, V6733, P167
+   Dinur I, 2011, LECT NOTES COMPUT SC, V7073, P327, DOI 10.1007/978-3-642-25385-0_18
+   Dinur I, 2009, LECT NOTES COMPUT SC, V5479, P278, DOI 10.1007/978-3-642-01001-9_16
+   Hao YL, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09383-2
+   Hao YL, 2020, LECT NOTES COMPUT SC, V12105, P466, DOI 10.1007/978-3-030-45721-1_17
+   Hao YL, 2020, IACR T SYMMETRIC CRY, V2020, P363, DOI 10.13154/tosc.v2020.i1.363-395
+   Hao YL, 2019, IEEE T COMPUT, V68, P1470, DOI 10.1109/TC.2019.2909871
+   He JH, 2022, LECT NOTES COMPUT SC, V13794, P537, DOI 10.1007/978-3-031-22972-5_19
+   Hu K, 2021, LECT NOTES COMPUT SC, V13090, P392, DOI 10.1007/978-3-030-92062-3_14
+   Rahimi M, 2016, IET INFORM SECUR, V10, P165, DOI 10.1049/iet-ifs.2014.0239
+   Robert Hogg V., 2013, Probability and statistical inference, Vninth
+   Sun Y, 2021, IACR T SYMMETRIC CRY, V2021, P100, DOI 10.46586/tosc.v2021.i4.100-123
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 190
+EP 221
+DI 10.46586/tosc.v2024.i2.190-221
+PG 32
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800008
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Xu, ZC
+   Xu, H
+   Tan, L
+   Qi, WF
+AF Xu, Zhichao
+   Xu, Hong
+   Tan, Lin
+   Qi, Wenfeng
+TI Differential-Linear Cryptanalysis of Reduced Round ChaCha
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE ChaCha; Differential-linear cryptanalysis; Probabilistic Neutral
+   Bits(PNBs)
+ID SALSA
+AB ChaCha is a well-known stream cipher that has been used in many network protocols and software. In this paper, we study the security of reduced round ChaCha. First, by considering the differential-linear hull effect, we improve the correlation of a four-round differential-linear distinguisher proposed at FSE 2023 by providing other intermediate linear masks. Then, based on the four-round differential-linear distinguisher and the PNB method, by using the assignment 100 <middle dot> <middle dot> <middle dot> 00 for consecutive PNBs, higher backward correlation is obtained and improved key recovery attacks of 7-round and 7.25-round ChaCha are obtained with time complexity 2 189 .7 and 2 223 .9 , which improve the previously best-known attacks by 2 17 .1 and 2 14 .44 , respectively. Finally, we consider the equivalence of the security between ( R + 0 . 25)-round and ( R + 0 . 5) circle plus -round ChaCha, and show that ( R + 0 . 25)-round and ( R + 0 . 5) circle plus -round ChaCha provide the same security against chosen(known) plaintext attacks. As a result, improved differential-linear cryptanalysis of 7 . 5 circle plus -round ChaCha can also be obtained similarly to that of 7.25-round ChaCha, which improves the previously best-known attack by 2 19 .
+C1 [Xu, Zhichao; Xu, Hong; Tan, Lin; Qi, Wenfeng] Informat Engn Univ, Zhengzhou, Peoples R China.
+C3 PLA Information Engineering University
+RP Xu, H (corresponding author), Informat Engn Univ, Zhengzhou, Peoples R China.
+EM xuzhichao4484@163.com; xuhong0504@163.com; tanlin100@163.com;
+   wenfeng.qi@263.net
+RI xu, zhichao/HSF-9683-2023
+FU National Natural Science Foundation of China [62202494, 62372464]
+FX We thank the anonymous reviewers for their careful reading of our paper
+   and helpful comments. This work is supported by the National Natural
+   Science Foundation of China (Grant Numbers 62202494 and 62372464).
+CR Aumasson JP, 2008, LECT NOTES COMPUT SC, V5086, P470
+   Bar-On A, 2019, LECT NOTES COMPUT SC, V11476, P313, DOI 10.1007/978-3-030-17653-2_11
+   Beaulieu R, 2015, DES AUT CON, DOI 10.1145/2744769.2747946
+   Beierle Christof, 2020, Advances in Cryptology - CRYPTO 2020. 40th Annual International Cryptology Conference, CRYPTO 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12172), P329, DOI 10.1007/978-3-030-56877-1_12
+   Beierle C, 2022, J CRYPTOL, V35, DOI 10.1007/s00145-022-09437-z
+   Bellini E, 2023, IACR T SYMMETRIC CRY, V2023, P189, DOI 10.46586/tosc.v2023.i2.189-223
+   Bernstein Daniel J, 2008, Tech. Rep.
+   Bernstein Daniel J, 2005, Technical Report 2005/025
+   BIHAM E, 1991, LECT NOTES COMPUT SC, V537, P2
+   Biham E, 2002, LECT NOTES COMPUT SC, V2501, P254
+   Biham E, 2014, LECT NOTES COMPUT SC, V8781, P59, DOI 10.1007/978-3-319-13051-4_4
+   Blondeau C, 2017, J CRYPTOL, V30, P859, DOI 10.1007/s00145-016-9237-5
+   Choudhuri AR, 2016, IACR T SYMMETRIC CRY, V2016, P261, DOI 10.13154/tosc.v2016.i2.261-287
+   Coutinho CN20 Murilo, 2020, IACR Cryptol. ePrint Arch., P350
+   Coutinho M, 2021, LECT NOTES COMPUT SC, V12696, P711, DOI 10.1007/978-3-030-77870-5_25
+   Dey S, 2023, IEEE T INFORM THEORY, V69, P5318, DOI 10.1109/TIT.2023.3269790
+   Dey S, 2023, IACR T SYMMETRIC CRY, V2023, P89, DOI 10.46586/tosc.v2023.i1.89-110
+   Dey S, 2022, IEEE T INFORM THEORY, V68, P6114, DOI 10.1109/TIT.2022.3171865
+   Dey S, 2022, LECT NOTES COMPUT SC, V13277, P86, DOI 10.1007/978-3-031-07082-2_4
+   Dey S, 2020, DESIGN CODE CRYPTOGR, V88, P1827, DOI 10.1007/s10623-020-00736-9
+   Dey S, 2017, DISCRETE APPL MATH, V227, P58, DOI 10.1016/j.dam.2017.04.034
+   Dinu D, 2016, LECT NOTES COMPUT SC, V10031, P484, DOI 10.1007/978-3-662-53887-6_18
+   Hong D, 2006, LECT NOTES COMPUT SC, V4249, P46, DOI 10.1007/11894063_4
+   Huang T, 2015, LECT NOTES COMPUT SC, V9054, P243, DOI 10.1007/978-3-662-48116-5_12
+   ianix, Cha Chacha Usage & Deployment
+   Langford S. K., 1994, Advances in Cryptology - CRYPTO '94. 14th Annual International Cryptology Conference. Proceedings, P17
+   Leurent G, 2016, LECT NOTES COMPUT SC, V9665, P344, DOI 10.1007/978-3-662-49890-3_14
+   Liu YW, 2023, J CRYPTOL, V36, DOI 10.1007/s00145-022-09440-4
+   Liu YW, 2021, LECT NOTES COMPUT SC, V12696, P741, DOI 10.1007/978-3-030-77870-5_26
+   Liu YW, 2016, LECT NOTES COMPUT SC, V9696, P485, DOI 10.1007/978-3-319-39555-5_26
+   Lu JQ, 2012, LECT NOTES COMPUT SC, V7549, P69, DOI 10.1007/978-3-642-34047-5_5
+   Maitra S, 2016, DISCRETE APPL MATH, V208, P88, DOI 10.1016/j.dam.2016.02.020
+   Matsui Mitsuru, 1993, Workshop on the Theory and Application of of Cryptographic Techniques, P386, DOI DOI 10.1007/3-540-48285-7
+   Miyashita S, 2022, LECT NOTES COMPUT SC, V13494, P46, DOI 10.1007/978-3-031-22301-3_3
+   Mouha N, 2014, LECT NOTES COMPUT SC, V8781, P306, DOI 10.1007/978-3-319-13051-4_19
+   Niu ZF, 2022, LECT NOTES COMPUT SC, V13507, P3, DOI 10.1007/978-3-031-15802-5_1
+   Schulte-Geers E, 2013, DESIGN CODE CRYPTOGR, V66, P111, DOI 10.1007/s10623-012-9668-4
+   Sinz C, 2005, LECT NOTES COMPUT SC, V3709, P827, DOI 10.1007/11564751_73
+   Soos M, 2009, LECT NOTES COMPUT SC, V5584, P244, DOI 10.1007/978-3-642-02777-2_24
+   Su L, 2021, IACR T SYMMETRIC CRY, V2021, P269, DOI 10.46586/tosc.v2021.i1.269-315
+   Wang Shichang, 2023, Advances in Cryptology - CRYPTO 2023: 43rd Annual International Cryptology Conference, CRYPTO 2023, 2023, Proceedings. Lecture Notes in Computer Science (14083), P273, DOI 10.1007/978-3-031-38548-3_10
+   Zhenqing Shi, 2013, Information Security and Cryptology - ICISC 2012. 15th International Conference. Revised Selected Papers, P337, DOI 10.1007/978-3-642-37682-5_24
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 166
+EP 189
+DI 10.46586/tosc.v2024.i2.166-189
+PG 24
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800007
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Lefevre, C
+   Mennink, B
+AF Lefevre, Charlotte
+   Mennink, Bart
+TI Permutation-Based Hashing Beyond the Birthday Bound
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE double block length hashing; permutation-based hashing; sponge;
+   lightweight cryptography; beyond birthday bound
+ID AUTHENTICATED ENCRYPTION; SECURITY; INDIFFERENTIABILITY; COLLISION;
+   FAMILY; KEY; DM
+AB It is known that the sponge construction is tightly indifferentiable from a random oracle up to around 2(c/2) queries, where c is the capacity. In particular, it cannot provide generic security better than half of the underlying permutation size. In this paper, we aim to achieve hash function security beating this barrier. We present a hashing mode based on two b-bit permutations named the double sponge. The double sponge can be seen as the sponge embedded within the double block length hashing paradigm, making two permutation calls in parallel interleaved with an efficient mixing function. Similarly to the sponge, the permutation size is split as b = r + c, and the underlying compression function absorbs r bits at a time. We prove that the double sponge is indifferentiable from a random oracle up to around 2(2c/3) queries. This means that the double sponge achieves security beyond the birthday bound in the capacity. In addition, if c > 3b/4, the double sponge beats the birthday bound in the primitive size, to our knowledge being the first hashing mode based on a permutation that accomplices this feature. lightweight cryptography center dot beyond birthday bound
+C1 [Lefevre, Charlotte; Mennink, Bart] Radboud Univ Nijmegen, Digital Secur Grp, Nijmegen, Netherlands.
+C3 Radboud University Nijmegen
+RP Lefevre, C (corresponding author), Radboud Univ Nijmegen, Digital Secur Grp, Nijmegen, Netherlands.
+EM charlotte.lefevre@ru.nl; b.mennink@cs.ru.nl
+FU Netherlands Organisation for Scientific Research (NWO) [VI.Vidi.203.099]
+FX We would like to thank the anonymous reviewers for their valuable
+   comments. Charlotte Lefevre is supported by the Netherlands Organisation
+   for Scientific Research (NWO) under grant OCENW.KLEIN.435. Bart Mennink
+   is supported by the Netherlands Organisation for Scientific Research
+   (NWO) under grant VI.Vidi.203.099.
+CR Andreeva E, 2015, LECT NOTES COMPUT SC, V9054, P364, DOI 10.1007/978-3-662-48116-5_18
+   Andreeva E, 2012, INT J INF SECUR, V11, P149, DOI 10.1007/s10207-012-0157-6
+   Andreeva E, 2010, LECT NOTES COMPUT SC, V6280, P88, DOI 10.1007/978-3-642-15317-4_7
+   Armknecht F, 2011, LECT NOTES COMPUT SC, V7073, P233, DOI 10.1007/978-3-642-25385-0_13
+   Bellare Mihir, 1993, P 1 ACM C COMP COMM, P62, DOI DOI 10.1145/168588.168596
+   Bertoni G., 2011, Revised Selected Papers, P320, DOI DOI 10.1007/978-3-642-28496-019
+   Bertoni G, 2008, LECT NOTES COMPUT SC, V4965, P181
+   Bertoni Guido., 2007, ECRYPT HASH WORKSHOP
+   Bertoni Guido, 2011, THE KECCAK REFERENCE
+   Beyne T, 2020, IACR T SYMMETRIC CRY, V2020, P5, DOI 10.13154/tosc.v2020.iS1.5-30
+   Bhattacharya S, 2018, CRYPTOGR COMMUN, V10, P935, DOI 10.1007/s12095-017-0276-z
+   Bhattacharyya R, 2010, LECT NOTES COMPUT SC, V6147, P168, DOI 10.1007/978-3-642-13858-4_10
+   Bogdanov A, 2011, LECT NOTES COMPUT SC, V6917, P312, DOI 10.1007/978-3-642-23951-9_21
+   Chakraborty B, 2020, IACR T SYMMETRIC CRY, V2020, P93, DOI 10.13154/tosc.v2020.i2.93-119
+   Chang Donghoon, 2012, NIST SHA 3 WORKSHOP
+   Coron JS, 2005, LECT NOTES COMPUT SC, V3621, P430
+   Daemen Joan, 2017, Advances in Cryptology - ASIACRYPT 2017. 23rd International Conference on the Theory and Applications of Cryptology and Information Security. Proceedings: LNCS 10625, P606, DOI 10.1007/978-3-319-70697-9_21
+   Dai W, 2017, LECT NOTES COMPUT SC, V10403, P497, DOI 10.1007/978-3-319-63697-9_17
+   Dobraunig Christoph, 2022, CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, P859, DOI 10.1145/3548606.3560635
+   Dobraunig C, 2019, LECT NOTES COMPUT SC, V11923, P225, DOI 10.1007/978-3-030-34618-8_8
+   Fleischmann E, 2009, LECT NOTES COMPUT SC, V5921, P153, DOI 10.1007/978-3-642-10868-6_10
+   Gauravaram Praveen, 2011, Grostl-a SHA-3 candidate
+   Gazi P, 2015, LECT NOTES COMPUT SC, V9215, P368, DOI 10.1007/978-3-662-47989-6_18
+   Guo C, 2022, IET INFORM SECUR, V16, P262, DOI 10.1049/ise2.12058
+   Guo J, 2011, LECT NOTES COMPUT SC, V6841, P222, DOI 10.1007/978-3-642-22792-9_13
+   Hirose S, 2004, LECT NOTES COMPUT SC, V3506, P330
+   Hirose S, 2006, LECT NOTES COMPUT SC, V4047, P210
+   Iwata T, 2020, IACR T SYMMETRIC CRY, V2020, P43, DOI 10.13154/tosc.v2020.i1.43-120
+   Jetchev D, 2012, LECT NOTES COMPUT SC, V7194, P303, DOI 10.1007/978-3-642-28914-9_17
+   Joux A, 2004, LECT NOTES COMPUT SC, V3152, P306
+   Jovanovic P, 2019, J CRYPTOL, V32, P895, DOI 10.1007/s00145-018-9299-7
+   Jovanovic P, 2014, LECT NOTES COMPUT SC, V8873, P85, DOI 10.1007/978-3-662-45611-8_5
+   Knudsen L, 1997, LECT NOTES COMPUT SC, V1294, P485
+   Knudsen LR, 2007, LECT NOTES COMPUT SC, V4593, P39
+   Lai Xuejia, 1992, Lecture Notes in Computer Science, V658, P55
+   Lee J, 2015, DESIGN CODE CRYPTOGR, V76, P179, DOI 10.1007/s10623-014-9936-6
+   Lee J, 2011, LECT NOTES COMPUT SC, V6841, P561, DOI 10.1007/978-3-642-22792-9_32
+   Lee J, 2011, IEICE T FUND ELECTR, VE94A, P104, DOI 10.1587/transfun.E94.A.104
+   Lee Jooyoung, 2011, IACR Cryptol. ePrint Arch., P210
+   Lefevre C, 2022, LECT NOTES COMPUT SC, V13510, P185, DOI 10.1007/978-3-031-15985-5_7
+   Maurer U, 2004, LECT NOTES COMPUT SC, V2951, P21
+   Mennink Bart, 2013, Cryptography and Coding. 14th IMA International Conference, IMACC 2013. Proceedings: LNCS 8308, P232, DOI 10.1007/978-3-642-45239-0_14
+   Mennink B, 2015, LECT NOTES COMPUT SC, V9453, P465, DOI 10.1007/978-3-662-48800-3_19
+   Mennink B, 2012, LECT NOTES COMPUT SC, V7417, P330
+   Mennink B, 2014, DESIGN CODE CRYPTOGR, V73, P121, DOI 10.1007/s10623-013-9813-8
+   Mennink B, 2012, LECT NOTES COMPUT SC, V7658, P526, DOI 10.1007/978-3-642-34961-4_32
+   Mennink Bart, 2023, IACR Trans. Symmetric Cryptol., P1
+   Meyer C. H., 1988, SECURICOM 88: 6th Worldwide Congress on Computer and Communications Security and Protection, P111
+   Moody D, 2016, DESIGN CODE CRYPTOGR, V79, P237, DOI 10.1007/s10623-015-0047-9
+   Naito Yusuke, 2014, Security and Cryptography for Networks. 9th International Conference (SCN 2014). Proceedings: LNCS 8642, P340, DOI 10.1007/978-3-319-10879-7_20
+   Naito Y, 2021, LECT NOTES COMPUT SC, V13092, P376, DOI 10.1007/978-3-030-92078-4_13
+   Naito Y, 2019, LECT NOTES COMPUT SC, V11774, P65, DOI 10.1007/978-3-030-30530-7_4
+   Naito Y, 2017, LECT NOTES COMPUT SC, V10343, P38, DOI 10.1007/978-3-319-59870-3_3
+   Naito Y, 2016, LECT NOTES COMPUT SC, V9783, P3, DOI 10.1007/978-3-662-52993-5_1
+   NIST, 2019, LIGHTWEIGHT CRYPTOGR
+   Özen O, 2009, LECT NOTES COMPUT SC, V5921, P176, DOI 10.1007/978-3-642-10868-6_11
+   Ristenpart T, 2011, LECT NOTES COMPUT SC, V6632, P487, DOI 10.1007/978-3-642-20465-4_27
+   Rogaway P, 2008, LECT NOTES COMPUT SC, V5157, P433, DOI 10.1007/978-3-540-85174-5_24
+   Sasaki Yu, 2015, Topics in Cryptology - CT-RSA 2015. The Cryptographers' Track at the RSA Conference 2015. Proceedings: LNCS 9048, P353, DOI 10.1007/978-3-319-16715-2_19
+   Shrimpton T, 2008, LECT NOTES COMPUT SC, V5126, P643, DOI 10.1007/978-3-540-70583-3_52
+   Stam M, 2008, LECT NOTES COMPUT SC, V5157, P397, DOI 10.1007/978-3-540-85174-5_22
+   Stam M, 2009, LECT NOTES COMPUT SC, V5665, P67, DOI 10.1007/978-3-642-03317-9_5
+   Steinberger J, 2012, LECT NOTES COMPUT SC, V7417, P384
+   Steinberger J, 2010, LECT NOTES COMPUT SC, V6110, P597
+   Wu H., 2011, The Hash Function JH
+NR 65
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 71
+EP 113
+DI 10.46586/tosc.v2024.i1.71-113
+PG 43
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500005
+OA Green Submitted, gold
+DA 2024-08-05
+ER
+
+PT J
+AU Wang, JL
+   Boura, C
+   Derbez, P
+   Hu, K
+   Li, MZ
+   Wang, MQ
+AF Wang, Jinliang
+   Boura, Christina
+   Derbez, Patrick
+   Hu, Kai
+   Li, Muzhou
+   Wang, Meiqin
+TI Cryptanalysis of Full-Round BipBip
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE BipBip; Demirci-Sel & ccedil;uk meet-in-the-middle cryptanalysis; low
+   latency
+ID SINGLE-KEY ATTACKS
+AB BipBip is a low -latency tweakable block cipher proposed by Belkheyar et al. in 2023. It was designed for pointer encryption inside a new memory safety mechanism called Cryptographic Capability Computing (C 3 ). BipBip encrypts blocks of 24 bits using a 40 -bit tweak and a 256 -bit master key and is composed of 11 rounds. In this article, we provide a Demirci-Sel & ccedil;uk Meet -in -the -Middle (DS-MITM) attack against the 11 -round (full) variant that breaks the security claim of the designers.
+C1 [Wang, Jinliang; Hu, Kai; Li, Muzhou; Wang, Meiqin] Shandong Univ, Sch Cyber Sci & Technol, Qingdao, Shandong, Peoples R China.
+   [Boura, Christina] Univ Versailles, Univ Paris Saclay, Ctr Natl Rech Sci CNRS, Lab Math Versailles, F-78000 Versailles, France.
+   [Derbez, Patrick] Univ Rennes, Inst Rech Informat & Syst Aleatoires IRISA, Ctr Natl Rech Sci CNRS, Inria, Rennes, France.
+   [Wang, Jinliang; Hu, Kai; Wang, Meiqin] Shandong Univ, Key Lab Cryptol Technol & Informat Secur, Minist Educ, Jinan, Peoples R China.
+   [Wang, Meiqin] Quan Cheng Shandong Lab, Jinan, Peoples R China.
+C3 Shandong University; Universite Paris Cite; Universite Paris Saclay;
+   Centre National de la Recherche Scientifique (CNRS); Inria; Universite
+   de Rennes; Centre National de la Recherche Scientifique (CNRS); Shandong
+   University
+RP Wang, JL (corresponding author), Shandong Univ, Sch Cyber Sci & Technol, Qingdao, Shandong, Peoples R China.; Wang, JL (corresponding author), Shandong Univ, Key Lab Cryptol Technol & Informat Secur, Minist Educ, Jinan, Peoples R China.
+EM jinliangwang@mail.sdu.edu.cn; christina.boura@uvsq.fr;
+   patrick.derbez@irisa.fr; kai.hu@sdu.edu.cn; muzhouli@mail.sdu.edu.cn;
+   mqwang@sdu.edu.cn
+FU National Key Research and Development Program of China [2018YFA0704702];
+   National Natural Science Foundation of China [62032014, U2336207]; Major
+   Basic Research Project of Natural Science Foundation of Shandong
+   Province, China [ZR202010220025]; Department of Science Technology of
+   Shandong Province [SYS202201]; Quan Cheng Laboratory [QCLZD202301,
+   QCLZD202306]; Program of Qilu Young Scholars of Shandong University;
+   France 2030 program [ANR-22-PECY-0010]; French Agence Nationale de la
+   Recherche through the OREO project [ANR-22- CE39-0015]; SWAP project
+   [ANR-21-CE39-0012]
+FX We would like to thank Tyge Tiessen and the other anonymous reviewers
+   for their valuable comments and suggestions to improve the quality of
+   the paper. We also thank the organizers of ASK 2023 (the 10th Asian
+   Workshop on Symmetric Key Cryptography) , where the collaboration was
+   initiated. Danping Shi checked some initial results; Liu Zhang and Yiran
+   Yao prepared the first version of the figures in this paper, we are
+   grateful for their help. Jinliang Wang, Kai Hu, Muzhou Li and Meiqin
+   Wang are supported by the National Key Research and Development Program
+   of China (Grant No. 2018YFA0704702) , the National Natural Science
+   Foundation of China (Grant No. 62032014, U2336207) , the Major Basic
+   Research Project of Natural Science Foundation of Shandong Province,
+   China (Grant No. ZR202010220025) , Department of Science Technology of
+   Shandong Province (No.SYS202201) , Quan Cheng Laboratory (Grant No.
+   QCLZD202301, QCLZD202306) . Kai Hu is also supported by the Program of
+   Qilu Young Scholars of Shandong University. Finally, the research of
+   Christina Boura and Patrick Derbez is partially supported through the
+   France 2030 program under grant agreement No. ANR-22-PECY-0010, by the
+   French Agence Nationale de la Recherche through the OREO project under
+   Contract ANR-22- CE39-0015 and the SWAP project under Contract
+   ANR-21-CE39-0012.
+CR Belkheyar Y., 2023, IACR Trans. Cryptogr. Hardw. Embed. Syst., P326
+   Biryukov A, 2015, LECT NOTES COMPUT SC, V9054, P3, DOI 10.1007/978-3-662-48116-5_1
+   Bonnetain X, 2019, IACR T SYMMETRIC CRY, V2019, P55, DOI 10.13154/tosc.v2019.i2.55-93
+   Boura Christina, 2023, Advances in Cryptology - EUROCRYPT 2023: 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Proceedings. Lecture Notes in Computer Science (14007), P36, DOI 10.1007/978-3-031-30634-1_2
+   Danping Shi, 2018, Advances in Cryptology - ASIACRYPT 2018. 24th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings: Lecture Notes in Computer Science (LNCS 11273), P3, DOI 10.1007/978-3-030-03329-3_1
+   Demirci H, 2008, LECT NOTES COMPUT SC, V5086, P116
+   Derbez P, 2016, LECT NOTES COMPUT SC, V9815, P157, DOI 10.1007/978-3-662-53008-5_6
+   Derbez P, 2015, LECT NOTES COMPUT SC, V9054, P190, DOI 10.1007/978-3-662-48116-5_10
+   Derbez P, 2014, LECT NOTES COMPUT SC, V8424, P541, DOI 10.1007/978-3-662-43933-3_28
+   Derbez P, 2013, LECT NOTES COMPUT SC, V7881, P371, DOI 10.1007/978-3-642-38348-9_23
+   Dunkelman O, 2010, LECT NOTES COMPUT SC, V6477, P158, DOI 10.1007/978-3-642-17373-8_10
+   Hosoyamada A, 2018, LECT NOTES COMPUT SC, V11035, P386, DOI 10.1007/978-3-319-98113-0_21
+   Leander G, 2023, IACR T SYMMETRIC CRY, V2023, P58, DOI 10.46586/tosc.v2023.i4.58-82
+   Leander G, 2011, LECT NOTES COMPUT SC, V6841, P206, DOI 10.1007/978-3-642-22792-9_12
+   Lemay M, 2021, INT SYMP MICROARCH, P253, DOI 10.1145/3466752.3480076
+   Li LB, 2015, LECT NOTES COMPUT SC, V8540, P127, DOI 10.1007/978-3-662-46706-0_7
+   Li LB, 2015, LECT NOTES COMPUT SC, V9054, P48, DOI 10.1007/978-3-662-48116-5_3
+   Li RJ, 2016, DESIGN CODE CRYPTOGR, V80, P459, DOI 10.1007/s10623-015-0113-3
+   Lin L, 2014, LECT NOTES COMPUT SC, V8565, P203, DOI 10.1007/978-3-319-12160-4_13
+   Liu FK, 2021, LECT NOTES COMPUT SC, V12827, P368, DOI 10.1007/978-3-030-84252-9_13
+   Liu Fukang, 2023, Lecture Notes in Computer Science., V14007, P287
+   Shi Danping, 2023, Advances in Cryptology - EUROCRYPT 2023: 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Proceedings. Lecture Notes in Computer Science (14007), P67, DOI 10.1007/978-3-031-30634-1_3
+   Sun Yimeng, 2023, Cryptology ePrint Archive
+   Todo Y, 2022, IACR T SYMMETRIC CRY, V2022, P368, DOI 10.46586/tosc.v2022.i3.368-402
+   Todo Y, 2016, LECT NOTES COMPUT SC, V10032, P3, DOI 10.1007/978-3-662-53890-6_1
+   Wang Jinliang, 2023, Information Security and Privacy: 28th Australasian Conference, ACISP 2023, Proceedings. Lecture Notes in Computer Science (13915), P124, DOI 10.1007/978-3-031-35486-1_7
+   Xiaoyang Dong, 2015, Topics in Cryptology - CT-RSA 2015. The Cryptographers' Track at the RSA Conference 2015. Proceedings: LNCS 9048, P59, DOI 10.1007/978-3-319-16715-2_4
+   Zhang Zhuolong, 2023, IACR Cryptol. ePrint Arch., P1697
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 68
+EP 84
+DI 10.46586/tosc.v2024.i2.68-84
+PG 17
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800003
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Kelsey, J
+   Lucks, S
+   Müller, S
+AF Kelsey, John
+   Lucks, Stefan
+   Mueller, Stephan
+TI XDRBG: A Proposed Deterministic Random Bit Generator Based on Any XOF
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE pseudorandom bit generation; extendable output function ( XOF ); forward
+   security; backward security
+AB A deterministic random bit generator (DRBG) generates pseudorandom bits from an unpredictable seed, i.e., a seed drawn from any random source with sufficient entropy. The current paper formalizes a security notion for a DRBG, in which an attacker may make any legal sequence of requests to the DRBG and sometimes compromise the DRBG state, but should still not be able to distingush DRBG outputs from ideal random bits. The paper proposes XDRBG, a new DRBG based on any eXtendable Output Function (XOF) and proves the security of the XDRBG in the ideal-XOF model. The proven bounds are tight, as demonstrated by matching attacks. The paper also discusses the security of XDRBG against quantum attackers. Finally, the paper proposes concrete instantiations of XDRBG, employing either the SHAKE128 or the SHAKE256 XDRBG. Alternative instantiations suitable for lightweight applications can be based on ASCON.
+C1 [Kelsey, John] Natl Inst Stand & Technol NIST, Gaithersburg, MD 20899 USA.
+   [Kelsey, John] COSIC, KU Leuven, Leuven, Belgium.
+   [Lucks, Stefan] Bauhaus Univ, Weimar, Germany.
+   [Mueller, Stephan] Atsec Informat Secur Corp, Austin, TX USA.
+C3 National Institute of Standards & Technology (NIST) - USA; KU Leuven;
+   Bauhaus-Universitat Weimar
+RP Kelsey, J (corresponding author), Natl Inst Stand & Technol NIST, Gaithersburg, MD 20899 USA.; Kelsey, J (corresponding author), COSIC, KU Leuven, Leuven, Belgium.
+CR Agievich Sergey, 2016, Cryptology ePrint Archive, Paper 2016/587
+   AMD-Advanced Micro Devices, 2023, Technical report
+   Avanzi Roberto, 2016, Lecture Notes in Computer Science, V532, P381
+   Barker E, 2022, Recommendation for random bit generator (RBG) constructions
+   Barker Elaine, 2015, Technical report
+   Bernstein D. J., 2019, Gimli. Submission to the NIST Lightweight Cryptography Standardization Process
+   Bertoni G, 2008, LECT NOTES COMPUT SC, V4965, P181
+   Bertoni G, 2010, LECT NOTES COMPUT SC, V6225, P33, DOI 10.1007/978-3-642-15031-9_3
+   Bertoni Guido., 2007, ECRYPT HASH WORKSHOP
+   Coretti S, 2019, LECT NOTES COMPUT SC, V11692, P205, DOI 10.1007/978-3-030-26948-7_8
+   Coretti Sandro, 2022, IACR Cryptol. ePrint Arch., P558
+   Coretti Sandro, 2022, LIPIcs, V230
+   Czajkowski Jan, 2021, IACR Cryptol. ePrint Arch., P192
+   Dobraunig C, 2020, IACR T SYMMETRIC CRY, V2020, P390, DOI 10.13154/tosc.v2020.iS1.390-416
+   Dobraunig Christoph, 2022, Status Update on Ascon v1.2. Update to the NIST Lightweight Cryptography Standardization Process
+   Dodis Y, 2004, LECT NOTES COMPUT SC, V3152, P494
+   Dodis Y, 2020, LECT NOTES COMPUT SC, V12105, P313, DOI 10.1007/978-3-030-45721-1_12
+   Ferguson N., 2003, Practical cryptography, VVolume 141
+   Ferguson Niels, 2019, Technical report
+   Gazi P, 2016, LECT NOTES COMPUT SC, V9665, P87, DOI 10.1007/978-3-662-49890-3_4
+   Gazi Peter, 2016, Report 2016/169
+   Hutchinson Daniel., 2016, CRYPTOLOGY EPRINT AR
+   illmann Wolfgang, 2011, Technical Report AIS20
+   Kelsey J, 1998, LECT NOTES COMPUT SC, V1372, P168
+   Kelsey J, 2000, LECT NOTES COMPUT SC, V1758, P13
+   Mechalas John P, 2018, Intel Digital Random Number Generator (DRNG) Software Implementation Guide
+   Muller Stephan, 2023, Technical report
+   National Institute of Standards and Technology, 2013, Technical Report Federal Information Processing Standards (FIPS) Publication, V186-4
+   National Institute of Standards and Technology, 2001, Technical Report Federal Information Processing Standards (FIPS) Publication, V197
+   National Institute of Standards and Technology, 2023, Lightweight cryptography standardization process: NIST selects Ascon
+   National Institute of Standards and Technology, 2015, Technical Report Federal Information Processing Standards (FIPS) Publication, V202
+   National Institute of Standards and Technology, 2016, Submission requirements and evaluation criteria for the post-quantum cryptography standardization process
+   National Institute of Standards and Technology, 2015, SECURE HASH STANDARD, V180, P36, DOI DOI 10.6028/NIST.FIPS.180-4
+   Nir oav, 2018, RFC 8439
+   Peter Matthias, 2023, Technical Report AIS20
+   Rivest Ronald L., 2016, IACR Cryptol. ePrint Arch., P856
+   Turan Meltem Sonmez, 2018, Technical report
+   Woodage J, 2019, LECT NOTES COMPUT SC, V11477, P151, DOI 10.1007/978-3-030-17656-3_6
+   Zhandry M, 2019, LECT NOTES COMPUT SC, V11693, P239, DOI 10.1007/978-3-030-26951-7_9
+NR 39
+TC 0
+Z9 0
+U1 1
+U2 1
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 5
+EP 34
+DI 10.46586/tosc.v2024.i1.5-34
+PG 30
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500006
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Steiner, MJ
+AF Steiner, Matthias Johann
+TI Solving Degree Bounds for Iterated Polynomial Systems
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Grobner basis; Solving degree; MiMC; GMiMC; Hades
+ID GROBNER BASES; EFFICIENT COMPUTATION
+AB For Arithmetization-Oriented ciphers and hash functions Gr delta bner basis attacks are generally considered as the most competitive attack vector. Unfortunately, the complexity of Gr delta bner basis algorithms is only understood for special cases, and it is needless to say that these cases do not apply to most cryptographic polynomial systems. Therefore, cryptographers have to resort to experiments, extrapolations and hypotheses to assess the security of their designs. One established measure to quantify the complexity of linear algebra-based Grobner basis algorithms is the so-called solving degree. Caminata & Gorla revealed that under a certain genericity condition on a polynomial system the solving degree is always upper bounded by the Castelnuovo-Mumford regularity and henceforth by the Macaulay bound, which only takes the degrees and number of variables of the input polynomials into account. In this paper we extend their framework to iterated polynomial systems, the standard polynomial model for symmetric ciphers and hash functions. In particular, we prove solving degree bounds for various attacks on MiMC, Feistel-MiMC, Feistel-MiMC-Hash, HADES and GMiMC. Our bounds fall in line with the hypothesized complexity of Grobner basis attacks on these designs, and to the best of our knowledge this is the first time that a mathematical proof for these complexities is provided. Moreover, by studying polynomials with degree falls we can prove lower bounds on the Castelnuovo-Mumford regularity for attacks on MiMC, Feistel-MiMC and Feistel-MiMC-Hash provided that only a few solutions of the corresponding iterated polynomial system originate from the base field. Hence, regularity -based solving degree estimations can never surpass a certain threshold, a desirable property for cryptographic polynomial systems.
+C1 [Steiner, Matthias Johann] Alpen Adria Univ Klagenfurt, Klagenfurt, Austria.
+C3 University of Klagenfurt
+RP Steiner, MJ (corresponding author), Alpen Adria Univ Klagenfurt, Klagenfurt, Austria.
+EM matthias.steiner@aau.at
+OI Steiner, Matthias Johann/0000-0001-5206-6579
+FU European Research Council (ERC) under the European Union [725042]
+FX The author would like to thank the anonymous reviewers at ToSC for their
+   valuable comments and helpful suggestions which improved both the
+   quality and presentation of this paper. The author would like to thank
+   Arnab Roy for his suggestion to study Grobner basis attacks on
+   Arithmetization-Oriented designs. Matthias Steiner has been supported in
+   part by the European Research Council (ERC) under the European Union's
+   Horizon 2020 research and innovation program (grant agreement No.
+   725042) .
+CR Advanced Encryption Standard (AES), 2001, NIST FIPS PUB 197
+   Albrecht M, 2016, LECT NOTES COMPUT SC, V10031, P191, DOI 10.1007/978-3-662-53887-6_7
+   Albrecht MR, 2019, LECT NOTES COMPUT SC, V11923, P371, DOI 10.1007/978-3-030-34618-8_13
+   Albrecht MR, 2019, LECT NOTES COMPUT SC, V11736, P151, DOI 10.1007/978-3-030-29962-0_8
+   Albrecht MR, 2015, LECT NOTES COMPUT SC, V9056, P430, DOI 10.1007/978-3-662-46800-5_17
+   Alman Josh, 2021, P 2021 ACM SIAM S DI, P522, DOI DOI 10.1137/1.9781611976465.32
+   Aly A, 2020, IACR T SYMMETRIC CRY, V2020, P1, DOI 10.13154/tosc.v2020.i3.1-45
+   [Anonymous], 1977, NBS FIPS PUB 46
+   Ashur Tomer, 2018, Report 2018/1098
+   Bardet Magali, 2004, P INT C POL SYST SOL, P71
+   Bariant A, 2022, IACR T SYMMETRIC CRY, V2022, P73, DOI 10.46586/tosc.v2022.i3.73-101
+   BAYER D, 1987, INVENT MATH, V87, P1, DOI 10.1007/BF01389151
+   Bermejo I, 2001, J PURE APPL ALGEBRA, V164, P23, DOI 10.1016/S0022-4049(00)00143-2
+   Bertoni G., 2007, ECR HASH WORKSH
+   Bertoni G, 2008, LECT NOTES COMPUT SC, V4965, P181
+   Bouvier C., 2023, Advances in CryptologyCRYPTO 2023, P507, DOI [10.1007/978-3-031-38548-317, DOI 10.1007/978-3-031-38548-317]
+   Buchberger B., 1965, PhD thesis
+   Buchmann J, 2006, LECT NOTES COMPUT SC, V4047, P78
+   Caminata A., 2021, LNCS, V12542, P3
+   Caminata A, 2021, Arxiv, DOI arXiv:1706.06319
+   Caminata A, 2023, J SYMB COMPUT, V114, P322, DOI 10.1016/j.jsc.2022.05.001
+   Chardin Marc, 2007, Lecture Notes in Pure and Applied Mathematics, V254, P1
+   Cover T.M., 2001, Elements of Information Theory, DOI DOI 10.1002/0471200611
+   Cox D., 2007, Undergraduate Texts in Mathematics, V3rd, DOI DOI 10.1007/978-3-319-16721-3
+   Daemen Joan, 2020, Information Security and Cryptography, V2, DOI [10.1007/978-3-662-60769-5, DOI 10.1007/978-3-662-60769-5]
+   Dobraunig C, 2021, LECT NOTES COMPUT SC, V12697, P3, DOI 10.1007/978-3-030-77886-6_1
+   Eisenbud David, 2005, The Geometry of Syzygies: A Second Course Commutative Algebra and Algebraic Geometry, V1, DOI [10.1007/b137572, DOI 10.1007/B137572]
+   Faugere J.-C., 2002, ISSAC 2002, P75, DOI [DOI 10.1145/780506.780516, 10.1145/780506.780516]
+   FAUGERE JC, 1993, J SYMB COMPUT, V16, P329, DOI 10.1006/jsco.1993.1051
+   Faugére JC, 1999, J PURE APPL ALGEBRA, V139, P61, DOI 10.1016/S0022-4049(99)00005-5
+   Faugère JC, 2017, J SYMB COMPUT, V80, P538, DOI 10.1016/j.jsc.2016.07.025
+   Faugere Jean-Charles, 2014, INT S SYMB ALG COMP, P170
+   Faugere Jean-Charles, 2019, Algebraic attacks against stark-friendly ciphers
+   FROBERG R, 1985, MATH SCAND, V56, P117
+   Gao Sicun, 2009, Master's thesis
+   Gorla E, 2022, J SYMB COMPUT, V109, P386, DOI 10.1016/j.jsc.2020.07.011
+   Grassi Lorenzo, 2022, CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, P1323, DOI 10.1145/3548606.3560686
+   Grassi L., 2023, Advances in CryptologyCRYPTO 2023, P573, DOI [10.1007/978-3-031-38548-319, DOI 10.1007/978-3-031-38548-319]
+   Grassi L., 2023, Advances in Cryptology EUROCRYPT 2023, P255, DOI [10.1007/978-3-031-30634-19, DOI 10.1007/978-3-031-30634-19]
+   Grassi L, 2022, IACR T SYMMETRIC CRY, V2022, P5, DOI 10.46586/tosc.v2022.i1.5-37
+   Grassi L, 2021, PROCEEDINGS OF THE 30TH USENIX SECURITY SYMPOSIUM, P519
+   Grassi L, 2020, LECT NOTES COMPUT SC, V12106, P674, DOI 10.1007/978-3-030-45724-2_23
+   Grassi Lorenzo, 2023, AFRICACRYPT 23, V14064, P177, DOI [10.1007/978-3-031-37679-5_8, DOI 10.1007/978-3-031-37679-5_8]
+   Grassi Lorenzo, 2019, Report 2019/1107
+   Green ML, 1998, PROG MATH, V166, P119
+   Hashemi A, 2018, J SYMB COMPUT, V86, P20, DOI 10.1016/j.jsc.2017.03.008
+   Hashemi A, 2012, MATH COMPUT, V81, P1163
+   Huang MDA, 2018, J SYMB COMPUT, V87, P207, DOI 10.1016/j.jsc.2017.08.002
+   Huang MDA, 2015, LECT NOTES COMPUT SC, V9215, P581, DOI 10.1007/978-3-662-47989-6_28
+   Jintai Ding, 2013, Number Theory and Cryptography. Papers in Honor of Johannes Buchmann on the Occasion of His 60th Birthday: LNCS 8260, P34, DOI 10.1007/978-3-642-42001-6_4
+   Kemper G, 2011, GRAD TEXTS MATH, V256, P1, DOI 10.1007/978-3-642-03545-6_1
+   Kreuzer Martin, 2005, Computational Commutative Algebra, V2, DOI [10.1007/3-540-28296-3, DOI 10.1007/3-540-28296-3]
+   LAZARD D, 1983, LECT NOTES COMPUT SC, V162, P146
+   Leont'ev VK, 2006, MATH NOTES+, V80, P300, DOI 10.1007/s11006-006-0139-y
+   Li Chaoyun, 2019, LNCS, V11959, P171, DOI [10.1007/978-3-030-38471-5_8, DOI 10.1007/978-3-030-38471-5_8]
+   Lidl R., 1997, Finite Fields
+   Pardue K, 2010, J ALGEBRA, V324, P579, DOI 10.1016/j.jalgebra.2010.04.018
+   Roy A, 2023, Arxiv, DOI arXiv:2303.04639
+   Sauer Jan Ferdinand, 2021, Report 2021/870
+   Storjohann Arne, 2001, Algorithms for matrix canonical forms, V13922, DOI [10.3929/ethz-a-004141007, DOI 10.3929/ETHZ-A-004141007]
+NR 60
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 357
+EP 411
+DI 10.46586/tosc.v2024.i1.357-411
+PG 55
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500007
+OA gold, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Zhang, JN
+   Wang, HY
+   Tang, D
+AF Zhang, Jianing
+   Wang, Haoyang
+   Tang, Deng
+TI Impossible Boomerang Attacks Revisited
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Impossible Boomerang Attack; MIQCP; Deoxys- BC; Joltik- BC; SKINNY
+ID DIFFERENTIAL CRYPTANALYSIS; RECTANGLE ATTACKS; SKINNY
+AB The impossible boomerang (IB) attack was first introduced by Lu in his doctoral thesis and subsequently published at DCC in 2011. The IB attack is a variant of the impossible differential (ID) attack by incorporating the idea of the boomerang attack. In this paper, we revisit the IB attack, and introduce the incompatibility of two characteristics in boomerang to the construction of an IB distinguisher. With our methodology, all the constructions of IB distinguisher are represented in a unified manner. Moreover, we show that the related-(twea)key IB distinguishers possess more freedom than the ones of ID so that it can cover more rounds. We also propose a new tool based on Mixed-Integer Quadratically-Constrained Programming (MIQCP) to search for IB attacks. To illustrate the power of the IB attack, we mount attacks against three tweakable block ciphers: Deoxys-BC, Joltik-BC and SKINNY. For Deoxys-BC, we propose a related-tweakey IB attack on 14-round Deoxys-BC-384, which improves the best previous related-tweakey ID attack by 2 rounds, and we improve the data complexity of the best previous related-tweakey ID attack on 10-round Deoxys-BC-256. For Joltik-BC, we propose the best attacks against 10-round Joltik-BC-128 and 14-round Joltik-BC-192 with related-tweakey IB attack. For SKINNY-n-3n, we propose a 27-round related-tweakey IB attack, which improves both the time and the memory complexities of the best previous ID attack. We also propose the first related-tweakey IB attack on 28-round SKINNY-n-3n, which improves the previous best ID attack by one round.
+C1 [Zhang, Jianing; Wang, Haoyang; Tang, Deng] Shanghai Jiao Tong Univ, Shanghai, Peoples R China.
+C3 Shanghai Jiao Tong University
+RP Zhang, JN (corresponding author), Shanghai Jiao Tong Univ, Shanghai, Peoples R China.
+EM zhangjn@sjtu.edu.cn; haoyang.wang@sjtu.edu.cn; dengtang@sjtu.edu.cn
+OI Wang, Haoyang/0009-0005-0090-8101
+FU National Natural Science Foundation of China [62302293, 62272303]
+FX The authors would like to thank the anonymous reviewers for their
+   valuable comments and suggestions to improve the quality of the paper.
+   This work was supported by the National Natural Science Foundation of
+   China (Grants No. 62302293 and 62272303) .
+CR Ankele Ralph, 2017, Applied Cryptography and Network Security. 15th International Conference, ACNS 2017. Proceedings: LNCS 10355, P208, DOI 10.1007/978-3-319-61204-1_11
+   Azimi SA, 2022, DESIGN CODE CRYPTOGR, V90, P1797, DOI 10.1007/s10623-022-01074-8
+   Bariant A., 2023, Lecture Notes in Computer Science, V14007, P3
+   Beierle C, 2016, LECT NOTES COMPUT SC, V9815, P123, DOI 10.1007/978-3-662-53008-5_5
+   Bellare M, 2016, CCS'16: PROCEEDINGS OF THE 2016 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P444, DOI 10.1145/2976749.2978390
+   Bellini Emanuele, 2023, Proceedings, V13871, P252
+   BIHAM E, 1991, LECT NOTES COMPUT SC, V537, P2
+   Biham E, 1999, LECT NOTES COMPUT SC, V1636, P124
+   Biham E, 1999, LECT NOTES COMPUT SC, V1592, P12
+   BIHAM E, 1994, J CRYPTOL, V7, P229, DOI 10.1007/BF00203965
+   Biryukov A, 2009, LECT NOTES COMPUT SC, V5912, P1, DOI 10.1007/978-3-642-10366-7_1
+   Boura C, 2018, J CRYPTOL, V31, P101, DOI 10.1007/s00145-016-9251-7
+   Boura C, 2014, LECT NOTES COMPUT SC, V8873, P179, DOI 10.1007/978-3-662-45611-8_10
+   Burer S, 2012, IMA VOL MATH APPL, V154, P373
+   Chen Huiqin, 2023, Applied Cryptography and Network Security Workshops: ACNS 2023 Satellite Workshops, ADSC, AIBlock, AIHWS, AIoTS, CIMSS, Cloud S&P, SCI, SecMT, SiMLA, Proceedings. Lecture Notes in Computer Science (13907), P3, DOI 10.1007/978-3-031-41181-6_1
+   Choy J, 2009, LECT NOTES COMPUT SC, V5824, P22, DOI 10.1007/978-3-642-04846-3_3
+   Cid C, 2018, LECT NOTES COMPUT SC, V10821, P683, DOI 10.1007/978-3-319-78375-8_22
+   Cid C, 2017, IACR T SYMMETRIC CRY, V2017, P73, DOI 10.13154/tosc.v2017.i3.73-107
+   Coppersmith Don, 1998, NIST AES Proposal, V268, P80
+   Cui Tingting, 2016, Cryptology ePrint Archive, Report 2016/689
+   Delaune S, 2020, IACR T SYMMETRIC CRY, V2020, P104, DOI 10.46586/tosc.v2020.i4.104-129
+   Derbez P, 2022, LECT NOTES COMPUT SC, V13793, P68, DOI 10.1007/978-3-031-22969-5_3
+   Derbez P, 2016, LECT NOTES COMPUT SC, V9815, P157, DOI 10.1007/978-3-662-53008-5_6
+   Dong XY, 2022, LECT NOTES COMPUT SC, V13277, P3, DOI 10.1007/978-3-031-07082-2_1
+   Dong Xiaoyang, 2018, Paper 2018/142
+   Dunkelman O, 2010, LECT NOTES COMPUT SC, V6223, P393, DOI 10.1007/978-3-642-14623-7_21
+   Hadipour H., 2023, LNCS, P128
+   Hadipour H, 2021, IACR T SYMMETRIC CRY, V2021, P140, DOI 10.46586/tosc.v2021.i2.140-198
+   Hu Kai, 2022, Paper 2022/1034
+   Jean J, 2014, LECT NOTES COMPUT SC, V8874, P274, DOI 10.1007/978-3-662-45608-8_15
+   Jean Jeremy, 2015, CAESAR Round, V2
+   Jean Jeremy, 2016, Deoxys v1. 41, P124
+   Kim J, 2003, LECT NOTES COMPUT SC, V2904, P82
+   Knudsen Lars., 1998, complexity, V258, P216
+   Li MM, 2021, IET INFORM SECUR, V15, P247, DOI 10.1049/ise2.12019
+   Liu GZ, 2017, IACR T SYMMETRIC CRY, V2017, P37, DOI 10.13154/tosc.v2017.i3.37-72
+   Lu JQ, 2008, LECT NOTES COMPUT SC, V4964, P370
+   Lu JQ, 2011, DESIGN CODE CRYPTOGR, V60, P123, DOI 10.1007/s10623-010-9421-9
+   Lu Jiqiang, 2008, PhD thesis
+   Luo YY, 2014, INFORM SCIENCES, V263, P211, DOI 10.1016/j.ins.2013.08.051
+   Lv Guangqiu, 2023, Paper 2023/259
+   Mehrdad Alireza, 2018, Paper 2018/048
+   Mouha Nicky, 2012, Information Security and Cryptology. 7th International Conference, Inscrypt 2011. Revised Selected Papers, P57, DOI 10.1007/978-3-642-34704-7_5
+   Murphy S, 2011, IEEE T INFORM THEORY, V57, P2517, DOI 10.1109/TIT.2011.2111091
+   Rivest R.L., 1998, P 1 ADV ENCRYPTION S, P16
+   Sasaki Y, 2017, LECT NOTES COMPUT SC, V10212, P185, DOI 10.1007/978-3-319-56617-7_7
+   Song L, 2022, LECT NOTES COMPUT SC, V13791, P410, DOI 10.1007/978-3-031-22963-3_14
+   Song L, 2019, IACR T SYMMETRIC CRY, V2019, P118, DOI 10.13154/tosc.v2019.i1.118-141
+   Song Ling, 2024, Advances in Cryptology-EUROCRYPT 2024, P339
+   Sun B, 2016, LECT NOTES COMPUT SC, V9665, P196, DOI 10.1007/978-3-662-49890-3_8
+   Sun SW, 2014, LECT NOTES COMPUT SC, V8873, P158, DOI 10.1007/978-3-662-45611-8_9
+   Wagner D, 1999, LECT NOTES COMPUT SC, V1636, P156
+   Wang HY, 2019, IACR T SYMMETRIC CRY, V2019, P142, DOI 10.13154/tosc.v2019.i1.142-169
+   Wu Baofeng, 2022, Inscrypt 2022, V13837, P213
+   Wu S., 2012, P INT C CRYPT IND BE, P283
+   Yang QQ, 2022, IACR T SYMMETRIC CRY, V2022, P208, DOI 10.46586/tosc.v2022.i4.208-242
+   Zhao BX, 2019, IACR T SYMMETRIC CRY, V2019, P121, DOI 10.13154/tosc.v2019.i3.121-151
+   Zong R, 2019, SCI CHINA INFORM SCI, V62, DOI 10.1007/s11432-017-9382-2
+NR 58
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 254
+EP 295
+DI 10.46586/tosc.v2024.i2.254-295
+PG 42
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800010
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, YN
+   Yang, J
+   Tian, T
+AF Liu, Yinuo
+   Yang, Jing
+   Tian, Tian
+TI Theoretical Linear Cryptanalysis of the 5G Standard Candidate SNOW 5G
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE SNOW 5G; linear cryptanalysis; linear approximations; divide-and-
+   conquer
+ID GUESS-AND-DETERMINE; ATTACKS
+AB In this paper, we perform linear cryptanalysis of the stream cipher SNOW 5G, which is recommended by the international standardization group (SAGE) as one standard algorithm for 5G confidentiality and integrity protection over the wireless channel. SNOW 5G can be regarded as one member of the SNOW -V family, as it is modified from SNOW -Vi by SAGE with a slight improvement. As an overall contribution, we provide a comprehensive and elaborate theoretical analysis of linear approximations of SNOW 5G and provide the best public cryptanalysis result by far. Specifically, we first theoretically analyze the formats of linear masks of SNOW 5G that can introduce high correlations, and then search for high -quality linear masks using a divide -and -conquer method based on the different cases of a critical intermediate linear mask. We find a linear approximation of SNOW 5G with correlation - 2 - 67 . 67 and further launch a correlation attack against it with complexity 2 279 . 8 , improving the existing best correlation attack by a factor of 2 32 . 4 . Our results are mainly from theoretical analysis, which involve little computation overhead and help to better understand the security of SNOW 5G.
+C1 [Liu, Yinuo; Yang, Jing; Tian, Tian] Informat Engn Univ, Zhengzhou, Peoples R China.
+C3 PLA Information Engineering University
+RP Liu, YN (corresponding author), Informat Engn Univ, Zhengzhou, Peoples R China.
+EM liuyinuo_terry@163.com; yangjingfi@163.com; tiantian_d@126.com
+FU National Natural Science Foundation of China [62202492, 62372464]
+FX This work was supported by the National Natural Science Foundation of
+   China under grant numbers 62202492 and 62372464.
+CR 3GPP, 2024, Specification of the SNOW 5G based 256-bits algorithm set: specification of the 256-NEA4 encryption, the 256-NIA4 integrity, and the 256-NCA4 authenticated encryption algorithm for 5G; document 1: algorithm specification (release 18)
+   Ekdahl Patrik, 2021, WiSec '21: Proceedings of the 14th ACM Conference on Security and Privacy in Wireless and Mobile Networks, P261, DOI 10.1145/3448300.3467829
+   Ekdahl P, 2019, IACR T SYMMETRIC CRY, V2019, P1, DOI 10.13154/tosc.v2019.i3.1-42
+   Gong XX, 2021, IACR T SYMMETRIC CRY, V2021, P378, DOI 10.46586/tosc.v2021.i1.378-410
+   Jiao L, 2023, DESIGN CODE CRYPTOGR, V91, P2021, DOI 10.1007/s10623-022-01150-z
+   Jiao L, 2020, COMPUT J, V63, P1789, DOI 10.1093/comjnl/bxaa003
+   Jin Hoki, 2022, Journal of Information Security and Applications, V65
+   lia11 ETSI SAGE liaison, 2022, S3-183756: specification of the 256-bit air interface algorithms
+   Ma Sudong, 2023, IEEE Transactions on Information Theory
+   Matsui M., 1994, Advances in Cryptology - EUROCRYPT '93. Workshop on the Theory and Application of Cryptographic Techniques Proceedings, P386, DOI 10.1007/3-540-48285-7_33
+   Maximov A, 2005, LECT NOTES COMPUT SC, V3788, P313
+   Nyberg K, 2006, LECT NOTES COMPUT SC, V4047, P144
+   Selçuk AA, 2008, J CRYPTOL, V21, P131, DOI 10.1007/s00145-007-9013-7
+   Shi Z, 2022, LECT NOTES COMPUT SC, V13277, P34, DOI 10.1007/978-3-031-07082-2_2
+   Shi Zhen, 2023, IEEE Transactions on Information Theory
+   Tea ZUC Design Team, A new initialization scheme of the ZUC-256 stream cipher
+   Yang J, 2021, IACR T SYMMETRIC CRY, V2021, P54, DOI 10.46586/tosc.v2021.i3.54-83
+   Yang J, 2020, SCI CHINA INFORM SCI, V63, DOI 10.1007/s11432-019-2907-4
+   Yang J, 2019, IACR T SYMMETRIC CRY, V2019, P249, DOI 10.13154/tosc.v2019.i4.249-271
+   Zhang B, 2015, LECT NOTES COMPUT SC, V9215, P643, DOI 10.1007/978-3-662-47989-6_31
+   Zhou ZC, 2022, DESIGN CODE CRYPTOGR, V90, P2449, DOI 10.1007/s10623-022-01090-8
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 141
+EP 165
+DI 10.46586/tosc.v2024.i2.141-165
+PG 25
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800006
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Ling, Q
+   Cui, TT
+   Hu, HT
+   Gong, SJ
+   He, ZJ
+   Huang, JL
+   Xiao, J
+AF Ling, Qing
+   Cui, Tingting
+   Hu, Hongtao
+   Gong, Sijia
+   He, Zijun
+   Huang, Jiali
+   Xiao, Jia
+TI Finding Impossible Differentials in ARX Ciphers under Weak Keys
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Impossible differential; ARX cipher; Weak key
+ID BLOCK CIPHER; CRYPTANALYSIS
+AB Impossible differential cryptanalysis is very important in the field of symmetric ciphers. Currently, there are many automatic search approaches to find impossible differentials. However, these methods have two underlying assumptions: Markov cipher assumption and key independence assumption. Actually, these two assumptions are not true in ARX ciphers, especially lightweight ones. In this paper, we study the impossible differentials in ARX cipher under weak keys for the first time. Firstly, we propose several accurate difference propagation properties on consecutive two and three modular additions. Then, these properties are applied to four typical local constructions composed of two consecutive modular additions, two modular additions with a rotation operation, xoring secret key or constant in the middle, to find impossible differentials under weak keys or special constants. What's more, we propose a more accurate difference propagation property on three consecutive modular additions. It can be used to find impossible differentials on more complex local constructions under weak keys or special constants. In practical ciphers, these impossible differentials on local constructions can be used to find contradictions. Lastly, combining our new findings with traditional automatic search methods for impossible differentials, we propose a framework to find impossible differentials in ARX ciphers under weak keys. As applications, we apply the framework to SPECK -32/64, LEA and CHAM-64/128. As a result, we find two 8 -round impossible differentials for SPECK -32/64 under 2(60) weak keys, and one 11 -round impossible differential for LEA under 2(k-1) weak keys, where k is the key size. These impossible differentials can start from any round. Furthermore, we find two 22 -round impossible differentials for CHAM-64/128 under 2(127) weak keys starting from certain rounds. As far as we know, all these impossible differentials are longer than previous ones.
+C1 [Ling, Qing; Cui, Tingting; Hu, Hongtao; Gong, Sijia; He, Zijun; Huang, Jiali] Hangzhou Dianzi Univ, Sch Cyberspace Secur, Hangzhou, Peoples R China.
+   [Cui, Tingting] Shandong Univ, Key Lab Cryptol Technol & Informat Secur, Minist Educ, Qingdao, Peoples R China.
+   [Xiao, Jia] Huaxia Jingwei Informat Technol Co Ltd, Beijing, Peoples R China.
+C3 Hangzhou Dianzi University; Shandong University
+RP Cui, TT (corresponding author), Hangzhou Dianzi Univ, Sch Cyberspace Secur, Hangzhou, Peoples R China.; Cui, TT (corresponding author), Shandong Univ, Key Lab Cryptol Technol & Informat Secur, Minist Educ, Qingdao, Peoples R China.
+EM lingqing@hdu.edu.cn; cuitingting@hdu.edu.cn; huht@hdu.edu.cn;
+   gongsijia@hdu.edu.cn; hezijun@hdu.edu.cn; tonyalex2010@163.com;
+   tonyalex2010@163.com
+CR Ankele Ralph, 2019, Selected Areas in Cryptography - SAC 2018. 25th International Conference. Revised Selected Papers: Lecture Notes in Computer Science (LNCS 11349), P163, DOI 10.1007/978-3-030-10970-7_8
+   Bao ZZ, 2023, LECT NOTES COMPUT SC, V14440, P436, DOI 10.1007/978-981-99-8727-6_15
+   Beaulieu Ray., 2013, IACR Cryptology ePrint Archive, V2013, P404
+   Beyne T, 2022, LECT NOTES COMPUT SC, V13509, P687, DOI 10.1007/978-3-031-15982-4_23
+   Biham E, 1999, LECT NOTES COMPUT SC, V1592, P12
+   Blondeau C, 2015, INFORM PROCESS LETT, V115, P660, DOI 10.1016/j.ipl.2015.03.008
+   Cui Tingting, 2016, Cryptology ePrint Archive, Report 2016/689
+   Fu K, 2016, LECT NOTES COMPUT SC, V9783, P268, DOI 10.1007/978-3-662-52993-5_14
+   Hong D, 2014, LECT NOTES COMPUT SC, V8267, P3, DOI 10.1007/978-3-319-05149-9_1
+   Jiazhe Chen, 2012, Progress in Cryptology - AFRICACRYPT 2012. Proceedings 5th International Conference on Cryptology in Africa, P117, DOI 10.1007/978-3-642-31410-0_8
+   Kim J, 2010, DISCRETE MATH, V310, P988, DOI 10.1016/j.disc.2009.10.019
+   Knudsen Lars., 1998, complexity, V258, P216
+   Kölbl S, 2015, LECT NOTES COMPUT SC, V9215, P161, DOI 10.1007/978-3-662-47989-6_8
+   Koo B, 2018, LECT NOTES COMPUT SC, V10779, P3, DOI 10.1007/978-3-319-78556-1_1
+   LAI XJ, 1991, LECT NOTES COMPUT SC, V547, P17
+   Li Mingming, 2018, Journal of Cryptologic Research
+   Li Mingming, 2018, TRUSTED COMPUTING IN, V12, P16
+   Lipmaa H, 2002, LECT NOTES COMPUT SC, V2355, P336
+   Luo YY, 2014, INFORM SCIENCES, V263, P211, DOI 10.1016/j.ins.2013.08.051
+   Mala H, 2010, LECT NOTES COMPUT SC, V6498, P282, DOI 10.1007/978-3-642-17401-8_20
+   Mala Hamid, 2010, Cryptology ePrint Archive
+   Mouha N., 2013, Paper 2013/328
+   Peyrin Thomas, 2022, Cryptology ePrint Archive
+   Roh Dongyoung, 2019, Revised Selected Papers, V22, P1
+   Sasaki Y, 2017, LECT NOTES COMPUT SC, V10212, P185, DOI 10.1007/978-3-319-56617-7_7
+   Sun SW, 2017, IACR T SYMMETRIC CRY, V2017, P281, DOI 10.13154/tosc.v2017.i1.281-306
+   Wu S., 2012, P INT C CRYPT IND BE, P283
+   Xu H, 2017, J ELECTRON INF TECHN, V39, P2479, DOI 10.11999/JEIT170049
+   Xu Zheng, 2022, Cryptology ePrint Archive
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 326
+EP 356
+DI 10.46586/tosc.v2024.i1.326-356
+PG 31
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500016
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Yuan, YF
+   Wu, WL
+   Shi, TR
+   Zhang, L
+   Zhang, Y
+AF Yuan, Yufei
+   Wu, Wenling
+   Shi, Tairong
+   Zhang, Lei
+   Zhang, Yu
+TI A Framework to Improve the Implementations of Linear Layers
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Linear Layer; Implementation; XOR Counts; Quantum Circuit; AES
+ID FAMILY
+AB This paper presents a novel approach to optimizing the linear layer of block ciphers using the matrix decomposition framework. It is observed that the reduction properties proposed by Xiang et al. (in FSE 2020) need to be improved. To address these limitations, we propose a new reduction framework with a complete reduction algorithm and swapping algorithm. Our approach formulates matrix decomposition as a new framework with an adaptive objective function and converts the problem to a Graph Isomorphism problem ( GI problem). Using the new reduction algorithm, we were able to achieve lower XOR counts and depths of quantum implementations under the s-XOR metric. Our results outperform previous works for many linear layers of block ciphers and hash functions; some of them are better than the current g-XOR implementation. For the AES MixColumn operation, we get two implementations with 91 XOR counts and depth 13 of in -place quantum implementation, respectively.
+C1 [Yuan, Yufei; Wu, Wenling; Shi, Tairong; Zhang, Lei; Zhang, Yu] Chinese Acad Sci, Trusted Comp & Informat Assurance Lab, Inst Software, Beijing 100190, Peoples R China.
+   [Yuan, Yufei; Wu, Wenling; Zhang, Yu] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+   [Shi, Tairong] PLA SSF Informat Engn Univ, Zhengzhou 450001, Henan, Peoples R China.
+   [Zhang, Lei] State Key Lab Cryptol, POB 5159, Beijing 100878, Peoples R China.
+C3 Chinese Academy of Sciences; Institute of Software, CAS; Chinese Academy
+   of Sciences; University of Chinese Academy of Sciences, CAS; PLA
+   Information Engineering University
+RP Yuan, YF; Wu, WL (corresponding author), Chinese Acad Sci, Trusted Comp & Informat Assurance Lab, Inst Software, Beijing 100190, Peoples R China.; Yuan, YF; Wu, WL (corresponding author), Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+EM yufei2021@iscas.ac.cn; wenling@iscas.ac.cn; tairong2018@iscas.ac.cn;
+   zhanglei@iscas.ac.cn; zhangyu2021@iscas.ac.cn
+FU National Natural Science Foundation of China [62072445, 62202493]; CAS
+   Project for Young Scientists in Basic Research [YSBR-035]
+FX The authors would like to thank the anonymous reviewers for their
+   sightful comments and patient suggestions. This work is supported by the
+   National Natural Science Foundation of China (No. 62072445 and No.
+   62202493) and the CAS Project for Young Scientists in Basic Research
+   (Grant No. YSBR-035) .
+CR Artin Michael, 2011, ALGEBRA
+   Avanzi R, 2017, IACR T SYMMETRIC CRY, V2017, P4, DOI 10.13154/tosc.v2017.i1.4-44
+   Babai L., 2018, P INT C MATH RIO DE, P3319
+   Banik S, 2019, LECT NOTES COMPUT SC, V11689, P109, DOI 10.1007/978-3-030-26834-3_7
+   Banik S, 2015, LECT NOTES COMPUT SC, V9453, P411, DOI 10.1007/978-3-662-48800-3_17
+   Barreto P, 2010, DESIGN CODE CRYPTOGR, V56, P141, DOI 10.1007/s10623-010-9391-y
+   Barreto Paulo SLM, 2000, The Anubis Block Cipher
+   Beierle C, 2020, IACR T SYMMETRIC CRY, V2020, P88, DOI 10.13154/tosc.v2020.iS1.88-131
+   Boyar J, 2013, J CRYPTOL, V26, P280, DOI 10.1007/s00145-012-9124-7
+   Boyar J, 2010, LECT NOTES COMPUT SC, V6049, P178, DOI 10.1007/978-3-642-13193-6_16
+   Christof Beierle, 2016, CRYPTO 2016, V9814
+   Cid C, 2005, LECT NOTES COMPUT SC, V3557, P145
+   Da Lin, 2021, Topics in Cryptology - CT-RSA 2021. Cryptographers Track at the RSA Conference 2021. Proceedings. Lecture Notes in Computer Science (LNCS 12704), P609, DOI 10.1007/978-3-030-75539-3_25
+   Dobraunig C., 2016, ASCON V1 2, V5, P7
+   El Hirch Solane, 2023, Cryptology ePrint Archive
+   Fortin Scott, 1996, GRAPH ISOMORPHISM PR
+   Goubault De Brugiere Timothee, 2021, IEEE Transactions on Quantum Engineering, V2, DOI 10.1109/TQE.2021.3091648
+   Grassl M, 2016, LECT NOTES COMPUT SC, V9606, P29, DOI 10.1007/978-3-319-29360-8_3
+   Grover L. K., 1996, Proceedings of the Twenty-Eighth Annual ACM Symposium on the Theory of Computing, P212, DOI 10.1145/237814.237866
+   Helfgott HA, 2017, Arxiv, DOI [arXiv:1710.04574, DOI 10.48550/ARXIV.1710.04574]
+   Huang ZY, 2022, LECT NOTES COMPUT SC, V13793, P614, DOI 10.1007/978-3-031-22969-5_21
+   Jaques S, 2020, LECT NOTES COMPUT SC, V12106, P280, DOI 10.1007/978-3-030-45724-2_10
+   Jean J, 2017, IACR T SYMMETRIC CRY, V2017, P130, DOI 10.13154/tosc.v2017.i4.130-168
+   Jean Jeremy, 2015, CAESAR Round, V2
+   Jenner B, 2003, J COMPUT SYST SCI, V66, P549, DOI 10.1016/S0022-0000(03)00042-4
+   Jian Zou, 2020, Advances in Cryptology - ASIACRYPT 2020. 26th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings. Lecture Notes in Computer Science (LNCS 12492), P697, DOI 10.1007/978-3-030-64834-3_24
+   Joan D., 2002, The Design of Rijndael: AES-the Advanced Encryption Standard
+   Junod P, 2005, LECT NOTES COMPUT SC, V3357, P114
+   Khoo K, 2014, LECT NOTES COMPUT SC, V8731, P433, DOI 10.1007/978-3-662-44709-3_24
+   Kölsch L, 2019, LECT NOTES COMPUT SC, V11476, P285, DOI 10.1007/978-3-030-17653-2_10
+   Kranz T, 2017, IACR T SYMMETRIC CRY, V2017, P188, DOI 10.13154/tosc.v2017.i4.188-211
+   Langenberg B., 2020, IEEE T QUANTUM ENG, V1, P1, DOI DOI 10.1109/TQE.2020.2965697
+   Li YQ, 2016, LECT NOTES COMPUT SC, V9783, P121, DOI 10.1007/978-3-662-52993-5_7
+   Liu MC, 2016, LECT NOTES COMPUT SC, V9783, P101, DOI 10.1007/978-3-662-52993-5_6
+   Liu Qun, 2023, Cryptology ePrint Archive
+   Liu Qun, 2022, Cryptology ePrint Archive
+   Maslov Dmitri, 2022, IEEE Transactions on Quantum Engineering, V3, DOI 10.1109/TQE.2022.3180900
+   Maximov Alexande, 2019, Cryptology ePrint Archive
+   Maximov Alexander., 2019, IACR Transactions on Cryptographic Hardware and Embedded Systems, P91
+   McKay BD, 2014, J SYMB COMPUT, V60, P94, DOI 10.1016/j.jsc.2013.09.003
+   Nielsen M.A., 2001, Phys. Today, V54, P60, DOI DOI 10.1017/CBO9780511976667
+   Paar C., 1997, Proceeding. 1997 IEEE International Symposium on Information Theory (Cat. No.97CH36074), DOI 10.1109/ISIT.1997.613165
+   Sarkar S, 2017, LECT NOTES COMPUT SC, V10343, P3, DOI 10.1007/978-3-319-59870-3_1
+   Sarkar S, 2016, IACR T SYMMETRIC CRY, V2016, P95, DOI 10.13154/tosc.v2016.i1.95-113
+   Schneier Bruce., 1998, NIST AES Proposal, V15, P23
+   Shirai T, 2007, LECT NOTES COMPUT SC, V4593, P181
+   Sim SM, 2015, LECT NOTES COMPUT SC, V9054, P471, DOI 10.1007/978-3-662-48116-5_23
+   Tan TP20 Quan Quan, 2020, IACR Transactions on Cryptographic Hardware and Embedded Systems, P203
+   West D. B., 2001, INTRO GRAPH THEORY, V2
+   Xiang ZJ, 2020, IACR T SYMMETRIC CRY, V2020, P120, DOI 10.13154/tosc.v2020.i2.120-145
+   Zhu C, 2022, CARBON PEAK AND NEUTRALITY STRATEGIES OF THE CONSTRUCTION INDUSTRY (ICCREM 2022), P129, DOI 10.1061/9780784484562.013
+NR 51
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 322
+EP 347
+DI 10.46586/tosc.v2024.i2.322-347
+PG 26
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800012
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Leurent, G
+   Pernot, C
+AF Leurent, Gaetan
+   Pernot, Clara
+TI Design of a Linear Layer Optimised for Bitsliced 32-bit Implementation
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Bitsliced cipher; Linear layer; Branch number
+AB The linear layer of block ciphers plays an important role in their security. In particular, ciphers designed following the wide -trail strategy use the branch number of the linear layer to derive bounds on the probability of linear and differential trails. At FSE 2014, the LS -design construction was introduced as a simple and regular structure to design bitsliced block ciphers. It considers the internal state as a bit matrix, and applies alternatively an identical S -Box on all the columns, and an identical L -Box on all the lines. Security bounds are derived from the branch number of the L -Box. In this paper, we focus on bitsliced linear layers inspired by the LS -design construction and the Spook AEAD algorithm. We study the construction of bitsliced linear transformations with efficient implementations using XORs and rotations (optimized for bitsliced ciphers implemented on 32 -bit processors), and a high branch number. In order to increase the density of the activity patterns, the linear layer is designed on the whole state, rather than using multiple parallel copies of an L -Box. Our main result is a linear layer for 128 -bit ciphers with branch number 21, improving upon the best 32 -bit transformation with branch number 12, and the one of Spook with branch number 16.
+C1 [Leurent, Gaetan; Pernot, Clara] Inria, Paris, France.
+C3 Inria
+RP Pernot, C (corresponding author), Inria, Paris, France.
+EM gaetan.leurent@iria.fr; clpernot@laposte.net
+CR Advanced Encryption Standard (AES), 2001, NIST FIPS PUB 197
+   Albrecht MR, 2014, LECT NOTES COMPUT SC, V8616, P57, DOI 10.1007/978-3-662-44371-2_4
+   Banik Subhadeep, 2017, Report 2017/760
+   Beierle C, 2016, LECT NOTES COMPUT SC, V9815, P123, DOI 10.1007/978-3-662-53008-5_5
+   Bellizia D, 2020, IACR T SYMMETRIC CRY, V2020, P295, DOI 10.13154/tosc.v2020.iS1.295-349
+   Betten Anton, 2006, Algorithms and Computation in Mathematics, V18
+   Biham E, 1997, LECT NOTES COMPUT SC, V1267, P260
+   Bogdanov A, 2007, LECT NOTES COMPUT SC, V4727, P450
+   Daemen J., 2001, P 8 IMA INT C CRYPTO, P222
+   Daemen J., 2000, Nessie Proposal: NOEKEON
+   Dobraunig C, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09398-9
+   Grassl M., 2007, Bounds on the minimum distance of linear codes and quantum codes
+   Grosso V, 2015, LECT NOTES COMPUT SC, V8540, P18, DOI 10.1007/978-3-662-46706-0_2
+   Käsper E, 2009, LECT NOTES COMPUT SC, V5747, P1
+   LAI XJ, 1991, LECT NOTES COMPUT SC, V547, P17
+   Leurent Gaetan, 2019, SLIDES SPOOK DAY WOR
+   Matsui M., 1995, Advances in Cryptology - EUROCRYPT '94. Workshop on the Theory and Application of Cryptographic Techniques. Proceedings, P366, DOI 10.1007/BFb0053451
+   National Institutes of Standards and Technology (NIST), 2002, FIPS 180-2
+   PRANGE E, 1962, IRE T INFORM THEOR, V8, pS5
+   Shannon C.E., 1945, MATH THEORY CRYPTOGR
+   Tsunoo Y, 2003, LECT NOTES COMPUT SC, V2779, P62, DOI 10.1007/978-3-540-45238-6_6
+   Zimmermann Karl-Heinz, 1996, Technical report
+NR 22
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 441
+EP 458
+DI 10.46586/tosc.v2024.i1.441-458
+PG 18
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500012
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Berendsen, H
+   Mennink, B
+AF Berendsen, Henk
+   Mennink, Bart
+TI Tightening Leakage Resilience of the Suffix Keyed Sponge
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE SuKS; PRF; leakage resilience; tightness; Hamming weight
+ID AUTHENTICATED ENCRYPTION; POWER ANALYSIS; SECURITY; ATTACKS; ISAP
+AB Lightweight cryptographic constructions are often optimized on multiple aspects that put the security bounds to the limit. In this respect, it is important to obtain security bounds that are tight and give an accurate and exact indication of the generic security. However, whereas for black -box security bounds it has become common practice to argue tightness of security bounds, for leakage resilience security bounds this is not the case. This is unfortunate, as for leakage resilience results, tightness is even more important as there is already a lossiness incurred in capturing the actual leakage by a theoretical model in the first place. In this work, we consider the SuKS (Suffix Keyed Sponge) PRF construction and investigate tightness of the leakage resilience bound of Dobraunig and Mennink (ToSC 2019). We observe that, although their black -box security result is tight, their leakage resilience bound is not tight in their bounded leakage term lambda. We observe that this is caused by the fact that parts of the security bound contain a term covering multicollisions and a term covering leakage, but an adversary is unable to combine both. We next consider improved security of the SuKS for two types of leakage: fixed position leakage, where the adversary directly learns the value of lambda bits of a secret state, and Hamming weight leakage, where the Hamming weight of a fixed part of the state is leaked. For fixed position leakage, a very generous form of bounded leakage, we improve the original bound by making wise use of the multicollision limit function of Daemen et al. (ASIACRYPT 2017). For the more realistic setting of Hamming weight leakage, we structurally revisit the multicollision limit function analysis by including Hamming weight in the computation, a problem that is difficult on its own due to the non -uniform character of this type of leakage. In both cases, we improve and tighten the leakage resilience bound of Dobraunig and Mennink. The improved bound for the SuKS has immediate consequences for the leakage resilience of the NIST lightweight cryptography competition finalist ISAP v2, an authenticated encryption scheme that uses the SuKS internally.
+C1 [Berendsen, Henk; Mennink, Bart] Radboud Univ Nijmegen, Nijmegen, Netherlands.
+C3 Radboud University Nijmegen
+RP Berendsen, H (corresponding author), Radboud Univ Nijmegen, Nijmegen, Netherlands.
+EM henk.berendsen@ru.nl; b.mennink@cs.ru.nl
+FU Netherlands Organisation for Scientific Research (NWO) [VI.Vidi.203.099]
+FX We want to thank Vahid Jahandideh and Damian Vizar for their valuable
+   help and feedback. Bart Mennink is supported by the Netherlands
+   Organisation for Scientific Research (NWO) under grant VI.Vidi.203.099.
+CR Belaïd S, 2014, LECT NOTES COMPUT SC, V8874, P306, DOI 10.1007/978-3-662-45608-8_17
+   Belaïd S, 2013, PROCEEDINGS OF THE 10TH INTERNATIONAL CONFERENCE ON SECURITY AND CRYPTOGRAPHY (SECRYPT 2013), P230
+   Berti F, 2018, PROCEEDINGS OF THE 2018 ACM ASIA CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (ASIACCS'18), P37, DOI 10.1145/3196494.3196525
+   Berti F, 2017, IACR T SYMMETRIC CRY, V2017, P271, DOI 10.13154/tosc.v2017.i3.271-293
+   Bertoni G., 2011, Cryptographic sponge functions
+   Bertoni Guido., 2007, ECRYPT HASH WORKSHOP
+   Chakraborty B, 2020, IACR T SYMMETRIC CRY, V2020, P93, DOI 10.13154/tosc.v2020.i2.93-119
+   Chari S., 1999, Advances in Cryptology - CRYPTO'99. 19th Annual International Cryptology Conference. Proceedings, P398
+   Choi W, 2019, LECT NOTES COMPUT SC, V11921, P175, DOI 10.1007/978-3-030-34578-5_7
+   Daemen Joan, 2017, Advances in Cryptology - ASIACRYPT 2017. 23rd International Conference on the Theory and Applications of Cryptology and Information Security. Proceedings: LNCS 10625, P606, DOI 10.1007/978-3-319-70697-9_21
+   Datta N, 2023, IACR T SYMMETRIC CRY, V2023, P192, DOI 10.46586/tosc.v2023.i1.192-223
+   Dobraunig Christoph, 2022, CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, P859, DOI 10.1145/3548606.3560635
+   Dobraunig C, 2020, IACR T SYMMETRIC CRY, V2020, P195, DOI 10.46586/tosc.v2020.i4.195-212
+   Dobraunig C, 2019, IACR T SYMMETRIC CRY, V2019, P223, DOI 10.13154/tosc.v2019.i4.223-248
+   Dobraunig C, 2020, IACR T SYMMETRIC CRY, V2020, P390, DOI 10.13154/tosc.v2020.iS1.390-416
+   Dobraunig C, 2019, LECT NOTES COMPUT SC, V11923, P225, DOI 10.1007/978-3-030-34618-8_8
+   Dobraunig C, 2017, IACR T SYMMETRIC CRY, V2017, P80, DOI 10.13154/tosc.v2017.i1.80.105
+   Dobraunig Christoph, 2021, ISAP v2. Final Round Submission to NIST Lightweight Cryptography
+   Duc A, 2019, J CRYPTOL, V32, P151, DOI 10.1007/s00145-018-9284-1
+   Duc A, 2014, LECT NOTES COMPUT SC, V8441, P423, DOI 10.1007/978-3-642-55220-5_24
+   Duval S., 2021, IACR Trans. Cryptogr. Hardw. Embed. Syst., P373
+   Faust S, 2012, LECT NOTES COMPUT SC, V7428, P213, DOI 10.1007/978-3-642-33027-8_13
+   Goubin L, 1999, LECT NOTES COMPUT SC, V1717, P158
+   Guo Chun, 2019, IACR Cryptol. ePrint Arch., P193
+   Ishai Y, 2003, LECT NOTES COMPUT SC, V2729, P463, DOI 10.1007/978-3-540-45146-4_27
+   Jha A, 2020, J CRYPTOL, V33, P1272, DOI 10.1007/s00145-020-09347-y
+   Jovanovic P, 2019, J CRYPTOL, V32, P895, DOI 10.1007/s00145-018-9299-7
+   Jovanovic P, 2014, LECT NOTES COMPUT SC, V8873, P85, DOI 10.1007/978-3-662-45611-8_5
+   Kalai Yael Tauman, 2019, Paper 2019/302
+   Kocher P., 1999, Advances in Cryptology - CRYPTO'99. 19th Annual International Cryptology Conference. Proceedings, P388
+   Kocher P. C., 1996, Advances in Cryptology - CRYPTO'96. 16th Annual International Cryptology Conference. Proceedings, P104
+   Kuhn MG, 1998, LECT NOTES COMPUT SC, V1525, P124
+   Leurent G, 2018, LECT NOTES COMPUT SC, V10991, P306, DOI 10.1007/978-3-319-96884-1_11
+   Luykx Atul, 2017, Advances in Cryptology - ASIACRYPT 2017. 23rd International Conference on the Theory and Applications of Cryptology and Information Security. Proceedings: LNCS 10625, P575, DOI 10.1007/978-3-319-70697-9_20
+   Mangard Stefan, 2007, Power Analysis Attacks: Revealing the Secrets of Smart Cards
+   Mayer-Sommer R, 2001, LECT NOTES COMPUT SC, V1965, P78
+   Mennink Bart, 2023, IACR Trans. Symmetric Cryptol., P1
+   Messerges TS, 2001, LECT NOTES COMPUT SC, V1965, P238
+   Nikova S, 2006, LECT NOTES COMPUT SC, V4307, P529
+   Nikova S, 2011, J CRYPTOL, V24, P292, DOI 10.1007/s00145-010-9085-7
+   NIST, 2019, LIGHTWEIGHT CRYPTOGR
+   Pereira O, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P96, DOI 10.1145/2810103.2813626
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 459
+EP 496
+DI 10.46586/tosc.v2024.i1.459-496
+PG 38
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500014
+OA Green Submitted, gold
+DA 2024-08-05
+ER
+
+PT J
+AU Struck, P
+   Weishaeupl, M
+AF Struck, Patrick
+   Weishaeupl, Maximiliane
+TI Constructing Committing and Leakage-Resilient Authenticated Encryption
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Authenticated Encryption; Committing Security; Leakage Resilience
+ID SECURITY; ISAP
+AB The main goal of this work is to construct authenticated encryption (AE) that is both committing and leakage -resilient. As a first approach for this we consider generic composition as a well-known method for constructing AE schemes. While the leakage resilience of generic composition schemes has already been analyzed by Barwell et al. (Asiacrypt'17), for committing security this is not the case. We fill this gap by providing a separate analysis of the generic composition paradigms with respect to committing security, giving both positive and negative results: By means of a concrete attack, we show that Encrypt -then -MAC is not committing. Furthermore, we prove that Encrypt -and -MAC is committing, given that the underlying schemes satisfy security notions we introduce for this purpose. We later prove these new notions achievable by providing schemes that satisfy them. MAC -then -Encrypt turns out to be more difficult due to the fact that the tag is not outputted alongside the ciphertext as it is done for the other two composition methods. Nevertheless, we give a detailed heuristic analysis of MAC -then -Encrypt with respect to committing security, leaving a definite result as an open task for future work. Our results, in combination with the fact that only Encrypt -then -MAC yields leakage -resilient AE schemes, show that one cannot obtain AE schemes that are both committing and leakage -resilient via generic composition. As a second approach for constructing committing and leakage -resilient AE, we develop a generic transformation that turns an arbitrary AE scheme into one that fulfills both properties. The transformation relies on a keyed function that is both binding, i.e., it is hard to find key -input pairs that result in the same output, and leakage -resilient pseudorandom.
+C1 [Struck, Patrick] Univ Konstanz, Constance, Germany.
+   [Weishaeupl, Maximiliane] Univ Regensburg, Regensburg, Germany.
+C3 University of Konstanz; University of Regensburg
+RP Struck, P (corresponding author), Univ Konstanz, Constance, Germany.
+EM patrick.struck@uni-konstanz.de; maximiliane.weishaeupl@ur.de
+OI Struck, Patrick/0000-0001-7738-2017
+FU Hector Foundation II; German Federal Ministry of Education and Research
+   (BMBF) [16KISQ111]
+FX We thank the anonymous reviewers for the valuable feedback. Patrick
+   Struck acknowledges support by the Hector Foundation II. Work of
+   Maximiliane Weishaeupl was funded by the German Federal Ministry of
+   Education and Research (BMBF) under the project Quant-ID (16KISQ111) .
+CR Albertini A, 2022, PROCEEDINGS OF THE 31ST USENIX SECURITY SYMPOSIUM, P3291
+   Barwell G, 2017, LECT NOTES COMPUT SC, V10624, P693, DOI 10.1007/978-3-319-70694-8_24
+   Bellare M, 2000, LECT NOTES COMPUT SC, V1976, P531
+   Bellare M, 2022, LECT NOTES COMPUT SC, V13276, P845, DOI 10.1007/978-3-031-07085-3_29
+   Bellare M, 2006, LECT NOTES COMPUT SC, V4004, P409
+   Bellare M, 2016, LECT NOTES COMPUT SC, V9814, P247, DOI 10.1007/978-3-662-53018-4_10
+   Bellizia D, 2020, LECT NOTES COMPUT SC, V12170, P369, DOI 10.1007/978-3-030-56784-2_13
+   Berti F, 2019, IACR T CRYPTOGR HARD, V2020, P256, DOI [10.13154/tches.v2020.i1.256-320, DOI 10.13154/TCHES.V2020.I1.256-320]
+   Berti F, 2021, LECT NOTES COMPUT SC, V13091, P95, DOI 10.1007/978-3-030-92075-3_4
+   Berti F, 2018, LECT NOTES COMPUT SC, V11356, P70, DOI 10.1007/978-3-030-05378-9_4
+   Berti F, 2017, IACR T SYMMETRIC CRY, V2017, P271, DOI 10.13154/tosc.v2017.i3.271-293
+   Berti Francesco, 2023, ACISP 2023
+   Beyne Tim, 2021, Technical report
+   Bronchain O., 2021, IACR Trans. Cryptogr. Hardw. Embed. Syst., P641
+   Chan J, 2022, LECT NOTES COMPUT SC, V13555, P275, DOI 10.1007/978-3-031-17146-8_14
+   Chan J, 2019, LECT NOTES COMPUT SC, V11922, P183, DOI 10.1007/978-3-030-34621-8_7
+   Chari S., 1999, Advances in Cryptology - CRYPTO'99. 19th Annual International Cryptology Conference. Proceedings, P398
+   Chen Yu Long, 2023, TOSC 2023
+   Daemen Joan, 2023, IACR Cryptol. ePrint Arch., V2023, P1494
+   Degabriele JP, 2019, LECT NOTES COMPUT SC, V11922, P209, DOI 10.1007/978-3-030-34621-8_8
+   Degabriele Jean Paul, 2023, ASIACRYPT 2023
+   Dobraunig C, 2021, LECT NOTES COMPUT SC, V12697, P377, DOI 10.1007/978-3-030-77886-6_13
+   Dobraunig C, 2020, IACR T SYMMETRIC CRY, V2020, P390, DOI 10.13154/tosc.v2020.iS1.390-416
+   Dobraunig C, 2019, LECT NOTES COMPUT SC, V11923, P225, DOI 10.1007/978-3-030-34618-8_8
+   Dobraunig C, 2017, IACR T SYMMETRIC CRY, V2017, P80, DOI 10.13154/tosc.v2017.i1.80.105
+   Dodis Y, 2018, LECT NOTES COMPUT SC, V10991, P155, DOI 10.1007/978-3-319-96884-1_6
+   Dziembowski S, 2008, ANN IEEE SYMP FOUND, P293, DOI 10.1109/FOCS.2008.56
+   Faust Sebastian, 2022, SCN 2022
+   Guo Chun, 2020, IACR Trans. Symm. Cryptol., P6
+   Guo Chun, 2021, Technical report
+   Krämer J, 2021, LECT NOTES COMPUT SC, V12244, P315, DOI 10.1007/978-3-030-68773-1_15
+   Kramer Juliane, 2023, IACR Cryptol. ePrint Arch., V2023, P1525
+   Len J, 2021, PROCEEDINGS OF THE 30TH USENIX SECURITY SYMPOSIUM, P195
+   Martin Daniel P., 2015, Cryptography and Coding. 15th IMA International Conference, IMACC 2015. Proceedings: LNCS 9496, P295, DOI 10.1007/978-3-319-27239-9_18
+   Menda Sanketh, 2023, Lecture Notes in Computer Science, V14007, P379
+   Micali S, 2004, LECT NOTES COMPUT SC, V2951, P278
+   Mouha N, 2014, LECT NOTES COMPUT SC, V8781, P306, DOI 10.1007/978-3-319-13051-4_19
+   Namprempre C, 2014, LECT NOTES COMPUT SC, V8441, P257, DOI 10.1007/978-3-642-55220-5_15
+   Sugawara Takeshi, 2015, Minalpher v1.1. Technical report
+   Unterstein Florian, 2020, IACR TCHES, P365
+   Verhamme Corentin, 2022, CARDIS 2022
+NR 41
+TC 1
+Z9 1
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 497
+EP 528
+DI 10.46586/tosc.v2024.i1.497-528
+PG 32
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500009
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Dhar, C
+   Ethan, J
+   Jejurikar, R
+   Khairallah, M
+   List, E
+   Mandal, S
+AF Dhar, Chandranan
+   Ethan, Jordan
+   Jejurikar, Ravindra
+   Khairallah, Mustafa
+   List, Eik
+   Mandal, Sougata
+TI Context-Committing Security of Leveled Leakage-Resilient AEAD
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Authenticated encryption; provable security; leakage resilience;
+   committing encryption; PRF; authentication; tweakable block cipher
+AB During recent years, research on authenticated encryption has been thriving through two highly active and practically motivated research directions: provable leakage resilience and key- or context -commitment security. However, the intersection of both fields had been overlooked until very recently. In ToSC 1/2024, Struck and Weish & auml;upl studied generic compositions of encryption schemes and message authentication codes for building committing leakage -resilient schemes. They showed that, in general, Encrypt -then -MAC ( EtM ) and MAC -then -Encrypt ( MtE ) are not committing while Encrypt -and -MAC ( EaM ) is, under plausible and weak assumptions on the components. However, real -world schemes are rarely strict blackbox constructions. Instead, while various leakage -resilient schemes follow blueprints inspired by generic compositions, they often tweak them for security or efficiency. In this paper, we study two blueprints, the first one based on EtM for one of the strongest possible levels of leakage resilience. The second one is a single -pass framework based on leveled implementations. We show that, with a careful selection of the underlying primitives such as with identical encryption and authentication keys and a collision -resistant PRF as the MAC, these blueprints are committing. Our results do not contradict the results by Struck and Weish & auml;upl since we pose more, but practically -motivated, requirements on the components. We demonstrate the practical relevance of our results by showing that our results on those blueprints allow us to easily derive proofs that several state-of-the-art leakage -resilient schemes are indeed committing, including TEDT and its descendants TEDT2 and Romulus -T, as well as the single -pass scheme Triplex.
+C1 [Dhar, Chandranan] Indian Stat Inst, Kolkata, India.
+   [Ethan, Jordan] CISPA Helmholtz Ctr Informat Secur, Saarbrucken, Germany.
+   [Jejurikar, Ravindra] Technol Innovat Inst, Cryptog Res Ctr, Abu Dhabi, U Arab Emirates.
+   [Khairallah, Mustafa] Lund Univ, Dept Elect & Informat Technol, Lund, Sweden.
+   [List, Eik] Nanyang Technol Univ, Singapore, Singapore.
+   [Mandal, Sougata] TCG CREST, Inst Adv Intelligence, Kolkata, India.
+   [Mandal, Sougata] Ramakrishna Mission Vivekananda Educ & Res Inst, Kolkata, India.
+C3 Indian Statistical Institute; Indian Statistical Institute Kolkata;
+   Technology Innovation Institute; Lund University; Nanyang Technological
+   University
+RP Dhar, C (corresponding author), Indian Stat Inst, Kolkata, India.
+EM chandranandhar@gmail.com; jordan.ethan@cispa.de;
+   Ravindra.Jejurikar@tii.ae; khairallah@ieee.org; elist@posteo.de;
+   sougata.mandal@tcgcrest.org
+OI Ethan, Jordan/0009-0004-0495-6939
+FU Wallenberg-NTU Postdoctoral Presidential Fellowship; Deutsche
+   Forschungsgemeinschaft (DFG, German Research Foundation) [LI 4223/1-1]
+FX We would like to thank Ling Song and Yaobin Shen for organizing the
+   Asian Symmetric Workshop (ASK) 2023 in Guangzhou, China, where this work
+   was initiated. Mustafa Khairallah is funded by the Wallenberg-NTU
+   Postdoctoral Presidential Fellowship. Eik List has been supported by
+   Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - LI
+   4223/1-1.
+CR Bellare M, 2022, LECT NOTES COMPUT SC, V13276, P845, DOI 10.1007/978-3-031-07085-3_29
+   Bellizia D, 2020, LECT NOTES COMPUT SC, V12170, P369, DOI 10.1007/978-3-030-56784-2_13
+   Berti Francesco, 2020, Information Security and Cryptology. 15th International Conference, Inscrypt2019. Revised Selected Papers. Lecture Notes in Computer Science (LNCS 12020), P517, DOI 10.1007/978-3-030-42921-8_31
+   Berti F, 2021, LECT NOTES COMPUT SC, V13091, P95, DOI 10.1007/978-3-030-92075-3_4
+   Berti Francesco., 2019, IACR Transactions on Cryptographic Hardware and Embedded Systems, P256, DOI DOI 10.46586/TCHES.V2020.I1.256-320
+   Degabriele JP, 2019, LECT NOTES COMPUT SC, V11922, P209, DOI 10.1007/978-3-030-34621-8_8
+   Dobraunig C, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09398-9
+   Dobraunig C, 2017, IACR T SYMMETRIC CRY, V2017, P80, DOI 10.13154/tosc.v2017.i1.80.105
+   Dodis Y, 2018, LECT NOTES COMPUT SC, V10991, P155, DOI 10.1007/978-3-319-96884-1_6
+   Farshim P, 2017, IACR T SYMMETRIC CRY, V2017, P449, DOI 10.13154/tosc.v2017.i1.449-473
+   Grubbs P, 2017, LECT NOTES COMPUT SC, V10403, P66, DOI 10.1007/978-3-319-63697-9_3
+   Gueron Shay, 2019, RFC, V8452, P1, DOI DOI 10.17487/RFC8452
+   Hirose S, 2007, LECT NOTES COMPUT SC, V4833, P113
+   Hirose S, 2006, LECT NOTES COMPUT SC, V4047, P210
+   Iwata T, 2020, IACR T SYMMETRIC CRY, V2020, P43, DOI 10.13154/tosc.v2020.i1.43-120
+   Jean J, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09397-w
+   Kramer Juliane, 2023, Paper 2023/1525
+   Len J, 2021, PROCEEDINGS OF THE 30TH USENIX SECURITY SYMPOSIUM, P195
+   List E, 2021, LECT NOTES COMPUT SC, V12912, P275, DOI 10.1007/978-3-030-88238-9_14
+   Namprempre C, 2014, LECT NOTES COMPUT SC, V8441, P257, DOI 10.1007/978-3-642-55220-5_15
+   Peters Thomas, 2024, Multiplex: TBC-based Authenticated Encryption with Sponge-Like Rate, P294
+   Rogaway P, 2004, LECT NOTES COMPUT SC, V3017, P348
+   Rogaway P, 2006, LECT NOTES COMPUT SC, V4004, P373
+   Salowey Joseph, 2008, RFC, V5288, P1
+   Shen SPS+22 Yaobin, 2022, IACR Trans. Cryptogr. Hardw. Embed. Syst., P135
+   Struck P, 2024, IACR T SYMMETRIC CRY, V2024, P497, DOI 10.46586/tosc.v2024.i1.497-528
+NR 26
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 348
+EP 370
+DI 10.46586/tosc.v2024.i2.348-370
+PG 23
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800013
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Hadipour, H
+   Gerhalter, S
+   Sadeghi, S
+   Eichlseder, M
+AF Hadipour, Hosein
+   Gerhalter, Simon
+   Sadeghi, Sadegh
+   Eichlseder, Maria
+TI Improved Search for Integral, Impossible Differential and
+   Zero-Correlation Attacks
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Integral attacks; Partial-sum technique; Impossible differential
+   attacks; Zero-correlation attacks; Ascon; SKINNY; SKINNYe; ForkSKINNY;
+   QARMAv2; MANTIS; PRESENT
+ID CRYPTANALYSIS; BOOMERANGS; CIPHERS; SKINNY
+AB Integral, impossible -differential (ID), and zero -correlation (ZC) attacks are three of the most important attacks on block ciphers. However, manually finding these attacks can be a daunting task, which is why automated methods are becoming increasingly important. Most automatic tools regarding integral, ZC, and ID attacks have focused only on finding distinguishers rather than complete attacks. At EUROCRYPT 2023, Hadipour et al. proposed a generic and efficient constraint programming (CP) model based on satisfiability for finding ID, ZC, and integral distinguishers. This new model can be extended to a unified CP model for finding full key recovery attacks. However, it has limitations, including determining the contradiction location beforehand and a cell -wise model unsuitable for weakly aligned ciphers like Ascon and PRESENT. They also deferred developing a CP model for the partial -sum technique in key recovery as future work. In this paper, we enhance Hadipour et al.'s method in several ways. First, we remove the limitation of determining the contradiction location in advance. Second, we show how to extend the distinguisher model to a bit -wise model, considering the internal structure of S -boxes and keeping the model based on satisfiability. Third, we introduce a CP model for the partial-sum technique for the first time. To show the usefulness and versatility of our approach, we apply it to various designs, from strongly aligned ones like ForkSKINNY and QARMAv2 to weakly aligned ones such as Ascon and PRESENT, yielding significantly improved results. To mention a few of our results, we improve the integral distinguisher of QARMAv2-128 (resp. QARMAv2-64) by 7 (resp. 5) rounds, and the integral distinguisher of ForkSKINNY by 1 round, only thanks to our cell -wise distinguisher modelings. By using our new bit -wise modeling, our tool can find a group of 2155 5 -round ID and ZC distinguishers for Ascon in only one run, taking a few minutes on a regular laptop. The new CP model for the partial -sum technique enhances integral attacks on all SKINNY variants, notably improving the best attack on SKINNY -n -n in the single -key setting by 1 round. We also enhance ID attacks on ForkSKINNY and provide the first analysis of this cipher in a limited reduced -round setting. Our methods are generic and applicable to other block ciphers.
+C1 [Hadipour, Hosein; Gerhalter, Simon; Eichlseder, Maria] Graz Univ Technol, Graz, Austria.
+   [Sadeghi, Sadegh] Inst Adv Studies Basic Sci IASBS, Dept Math, Zanjan 4513766731, Iran.
+C3 Graz University of Technology; Institute for Advanced Studies in Basic
+   Sciences (IASBS)
+RP Hadipour, H (corresponding author), Graz Univ Technol, Graz, Austria.
+EM hossein.hadipour@iaik.tugraz.at; s.gerhalter@student.tugraz.at;
+   s.sadeghi@iasbs.ac.ir; maria.eichlseder@iaik.tugraz.at
+OI Eichlseder, Maria/0000-0002-8750-7423; Hadipour,
+   Hosein/0000-0002-3820-3765
+FU Austrian Science Fund (FWF SFB project SPyCoDe)
+FX This work has been supported in part by the Austrian Science Fund (FWF
+   SFB project SPyCoDe) . We sincerely thank Xavier Bonnetain and Virginie
+   Lallemand for detecting a flaw in the key-recovery technique for
+   related-tweakey ID attacks in [SMB18] that also affects our
+   related-tweakey ID attacks and more importantly, for providing a new
+   method to rectify it. Their solution fixes all of them, mostly with the
+   same time complexity. We would also like to thank the anonymous
+   reviewers for their valuable comments and suggestions.
+CR Andreeva E, 2019, LECT NOTES COMPUT SC, V11922, P153, DOI 10.1007/978-3-030-34621-8_6
+   Ankele R, 2019, IACR T SYMMETRIC CRY, V2019, P192, DOI 10.13154/tosc.v2019.i1.192-235
+   Avanzi R, 2023, IACR T SYMMETRIC CRY, V2023, P25, DOI 10.46586/tosc.v2023.i3.25-73
+   Bariant A, 2020, IACR T SYMMETRIC CRY, V2020, P233, DOI 10.13154/tosc.v2020.i1.233-265
+   Beierle C, 2016, LECT NOTES COMPUT SC, V9815, P123, DOI 10.1007/978-3-662-53008-5_5
+   Biham E, 1999, LECT NOTES COMPUT SC, V1592, P12
+   Bogdanov A, 2007, LECT NOTES COMPUT SC, V4727, P450
+   Bogdanov A, 2014, DESIGN CODE CRYPTOGR, V70, P369, DOI 10.1007/s10623-012-9697-z
+   Bogdanov A, 2012, LECT NOTES COMPUT SC, V7658, P244, DOI 10.1007/978-3-642-34961-4_16
+   Bonnetain Xavier, 2024, Personal communication
+   Boura C, 2018, J CRYPTOL, V31, P101, DOI 10.1007/s00145-016-9251-7
+   Boura C, 2014, LECT NOTES COMPUT SC, V8873, P179, DOI 10.1007/978-3-662-45611-8_10
+   Chao Niu, 2021, Topics in Cryptology - CT-RSA 2021. Cryptographers Track at the RSA Conference 2021. Proceedings. Lecture Notes in Computer Science (LNCS 12704), P126, DOI 10.1007/978-3-030-75539-3_6
+   Cui Tingting, 2016, IACR Cryptol. ePrint Arch, V2016, P689
+   Daemen J, 1997, LECT NOTES COMPUT SC, V1267, P149
+   Derbez P, 2016, LECT NOTES COMPUT SC, V9783, P416, DOI 10.1007/978-3-662-52993-5_21
+   Dobraunig C, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09398-9
+   Dong XY, 2022, LECT NOTES COMPUT SC, V13277, P3, DOI 10.1007/978-3-031-07082-2_1
+   Ferguson N., 2001, Fast Software Encryption, P213
+   Hadipour H., 2023, LNCS, P128
+   Hadipour H, 2022, IACR T SYMMETRIC CRY, V2022, P271, DOI 10.46586/tosc.v2022.i3.271-302
+   Hadipour H, 2022, IACR T SYMMETRIC CRY, V2022, P92, DOI 10.46586/tosc.v2022.i2.92-112
+   Hu Kai, 2022, IACR Cryptol. ePrint Arch., P1034
+   Jean J., 2016, TikZ for Cryptographers
+   Jean J, 2014, LECT NOTES COMPUT SC, V8874, P274, DOI 10.1007/978-3-662-45608-8_15
+   Kai Hu, 2020, Advances in Cryptology - ASIACRYPT 2020. 26th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings. Lecture Notes in Computer Science (LNCS 12491), P446, DOI 10.1007/978-3-030-64837-4_15
+   Knudsen L, 2002, LECT NOTES COMPUT SC, V2365, P112
+   Knudsen L.R., 1998, DEAL 128 BIT BLOCK C
+   LAI XJ, 1994, KLUW COMMUN, V276, P227
+   Lu JQ, 2008, LECT NOTES COMPUT SC, V4964, P370
+   Lu JQ, 2008, LECT NOTES COMPUT SC, V5365, P279
+   Nethercote N, 2007, LECT NOTES COMPUT SC, V4741, P529
+   Perron L., OR TOOLS
+   Qin LY, 2021, IACR T SYMMETRIC CRY, V2021, P249, DOI 10.46586/tosc.v2021.i2.249-291
+   Sadeghi S, 2018, IACR T SYMMETRIC CRY, V2018, P124, DOI 10.13154/tosc.v2018.i3.124-162
+   Sage Developers, 2022, Sagemath, the Sage Mathematics Software System
+   Sasaki Y, 2017, LECT NOTES COMPUT SC, V10212, P185, DOI 10.1007/978-3-319-56617-7_7
+   Sasaki Yu, 2012, LNCS, V7707, P234, DOI [10.1007/978-3-642-35999-6_16, DOI 10.1007/978-3-642-35999-6_16]
+   Sun B, 2015, LECT NOTES COMPUT SC, V9215, P95, DOI 10.1007/978-3-662-47989-6_5
+   Sun L, 2020, IACR T SYMMETRIC CRY, V2020, P262, DOI 10.13154/tosc.v2020.i3.262-287
+   Tezcan C, 2014, J COMPUT APPL MATH, V259, P503, DOI 10.1016/j.cam.2013.06.023
+   Todo Y, 2015, LECT NOTES COMPUT SC, V9056, P287, DOI 10.1007/978-3-662-46800-5_12
+   Xiang ZJ, 2016, LECT NOTES COMPUT SC, V10031, P648, DOI 10.1007/978-3-662-53887-6_24
+   Xichao Hu, 2020, Advances in Cryptology - ASIACRYPT 2020. 26th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings. Lecture Notes in Computer Science (LNCS 12491), P415, DOI 10.1007/978-3-030-64837-4_14
+   Xu Zheng, 2022, Report 2022/135
+   Yang D, 2017, IET INFORM SECUR, V11, P377, DOI 10.1049/iet-ifs.2016.0488
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 234
+EP 325
+DI 10.46586/tosc.v2024.i1.234-325
+PG 92
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Bariant, A
+   Baudrin, J
+   Leurent, G
+   Pernot, C
+   Perrin, L
+   Peyrin, T
+AF Bariant, Augustin
+   Baudrin, Jules
+   Leurent, Gaetan
+   Pernot, Clara
+   Perrin, Leo
+   Peyrin, Thomas
+TI Fast AES-Based Universal Hash Functions and MACs Featuring LeMac and
+   PetitMac
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Universal hash function; MAC; AES; authentication
+ID ENCRYPTION; PERMUTATIONS; FAMILY
+AB Ultra -fast AES round -based software cryptographic authentication/encryption primitives have recently seen important developments, fuelled by the authenticated encryption competition CAESAR and the prospect of future high -profile applications such as post -5G telecommunication technology security standards. In particular, Universal Hash Functions (UHF) are crucial primitives used as core components in many popular modes of operation for various use -cases, such as Message Authentication Codes (MACs), authenticated encryption, wide block ciphers, etc. In this paper, we extend and improve upon existing design approaches and present a general framework for the construction of UHFs, relying only on the AES round function and 128 -bit word -wide XORs. This framework, drawing inspiration from tweakable block ciphers design, allows both strong security arguments and extremely high throughput. The security with regards to differential cryptanalysis is guaranteed thanks to an optimized MILP modelling strategy, while performances are pushed to their limits with a deep study of the details of AES-NI software implementations. In particular, our framework not only takes into account the number of AES- round calls per message block, but also the very important role of XOR operations and the overall scheduling of the computations. We instantiate our findings with two concrete UHF candidates, both requiring only 2 AES rounds per 128 -bit message block, and each used to construct two MACs. First, LeMac, a large -state primitive that is the fastest MAC as of today on modern Intel processors, reaching performances of 0.068 c/B on Intel Ice Lake (an improvement of 60% in throughput compared to the state-of-the-art). The second MAC construction, PetitMac, provides an interesting memory/throughput tradeoff, allowing good performances on many platforms.
+C1 [Bariant, Augustin; Baudrin, Jules; Leurent, Gaetan; Pernot, Clara; Perrin, Leo] Inria, Paris, France.
+   [Bariant, Augustin] ANSSI, Paris, France.
+   [Peyrin, Thomas] Nanyang Technol Univ, Singapore, Singapore.
+C3 Inria; Nanyang Technological University
+RP Bariant, A (corresponding author), Inria, Paris, France.; Bariant, A (corresponding author), ANSSI, Paris, France.
+EM name.surname@inria.fr; thomas.peyrin@ntu.edu.sg
+FU Singapore NRF Investigatorship grant [NRF-NRFI08-2022-0013]; French DGA;
+   European Research Council (ERC) [101041545]; Project Cryptanalyse from
+   PEPR Cybersecurite [22-PECY-0010]
+FX The authors would like to thanks Alexandre Adomnicai for improving our
+   PetitMac implementation on 32-bit platforms and benchmarking them on the
+   ARM Cortex-M4 microcontroller. Intel/AMD benchmarks were carried out
+   using the Grid'5000 testbed. This work was supported by the bilateral
+   NRF/ANR grant SELECT (NRF-NRFI08-2022-0013/ANR-20-CE48-0017) . Thomas
+   Peyrin is supported by the Singapore NRF Investigatorship grant
+   (NRF-NRFI08-2022-0013) . Augustin Bariant is supported by the French
+   DGA. Leo Perrin is supported by the European Research Council (ERC,
+   grant agreement no. 101041545 "ReSCALE") . This work was also supported
+   by project Cryptanalyse from PEPR Cybersecurite (22-PECY-0010) .
+CR Agner Fog, 2022, Lists of instruction latencies, throughputs and micro-operation breakdowns for intel, amd, and via cpus
+   Benadjila Ryad, 2008, SHA-3 Proposal: ECHO. Submission to NIST SHA-3 Cryptographic Hash Algorithm Competition
+   Bernstein DJ, 2005, LECT NOTES COMPUT SC, V3557, P32
+   Bertoni Guido, 2006, Report 2006/369
+   Biham Eli, 2008, Submission to NIST SHA-3 Cryptographic Hash Algorithm Competition
+   Black J., 1999, Advances in Cryptology - CRYPTO'99. 19th Annual International Cryptology Conference. Proceedings, P216, DOI 10.1007/3-540-48405-1_14
+   Bossert J, 2022, LECT NOTES COMPUT SC, V13161, P511, DOI 10.1007/978-3-030-95312-6_21
+   CARTER JL, 1979, J COMPUT SYST SCI, V18, P143, DOI 10.1016/0022-0000(79)90044-8
+   Cid C, 2017, IACR T SYMMETRIC CRY, V2017, P73, DOI 10.13154/tosc.v2017.i3.73-107
+   Cogliati B, 2016, LECT NOTES COMPUT SC, V9814, P121, DOI 10.1007/978-3-662-53018-4_5
+   Daemen J, 1998, LECT NOTES COMPUT SC, V1372, P60
+   Daemen Joan., 2002, The Design of Rijndael: AES - The Advanced Encryption Standard, DOI [10.1007/978-3-662-04722-4, DOI 10.1007/978-3-662-04722-4]
+   Dobraunig C, 2023, IACR T SYMMETRIC CRY, V2023, P69, DOI 10.46586/tosc.v2023.i2.69-93
+   Foote R.M., 2004, Abstract algebra, V3rd
+   Fouque PA, 2013, LECT NOTES COMPUT SC, V8042, P183, DOI 10.1007/978-3-642-40041-4_11
+   Gantmacher Felix Ruvimovich, 1990, The Theory of Matrices, V1
+   Gueron S, 2008, LECT NOTES COMPUT SC, V5222, P331, DOI 10.1007/978-3-540-85886-7_23
+   Gueron S, 2016, LECT NOTES COMPUT SC, V10031, P95, DOI 10.1007/978-3-662-53887-6_4
+   Gueron Shay, 2008, White Paper Rev 3.01 (09/2012)
+   Gurobi Optimization LLC, 2023, GUROBI OPTIMIZER REF
+   Indesteege IAC+08 Sebastiaan, 2008, Submission to NIST SHA-3 Cryptographic Hash Algorithm Competition
+   Intel, 2024, Optimizing earlier generations of intel 64 and ia-32 processor architectures, throughput, and latency
+   Isobe IIL+23 Takanori, 2023, IACR TCHES, P115
+   Jean J, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09397-w
+   Jean J, 2016, LECT NOTES COMPUT SC, V9783, P334, DOI 10.1007/978-3-662-52993-5_17
+   Keliher L, 2007, IET INFORM SECUR, V1, P53, DOI 10.1049/iet-ifs:20060161
+   Kolbl Stefan, 2016, Report 2016/098
+   Krovetz T, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09399-8
+   McGrew David A., 2004, Submission to NIST Modes of Operation Process
+   Mennink B, 2017, LECT NOTES COMPUT SC, V10403, P556, DOI 10.1007/978-3-319-63697-9_19
+   Minematsu K, 2006, LECT NOTES COMPUT SC, V4047, P226
+   Morris Dworkin, 2007, NIST Special Publication, V800-38D
+   Mouha Nicky, 2012, Information Security and Cryptology. 7th International Conference, Inscrypt 2011. Revised Selected Papers, P57, DOI 10.1007/978-3-642-34704-7_5
+   Nakano Yuto, 2024, Encryption algorithm Rocca-S. Internet-Draft draft-nakano-rocca-s-05
+   Nikolic I, 2017, LECT NOTES COMPUT SC, V10626, P369, DOI 10.1007/978-3-319-70700-6_13
+   Nikolic Ivica, 2014, Tiaoxin-346. Submission to CAESAR Competition
+   Nikolic Ivica, 2017, Report 2017/851
+   Nikolic Ivica, 2008, Submission to NIST SHA-3 Cryptographic Hash Algorithm Competition
+   Rijmen Vincent, 2001, LNCS, V2355, P37
+   Rogaway P., 2003, ACM Transactions on Information and Systems Security, V6, P365, DOI 10.1145/937527.937529
+   Sakamoto K, 2021, IACR T SYMMETRIC CRY, V2021, P1, DOI 10.46586/tosc.v2021.i2.1-30
+   Sakamoto Kosei, 2022, Report 2022/116
+   Schwabe Peter, 2016, Report 2016/714
+   Shoup V., 1996, Advances in Cryptology - CRYPTO'96. 16th Annual International Cryptology Conference. Proceedings, P313
+   STINSON DR, 1992, LECT NOTES COMPUT SC, V576, P74
+   Takeuchi N, 2023, IEICE T FUND ELECTR, VE106A, P45, DOI 10.1587/transfun.2021EAP1158
+   Wu HJ, 2014, LECT NOTES COMPUT SC, V8282, P185, DOI 10.1007/978-3-662-43414-7_10
+   Wu Hongjun, 2013, Report 2013/695
+NR 48
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 35
+EP 67
+DI 10.46586/tosc.v2024.i2.35-67
+PG 33
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800002
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, FK
+   Kalam, A
+   Sarkar, S
+   Meier, W
+AF Liu, Fukang
+   Kalam, Abul
+   Sarkar, Santanu
+   Meier, Willi
+TI Algebraic Attack on FHE-Friendly Cipher HERA Using Multiple Collisions
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE HERA; algebraic attack; multiple collisions; randomized key schedule
+ID CRYPTANALYSIS; LOWMC; ENCRYPTION; INSTANCES
+AB Fully homomorphic encryption (FHE) is an advanced cryptography technique to allow computations (i.e., addition and multiplication) over encrypted data. After years of effort, the performance of FHE has been significantly improved and it has moved from theory to practice. The transciphering framework is another important technique in FHE to address the issue of ciphertext expansion and reduce the client-side computational overhead. To apply the transciphering framework to the CKKS FHE scheme, a new transciphering framework called the Real-to-Finite-Field (RtF) framework and a corresponding FHE-friendly symmetric-key primitive called HERA were proposed at ASIACRYPT 2021. Although HERA has a very similar structure to AES, it is considerably different in the following aspects: 1) the power map x (sic) x(3 )is used as the S-box; 2) a randomized key schedule is used; 3) it is over a prime field F-p with p > 2(16). In this work, we perform the first third-party cryptanalysis of HERA, by showing how to mount new algebraic attacks with multiple collisions in the round keys. Specifically, according to the special way to randomize the round keys in HERA, we find it possible to peel off the last nonlinear layer by using collisions in the last-round key and a simple property of the power map. In this way, we could construct an overdefined system of equations of a much lower degree in the key, and efficiently solve the system via the linearization technique. As a esult, for HERA with 192 and 256 bits of security, respectively, we could break some parameters under the same assumption made by designers that the algebra constant omega for Gaussian elimination is omega = 2, i.e., Gaussian elimination on an n x n matrix takes O(n(omega)) field operations. If using more conservative choices like omega is an element of {2.8, 3}, our attacks can also successfully reduce the security margins of some variants of HERA to only 1 round. However, the security of HERA with 80 and 128 bits of security is not affected by our attacks due to the high cost to find multiple collisions. In any case, our attacks reveal a weakness of HERA caused by the randomized key schedule and its small state size.
+C1 [Liu, Fukang] Tokyo Inst Technol, Tokyo, Japan.
+   [Kalam, Abul; Sarkar, Santanu] Indian Inst Technol Madras, Chennai, India.
+   [Meier, Willi] Univ Appl Sci & Arts Northwestern Switzerland FHNW, Windisch, Switzerland.
+C3 Tokyo Institute of Technology; Indian Institute of Technology System
+   (IIT System); Indian Institute of Technology (IIT) - Madras
+RP Liu, FK (corresponding author), Tokyo Inst Technol, Tokyo, Japan.
+EM liu.f.ad@m.titech.ac.jp; abulkalam.sunny@gmail.com; santanu@iitm.ac.in;
+   willimeier48@gmail.com
+CR Albrecht M, 2016, LECT NOTES COMPUT SC, V10031, P191, DOI 10.1007/978-3-662-53887-6_7
+   Albrecht MR, 2019, LECT NOTES COMPUT SC, V11736, P151, DOI 10.1007/978-3-030-29962-0_8
+   Albrecht MR, 2015, LECT NOTES COMPUT SC, V9056, P430, DOI 10.1007/978-3-662-46800-5_17
+   Aly A, 2020, IACR T SYMMETRIC CRY, V2020, P1, DOI 10.13154/tosc.v2020.i3.1-45
+   Ashur T., 2022, P 2022 ACM SIGSAC C, P139, DOI [10.1145/3548606.3559364, DOI 10.1145/3548606.3559364]
+   Banik S, 2021, LECT NOTES COMPUT SC, V13090, P303, DOI 10.1007/978-3-030-92062-3_11
+   Banik S, 2020, IACR T SYMMETRIC CRY, V2020, P130, DOI 10.46586/tosc.v2020.i4.130-146
+   BIHAM E, 1991, LECT NOTES COMPUT SC, V537, P2
+   Bouvier C., 2023, Advances in CryptologyCRYPTO 2023, P507, DOI [10.1007/978-3-031-38548-317, DOI 10.1007/978-3-031-38548-317]
+   Canteaut A, 2018, J CRYPTOL, V31, P885, DOI 10.1007/s00145-017-9273-9
+   Chase M, 2017, CCS'17: PROCEEDINGS OF THE 2017 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P1825, DOI 10.1145/3133956.3133997
+   Cheon JH, 2017, LECT NOTES COMPUT SC, V10624, P409, DOI 10.1007/978-3-319-70694-8_15
+   Cho J, 2021, LECT NOTES COMPUT SC, V13092, P640, DOI 10.1007/978-3-030-92078-4_22
+   Cid C, 2022, LECT NOTES COMPUT SC, V13161, P451, DOI 10.1007/978-3-030-95312-6_19
+   Cosseron O, 2022, LECT NOTES COMPUT SC, V13793, P32, DOI 10.1007/978-3-031-22969-5_2
+   Daemen J., 1995, THESIS KATHOLIEKE U
+   Delaplace Claire, 2019, Cryptography and Coding. 17th IMA International Conference, IMACC 2019. Proceedings. Lecture Notes in Computer Science (LNCS 11929), P178, DOI 10.1007/978-3-030-35199-1_9
+   Dinur I, 2021, LECT NOTES COMPUT SC, V12696, P374, DOI 10.1007/978-3-030-77870-5_14
+   Dinur I, 2020, LECT NOTES COMPUT SC, V12105, P405, DOI 10.1007/978-3-030-45721-1_15
+   Dinur I, 2009, LECT NOTES COMPUT SC, V5479, P278, DOI 10.1007/978-3-642-01001-9_16
+   Dobraunig Christoph, 2022, CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, P843, DOI 10.1145/3548606.3559353
+   Dobraunig C., 2023, IACR Trans. Cryptogr. Hardw. Embed. Syst, V2023, P30, DOI [10.46586/tches.v2023.i3.30-73, DOI 10.46586/TCHES.V2023.I3.30-73]
+   Dobraunig C, 2021, LECT NOTES COMPUT SC, V12697, P3, DOI 10.1007/978-3-030-77886-6_1
+   Dobraunig C, 2018, LECT NOTES COMPUT SC, V10991, P662, DOI 10.1007/978-3-319-96884-1_22
+   Duval S, 2016, LECT NOTES COMPUT SC, V9814, P457, DOI 10.1007/978-3-662-53018-4_17
+   Gilbert Henri, 2023, Cryptology ePrint Archive, Paper 2023/1436
+   Grassi Lorenzo, 2022, CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, P1323, DOI 10.1145/3548606.3560686
+   Grassi L., 2023, Advances in CryptologyCRYPTO 2023, P573, DOI [10.1007/978-3-031-38548-319, DOI 10.1007/978-3-031-38548-319]
+   Grassi L., 2023, Advances in Cryptology EUROCRYPT 2023, P255, DOI [10.1007/978-3-031-30634-19, DOI 10.1007/978-3-031-30634-19]
+   Grassi L., 2023, Advances in Cryptology-CRYPTO. 2023, V14083, P305, DOI [10.1007/978-3-031-38548-3_11, DOI 10.1007/978-3-031-38548-3_11]
+   Grassi L, 2021, PROCEEDINGS OF THE 30TH USENIX SECURITY SYMPOSIUM, P519
+   Ha J, 2022, LECT NOTES COMPUT SC, V13275, P581, DOI 10.1007/978-3-031-06944-4_20
+   Ha J, 2020, IEEE ACCESS, V8, P194741, DOI 10.1109/ACCESS.2020.3033564
+   Hebborn P, 2020, IACR T SYMMETRIC CRY, V2020, P46, DOI 10.13154/tosc.v2020.i3.46-86
+   Kim Seongkwang, 2022, Cryptology ePrint Archive, Paper 2022/1095
+   Knudsen L, 2002, LECT NOTES COMPUT SC, V2365, P112
+   Lauter K, 2011, PROCEEDINGS OF THE 3RD ACM WORKSHOP CLOUD COMPUTING SECURITY WORKSHOP (CCSW'11), P113
+   Liu Fukang, 2023, Advances in Cryptology - EUROCRYPT 2023: 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Proceedings. Lecture Notes in Computer Science (14007), P287, DOI 10.1007/978-3-031-30634-1_10
+   Liu F, 2022, LECT NOTES COMPUT SC, V13791, P225, DOI 10.1007/978-3-031-22963-3_8
+   Liu FK, 2021, LECT NOTES COMPUT SC, V13090, P214, DOI 10.1007/978-3-030-92062-3_8
+   Liu FK, 2022, IACR T SYMMETRIC CRY, V2022, P102, DOI 10.46586/tosc.v2022.i3.102-122
+   Liu FK, 2022, J CRYPTOL, V35, DOI 10.1007/s00145-022-09439-x
+   Liu FK, 2021, LECT NOTES COMPUT SC, V12827, P368, DOI 10.1007/978-3-030-84252-9_13
+   Matsui M., 1994, Advances in Cryptology - EUROCRYPT '93. Workshop on the Theory and Application of Cryptographic Techniques Proceedings, P386, DOI 10.1007/3-540-48285-7_33
+   Meaux P, 2016, LECT NOTES COMPUT SC, V9665, P311, DOI 10.1007/978-3-662-49890-3_13
+   Rechberger C, 2018, IACR T SYMMETRIC CRY, V2018, P163, DOI 10.13154/tosc.v2018.i3.163-181
+   STRASSEN V, 1969, NUMER MATH, V13, P354, DOI 10.1007/BF02165411
+   van Oorschot PC, 1999, J CRYPTOL, V12, P1, DOI 10.1007/PL00003816
+NR 48
+TC 0
+Z9 0
+U1 1
+U2 1
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 214
+EP 233
+DI 10.46586/tosc.v2024.i1.214-233
+PG 20
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500008
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Hadipour, H
+   Todo, Y
+AF Hadipour, Hosein
+   Todo, Yosuke
+TI Cryptanalysis of QARMAv2
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Cryptanalysis; Integral attacks; Partial-sum technique; Constraint
+   programming; QARMAv2
+ID BLOCK CIPHER; ATTACKS; ZERO
+AB QARMAv2 is a general-purpose and hardware -oriented family of lightweight tweakable block ciphers (TBCs) introduced in ToSC 2023. QARMAv2, as a redesign of QARMAv1 with a longer tweak and tighter security margins, is also designed to be suitable for cryptographic memory protection and control flow integrity. The designers of QARMAv2 provided a relatively comprehensive security analysis in the design specification, e.g., some bounds for the number of attacked rounds in differential and boomerang analysis, together with some concrete impossible differential, zerocorrelation, and integral distinguishers. As one of the first third -party cryptanalysis of QARMAv2, Hadipour et al., [HGSE24] significantly improved the integral distinguishers of QARMAv2, and provided the longest concrete distinguishers of QARMAv2 up to now. However, they provided no key recovery attack based on their distinguishers. This paper delves into the cryptanalysis of QARMAv2 to enhance our understanding of its security. Given that the integral distinguishers of QARMAv2 are the longest concrete distinguishers for this cipher so far, we focus on integral attack. To this end, we first further improve the automatic tool introduced by Hadipour et al. [HSE23, HGSE24] for finding integral distinguishers of TBCs following the TWEAKEY framework. This new tool exploits the MixColumns property of QARMAv2 to find integral distinguishers more suitable for key recovery attacks. Then, we combine several techniques for integral key recovery attacks, e.g., Meet -in -the -middle and partial -sum techniques to build a fine-grained integral key recovery attack on QARMAv2. Notably, we demonstrate how to leverage the low data complexity of the integral distinguishers of QARMAv2 to reduce the memory complexity of the meet -in -the -middle technique. As a result, we successfully present the first concrete key recovery attacks on reduced -round versions of QARMAv2. This includes attacking 13 rounds of QARMAv2-64-128 with a single tweak block (T = 1), 14 rounds of QARMAv2-64-128 with two independent tweak blocks (T = 2), and 16 rounds of QARMAv2-128-256 with two independent tweak blocks (T = 2), all in an unbalanced setting. Our attacks do not compromise the claimed security of QARMAv2, but they shed more light on the cryptanalysis of this cipher.
+C1 [Hadipour, Hosein] Graz Univ Technol, Graz, Austria.
+   [Todo, Yosuke] NTT Social Informat Labs, Tokyo, Japan.
+C3 Graz University of Technology
+RP Hadipour, H (corresponding author), Graz Univ Technol, Graz, Austria.
+EM hossein.hadipour@iaik.tugraz.at; yosuke.todo@ntt.com
+OI Hadipour, Hosein/0000-0002-3820-3765
+FU Austrian Science Fund (FWF SFB project SPyCoDe)
+FX We express our gratitude to the anonymous reviewers for their valuable
+   suggestions. Additionally, we extend our appreciation to Shahram
+   Rasoolzadeh for his helpful comments and his role as the shepherd of our
+   paper. This work has been supported in part by the Austrian Science Fund
+   (FWF SFB project SPyCoDe) .
+CR Ankele R, 2019, IACR T SYMMETRIC CRY, V2019, P192, DOI 10.13154/tosc.v2019.i1.192-235
+   Arm Community, 2016, Armv8-a architecture: 2016 additions
+   Avanzi R, 2023, IACR T SYMMETRIC CRY, V2023, P25, DOI 10.46586/tosc.v2023.i3.25-73
+   Beierle C, 2019, IACR T SYMMETRIC CRY, V2019, P5, DOI 10.13154/tosc.v2019.i1.5-45
+   Beierle C, 2016, LECT NOTES COMPUT SC, V9815, P123, DOI 10.1007/978-3-662-53008-5_5
+   Beyne Tim, 2023, Report 2023/963
+   Bogdanov A, 2014, DESIGN CODE CRYPTOGR, V70, P369, DOI 10.1007/s10623-012-9697-z
+   Bogdanov A, 2012, LECT NOTES COMPUT SC, V7658, P244, DOI 10.1007/978-3-642-34961-4_16
+   Bogdanov A, 2012, LECT NOTES COMPUT SC, V7549, P29, DOI 10.1007/978-3-642-34047-5_3
+   Borghoff J, 2012, LECT NOTES COMPUT SC, V7658, P208, DOI 10.1007/978-3-642-34961-4_14
+   Daemen J, 1997, LECT NOTES COMPUT SC, V1267, P149
+   Ferguson N., 2001, Fast Software Encryption, P213
+   Gueron Shay., 2016, IACR CRYPTOL EPRINT, P204
+   Hadipour H., 2023, LNCS, P128
+   Hadipour H, 2022, IACR T SYMMETRIC CRY, V2022, P271, DOI 10.46586/tosc.v2022.i3.271-302
+   Hadipour H, 2021, IACR T SYMMETRIC CRY, V2021, P140, DOI 10.46586/tosc.v2021.i2.140-198
+   Hadipour Hosein, 2024, IACR Trans. Symmetric Cryptol., V2024
+   Jean J, 2014, LECT NOTES COMPUT SC, V8874, P274, DOI 10.1007/978-3-662-45608-8_15
+   Knudsen L, 2002, LECT NOTES COMPUT SC, V2365, P112
+   Lai Xuejia, 1994, COMMUNICATIONS CRYPT, P227, DOI DOI 10.1007/978-1-4615-2694-0_23
+   Nethercote N, 2007, LECT NOTES COMPUT SC, V4741, P529
+   Perron L., OR TOOLS
+   Qualcomm Product Security, 2017, POINTER AUTHENTICATI
+   Sasaki Yu, 2012, LNCS, V7707, P234, DOI [10.1007/978-3-642-35999-6_16, DOI 10.1007/978-3-642-35999-6_16]
+   Sun B, 2015, LECT NOTES COMPUT SC, V9215, P95, DOI 10.1007/978-3-662-47989-6_5
+   Todo Y, 2015, LECT NOTES COMPUT SC, V9056, P287, DOI 10.1007/978-3-662-46800-5_12
+   Xiang ZJ, 2016, LECT NOTES COMPUT SC, V10031, P648, DOI 10.1007/978-3-662-53887-6_24
+NR 27
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 188
+EP 213
+DI 10.46586/tosc.v2024.i1.188-213
+PG 26
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500013
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Hu, K
+AF Hu, Kai
+TI Improved Conditional Cube Attacks on Ascon AEADs in Nonce-Respecting
+   Settings
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE AscoN; AEAD; Conditional Cube Attack
+ID KEY-RECOVERY; CRYPTANALYSIS
+AB The best-known distinguisher on 7-round AscoN-128 and AscoN-128a AEAD uses a 60-dimensional cube where the nonce bits are set to be equal in the third and fourth rows of the AscoN state during initialization (Rohit et al. ToSC 2021/1). It was not known how to use this distinguisher to mount key-recovery attacks. In this paper, we investigate this problem using a new strategy called break-fix for the conditional cube attack. The idea is to introduce slightly-modified cubes which increase the degrees of 7-round output bits to be more than 59 (break phase) and then find key conditions which can bring the degree back to 59 (fix phase). Using this idea, key-recovery attacks on 7-round AscoN-128, AscoN-128a and AscoN-80pq are proposed. The attacks have better time/memory complexities than the existing attacks, and in some cases improve the weak-key attacks as well.
+C1 [Hu, Kai] Shandong Univ, Sch Cyber Sci & Technol, Qingdao, Shandong, Peoples R China.
+   [Hu, Kai] Nanyang Technol Univ, Sch Phys & Math Sci, Singapore, Singapore.
+   [Hu, Kai] Shandong Univ, Key Lab Cryptol Technol & Informat Secur, Minist Educ, Jinan, Peoples R China.
+C3 Shandong University; Nanyang Technological University; Shandong
+   University
+RP Hu, K (corresponding author), Shandong Univ, Sch Cyber Sci & Technol, Qingdao, Shandong, Peoples R China.; Hu, K (corresponding author), Nanyang Technol Univ, Sch Phys & Math Sci, Singapore, Singapore.; Hu, K (corresponding author), Shandong Univ, Key Lab Cryptol Technol & Informat Secur, Minist Educ, Jinan, Peoples R China.
+EM kai.hu@sdu.edu.cn
+FU Program of Qilu Young Scholars of Shandong University; France-Singapore
+   NRF-ANR [NRF2020-NRF-ANR072]; Singapore NRF Investigatorship research
+   [NRF-NRFI08-2022-0013]; National Key Research and Development Program of
+   China [2018YFA0704702]; National Natural Science Foundation of China
+   [62032014, U2336207]; Major Basic Research Project of Natural Science
+   Foundation of Shandong Province, China; Department of Science &
+   Technology of Shandong Province [SYS202201]; Quan Cheng Laboratory
+   [QCLZD202301, QCLZD202306]
+FX The author is grateful to Thomas Peyrin for his valuable comments on
+   this paper. The author also wants to thank the anonymous referees for
+   their comments that improved the quality of this article significantly.
+   The authors are supported by the Program of Qilu Young Scholars of
+   Shandong University, the France-Singapore NRF-ANR research grant
+   NRF2020-NRF-ANR072, the Singapore NRF Investigatorship research grant
+   NRF-NRFI08-2022-0013, the National Key Research and Development Program
+   of China (Grant No. 2018YFA0704702) , the National Natural Science
+   Foundation of China (Grant No. 62032014, U2336207), the Major Basic
+   Research Project of Natural Science Foundation of Shandong Province,
+   China (Grant No. ZR202010220025), Department of Science & Technology of
+   Shandong Province (No.SYS202201) , Quan Cheng Laboratory (Grant No.
+   QCLZD202301, QCLZD202306).
+CR [Anonymous], Ann Announcing Lightweight Cryptography Selection
+   Aumasson JP, 2009, LECT NOTES COMPUT SC, V5665, P1, DOI 10.1007/978-3-642-03317-9_1
+   AZZALINI A, 1985, SCAND J STAT, V12, P171
+   Baudrin J, 2022, IACR T SYMMETRIC CRY, V2022, P120, DOI 10.46586/tosc.v2022.i4.120-144
+   Chang D, 2023, IEEE ACCESS, V11, P4501, DOI 10.1109/ACCESS.2022.3223991
+   Cihangir Tezcan, 2020, IACR Cryptol. ePrint Arch, P1458
+   Daemen Joan, DIAC 2012, V2012
+   Dinur I, 2009, LECT NOTES COMPUT SC, V5479, P278, DOI 10.1007/978-3-642-01001-9_16
+   Dobraunig Christoph, 2015, Topics in Cryptology - CT-RSA 2015. The Cryptographers' Track at the RSA Conference 2015. Proceedings: LNCS 9048, P371, DOI 10.1007/978-3-319-16715-2_20
+   Dobraunig C, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09398-9
+   Dong XY, 2017, IACR T SYMMETRIC CRY, V2017, P259, DOI 10.13154/tosc.v2017.i1.259-280
+   Gerault David, 2021, IACR Cryptol. ePrint Arch., P1103
+   Hao YL, 2020, LECT NOTES COMPUT SC, V12105, P466, DOI 10.1007/978-3-030-45721-1_17
+   Hebborn HLLT20 Phil, 2020, IACR Cryptol. ePrint Arch., V2020, P1051
+   Hu Kai, 2020, IACR Cryptol. ePrint Arch., V2020, P1048
+   Hu Kai, 2022, Cryptology ePrint Archive
+   Huang SY, 2017, LECT NOTES COMPUT SC, V10211, P259, DOI 10.1007/978-3-319-56614-6_9
+   Jean J., 2016, TikZ for Cryptographers
+   Li YB, 2017, SCI CHINA INFORM SCI, V60, DOI 10.1007/s11432-016-0283-3
+   Li Z, 2017, LECT NOTES COMPUT SC, V10624, P99, DOI 10.1007/978-3-319-70694-8_4
+   Li Z, 2017, IACR T SYMMETRIC CRY, V2017, P175, DOI 10.13154/tosc.v2017.i1.175-202
+   Ling Song, 2018, Advances in Cryptology - ASIACRYPT 2018. 24th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings: Lecture Notes in Computer Science (LNCS 11273), P65, DOI 10.1007/978-3-030-03329-3_3
+   Liu MC, 2021, LECT NOTES COMPUT SC, V12827, P247, DOI 10.1007/978-3-030-84252-9_9
+   Meltem Sonmez Turan, 2023, Status report on the final round of the nist lightweight cryptography standardization process
+   Rohit R, 2021, IACR T SYMMETRIC CRY, V2021, P74, DOI 10.46586/tosc.v2021.i4.74-99
+   Rohit R, 2021, IACR T SYMMETRIC CRY, V2021, P130, DOI 10.46586/tosc.v2021.i1.130-155
+   Song L, 2018, IACR T SYMMETRIC CRY, V2018, P182, DOI 10.13154/tosc.v2018.i3.182-214
+   Todo Y, 2017, LECT NOTES COMPUT SC, V10403, P250, DOI 10.1007/978-3-319-63697-9_9
+   Todo Y, 2016, LECT NOTES COMPUT SC, V9783, P357, DOI 10.1007/978-3-662-52993-5_18
+   Todo Y, 2015, LECT NOTES COMPUT SC, V9056, P287, DOI 10.1007/978-3-662-46800-5_12
+   Wang QJ, 2018, LECT NOTES COMPUT SC, V10991, P275, DOI 10.1007/978-3-319-96884-1_10
+   Wang SP, 2019, LECT NOTES COMPUT SC, V11923, P398, DOI 10.1007/978-3-030-34618-8_14
+   Xiang ZJ, 2016, LECT NOTES COMPUT SC, V10031, P648, DOI 10.1007/978-3-662-53887-6_24
+NR 33
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 118
+EP 140
+DI 10.46586/tosc.v2024.i2.118-140
+PG 23
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800005
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Shen, YB
+   Peters, T
+   Standaert, FX
+AF Shen, Yaobin
+   Peters, Thomas
+   Standaert, Francois-Xavier
+TI Multiplex: TBC-Based Authenticated Encryption with Sponge-Like Rate
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Leakage-Resistance; Authenticated Encryption; Tweakable Block Cipher
+ID SECURITY
+AB Authenticated Encryption (AE) modes of operation based on Tweakable Block Ciphers (TBC) usually measure efficiency in the number of calls to the underlying primitive per message block. On the one hand, many existing solutions reach a primitive-rate of 1, meaning that each n-bit block of message asymptotically needs a single call to the TBC with output length n. On the other hand, while these modes look optimal in a blackbox setting, they become less attractive when leakage comes into play, since all these calls must then be equally well protected to maintain security. Leakage-resistant modes improve this situation, by generating ephemeral keys every constant number of calls. However, rekeying is inherently suboptimal in primitive-rate, since a TBC call can only be used either to refresh a key or to encrypt a block. Even worse, existing solutions achieving almost n bits of security for n-bit secret keys have at most a primitive-rate 2/3. Hence the question: Can we design a highly-secure TBC-based rekeying mode with "nearly optimal" primitive-rate? We answer this question positively with Multiplex, a new mode that has primitive-rate d/(d + 1) given a TBC with a dn-bit tweak. Multiplex achieves n - log2(dn) bits of security for both (i) misuse-resilience CCA confidentiality security in the blackbox setting and (ii) Ciphertext Integrity with Misuse-resistant and unbounded Leakage in encryption and decryption (CIML2). It also provides (iii) confidentiality with leakage up to the birthday bound. Furthermore, Multiplex can run d + 1 calls in parallel in each iteration. The combination of these features gives a mode of operation that inherits most of the good implementation features and flexibility of a sponge construction - therefore paving the way towards sound comparisons between TBC-based and permutation-based AE.
+C1 [Shen, Yaobin] Xiamen Univ, Sch Informat, Xiamen, Peoples R China.
+   [Peters, Thomas; Standaert, Francois-Xavier] UCLouvain, Crypto Grp, ICTEAM, Louvain La Neuve, Belgium.
+C3 Xiamen University; Universite Catholique Louvain
+RP Shen, YB (corresponding author), Xiamen Univ, Sch Informat, Xiamen, Peoples R China.
+EM yaobin.shen@xmu.edu.cn; thomas.peters@uclouvain.be;
+   fstandae@uclouvain.be
+RI Shen, Yaobin/KWU-6378-2024
+FU ERC [724725, 101096871]; Ant Research, Ant Group
+FX Thomas Peters and Francois-Xavier Standaert are respectively associate
+   researcher and senior research associate of the Belgian Fund for
+   Scientific Research (F.R.S.-FNRS). Research carried out while Yaobin
+   Shen was a post-doc at the UCL Crypto Group. This work and its
+   presentation have been funded in parts by the ERC consolidator grant
+   724725 (SWORD), the ERC Advanced Grant 101096871 (BRIDGE) and Ant
+   Research, Ant Group. Views and opinions expressed are those of the
+   authors only and do not necessarily reflect those of the EU or the
+   European Research Council. Neither the European Union nor the granting
+   authority can be held responsible for them.
+CR Abed F, 2014, LECT NOTES COMPUT SC, V8469, P440
+   Ashur T, 2017, LECT NOTES COMPUT SC, V10403, P3, DOI 10.1007/978-3-319-63697-9_1
+   Beierle C, 2020, IACR T SYMMETRIC CRY, V2020, P88, DOI 10.13154/tosc.v2020.iS1.88-131
+   Beierle C, 2016, LECT NOTES COMPUT SC, V9815, P123, DOI 10.1007/978-3-662-53008-5_5
+   Bellare M, 2006, LECT NOTES COMPUT SC, V4004, P409
+   Bellare M, 2016, LECT NOTES COMPUT SC, V9814, P247, DOI 10.1007/978-3-662-53018-4_10
+   Bellizia D, 2020, LECT NOTES COMPUT SC, V12170, P369, DOI 10.1007/978-3-030-56784-2_13
+   Bellizia Davide, 2020, Spook: Sponge-based leakage-resistant Symmetric Cryptol, P295
+   Berti F, 2021, LECT NOTES COMPUT SC, V13091, P95, DOI 10.1007/978-3-030-92075-3_4
+   Berti F, 2018, PROCEEDINGS OF THE 2018 ACM ASIA CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (ASIACCS'18), P37, DOI 10.1145/3196494.3196525
+   Berti F, 2017, IACR T SYMMETRIC CRY, V2017, P271, DOI 10.13154/tosc.v2017.i3.271-293
+   Berti Francesco., 2019, IACR Transactions on Cryptographic Hardware and Embedded Systems, P256, DOI DOI 10.46586/TCHES.V2020.I1.256-320
+   Bertoni G., 2012, LNCS, V7118, P320, DOI [10.1007/978-3-642-28496-0_19, DOI 10.1007/978-3-642-28496-0_19]
+   Bose P, 2018, LECT NOTES COMPUT SC, V10820, P468, DOI 10.1007/978-3-319-78381-9_18
+   Bronchain O., 2021, IACR Trans. Cryptogr. Hardw. Embed. Syst., P641
+   Cogliati Benoit, 2022, Paper 2022/846
+   Daemen Joan, 2017, Advances in Cryptology - ASIACRYPT 2017. 23rd International Conference on the Theory and Applications of Cryptology and Information Security. Proceedings: LNCS 10625, P606, DOI 10.1007/978-3-319-70697-9_21
+   Degabriele JP, 2019, LECT NOTES COMPUT SC, V11922, P209, DOI 10.1007/978-3-030-34621-8_8
+   Dobraunig C, 2021, LECT NOTES COMPUT SC, V12697, P377, DOI 10.1007/978-3-030-77886-6_13
+   Dobraunig C, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09398-9
+   Dobraunig C, 2020, IACR T SYMMETRIC CRY, V2020, P390, DOI 10.13154/tosc.v2020.iS1.390-416
+   Dobraunig C, 2019, LECT NOTES COMPUT SC, V11923, P225, DOI 10.1007/978-3-030-34618-8_8
+   Dodis Y, 2010, LECT NOTES COMPUT SC, V6223, P21, DOI 10.1007/978-3-642-14623-7_2
+   Dziembowski S, 2008, ANN IEEE SYMP FOUND, P293, DOI 10.1109/FOCS.2008.56
+   Faust S, 2012, LECT NOTES COMPUT SC, V7428, P213, DOI 10.1007/978-3-642-33027-8_13
+   Guo C, 2019, LECT NOTES COMPUT SC, V11774, P150, DOI 10.1007/978-3-030-30530-7_8
+   Guo C, 2020, IACR T SYMMETRIC CRY, V2020, P6, DOI 10.13154/tosc.v2020.i1.6-42
+   Hirose S, 2006, LECT NOTES COMPUT SC, V4047, P210
+   Jean J, 2014, LECT NOTES COMPUT SC, V8874, P274, DOI 10.1007/978-3-662-45608-8_15
+   Jovanovic P, 2019, J CRYPTOL, V32, P895, DOI 10.1007/s00145-018-9299-7
+   Liskov M, 2011, J CRYPTOL, V24, P588, DOI 10.1007/s00145-010-9073-y
+   List E, 2021, LECT NOTES COMPUT SC, V12912, P275, DOI 10.1007/978-3-030-88238-9_14
+   Mennink B, 2015, LECT NOTES COMPUT SC, V9453, P465, DOI 10.1007/978-3-662-48800-3_19
+   Micali S, 2004, LECT NOTES COMPUT SC, V2951, P278
+   Momin Charles, 2022, IACR Cryptol. ePrint Arch., P254
+   Naito Yusuke, 2022, Paper 2022/812
+   Pereira O, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P96, DOI 10.1145/2810103.2813626
+   Peyrin T, 2016, LECT NOTES COMPUT SC, V9814, P33, DOI 10.1007/978-3-662-53018-4_2
+   Peyrin Thomas, 2020, Tweakable block cipher-based cryptography
+   Pietrzak K, 2009, LECT NOTES COMPUT SC, V5479, P462, DOI 10.1007/978-3-642-01001-9_27
+   Rogaway P., 2002, P 9 ACM C COMP COMM, P98
+   Shen SPS+22 Yaobin, 2022, IACR Trans. Cryptogr. Hardw. Embed. Syst., P135
+   Verhamme Corentin, 2022, LNCS, Vxxxx, pyyy
+   Hoang VT, 2017, LECT NOTES COMPUT SC, V10211, P381, DOI 10.1007/978-3-319-56614-6_13
+   Yu Yu, 2013, Topics in Cryptology - CT-RSA 2013. The Cryptographers Track at the RSA Conference 2013. Proceedings, P223, DOI 10.1007/978-3-642-36095-4_15
+   Yu Y, 2010, PROCEEDINGS OF THE 17TH ACM CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (CCS'10), P141, DOI 10.1145/1866307.1866324
+NR 46
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 1
+EP 34
+DI 10.46586/tosc.v2024.i2.1-34
+PG 34
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Chen, YC
+   Guo, TT
+   Hu, L
+   Shang, LN
+   Mao, SP
+   Wang, P
+AF Chen, Yuchao
+   Guo, Tingting
+   Hu, Lei
+   Shang, Lina
+   Mao, Shuping
+   Wang, Peng
+TI Small Stretch Problem of the DCT Scheme and How to Fix It
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE DCT; Deterministic Authenticated Encryption; AEAD; BRW polynomial;
+   Forgery Attack; Stretch
+ID TWEAKABLE ENCIPHERING SCHEMES; SINGLE-KEY; SECURITY TREATMENT; MODE
+AB DCT is a beyond-birthday-bound (BBB) deterministic authenticated encryption (DAE) mode proposed by Forler et al. in ACISP 2016, ensuring integrity by redundancy. The instantiation of DCT employs the BRW polynomial, which is more efficient than the usual polynomial in GCM by reducing half of the multiplication operations. However, we show that DCT suffers from a small stretch problem similar to GCM. When the stretch length tau is small, choosing a special m -block message, we can reduce the number of queries required by a successful forgery to O(2 tau/m). We emphasize that this attack efficiently balances space and time complexity but does not contradict the security bounds of DCT. Finally, we propose an improved scheme named Robust DCT (RDCT) with a minor change to DCT, which improves the security when tau is small and makes it resist the above attack.
+C1 [Chen, Yuchao] Shandong Univ, Sch Cyber Sci & Technol, Qingdao, Peoples R China.
+   [Chen, Yuchao] Shandong Univ, Key Lab Cryptol Technol & Informat Secur, Minist Educ, Jinan, Peoples R China.
+   [Guo, Tingting] Res Ctr Data Hub & Secur, Zhejiang lab, Hangzhou, Peoples R China.
+   [Hu, Lei; Mao, Shuping] Inst Informat Engn, Chinese Acad Sci, Key Lab Cyberspace Secur Def, Beijing, Peoples R China.
+   [Hu, Lei; Mao, Shuping] Univ Chinese Acad Sci, Sch Cyber Secur, Beijing, Peoples R China.
+   [Shang, Lina] Space Star Technol Co Ltd, Beijing, Peoples R China.
+   [Wang, Peng] Univ Chinese Acad Sci, Sch Cryptol, Beijing, Peoples R China.
+C3 Shandong University; Shandong University; Zhejiang Laboratory; Chinese
+   Academy of Sciences; Chinese Academy of Sciences; University of Chinese
+   Academy of Sciences, CAS; Chinese Academy of Sciences; University of
+   Chinese Academy of Sciences, CAS
+RP Wang, P (corresponding author), Univ Chinese Acad Sci, Sch Cryptol, Beijing, Peoples R China.
+EM chenyuchao@mail.sdu.edu.cn; guotingting4633@gmail.com; hulei@iie.ac.cn;
+   maoshuping@iie.ac.cn; sln-8108@163.com; w.rocking@gmail.com
+OI Wang, Peng/0000-0002-8003-4686
+FU National Key Research and Development Program of China [2023YFB3105802,
+   2018YFA0704704, 2018YFA0704702]; National Natural Science Foundation of
+   China [62032014, U2336207]
+FX The authors thank the anonymous reviewers for many helpful comments. The
+   work of this paper was supported by the National Key Research and
+   Development Program of China (Grant No. 2023YFB3105802, 2018YFA0704704,
+   2018YFA0704702) , the National Natural Science Foundation of China
+   (Grant No. 62032014, U2336207) .
+CR Ashur T, 2017, LECT NOTES COMPUT SC, V10403, P3, DOI 10.1007/978-3-319-63697-9_1
+   Bellare M, 1997, ANN IEEE SYMP FOUND, P394, DOI 10.1109/SFCS.1997.646128
+   Bernstein DanielJ., POLYNOMIAL EVALUATIO
+   Chakraborty D, 2017, IACR T SYMMETRIC CRY, V2017, P106, DOI 10.13154/tosc.v2017.i1.106-128
+   Degabriele JP, 2022, LECT NOTES COMPUT SC, V13510, P264, DOI 10.1007/978-3-031-15985-5_10
+   Dworkin Morris, 2007, 80038D SP NIST, P114
+   Ferguson Niels., 2005, COMMENTS SUBMITTED N, P1
+   Ferguson Niels, 2002, Comments submitted to NIST Modes of Operation Process, P1
+   Forler Christian, 2016, Information Security and Privacy. 21st Australasian Conference, ACISP 2016. Proceedings: LNCS 9723, P317, DOI 10.1007/978-3-319-40367-0_20
+   Ghosh S, 2019, DESIGN CODE CRYPTOGR, V87, P527, DOI 10.1007/s10623-018-0561-7
+   Gueron S, 2015, CCS'15: PROCEEDINGS OF THE 22ND ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P109, DOI 10.1145/2810103.2813613
+   Gueron Shay., 2017, IACR Cryptology ePrint Archive, V2017, P168
+   Halevi S, 2004, LECT NOTES COMPUT SC, V2964, P292
+   Halevi S, 2003, LECT NOTES COMPUT SC, V2729, P482
+   ISO and IEC, 2020, ISO/IEC 19772:2020 Information security-Authenticated encryption
+   Iwata T, 2009, LECT NOTES COMPUT SC, V5867, P313, DOI 10.1007/978-3-642-05445-7_20
+   Iwata T, 2009, LECT NOTES COMPUT SC, V5665, P394, DOI 10.1007/978-3-642-03317-9_24
+   Jean J, 2021, J CRYPTOL, V34, DOI 10.1007/s00145-021-09397-w
+   Liskov M, 2002, LECT NOTES COMPUT SC, V2442, P31
+   McGrew DA, 2004, LECT NOTES COMPUT SC, V3348, P343
+   McGrew David A, 2004, Paper 2004/193
+   Minematsu Kazuhiko, 2016, Information Security and Privacy. 21st Australasian Conference, ACISP 2016. Proceedings: LNCS 9723, P347, DOI 10.1007/978-3-319-40367-0_22
+   Namprempre C, 2014, LECT NOTES COMPUT SC, V8441, P257, DOI 10.1007/978-3-642-55220-5_15
+   Peyrin T, 2016, LECT NOTES COMPUT SC, V9814, P33, DOI 10.1007/978-3-662-53018-4_2
+   RABIN MO, 1972, COMMUN PUR APPL MATH, V25, P433, DOI 10.1002/cpa.3160250405
+   Rogaway P, 2004, LECT NOTES COMPUT SC, V3017, P348
+   Rogaway P, 2006, LECT NOTES COMPUT SC, V4004, P373
+   Rogaway Phillip., 2001, P 8 ACM C COMPUTER C, P196
+   Sarkar P, 2011, INFORM PROCESS LETT, V111, P945, DOI 10.1016/j.ipl.2011.06.014
+   Sarkar P, 2009, IEEE T INFORM THEORY, V55, P4749, DOI 10.1109/TIT.2009.2027487
+   Shoup V., 1996, Advances in Cryptology - CRYPTO'96. 16th Annual International Cryptology Conference. Proceedings, P313
+   WEGMAN MN, 1981, J COMPUT SYST SCI, V22, P265, DOI 10.1016/0022-0000(81)90033-7
+NR 32
+TC 0
+Z9 0
+U1 2
+U2 2
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 1
+BP 114
+EP 134
+DI 10.46586/tosc.v2024.i1.114-134
+PG 21
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA KI5R0
+UT WOS:001179348500011
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Xiang, ZJ
+   Wang, XY
+   Yu, B
+   Sun, B
+   Zhang, SS
+   Zeng, XY
+   Shen, X
+   Li, N
+AF Xiang, Zejun
+   Wang, Xiaoyu
+   Yu, Bo
+   Sun, Bing
+   Zhang, Shasha
+   Zeng, Xiangyong
+   Shen, Xuan
+   Li, Nian
+TI Links between Quantum Distinguishers Based on Simon's Algorithm and
+   Truncated Differentials
+SO IACR TRANSACTIONS ON SYMMETRIC CRYPTOLOGY
+LA English
+DT Article
+DE Simon's Algorithm; Truncated Differentials; LBlock; SIMON Unified
+   Structures
+ID ATTACKS; TRAILS
+AB In this paper, we study the quantum security of block ciphers based on Simon's period-finding quantum algorithm. We explored the relations between periodic functions and truncated differentials. The basic observation is that truncated differentials with a probability of 1 can be used to construct periodic functions, and two such constructions are presented with the help of a new notion called differenceannihilation matrix . This technique releases us from the tedious manual work of verifying the period of functions. Based on these new constructions, we find an 8 -round quantum distinguisher for LBlock and a 9/10/11/13/15 -round quantum distinguisher for SIMON -32/48/64/96/128 which are the best results as far as we know. Besides, to explore the security bounds of block cipher structures against Simon's algorithm based quantum attacks, the unified structure, which unifies the Feistel, Lai-Massey, and most generalized Feistel structures, is studied. We estimate the exact round number of probability 1 truncated differentials that one can construct. Based on these results, one can easily check the quantum security of specific block ciphers that are special cases of unified structures, when the details of the non-linear building blocks are not considered.
+C1 [Xiang, Zejun; Zhang, Shasha; Li, Nian] Hubei Univ, Sch Cyber Sci & Technol, Wuhan 430062, Hubei, Peoples R China.
+   [Xiang, Zejun] State Key Lab Cryptol, POB 5159, Beijing 100878, Peoples R China.
+   [Wang, Xiaoyu; Zeng, Xiangyong] Hubei Univ, Fac Math & Stat, Wuhan 430062, Hubei, Peoples R China.
+   [Yu, Bo; Sun, Bing] Natl Univ Def Technol, Coll Sci, Changsha 410073, Hunan, Peoples R China.
+   [Sun, Bing] Natl Univ Def Technol, Ctr Cryptol Res, Changsha 410073, Hunan, Peoples R China.
+   [Shen, Xuan] Natl Univ Def Technol, Coll Informat & Commun, Wuhan 430010, Hubei, Peoples R China.
+C3 Hubei University; Hubei University; National University of Defense
+   Technology - China; National University of Defense Technology - China;
+   National University of Defense Technology - China
+RP Xiang, ZJ (corresponding author), Hubei Univ, Sch Cyber Sci & Technol, Wuhan 430062, Hubei, Peoples R China.; Xiang, ZJ (corresponding author), State Key Lab Cryptol, POB 5159, Beijing 100878, Peoples R China.
+EM xiangzejun@hubu.edu.cn; wangxiaoyu@stu.hubu.edu.cn; xzeng@hubu.edu.cn;
+   sunbing06@nudt.edu.cn; amushasha@163.com; bo_yu99@outlook.com;
+   shenxuan_08@163.com; nian.li@hubu.edu.cn
+FU National Natural Science Foundation of China [62272147, U2336209,
+   62272470]; Science and Technology on Communication Security Laboratory
+   Foundation [6142103012207]; Innovation Group Project of the Natural
+   Science Foundation of Hubei Province of China [2023AFA021]; Wuhan
+   Science and Technology Bureau [2022010801020328]; Scientific Research
+   Plan of National University of Defense Technology [ZK21-36]; Innovation
+   Program for Quantum Science and Technology [2021ZD0302902]
+FX We would like to thank Professor Santanu Sarkar for his guidance and the
+   anonymous reviewers for their valuable comments and suggestions. This
+   work was supported by the National Natural Science Foundation of China
+   (No: 62272147, U2336209, 62272470) , the Science and Technology on
+   Communication Security Laboratory Foundation (No: 6142103012207) , the
+   Innovation Group Project of the Natural Science Foundation of Hubei
+   Province of China (No: 2023AFA021) , the Wuhan Science and Technology
+   Bureau (No: 2022010801020328) , the Scientific Research Plan of National
+   University of Defense Technology (No: ZK21-36) , and the Innovation
+   Program for Quantum Science and Technology (No: 2021ZD0302902) .
+CR Blondeau Celine, 2014, Lecture Notes in Computer Science, V8540, P411
+   Bonnetain X, 2019, IACR T SYMMETRIC CRY, V2019, P55, DOI 10.13154/tosc.v2019.i2.55-93
+   Bonnetain X, 2019, LECT NOTES COMPUT SC, V11921, P552, DOI 10.1007/978-3-030-34578-5_20
+   Bonnetain Xavier, 2019, Lecture Notes in Computer Science, V11959, P1
+   Canale F, 2022, LECT NOTES COMPUT SC, V13509, P779, DOI 10.1007/978-3-031-15982-4_26
+   Chauhan AK, 2021, IACR T SYMMETRIC CRY, V2021, P316, DOI 10.46586/tosc.v2021.i1.316-336
+   Cid C, 2020, LECT NOTES COMPUT SC, V12578, P373, DOI 10.1007/978-3-030-65277-7_17
+   Cu JY, 2021, QUANTUM INF PROCESS, V20, DOI 10.1007/s11128-021-03027-x
+   Dong XY, 2020, DESIGN CODE CRYPTOGR, V88, P1179, DOI 10.1007/s10623-020-00741-y
+   Dong XY, 2019, SCI CHINA INFORM SCI, V62, DOI 10.1007/s11432-017-9436-7
+   Dong XY, 2018, SCI CHINA INFORM SCI, V61, DOI 10.1007/s11432-017-9468-y
+   Grover L. K., 1996, Proceedings of the Twenty-Eighth Annual ACM Symposium on the Theory of Computing, P212, DOI 10.1145/237814.237866
+   Hodzic S, 2020, QUANTUM INF PROCESS, V19, DOI 10.1007/s11128-020-02929-6
+   Hodzic S, 2020, LECT NOTES COMPUT SC, V12100, P461, DOI 10.1007/978-3-030-44223-1_25
+   Hosoyamada A, 2020, LECT NOTES COMPUT SC, V12106, P249, DOI 10.1007/978-3-030-45724-2_9
+   Hosoyamada A, 2018, LECT NOTES COMPUT SC, V11035, P386, DOI 10.1007/978-3-319-98113-0_21
+   Ito Gembu, 2019, Lecture Notes in Computer Science, V11405, P1
+   Kaplan M, 2016, IACR T SYMMETRIC CRY, V2016, P71, DOI 10.13154/tosc.v2016.i1.71-94
+   Kaplan M, 2016, LECT NOTES COMPUT SC, V9815, P207, DOI 10.1007/978-3-662-53008-5_8
+   Kölbl S, 2015, LECT NOTES COMPUT SC, V9215, P161, DOI 10.1007/978-3-662-47989-6_8
+   Kuwakado H, 2010, IEEE INT SYMP INFO, P2682, DOI 10.1109/ISIT.2010.5513654
+   Kuwakado Hidenori, 2012, Lecture Notes in Computer Science, V1008, P196
+   Leander Alexander, 2017, Lecture Notes in Computer Science, V10625, P1
+   Leander G, 2018, IACR T SYMMETRIC CRY, V2018, P74, DOI 10.13154/tosc.v2018.i1.74-100
+   Leurent G, 2021, LECT NOTES COMPUT SC, V13090, P272, DOI 10.1007/978-3-030-92062-3_10
+   Liu Jiajie, 2022, IEEE Transactions on Information Theory
+   Liu ZB, 2017, IACR T SYMMETRIC CRY, V2017, P358, DOI 10.13154/tosc.v2017.i1.358-379
+   Mao SP, 2022, LECT NOTES COMPUT SC, V13512, P205, DOI 10.1007/978-3-031-17234-2_11
+   May A, 2022, IACR T SYMMETRIC CRY, V2022, P183, DOI 10.46586/tosc.v2022.i1.183-211
+   Ni BY, 2019, LECT NOTES COMPUT SC, V11898, P433, DOI 10.1007/978-3-030-35423-7_22
+   Shor PW, 1997, SIAM J COMPUT, V26, P1484, DOI 10.1137/S0036144598347011
+   SIMON DR, 1994, AN S FDN CO, P116, DOI 10.1137/S0097539796298637
+   Sun B, 2015, LECT NOTES COMPUT SC, V9215, P95, DOI 10.1007/978-3-662-47989-6_5
+   Wang Senpeng, 2019, Lecture Notes in Computer Science, V11923, P1
+   Wu WL, 2011, LECT NOTES COMPUT SC, V6715, P327, DOI 10.1007/978-3-642-21554-4_19
+   Xiang ZJ, 2016, LECT NOTES COMPUT SC, V10031, P648, DOI 10.1007/978-3-662-53887-6_24
+   Xiaoyang Dong, 2020, Advances in Cryptology - ASIACRYPT 2020. 26th International Conference on the Theory and Application of Cryptology and Information Security. Proceedings. Lecture Notes in Computer Science (LNCS 12492), P727, DOI 10.1007/978-3-030-64834-3_25
+   Zhang ZY, 2023, CHINESE J ELECTRON, V32, P209, DOI 10.23919/cje.2021.00.294
+   Zhao GY, 2015, SECUR COMMUN NETW, V8, P2875, DOI 10.1002/sec.1213
+NR 39
+TC 0
+Z9 0
+U1 0
+U2 0
+PU RUHR-UNIV BOCHUM, HORST GORTZ INST IT-SICHERHEIT
+PI BOCHUM
+PA NA 5-30, UNIVERSITATSSTR 150, BOCHUM, GERMANY
+EI 2519-173X
+J9 IACR T SYMMETRIC CRY
+JI IACR Trans. Symmetric Cryptol.
+PY 2024
+VL 2024
+IS 2
+BP 296
+EP 321
+DI 10.46586/tosc.v2024.i2.296-321
+PG 26
+WC Computer Science, Software Engineering; Computer Science, Theory &
+   Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA WB5R6
+UT WOS:001252426800011
+OA gold
+DA 2024-08-05
+ER
+
+EF

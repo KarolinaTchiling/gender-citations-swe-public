@@ -1,0 +1,2405 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Sun, H
+   Xu, JF
+   Jiang, XX
+   Chen, GZ
+   Yue, YL
+   Qin, X
+AF Sun, Hui
+   Xu, Jinfeng
+   Jiang, Xiangxiang
+   Chen, Guanzhong
+   Yue, Yinliang
+   Qin, Xiao
+TI gLSM: Using GPGPU to Accelerate Compactions in LSM-tree-based Key-value
+   Stores
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE LSM-tree; key-value store; GPGPU; compaction; CUDA
+AB Log-structured-merge tree or LSM-tree is a technological underpinning in key-value (KV) stores to support a wide range of performance-critical applications. By conducting data re-organization in the background by virtue of compaction operations, the KV stores have the potential to swiftly service write requests with sequential batched diskwrites and read requests for KV items constantly sorted by the compaction. Compaction demands high I/O bandwidth and CPU speed to facilitate quality service to user read/write requests. With the emergence of high-speed SSDs, CPUs are increasingly becoming a performance bottleneck. To mitigate the bottleneck limiting the KV-store's performance and that of the applications supported by the store, we propose a system - gLSM - to leverage GPGPU to remarkably accelerate the compaction operations. gLSM fully utilizes the parallelism and computational capability inside GPGPUs to improve the compaction performance. We design a driver framework to parallelize compaction operations handled between a pair of CPU and GPGPU. We employ data independence and GPGPU-orient radix-sorting algorithm to concurrently conduct compaction. A key-value separation method is devised to slash the transfer of data volume from CPU-side memory to the GPGPU counterpart. The results reveal that gLSM improves the throughput and compaction bandwidth by up to a factor of 2.9 and 26.0, respectively, compared with the four state-of-the-art KV stores. gLSM also reduces the write latency by 73.3%. gLSM exhibits a performance improvement by up to 45% compared against its variant where there are no KV separation and collaboration sort modules.
+C1 [Sun, Hui; Xu, Jinfeng; Jiang, Xiangxiang; Chen, Guanzhong] Anhui Univ, 111 Jiulong RD, Hefei 230601, Anhui, Peoples R China.
+   [Yue, Yinliang] Zhongguancun Lab, Cuihu North Rd 2, Beijing, Peoples R China.
+   [Qin, Xiao] Auburn Univ, Auburn, AL USA.
+C3 Anhui University; Zhongguancun Laboratory; Auburn University System;
+   Auburn University
+RP Sun, H (corresponding author), Anhui Univ, 111 Jiulong RD, Hefei 230601, Anhui, Peoples R China.
+EM sunhui@ahu.edu.cn; jfxu@ahu.edu.cn; xxjiang@ahu.edu.cn;
+   gzchen@ahu.edu.cn; yylhust@qq.com; xqin@auburn.edu
+OI Yue, Yinliang/0000-0002-8417-2234
+FU National Natural Science Foundation of China [61702004, 62072001]; U.S.
+   National Science Foundation [IIS-1618669, CCF-0845257]
+FX This work was supported in part by the National Natural Science
+   Foundation of China under Grants 61702004 and 62072001. The work of Xiao
+   Qin was supported by the U.S. National Science Foundation under Grants
+   IIS-1618669 and CCF-0845257.
+CR Atikoglu Berk, 2012, Performance Evaluation Review, V40, P53, DOI 10.1145/2318857.2254766
+   Balmau O, 2017, PROCEEDINGS OF THE TWELFTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS 2017), P80, DOI 10.1145/3064176.3064193
+   Balmau O, 2017, 2017 USENIX ANNUAL TECHNICAL CONFERENCE (USENIX ATC '17), P363
+   Chai YP, 2022, IEEE T KNOWL DATA EN, V34, P2595, DOI 10.1109/TKDE.2020.3019264
+   Chan HHW, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P1007
+   Golan-Gueta G., 2015, P 10 EUR C COMP SYST, p32:1, DOI DOI 10.1145/2741948.2741973
+   Google, 2017, LevelDB, LevelDB is a fast key-value storage
+   Ha L, 2009, COMPUT GRAPH FORUM, V28, P2368, DOI 10.1111/j.1467-8659.2009.01542.x
+   Hetherington T. H., 2012, 2012 IEEE International Symposium on Performance Analysis of Systems & Software (ISPASS), P88, DOI 10.1109/ISPASS.2012.6189209
+   Hollowell C, 2015, J PHYS CONF SER, V664, DOI 10.1088/1742-6596/664/9/092010
+   Huang G, 2019, INT CONF MANAGE DATA, P651, DOI 10.1145/3299869.3314041
+   Im J, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P173
+   Jin YQ, 2017, INT S HIGH PERF COMP, P373, DOI 10.1109/HPCA.2017.15
+   Kaibo Wang, 2014, ACM SIGMETRICS Performance Evaluation Review, V42, P533, DOI 10.1145/2591971.2592002
+   Kannan S, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P993
+   King Colin Ian, 2020, Stress-ng
+   Lameter C., 2013, ACM Queue, V11, P40, DOI 10.1145/2508834.2513149
+   Li YN, 2010, PROC VLDB ENDOW, V3, P1195, DOI 10.14778/1920841.1920990
+   Liang SW, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P395
+   Lu LY, 2016, 14TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '16), P133
+   Mei F, 2018, PROCEEDINGS OF THE 2018 ACM SYMPOSIUM ON CLOUD COMPUTING (SOCC '18), P477, DOI 10.1145/3267809.3267829
+   Nvidia, 2022, NVIDIA TESLA K80
+   Nvidia, 2022, NVIDIA TESLA P100, The world's first AI supercomputing data centre GPU
+   Nvidia, 2016, Single-pass Parallel Prefix Scan with Decoupled Look-back
+   Nvidia, 2012, Nvidia-smi-NVIDIA System Management Interface program
+   Nvidia, 2020, A Faster Radix Sort Implementation
+   Pan FF, 2017, INT J PARALLEL PROG, V45, P1310, DOI 10.1007/s10766-016-0472-z
+   Raju P, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P497, DOI 10.1145/3132747.3132765
+   Shetty Pradeep J, 2013, C FIL STOR TECHN FAS, P17
+   Silberstein M, 2013, ACM SIGPLAN NOTICES, V48, P485, DOI 10.1145/2499368.2451169
+   Sun H, 2018, Arxiv, DOI arXiv:1807.04151
+   Sun H, 2018, IEEE ACCESS, V6, P61233, DOI 10.1109/ACCESS.2018.2873579
+   Sun Hui, 2019, P 48 INT C PARALLEL, V5
+   Sun X, 2020, PROC INT CONF DATA, P1261, DOI 10.1109/ICDE48307.2020.00113
+   Tang CL, 2022, IEEE T PARALL DISTR, V33, P3375, DOI 10.1109/TPDS.2022.3149003
+   Wang Peng, 2014, P EUROPEAN C COMPUTE
+   Wu SM, 2018, DES AUT TEST EUROPE, P563, DOI 10.23919/DATE.2018.8342070
+   Wu XN, 2015, METHODS MOL BIOL, V1306, P71, DOI 10.1007/978-1-4939-2648-0_5
+   Xia F, 2017, 2017 USENIX ANNUAL TECHNICAL CONFERENCE (USENIX ATC '17), P349
+   Xu P, 2020, Arxiv, DOI arXiv:2004.03054
+   Yao T, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P17
+   Yao T, 2017, ACM T STORAGE, V13, DOI 10.1145/3139922
+   Yue YL, 2017, IEEE T PARALL DISTR, V28, P961, DOI 10.1109/TPDS.2016.2609912
+   Zhang T, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P225
+   Zhao XS, 2021, PROC INT CONF DATA, P1404, DOI 10.1109/ICDE51399.2021.00125
+   Zigang Zhang, 2014, 2014 IEEE International Parallel & Distributed Processing Symposium (IPDPS), P777, DOI 10.1109/IPDPS.2014.85
+NR 46
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD FEB
+PY 2024
+VL 20
+IS 1
+DI 10.1145/3633782
+PG 41
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK0E2
+UT WOS:001193389200005
+DA 2024-08-05
+ER
+
+PT J
+AU Paul, AK
+   Neuwirth, S
+   Wadhwa, B
+   Wang, F
+   Oral, S
+   Butt, AR
+AF Paul, Arnab K.
+   Neuwirth, Sarah
+   Wadhwa, Bharti
+   Wang, Feiyi
+   Oral, Sarp
+   Butt, Ali R.
+TI Tarazu: An Adaptive End-to-end I/O Load-balancing Framework for
+   Large-scale Parallel File Systems
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Parallel file system; progressive file layout; lustre; time series
+   modeling
+AB The imbalanced I/O load on large parallel file systems affects the parallel I/O performance of high-performance computing (HPC) applications. One of the main reasons for I/O imbalances is the lack of a global view of system-wide resource consumption. While approaches to address the problem already exist, the diversity of HPC workloads combined with different file striping patterns prevents widespread adoption of these approaches. In addition, load-balancing techniques should be transparent to client applications. To address these issues, we propose Tarazu, an end-to-end control plane where clients transparently and adaptively write to a set of selected I/O servers to achieve balanced data placement. Our control plane leverages real-time load statistics for global data placement on distributed storage servers, while our design model employs trace-based optimization techniques to minimize latency for I/O load requests between clients and servers and to handle multiple striping patterns in files. We evaluate our proposed system on an experimental cluster for two common use cases: the synthetic I/O benchmark IOR and the scientific application I/O kernel HACC-I/O. We also use a discrete-time simulator with real HPC application traces from emerging workloads running on the Summit supercomputer to validate the effectiveness and scalability of Tarazu in large-scale storage environments. The results show improvements in load balancing and read performance of up to 33% and 43%, respectively, compared to the state-of-the-art.
+C1 [Paul, Arnab K.] BITS Pilani, Birla Inst Technol & Sci, Goa Campus, Zuarinagar 403726, Goa, India.
+   [Neuwirth, Sarah] Johannes Gutenberg Univ Mainz, Zentrum Datenverarbeitung, D-55099 Mainz, Germany.
+   [Wadhwa, Bharti] IBM Res, Yorktown Hts, NY 10598 USA.
+   [Wang, Feiyi; Oral, Sarp] Oak Ridge Natl Lab, 1 Bethel Valley Rd, Oak Ridge, TN 37830 USA.
+   [Butt, Ali R.] Virginia Tech, Blacksburg, VA 24061 USA.
+C3 Birla Institute of Technology & Science Pilani (BITS Pilani); Johannes
+   Gutenberg University of Mainz; International Business Machines (IBM);
+   United States Department of Energy (DOE); Oak Ridge National Laboratory;
+   Virginia Polytechnic Institute & State University
+RP Paul, AK (corresponding author), BITS Pilani, Birla Inst Technol & Sci, Goa Campus, Zuarinagar 403726, Goa, India.
+EM arnabp@goa.bits-pilani.ac.in; neuwirth@uni-mainz.de; wadhwa@ibm.com;
+   fwang2@ornl.gov; oralhs@ornl.gov; butta@vt.edu
+OI Neuwirth, Sarah M./0000-0001-7409-153X; Paul, Arnab
+   Kumar/0000-0002-3694-5511
+FU National Science Foundation [CCF-1919113, CNS-1405697, CNS-1615411,
+   CNS-1565314/1838271 OAC-1835890, CSR-2312785, CSR-2106634/2312785,
+   CCF-1919113/1919075]; Office of Science of the DOE [DE-AC05-00OR22725];
+   European High-Performance Computing Joint Undertaking (JU) [101033975];
+   European Union;  [BITS Pilani -BBF/BITS(G)/FY2022-23/BCPS-123]; 
+   [GOA/ACG/2022-2023/Oct/11];  [BPGC/RIG/2021-22/06-2022/02]
+FX This work has been sponsored in part by the National Science Foundation
+   under grants CCF-1919113, CNS-1405697, CNS-1615411, CNS-1565314/1838271
+   OAC-1835890, CSR-2312785, CSR-2106634/2312785, and CCF-1919113/1919075.
+   This research also used resources of the Oak Ridge Leadership Computing
+   Facility, located in the National Center for Computational Sciences at
+   the Oak Ridge National Laboratory, which is supported by the Office of
+   Science of the DOE under Contract DE-AC05-00OR22725. We also acknowledge
+   the support of EUPEX, which has received funding from the European
+   High-Performance Computing Joint Undertaking (JU) under GA No 101033975.
+   The JU receives support from the European Union's Horizon 2020 research
+   and innovation programme, France, Germany, Italy, Greece, United
+   Kingdom, Czech Republic, and Croatia. This work is also sponsored by the
+   grants in BITS Pilani -BBF/BITS(G)/FY2022-23/BCPS-123,
+   GOA/ACG/2022-2023/Oct/11, and BPGC/RIG/2021-22/06-2022/02.
+CR Abadi M, 2016, PROCEEDINGS OF OSDI'16: 12TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P265
+   Agarwal M, 2019, PROCEEDINGS OF PDSW 2019: 2019 IEEE/ACM FOURTH INTERNATIONAL PARALLEL DATA SYSTEMS WORKSHOP (PDSW), P20, DOI 10.1109/PDSW49588.2019.00007
+   [Anonymous], 2017, Network Flows: Theory, Algorithms, and Applications
+   Anwar Ali, 2018, Towards Efficient and Flexible Object Storage Using Resource and Functional Partitioning
+   Anwar Ali., 2016, P 25 ACM INT S HIGH, P177, DOI DOI 10.1145/2907294.2907304
+   Bagbaba A, 2021, 2021 IEEE INTERNATIONAL PARALLEL AND DISTRIBUTED PROCESSING SYMPOSIUM WORKSHOPS (IPDPSW), P798, DOI 10.1109/IPDPSW52791.2021.00118
+   Bagbaba A, 2020, IEEE SYM PARA DISTR, P814, DOI 10.1109/IPDPSW50202.2020.00138
+   Behzad B, 2019, ACM TRANS PARALLEL C, V5, DOI 10.1145/3309205
+   Bez JL, 2024, ACM COMPUT SURV, V56, DOI 10.1145/3611007
+   Braam P.J., 2004, The Lustre Storage Architecture
+   Brockwell PJ, 2016, SPRINGER TEXTS STAT, P1, DOI 10.1007/978-3-319-29854-2
+   Carns P, 2009, 2009 IEEE INTERNATIONAL CONFERENCE ON CLUSTER COMPUTING AND WORKSHOPS, P516
+   Carothers CD, 1999, THIRTEENTH WORKSHOP ON PARALLEL AND DISTRIBUTED SIMULATION - PROCEEDINGS, P126, DOI [10.1109/PADS.1999.766169, 10.1145/347823.347828]
+   Chowdhury F, 2019, PROC INT CONF PARAL, DOI 10.1145/3337821.3337902
+   Cope J., 2011, WORKSH EM SUP TECHN
+   da Silva RF, 2017, FUTURE GENER COMP SY, V75, P228, DOI 10.1016/j.future.2017.02.026
+   da Silva Rafael Ferreira, 2021, arXiv
+   Daley CS, 2020, FUTURE GENER COMP SY, V110, P468, DOI 10.1016/j.future.2017.12.022
+   Dong B, 2012, J PARALLEL DISTR COM, V72, P1254, DOI 10.1016/j.jpdc.2012.05.006
+   Dorier M, 2016, IEEE T PARALL DISTR, V27, P2435, DOI 10.1109/TPDS.2015.2485980
+   Dorier M, 2012, IEEE INT C CL COMP, P155, DOI 10.1109/CLUSTER.2012.26
+   Erazo MA, 2012, I C DEPEND SYS NETWO
+   Feng B, 2014, 2014 9TH PARALLEL DATA STORAGE WORKSHOP (PDSW), P37, DOI 10.1109/PDSW.2014.12
+   Folk Mike, 2011, EDBT ICDT 11 WORKSH
+   Fragalla J, 2020, CONCURR COMP-PRACT E, V32, DOI 10.1002/cpe.5649
+   Garlick Jim, 2010, Lustre Monitoring Tool (LMT)
+   Habib S, 2013, INT CONF HIGH PERFOR, DOI 10.1145/2503210.2504566
+   He SB, 2015, INT PARALL DISTRIB P, P613, DOI 10.1109/IPDPS.2015.23
+   Heichler Jan, 2014, An Introduction to BeeGFS v1.1
+   Hintjens Pieter, 2013, ZeroMQ: messaging for many applications
+   Huaiming Song, 2011, 2011 Proceedings of 11th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2011), P414, DOI 10.1109/CCGrid.2011.26
+   Huang L, 2020, INT C PAR DISTRIB SY, P486, DOI 10.1109/ICPADS51040.2020.00069
+   Ji X, 2019, PROCEEDINGS OF THE 17TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P265
+   Kim SJ, 2012, 2012 SC COMPANION: HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS (SCC), P18, DOI 10.1109/SC.Companion.2012.14
+   Koo D, 2016, 2016 IEEE 1ST INTERNATIONAL WORKSHOPS ON FOUNDATIONS AND APPLICATIONS OF SELF* SYSTEMS (FAS*W), P90, DOI 10.1109/FAS-W.2016.30
+   Kumar Anoop S., 2016, 2016 International Conference on Information Technology (ICIT). Proceedings, P294, DOI 10.1109/ICIT.2016.065
+   Lawrence Berkeley National Laboratory and Argonne National Laboratory, 2022, TOKIO: Total Knowledge of I/O
+   Lawrence Livermore National Laboratory, 2021, IOR Benchmark Summary
+   Leverman Dustin, 2022, PLATF ADV SCI COMP C
+   Li XQ, 2014, J SUPERCOMPUT, V68, P996, DOI 10.1007/s11227-013-1077-6
+   Lim SH, 2017, SC'17: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS, DOI 10.1145/3126908.3126924
+   Liu YG, 2013, IEEE S MASS STOR SYS
+   Liu Yonggang, 2011, 7 IEEE INT WORKSH ST
+   Lockwood GK, 2017, PROCEEDINGS OF PDSW-DISCS 2017: 2ND JOINT INTERNATIONAL WORKSHOP ON PARALLEL DATA STORAGE & DATA INTENSIVE SCALABLE COMPUTING SYSTEMS, P55, DOI 10.1145/3149393.3149395
+   Lustre Networking, 2008, High-Performance Features and Flexible Support for a Wide Array of Networks
+   Luu H, 2013, IEEE INT C CL COMP
+   Mathuriya A, 2018, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE, AND ANALYSIS (SC'18)
+   Mohr Rick, 2016, CRAY US GROUP C CUG
+   Molina-Estolano E, 2009, J PHYS CONF SER, V180, DOI 10.1088/1742-6596/180/1/012050
+   Mueller F, 2012, LECT NOTES COMPUT SC, V7134, P410
+   Neuwirth S, 2021, IEEE INT C CL COMP, P671, DOI 10.1109/Cluster48925.2021.00100
+   Neuwirth S, 2017, INT C PAR DISTRIB SY, P604, DOI 10.1109/ICPADS.2017.00084
+   Neuwirth Sarah, 2018, Ph. D. Dissertation
+   NSNAM, 2023, NS- 3 Network Simulator
+   Oak Ridge Leadership Facility, 2022, Titan Supercomputer
+   Oak Ridge National Laboratory, 2022, Frontier Supercomputer
+   Oak Ridge National Laboratory, 2021, Summit Supercomputer
+   Oly J., 2002, Conference Proceedings of the 2002 International Conference on SUPERCOMPUTING, P147, DOI 10.1145/514191.514214
+   OpenSFS and EOFS, 2021, Lustre Operations Manual 2.x
+   Oral S, 2014, INT CONF HIGH PERFOR, P217, DOI 10.1109/SC.2014.23
+   Parallel Data Lab, 2024, The DiskSim Simulation Environment (V4.0)
+   Parekh A, 2020, LECT N MECH ENG, P213, DOI 10.1007/978-981-13-9008-1_18
+   Patel T, 2019, PROCEEDINGS OF SC19: THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS, DOI 10.1145/3295500.3356183
+   Patel T, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P91
+   Paul AK, 2021, I S MOD ANAL SIM COM, P198, DOI 10.1109/MASCOTS53633.2021.9614303
+   Paul AK, 2020, INT C HIGH PERFORM, P202, DOI 10.1109/HiPC50609.2020.00034
+   Paul AK, 2017, PROCEEDINGS OF PDSW-DISCS 2017: 2ND JOINT INTERNATIONAL WORKSHOP ON PARALLEL DATA STORAGE & DATA INTENSIVE SCALABLE COMPUTING SYSTEMS, P49, DOI 10.1145/3149393.3149402
+   Paul AK, 2017, IEEE INT CONF BIG DA, P233, DOI 10.1109/BigData.2017.8257931
+   Paul AK, 2017, ADV SYST ANAL SOFTW, P136, DOI 10.4018/978-1-5225-1721-4.ch006
+   Paul AK, 2016, IEEE INT C CL COMP, P110, DOI 10.1109/CLUSTER.2016.41
+   Pfister Gregory F, 2001, High Performance Mass Storage and Parallel I/O, V42, P102
+   Prabhat Quincey, 2014, High Performance Parallel I/O
+   Qian YJ, 2009, COMPUT SCI-RES DEV, V23, P143, DOI [10.1007/S00450-009-0073-9, 10.1007/s00450-009-0073-9]
+   Qian Yingjin, 2009, Lustre Simulator
+   Rajesh Neeraj, 2021, P 30 INT S HIGH PERF, P147, DOI [10.1145/3431379.3460640, DOI 10.1145/3431379.3460640]
+   Sarukkai RR, 2000, COMPUT NETW, V33, P377, DOI 10.1016/S1389-1286(00)00044-X
+   Schmuck F, 2002, USENIX ASSOCIATION PROCEEDINGS OF THE FAST'02 CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P231
+   Snyder S, 2016, PROCEEDINGS OF ESPT 2016: 5TH WORKSHOP ON EXTREME-SCALE PROGRAMMING TOOLS, P9, DOI 10.1109/ESPT.2016.006
+   Snyder Shane, 2015, 6 INT WORKSH PERF MO, DOI [10.1145/2832087, DOI 10.1145/2832087]
+   Sunggon Kim, 2020, HPDC '20: Proceedings of the 29th International Symposium on High-Performance Parallel and Distributed Computing, P77, DOI 10.1145/3369583.3392678
+   Thakur R., 1999, P 6 WORKSHOP IO PARA, P23
+   TOP500.org, 2022, TOP500 List
+   Tsujita Y, 2017, LECT NOTES COMPUT SC, V10266, P315, DOI 10.1007/978-3-319-58667-0_17
+   Tucker A., 1977, Mathematics of Operations Research, V2, P143, DOI 10.1287/moor.2.2.143
+   Uselton A., 2010, Proceedings of the IEEE International Symposium on Parallel Distributed Processing (IPDPS), P1, DOI DOI 10.1109/IPDPS.2010.5470424
+   Vazhkudai SS, 2017, SC'17: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS, DOI 10.1145/3126908.3126946
+   Wadhwa B, 2019, INT PARALL DISTRIB P, P610, DOI 10.1109/IPDPS.2019.00070
+   Walli Stephen R., 1995, StandardView, V3, P11
+   Wang C, 2020, IEEE SYM PARA DISTR, P1052, DOI 10.1109/IPDPSW50202.2020.00176
+   Wang FY, 2014, INT C PAR DISTRIB SY, P656, DOI 10.1109/PADSW.2014.7097866
+   Wang Feiyi., 2013, Performance and scalability evaluation of the Ceph parallel file system, P14, DOI DOI 10.1145/2538542.2538562
+   Weil SA, 2006, USENIX ASSOCIATION 7TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P307
+   Wiedemann MC, 2013, COMPUT SCI-RES DEV, V28, P241, DOI 10.1007/s00450-012-0221-5
+   Wright SA, 2013, COMPUT J, V56, P141, DOI 10.1093/comjnl/bxs044
+   Wu X., 2013, ACM INT C SUP, P59
+   Xenopoulos P, 2016, 2016 IEEE INTERNATIONAL CONFERENCE ON BIG DATA (BIG DATA), P2295
+   Xie SC, 2018, J ADV MODEL EARTH SY, V10, P2618, DOI 10.1029/2018MS001350
+   Xing Wu, 2011, 2011 International Conference on Parallel Processing, P196, DOI 10.1109/ICPP.2011.50
+   Xu Cong, 2016, CRAY US GROUP M CUG
+   Xuan PF, 2017, PARALLEL COMPUT, V61, P18, DOI 10.1016/j.parco.2016.08.001
+   Yang B, 2023, ACM T STORAGE, V19, DOI 10.1145/3568425
+   Yang B, 2022, INT PARALL DISTRIB P, P1294, DOI 10.1109/IPDPS53621.2022.00128
+   Yang B, 2019, PROCEEDINGS OF THE 16TH USENIX SYMPOSIUM ON NETWORKED SYSTEMS DESIGN AND IMPLEMENTATION, P379
+   Zeng Z, 2008, IEEE T KNOWL DATA EN, V20, P369, DOI 10.1109/TKDE.2007.190694
+   Zheng G., 2004, Proceedings. 18th International Parallel and Distributed Processing Symposium
+   Zhu MF, 2013, 2013 IEEE 15TH INTERNATIONAL CONFERENCE ON HIGH PERFORMANCE COMPUTING AND COMMUNICATIONS & 2013 IEEE INTERNATIONAL CONFERENCE ON EMBEDDED AND UBIQUITOUS COMPUTING (HPCC_EUC), P511, DOI 10.1109/HPCC.and.EUC.2013.79
+   Zhu ZB, 2022, IEEE INT C CL COMP, P581, DOI 10.1109/CLUSTER51413.2022.00076
+   Zhu Zhaobin, 2023, ISC HIGH PERFORMANCE, DOI [10.13140/RG.2.2.10671.92325, DOI 10.13140/RG.2.2.10671.92325]
+   Zingaretti Laura, 2022, Deep Learning for Genomic Prediction (DeepGP)
+NR 109
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD MAY
+PY 2024
+VL 20
+IS 2
+AR 11
+DI 10.1145/3641885
+PG 42
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RG9I6
+UT WOS:001226627400005
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Xu, W
+   Koren, I
+AF Xu, Wang
+   Koren, Israel
+TI A Scalable Wear Leveling Technique for Phase Change Memory
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE PCM; wear leveling; scalability
+ID PCM
+AB Phase Change Memory (PCM), one of the recently proposed non-volatile memory technologies, has been suffering from lowwrite endurance. For example, a single-layer PCM cell could only be written approximately 10(8)x. This limits the lifetime of a PCM-basedmemory to a fewdays rather than yearswhenmemory-intensive applications are running. Wear leveling techniques have been proposed to improve the write endurance of a PCM. Among those techniques, the region-based start-gap (RBSG) scheme is widely cited as achieving the highest lifetime. Based on our experiments, RBSG can achieve 97% of the ideal lifetime, but only for relatively small memory sizes (e.g., 8-32GB). As the memory size goes up, RBSG becomes less effective and its expected percentage of the ideal lifetime reduces to less than 57% for a 2TB PCM. In this article, we propose a table-based wear leveling scheme called block grouping to enhance the write endurance of a PCM with a negligible overhead. Our research results show that with a proper configuration and adoption of partial writes (writing back only 64B subblocks instead of a whole row to the PCM arrays) and internal row shift (shifting the subblocks in a row periodically so no subblock in a row will be written repeatedly), the proposed block grouping scheme could achieve 95% of the ideal lifetime on average for the Rodinia, NPB, and SPEC benchmarks with less than 1.74% performance overhead and up to 0.18% hardware overhead. Moreover, our scheme is scalable and achieves the same percentage of ideal lifetime for PCM of size from 8GB to 2TB. We also show that the proposed scheme can better tolerate memory write attacks thanWoLFRaM (Wear Leveling and Fault Tolerance for Resistive Memories) and RBSG for a PCM of size 32GB or higher. Finally, we integrate an error-correcting pointer technique into our proposed block grouping scheme to make the PCM fault tolerant against hard errors.
+C1 [Xu, Wang; Koren, Israel] Univ Massachusetts Amherst, ECE Dept, Amherst, MA 01003 USA.
+C3 University of Massachusetts System; University of Massachusetts Amherst
+RP Xu, W (corresponding author), Univ Massachusetts Amherst, ECE Dept, Amherst, MA 01003 USA.
+EM wangx@umass.edu; koren@ecs.umass.edu
+CR Alsuwaiyan A, 2018, ACM J EMERG TECH COM, V14, DOI 10.1145/3154841
+   [Anonymous], 2014, P 2014 51 ACMEDACIEE, DOI DOI 10.1109/DAC.2014.6881363
+   Balasubramonian R., 2008, Lecture: DRAM Main Memory.
+   Carlson TE, 2014, ACM T ARCHIT CODE OP, V11, P127, DOI 10.1145/2629677
+   Che SA, 2009, I S WORKL CHAR PROC, P44, DOI 10.1109/IISWC.2009.5306797
+   Chuang PIJ, 2014, IEEE T CIRCUITS-I, V61, P160, DOI 10.1109/TCSI.2013.2268591
+   Dell Technologies, 2021, Dell EMC NVDIMM-N Persistent Memory: User Guide
+   Ferreira AP, 2010, DES AUT TEST EUROPE, P914
+   Fong SW, 2017, IEEE T ELECTRON DEV, V64, P4374, DOI 10.1109/TED.2017.2746342
+   HP Labs, 2008, CACTI
+   Huang FT, 2017, DES AUT TEST EUROPE, P910, DOI 10.23919/DATE.2017.7927118
+   Huang FT, 2016, INT PARALL DISTRIB P, P1081, DOI 10.1109/IPDPS.2016.22
+   Jiang L, 2011, I C DEPEND SYS NETWO, P221, DOI 10.1109/DSN.2011.5958221
+   Lee BC, 2009, CONF PROC INT SYMP C, P2, DOI 10.1145/1555815.1555758
+   Micron Technology, 2023, DDR4 SDRAM.
+   Mittal S, 2017, COMPUTERS, V6, DOI 10.3390/computers6010008
+   NASA, 2002, NAS Parallel Benchmarks
+   Poremba M, 2015, DES AUT TEST EUROPE, P1543
+   Qureshi Moinuddin K., 2009, Proceedings of the 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2009), P14, DOI 10.1145/1669112.1669117
+   Sangyeun Cho, 2009, Proceedings of the 2009 42nd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2009), P347
+   Schechter S, 2010, CONF PROC INT SYMP C, P141
+   Seong NH, 2010, CONF PROC INT SYMP C, P383, DOI 10.1145/1816038.1816014
+   SPEC, 2006, SPEC CPU Benchmarks
+   Wang RJ, 2017, IEEE COMPUT ARCHIT L, V16, P107, DOI 10.1109/LCA.2017.2675883
+   Wang RJ, 2015, ACM SIGPLAN NOTICES, V50, P19, DOI 10.1145/2694344.2694352
+   Yavits L, 2020, PR IEEE COMP DESIGN, P187, DOI [10.1109/ICCD50377.2020.00044, 10.1109/iccd50377.2020.00044]
+   Yavits L, 2017, IEEE COMPUT ARCHIT L, V16, P141, DOI 10.1109/LCA.2017.2670539
+   Young V, 2015, ACM SIGPLAN NOTICES, V50, P33, DOI [10.1145/2775054.2694387, 10.1145/2694344.2694387]
+   Zhang X, 2017, DES AUT CON, DOI 10.1145/3061639.3062329
+   Zhou P, 2009, CONF PROC INT SYMP C, P14, DOI 10.1145/1555815.1555759
+NR 30
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD FEB
+PY 2024
+VL 20
+IS 1
+DI 10.1145/3631146
+PG 26
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK0E2
+UT WOS:001193389200003
+DA 2024-08-05
+ER
+
+PT J
+AU Kim, D
+   Lee, J
+   Lim, KS
+   Heo, J
+   Ham, TJ
+   Lee, JW
+AF Kim, Donguk
+   Lee, Jongsung
+   Lim, Keun Soo
+   Heo, Jun
+   Ham, Tae Jun
+   Lee, Jae W.
+TI An LSM Tree Augmented with B<SUP>+</SUP> Tree on Nonvolatile Memory
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Nonvolatile memory; key-value store; LSM tree; compaction
+AB Modern log-structured merge (LSM) tree-based key-value stores are widely used to process update-heavy workloads effectively as the LSM tree sequentializes write requests to a storage device to maximize storage performance. However, this append-only approach leaves many outdated copies of frequently updated key-value pairs, which need to be routinely cleaned up through the operation called compaction. When the system load is modest, compaction happens in background. However, at a high system load, it can quickly become the major performance bottleneck. To address this compaction bottleneck and further improve the write throughput of LSM tree-based key-value stores, we propose LAB-DB, which augments the existing LSM tree with a pair of B+ trees on byte-addressable nonvolatile memory (NVM). The auxiliary B+ trees on NVM reduce both compaction frequency and compaction time, hence leading to lower compaction overhead for writes and fewer storage accesses for reads. According to our evaluation of LAB-DB on RocksDB with YCSB benchmarks, LAB-DB achieves 94% and 67% speedups on two write-intensive workloads (Workload A and F), and also a 43% geomean speedup on read-intensive YCSB Workload B, C, D, and E. This performance gain comes with a low cost of NVM whose size is just 0.6% of the entire dataset to demonstrate the scalability of LAB-DB with an ever increasing volume of future datasets.
+C1 [Kim, Donguk; Lee, Jongsung; Lim, Keun Soo; Heo, Jun; Ham, Tae Jun; Lee, Jae W.] Seoul Natl Univ, 1 Gwanak Ro, Seoul 08826, South Korea.
+   [Kim, Donguk; Lee, Jongsung] Samsung Elect, 1 Gwanak Ro, Seoul 08826, South Korea.
+C3 Seoul National University (SNU); Samsung Electronics; Samsung
+RP Lee, JW (corresponding author), Seoul Natl Univ, 1 Gwanak Ro, Seoul 08826, South Korea.
+EM dongukim12@snu.ac.kr; leitia@snu.ac.kr; me9907@snu.ac.kr;
+   j.heo@snu.ac.kr; taejunham@snu.ac.kr; jaewlee@snu.ac.kr
+FU Institute of Information & Communications Technology Planning &
+   Evaluation (IITP) - Korea Government (MSIT) [2021-0-00853]
+FX This work was supported in part by an Institute of Information &
+   Communications Technology Planning & Evaluation (IITP) grant
+   (2021-0-00853, Developing Software Platform for PIM Programming) funded
+   by the Korea Government (MSIT)..
+CR [Anonymous], 2017, RocksDB
+   Apache, 2012, HBase
+   Apache, 2012, Cassandra
+   Bae DH, 2018, CONF PROC INT SYMP C, P425, DOI 10.1109/ISCA.2018.00043
+   Balmau O, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P753
+   Balmau O, 2017, 2017 USENIX ANNUAL TECHNICAL CONFERENCE (USENIX ATC '17), P363
+   Basescu C, 2012, I C DEPEND SYS NETWO
+   Bindschaedler L, 2020, TWENTY-FIFTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXV), P301, DOI 10.1145/3373376.3378504
+   Cantalupo C., 2015, Memkind Library
+   Chan HHW, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P1007
+   Chang F, 2008, ACM T COMPUT SYST, V26, DOI 10.1145/1365815.1365816
+   Chen H, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P17
+   Conway A, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P49
+   Cooper BF, 2010, Proceedings of the 1st ACM Symposium on Cloud Computing, SoCC'10, P143, DOI DOI 10.1145/1807128.1807152
+   Dai YF, 2020, PROCEEDINGS OF THE 14TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '20), P155
+   Dayan N, 2018, INT CONF MANAGE DATA, P505, DOI 10.1145/3183713.3196927
+   Dayan N, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P79, DOI 10.1145/3035918.3064054
+   Debnath B., 2011, P 2011 ACM SIGMOD IN, P25
+   Debnath B, 2010, PROC VLDB ENDOW, V3, P1414, DOI 10.14778/1920841.1921015
+   Debnath Biplob, 2015, P 3 WORKSH INT NVM F, DOI [10.1145/2819001.2819002, DOI 10.1145/2819001.2819002]
+   DeCandia Giuseppe, 2007, Operating Systems Review, V41, P205, DOI 10.1145/1323293.1294281
+   Eisenman A, 2018, EUROSYS '18: PROCEEDINGS OF THE THIRTEENTH EUROSYS CONFERENCE, DOI 10.1145/3190508.3190524
+   Golan-Gueta G., 2015, P 10 EUR C COMP SYST, p32:1, DOI DOI 10.1145/2741948.2741973
+   Google, 2014, LevelDB
+   Huang YH, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P967
+   Hwang D, 2018, PROCEEDINGS OF THE 16TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P187
+   Im J, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P173
+   Intel, 2019, pmemkv
+   Intel, 2019, Technology Brief: Intel Optane Technology
+   Izraelevitz J., 2019, arXiv
+   Jin YQ, 2017, INT S HIGH PERF COMP, P373, DOI 10.1109/HPCA.2017.15
+   Kaiyrakhmet O, 2019, PROCEEDINGS OF THE 17TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P191
+   Kannan S, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P993
+   Kim J, 2017, SC'17: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS, DOI 10.1145/31269003126943
+   Lepers B, 2019, PROCEEDINGS OF THE TWENTY-SEVENTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '19), P447, DOI 10.1145/3341301.3359628
+   Lersch L, 2017, LECT NOTES COMPUT SC, V10509, P326, DOI 10.1007/978-3-319-66917-5_22
+   Li WJ, 2020, 17TH ACM INTERNATIONAL CONFERENCE ON COMPUTING FRONTIERS 2020 (CF 2020), P208, DOI 10.1145/3387902.3392621
+   Lim H, 2011, SOSP 11: PROCEEDINGS OF THE TWENTY-THIRD ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P1
+   Lu LY, 2017, ACM T STORAGE, V13, DOI 10.1145/3033273
+   MAO Y., 2012, EUROSYS, P183
+   Marmol L., 2015, P USENIX ANN TECH C, P207
+   Oukid I, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P371, DOI 10.1145/2882903.2915251
+   Pan FF, 2017, INT J PARALLEL PROG, V45, P1310, DOI 10.1007/s10766-016-0472-z
+   Raju P, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P497, DOI 10.1145/3132747.3132765
+   Redis Labs, 2009, Redis
+   Ren K, 2017, PROC VLDB ENDOW, V10, P2037, DOI 10.14778/3151106.3151108
+   Sanjay Ghemawat Jeff Dean, 2019, HyperLevelDB.
+   Sears Russell, 2012, P 2012 ACM SIGMOD IN, P217, DOI DOI 10.1145/2213836.2213862
+   Sun X, 2020, PROC INT CONF DATA, P1261, DOI 10.1109/ICDE48307.2020.00113
+   Venkataraman S., 2011, Proceedings of the 9th USENIX Conference on File and Stroage Technologies, FAST'11
+   Wang P, 2014, EUROSYS
+   Wu X., 2015, 2015 USENIX ANN TECH, P71
+   Xanthakis G, 2021, PROCEEDINGS OF THE 2021 ACM SYMPOSIUM ON CLOUD COMPUTING (SOCC '21), P305, DOI 10.1145/3472883.3487012
+   Yao T, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P17
+   Yao T, 2017, ACM T STORAGE, V13, DOI 10.1145/3139922
+   Yoon J, 2020, ANN I S COM, P693, DOI 10.1109/ISCA45697.2020.00063
+   Zhang BQ, 2021, ACM T STORAGE, V17, DOI 10.1145/3453300
+   Zhang T, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P225
+NR 58
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD FEB
+PY 2024
+VL 20
+IS 1
+DI 10.1145/3633475
+PG 24
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK0E2
+UT WOS:001193389200004
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Wang, J
+   Lu, YY
+   Wang, Q
+   Zhang, YH
+   Shu, JW
+AF Wang, Jing
+   Lu, Youyou
+   Wang, Qing
+   Zhang, Yuhao
+   Shu, Jiwu
+TI Perseid: A Secondary Indexing Mechanism for LSM-Based Storage Systems
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE LSM-tree; secondary indexes; persistent memory
+AB LSM-based storage systems are widely used for superior write performance on block devices. However, they currently fail to efficiently support secondary indexing, since a secondary index query operation usually needs to retrieve multiple small values, which scatter in multiple LSM components. In this work, we revisit secondary indexing in LSM-based storage systems with byte-addressable persistent memory (PM). Existing PM-based indexes are not directly competent for efficient secondary indexing. We propose Perseid, an efficient PM-based secondary indexing mechanism for LSM-based storage systems, which takes into account both characteristics of PM and secondary indexing. Perseid consists of (1) a specifically designed secondary index structure that achieves high-performance insertion and query, (2) a lightweight hybrid PM-DRAM and hash-based validation approach to filter out obsolete values with subtle overhead, and (3) two adapted optimizations on primary table searching issued from secondary indexes to accelerate non-index-only queries. Our evaluation shows that Perseid outperforms existing PM-based indexes by 3-7x and achieves about two orders of magnitude performance of state-of-the-art LSM-based secondary indexing techniques even if on PM instead of disks.
+C1 [Wang, Jing; Lu, Youyou; Wang, Qing; Zhang, Yuhao; Shu, Jiwu] Tsinghua Univ, Dept Comp Sci & Technol, 30 Shuangqing Rd, Beijing 100084, Peoples R China.
+C3 Tsinghua University
+RP Shu, JW (corresponding author), Tsinghua Univ, Dept Comp Sci & Technol, 30 Shuangqing Rd, Beijing 100084, Peoples R China.
+EM wangjing19@mails.tsinghua.edu.cn; luyouyou@tsinghua.edu.cn;
+   wq1997@tsinghua.edu.cn; zhangyuhao@tsinghua.edu.cn;
+   shujw@tsinghua.edu.cn
+OI Shu, Jiwu/0000-0002-7362-2789
+FU National Key R&D Program of China [2021YFB0300500]; National Natural
+   Science Foundation of China [61832011, U22B2023, 62022051]; Huawei
+FX This work is supported by National Key R&D Program of China (Grant No.
+   2021YFB0300500), the National Natural Science Foundation of China (Grant
+   No. 61832011, U22B2023, 62022051), and Huawei.
+CR Alsubaiee S, 2014, PROC VLDB ENDOW, V7, P1905, DOI 10.14778/2733085.2733096
+   [Anonymous], 2023, MS-SSD-Samsung
+   [Anonymous], 2022, Apache Cassandra
+   [Anonymous], 2022, MySQL Glossary for Covering Index
+   [Anonymous], 2022, Compute Express Link 3.0
+   [Anonymous], 2022, MongoDB
+   [Anonymous], 2022, PostgreSQL: Documentation: Index-Only Scans and Covering Indexes
+   [Anonymous], 2022, Persistent Memory Development Kit
+   [Anonymous], 2022, Apache Cassandra: How are Indexes Stored And Updated
+   [Anonymous], 2022, Chirp: A Twitter-like Workload Generator
+   [Anonymous], 2015, P 2 INT ACM WORKSH M, DOI DOI 10.1145/2786006.2786007
+   [Anonymous], 2022, Samsung Electronics Unveils Far-Reaching, Next-Generation Memory Solutions at Flash Memory Summit 2022
+   Armstrong Timothy G., 2013, P 2013 ACM SIGMOD IN, P1185, DOI DOI 10.1145/2463676.2465296
+   Bhandari K, 2016, ACM SIGPLAN NOTICES, V51, P677, DOI 10.1145/3022671.2984019
+   Cai WT, 2020, PROCEEDINGS OF THE 25TH ACM SIGPLAN SYMPOSIUM ON PRINCIPLES AND PRACTICE OF PARALLEL PROGRAMMING (PPOPP '20), P421, DOI [10.1145/3332466.3374502, 10.1145/3381898.3397212]
+   Cao ZC, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P209
+   Chen Y., 2020, Proc. VLDB Endow., V13, P2634, DOI [10.14778/3407790.3407850, DOI 10.14778/3407790.3407850]
+   Chen YM, 2020, TWENTY-FIFTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXV), P1077, DOI 10.1145/3373376.3378515
+   Cooper BF, 2010, Proceedings of the 1st ACM Symposium on Cloud Computing, SoCC'10, P143, DOI DOI 10.1145/1807128.1807152
+   Corbett JC, 2013, ACM T COMPUT SYST, V31, DOI 10.1145/2491245
+   Dai YF, 2020, PROCEEDINGS OF THE 14TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '20), P155
+   Dang Z, 2022, ASPLOS '22: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS, P115, DOI 10.1145/3503222.3507743
+   David T, 2015, ACM SIGPLAN NOTICES, V50, P631, DOI [10.1145/2694344.2694359, 10.1145/2775054.2694359]
+   Dayan N, 2021, INT CONF MANAGE DATA, P365, DOI 10.1145/3448016.3457273
+   Dayan N, 2017, SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P79, DOI 10.1145/3035918.3064054
+   Eisenman A, 2018, EUROSYS '18: PROCEEDINGS OF THE THIRTEENTH EUROSYS CONFERENCE, DOI 10.1145/3190508.3190524
+   Facebook, 2022, RocksDB Tuning Guide
+   Facebook, 2022, Rocks DB
+   Ghemawat Sanjay, 2022, LevelDB
+   Hwang D, 2018, PROCEEDINGS OF THE 16TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P187
+   Kaiyrakhmet O, 2019, PROCEEDINGS OF THE 17TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P191
+   Kannan S, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P993
+   Kassa HT, 2022, ACM T STORAGE, V18, DOI 10.1145/3511905
+   Kassa HT, 2021, PROCEEDINGS OF THE 2021 USENIX ANNUAL TECHNICAL CONFERENCE, P821
+   Kim J, 2021, INT CONF MANAGE DATA, P938, DOI 10.1145/3448016.3452783
+   Kim WH, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P424, DOI 10.1145/3477132.3483589
+   Kipf A, 2020, PROC VLDB ENDOW, V13, P3559, DOI 10.14778/3424573.3424577
+   Lee SK, 2019, PROCEEDINGS OF THE TWENTY-SEVENTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '19), P462, DOI 10.1145/3341301.3359635
+   Lepers B, 2020, PROCEEDINGS OF THE 14TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '20), P425
+   Lepers B, 2019, PROCEEDINGS OF THE TWENTY-SEVENTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '19), P447, DOI 10.1145/3341301.3359628
+   Li F, 2020, INT CON DISTR COMP S, P1112, DOI 10.1109/ICDCS47774.2020.00071
+   Liu JH, 2020, PROC VLDB ENDOW, V13, P1078, DOI 10.14778/3384345.3384355
+   Lu BT, 2020, PROC VLDB ENDOW, V13, P1147, DOI 10.14778/3389133.3389134
+   Lu LY, 2016, 14TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '16), P133
+   Lu YY, 2017, 2017 USENIX ANNUAL TECHNICAL CONFERENCE (USENIX ATC '17), P773
+   Luo C, 2020, VLDB J, V29, P393, DOI 10.1007/s00778-019-00555-y
+   Luo C, 2019, PROC VLDB ENDOW, V12, P531, DOI 10.14778/3303753.3303759
+   Ma SN, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P1
+   MAO Y., 2012, EUROSYS, P183
+   Matsunobu Y, 2020, PROC VLDB ENDOW, V13, P3217, DOI 10.14778/3415478.3415546
+   Nam M, 2019, PROCEEDINGS OF THE 17TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P31
+   Oukid I, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P371, DOI 10.1145/2882903.2915251
+   Qader MA, 2018, INT CONF MANAGE DATA, P551, DOI 10.1145/3183713.3196900
+   QingWang Youyou Lu, 2023, ACM Transactions on Storage, V20
+   Raju P, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P497, DOI 10.1145/3132747.3132765
+   Ruan Chaoyi, 2023, ASPLOS 2023: Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, P498, DOI 10.1145/3582016.3582055
+   Rumble Stephen M., 2014, P 12 USENIX C FIL ST, P1
+   Shu JW, 2020, ACM T STORAGE, V16, DOI 10.1145/3412852
+   Tang YZ, 2015, IEEE ACM INT SYMP, P11, DOI 10.1109/CCGrid.2015.150
+   Wang J, 2023, PROCEEDINGS OF THE 2023 USENIX ANNUAL TECHNICAL CONFERENCE, P817
+   Wang J, 2022, PROCEEDINGS OF THE 2022 USENIX ANNUAL TECHNICAL CONFERENCE, P773
+   Wang Q, 2021, PROCEEDINGS OF THE 15TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '21), P93
+   Wu X., 2015, 2015 USENIX ANN TECH, P71
+   Xiang LF, 2022, PROCEEDINGS OF THE SEVENTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS '22), P488, DOI 10.1145/3492321.3519556
+   Xie MH, 2023, PROC VLDB ENDOW, V16, P1013, DOI 10.14778/3579075.3579077
+   Yan BY, 2021, PROC VLDB ENDOW, V14, P1872, DOI 10.14778/3467861.3467875
+   Yang J, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P169
+   Yao T, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P17
+   Zhang HC, 2020, SIGMOD'20: PROCEEDINGS OF THE 2020 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1601, DOI 10.1145/3318464.3380583
+   Zhang WH, 2021, PROCEEDINGS OF THE SIXTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS '21), P194, DOI 10.1145/3447786.3456237
+   Zhou XJ, 2019, PROC VLDB ENDOW, V13, P421, DOI 10.14778/3372716.3372717
+   Zuo PF, 2018, PROCEEDINGS OF THE 13TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P461
+NR 72
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD MAY
+PY 2024
+VL 20
+IS 2
+AR 9
+DI 10.1145/3633285
+PG 28
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RG9I6
+UT WOS:001226627400003
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Stylianakis, G
+   Saloustros, G
+   Chiotakis, O
+   Xanthakis, G
+   Forth, AB
+AF Stylianakis, Giorgos
+   Saloustros, Giorgos
+   Chiotakis, Orestis
+   Xanthakis, Giorgos
+   Forth, Angelos Bilas
+TI Index Shipping for Efficient Replication in LSM Key-Value Stores with
+   Hybrid KV Placement
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Key value stores; LSM tree; B plus tree; flash; RDMA
+AB Key-value (KV) stores based on the LSM tree have become a foundational layer in the storage stack of datacenters and cloud services. Current approaches for achieving reliability and availability favor reducing network traffic and send to replicas only new KV pairs. As a result, they perform costly compactions to reorganize data in both the primary and backup nodes, which increases device I/O traffic and CPU overhead, and eventually hurts overall system performance. In this article, we describe Tebis, an efficient LSM-based KV store that reduces I/O amplification and CPU overhead for maintaining the replica index. We use a primary-backup replication scheme that performs compactions only on the primary nodes and sends pre-built indexes to backup nodes, avoiding all compactions in backup nodes. Our approach includes an efficient mechanism to deal with pointer translation across nodes in the pre-built region index. Our results show that Tebis reduces resource utilization on backup nodes compared to performing full compactions: throughput is increased by 1.06 to 2.90x, CPU efficiency is increased by 1.21 to 2.78x, and I/O amplification is reduced by 1.7 to 3.27x, whereas network traffic increases by up to 1.32 to 3.76x.
+C1 [Stylianakis, Giorgos; Saloustros, Giorgos; Chiotakis, Orestis; Xanthakis, Giorgos] FORTH, Inst Comp Sci, Iraklion, Crete, Greece.
+   [Stylianakis, Giorgos; Chiotakis, Orestis; Xanthakis, Giorgos; Forth, Angelos Bilas] Univ Crete, Comp Sci, Iraklion, Crete, Greece.
+   [Forth, Angelos Bilas] FORTH, Iraklion, Crete, Greece.
+C3 Foundation for Research & Technology - Hellas (FORTH); University of
+   Crete; Foundation for Research & Technology - Hellas (FORTH)
+RP Stylianakis, G (corresponding author), FORTH, Inst Comp Sci, Iraklion, Crete, Greece.; Stylianakis, G (corresponding author), Univ Crete, Comp Sci, Iraklion, Crete, Greece.
+EM geostyl@ics.forth.gr; gesalous@ics.forth.gr; orchiot@ics.forth.gr;
+   gxanth@ics.forth.gr; bilas@ics.forth.gr
+FU European High-Performance Computing Joint Undertaking (EuroHPC JU) under
+   project EUPEX [101033975]; European Union; European Commission under the
+   European High-Performance Computing Joint Undertaking (JU), through
+   project EUPEX [101033975]
+FX This work was supported by the European High-Performance Computing Joint
+   Undertaking (EuroHPC JU) under project EUPEX (grant agreement no.
+   101033975). The EuroHPC JU received support from the European Union's
+   Horizon 2020 research and innovation programme and France, Germany,
+   Italy, Greece, United Kingdom, Czech Republic, and Croatia. The work was
+   also supported by the European Commission under the European
+   High-Performance Computing Joint Undertaking (JU), through project EUPEX
+   (grant agreement no. 101033975).
+CR [Anonymous], 2024, BlobDB
+   Apache, 2018, HBase
+   Aurelius, 2012, TitanDB
+   Batsaras N, 2020, Arxiv, DOI arXiv:2003.00103
+   BAYER R, 1977, ACTA INFORM, V9, P1
+   Bayer R., 2002, Organization and maintenance of large ordered indexes
+   Bindschaedler L, 2020, TWENTY-FIFTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXV), P301, DOI 10.1145/3373376.3378504
+   Borthakur D., 2008, Hadoop Apache Project, V53, P2
+   Budhiraja N., 1993, The Primary-Backup Approach, Distributed Systems, V2, P199
+   Cao ZC, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P209
+   Chan HHW, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P1007
+   Chodorow Kristina, 2013, Mongodb: The definitive guide
+   Cooper BF, 2010, Proceedings of the 1st ACM Symposium on Cloud Computing, SoCC'10, P143, DOI DOI 10.1145/1807128.1807152
+   DeCandia Giuseppe, 2007, Operating Systems Review, V41, P205, DOI 10.1145/1323293.1294281
+   Dong S., 2017, P BIENN C INN DAT SY
+   Dragojevic Aleksandar, 2014, Proceedings of the 11th USENIX Conference on Networked Systems Design and Implementation, P401
+   Facebook, 2018, RocksDB
+   Gao YX, 2021, PROCEEDINGS OF THE 18TH USENIX SYMPOSIUM ON NETWORKED SYSTEM DESIGN AND IMPLEMENTATION, P519
+   Garefalakis P, 2014, SYM REL DIST SYST, P211, DOI 10.1109/SRDS.2014.43
+   Huang HY, 2021, INT CONF MANAGE DATA, P749, DOI 10.1145/3448016.3457297
+   Hunt Patrick, 2010, P 2010 USENIX C USEN, V8, DOI DOI 10.5555/1855840.1855851
+   InfiniBand Trade Association, 2015, IB Specification, V1
+   Jagadish HV, 1997, PROCEEDINGS OF THE TWENTY-THIRD INTERNATIONAL CONFERENCE ON VERY LARGE DATABASES, P16
+   Kalia A, 2016, PROCEEDINGS OF USENIX ATC '16: 2016 USENIX ANNUAL TECHNICAL CONFERENCE, P437
+   Kalia A, 2014, ACM SIGCOMM COMP COM, V44, P295, DOI [10.1145/2619239.2626299, 10.1145/2740070.2626299]
+   Lai CB, 2015, IEEE S MASS STOR SYS
+   Lakshman Avinash, 2010, Operating Systems Review, V44, P35, DOI 10.1145/1773912.1773922
+   Li HY, 2023, PROCEEDINGS OF THE 2023 USENIX ANNUAL TECHNICAL CONFERENCE, P689
+   Li YK, 2021, PROCEEDINGS OF THE 2021 USENIX ANNUAL TECHNICAL CONFERENCE, P673
+   Li Yongkun, 2022, P 20 USENIX C FIL ST
+   Lu LY, 2016, 14TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '16), P133
+   Marathe Virendra J., 2020, Microsecond Consensus for Microsecond Applications
+   Matsunobu Y, 2020, PROC VLDB ENDOW, V13, P3217, DOI 10.14778/3415478.3415546
+   Mitchell C., 2013, Proceedings of the 2013 USENIX Conference on Annual Technical Conference. USENIX ATC'13, P103
+   ONeil P, 1996, ACTA INFORM, V33, P351, DOI 10.1007/s002360050048
+   Ousterhout J, 2015, ACM T COMPUT SYST, V33, DOI 10.1145/2806887
+   Papagiannis A, 2018, PROCEEDINGS OF THE 2018 ACM SYMPOSIUM ON CLOUD COMPUTING (SOCC '18), P490, DOI 10.1145/3267809.3267824
+   Papagiannis A, 2016, PROCEEDINGS OF USENIX ATC '16: 2016 USENIX ANNUAL TECHNICAL CONFERENCE, P537
+   Poke M., 2015, P 24 INT S HIGH PERF, P107, DOI DOI 10.1145/2749246.2749267
+   Ren Jinglei, 2016, YCSB-C
+   Seagate, 2017, Data Age 2025
+   Sears R, 2008, PROC VLDB ENDOW, V1, P526, DOI 10.14778/1453856.1453914
+   Sears Russell, 2012, P 2012 ACM SIGMOD IN, P217, DOI DOI 10.1145/2213836.2213862
+   Singhvi A, 2021, SIGCOMM '21: PROCEEDINGS OF THE 2021 ACM SIGCOMM 2021 CONFERENCE, P93, DOI 10.1145/3452296.3472934
+   Taleb Y, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P851
+   Tsai SY, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P306, DOI 10.1145/3132747.3132762
+   van Renesse R, 2004, USENIX ASSOCIATION PROCEEDINGS OF THE SIXTH SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDE '04), P91
+   Vardoulakis M, 2022, PROCEEDINGS OF THE SEVENTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS '22), P85, DOI 10.1145/3492321.3519572
+   Wang C, 2017, PROCEEDINGS OF THE 2017 SYMPOSIUM ON CLOUD COMPUTING (SOCC '17), P94, DOI 10.1145/3127479.3128609
+   Wei XD, 2015, SOSP'15: PROCEEDINGS OF THE TWENTY-FIFTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P87, DOI 10.1145/2815400.2815419
+   Xanthakis G, 2021, PROCEEDINGS OF THE 2021 ACM SYMPOSIUM ON CLOUD COMPUTING (SOCC '21), P305, DOI 10.1145/3472883.3487012
+NR 51
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD AUG
+PY 2024
+VL 20
+IS 3
+AR 20
+DI 10.1145/3658672
+PG 23
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XM3Y6
+UT WOS:001262073000007
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Jang, J
+   Choi, H
+   Bae, H
+   Lee, S
+   Kwon, M
+   Jung, M
+AF Jang, Junhyeok
+   Choi, Hanjin
+   Bae, Hanyeoreum
+   Lee, Seungjun
+   Kwon, Miryeong
+   Jung, Myoungsoo
+TI Bridging Software-Hardware for CXL Memory Disaggregation in
+   Billion-Scale Nearest Neighbor Search
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Approximate Nearest Neighbor Search (ANNS); software/hardware co-design;
+   Compute Express Link (CXL)
+ID PRODUCT QUANTIZATION
+AB We propose CXL-ANNS, a software-hardware collaborative approach to enable scalable approximate nearest neighbor search (ANNS) services. To this end, we first disaggregate DRAM from the host via compute express link (CXL) and place all essential datasets into its memory pool. While this CXL memory pool allows ANNS to handle billion-point graphs without an accuracy loss, we observe that the search performance significantly degrades because of CXL's far-memory-like characteristics. To address this, CXL-ANNS considers the node-level relationship and caches the neighbors in local memory, which are expected to visit most frequently. For the uncached nodes, CXL-ANNS prefetches a set of nodes most likely to visit soon by understanding the graph traversing behaviors of ANNS. CXL-ANNS is also aware of the architectural structures of the CXL interconnect network and lets different hardware components collaborate with each other for the search. Furthermore, it relaxes the execution dependency of neighbor search tasks and allows ANNS to utilize all hardware in the CXL network in parallel.
+   Our evaluation shows that CXL-ANNS exhibits 93.3% lower query latency than state-of-the-art ANNS platforms that we tested. CXL-ANNS also outperforms an oracle ANNS system that has unlimited local DRAM capacity by 68.0%, in terms of latency.
+C1 [Jang, Junhyeok; Choi, Hanjin; Bae, Hanyeoreum; Lee, Seungjun; Kwon, Miryeong; Jung, Myoungsoo] Korea Adv Inst Sci & Technol, Daehak Ro, Daejeon, South Korea.
+   [Choi, Hanjin; Kwon, Miryeong; Jung, Myoungsoo] Panmnesia Inc, 42 Hanbat Daero 37 1beon Gil, Daejeon, South Korea.
+C3 Korea Advanced Institute of Science & Technology (KAIST)
+RP Jang, J (corresponding author), Korea Adv Inst Sci & Technol, Daehak Ro, Daejeon, South Korea.
+EM jhjang@camelab.org; hjchoi@camelab.org; hyr.bae@camelab.org;
+   sjlee@camelab.org; mkwon@camelab.org; mj@camelab.org
+OI Jang, Junhyeok/0000-0003-3053-396X
+FU Panmnesia
+FX The authors thank anonymous reviewers for their constructive feedback as
+   well as Panmnesia for their technical support. This work is supported by
+   Panmnesia and protected by one or more patents.
+CR Ahn J, 2015, 2015 ACM/IEEE 42ND ANNUAL INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE (ISCA), P105, DOI 10.1145/2749469.2750386
+   Anderson M, 2021, Arxiv, DOI arXiv:2107.04140
+   ARYA S, 1993, PROCEEDINGS OF THE FOURTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P271
+   Arya S, 1998, J ACM, V45, P891, DOI 10.1145/293347.293348
+   Aumüller M, 2017, LECT NOTES COMPUT SC, V10609, P34, DOI 10.1007/978-3-319-68474-1_3
+   Babenko A, 2015, IEEE T PATTERN ANAL, V37, P1247, DOI 10.1109/TPAMI.2014.2361319
+   Baltescu P, 2022, Arxiv, DOI arXiv:2205.11728
+   Celio Christopher, 2017, P 1 WORKSH COMP ARCH
+   Chen Q, 2021, ADV NEUR IN
+   Chen Rihan, 2022, P 31 ACM INT C INF K
+   CXL Consortium, 2022, Compute Express Link: The Breakthrough CPU-to-Device Interconnect
+   Dai Guohao, 2017, P 2017 ACM SIGDA INT
+   Dean J, 2013, COMMUN ACM, V56, P74, DOI 10.1145/2408776.2408794
+   Echihabi K, 2019, PROC VLDB ENDOW, V13, P403, DOI 10.14778/3368289.3368303
+   Fu C, 2019, PROC VLDB ENDOW, V12, P461, DOI 10.14778/3303753.3303754
+   Garcia V, 2008, PROC CVPR IEEE, P1107
+   Ge TZ, 2013, PROC CVPR IEEE, P2946, DOI 10.1109/CVPR.2013.379
+   Ghiasi NM, 2022, ASPLOS '22: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS, P635, DOI 10.1145/3503222.3507702
+   Gionis A, 1999, PROCEEDINGS OF THE TWENTY-FIFTH INTERNATIONAL CONFERENCE ON VERY LARGE DATA BASES, P518
+   Gollapudi Siddharth, 2023, P ACM WEB C 2023 WWW
+   Gouk D, 2022, PROCEEDINGS OF THE 2022 USENIX ANNUAL TECHNICAL CONFERENCE, P287
+   Guo RQ, 2020, PR MACH LEARN RES, V119
+   Gupta U, 2020, INT S HIGH PERF COMP, P488, DOI 10.1109/HPCA47549.2020.00047
+   Hajebi Kiana, 2011, P 22 INT JOINT C ART, P1312
+   Hartigan J. A., 1979, Applied Statistics, V28, P100, DOI 10.2307/2346830
+   Heo J, 2021, CONF PROC INT SYMP C, P279, DOI 10.1109/ISCA52012.2021.00030
+   Huang JT, 2020, KDD '20: PROCEEDINGS OF THE 26TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P2553, DOI 10.1145/3394486.3403305
+   Huang Q, 2015, PROC VLDB ENDOW, V9, P1
+   Inc UEFI Forum, 2021, Advanced Configuration and Power Interface (ACPI) Specification Version 6.4
+   Indyk P., 1998, Proceedings of the Thirtieth Annual ACM Symposium on Theory of Computing, P604, DOI 10.1145/276698.276876
+   Intel, 2021, Optane SSD 9 Series
+   Jégou H, 2011, IEEE T PATTERN ANAL, V33, P117, DOI 10.1109/TPAMI.2010.57
+   Jegou Herve., 2018, Faiss
+   Ke L, 2022, IEEE MICRO, V42, P116, DOI 10.1109/MM.2021.3097700
+   Ke Liu, 2020, P 2020 ACM IEEE 47 A
+   KNOWLTON KC, 1965, COMMUN ACM, V8, P623, DOI 10.1145/365628.365655
+   Kwon M, 2023, IEEE MICRO, V43, P66, DOI 10.1109/MM.2023.3237548
+   Kwon M, 2022, PROCEEDINGS OF THE 20TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, FAST 2022, P147
+   Kwon Y, 2019, MICRO'52: THE 52ND ANNUAL IEEE/ACM INTERNATIONAL SYMPOSIUM ON MICROARCHITECTURE, P740, DOI 10.1145/3352460.3358284
+   Lee Y, 2022, INT S HIGH PERF COMP, P169, DOI 10.1109/HPCA53966.2022.00021
+   Li HC, 2023, PROCEEDINGS OF THE 28TH ACM INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS, VOL 2, ASPLOS 2023, P574, DOI 10.1145/3575693.3578835
+   Li W, 2020, IEEE T KNOWL DATA EN, V32, P1475, DOI 10.1109/TKDE.2019.2909204
+   Liang CJM, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P323
+   Liang SW, 2022, PROCEEDINGS OF THE 59TH ACM/IEEE DESIGN AUTOMATION CONFERENCE, DAC 2022, P997, DOI 10.1145/3489517.3530560
+   Linaro, 2023, The Devicetree Specification
+   Liu JW, 2020, PROCEEDINGS OF THE 2020 USENIX CONFERENCE ON OPERATIONAL MACHINE LEARNING (OPML '20), P25
+   Liu T., 2004, P ADV NEURAL INFORM, P1
+   Lowe-Power J, 2020, Arxiv, DOI arXiv:2007.03152
+   Malkov YA, 2020, IEEE T PATTERN ANAL, V42, P824, DOI 10.1109/TPAMI.2018.2889473
+   Maruf Hasan Al, 2023, ASPLOS 2023: Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, P742, DOI 10.1145/3582016.3582063
+   Muja M, 2014, IEEE T PATTERN ANAL, V36, P2227, DOI 10.1109/TPAMI.2014.2321376
+   Nayak P., 2019, UNDERSTANDING SEARCH
+   Nider J., 2021, 2021 USENIX ANN TECH, P117
+   Pinkham R, 2020, INT S HIGH PERF COMP, P180, DOI 10.1109/HPCA47549.2020.00024
+   Rahman S, 2020, 2020 53RD ANNUAL IEEE/ACM INTERNATIONAL SYMPOSIUM ON MICROARCHITECTURE (MICRO 2020), P908, DOI 10.1109/MICRO50266.2020.00078
+   Ren Jie, 2020, Advances in Neural Information Processing Systems, V33, P10672
+   RogerWeber Hans-Jorg, 1998, P VLDB
+   Simhadri Harsha, 2021, Research Talk: Approximate Nearest Neighbor Search Systems at Scale
+   Simhadri Harsha Vardhan, 2022, PMLR
+   Singh A, 2021, Arxiv, DOI arXiv:2105.09613
+   Subramanya SJ, 2019, ADV NEUR IN, V32
+   Sun YF, 2014, PROC VLDB ENDOW, V8, P1
+   Thorup M, 1999, J ACM, V46, P362, DOI 10.1145/316542.316548
+   Waldburger Charlie, 2019, As Search Needs Evolve, Microsoft Makes AI Tools for Better Search Available to Researchers and Developers
+   Wang JG, 2021, INT CONF MANAGE DATA, P2614, DOI 10.1145/3448016.3457550
+   Wang JD, 2014, IEEE T PATTERN ANAL, V36, P388, DOI 10.1109/TPAMI.2013.125
+   Wang MZ, 2021, Arxiv, DOI arXiv:2101.12631
+   Yu YH, 2022, PROC INT CONF DATA, P552, DOI 10.1109/ICDE53745.2022.00046
+   Zeng CL, 2022, PROCEEDINGS OF THE 16TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, OSDI 2022, P841
+   Zhang JJ, 2022, PROCEEDINGS OF THE 28TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, KDD 2022, P4493, DOI 10.1145/3534678.3539212
+   Zhang MJ, 2019, PROCEEDINGS OF THE 28TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT (CIKM '19), P1673, DOI 10.1145/3357384.3357938
+   Zhang YH, 2018, KDD'18: PROCEEDINGS OF THE 24TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P993, DOI 10.1145/3219819.3219820
+   Zhao WJ, 2020, PROC INT CONF DATA, P1033, DOI 10.1109/ICDE48307.2020.00094
+   Zhu AD, 2013, 19TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD'13), P998
+NR 74
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD MAY
+PY 2024
+VL 20
+IS 2
+AR 10
+DI 10.1145/3639471
+PG 30
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RG9I6
+UT WOS:001226627400004
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Wu, JJ
+   Cai, ZG
+   Yang, F
+   Li, J
+   Trahay, F
+   Yang, Z
+   Wang, C
+   Liao, JW
+AF Wu, Jiaojiao
+   Cai, Zhigang
+   Yang, Fan
+   Li, Jun
+   Trahay, Francois
+   Yang, Zheng
+   Wang, Chao
+   Liao, Jianwei
+TI Polling Sanitization to Balance I/O Latency and Data Security of
+   High-density SSDs
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE High-density SSDs; I/O latency; data security; sanitization; polling;
+   scheduling
+ID ARTIFICIAL NEURAL-NETWORKS
+AB Sanitization is an effective approach for ensuring data security through scrubbing invalid but sensitive data pages, with the cost of impacts on storage performance due to moving out valid pages from the sanitization-required wordline, which is a logical read/write unit and consists of multiple pages in high-density SSDs. To minimize the impacts on I/O latency and data security, this article proposes a polling-based scheduling approach for data sanitization in high-density SSDs. Our method polls a specific SSD channel for completing data sanitization at the block granularity, meanwhile other channels can still service I/O requests. Furthermore, our method assigns a low priority to the blocks that are more likely to have future adjacent page invalidations inside sanitization-required wordlines, while selecting the sanitization block, to minimize the negative impacts of moving valid pages. Through a series of emulation experiments on several disk traces of real-world applications, we show that our proposal can decrease the negative effects of data sanitization in terms of the risk-performance index, which is a united time metric of I/O responsiveness and the unsafe time interval, by 16.34%, on average, compared to related sanitization methods.
+C1 [Wu, Jiaojiao; Cai, Zhigang; Yang, Fan; Li, Jun; Trahay, Francois; Wang, Chao; Liao, Jianwei] South West Univ, Chongqing 400715, Peoples R China.
+   [Trahay, Francois] Telecom Sud, Paris, France.
+C3 Southwest University - China; IMT - Institut Mines-Telecom; Institut
+   Polytechnique de Paris; Telecom SudParis
+RP Liao, JW (corresponding author), South West Univ, Chongqing 400715, Peoples R China.
+EM wuwudo328@163.com; czg@swu.edu.cn; fanyang0329@gmail.com;
+   junli95@email.swu.edu.cn; francois.trahay@telecom-sudparis.eu;
+   youngzheng@swu.edu.cn; wangch1@swu.edu.cn;
+   liaojianwei@il.is.s.u-tokyo.ac.jp
+RI ; Liao, Jianwei/C-5339-2016
+OI yang, fan/0000-0003-2172-0608; Zhigang, Cai/0000-0002-8406-8461; Liao,
+   Jianwei/0000-0001-6149-6650; Li, Jun/0000-0001-5235-6496
+FU National Natural Science Foundation of China [61872299]; Natural Science
+   Foundation Project of CQ CSTC [cstc2021ycjh-bgzxm0199, 2022NSCQ-MSX0789]
+FX This work was partially supported by National Natural Science Foundation
+   of China (No. 61872299), Natural Science Foundation Project of CQ CSTC
+   (No. cstc2021ycjh-bgzxm0199, 2022NSCQ-MSX0789).
+CR Abiodun OI, 2018, HELIYON, V4, DOI 10.1016/j.heliyon.2018.e00938
+   [Anonymous], 1996, Pub. Law, V104, P191
+   Basheer IA, 2000, J MICROBIOL METH, V43, P3, DOI 10.1016/S0167-7012(00)00201-3
+   cdn, 2020, Dwell Time as a Critical Security Success Metric
+   Chen NS, 2022, ASIA CCS'22: PROCEEDINGS OF THE 2022 ACM ASIA CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P54, DOI 10.1145/3488932.3523255
+   Cui JH, 2022, IEEE T COMPUT AID D, V41, P1771, DOI 10.1109/TCAD.2021.3100274
+   Diesburg S, 2012, 28TH ANNUAL COMPUTER SECURITY APPLICATIONS CONFERENCE (ACSAC 2012), P439
+   Fasano A, 2021, ASIA CCS'21: PROCEEDINGS OF THE 2021 ACM ASIA CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P687, DOI 10.1145/3433210.3453093
+   github, Alibaba Block Traces
+   Hasan Md Mehedi, 2020, P 29 USENIX SEC S US
+   Higuchi Tsutomu, 2021, 2021 IEEE INT SOL ST
+   Hu Y, 2013, IEEE T COMPUT, V62, P1141, DOI 10.1109/TC.2012.60
+   Jain AK, 1996, COMPUTER, V29, P31, DOI 10.1109/2.485891
+   Jia SJ, 2017, CCS'17: PROCEEDINGS OF THE 2017 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P2217, DOI 10.1145/3133956.3134011
+   Kang Jeong-Uk, 2006, P ACM INT C EMB SOFT
+   Kang Mincheol, 2022, IEEE Transactions on Computers (TC), V72, P3
+   Kang W, 2017, ACM T EMBED COMPUT S, V16, DOI 10.1145/3126537
+   Kim M, 2020, TWENTY-FIFTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXV), P1311, DOI 10.1145/3373376.3378490
+   Kissel R., 2014, GUIDELINES MEDIA SAN, DOI [DOI 10.6028/NIST.SP.800-88R1, 10.6028/nist.sp.800-88r1]
+   Lee C, 2017, SYSTOR'17: PROCEEDINGS OF THE 10TH ACM INTERNATIONAL SYSTEMS AND STORAGE CONFERENCE, DOI 10.1145/3078468.3078479
+   Lee J, 2017, IEEE COMPUT ARCHIT L, V16, P115, DOI 10.1109/LCA.2017.2667639
+   legislation, 2018, Data Protection Act
+   Li BZ, 2021, PR IEEE COMP DESIGN, P244, DOI 10.1109/ICCD53106.2021.00047
+   Li J, 2020, IEEE T COMPUT AID D, V39, P3956, DOI 10.1109/TCAD.2020.3012252
+   Liao JW, 2022, ACM T EMBED COMPUT S, V21, DOI 10.1145/3495254
+   Lin Pinghsien, 2018, P IEEE ACM INT C COM, P1
+   Liu RP, 2020, INT PARALL DISTRIB P, P966, DOI 10.1109/IPDPS47924.2020.00103
+   Liu WG, 2023, IEEE T PARALL DISTR, V34, P383, DOI 10.1109/TPDS.2022.3221410
+   Mathur Gaurav., 2006, P 4 INT C EMBEDDED N, P195
+   Mergendahl S, 2022, IEEE REAL TIME, P95, DOI 10.1109/RTAS54340.2022.00016
+   Mizushina K, 2018, IEEE INT SYMP CIRC S, DOI 10.1109/ISCAS.2018.8351440
+   Narayanan D, 2009, EUROSYS'09: PROCEEDINGS OF THE FOURTH EUROSYS CONFERENCE, P145
+   Parameswaran S, 2008, DES AUTOM EMBED SYST, V12, P173, DOI 10.1007/s10617-008-9027-x
+   Ramsay Craig, 2017, P 2017 HARDW SEC C T, P1
+   Raquibuzzaman M, 2022, PROCEEDINGS OF THE 15TH ACM INTERNATIONAL CONFERENCE ON SYSTEMS AND STORAGE, SYSTOR 2022, P85, DOI 10.1145/3534056.3534941
+   Reardon J., 2012, Proceedings of the 7th ACM Symposium on Information, Computer and Communications Security, P63
+   Reardon J, 2013, P IEEE S SECUR PRIV, P301, DOI 10.1109/SP.2013.28
+   Reardon Joel., 2012, Proceedings of the 21st USENIX Conference on Security Symposium, Security'12, P333
+   RUMELHART DE, 1986, NATURE, V323, P533, DOI 10.1038/323533a0
+   Song Lin, 2006, ACM Transaction on Storage, V2, P468, DOI 10.1145/1210596.1210601
+   Varian Hal R., 2010, Intermediate microeconomics: a modern approach, V8th ed.
+   Voigt P., 2017, A Practical Guide, V10, P10, DOI DOI 10.1007/978-3-319-57959-7
+   Wang SZ, 2021, IEEE T COMPUT AID D, V40, P430, DOI 10.1109/TCAD.2020.3001262
+   Wang WC, 2018, IEEE T COMPUT AID D, V37, P2790, DOI 10.1109/TCAD.2018.2857260
+   Wei, 2011, FAST, V11, P8
+   Wu F, 2018, DES AUT CON, DOI [10.1145/3195970.3196051, 10.1109/ICOPS35962.2018.9575531]
+   Zhang WH, 2018, INTERNATIONAL CONFERENCE ON SUPERCOMPUTING (ICS 2018), P22, DOI 10.1145/3205289.3205319
+NR 47
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD MAY
+PY 2024
+VL 20
+IS 2
+AR 13
+DI 10.1145/3639826
+PG 23
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RG9I6
+UT WOS:001226627400007
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Li, HB
+   Zhang, ZH
+   Yuan, YF
+   Du, R
+   Ma, K
+   Liu, LZ
+   Zhang, YM
+   Hsu, W
+AF Li, Huiba
+   Zhang, Zhihao
+   Yuan, Yifan
+   Du, Rui
+   Ma, Kai
+   Liu, Lanzheng
+   Zhang, Yiming
+   Hsu, Windsor
+TI Block-level Image Service for the Cloud
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Block storage; image service; on-demand data transfer; image layers
+AB Businesses increasingly need agile and elastic computing infrastructure to respond quickly to real-world situations. By offering efficient process-based virtualization and a layered image system, containers are designed to enable agile and elastic application deployment. However, creating or updating large container clusters is still slow due to the image downloading and unpacking process. In this article, we present DADI Image Service (DADI), a block-level image service for increased agility and elasticity in deploying applications. DADI replaces the waterfall model of starting containers (downloading image, unpacking image, starting container) with fine-grained on-demand transfer of remote images, realizing instant start of containers. To accelerate the cold start of containers, DADI designs a pull-based prefetching mechanism that allows a host to read necessary image data beforehand at the granularity of image layers. We design a peer-to-peer-based decentralized image sharing architecture to balance traffic among all the participating hosts and propose a pull-push collaborative prefetching mechanism to accelerate cold start. DADI efficiently supports various kinds of runtimes including cgroups, QEMU, and so on, further realizing "build once, run anywhere." DADI has been deployed at scale in the production environment of Alibaba, serving one of the world's largest ecommerce platforms. Performance results show that DADI can cold start 10,000 containers on 1,000 hosts within 4 s.
+C1 [Li, Huiba; Yuan, Yifan; Du, Rui; Ma, Kai; Liu, Lanzheng] Alibaba Grp, Beijing, Peoples R China.
+   [Zhang, Zhihao; Zhang, Yiming] Xiamen Univ, Xiamen, Peoples R China.
+   [Zhang, Zhihao; Zhang, Yiming] Alibaba Grp, Xiamen, Peoples R China.
+   [Hsu, Windsor] Alibaba Grp, Sunnyvale, CA 94085 USA.
+C3 Alibaba Group; Xiamen University; Alibaba Group; Alibaba Group
+RP Zhang, YM (corresponding author), Xiamen Univ, Xiamen, Peoples R China.; Zhang, YM (corresponding author), Alibaba Grp, Xiamen, Peoples R China.; Hsu, W (corresponding author), Alibaba Grp, Sunnyvale, CA 94085 USA.
+EM huiba.lhb@alibaba-inc.com; zhihaoz@stu.xmu.edu.cn;
+   tuji.yyf@alibaba-inc.com; ray.dr@alibaba-inc.com;
+   michael.mk@alibaba-inc.com; lanzheng.liulz@alibaba-inc.com;
+   zhangyiming@xmu.edu.cn; windsor.hsu@alibaba-inc.com
+RI Ma, kai/KSL-8338-2024
+OI Ma, kai/0009-0004-3748-2549; /0000-0001-8245-8346
+FU National Key Research and Development Program of China [2022YFB4500302];
+   Alibaba Research Fellow Project [CCT62WHZ1220002-16611630-1]
+FX This work is supported by the National Key Research and Development
+   Program of China (grant no. 2022YFB4500302) and the Alibaba Research
+   Fellow Project (grant no. CCT62WHZ1220002-16611630-1).
+CR 9p Virtio-KVM, About us
+   Aivaliotis Dimitri, 2015, P USENIX CONTAINER M
+   Alibaba Inc, Dragonfly: An Open-source P2P-based Image and File Distribution System.
+   Amazon, Secure and Fast microVMs for Serverless Computing.
+   [Anonymous], Everything You Need To Know About Amazon Hub Locker
+   [Anonymous], Minify and Secure Your Docker Containers
+   [Anonymous], One-third of the Web!
+   [Anonymous], NETWORK BLOCK DEVICE
+   [Anonymous], The Speed of Containers, the Security of VMs
+   Baldini I., 2017, Research Advances in Cloud Computing, P1, DOI DOI 10.1007/978-981-10-5026-8_1
+   Btrfs, About us
+   Cohen Bram., 2003, WORKSH EC PEER TO PE, V6, P68
+   Du L, 2017, 2017 19TH IEEE INTERNATIONAL CONFERENCE ON HIGH PERFORMANCE COMPUTING AND COMMUNICATIONS (HPCC) / 2017 15TH IEEE INTERNATIONAL CONFERENCE ON SMART CITY (SMARTCITY) / 2017 3RD IEEE INTERNATIONAL CONFERENCE ON DATA SCIENCE AND SYSTEMS (DSS), P332, DOI 10.1109/HPCC-SmartCity-DSS.2017.44
+   File Allocation Table, About us
+   Glass G, 2018, PROCEEDINGS OF THE 16TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P295
+   Google Inc, CRFS: Container Registry Filesystem.
+   gVisor, About us
+   Hardi N, 2018, J PHYS CONF SER, V1085, DOI 10.1088/1742-6596/1085/3/032019
+   Harter T, 2016, 14TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '16), P181
+   Jonas E., 2019, arXiv, DOI DOI 10.48550/ARXIV.1902.03383
+   Kivity A., 2014, 2014 USENIX annual technical conference (USENIX ATC 14), USENIX Association, V1, P61
+   Li HB, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P727
+   Li HB, 2019, PROCEEDINGS OF THE FOURTEENTH EUROSYS CONFERENCE 2019 (EUROSYS '19), DOI 10.1145/3302424.3303967
+   Liu HF, 2019, INT CONF MANAGE DATA, P1729, DOI 10.1145/3299869.3314046
+   Manco F, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P218, DOI 10.1145/3132747.3132763
+   Mickens James., 2014, Proceedings of the 11th USENIX Conference on Networked Systems Design and Implementation. NSDI'14, P257
+   Morita Kazutaka, 2010, P KVM FORUM KVM 10
+   OCI, OCI Artifacts.
+   Overlay Filesystem, About us
+   Project Teleport, About us
+   ROSENBLUM M, 1992, ACM T COMPUT SYST, V10, P26, DOI 10.1145/146941.146943
+   Spillane Richard P., 2016, P 8 USENIXWORKSHOP H
+   Tarasov V, 2017, 2017 IEEE 2ND INTERNATIONAL WORKSHOPS ON FOUNDATIONS AND APPLICATIONS OF SELF* SYSTEMS (FAS*W), P199, DOI 10.1109/FAS-W.2017.148
+   Thalheim J, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P199
+   Uber Inc, Introducing Kraken, an Open Source Peer-to-Peer Docker Registry.
+   Vangoor BKR, 2017, PROCEEDINGS OF FAST '17: 15TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P59
+   Verma AK, 2015, PARKINSONS DIS-US, V2015, DOI 10.1155/2015/598028
+   virtio-fs, About us
+   Wang KJ, 2017, 2017 IEEE 2ND INTERNATIONAL WORKSHOPS ON FOUNDATIONS AND APPLICATIONS OF SELF* SYSTEMS (FAS*W), P191, DOI 10.1109/FAS-W.2017.147
+   Weil SA, 2006, USENIX ASSOCIATION 7TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P307
+   XFS, About us
+   ZFS, The LastWord in Filesystems
+   Zhang YM, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P173
+   Zhang ZN, 2014, IEEE T PARALL DISTR, V25, P3328, DOI 10.1109/TPDS.2014.7
+   Zheng C, 2018, PROCEEDINGS OF THE 2018 ACM SYMPOSIUM ON CLOUD COMPUTING (SOCC '18), P174, DOI 10.1145/3267809.3267836
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD FEB
+PY 2024
+VL 20
+IS 1
+DI 10.1145/3620672
+PG 28
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK0E2
+UT WOS:001193389200001
+DA 2024-08-05
+ER
+
+PT J
+AU Zhao, NN
+   Lin, MH
+   Albahar, H
+   Paul, AK
+   Huang, ZJ
+   Abraham, S
+   Chen, K
+   Tarasov, V
+   Skourtis, D
+   Anwar, A
+   Butt, AR
+AF Zhao, Nannan
+   Lin, Muhui
+   Albahar, Hadeel
+   Paul, Arnab K.
+   Huang, Zhijie
+   Abraham, Subil
+   Chen, Keren
+   Tarasov, Vasily
+   Skourtis, Dimitrios
+   Anwar, Ali
+   Butt, Ali R.
+TI An End-to-end High-performance Deduplication Scheme for Docker
+   Registries and Docker Container Storage Systems
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Docker registry; docker storage driver; linux file system; deduplication
+AB The wide adoption of Docker containers for supporting agile and elastic enterprise applications has led to a broad proliferation of container images. The associated storage performance and capacity requirements place a high pressure on the infrastructure of container registries that store and distribute images and container storage systems on the Docker client side that manage image layers and store ephemeral data generated at container runtime. The storage demand is worsened by the large amount of duplicate data in images. Moreover, container storage systems that use Copy-on-Write (CoW) file systems as storage drivers exacerbate the redundancy. Exploiting the high file redundancy in real-world images is a promising approach to drastically reduce the growing storage requirements of container registries and improve the space efficiency of container storage systems. However, existing deduplication techniques significantly degrade the performance of both registries and container storage systems because of data reconstruction overhead as well as the deduplication cost.
+   We propose DupHunter, an end-to-end deduplication scheme that deduplicates layers for both Docker registries and container storage systems while maintaining a high image distribution speed and container I/O performance. DupHunter is divided into three tiers: registry tier, middle tier, and client tier. Specifically, we first build a high-performance deduplication engine at the registry tier that not only natively deduplicates layers for space savings but also reduces layer restore overhead. Then, we use deduplication offloading at the middle tier to eliminate the redundant files from the client tier and avoid bringing deduplication overhead to the clients. To further reduce the data duplicates caused by CoWs and improve the container I/O performance, we utilize a container-aware storage system at the client tier that reserves space for each container and arranges the placement of files and their modifications on the disk to preserve locality. Under real workloads, DupHunter reduces storage space by up to 6.9x and reduces the GET layer latency up to 2.8x compared to the state-of-the-art. Moreover, DupHunter can improve the container I/O performance by up to 93% for reads and 64% for writes.
+C1 [Zhao, Nannan] Northwestern Polytech Univ Shenzhen, Res & Dev Inst, Xian, Peoples R China.
+   [Lin, Muhui] Alibaba Grp, Hangzhou, Peoples R China.
+   [Albahar, Hadeel] Sabah Al Salem Univ City, Kuwait Univ, Kuwait, Kuwait.
+   [Paul, Arnab K.] BITS Pilani, KK Birla Goa Campus, Zuarinagar 403726, Goa, India.
+   [Huang, Zhijie] Northwestern Polytech Univ, Xian 710129, Shaanxi, Peoples R China.
+   [Abraham, Subil] Oak Ridge Natl Lab, Oak Ridge, TN 37830 USA.
+   [Chen, Keren; Butt, Ali R.] Virginia Tech, Blacksburg, VA 24061 USA.
+   [Tarasov, Vasily; Skourtis, Dimitrios] IBM Res Almaden, San Jose, CA 95120 USA.
+   [Anwar, Ali] Univ Minnesota, Twin Cities Campus, Minneapolis, MN 55455 USA.
+C3 Northwestern Polytechnical University; Alibaba Group; Kuwait University;
+   Birla Institute of Technology & Science Pilani (BITS Pilani);
+   Northwestern Polytechnical University; United States Department of
+   Energy (DOE); Oak Ridge National Laboratory; Virginia Polytechnic
+   Institute & State University; International Business Machines (IBM);
+   University of Minnesota System; University of Minnesota Twin Cities
+RP Zhao, NN (corresponding author), Northwestern Polytech Univ Shenzhen, Res & Dev Inst, Xian, Peoples R China.
+EM nannanzhao@nwpu.edu.cn; muhui.lmh@alibaba-inc.com;
+   hadeel.albahar@ku.edu.kw; arnabp@goa.bits-pilani.ac.in;
+   jayzy.huang@nwpu.edu.cn; abrahams@ornl.gov; keren9@vt.edu;
+   vtarasov@us.ibm.com; skourtis@soe.ucsc.edu; aanwar@umn.edu;
+   butta@cs.vt.edu
+RI Zhao, Nannan/KYP-1678-2024
+OI Tarasov, Vasily/0000-0003-1424-9977
+FU Guangdong Basic and Applied Basic Research Foundation [2021A1515110080];
+   National Science Foundation for Young Scientists of China [62202382];
+   Chinese National Key Research and Development Program [2022YFB2702101];
+   Shaanxi Key Research and Development Program [2021ZDLGY03-02,
+   2021ZDLGY03-08]; Major Research Plan of the National Natural Science
+   Foundation of China [92152301]; National Science Foundation of China for
+   General Program [62272394]; NSF [CSR-2106634, CSR-2312785, CCF-1919113,
+   OAC-2004751]; BITS [Pilani-BBF/BITS(G)/FY2022-23/BCPS-123,
+   GOA/ACG/2022-2023/Oct/11, BPGC/RIG/2021-22/06-2022/02]
+FX This work is sponsored by the Guangdong Basic and Applied Basic Research
+   Foundation (Grant No. 2021A1515110080), National Science Foundation for
+   Young Scientists of China (Grant No. 62202382), the Chinese National Key
+   Research and Development Program (Grant No. 2022YFB2702101), Shaanxi Key
+   Research and Development Program (Grants No. 2021ZDLGY03-02 and No.
+   2021ZDLGY03-08),Major Research Plan of the National Natural Science
+   Foundation of China (Grant No. 92152301), National Science Foundation of
+   China for General Program (Grant No. 62272394), the grants in BITS
+   Pilani-BBF/BITS(G)/FY2022-23/BCPS-123, GOA/ACG/2022-2023/Oct/11, and
+   BPGC/RIG/2021-22/06-2022/02, and the NSF under Grants No. CSR-2106634,
+   No. CSR-2312785, No. CCF-1919113, and No. OAC-2004751.
+CR Adams K, 2006, ACM SIGPLAN NOTICES, V41, P2, DOI 10.1145/1168918.1168860
+   Aliyun Open Storage Service (Aliyun OSS), ABOUT US
+   Amazon, 2023, Amazon Elastic Container Registry
+   Amazon, 2023, Containers on AWS
+   Aneesh Kumar KV, 2008, P LIN S, V1
+   Anwar Ali, 2018, P 16 USENIX C FIL ST
+   Bonino D, 2003, IEEE C EVOL COMPUTAT, P2034
+   Btrfs, 2023, ABOUT US
+   Canon Richard Shane, 2016, Shifter: Containers for HPC.
+   Cao ZC, 2018, PROCEEDINGS OF THE 16TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P309
+   Ceph, 2023, ABOUT US
+   Cito J, 2017, IEEE WORK CONF MIN S, P323, DOI 10.1109/MSR.2017.67
+   cncf, 2023, Cloud Native Computing Foundation Projects
+   Datadog, 2023, 8 Surprising Facts About Real Docker Adoption
+   Docker, 2023, US
+   docker, 2023, OpenStack Swift storage driver
+   Docker Hub, 2023, ABOUT US
+   Docker Inc, 2023, Docker Registry
+   Docker Inc, 2023, Docker Registry HTTP API V2
+   DockerSlim, 2023, ABOUT US
+   Fan H, 2021, INT CON DISTR COMP S, P115, DOI 10.1109/ICDCS51616.2021.00020
+   Fu Min, 2014, P USENIX ANN TECHN C
+   Fu Min, 2015, P 13 USENIX C FIL ST
+   Fu YJ, 2011, IEEE INT C CL COMP, P112, DOI 10.1109/CLUSTER.2011.20
+   github, 2023, vdo
+   github, 2023, Moby project
+   github, 2023, jdupes
+   GNU Tar, 2023, Basic Tar Format.
+   Google, 2023, Google Container Registry.
+   Google Inc, 2013, Google Compute Engine.
+   Gschwind Katharina, 2017, P INT C SERV OR COMP
+   Guo F, 2019, PROCEEDINGS OF THE 2019 TENTH ACM SYMPOSIUM ON CLOUD COMPUTING (SOCC '19), P325, DOI 10.1145/3357223.3362718
+   Harter T, 2016, 14TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '16), P181
+   IBM Cloud Kubernetes Service, 2023, S3 Storage Driver.
+   IBM Cloud Kubernetes Service, 2023, ABOUT US
+   Jayaram K. R, 2011, P MIDDL IND TRACK WO
+   JFrog, 2023, Artifcatory
+   Jin Keren, 2009, P INT SYST STOR C SY
+   Karger David, 1997, Proceedings of STOC, P654
+   Karger DavidR., 1997, P 29 ANN ACM S THEOR, P654
+   kernel, 2023, Overlay file system
+   Krohmer Alfred, 2023, Proposal: Deduplicated Storage and Transfer of Container Images
+   Kumar K, 2016, IEEE CONF CLOUD COMP, P95, DOI [10.1109/CCEM.2016.24, 10.1109/CCEM.2016.025]
+   Li HB, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P727
+   Lillibridge M., 2009, P 7 USENIX C FIL STO
+   Lillibridge Mark, 2013, P 11 USENIX C FIL ST
+   linux.die, 2023, fio(1) Linux man page
+   Littley M, 2019, IEEE INT CONF CLOUD, P358, DOI 10.1109/CLOUD.2019.00065
+   Lu Maohua, 2012, P INT SYST STOR C SY
+   man7, 2023, filefrag(8)-Linux manual page
+   Mathur Avantika, 2007, P LIN S, V2, P21
+   Megiddo N, 2003, USENIX ASSOCIATION PROCEEDINGS OF THE 2ND USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST'03), P115
+   Meister D, 2012, INT CONF HIGH PERFOR
+   Microsoft, 2023, Azure Container Registry
+   Microsoft Azure, 2023, Storage
+   Microsoft Azure, 2023, ABOUT US
+   Muthitacharoen A., 2001, Operating Systems Review, V35, P174, DOI 10.1145/502059.502052
+   O'Neil E. J., 1993, SIGMOD Record, V22, P297, DOI 10.1145/170036.170081
+   Oh M, 2018, INT CON DISTR COMP S, P1063, DOI 10.1109/ICDCS.2018.00106
+   Paulo J, 2014, ACM COMPUT SURV, V47, DOI 10.1145/2611778
+   Plank James S., 2013, P 11 USENIX C FIL ST, P95
+   Rastogi V, 2017, ESEC/FSE 2017: PROCEEDINGS OF THE 2017 11TH JOINT MEETING ON FOUNDATIONS OF SOFTWARE ENGINEERING, P476, DOI 10.1145/3106237.3106271
+   Redis, 2023, SETNX
+   Redis, 2023, About us
+   REED IS, 1960, J SOC IND APPL MATH, V8, P300, DOI 10.1137/0108018
+   Shilane Philip, 2016, P 8 USENIX WORKSH HO
+   Shim H., 2013, P USENIX ANN TECHN C
+   Shiqiang Zhang, 2020, Green, Pervasive, and Cloud Computing. 15th International Conference, GPC 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12398), P504, DOI 10.1007/978-3-030-64243-3_38
+   Skourtis Dimitris, 2019, P 11 USENIX WORKSH H
+   Spillane Richard P., 2016, P 8 USENIX WORKSH HO
+   Srinivasan Kiran, 2012, P 10 USENIX C FIL ST
+   Sun Z, 2016, IEEE S MASS STOR SYS
+   Tarasov V, 2017, 2017 IEEE 2ND INTERNATIONAL WORKSHOPS ON FOUNDATIONS AND APPLICATIONS OF SELF* SYSTEMS (FAS*W), P199, DOI 10.1109/FAS-W.2017.148
+   Tarasov Vasily, 2014, P OTT LIN S
+   Thalheim J, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P199
+   tinyurl, 2023, Backup Compression and Deduplication
+   Turnbull James, 2023, The Docker Book: Containerization Is the New Virtualization
+   Upadhyay A, 2012, ANN IEEE SYST CONF, P362
+   Wallace Grant., 2012, Proceedings of the 10th USENIX conference on File and Storage Technologies, FAST'12, P4
+   Wikipedia, 2023, about us
+   Wolff E., 2016, Microservices: Flexible Software Architecture
+   Wu S, 2022, PROCEEDINGS OF THE 18TH ACM SIGPLAN/SIGOPS INTERNATIONAL CONFERENCE ON VIRTUAL EXECUTION ENVIRONMENTS, VEE 2022, P18, DOI 10.1145/3516807.3516818
+   Wu Xingbo, 2015, P 6 AS PAC WORKSH SY, P1
+   Xing DS, 2002, COMPUT SCI ENG, V4, P34, DOI 10.1109/MCISE.2002.1046594
+   Xu Qiumin, 2017, P S MASS STOR SYST T, V3, P24
+   Yu Sun, 2020, SoCC '20: Proceedings of the 11th ACM Symposium on Cloud Computing, P90, DOI 10.1145/3419111.3421291
+   Zhao Frank, 2016, P STOR DEV C SDC 16
+   Zhao N, 2019, IEEE INT C CL COMP, P215, DOI 10.1109/cluster.2019.8891000
+   Zhou RJ, 2013, I S WORKL CHAR PROC, P98, DOI 10.1109/IISWC.2013.6704674
+   Zhu B, 2008, PROCEEDINGS OF THE 6TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '08), P269
+NR 90
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD AUG
+PY 2024
+VL 20
+IS 3
+AR 18
+DI 10.1145/3643819
+PG 35
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XM3Y6
+UT WOS:001262073000005
+OA Bronze, Green Accepted
+DA 2024-08-05
+ER
+
+PT J
+AU Li, CX
+   Beillahi, SM
+   Yang, G
+   Wu, M
+   Xu, W
+   Long, F
+AF Li, Chenxing
+   Beillahi, Sidi Mohamed
+   Yang, Guang
+   Wu, Ming
+   Xu, Wei
+   Long, Fan
+TI LVMT: An Efficient Authenticated Storage for Blockchain
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Blockchain; authenticated storage; vector commitment; smart contracts;
+   merkle patricia trie
+AB Authenticated storage access is the performance bottleneck of a blockchain, because each access can be amplified to potentially O(logn) disk I/O operations in the standard Merkle Patricia Trie (MPT) storage structure. In this article, we propose a multi-Layer Versioned Multipoint Trie (LVMT), a novel high-performance blockchain storage with significantly reduced I/O amplifications. LVMT uses the authenticated multipoint evaluation tree vector commitment protocol to update commitment proofs in constant time. LVMT adopts a multi-layer design to support unlimited key-value pairs and stores version numbers instead of value hashes to avoid costly elliptic curve multiplication operations. In our experiment, LVMT outperforms the MPT in real Ethereum traces, delivering read and write operations 6x faster. It also boosts blockchain system execution throughput by up to 2.7x.
+C1 [Li, Chenxing; Yang, Guang; Wu, Ming; Long, Fan] Shanghai TreeGraph Blockchain Res Inst, Shanghai, Peoples R China.
+   [Beillahi, Sidi Mohamed] Univ Toronto, Toronto, ON, Canada.
+   [Xu, Wei] Tsinghua Univ, Beijing, Peoples R China.
+   [Long, Fan] Univ Toronto, Toronto, ON, Canada.
+C3 University of Toronto; Tsinghua University; University of Toronto
+RP Li, CX (corresponding author), Shanghai TreeGraph Blockchain Res Inst, Shanghai, Peoples R China.
+EM lylcx2007@gmail.com; med.beillahi@gmail.com;
+   guang.yang@confluxnetwork.org; ming.wu@confluxnetwork.org;
+   wei.xu.0@gmail.com; fanl@cs.toronto.edu
+OI Long, Fan/0000-0001-7973-1188
+FU National Key Research and Development Project of China [2023YFB2704900];
+   Shanghai Committee of Science and Technology, China [21511104600,
+   20DZ2221800]; National Natural Science Foundation of China [U2268202];
+   Nanjing Turing AI Institute
+FX This research has received support from National Key Research and
+   Development Project of China (Grant No. 2023YFB2704900), Shanghai
+   Committee of Science and Technology, China (Grant No. 21511104600,
+   20DZ2221800), National Natural Science Foundation of China (Grant No.
+   U2268202), and a gift fund from Nanjing Turing AI Institute.
+CR 0xngmi, 2023, DefiLlama-DeFi Dashboard.
+   Arkworks contributors, 2022, arkworks zkSNARK Ecosystem
+   Bagaria V, 2019, PROCEEDINGS OF THE 2019 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (CCS'19), P585, DOI 10.1145/3319535.3363213
+   Barreto PSLM, 2006, LECT NOTES COMPUT SC, V3897, P319
+   Barreto PSLM, 2003, LECT NOTES COMPUT SC, V2576, P257
+   Ben-Sasson E, 2014, PROCEEDINGS OF THE 23RD USENIX SECURITY SYMPOSIUM, P781
+   Bitansky N, 2012, ITCS 2012, P326, DOI [DOI 10.1145/2090236.2090263, 10.1145/ 2090236.2090263]
+   Boneh D, 2019, LECT NOTES COMPUT SC, V11692, P561, DOI 10.1007/978-3-030-26948-7_20
+   Bowe S., 2019, PROC INT C FINAN CR, P64, DOI [10.1007/978-3-662-58820-8_5, DOI 10.1007/978-3-662-58820-8-5]
+   Bowe Sean, 2017, IACR Cryptol. ePrint Arch., P1050
+   Bowe Sean, 2017, BLS12-381: New zk-SNARK Elliptic Curve Construction
+   Buterin V., 2017, arXiv
+   Buterin Vitalik, 2023, Ethereum Whitepaper
+   Catalano D, 2013, LECT NOTES COMPUT SC, V7778, P55, DOI 10.1007/978-3-642-36362-7_5
+   Choi JA, 2022, 2022 IEEE INTERNATIONAL CONFERENCE ON BLOCKCHAIN AND CRYPTOCURRENCY (IEEE ICBC 2022), DOI 10.1109/ICBC54727.2022.9805484
+   Conflux Network, 2023, Conflux Rust for Authenticated Storage Benchmarks
+   Ethereum, 2023, Zero-Knowledge Rollups.
+   Ethereum, 2023, Merkle Patricia Tree.
+   Ethereum Improvement Proposals, 2015, EIP-20: Token Standard.
+   Etherscanners, 2023, ERC-20 Top Tokens.
+   Etherscanners, 2023, Ethereum Gas Tracker.
+   Eyal I, 2016, 13TH USENIX SYMPOSIUM ON NETWORKED SYSTEMS DESIGN AND IMPLEMENTATION (NSDI '16), P45
+   Facebook Database Engineering Team, 2022, RocksDB: A Persistent Key-Value Store for Flash and RAM Storage.
+   Gilad Y, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P51, DOI 10.1145/3132747.3132757
+   Gorbunov S, 2020, CCS '20: PROCEEDINGS OF THE 2020 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P2007, DOI 10.1145/3372297.3417244
+   Groth J, 2018, LECT NOTES COMPUT SC, V10993, P698, DOI 10.1007/978-3-319-96878-0_24
+   Jie Koh Wei., 2021, Perpetual Powers of Tau
+   Kate A, 2010, LECT NOTES COMPUT SC, V6477, P177, DOI 10.1007/978-3-642-17373-8_11
+   Kokoris-Kogias E, 2018, P IEEE S SECUR PRIV, P583, DOI 10.1109/SP.2018.000-5
+   Lai RWF, 2019, LECT NOTES COMPUT SC, V11692, P530, DOI 10.1007/978-3-030-26948-7_19
+   Lewenberg Y, 2015, LECT NOTES COMPUT SC, V8975, P528, DOI 10.1007/978-3-662-47854-7_33
+   Li A, 2020, PROCEEDINGS OF THE 41ST ACM SIGPLAN CONFERENCE ON PROGRAMMING LANGUAGE DESIGN AND IMPLEMENTATION (PLDI '20), P438, DOI 10.1145/3385412.3385982
+   Li CX, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P515
+   Li Chenxing, 2023, Authenticated Storage Benchmarks
+   Luu L, 2016, CCS'16: PROCEEDINGS OF THE 2016 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P17, DOI 10.1145/2976749.2978389
+   Mazieres D., 2015, ''Stellar Develop. Found., V32, P1
+   Nakamoto S., 2009, PEER TO PEER ELECT C
+   Naumenko G, 2019, PROCEEDINGS OF THE 2019 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (CCS'19), P817, DOI 10.1145/3319535.3354237
+   Ozdemir A, 2020, PROCEEDINGS OF THE 29TH USENIX SECURITY SYMPOSIUM, P2075
+   Parity Technologies, 2020, Crate kvdb.
+   Parity Technologies, 2019, OpenEthereum.
+   Ponnapalli S, 2021, PROCEEDINGS OF THE 2021 USENIX ANNUAL TECHNICAL CONFERENCE, P333
+   Ponnapalli Soujanya, 2023, RainBlock Protocol
+   Raju P., 2018, P 10 USENIX WORKSH H, P10
+   Raju Pandian, 2018, P 10 USENIX WORKSH H
+   Sompolinsky Yonatan, 2021, AFT '21: Proceedings of the 3rd ACM Conference on Advances in Financial Technologies, P57, DOI 10.1145/3479722.3480990
+   Sompolinsky Y, 2015, LECT NOTES COMPUT SC, V8975, P507, DOI 10.1007/978-3-662-47854-7_32
+   Srinivasan S, 2022, PROCEEDINGS OF THE 31ST USENIX SECURITY SYMPOSIUM, P3001
+   Tomescu Alin, 2020, Security and Cryptography for Networks. 12th International Conference, SCN 2020. Proceedings. Lecture Notes in Computer Science (LNCS 12238), P45, DOI 10.1007/978-3-030-57990-6_3
+   Tomescu A, 2020, P IEEE S SECUR PRIV, P877, DOI 10.1109/SP40000.2020.00059
+   Uniswap Labs, 2023, Uniswap Protocol
+   Uniswap Labs, 2023, Peripheral Smart Contracts for Interacting with Uniswap V2.
+   Wang JP, 2019, PROCEEDINGS OF THE 16TH USENIX SYMPOSIUM ON NETWORKED SYSTEMS DESIGN AND IMPLEMENTATION, P95
+   Wüst K, 2018, 2018 CRYPTO VALLEY CONFERENCE ON BLOCKCHAIN TECHNOLOGY (CVCBT), P45, DOI 10.1109/CVCBT.2018.00011
+   Yilin Han, 2020, SoCC '20: Proceedings of the 11th ACM Symposium on Cloud Computing, P238, DOI 10.1145/3419111.3421283
+   Yu HF, 2020, P IEEE S SECUR PRIV, P90, DOI 10.1109/SP40000.2020.00008
+   Zamani M, 2018, PROCEEDINGS OF THE 2018 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY (CCS'18), P931, DOI 10.1145/3243734.3243853
+NR 57
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD AUG
+PY 2024
+VL 20
+IS 3
+DI 10.1145/3664818
+PG 34
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XM3Y6
+UT WOS:001262073000004
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Wei, JY
+   Zhang, GY
+   Chen, JC
+   Wang, Y
+   Zheng, WM
+   Sun, TT
+   Wu, JS
+   Jiang, JW
+AF Wei, Junyu
+   Zhang, Guangyan
+   Chen, Junchao
+   Wang, Yang
+   Zheng, Weimin
+   Sun, Tingtao
+   Wu, Jiesheng
+   Jiang, Jiangwei
+TI Exploiting Data-pattern-aware Vertical Partitioning to Achieve Fast and
+   Low-cost Cloud Log Storage
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Cloud log; data compression; full-text query; runtime pattern; static
+   pattern
+ID COMPRESSION; PERFORMANCE; ALGORITHM
+AB Cloud logs can be categorized into on-line, off-line, and near-line logs based on the access frequency. Among them, near-line logs are mainly used for debugging, which means they prefer a low query latency for better user experience. Besides, the storage system for near-line logs prefers a low overall cost including the storage cost to store compressed logs, and the computation cost to compress logs and execute queries. These requirements pose challenges to achieving fast and cheap cloud log storage.
+   This article proposes LogGrep, the first log compression and query tool that exploits both static and run-time patterns to properly structurize and organize log data in fine-grained units. The key idea of LogGrep is "vertical partitioning": it stores each log entry into multiple partitions by first parsing logs into variable vectors according to static patterns and then extracting runtime pattern(s) automatically within each variable vector. Based on such runtime patterns, LogGrep further decomposes the variable vectors into fine-grained units called "Capsules" and stamps each Capsule with a summary of its values. During the query process, LogGrep can avoid decompressing and scanning Capsules that cannot match the keywords, with the help of the extracted runtime patterns and the Capsule stamps. We further show that the interactive debugging can well utilize the advantages of the vertical-partitioning-based method and mitigate its weaknesses as well. To this end, LogGrep integrates incremental locating and partial reconstruction to mitigate the read amplification incurred by vertical-partitioning-based method.
+   We evaluate LogGrep on 37 cloud logs from the production environment of Alibaba Cloud and the public datasets. The results show that LogGrep can reduce the query latency and the overall cost by an order of magnitude compared with state-of-the-art works. Such results have confirmed that it is worthwhile applying a more sophisticated vertical-partitioning-based method to accelerate queries on compressed cloud logs.
+C1 [Wei, Junyu; Zhang, Guangyan; Chen, Junchao; Zheng, Weimin] Tsinghua Univ, Beijing, Peoples R China.
+   [Wang, Yang] Ohio State Univ, Columbus, OH USA.
+   [Sun, Tingtao; Wu, Jiesheng; Jiang, Jiangwei] Alibaba Grp, Hangzhou, Peoples R China.
+C3 Tsinghua University; University System of Ohio; Ohio State University;
+   Alibaba Group
+RP Zhang, GY (corresponding author), Tsinghua Univ, Beijing, Peoples R China.
+EM wei-jy19@mails.tsinghua.edu.cn; gyzh@tsinghua.edu.cn
+OI Qi, Zhou/0000-0002-7759-800X
+FU National Natural Science Foundation of China [62025203]
+FX This work was supported by the National Natural Science Foundation of
+   China under Grant 62025203.
+CR 7 zip developer group, 2019, 7-zip file achiever home page
+   Abadi D., 2013, The Design and Implementation of Modern Column-Oriented Database Systems, 3, V5, P197, DOI DOI 10.1561/1900000024
+   Abadi D.J., 2006, SIGMOD conference, P671, DOI [DOI 10.1145/1142473.1142548, 10.1145/1142473.1142548]
+   Agarwal R., 2015, Proceedings of the 12th USENIX Conference on Networked Systems Design and Implementation, P337
+   Agnihotri D, 2014, INT CONF COMM SYST, P428, DOI 10.1109/CSNT.2014.92
+   BOYER RS, 1977, COMMUN ACM, V20, P762, DOI 10.1145/359842.359859
+   Cao W, 2021, INT CONF MANAGE DATA, P2464, DOI 10.1145/3448016.3457565
+   Chang F, 2008, ACM T COMPUT SYST, V26, DOI 10.1145/1365815.1365816
+   Chow M., 2014, P 11 USENIX C OP SYS, P217
+   Christodorescu M., 2005, ACM SIGPLAN SIGSOFT, P88
+   CLEARY JG, 1984, IEEE T COMMUN, V32, P396, DOI 10.1109/TCOM.1984.1096090
+   Cutting D., 1989, Proceedings of the 13th International Conference on Research and Development in Information Retrieval, P405
+   Dageville B, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P215, DOI 10.1145/2882903.2903741
+   Deutsch P., 1996, RFC 1951: DEFLATE compressed data format specification version 1.3
+   Du M, 2017, CCS'17: PROCEEDINGS OF THE 2017 ACM SIGSAC CONFERENCE ON COMPUTER AND COMMUNICATIONS SECURITY, P1285, DOI 10.1145/3133956.3134015
+   Duda Jarek, 2013, arXiv
+   Dumais S., 2014, Ways of Knowing in HCI, P349
+   Elasticsearch B. V, 2020, Elasticsearch 7.8.0
+   ElasticSearch group, 2019, Elasticsearch: Bulk Inserting Examples
+   Facebook, 2021, z-standard compression tool
+   Fan YC, 2016, IEEE T KNOWL DATA EN, V28, P592, DOI 10.1109/TKDE.2015.2489657
+   Fazzinga B, 2018, J INTELL INF SYST, V50, P195, DOI 10.1007/s10844-017-0450-y
+   Feng B, 2016, IEEE TRUST BIG, P1358, DOI [10.1109/TrustCom.2016.0215, 10.1109/TrustCom.2016.213]
+   Fernandes S., 2015, Proceedings of the 19th International Database Engineering Applications Symposium, P202, DOI DOI 10.1145/2790755.2790797
+   Ferragina P, 2001, INFORM SCIENCES, V135, P13, DOI 10.1016/S0020-0255(01)00098-6
+   Fisher K, 2008, POPL'08: PROCEEDINGS OF THE 35TH ANNUAL ACM SIGPLAN-SIGACT SYMPOSIUM ON PRINCIPLES OF PROGRAMMING LANGUAGES, P421, DOI 10.1145/1328438.1328488
+   Foufoulas Y, 2021, INT CONF MANAGE DATA, P554, DOI 10.1145/3448016.3452798
+   Gao Y, 2015, IEEE T KNOWL DATA EN, V27, P1629, DOI 10.1109/TKDE.2014.2384497
+   Gao YH, 2018, INT CONF MANAGE DATA, P943, DOI 10.1145/3183713.3183746
+   Ghassemian M, 2004, IEEE WCNC, P120, DOI 10.1109/WCNC.2004.1311529
+   GNU developer group, 2019, Homepage and documentation of Tar
+   Grafana Labs, 2021, Loki Documentation
+   Grossi R, 2005, SIAM J COMPUT, V35, P378, DOI 10.1137/S0097539702402354
+   Hamooni H, 2016, CIKM'16: PROCEEDINGS OF THE 2016 ACM CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, P1573, DOI 10.1145/2983323.2983358
+   He PJ, 2017, 2017 IEEE 24TH INTERNATIONAL CONFERENCE ON WEB SERVICES (ICWS 2017), P33, DOI 10.1109/ICWS.2017.13
+   HUFFMAN DA, 1952, P IRE, V40, P1098, DOI 10.1109/JRPROC.1952.273898
+   Jiang H, 2020, PROC VLDB ENDOW, V13, P925, DOI 10.14778/3380750.3380761
+   Jiang ZM, 2008, INT CONF QUAL SOFTW, P181, DOI 10.1109/QSIC.2008.50
+   Kida T, 1998, IEEE DATA COMPR CONF, P103, DOI 10.1109/DCC.1998.672136
+   Kurtz S, 1999, SOFTWARE PRACT EXPER, V29, P1149, DOI 10.1002/(SICI)1097-024X(199911)29:13<1149::AID-SPE274>3.0.CO;2-O
+   Lang H, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P311, DOI 10.1145/2882903.2882925
+   Lee G., 2012, CoRR
+   Li RD, 2021, INT CONF MANAGE DATA, P1077, DOI 10.1145/3448016.3452829
+   Liang X, 2021, INT CONF MANAGE DATA, P1129, DOI 10.1145/3448016.3457277
+   Lin H, 2015, IEEE ACM INT SYMP, P21, DOI 10.1109/CCGrid.2015.45
+   Linux developer community, 2020, Grep Manuel
+   Liu JY, 2019, 34TH IEEE/ACM INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING (ASE 2019), P863, DOI 10.1109/ASE.2019.00085
+   LogArchive group, 2019, Open source code of LogArchive
+   LogGrep authors, 2023, Source code of LogGrep
+   LogGrep authors, 2022, ACM Trans. Storage, V20
+   Loghub group, 2019, Download link of public log dataset
+   Logzip group, 2019, Open source code of Logzip
+   Makanju A, 2012, IEEE T KNOWL DATA EN, V24, P1921, DOI 10.1109/TKDE.2011.138
+   Makanju A, 2009, KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P1255
+   Messaoudi S, 2018, INT C PROGRAM COMPRE, P167, DOI 10.1145/3196321.3196340
+   Mizutani Masayoshi, 2013, 2013 IEEE International Conference on Services Computing (SCC), P595, DOI 10.1109/SCC.2013.73
+   Murtagh F, 2012, WIRES DATA MIN KNOWL, V2, P86, DOI 10.1002/widm.53
+   Nagappan Meiyappan, 2010, Proceedings of the 2010 7th IEEE Working Conference on Mining Software Repositories (MSR 2010), P114, DOI 10.1109/MSR.2010.5463281
+   Nagaraj K., 2012, P 9 USENIX C NETW SY, P26
+   Nielsen F., 2016, Introduction to HPC with MPI for Data Science, DOI DOI 10.1007/978-3-319-21903-5_8
+   Oprea A, 2015, I C DEPEND SYS NETWO, P45, DOI 10.1109/DSN.2015.14
+   Pibiri GE, 2021, ACM COMPUT SURV, V53, DOI 10.1145/3415148
+   Pibiri GE, 2019, PROCEEDINGS OF THE TWELFTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING (WSDM'19), P6, DOI 10.1145/3289600.3290962
+   REGNIER M, 1989, LECT NOTES COMPUT SC, V379, P431
+   Rodrigues K, 2021, PROCEEDINGS OF THE 15TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '21), P183
+   Sadakane K, 2002, SIAM PROC S, P225
+   Salomon D., 2004, Data Compression-The Complete Reference
+   Samuel Vijay, 2018, Monitoring anything and everything with beats at eBay
+   Sayood K., 2017, Introduction to data compression
+   Scalyr Inc, 2021, Scalyr home page
+   Shima K, 2016, Arxiv, DOI arXiv:1611.03213
+   Splunk Inc, 2020, Spunk Enterprise 8.0.3
+   Sun LW, 2016, PROC VLDB ENDOW, V10, P421
+   Tang L., 2011, Proceedings of the 20th ACM International Conference on Information and Knowledge Management, P785, DOI [DOI 10.1145/2063576.2063690, 10.1145/2063576.2063690, 10.1145/2063576. 2063690]
+   Vaarandi R, 2003, PROCEEDINGS OF THE 3RD IEEE WORKSHOP ON IP OPERATIONS & MANAGEMENT (IPOM2003), P119
+   Velardi P, 2014, ARTIF INTELL MED, V61, P153, DOI 10.1016/j.artmed.2014.01.002
+   Wei JY, 2023, PROCEEDINGS OF THE EIGHTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS, EUROSYS 2023, P452, DOI 10.1145/3552326.3567484
+   Wei JY, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P249
+   WITTEN IH, 1987, COMMUN ACM, V30, P520, DOI 10.1145/214762.214771
+   Xu W, 2009, SOSP'09: PROCEEDINGS OF THE TWENTY-SECOND ACM SIGOPS SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P117
+   YScope, 2021, clp-core
+   Yuan D, 2010, ASPLOS XV: FIFTEENTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS, P143
+   Zhang F, 2022, INT CONF MANAGE DATA, P1655, DOI 10.1145/3514221.3526130
+   Zhang F, 2021, VLDB J, V30, P163, DOI 10.1007/s00778-020-00636-3
+   Zhang MS, 2017, P INT COMP SOFTW APP, P337, DOI 10.1109/COMPSAC.2017.137
+   Zhong N, 2012, IEEE T KNOWL DATA EN, V24, P30, DOI 10.1109/TKDE.2010.211
+   Zhu JM, 2023, Arxiv, DOI arXiv:2008.06448
+   Zhu JM, 2019, 2019 IEEE/ACM 41ST INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING: SOFTWARE ENGINEERING IN PRACTICE (ICSE-SEIP 2019), P121, DOI 10.1109/ICSE-SEIP.2019.00021
+   ZIV J, 1977, IEEE T INFORM THEORY, V23, P337, DOI 10.1109/TIT.1977.1055714
+NR 89
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD MAY
+PY 2024
+VL 20
+IS 2
+AR 12
+DI 10.1145/3643641
+PG 35
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RG9I6
+UT WOS:001226627400006
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Cai, M
+   Shen, JR
+   Tang, B
+   Huang, H
+   Ye, BL
+AF Cai, Miao
+   Shen, Junru
+   Tang, Bin
+   Huang, Hao
+   Ye, Baoliu
+TI Exploiting Flat Namespace to Improve File System Metadata Performance on
+   Ultra-Fast, Byte-Addressable NVMs
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE File system; non-volatile memory; metadata management
+AB The conventional file system provides a hierarchical namespace by structuring it as a directory tree. Tree-based namespace structure leads to inefficient file path walk and expensive namespace tree traversal, under-utilizing ultra-low access latency and superior sequential performance provided by non-volatile memories (NVMs). This article proposes FlatFS+, an NVM file system that features a flat namespace architecture while providing a compatible hierarchical namespace view. FlatFS+ incorporates three novel techniques: the direct file path walk model, range-optimized B-r tree, and compressed index key design with scan and write dual optimization, to fully exploit flat namespace to improve file system metadata performance on ultra-fast, byte-addressable NVMs. Evaluation results demonstrate that FlatFS+ achieves significant performance improvements for metadata-intensive benchmarks and real-world applications compared to other file systems.
+C1 [Cai, Miao; Tang, Bin] Hohai Univ, Sch Comp & Informat, Key Lab Water Big Data Technol, Minist Water Resources, 8 Focheng Rd, Nanjing, Peoples R China.
+   [Shen, Junru] Hohai Univ, Sch Comp & Informat, 8 Focheng Rd, Nanjing, Peoples R China.
+   [Huang, Hao; Ye, Baoliu] Nanjing Univ, State Key Lab Novel Software Technol, 163 Xianlin Rd, Nanjing, Peoples R China.
+   [Ye, Baoliu] Hohai Univ, Sch Comp & Informat, Key Lab Water Big Data Technol, Minist Water Resources, 163 Xianlin Rd, Nanjing 210023, Peoples R China.
+C3 Hohai University; Hohai University; Nanjing University; Hohai University
+RP Ye, BL (corresponding author), Nanjing Univ, State Key Lab Novel Software Technol, 163 Xianlin Rd, Nanjing, Peoples R China.; Ye, BL (corresponding author), Hohai Univ, Sch Comp & Informat, Key Lab Water Big Data Technol, Minist Water Resources, 163 Xianlin Rd, Nanjing 210023, Peoples R China.
+EM mcai@hhu.edu.cn; jrshen.sjr@gmail.com; cstb@hhu.edu.cn;
+   hhuang@nju.edu.cn; yebl@nju.edu.cn
+OI Ye, Baoliu/0000-0003-1065-449X
+FU Fundamental Research Funds for the Central Universities [B220202073,
+   B210201053]; National Natural Science Foundation of China [61832005,
+   61872171]; Natural Science Foundation of Jiangsu Province [BK20220973];
+   CCF-Huawei Innovation Research Plan [CCF2021-admin-270-202101]; Future
+   Network Scientific Research Fund Project [FNSRFP-2021-ZD-7]; China
+   Postdoctoral Science Foundation [2022M711014]; Jiangsu Planned Projects
+   for Postdoctoral Research Funds [2021K635C]
+FX This work was supported by Fundamental Research Funds for the Central
+   Universities (B220202073 and B210201053), the National Natural Science
+   Foundation of China (61832005 and 61872171), the Natural Science
+   Foundation of Jiangsu Province (BK20220973), the CCF-Huawei Innovation
+   Research Plan (CCF2021-admin-270-202101), the Future Network Scientific
+   Research Fund Project (FNSRFP-2021-ZD-7), the China Postdoctoral Science
+   Foundation (2022M711014), and Jiangsu Planned Projects for Postdoctoral
+   Research Funds (2021K635C).
+CR Agrawal N, 2007, USENIX ASSOCIATION PROCEEDINGS OF THE 5TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES ( FAST '07), P31
+   [Anonymous], 2008, P USENIX ANN TECHN C
+   [Anonymous], 2011, P USENIX C FIL STOR
+   Apache Hadoop, 2022, Download
+   Barker SeanKenneth., 2010, P 1 ANN ACM SIGMM C, P35, DOI [10.1145/1730836.1730842, DOI 10.1145/1730836.1730842]
+   Bovet Daniel P., 2006, Understand the Linux Kernel
+   Boyd-Wickizer Silas., 2010, P 9 USENIX C OPERATI, P1
+   Brinkmann Andre, 2013, P INT SYST STOR C SY, P1
+   Cai M, 2022, PROCEEDINGS OF THE 2022 USENIX ANNUAL TECHNICAL CONFERENCE, P899
+   Catalogue of Life, 2022, Catalogue of Life Home Page
+   CCIX, 2022, Cache Coherent Interconnect for Accelerators
+   Chen SM, 2015, PROC VLDB ENDOW, V8, P786, DOI 10.14778/2752939.2752947
+   Chen YM, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P81
+   Condit J, 2009, SOSP'09: PROCEEDINGS OF THE TWENTY-SECOND ACM SIGOPS SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P133
+   Dong MK, 2019, PROCEEDINGS OF THE TWENTY-SEVENTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '19), P478, DOI 10.1145/3341301.3359637
+   Dong MK, 2017, 2017 USENIX ANNUAL TECHNICAL CONFERENCE (USENIX ATC '17), P719
+   Dulloor Subramanya R., 2014, P 9 EUR C COMP SYST, P1, DOI [10.1145/2592798.2592814, DOI 10.1145/2592798.2592814]
+   Ext4 Wiki, 2022, Ext4 Disk Layout
+   ExtremeTech, 2022, Why Latency Impacts SSD Performance More Than Bandwidth Does
+   Gen-Z Consortium, 2022, Gen-Z Envisages Next-generation of Memory Management
+   GitHub, 2022, Path Walking and Name Lookup Locking
+   GitHub, 2018, Google LevelDB
+   GitHub, 2022, Intel Persistent Memory Watch
+   Gouk D, 2022, PROCEEDINGS OF THE 2022 USENIX ANNUAL TECHNICAL CONFERENCE, P287
+   Gugnani S, 2020, PROC VLDB ENDOW, V14, P626, DOI 10.14778/3436905.3436921
+   Intel, 2015, Intel and Micron Produce Breakthrough Memory Technology
+   Intel, 2022, Intel Optane PersistentMemory
+   Jannen William, 2015, P USENIX C FIL STOR
+   Jung M, 2022, PROCEEDINGS OF THE 2022 14TH ACM WORKSHOP ON HOT TOPICS IN STORAGE AND FILE SYSTEMS, HOTSTORAGE 2022, P45, DOI 10.1145/3538643.3539745
+   Kang J., 2015, 2015 USENIX ANN TECH, P249
+   Kwon Y, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P460, DOI 10.1145/3132747.3132770
+   Lee G, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P603
+   Leung AndrewW., 2009, PROCCEDINGS 7 C FILE, P153
+   Lever Chuck, 2000, P 4 ANN LIN SHOWC C
+   Li HC, 2023, PROCEEDINGS OF THE 28TH ACM INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS, VOL 2, ASPLOS 2023, P574, DOI 10.1145/3575693.3578835
+   Lu Lanyue, 2014, P 11 USENIX C OP SYS, P81
+   Lu Youyou, 2014, P USENIX C FIL STOR, P75
+   Lv WH, 2022, PROCEEDINGS OF THE 20TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, FAST 2022, P313
+   Man7, 2022, Strace: Trace System Calls and Signals
+   Maruf Hasan Al, 2023, ASPLOS 2023: Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, P742, DOI 10.1145/3582016.3582063
+   Mauro Jim, 2001, Solaris Internals: Core Kernel Components, V1
+   McKusick MK., 2015, The design and implementation of the FreeBSD operating system, V2
+   Min C, 2016, PROCEEDINGS OF USENIX ATC '16: 2016 USENIX ANNUAL TECHNICAL CONFERENCE, P71
+   Mishra AK, 2011, ISCA 2011: PROCEEDINGS OF THE 38TH ANNUAL INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE, P69, DOI 10.1145/2024723.2000074
+   OpenCAPI, 2022, Open Coherent Accelerator Processor Interface (OpenCAPI) for Advanced Storage
+   Ou JX, 2016, PROCEEDINGS OF THE ELEVENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS, (EUROSYS 2016), DOI 10.1145/2901318.2901324
+   Oukid I, 2016, SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P371, DOI 10.1145/2882903.2915251
+   Peng IB, 2019, MEMSYS 2019: PROCEEDINGS OF THE INTERNATIONAL SYMPOSIUM ON MEMORY SYSTEMS, P304, DOI 10.1145/3357526.3357568
+   Percona, 2021, Percona TokuDB
+   Pike R, 2000, USENIX ASSOCIATION PROCEEDINGS OF THE 2000 USENIX ANNUAL TECHNICAL CONFERENCE, P85
+   Qureshi MK, 2009, CONF PROC INT SYMP C, P24, DOI 10.1145/1555815.1555760
+   Ren K, 2014, INT CONF HIGH PERFOR, P237, DOI 10.1109/SC.2014.25
+   Ren Kai., 2013, P 2013 USENIX C ANN, P145
+   Rodeh O, 2013, ACM T STORAGE, V9, DOI 10.1145/2501620.2501623
+   Samsung Newsroom, 2022, Samsung Electronics Unveils Far-Reaching, Next-Generation Memory Solutions at Flash Memory Summit 2022
+   Sen S, 2016, ACM T ALGORITHMS, V12, DOI 10.1145/2903142
+   Son Y, 2018, PROCEEDINGS OF THE 16TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P227
+   Song H, 2021, PROCEEDINGS OF THE 2021 USENIX ANNUAL TECHNICAL CONFERENCE, P839
+   Strukov DB, 2008, NATURE, V453, P80, DOI 10.1038/nature06932
+   Sweeney A, 1996, PROCEEDINGS OF THE USENIX 1996 ANNUAL TECHNICAL CONFERENCE, P1
+   Tarasov Vasily, 2016, USENIX; login, V41, P6
+   Thusoo A, 2009, PROC VLDB ENDOW, V2, P1626, DOI 10.14778/1687553.1687609
+   Tom's Hardware, 2019, Samsung 983 ZET SSD Review: Z-NAND Takes on Optane
+   TPC, 2022, TPC-H
+   Tsai CC, 2015, SOSP'15: PROCEEDINGS OF THE TWENTY-FIFTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, P441, DOI 10.1145/2815400.2815405
+   Wang Ying, 2018, P USENIX WORKSH HOT
+   Wang ZX, 2020, 2020 53RD ANNUAL IEEE/ACM INTERNATIONAL SYMPOSIUM ON MICROARCHITECTURE (MICRO 2020), P496, DOI 10.1109/MICRO50266.2020.00049
+   Weiland M, 2019, PROCEEDINGS OF SC19: THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE AND ANALYSIS, DOI 10.1145/3295500.3356159
+   Wright C, 2002, USENIX ASSOCIATION PROCEEDINGS OF THE 11TH USENIX SECURITY SYMPOSIUM, P17
+   Xiang LF, 2022, PROCEEDINGS OF THE SEVENTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS '22), P488, DOI 10.1145/3492321.3519556
+   Xu J, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P478, DOI 10.1145/3132747.3132761
+   Xu J, 2016, 14TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '16), P323
+   Yang J, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P169
+   Yang X, 2016, PROCEEDINGS OF USENIX ATC '16: 2016 USENIX ANNUAL TECHNICAL CONFERENCE, P309
+   Zhan Y, 2018, PROCEEDINGS OF THE 16TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P123
+   Zhang J, 2018, PROCEEDINGS OF THE 13TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P477
+   Zheng SA, 2019, PROCEEDINGS OF THE 17TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P207
+NR 77
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD FEB
+PY 2024
+VL 20
+IS 1
+DI 10.1145/3620673
+PG 47
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK0E2
+UT WOS:001193389200002
+DA 2024-08-05
+ER
+
+PT J
+AU Luo, XC
+   Zuo, PF
+   Shen, JC
+   Gu, JZ
+   Wang, X
+   Lyu, M
+   Zhou, YF
+AF Luo, Xuchuan
+   Zuo, Pengfei
+   Shen, Jiacheng
+   Gu, Jiazhen
+   Wang, Xin
+   Lyu, Michael
+   Zhou, Yangfan
+TI A Memory-Disaggregated Radix Tree
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Disaggregated memory; remote direct memory access; radix tree
+ID INDEX
+AB Disaggregated memory (DM) is an increasingly prevalent architecture with high resource utilization. It separates computing and memory resources into two pools and interconnects them with fast networks. Existing range indexes on DM are based on B+ trees, which suffer from large inherent read and write amplifications. The read and write amplifications rapidly saturate the network bandwidth, resulting in low request throughput and high access latency of B+ trees on DM.
+   In this article, we propose that the radix tree is more suitable for DM than the B+ tree due to smaller read andwrite amplifications. However, constructing a radix tree onDMis challenging due to the costly lock-based concurrency control, the bounded memory-side IOPS, and the complicated computing-side cache validation. To address these challenges, we design SMART, the first radix tree for disaggregated memory with high performance. Specifically, we leverage (1) a hybrid concurrency control scheme including lock-free internal nodes and fine-grained lock-based leaf nodes to reduce lock overhead, (2) a computing-side read-delegation and write-combining technique to break through the IOPS upper bound by reducing redundant I/Os, and (3) a simple yet effective reverse check mechanism for computing-side cache validation. Experimental results show that SMART achieves 6.1x higher throughput under typical write-intensive workloads and 2.8x higher throughput under read-only workloads in YCSB benchmarks, compared with state-of-the-art B+ trees on DM.
+C1 [Luo, Xuchuan; Wang, Xin; Zhou, Yangfan] Fudan Univ, Sch Comp Sci, Shanghai, Peoples R China.
+   [Zuo, Pengfei] Huawei Technol Co Ltd, Huawei Cloud, Shenzhen, Peoples R China.
+   [Shen, Jiacheng; Gu, Jiazhen; Lyu, Michael] Chinese Univ Hong Kong, Hong Kong, Peoples R China.
+   [Wang, Xin; Zhou, Yangfan] Shanghai Key Lab Intelligent Informat Proc, Shanghai, Peoples R China.
+C3 Fudan University; Huawei Technologies; Chinese University of Hong Kong
+RP Luo, XC (corresponding author), Fudan Univ, Sch Comp Sci, Shanghai, Peoples R China.
+EM xcluo23@m.fudan.edu.cn; pfzuo.cs@gmail.com; jcshen@cse.cuhk.edu.hk;
+   jiazhengu@cuhk.edu.hk; xinw@fudan.edu.cn; lyu@cse.cuhk.edu.hk;
+   zyf@fudan.edu.cn
+OI Lyu, Michael/0000-0002-3666-5798; Wang, xin/0000-0002-9405-4485
+FU National Natural Science Foundation of China [623B2026]; Open Fund of
+   PDL
+FX This work is supported by the National Natural Science Foundation of
+   China (Project No. 623B2026) and the Open Fund of PDL (Project
+   No.WDZC20245250106).
+CR Aguilera MK, 2019, PROCEEDINGS OF THE WORKSHOP ON HOT TOPICS IN OPERATING SYSTEMS (HOTOS '19), P120, DOI 10.1145/3317550.3321433
+   Aguilera MK, 2008, PROC VLDB ENDOW, V1, P598
+   Angel Sebastian, 2020, P 12 USENIX WORKSH H
+   [Anonymous], 2013, P 12 ACM WORKSH HOT
+   Atikoglu Berk, 2012, Performance Evaluation Review, V40, P53, DOI 10.1145/2318857.2254766
+   Atre N, 2020, SIGCOMM '20: PROCEEDINGS OF THE 2020 ANNUAL CONFERENCE OF THE ACM SPECIAL INTEREST GROUP ON DATA COMMUNICATION ON THE APPLICATIONS, TECHNOLOGIES, ARCHITECTURES, AND PROTOCOLS FOR COMPUTER COMMUNICATION, P495, DOI 10.1145/3387514.3405883
+   Binna R, 2018, INT CONF MANAGE DATA, P521, DOI 10.1145/3183713.3196896
+   Burke M, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P228, DOI 10.1145/3477132.3483587
+   Cao W, 2021, INT CONF MANAGE DATA, P2477, DOI 10.1145/3448016.3457560
+   Carbonari A, 2017, HOTNETS-XVI: PROCEEDINGS OF THE 16TH ACM WORKSHOP ON HOT TOPICS IN NETWORKS, P164, DOI 10.1145/3152434.3152447
+   Cooper BF, 2010, Proceedings of the 1st ACM Symposium on Cloud Computing, SoCC'10, P143, DOI DOI 10.1145/1807128.1807152
+   De Moura AL, 2009, ACM T PROGR LANG SYS, V31, DOI 10.1145/1462166.1462167
+   Dragojevic Aleksandar, 2014, Proceedings of the 11th USENIX Conference on Networked Systems Design and Implementation, P401
+   Duplyakin D, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P1
+   Firestone D, 2018, PROCEEDINGS OF THE 15TH USENIX SYMPOSIUM ON NETWORKED SYSTEMS DESIGN AND IMPLEMENTATION (NSDI'18), P51
+   Fonxat, 2018, 300 Million Email Database
+   Fraser Keir, 2004, Ph. D. Dissertation
+   Fuerst A, 2022, ASPLOS '22: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS, P583, DOI 10.1145/3503222.3507725
+   Gao PX, 2016, PROCEEDINGS OF OSDI'16: 12TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P249
+   Guo CX, 2016, PROCEEDINGS OF THE 2016 ACM CONFERENCE ON SPECIAL INTEREST GROUP ON DATA COMMUNICATION (SIGCOMM '16), P202
+   Guo ZY, 2022, ASPLOS '22: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS, P417, DOI 10.1145/3503222.3507762
+   Hart TE, 2007, J PARALLEL DISTR COM, V67, P1270, DOI 10.1016/j.jpdc.2007.04.010
+   He YJ, 2020, PROC VLDB ENDOW, V14, P431, DOI 10.14778/3430915.3430932
+   Hooper Eric, 2018, Intel Rack Scale Design: Just What Is It?
+   HP Labs, 2014, The Machine: A New Kind of Computer
+   Intel Corporation, 1998, Write Combining Memory Implementation Guidelines
+   Jagadish HV, 2005, ACM T DATABASE SYST, V30, P364, DOI 10.1145/1071610.1071612
+   Ji MW, 2003, USENIX ASSOCIATION PROCEEDINGS OF THE GENERAL TRACK, P253
+   Kalia A, 2019, PROCEEDINGS OF THE 16TH USENIX SYMPOSIUM ON NETWORKED SYSTEMS DESIGN AND IMPLEMENTATION, P1
+   Kalia A, 2016, PROCEEDINGS OF USENIX ATC '16: 2016 USENIX ANNUAL TECHNICAL CONFERENCE, P437
+   Kim J, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P756, DOI 10.1145/3477132.3483565
+   Kim WH, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P424, DOI 10.1145/3477132.3483589
+   LAMPORT L, 1977, COMMUN ACM, V20, P806, DOI 10.1145/359863.359878
+   Lee BC, 2009, CONF PROC INT SYMP C, P2, DOI 10.1145/1555815.1555758
+   Lee SK, 2019, PROCEEDINGS OF THE TWENTY-SEVENTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '19), P462, DOI 10.1145/3341301.3359635
+   Lee SK, 2017, PROCEEDINGS OF FAST '17: 15TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P257
+   Lee SS, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P488, DOI 10.1145/3477132.3483561
+   Leis V, 2013, PROC INT CONF DATA, P38, DOI 10.1109/ICDE.2013.6544812
+   Leis Viktor, 2016, P 12 INT WORKSH DAT, DOI [10.1145/2933349.2933352, DOI 10.1145/2933349.2933352]
+   Li HC, 2023, PROCEEDINGS OF THE 28TH ACM INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS, VOL 2, ASPLOS 2023, P574, DOI 10.1145/3575693.3578835
+   Li PF, 2023, PROCEEDINGS OF THE 21ST USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, FAST 2023, P99
+   Lim Hyeontaek, 2014, P 11 USENIX S NETW S, P429
+   Liu M, 2019, SIGCOMM '19 - PROCEEDINGS OF THE ACM SPECIAL INTEREST GROUP ON DATA COMMUNICATION, P318, DOI 10.1145/3341302.3342079
+   Liu QX, 2018, PROCEEDINGS OF THE 2018 ACM SYMPOSIUM ON CLOUD COMPUTING (SOCC '18), P347, DOI 10.1145/3267809.3267830
+   Ma SN, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P1
+   MAO Y., 2012, EUROSYS, P183
+   Mathew A, 2020, PROC VLDB ENDOW, V13, P1332, DOI 10.14778/3397230.3397232
+   Mitchell C., 2013, Proceedings of the 2013 USENIX Conference on Annual Technical Conference. USENIX ATC'13, P103
+   Mitchell C, 2016, PROCEEDINGS OF USENIX ATC '16: 2016 USENIX ANNUAL TECHNICAL CONFERENCE, P451
+   Monga SK, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P212, DOI 10.1145/3477132.3483576
+   Nitu V, 2018, EUROSYS '18: PROCEEDINGS OF THE THIRTEENTH EUROSYS CONFERENCE, DOI 10.1145/3190508.3190537
+   Reiss C, 2012, Proceedings of the Third ACM Symposium on Cloud Computing, DOI 10.1145/2391229.2391236
+   Ruan ZY, 2020, PROCEEDINGS OF THE 14TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '20), P315
+   Schuh HN, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P740, DOI 10.1145/3477132.3483555
+   Shamis A, 2019, INT CONF MANAGE DATA, P433, DOI 10.1145/3299869.3300069
+   Shan YZ, 2022, Arxiv, DOI arXiv:2109.07744
+   Shan YZ, 2018, PROCEEDINGS OF THE 13TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P69
+   Shen Jiacheng, 2023, SOSP '23: Proceedings of the 29th Symposium on Operating Systems Principles, P675, DOI 10.1145/3600006.3613144
+   Shen JC, 2023, PROCEEDINGS OF THE 21ST USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, FAST 2023, P81
+   Sidler D, 2020, PROCEEDINGS OF THE FIFTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS'20), DOI 10.1145/3342195.3387519
+   Soundararajan Gokul., 2010, Proceedings of the 8th USENIX conference on File and storage technologies, FAST'10, P8
+   Su MM, 2017, PROCEEDINGS OF THE TWELFTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS 2017), P1, DOI 10.1145/3064176.3064189
+   Tirmazi M, 2020, PROCEEDINGS OF THE FIFTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS'20), DOI 10.1145/3342195.3387517
+   Tsai SY, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P33
+   Wang Q, 2022, INT CONF MANAGE DATA, P1033, DOI 10.1145/3514221.3517824
+   Wang Q, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P277
+   Wang ZQ, 2018, INT CONF MANAGE DATA, P473, DOI 10.1145/3183713.3196895
+   Wei XD, 2020, PROCEEDINGS OF THE 14TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '20), P117
+   Wu S, 2010, PROC VLDB ENDOW, V3, P1207, DOI 10.14778/1920841.1920991
+   Yang JC, 2020, PROCEEDINGS OF THE 14TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '20), P191
+   Ziegler Tobias, 2023, Proceedings of the ACM on Management of Data, V1, DOI 10.1145/3589276
+   Ziegler T, 2019, INT CONF MANAGE DATA, P741, DOI 10.1145/3299869.3300081
+   Zuo PF, 2021, PROCEEDINGS OF THE 2021 USENIX ANNUAL TECHNICAL CONFERENCE, P15
+NR 73
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD AUG
+PY 2024
+VL 20
+IS 3
+AR 15
+DI 10.1145/3664289
+PG 41
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XM3Y6
+UT WOS:001262073000002
+DA 2024-08-05
+ER
+
+PT J
+AU Wang, SC
+   Cao, Q
+   Jiang, H
+   Lu, ZY
+   Yao, J
+   Chen, YX
+   Pan, AQ
+AF Wang, Shucheng
+   Cao, Qiang
+   Jiang, Hong
+   Lu, Ziyi
+   Yao, Jie
+   Chen, Yuxing
+   Pan, Anqun
+TI Explorations and Exploitation for Parity-based RAIDs with Ultra-fast
+   SSDs
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE RAID systems; multi-thread scheduling; solid-state drive
+ID PERFORMANCE
+AB Following a conventional design principle that pays more fast-CPU-cycles for fewer slow-I/Os, popular software storage architecture Linux Multiple-Disk (MD) for parity-based RAID (e.g., RAID5 and RAID6) assigns one or more centralized worker threads to efficiently process all user requests based on multi-stage asynchronous control and global data structures, successfully exploiting characteristics of slow devices, e.g., Hard Disk Drives (HDDs). However, we observe that, with high-performance NVMe-based Solid State Drives (SSDs), even the recently added multi-worker processing mode in MD achieves only limited performance gain because of the severe lock contentions under intensive write workloads. In this paper, we propose a novel stripe-threaded RAID architecture, StRAID, assigning a dedicated worker thread for each stripe-write (one-for-onemodel) to sufficiently exploit high parallelism inherent among RAID stripes, multi-core processors, and SSDs. For the notoriously performance-punishing partial-stripe writes that induce extra read and write I/Os, StRAID presents a two-stage stripe writemechanism and a two-dimensional multi-log SSD buffer. All writes first are opportunistically batched in memory, and then are written into the primary RAID for aggregated full-stripe writes or conditionally redirected to the buffer for partial-stripe writes. These buffered data are strategically reclaimed to the primary RAID. We evaluate a StRAID prototype with a variety of benchmarks and real-world traces. StRAID is demonstrated to outperform MD by up to 5.8 times in write throughput.
+C1 [Wang, Shucheng] China Mobile Suzhou Software Technol Co Ltd, Suzhou, Peoples R China.
+   [Wang, Shucheng; Cao, Qiang] Huazhong Univ Sci & Technol, Wuhan, Peoples R China.
+   [Jiang, Hong] Univ Texas Arlington, Dept Comp Sci & Engn, Arlington, TX 76019 USA.
+   [Chen, Yuxing; Pan, Anqun] Tencent Inc, Shenzhen, Peoples R China.
+C3 China Mobile; Huazhong University of Science & Technology; University of
+   Texas System; University of Texas Arlington; Tencent
+RP Cao, Q (corresponding author), Huazhong Univ Sci & Technol, Wuhan, Peoples R China.
+EM wsczq@hust.edu.cn; caoqiang@hust.edu.cn; hong.jiang@uta.edu;
+   luziyi@hust.edu.cn; jackyao@hust.edu.cn; axingguchen@tencent.com;
+   aaronpan@tencent.com
+OI Chen, Yuxing/0000-0002-6220-2535; Jiang, Hong/0000-0002-1477-9751
+FU National Key Research and Development Program of China [2018YFA0701800];
+   NSFC [61821003, 62172175]; US National Science Foundation [CNS-2008835];
+   Key Research and Development Project of Hubei [2022BAA042]
+FX This work was supported in part by National Key Research and Development
+   Program of China No. 2018YFA0701800, NSFC No.62172175, NSFC No.61821003,
+   the US National Science Foundation Grant CNS-2008835, and the Key
+   Research and Development Project of Hubei No.2022BAA042.
+CR Abu-Libdeh H., 2010, P 1 ACM S CLOUD COMP, P229, DOI DOI 10.1145/1807128.1807165
+   Aguilera MK, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P775
+   Balakrishnan M, 2010, EUROSYS'10: PROCEEDINGS OF THE EUROSYS 2010 CONFERENCE, P15
+   Beaver D., 2010, OSDI, P47
+   Bhat SS, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P69, DOI 10.1145/3132747.3132779
+   Bonwick J., ZFS: The lastword in file systems
+   Canny J, 2015, PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, P233, DOI 10.1109/BigData.2015.7363760
+   Chan HHW, 2018, IEEE T PARALL DISTR, V29, P2241, DOI 10.1109/TPDS.2018.2818171
+   Chen H, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P17
+   Chen YM, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P81
+   Chen YM, 2020, TWENTY-FIFTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXV), P1077, DOI 10.1145/3373376.3378515
+   Cheng-Yang Fu, 2011, Proceedings 2011 Design, Automation & Test in Europe
+   Chung CC, 2014, IEEE T VLSI SYST, V22, P1470, DOI 10.1109/TVLSI.2013.2275737
+   Colgrove J, 2015, SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P1683, DOI 10.1145/2723372.2742798
+   Courtright WV, 1996, IEEE INTERNATIONAL COMPUTER PERFORMANCE AND DEPENDABILITY SYMPOSIUM - IPDS'96, PROCEEDINGS, P11, DOI 10.1109/IPDS.1996.540194
+   Elyasi N, 2017, TWENTY-SECOND INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXII), P375, DOI 10.1145/3037697.3037728
+   Fan Bin, 2011, SC11
+   Gal Ofri, 2021, raid5 avoid device lock in read one chunk
+   Gonzales Dean, 2015, PCISIG DEVELOPERS C
+   Hao MZ, 2016, 14TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '16), P263
+   Hedayati M, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P301
+   Hwang J, 2021, PROCEEDINGS OF THE 15TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '21), P113
+   Im S, 2011, IEEE T COMPUT, V60, P80, DOI 10.1109/TC.2010.197
+   Intel, 2020, ISA-L performance report
+   Intel, 2021, Intel Optane DC persistent memory
+   Jiang TY, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P355
+   Jin C, 2011, IEEE S MASS STOR SYS
+   Kadekodi R, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P804, DOI 10.1145/3477132.3483567
+   Kesavan R, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P135
+   Kim J, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P799
+   Kim Y, 2014, IEEE T COMPUT, V63, P888, DOI 10.1109/TC.2012.256
+   Koo G, 2017, 50TH ANNUAL IEEE/ACM INTERNATIONAL SYMPOSIUM ON MICROARCHITECTURE (MICRO), P219, DOI 10.1145/3123939.3124553
+   Kumar P, 2017, 2017 USENIX ANNUAL TECHNICAL CONFERENCE (USENIX ATC '17), P41
+   Kyber, 2017, multiqueue I/O scheduler
+   Li J, 2020, IEEE T DEPEND SECURE, V17, P782, DOI 10.1109/TDSC.2018.2882512
+   Li Shaohua, 2013, raid5: Make stripe handling multi-threading
+   Li Shaohua, 2013, raid5 offload stripe handle to workqueue
+   Li YK, 2017, IEEE T COMPUT AID D, V36, P815, DOI 10.1109/TCAD.2016.2604292
+   Li YK, 2016, IEEE T COMPUT, V65, P1131, DOI 10.1109/TC.2014.2349505
+   Liao XJ, 2021, PROCEEDINGS OF THE 2021 USENIX ANNUAL TECHNICAL CONFERENCE, P877
+   Linux, 2020, HDFS-RAID
+   Linux, 2015, Linux perf
+   Linux, 2020, Linux RAID
+   Liu SY, 2019, PROCEEDINGS OF THE 2019 TENTH ACM SYMPOSIUM ON CLOUD COMPUTING (SOCC '19), P403, DOI 10.1145/3357223.3362705
+   Maneas S, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P137
+   Meza Justin, 2015, ACM SIGMETRICS Performance Evaluation Review, V43, P177, DOI 10.1145/2745844.2745848
+   MUNTZ RR, 1990, VERY LARGE DATA BASES, P162
+   Narayanan D, 2008, PROCEEDINGS OF THE 6TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '08), P253
+   NETAPP INC, 2010, Data ONTAP 8
+   Pagh R, 2004, J ALGORITHMS, V51, P122, DOI 10.1016/j.jalgor.2003.12.002
+   Pan S, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P217
+   Patel T, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P91
+   Patterson D. A., 1988, SIGMOD Record, V17, P109, DOI 10.1145/971701.50214
+   PRAKASH S, 1994, IEEE T COMPUT, V43, P548, DOI 10.1109/12.280802
+   Samsung Electronics, 2021, Samsung develops high-performance PCIe 5.0 SSD for enterprise servers
+   Schroeder B, 2016, 14TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '16), P67
+   ShuchengWang Qiang Cao, 2022, P 51 INT C PARALLEL, P1
+   Skourtis Dimitris, 2014, 2014 USENIX ANN TECH, P463
+   Tarasov Vasily, 2016, USENIX; login, V41, P6
+   The kernel development community, 2020, RAID 4/5/6 cache
+   Tong Michael Hao, 2021, 2021 USENIX ANN TECH, P973
+   Vuppalapati M, 2020, PROCEEDINGS OF THE 17TH USENIX SYMPOSIUM ON NETWORKED SYSTEMS DESIGN AND IMPLEMENTATION, P449
+   Wan JG, 2017, INT PARALL DISTRIB P, P102, DOI 10.1109/IPDPS.2017.54
+   Wang R, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P559
+   Wang W, 2016, ACM T STORAGE, V12, DOI 10.1145/2756555
+   Wu SZ, 2019, IEEE T COMPUT AID D, V38, P822, DOI 10.1109/TCAD.2018.2834407
+   Wu SZ, 2018, INT PARALL DISTRIB P, P296, DOI 10.1109/IPDPS.2018.00039
+   Wu SZ, 2016, ACM T STORAGE, V12, DOI 10.1145/2892639
+   Wut SZ, 2019, DES AUT TEST EUROPE, P1367, DOI [10.23919/DATE.2019.8715100, 10.23919/date.2019.8715100]
+   Xiang LF, 2022, PROCEEDINGS OF THE SEVENTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS '22), P488, DOI 10.1145/3492321.3519556
+   Xu E, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P961
+   Xu GX, 2019, PROC INT CONF PARAL, DOI 10.1145/3337821.3337887
+   Xu GX, 2018, PR IEEE COMP DESIGN, P59, DOI 10.1109/ICCD.2018.00019
+   Yan SQ, 2017, PROCEEDINGS OF FAST '17: 15TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P15
+   Yang J, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P169
+   Zhang GY, 2018, PROCEEDINGS OF THE 16TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P279
+   Zhang Y., 2010, FAST, P29
+   Zhao Y, 2019, HPDC'19: PROCEEDINGS OF THE 28TH INTERNATIONAL SYMPOSIUM ON HIGH-PERFORMANCE PARALLEL AND DISTRIBUTED COMPUTING, P147, DOI 10.1145/3307681.3326605
+   Zhou Y, 2021, IEEE T COMPUT AID D, V40, P1354, DOI 10.1109/TCAD.2020.3015908
+NR 79
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD FEB
+PY 2024
+VL 20
+IS 1
+DI 10.1145/3627992
+PG 32
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MK0E2
+UT WOS:001193389200006
+DA 2024-08-05
+ER
+
+PT J
+AU Li, JH
+   Su, JB
+   Chen, LF
+   Li, C
+   Zhang, K
+   Yang, L
+   Noh, S
+   Xu, YL
+AF Li, Jiahao
+   Su, Jingbo
+   Chen, Luofan
+   Li, Cheng
+   Zhang, Kai
+   Yang, Liang
+   Noh, Sam
+   Xu, Yinlong
+TI Fastmove: A Comprehensive Study of On-Chip DMA and its Demonstration for
+   Accelerating Data Movement in NVM-based Storage Systems
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Persistent memory; direct memory access; direct cache access
+ID RANDOM-ACCESS MEMORY
+AB Data-intensive applications executing on NVM-based storage systems experience serious bottlenecks when moving data between DRAM and NVM. We advocate for the use of the long-existing but recently neglected on-chip DMA to expedite data movement with three contributions. First, we explore new latency-oriented optimization directions, driven by a comprehensive DMA study, to design a high-performance DMA module, which significantly lowers the I/O size threshold to observe benefits. Second, we propose a new data movement engine, Fastmove, that coordinates the use of the DMA along with the CPU with DDIO-aware strategies, judicious scheduling, and load splitting such that the DMA's limitations are compensated, and the overall gains are maximized. Finally, with a general kernel-based design, simple APIs, and DAX file system integration, Fastmove allows applications to transparently exploit the DMA and its new features without code change. We run three data-intensive applications MySQL, GraphWalker, and Filebench atop NOVA, ext4-DAX, and XFS-DAX, with standard benchmarks like TPC-C, and popular graph algorithms like PageRank. Across single- and multi-socket settings, compared to the conventional CPU-only NVM accesses, Fastmove introduces to TPC-C with MySQL 1.13-2.16x speedups of peak throughput, reduces the average latency by 17.7-60.8%, and saves 37.1-68.9% CPU usage spent in data movement. It also shortens the execution time of graph algorithms with GraphWalker by 39.7-53.4%, and introduces 1.01-1.48x throughput speedups for Filebench.
+C1 [Li, Jiahao; Su, Jingbo; Chen, Luofan] Univ Sci & Technol China, Comp Sci, Hefei, Peoples R China.
+   [Li, Cheng] Univ Sci & Technol China, CS Dept, Hefei, Anhui, Peoples R China.
+   [Zhang, Kai; Yang, Liang] SmartX, Beijing, Peoples R China.
+   [Noh, Sam] Virginia Tech, Blacksburg, VA USA.
+   [Xu, Yinlong] Univ Sci & Technol China, Hefei, Anhui, Peoples R China.
+C3 Chinese Academy of Sciences; University of Science & Technology of
+   China, CAS; Chinese Academy of Sciences; University of Science &
+   Technology of China, CAS; Virginia Polytechnic Institute & State
+   University; Chinese Academy of Sciences; University of Science &
+   Technology of China, CAS
+RP Li, C (corresponding author), Univ Sci & Technol China, CS Dept, Hefei, Anhui, Peoples R China.
+EM lijh2015@mail.ustc.edu.cn; sujb2113@mail.ustc.edu.cn;
+   clfbbn@mail.ustc.edu.cn; chengli7@ustc.edu.cn; kyle@smartx.com;
+   liang.yang@smartx.com; samhnoh@vt.edu; ylxu@ustc.edu.cn
+OI Xu, Yinlong/0000-0001-9586-0561
+FU National Nature Science Foundation of China [62141216]; U.S. National
+   Science Foundation [2312785]
+FX This work was supported in part by National Nature Science Foundation of
+   China under the grant No. 62141216 and U.S. National Science Foundation
+   under the grant No. 2312785.
+CR Akinaga H, 2010, P IEEE, V98, P2237, DOI 10.1109/JPROC.2010.2070830
+   Anderson TE, 2020, PROCEEDINGS OF THE 14TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '20), P1011
+   [Anonymous], 2023, Filebench
+   [Anonymous], 2023, Graph500
+   [Anonymous], 2023, MySQL
+   [Anonymous], 2023, PMDK
+   [Anonymous], 2023, TPC Benchamrk C
+   Benson L, 2021, PROC VLDB ENDOW, V14, P1544, DOI 10.14778/3461535.3461543
+   Choi Jungsik, 2017, P 9 USENIX WORKSH HO
+   CXL Consortium, 2022, Compute Express Link: The Breakthrough CPU-to-Device Interconnect
+   Daase B, 2021, INT CONF MANAGE DATA, P339, DOI 10.1145/3448016.3457292
+   Dulloor SR, 2016, PROCEEDINGS OF THE ELEVENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS, (EUROSYS 2016), DOI 10.1145/2901318.2901344
+   Farshin A, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P673
+   Giannoula C, 2023, P ACM MEAS ANAL COMP, V7, DOI 10.1145/3579445
+   Gugnani S, 2020, PROC VLDB ENDOW, V14, P626, DOI 10.14778/3436905.3436921
+   Hady FT, 2017, P IEEE, V105, P1822, DOI 10.1109/JPROC.2017.2731776
+   Intel, 2023, Intel Vtune Profiler
+   Intel, 2023, Intel I/O Acceleration Technology
+   Jens Axboe, 2023, FIO
+   Jiang Dave, libnvdimm: Add DMA supported blk-mq pmem driver
+   Jung M, 2022, PROCEEDINGS OF THE 2022 14TH ACM WORKSHOP ON HOT TOPICS IN STORAGE AND FILE SYSTEMS, HOTSTORAGE 2022, P45, DOI 10.1145/3538643.3539745
+   Kadekodi R, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P804, DOI 10.1145/3477132.3483567
+   Kadekodi R, 2019, PROCEEDINGS OF THE TWENTY-SEVENTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '19), P494, DOI 10.1145/3341301.3359631
+   Kalia Anuj, 2020, SoCC '20: Proceedings of the 11th ACM Symposium on Cloud Computing, P105, DOI 10.1145/3419111.3421294
+   Kannan S, 2018, PROCEEDINGS OF THE 2018 USENIX ANNUAL TECHNICAL CONFERENCE, P993
+   Kato Y, 2007, JPN J APPL PHYS 1, V46, P2157, DOI 10.1143/JJAP.46.2157
+   Khorguani A, 2022, PROCEEDINGS OF THE SEVENTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS '22), P525, DOI 10.1145/3492321.3519590
+   Kim J, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P756, DOI 10.1145/3477132.3483565
+   Kim Juno., 2020, ACM SIGOPS ASIA PACI, P1, DOI [DOI 10.1139/AS-2021-0001, 10.1139/as-2021-0001]
+   Kim W, 2022, PROCEEDINGS OF THE 16TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, OSDI 2022, P161
+   Kim WH, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P424, DOI 10.1145/3477132.3483589
+   Kuper Reese, 2024, ASPLOS '24: Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, P37, DOI 10.1145/3620665.3640401
+   Li RB, 2022, PROCEEDINGS OF THE 20TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, FAST 2022, P35
+   Linux, 2023, Device Mapper
+   Linux, 2023, DMAEngine framework
+   Linux, 2015, xfs: DAX support
+   Linux, 2014, ADD SUPPORT NV DIMMS
+   Lu YY, 2017, 2017 USENIX ANNUAL TECHNICAL CONFERENCE (USENIX ATC '17), P773
+   Maciejewski Maciej, 2016, How to emulate Persistent Memory
+   Neal I, 2021, PROCEEDINGS OF THE 19TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '21), P97
+   Papagiannis A, 2021, PROCEEDINGS OF THE SIXTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS '21), P277, DOI 10.1145/3447786.3456242
+   Prout Jonathan, 2022, Expanding Beyond Limits With CXL-based Memory
+   Raoux S, 2008, IBM J RES DEV, V52, P465, DOI 10.1147/rd.524.0465
+   Raybuck A, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P392, DOI 10.1145/3477132.3483550
+   Rokkam Mohan, 2023, Accelerating IntraHost Data Movement with VMware PVRDMA on a Dell AMD PowerEdge Server
+   Rueckes Thomas, 2011, P FLASH MEM SUMM
+   Stackoverflow, 2022, Why are SIMD instructions not used in kernel?
+   Stamler T, 2022, PROCEEDINGS OF THE 16TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, OSDI 2022, P431
+   Sun Y, 2023, 56TH IEEE/ACM INTERNATIONAL SYMPOSIUM ON MICROARCHITECTURE, MICRO 2023, P105, DOI 10.1145/3613424.3614256
+   Tulapurkar AA, 2005, NATURE, V438, P339, DOI 10.1038/nature04207
+   Vaidyanathan K., 2007, 2007 IEEE International Symposium on Performance Analysis of Systems and Software, P220, DOI 10.1109/ISPASS.2007.363752
+   Vaidyanathan K, 2007, 2007 IEEE INTERNATIONAL CONFERENCE ON CLUSTER COMPUTING, P159, DOI 10.1109/CLUSTR.2007.4629228
+   Vaidyanathan K., 2007, P 2007 IEEE INT PAR, P1, DOI [10.1109/IPDPS.2007.370479, DOI 10.1109/IPDPS.2007.370479]
+   Wang R, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P559
+   Wu K, 2022, PROCEEDINGS OF THE 20TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, FAST 2022, P1
+   Xiang LF, 2022, PROCEEDINGS OF THE SEVENTEENTH EUROPEAN CONFERENCE ON COMPUTER SYSTEMS (EUROSYS '22), P488, DOI 10.1145/3492321.3519556
+   Xu J, 2019, TWENTY-FOURTH INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXIV), P427, DOI 10.1145/3297858.3304077
+   Xu J, 2016, 14TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES (FAST '16), P323
+   Yan Zi, 2019, Accelerate page migration and use memcg for PMEM management
+   Yang J, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P169
+   Yi JF, 2022, PROCEEDINGS OF THE 20TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, FAST 2022, P199
+   Zhou DY, 2022, PROCEEDINGS OF THE 16TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, OSDI 2022, P179
+NR 62
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD AUG
+PY 2024
+VL 20
+IS 3
+AR 19
+DI 10.1145/3656477
+PG 30
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XM3Y6
+UT WOS:001262073000006
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Zhou, YH
+   Zhou, J
+   Lu, K
+   Zhan, L
+   Xu, P
+   Wu, P
+   Chen, SN
+   Liu, X
+   Wan, JG
+AF Zhou, Yuanhui
+   Zhou, Jian
+   Lu, Kai
+   Zhan, Ling
+   Xu, Peng
+   Wu, Peng
+   Chen, Shuning
+   Liu, Xian
+   Wan, Jiguang
+TI A Contract-aware and Cost-effective LSM Store for Cloud Storage with Low
+   Latency Spikes
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE Cloud block storage; log-structured merge tree; storage cost; tail
+   latency
+ID TREE
+AB Cloud storage is gaining popularity because features such as pay-as-you-go significantly reduce storage costs. However, the community has not sufficiently explored its contract model and latency characteristics. As LSM-Tree-based key-value stores (LSM stores) become the building block for numerous cloud applications, how cloud storage would impact the performance of key-value accesses is vital. This study reveals the significant latency variances of Amazon Elastic Block Store (EBS) under various I/O pressures, which challenges LSM store read performance on cloud storage. To reduce the corresponding tail latency, we propose Calcspar, a contract-aware LSM store for cloud storage, which efficiently addresses the challenges by regulating the rate of I/O requests to cloud storage and absorbing surplus I/O requests with the data cache. We specifically developed a fluctuation-aware cache to lower the high latency brought on by workload fluctuations. Additionally, we build a congestion-aware IOPS allocator to reduce the impact of LSM store internal operations on read latency. We evaluated Calcspar on EBS with different real-world workloads and compared it to the cutting-edge LSM stores. The results show that Calcspar can significantly reduce tail latency while maintaining regular read and write performance, keeping the 99th percentile latency under 550 mu s and reducing average latency by 66%. In addition, Calcspar has lower write prices and average latency compared to Cloud NoSQL services offered by cloud vendors.
+C1 [Zhou, Yuanhui; Zhou, Jian; Lu, Kai; Xu, Peng; Wan, Jiguang] Huazhong Univ Sci & Technol, Wuhan Natl Lab Optoelect, 1037 Luoyu Rd, Wuhan 430074, Peoples R China.
+   [Zhan, Ling] Wenhua Univ, Div Informat Sci & Technol, Wuhan 430074, Hubei, Peoples R China.
+   [Wu, Peng] Res Ctr Graph Comp, Zhejiang Lab, Res Inst Intelligent Comp, Hangzhou 311121, Zhejiang, Peoples R China.
+   [Chen, Shuning; Liu, Xian] PingCAP, Beijing 100096, Peoples R China.
+C3 Huazhong University of Science & Technology; Zhejiang Laboratory
+RP Zhan, L (corresponding author), Wenhua Univ, Div Informat Sci & Technol, Wuhan 430074, Hubei, Peoples R China.
+EM zhouyuanhui@hust.edu.cn; jianzhou@hust.edu.cn; kailu@hust.edu.cn;
+   82376237@qq.com; xup@zhejianglab.com; m202173646@hust.edu.cn;
+   chenshuning@pingcap.com; xian.liu@pingcap.com; jgwan@hust.edu.cn
+FU National Key Research and Development Program of China [2023YFB4502701,
+   2022YFB4501100]; National Natural Science Foundation of China [62072196,
+   62302465, U22A2071, 62372197, U2001203, 62102155]; Creative Research
+   Group Project of NSFC [61821003]; Key Research and Development Program
+   of Guangdong Province [2021B0101400003]
+FX This work was sponsored in part by the National Key Research and
+   Development Program of China (Grant No. 2023YFB4502701 and No.
+   2022YFB4501100), the National Natural Science Foundation of China under
+   Grant No. 62072196, No. 62302465, No. U22A2071, No. 62372197, No.
+   U2001203, and No. 62102155, the Creative Research Group Project of NSFC
+   No. 61821003, and the Key Research and Development Program of Guangdong
+   Province under grant No. 2021B0101400003. Any views expressed are solely
+   those of the authors and do not necessarily reflect the opinions or
+   recommendations of the funding agencies.
+CR Alibaba Cloud, 2023, Aliyun
+   Amazon, 2023, ABOUT US
+   Amazon, 2022, Cloud Storage
+   [Anonymous], 2022, RocksDB
+   [Anonymous], 2022, Amazon EBS Volume Types
+   [Anonymous], 2023, RocksDB Autotuned Rate Limiter
+   [Anonymous], 2024, Benchmarking Tools | RocksDB
+   [Anonymous], 2023, Managing throughput Capacity Automatically with DynamoDB Auto Scaling
+   [Anonymous], 2022, Amazon EBS Volume Pricing
+   [Anonymous], 2023, AWS DynamoDB Pricing for Provisioned Capacity
+   [Anonymous], 2024, Amazon DynamoDB Accelerator (DAX)
+   [Anonymous], 2024, LevelDB
+   [Anonymous], 2022, Amazon EBS Volume Modify Limitations
+   Balmau O, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P753
+   Balmau O, 2017, 2017 USENIX ANNUAL TECHNICAL CONFERENCE (USENIX ATC '17), P363
+   Bjorling Matias., 2013, Proceedings of the 6th International Systems and Storage Conference, P22
+   Cao ZC, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P209
+   Chai YP, 2022, IEEE T KNOWL DATA EN, V34, P2595, DOI 10.1109/TKDE.2020.3019264
+   Chang F, 2008, ACM T COMPUT SYST, V26, DOI 10.1145/1365815.1365816
+   Cooper BF, 2010, Proceedings of the 1st ACM Symposium on Cloud Computing, SoCC'10, P143, DOI DOI 10.1145/1807128.1807152
+   Dayan N, 2018, INT CONF MANAGE DATA, P505, DOI 10.1145/3183713.3196927
+   DeCandia Giuseppe, 2007, Operating Systems Review, V41, P205, DOI 10.1145/1323293.1294281
+   Elhemali M, 2022, PROCEEDINGS OF THE 2022 USENIX ANNUAL TECHNICAL CONFERENCE, P1037
+   Google, 2023, Google Cloud
+   Huang DX, 2020, PROC VLDB ENDOW, V13, P3072, DOI 10.14778/3415478.3415535
+   Hwang J, 2021, PROCEEDINGS OF THE 15TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '21), P113
+   IDC, 2022, The digitization of the world from edge to core
+   Jens Axboe, 2022, Flexible I/O Tester
+   Kesavan R., 2023, 2023 IEEE 39th International Conference on Data Engineering, P3367
+   Kwon M, 2022, PROCEEDINGS OF THE 2022 USENIX ANNUAL TECHNICAL CONFERENCE, P755
+   Lersch L, 2020, PROC VLDB ENDOW, V13, P1091, DOI 10.14778/3384345.3384356
+   Liang JK, 2021, PROC INT CONF DATA, P1032, DOI 10.1109/ICDE51399.2021.00094
+   Liu MZ, 2022, PROCEEDINGS OF THE 36TH ACM INTERNATIONAL CONFERENCE ON SUPERCOMPUTING, ICS 2022, DOI 10.1145/3524059.3532378
+   Lu K, 2022, IEEE T PARALL DISTR, V33, P1953, DOI 10.1109/TPDS.2021.3118599
+   Macedo R, 2022, PROCEEDINGS OF THE 20TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, FAST 2022, P413
+   Microsoft, 2023, Azure
+   Mor Harchol-Balter, 2013, Performance Modeling and Design of Computer Systems, V576
+   Niranjanamurthy M., 2014, Int. J. Comput. Sci. Mob. Comput., V3, P268
+   Pan FF, 2017, J COMPUT SCI TECH-CH, V32, P41, DOI 10.1007/s11390-017-1704-4
+   Raina Ashwini, 2020, arXiv
+   Raju P, 2017, PROCEEDINGS OF THE TWENTY-SIXTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '17), P497, DOI 10.1145/3132747.3132765
+   Research and Markets, 2022, Cloud Storage Market
+   Ruta Nicholas Joseph, 2017, Ph. D. Dissertation
+   Teng DJ, 2017, INT CON DISTR COMP S, P68, DOI 10.1109/ICDCS.2017.70
+   Wang SC, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P253
+   Wu FG, 2020, PROCEEDINGS OF THE 2020 USENIX ANNUAL TECHNICAL CONFERENCE, P603
+   Xu P, 2022, ACM T ARCHIT CODE OP, V19, DOI 10.1145/3527452
+   Yang L, 2020, PROC VLDB ENDOW, V13, P1976, DOI 10.14778/3407790.3407803
+   Yao Ting, 2017, P 33 INT C MASS STOR, P1
+   Yoon H, 2018, PROCEEDINGS OF THE 2018 ACM SYMPOSIUM ON CLOUD COMPUTING (SOCC '18), P162, DOI 10.1145/3267809.3267846
+   Zhang Shuo, 2021, INT C ALG ARCH PAR P, P222
+   Zhang T, 2022, PROC VLDB ENDOW, V15, P2161, DOI 10.14778/3547305.3547320
+NR 52
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD MAY
+PY 2024
+VL 20
+IS 2
+AR 8
+DI 10.1145/3643851
+PG 27
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RG9I6
+UT WOS:001226627400002
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Min, JH
+   Zhao, CXY
+   Liu, M
+   Krishnamurthy, A
+AF Min, Jaehong
+   Zhao, Chenxingyu
+   Liu, Ming
+   Krishnamurthy, Arvind
+TI eZNS: Elastic Zoned Namespace for Enhanced Performance Isolation and
+   Device Utilization
+SO ACM TRANSACTIONS ON STORAGE
+LA English
+DT Article
+DE ZNS; SSD; Storage; Disaggregation
+AB Emerging Zoned Namespace (ZNS) SSDs, providing the coarse-grained zone abstraction, hold the potential to significantly enhance the cost efficiency of future storage infrastructure and mitigate performance unpre-dictability. However, existing ZNS SSDs have a static zoned interface, making them in-adaptable to workload runtime behavior, unscalable to underlying hardware capabilities, and interfering with co-located zones. Ap-plications either under-provision the zone resources yielding unsatisfied throughput, create over-provisioned zones and incur costs, or experience unexpected I/O latencies.
+   We propose eZNS, an elastic-ZNS interface that exposes an adaptive zone with predictable characteristics. eZNS comprises two major components: a zone arbiter that manages zone allocation and active resources on the control plane, and a hierarchical I/O scheduler with read congestion control and write admission control on the data plane. Together, eZNS enables the transparent use of a ZNS SSD and closes the gap between ap-plication requirements and zone interface properties. Our evaluations over RocksDB demonstrate that eZNS outperforms a static zoned interface by 17.7% and 80.3% in throughput and tail latency, respectively, at most.
+C1 [Min, Jaehong] Univ Washington, Comp Sci, Seattle, WA 98195 USA.
+   [Zhao, Chenxingyu; Krishnamurthy, Arvind] Univ Washington, Seattle, WA 98195 USA.
+   [Liu, Ming] Univ Wisconsin, Madison, WI USA.
+C3 University of Washington; University of Washington Seattle; University
+   of Washington; University of Washington Seattle; University of Wisconsin
+   System; University of Wisconsin Madison
+RP Min, JH (corresponding author), Univ Washington, Comp Sci, Seattle, WA 98195 USA.
+EM jaehongm@cs.washington.edu; cxyzhao@cs.washington.edu;
+   mgliu@cs.wisc.edu; arvind@cs.washington.edu
+OI Krishnamurthy, Arvind/0000-0002-9505-9528
+FU NSF [CNS-2212193]; ACE, one of the seven centers in JUMP 2.0, a
+   Semiconductor Research Corporation (SRC) program - DARPA
+FX This work was supported in part by NSF grant CNS-2212193 and ACE, one of
+   the seven centers in JUMP 2.0, a Semiconductor Research Corporation
+   (SRC) program sponsored by DARPA.
+CR Agrawal Nitin, 2008, P USENIX ANN TECHN C, V57
+   Agrawal Nitin, 2008, P USENIX 2008 ANN TE
+   Bae H, 2022, PROCEEDINGS OF THE 2022 14TH ACM WORKSHOP ON HOT TOPICS IN STORAGE AND FILE SYSTEMS, HOTSTORAGE 2022, P79, DOI 10.1145/3538643.3539744
+   Balmau O, 2019, PROCEEDINGS OF THE 2019 USENIX ANNUAL TECHNICAL CONFERENCE, P753
+   Barham P., 2003, Operating Systems Review, V37, P164, DOI 10.1145/1165389.945462
+   Bjorling M, 2021, PROCEEDINGS OF THE 2021 USENIX ANNUAL TECHNICAL CONFERENCE, P689
+   Bjorling M, 2017, PROCEEDINGS OF FAST '17: 15TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P359
+   Bjorling Matias, 2019, P LIN STOR FIL C VAU, V1
+   Cai Y, 2017, P IEEE, V105, P1666, DOI 10.1109/JPROC.2017.2713127
+   Chen F, 2016, ACM T STORAGE, V12, DOI 10.1145/2818376
+   Chen F, 2009, PERF E R SI, V37, P181
+   Chen Feng, 2011, P 9 USENIX C FIL STO
+   Cooper BF, 2010, Proceedings of the 1st ACM Symposium on Cloud Computing, SoCC'10, P143, DOI DOI 10.1145/1807128.1807152
+   GitHub, 2022, Flexible I/O Tester (FIO)
+   Han K, 2021, PROCEEDINGS OF THE 15TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION (OSDI '21), P147
+   Hu Y, 2013, IEEE T COMPUT, V62, P1141, DOI 10.1109/TC.2012.60
+   Jung Myoungsoo, 2013, P ACM SIGMETRICS INT
+   Kang D, 2019, ISSCC DIG TECH PAP I, V62, P216, DOI 10.1109/ISSCC.2019.8662493
+   Kang J., 2006, Proceedings of the International Conference on Embedded Software (EMSOFT), P161
+   Khakifirooz A, 2021, ISSCC DIG TECH PAP I, V64, P424, DOI [10.1109/ISSCC42613.2021.9365777, 10.1109/ISSCC.2018.8310323]
+   Kim M., 2022, 2022 IEEE International Solid- State Circuits Conference (ISSCC), P136
+   Klimovic A, 2017, TWENTY-SECOND INTERNATIONAL CONFERENCE ON ARCHITECTURAL SUPPORT FOR PROGRAMMING LANGUAGES AND OPERATING SYSTEMS (ASPLOS XXII), P345, DOI 10.1145/3037697.3037732
+   Kumar G, 2020, SIGCOMM '20: PROCEEDINGS OF THE 2020 ANNUAL CONFERENCE OF THE ACM SPECIAL INTEREST GROUP ON DATA COMMUNICATION ON THE APPLICATIONS, TECHNOLOGIES, ARCHITECTURES, AND PROTOCOLS FOR COMPUTER COMMUNICATION, P514, DOI 10.1145/3387514.3406591
+   Kwon M, 2020, PROCEEDINGS OF THE 18TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P183
+   Le Moal Damien, 2020, P LIN STOR FIL C VAU
+   Lee Changman, 2015, 13 USENIX C FIL STOR, P273
+   Li HC, 2021, PROCEEDINGS OF THE 28TH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES, SOSP 2021, P263, DOI 10.1145/3477132.3483573
+   Litz H, 2022, ACM T STORAGE, V18, DOI 10.1145/3465406
+   Min J, 2021, SIGCOMM '21: PROCEEDINGS OF THE 2021 ACM SIGCOMM 2021 CONFERENCE, P106, DOI 10.1145/3452296.3472940
+   Ming-Chang Yang, 2014, 2014 International Conference on Smart Computing (SMARTCOMP), P66, DOI 10.1109/SMARTCOMP.2014.7043841
+   Minwoo Im, 2022, Middleware '22: Proceedings of the 23rd International Middleware Conference: Industrial Track, P15, DOI 10.1145/3564695.3564774
+   NVM Express, 2022, The NVMe Base Specification
+   NVM Express, 2019, NVM Express Base Specification, Revision 1.4
+   Ouyang J, 2014, ACM SIGPLAN NOTICES, V49, P471, DOI 10.1145/2541940.2541959
+   Park C, 2008, ACM T EMBED COMPUT S, V7, DOI 10.1145/1376804.1376806
+   Park Stan, 2012, P 10 USENIX C FIL ST
+   Petersen Chris, 2018, P 12 ANN FLASH MEM S
+   Pletka R, 2018, ACM T STORAGE, V14, DOI 10.1145/3241060
+   Radian Memory Systems, 2022, Radian Memory System RMS ZNS SSDs
+   RocksDB, 2022, RocksDB Home Page
+   Rodeh O, 2013, ACM T STORAGE, V9, DOI 10.1145/2501620.2501623
+   Samsung, 2022, Samsung PM1731a Review from STH
+   Samsung, 2022, Samsung PM1731a ZNS SSDs
+   Schopp Joel H., 2006, P LINUX S, V2, P313
+   Shen Kai., 2013, Proceedings of the 2013 USENIX Conference on Annual Technical Conference, USENIX ATC'13, P67
+   Shin H, 2020, IEEE NON-VOLATILE ME, P25, DOI 10.1109/nvmsa51238.2020.9188086
+   Siau C, 2019, ISSCC DIG TECH PAP I, V62, P218, DOI 10.1109/ISSCC.2019.8662445
+   SPDK, 2022, The Storage Performance Development Kit (SPDK)
+   Stavrinos Theano, 2021, HotOS '21: Proceedings of the Workshop on Hot Topics in Operating Systems, P144, DOI 10.1145/3458336.3465300
+   Tehrany N, 2022, Arxiv, DOI arXiv:2206.01547
+   Tseng HW, 2011, DES AUT CON, P35
+   Waldspurger CA, 2002, USENIX ASSOCIATION PROCEEDINGS OF THE FIFTH SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P181, DOI 10.1145/1060289.1060307
+   Wang Peng, 2014, P 9 EUR C COMP SYST
+   Wang SZ, 2019, PROCEEDINGS OF THE 2019 56TH ACM/EDAC/IEEE DESIGN AUTOMATION CONFERENCE (DAC), DOI 10.1145/3316781.3317929
+   Western Digital, 2022, Western Digital Ultrastar ZNS SSDs
+   Wikipedia, 2022, The SCSI Protocol
+   Yan SQ, 2017, PROCEEDINGS OF FAST '17: 15TH USENIX CONFERENCE ON FILE AND STORAGE TECHNOLOGIES, P15
+   Yang Jingpei, 2014, P 2 WORKSH INT NVM F
+   Zhang Y., 2012, FAST
+   Zheng M., 2013, Proceedings of the 11th USENIX Conference on File and Storage Technologies (FAST '13), P271
+NR 60
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 1553-3077
+EI 1553-3093
+J9 ACM T STORAGE
+JI ACM Trans. Storage
+PD AUG
+PY 2024
+VL 20
+IS 3
+AR 16
+DI 10.1145/3653716
+PG 41
+WC Computer Science, Hardware & Architecture; Computer Science, Software
+   Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XM3Y6
+UT WOS:001262073000003
+OA Bronze
+DA 2024-08-05
+ER
+
+EF

@@ -1,0 +1,1066 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Nie, YW
+   Zhao, MH
+   Zhang, Q
+   Li, P
+   Zhu, J
+   Cai, HM
+AF Nie, Yongwei
+   Zhao, Meihua
+   Zhang, Qing
+   Li, Ping
+   Zhu, Jian
+   Cai, Hongmin
+TI Make static person walk again via separating pose action from shape
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Human motion; Character animation; Action synthesis; Prediction of
+   action and shape
+AB This paper addresses the problem of animating a person in static images, the core task of which is to infer future poses for the person. Existing approaches predict future poses in the 2D space, suffering from entanglement of pose action and shape. We propose a method that generates actions in the 3D space and then transfers them to the 2D person. We first lift the 2D pose of the person to a 3D skeleton, then propose a 3D action synthesis network predicting future skeletons, and finally devise a self-supervised action transfer network that transfers the actions of 3D skeletons to the 2D person. Actions generated in the 3D space look plausible and vivid. More importantly, self-supervised action transfer allows our method to be trained only on a 3D MoCap dataset while being able to process images in different domains. Experiments on three image datasets validate the effectiveness of our method.
+C1 [Nie, Yongwei; Zhao, Meihua; Cai, Hongmin] South China Univ Technol, Guangzhou 510006, Guangdong, Peoples R China.
+   [Zhang, Qing] Sun Yat Sen Univ, Guangzhou 510006, Guangdong, Peoples R China.
+   [Li, Ping] Hong Kong Polytech Univ, Hong Kong, Peoples R China.
+   [Zhu, Jian] Guangdong Univ Technol, Guangzhou, Guangdong, Peoples R China.
+C3 South China University of Technology; Sun Yat Sen University; Hong Kong
+   Polytechnic University; Guangdong University of Technology
+RP Cai, HM (corresponding author), South China Univ Technol, Guangzhou 510006, Guangdong, Peoples R China.; Zhu, J (corresponding author), Guangdong Univ Technol, Guangzhou, Guangdong, Peoples R China.
+EM zj@gdut.edu.cn; hmcai@scut.edu.cn
+FU National Key Research and Devel-opment Program of China [2022YFE0112200,
+   2021ZD0111501]; National Natural Science Foundation of China [U21A20520,
+   62325204, 62072191]; Key-Area Research and Development Program of
+   Guangzhou City [202206030009]
+FX This work was supported by the National Key Research and Devel-opment
+   Program of China (2022YFE0112200, 2021ZD0111501) , the National Natural
+   Science Foundation of China (U21A20520, 62325204, 62072191) , and the
+   Key-Area Research and Development Program of Guangzhou City
+   (202206030009) .
+CR Averbuch-Elor H, 2017, ACM T GRAPHIC, V36, DOI 10.1145/3130800.3130818
+   Bai JM, 2013, COMPUT GRAPH FORUM, V32, P17, DOI 10.1111/cgf.12147
+   Biswas Shubhadeep, 2019, 2019 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC), DOI 10.1109/CLEOE-EQEC.2019.8871819
+   Cao Y, 2017, IEEE T MULTIMEDIA, V19, P160, DOI 10.1109/TMM.2016.2609415
+   Cao Z, 2021, IEEE T PATTERN ANAL, V43, P172, DOI 10.1109/TPAMI.2019.2929257
+   Castrejon L, 2019, IEEE I CONF COMP VIS, P7607, DOI 10.1109/ICCV.2019.00770
+   Chuang YY, 2005, ACM T GRAPHIC, V24, P853, DOI 10.1145/1073204.1073273
+   CMU, Carnegie Mellon Mocap Database
+   Dang LW, 2022, PROCEEDINGS OF THE 30TH ACM INTERNATIONAL CONFERENCE ON MULTIMEDIA, MM 2022, P5162, DOI 10.1145/3503161.3547956
+   Dang LW, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P11447, DOI 10.1109/ICCV48922.2021.01127
+   Endo Y, 2019, ACM T GRAPHIC, V38, DOI 10.1145/3355089.3356523
+   Fragkiadaki K, 2015, IEEE I CONF COMP VIS, P4346, DOI 10.1109/ICCV.2015.494
+   Franceschi J.-Y., 2020, PMLR, P3233
+   Geng JH, 2018, ACM T GRAPHIC, V37, DOI 10.1145/3272127.3275043
+   Goodfellow IJ, 2014, ADV NEUR IN, V27, P2672, DOI 10.1145/3422622
+   Graves A, 2012, STUD COMPUT INTELL, V385, P1, DOI [10.1162/neco.1997.9.8.1735, 10.1007/978-3-642-24797-2, 10.1162/neco.1997.9.1.1]
+   Holden D, 2017, ACM T GRAPHIC, V36, DOI 10.1145/3072959.3073663
+   Holden D, 2016, ACM T GRAPHIC, V35, DOI 10.1145/2897824.2925975
+   Holynski Aleksander, 2021, 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), P5806, DOI 10.1109/CVPR46437.2021.00575
+   Hornung A, 2007, ACM T GRAPHIC, V26, DOI 10.1145/1186644.1186645
+   Ionescu C, 2014, IEEE T PATTERN ANAL, V36, P1325, DOI 10.1109/TPAMI.2013.248
+   Joshi N, 2012, UIST'12: PROCEEDINGS OF THE 25TH ANNUAL ACM SYMPOSIUM ON USER INTERFACE SOFTWARE AND TECHNOLOGY, P251
+   Kwon YH, 2019, PROC CVPR IEEE, P1811, DOI 10.1109/CVPR.2019.00191
+   Lee JM, 2023, IEEE ACCESS, V11, P9942, DOI 10.1109/ACCESS.2023.3240589
+   Li P, 2012, COMPUT GRAPH-UK, V36, P1048, DOI 10.1016/j.cag.2012.07.004
+   Li YJ, 2018, LECT NOTES COMPUT SC, V11213, P609, DOI 10.1007/978-3-030-01240-3_37
+   Ling HY, 2020, ACM T GRAPHIC, V39, DOI 10.1145/3386569.3392422
+   Liu PF, 2024, COMPUT VIS MEDIA, V10, P119, DOI 10.1007/s41095-023-0343-7
+   Liu X., 2020, IEEE Trans. Circuits Syst. Video Technol.
+   Liu ZW, 2016, PROC CVPR IEEE, P1096, DOI 10.1109/CVPR.2016.124
+   Loper M, 2015, ACM T GRAPHIC, V34, DOI 10.1145/2816795.2818013
+   Ma TZ, 2022, PROC CVPR IEEE, P6427, DOI 10.1109/CVPR52688.2022.00633
+   Ma TZ, 2020, IEEE T VIS COMPUT GR, V26, P3163, DOI 10.1109/TVCG.2019.2923196
+   Mao W, 2019, IEEE I CONF COMP VIS, P9488, DOI 10.1109/ICCV.2019.00958
+   Martinez J, 2017, IEEE I CONF COMP VIS, P2659, DOI 10.1109/ICCV.2017.288
+   Martinez J, 2017, PROC CVPR IEEE, P4674, DOI 10.1109/CVPR.2017.497
+   Mathieu M, 2016, Arxiv, DOI arXiv:1511.05440
+   Muller M., 2007, Documentation mocap database hdm05
+   Nie Q, 2023, INT J COMPUT VISION, V131, P1250, DOI 10.1007/s11263-023-01749-2
+   Nie YW, 2013, VISUAL COMPUT, V29, P785, DOI 10.1007/s00371-013-0830-4
+   Ofli F, 2013, IEEE WORK APP COMP, P53, DOI 10.1109/WACV.2013.6474999
+   Shi M, 2024, COMPUT VIS MEDIA, V10, P261, DOI 10.1007/s41095-022-0324-2
+   Siarohin A, 2019, ADV NEUR IN, V32
+   Srivastava N, 2015, PR MACH LEARN RES, V37, P843
+   Tang J., 2023, Visual Intelligence, V1, P18
+   Tompkin J., 2011, 2011 Conference for Visual Media Production, P87, DOI 10.1109/CVMP.2011.16
+   Tulyakov S, 2018, PROC CVPR IEEE, P1526, DOI 10.1109/CVPR.2018.00165
+   Villegas R., 2017, ICLR
+   Villegas R, 2017, PR MACH LEARN RES, V70
+   Vondrick C, 2016, Arxiv, DOI arXiv:1609.02612
+   Walker J, 2017, IEEE I CONF COMP VIS, P3352, DOI 10.1109/ICCV.2017.361
+   Walker J, 2016, LECT NOTES COMPUT SC, V9911, P835, DOI 10.1007/978-3-319-46478-7_51
+   Wang Q., 2023, Vis. Intell, P22
+   Weng CY, 2019, PROC CVPR IEEE, P5901, DOI 10.1109/CVPR.2019.00606
+   Xia SH, 2015, ACM T GRAPHIC, V34, DOI 10.1145/2766999
+   Xiao CX, 2010, VISUAL COMPUT, V26, P263, DOI 10.1007/s00371-009-0409-2
+   Xu XM, 2008, ACM T GRAPHIC, V27, DOI 10.1145/1409060.1409070
+   Xue TF, 2019, IEEE T PATTERN ANAL, V41, P2236, DOI 10.1109/TPAMI.2018.2854726
+   Yang CH, 2018, PROCEEDINGS OF 2018 3RD INTERNATIONAL CONFERENCE ON COMPUTER AND COMMUNICATION SYSTEMS (ICCCS), P201, DOI 10.1109/CCOMS.2018.8463302
+   Yang H, 2020, IEEE T IMAGE PROCESS, V29, P5783, DOI 10.1109/TIP.2020.2984904
+   Ye YF, 2019, IEEE I CONF COMP VIS, P10352, DOI 10.1109/ICCV.2019.01045
+   Zakharov E, 2019, IEEE I CONF COMP VIS, P9458, DOI 10.1109/ICCV.2019.00955
+   Zhang Dingyun, 2024, Computational Visual Media: 12th International Conference, CVM 2024, Proceedings. Lecture Notes in Computer Science (14593), P3, DOI 10.1007/978-981-97-2092-7_1
+   Zhang FH, 2024, COMPUT VIS MEDIA, V10, P79, DOI 10.1007/s41095-023-0346-4
+   Zhang H, 2018, ACM T GRAPHIC, V37, DOI 10.1145/3197517.3201366
+   Zhang Q, 2022, IEEE T MULTIMEDIA, V24, P1545, DOI 10.1109/TMM.2021.3067463
+   Zhang WQ, 2021, COMPUT VIS MEDIA, V7, P335, DOI 10.1007/s41095-021-0214-z
+   Zhao L, 2018, LECT NOTES COMPUT SC, V11219, P403, DOI 10.1007/978-3-030-01267-0_24
+   Zheng L, 2015, IEEE I CONF COMP VIS, P1116, DOI 10.1109/ICCV.2015.133
+   Zhou YP, 2018, IEEE WINT CONF APPL, P170, DOI 10.1109/WACV.2018.00025
+   Zhou YP, 2016, LECT NOTES COMPUT SC, V9912, P262, DOI 10.1007/978-3-319-46484-8_16
+   Zhu Y., 2022, P AS C COMP VIS, P2848
+   Zhu Z, 2019, PROC CVPR IEEE, P2342, DOI 10.1109/CVPR.2019.00245
+NR 73
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD AUG
+PY 2024
+VL 134
+AR 101222
+DI 10.1016/j.gmod.2024.101222
+EA JUL 2024
+PG 12
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XX4X3
+UT WOS:001264973900001
+DA 2024-08-05
+ER
+
+PT J
+AU Coutinho, F
+   Chaimowicz, L
+AF Coutinho, Flavio
+   Chaimowicz, Luiz
+TI Pixel art character generation as an image-to-image translation problem
+   using GANs
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Generative adversarial networks; Pixel art; Image-to-image translation;
+   Procedural content generation; Mixed-initiative system
+AB Asset creation in game development usually requires multiple iterations until a final version is achieved. This iterative process becomes more significant when the content is pixel art, in which the artist carefully places each pixel. We hypothesize that the problem of generating character sprites in a target pose (e.g., facing right) given a source (e.g., facing front) can be framed as an image-to-image translation task. Then, we present an architecture of deep generative models that takes as input an image of a character in one domain (pose) and transfers it to another. We approach the problem using generative adversarial networks (GANs) and build on Pix2Pix's architecture while leveraging some specific characteristics of the pixel art style. We evaluated the trained models using four small datasets (less than 1k) and a more extensive and diverse one (12k). The models yielded promising results, and their generalization capacity varies according to the dataset size and variability. After training models to generate images among four domains (i.e., front, right, back, left), we present an early version of a mixed-initiative sprite editor that allows users to interact with them and iterate in creating character sprites.
+C1 [Coutinho, Flavio; Chaimowicz, Luiz] Univ Fed Minas Gerais, Dept Ciencia Comp, Belo Horizonte, Brazil.
+   [Coutinho, Flavio] Ctr Fed Educ Tecnol Minas Gerais, Dept Comp, Belo Horizonte, Brazil.
+C3 Universidade Federal de Minas Gerais
+RP Coutinho, F (corresponding author), Ctr Fed Educ Tecnol Minas Gerais, Dept Comp, Belo Horizonte, Brazil.
+EM flavioro@dcc.ufmg.br; chaimo@dcc.ufmg.br
+FU CAPES [001]; CNPq [311900/2020-8]; Fapemig [PPM -00563-18]
+FX This work was partially supported by CAPES (finance code 001) , CNPq
+   (grant 311900/2020-8) and Fapemig (grant PPM -00563-18) .
+CR Choi Y, 2018, PROC CVPR IEEE, P8789, DOI 10.1109/CVPR.2018.00916
+   Coutinho F., 2022, P AAAI C ARTIFICIAL, V18, P87
+   Coutinho F, 2022, 2022 21ST BRAZILIAN SYMPOSIUM ON COMPUTER GAMES AND DIGITAL ENTERTAINMENT (SBGAMES), P61, DOI 10.1109/SBGAMES56371.2022.9961120
+   FAIRCHILD MD, 1993, COLOR RES APPL, V18, P178, DOI 10.1002/col.5080180308
+   Gonzalez A., 2020, P AIIDE WORKSHOP EXP, P1
+   Hensel M, 2017, ADV NEUR IN, V30
+   Hong S, 2019, KSII T INTERNET INF, V13, P4255, DOI 10.3837/tiis.2019.08.025
+   Ibarrola F., 2022, INT C COMPUTATIONAL, V10
+   Isola P, 2017, PROC CVPR IEEE, P5967, DOI 10.1109/CVPR.2017.632
+   Jiang Z., 2021, AUSTRALASIAN JOINT C, P1
+   Karimi P., 2019, In, P17
+   Karth I, 2019, PROCEEDINGS OF THE 14TH INTERNATIONAL CONFERENCE ON THE FOUNDATIONS OF DIGITAL GAMES (FDG'19), DOI 10.1145/3337722.3341845
+   Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386
+   Lai G, 2022, IEEE T GAMES, V14, P543, DOI 10.1109/TG.2022.3176215
+   Lee D, 2019, PROC CVPR IEEE, P2482, DOI 10.1109/CVPR.2019.00259
+   Lehtinen J., 2020, PROC NEURIPS, V33, P12104
+   Liapis A., 2016, Procedural Content Generation in Games: A Textbook and an Overview of Current Research
+   Liu GL, 2018, LECT NOTES COMPUT SC, V11215, P89, DOI 10.1007/978-3-030-01252-6_6
+   Mirza M, 2014, Arxiv, DOI [arXiv:1411.1784, DOI 10.48550/ARXIV.1411.1784]
+   Novak J, 2022, Game Development Essentials: An Introduction, Vfourth
+   Pang Y., 2021, IEEE Trans. Multimed.
+   Radford L., 2016, Unsupervised representation learning with deep convolutional generative adversarial networks, P1
+   Ronneberger O, 2015, LECT NOTES COMPUT SC, V9351, P234, DOI 10.1007/978-3-319-24574-4_28
+   Saravanan A., 2022, EXPT AI GAMES WORKSH, P1
+   Serpa YR, 2019, BRAZIL SYMP GAME DIG, P182, DOI 10.1109/SBGames.2019.00032
+   Shaker N., 2016, Procedural Content Generation in Games
+   Silber D., 2015, Pixel Art for Game Developers
+   Smith G, 2011, IEEE T COMP INTEL AI, V3, P201, DOI 10.1109/TCIAIG.2011.2159716
+   Szegedy C, 2016, PROC CVPR IEEE, P2818, DOI 10.1109/CVPR.2016.308
+   van den Oord A, 2017, ADV NEUR IN, V30
+   Zhang JH, 2015, LECT NOTES COMPUT SC, V9027, P261, DOI 10.1007/978-3-319-16498-4_23
+   Zhu J. Y., 2017, Advances in Neural Information Processing Systems, P466
+NR 32
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD APR
+PY 2024
+VL 132
+AR 101213
+DI 10.1016/j.gmod.2024.101213
+EA FEB 2024
+PG 14
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA JY6T8
+UT WOS:001176766500001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Huang, ZY
+   Dai, SS
+   Xu, K
+   Zhang, H
+   Huang, H
+   Hu, RZ
+AF Huang, Zeyu
+   Dai, Sisi
+   Xu, Kai
+   Zhang, Hao
+   Huang, Hui
+   Hu, Ruizhen
+TI DINA: Deformable INteraction Analogy
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Shape analysis; Interaction modeling; Imitation learning; Optimization
+AB We introduce deformable interaction analogy (DINA) as a means to generate close interactions between two 3D objects. Given a single demo interaction between an anchor object (e.g. a hand) and a source object (e.g. a mug grasped by the hand), our goal is to generate many analogous 3D interactions between the same anchor object and various new target objects (e.g. a toy airplane), where the anchor object is allowed to be rigid or deformable. To this end, we optimize the pose or shape of the anchor object to adapt it to a new target object to mimic the demo. To facilitate the optimization, we advocate using interaction interface (ITF), defined by a set of points sampled on the anchor object, as a descriptive and robust interaction representation that is amenable to non -rigid deformation. We model similarity between interactions using ITF, while for interaction analogy, we transform the ITF, either rigidly or non -rigidly, to guide the feature matching to the reposing and deformation of the anchor object. Qualitative and quantitative experiments show that our ITFguided deformable interaction analogy works surprisingly well even with simple distance features compared to variants of state-of-the-art methods that utilize more sophisticated interaction representations and feature learning from large datasets.
+C1 [Huang, Zeyu; Huang, Hui; Hu, Ruizhen] Shenzhen Univ, Coll Comp Sci & Software Engn, Shenzhen, Peoples R China.
+   [Dai, Sisi; Xu, Kai] Natl Univ Def Technol, Sch Comp Sci, Changsha, Peoples R China.
+   [Zhang, Hao] Simon Fraser Univ, Sch Comp Sci, Burnaby, BC, Canada.
+C3 Shenzhen University; National University of Defense Technology - China;
+   Simon Fraser University
+RP Hu, RZ (corresponding author), Shenzhen Univ, Coll Comp Sci & Software Engn, Shenzhen, Peoples R China.
+EM ruizhen.hu@gmail.com
+FU NSFC, China [62322207, 62132021]; NSERC, Canada [611370]; DEGP
+   Innovation Team [2022KCXTD025]; Guangdong Natural Science Foundation,
+   China [2021B1515020085]; Shenzhen Science and Technology Program, China
+   [RCYX20210609103121030]; Guangdong Laboratory of Artificial Intelligence
+   and Digital Economy (SZ), China; China and Scientific Development Funds
+   of Shenzhen University, China
+FX We thank the anonymous reviewers for their valuable comments. This work
+   was supported in parts by NSFC, China (62322207, 62132021) , NSERC,
+   Canada (611370) , DEGP Innovation Team (2022KCXTD025) , Guangdong
+   Natural Science Foundation, China (2021B1515020085) , Shenzhen Science
+   and Technology Program, China (RCYX20210609103121030) , Guangdong
+   Laboratory of Artificial Intelligence and Digital Economy (SZ) , China
+   and Scientific Development Funds of Shenzhen University, China.
+CR Al-Asqhar Rami Ali, 2013, S COMP AN SCA, P45
+   Argall BD, 2009, ROBOT AUTON SYST, V57, P469, DOI 10.1016/j.robot.2008.10.024
+   Bernardin A, 2017, MIG'17: PROCEEDINGS OF THE TENTH INTERNATIONAL CONFERENCE ON MOTION IN GAMES, DOI 10.1145/3136457.3136466
+   Biza O, 2023, Arxiv, DOI arXiv:2306.12392
+   Brahmbhatt S., 2020, EUR C COMP VIS ECCV, P361, DOI DOI 10.1007/978-3-030-58601-0_22
+   Calli B, 2015, IEEE ROBOT AUTOM MAG, V22, P36, DOI 10.1109/MRA.2015.2448951
+   Cao Z, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P12397, DOI 10.1109/ICCV48922.2021.01219
+   Chun EH, 2023, IEEE INT CONF ROBOT, P1830, DOI 10.1109/ICRA48891.2023.10160423
+   Corona E, 2020, PROC CVPR IEEE, P5030, DOI 10.1109/CVPR42600.2020.00508
+   ElKoura G., 2003, ACM SIGGRAPH/Eurographics Symposium on Computer Animation, P110
+   Grady P, 2021, PROC CVPR IEEE, P1471, DOI 10.1109/CVPR46437.2021.00152
+   Hasson Y, 2019, PROC CVPR IEEE, P11799, DOI 10.1109/CVPR.2019.01208
+   Hertzmann A, 2001, COMP GRAPH, P327, DOI 10.1145/383259.383295
+   Höll M, 2018, 25TH 2018 IEEE CONFERENCE ON VIRTUAL REALITY AND 3D USER INTERFACES (VR), P175, DOI 10.1109/VR.2018.8448284
+   Hu R., 2018, Eurographics State-of-the-Art Report
+   Hu RZ, 2018, ACM T GRAPHIC, V37, DOI 10.1145/3197517.3201287
+   Hu RZ, 2016, ACM T GRAPHIC, V35, DOI 10.1145/2897824.2925870
+   Hu RZ, 2015, ACM T GRAPHIC, V34, DOI 10.1145/2766914
+   Hussein A, 2017, ACM COMPUT SURV, V50, DOI 10.1145/3054912
+   Jiang HW, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P11087, DOI 10.1109/ICCV48922.2021.01092
+   Jin T, 2018, COMPUT GRAPH FORUM, V37, P311, DOI 10.1111/cgf.13363
+   Jorg S., 2020, SIGGRAPH Asia Course
+   Karunratanakul K, 2020, INT CONF 3D VISION, P333, DOI 10.1109/3DV50981.2020.00043
+   Liu C. K., 2008, P ACM SIGGRAPH EUR S, P163
+   Ma C., 2014, Eurographics
+   Pirk S, 2017, ACM T GRAPHIC, V36, DOI 10.1145/3130800.3130814
+   Pollard Nancy S, 2005, Proceedings of the 2005 ACM SIG GRAPH/Eurographics Symposium on Computer Animation, DOI DOI 10.1145/1073368.1073413
+   Prokudin S, 2019, IEEE I CONF COMP VIS, P4331, DOI 10.1109/ICCV.2019.00443
+   Romero J, 2017, ACM T GRAPHIC, V36, DOI 10.1145/3130800.3130883
+   Savva M, 2016, ACM T GRAPHIC, V35, DOI 10.1145/2897824.2925867
+   Simeonov A, 2022, IEEE INT CONF ROBOT, P6394, DOI 10.1109/ICRA46639.2022.9812146
+   Song SR, 2020, IEEE ROBOT AUTOM LET, V5, P4978, DOI 10.1109/LRA.2020.3004787
+   Su ZJ, 2023, ACM T GRAPHIC, V42, DOI 10.1145/3618338
+   Tzionas D, 2016, INT J COMPUT VISION, V118, P172, DOI 10.1007/s11263-016-0895-4
+   Wu MY, 2020, J VIS COMMUN IMAGE R, V70, DOI 10.1016/j.jvcir.2020.102802
+   Wu Yueh-Hua, 2023, PMLR, P618
+   Yang LX, 2021, 2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021), P11077, DOI 10.1109/ICCV48922.2021.01091
+   Ye Z., 2023, P 31 ACM INT C MULT
+   Yu TH, 2018, Arxiv, DOI arXiv:1802.01557
+   Zhang H, 2021, ACM T GRAPHIC, V40, DOI 10.1145/3451341
+   Zhang JX, 2023, PROC CVPR IEEE, P13864, DOI 10.1109/CVPR52729.2023.01332
+   Zhao KF, 2022, LECT NOTES COMPUT SC, V13666, P311, DOI 10.1007/978-3-031-20068-7_18
+   Zhao X, 2020, IEEE T VIS COMPUT GR, V26, P2634, DOI 10.1109/TVCG.2019.2892454
+   Zhao X, 2016, ACM T GRAPHIC, V35, DOI 10.1145/2980179.2982410
+   Zhao X, 2014, ACM T GRAPHIC, V33, DOI 10.1145/2574860
+NR 45
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD JUN
+PY 2024
+VL 133
+AR 101217
+DI 10.1016/j.gmod.2024.101217
+EA MAR 2024
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA QN6C3
+UT WOS:001221580500001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Zhuo, PS
+   He, ZT
+   Lin, HW
+AF Zhuo, Peisheng
+   He, Zitong
+   Lin, Hongwei
+TI Persistent geometry-topology descriptor for porous structure retrieval
+   based on Heat Kernel Signature
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Heat kernel signature; Porous structure retrieval; Shape retrieval;
+   Persistent homology; Computational topology
+ID SCAFFOLD DESIGN; POINTS
+AB Porous structures are essential in a variety of fields such as materials science and chemistry. To retrieve porous materials efficiently, novel descriptors are required to quantify the geometric and topological features. In this paper, we present a novel framework to create a descriptor that incorporates both topological and geometric information of a porous structure. To capture geometric information, we keep track of the birth time and death time of the persistent feature s of a real -valued function on the surface that evolves with a parameter. Then, we generate the corresponding persistent feature diagram ( Dgm PF ) and convert it into a vector called persistence feature descriptor (PFD). To extract topological information, we sample points from the pore surface and compute the corresponding persistence diagram, which is then transformed into the Persistence B -Spline Grids (PBSG). Our proposed descriptor, namely persistent geometry - topology descriptor (PGTD), is obtained by concatenating PFD with PBSG. In our experiments, we use the heat kernel signature (HKS) as the real -valued function to compute the descriptor. We test the method on a synthetic porous dataset and a zeolite dataset and find that it is competitive compared to other descriptors based on HKS and advanced topological descriptors.
+C1 [Zhuo, Peisheng; He, Zitong; Lin, Hongwei] Zhejiang Univ, Sch Math Sci, Hangzhou 310058, Peoples R China.
+   [Lin, Hongwei] Zhejiang Univ, State Key Lab CAD&CG, Hangzhou, Zhejiang, Peoples R China.
+C3 Zhejiang University; Zhejiang University
+RP Lin, HW (corresponding author), Zhejiang Univ, Sch Math Sci, Hangzhou 310058, Peoples R China.
+EM pszhuo@zju.edu.cn; zthe@zju.edu.cn; hwlin@zju.edu.cn
+OI Lin, Hongwei/0000-0002-9337-9624
+FU National Natural Science Foundation of China [62272406, 61932018]
+FX <B>Acknowledgments</B> This work is supported by the National Natural
+   Science Foundation of China under Grant Nos. 62272406, 61932018.
+CR Adams H, 2017, J MACH LEARN RES, V18
+   Barlocher Christian, 1996, Database of Zeolite Structures
+   Belkin M, 2008, PROCEEDINGS OF THE TWENTY-FOURTH ANNUAL SYMPOSIUM ON COMPUTATIONAL GEOMETRY (SGG'08), P278, DOI 10.1145/1377676.1377725
+   Bronstein AM, 2011, ACM T GRAPHIC, V30, DOI 10.1145/1899404.1899405
+   Bubenik P, 2015, J MACH LEARN RES, V16, P77
+   Castellani U, 2008, COMPUT GRAPH FORUM, V27, P643, DOI 10.1111/j.1467-8659.2008.01162.x
+   Chazal F, 2021, FRONT ARTIF INTELL, V4, DOI 10.3389/frai.2021.667963
+   Chazal F, 2013, J ACM, V60, DOI 10.1145/2535927
+   Chen D, 2012, LECT NOTES COMPUT SC, V7574, P566, DOI 10.1007/978-3-642-33712-3_41
+   Darom T, 2012, IEEE T IMAGE PROCESS, V21, P2758, DOI 10.1109/TIP.2012.2183142
+   Dey TK, 2010, COMPUT GRAPH FORUM, V29, P1545, DOI 10.1111/j.1467-8659.2010.01763.x
+   Dong ZT, 2024, MACH LEARN, V113, P1373, DOI 10.1007/s10994-023-06492-w
+   Dong ZT, 2021, COMPUT AIDED GEOM D, V88, DOI 10.1016/j.cagd.2021.102004
+   Dong ZT, 2020, COMPUT GRAPH-UK, V90, P182, DOI 10.1016/j.cag.2020.05.029
+   Edelsbrunner H, 2000, ANN IEEE SYMP FOUND, P454
+   Edelsbrunner H., 2010, Computational topology: An introduction, DOI DOI 10.1007/978-3-540-33259-6_7
+   Feng JW, 2018, COMPUT METHOD APPL M, V336, P333, DOI 10.1016/j.cma.2018.03.007
+   Furukawa H, 2013, SCIENCE, V341, P974, DOI 10.1126/science.1230444
+   Gandy PJF, 2001, CHEM PHYS LETT, V336, P187, DOI 10.1016/S0009-2614(00)01418-4
+   Gebal K, 2009, COMPUT GRAPH FORUM, V28, P1405, DOI 10.1111/j.1467-8659.2009.01517.x
+   Iijima T., 1962, Bulletin of the Electrotechnical Laboratory, V26, P368
+   Kim TB, 2014, J MATER PROCESS TECH, V214, P2706, DOI 10.1016/j.jmatprotec.2014.05.006
+   KOENDERINK JJ, 1984, BIOL CYBERN, V50, P363, DOI 10.1007/BF00336961
+   Lee Y, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms15396
+   Lian Z., 2011, EUR WORKSH 3D OBJ RE
+   Lum PY, 2013, SCI REP-UK, V3, DOI 10.1038/srep01236
+   Martin RL, 2012, J CHEM INF MODEL, V52, P308, DOI 10.1021/ci200386x
+   Meng XL, 1997, J ROY STAT SOC B MET, V59, P511, DOI 10.1111/1467-9868.00082
+   Morse M., 1934, The calculus of variations in the large, V18
+   Pophale R, 2011, PHYS CHEM CHEM PHYS, V13, P12407, DOI 10.1039/c0cp02255a
+   Reininghaus J, 2011, IEEE T VIS COMPUT GR, V17, P2045, DOI 10.1109/TVCG.2011.159
+   Reuter M, 2006, COMPUT AIDED DESIGN, V38, P342, DOI 10.1016/j.cad.2005.10.011
+   Rustamov R.M., 2007, P 5 EUR S GEOM PROC, V257, P225, DOI DOI 10.2312/SGP/SGP07/225-233
+   Shilane P, 2004, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON SHAPE MODELING AND APPLICATIONS, P167, DOI 10.1109/smi.2004.1314504
+   Simon CM, 2014, PHYS CHEM CHEM PHYS, V16, P5499, DOI 10.1039/c3cp55039g
+   Skraba P., 2010, 2010 IEEE COMP SOC C, P45
+   Sun JA, 2009, COMPUT GRAPH FORUM, V28, P1383, DOI 10.1111/j.1467-8659.2009.01515.x
+   Wang XP, 2017, PROCEEDINGS OF THE 12TH INTERNATIONAL JOINT CONFERENCE ON COMPUTER VISION, IMAGING AND COMPUTER GRAPHICS THEORY AND APPLICATIONS (VISIGRAPP 2017), VOL 1, P58, DOI 10.5220/0006093800580069
+   Wardetzky M., 2007, Ph.D. thesis
+   Xu C., 2020, Comput.-Aided Des. Graph., V32, P194
+   Yoo DJ, 2011, BIOMATERIALS, V32, P7741, DOI 10.1016/j.biomaterials.2011.07.019
+   Zeppelzauer M, 2018, COMPUT VIS IMAGE UND, V167, P74, DOI 10.1016/j.cviu.2017.10.012
+   Zhou YN, 2004, 10TH INTERNATIONAL MULTIMEDIA MODELLING CONFERENCE, PROCEEDINGS, P187
+   Zhouhui Lian, 2010, Proceedings of the Shape Modeling International (SMI 2010), P25, DOI 10.1109/SMI.2010.20
+   Zomorodian A, 2005, DISCRETE COMPUT GEOM, V33, P249, DOI 10.1007/s00454-004-1146-y
+NR 45
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD JUN
+PY 2024
+VL 133
+AR 101219
+DI 10.1016/j.gmod.2024.101219
+EA MAY 2024
+PG 13
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UP6I2
+UT WOS:001249296900001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Lyu, BW
+   Shen, LY
+   Yuan, CM
+AF Lyu, Bowen
+   Shen, Li-Yong
+   Yuan, Chun-Ming
+TI IGF-Fit: Implicit gradient field fitting for point cloud normal
+   estimation
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Point cloud; Normal estimation; Deep learning; Implicit representation
+ID ROBUST NORMAL ESTIMATION; RECONSTRUCTION; FRAMEWORK
+AB We introduce IGF-Fit, a novel method for estimating surface normals from point clouds with varying noise and density. Unlike previous approaches that rely on point -wise weights and explicit representations, IGF-Fit employs a network that learns an implicit representation and uses derivatives to predict normals. The input patch serves as both a shape latent vector and query points for fitting the implicit representation. To handle noisy input, we introduce a novel noise transformation module with a training strategy for noise classification and latent vector bias prediction. Our experiments on synthetic and real -world scan datasets demonstrate the effectiveness of IGF-Fit, achieving state-of-the-art performance on both noise -free and density -varying data.
+C1 [Lyu, Bowen; Shen, Li-Yong; Yuan, Chun-Ming] Univ Chinese Acad Sci, Sch Math Sci, Beijing 100049, Peoples R China.
+   [Yuan, Chun-Ming] Chinese Acad Sci, Acad Math & Syst Sci, KLMM, Beijing 100190, Peoples R China.
+C3 Chinese Academy of Sciences; University of Chinese Academy of Sciences,
+   CAS; Chinese Academy of Sciences; Academy of Mathematics & System
+   Sciences, CAS
+RP Shen, LY (corresponding author), Univ Chinese Acad Sci, Sch Math Sci, Beijing 100049, Peoples R China.
+EM lvbowen19@mails.ucas.ac.cn; lyshen@ucas.ac.cn; cmyuan@mmrc.iss.ac.cn
+RI Shen, Li-Yong/P-9693-2015
+OI Shen, Li-Yong/0000-0001-5769-4814
+FU NSFC, China [12371384, 11688101]; National Key Research and Development
+   Program of China [2020YFA0713703]; Fundamental Research Funds for the
+   Central Universities, China
+FX This work is partially supported by the NSFC, China (Nos. 12371384,
+   11688101) , National Key Research and Development Program of China under
+   Grant 2020YFA0713703 and Fundamental Research Funds for the Central
+   Universities, China.
+CR Alliez P., 2007, P 5 EUROGRAPHICS S G, P39
+   Aroudj S, 2017, ACM T GRAPHIC, V36, DOI 10.1145/3130800.3130851
+   Atzmon M, 2020, PROC CVPR IEEE, P2562, DOI 10.1109/CVPR42600.2020.00264
+   Béarzi Y, 2018, COMPUT GRAPH FORUM, V37, P13, DOI 10.1111/cgf.13338
+   Ben-Shabat Yizhak, 2020, Computer Vision - ECCV 2020. 16th European Conference. Proceedings. Lecture Notes in Computer Science (LNCS 12346), P20, DOI 10.1007/978-3-030-58452-8_2
+   Ben-Shabat Y, 2019, PROC CVPR IEEE, P10104, DOI 10.1109/CVPR.2019.01035
+   Hua BS, 2018, PROC CVPR IEEE, P984, DOI 10.1109/CVPR.2018.00109
+   Boulch A, 2016, COMPUT GRAPH FORUM, V35, P281, DOI 10.1111/cgf.12983
+   Boulch A, 2012, COMPUT GRAPH FORUM, V31, P1765, DOI 10.1111/j.1467-8659.2012.03181.x
+   Calakli F, 2011, COMPUT GRAPH FORUM, V30, P1993, DOI 10.1111/j.1467-8659.2011.02058.x
+   Cazals F, 2005, COMPUT AIDED GEOM D, V22, P121, DOI 10.1016/j.cagd.2004.09.004
+   Che EZ, 2019, SENSORS-BASEL, V19, DOI 10.3390/s19040810
+   Chen C, 2023, PROC CVPR IEEE, P17712, DOI 10.1109/CVPR52729.2023.01699
+   Coeurjolly D, 2016, COMPUT GRAPH FORUM, V35, P157, DOI 10.1111/cgf.13013
+   Dey TK, 2006, COMP GEOM-THEOR APPL, V35, P124, DOI 10.1016/j.comgeo.2005.10.006
+   Du H, 2023, PROC CVPR IEEE, P9486, DOI 10.1109/CVPR52729.2023.00915
+   Guennebaud G, 2007, ACM T GRAPHIC, V26, DOI [10.1145/1239451.1239474, 10.1145/1276377.1276406]
+   Guerrero P, 2018, COMPUT GRAPH FORUM, V37, P75, DOI 10.1111/cgf.13343
+   Haoran Zhou, 2020, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Proceedings, P13235, DOI 10.1109/CVPR42600.2020.01325
+   Hashimoto Taisuke, 2019, CVPR WORKSH, P54
+   Helle RH, 2021, MATER TODAY-PROC, V45, P5255, DOI 10.1016/j.matpr.2021.01.828
+   HOPPE H, 1992, COMP GRAPH, V26, P71, DOI 10.1145/142920.134011
+   Jaderberg M, 2015, ADV NEUR IN, V28
+   Karnewar Animesh, 2022, ACM SIGGRAPH 2022 C, P1
+   Kazhdan M., 2006, P 4 EUR S GEOM PROC, P61, DOI DOI 10.2312/SGP/SGP06/061-070
+   Lejemble T, 2021, COMPUT GRAPH FORUM, V40, P205, DOI 10.1111/cgf.14368
+   Lenssen Jan Eric, 2020, 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Proceedings, P11244, DOI 10.1109/CVPR42600.2020.01126
+   Levin D, 1998, MATH COMPUT, V67, P1517, DOI 10.1090/S0025-5718-98-00974-0
+   Li KQ, 2022, LECT NOTES COMPUT SC, V13692, P651, DOI 10.1007/978-3-031-19824-3_38
+   Li Qing, 2022, Advances in Neural Information Processing Systems
+   Li Shujuan, 2023, P AAAI C ART INT
+   Lipman Yaron, 2020, P MACHINE LEARNING S, P3569
+   Lu DN, 2020, COMPUT AIDED DESIGN, V125, DOI 10.1016/j.cad.2020.102860
+   Luo CJ, 2009, COMPUT GRAPH FORUM, V28, P1497, DOI 10.1111/j.1467-8659.2009.01526.x
+   Lyu BW, 2023, GRAPH MODELS, V129, DOI 10.1016/j.gmod.2023.101190
+   Mérigot Q, 2011, IEEE T VIS COMPUT GR, V17, P743, DOI 10.1109/TVCG.2010.261
+   Mescheder L, 2019, PROC CVPR IEEE, P4455, DOI 10.1109/CVPR.2019.00459
+   Park JJ, 2019, PROC CVPR IEEE, P165, DOI 10.1109/CVPR.2019.00025
+   Peng S., 2020, COMPUTER VISION ECCV
+   Pomerleau F., 2015, Trends Robotics, V4, P1, DOI DOI 10.1561/2300000035
+   Qi CR, 2017, ADV NEUR IN, V30
+   Qi CR, 2017, PROC CVPR IEEE, P77, DOI 10.1109/CVPR.2017.16
+   Ramasinghe S, 2022, LECT NOTES COMPUT SC, V13693, P142, DOI 10.1007/978-3-031-19827-4_9
+   Saragadam V, 2023, PROC CVPR IEEE, P18507, DOI 10.1109/CVPR52729.2023.01775
+   Schnabel R, 2007, COMPUT GRAPH FORUM, V26, P214, DOI 10.1111/j.1467-8659.2007.01016.x
+   Sitzmann V, 2020, Adv. Neural. Inf. Process. Syst, V33, P7462
+   Sitzmann V., 2020, ADV NEURAL INFORM PR, V33
+   STEWART GW, 1993, SIAM REV, V35, P551, DOI 10.1137/1035134
+   Tancik M., 2020, ADV NEURAL INFORM PR, V33, P7537, DOI DOI 10.48550/ARXIV.2006.10739
+   Wang Y, 2019, ACM T GRAPHIC, V38, DOI 10.1145/3326362
+   Wang ZR, 2021, Arxiv, DOI arXiv:2008.09965
+   Xiu Haoyi, 2023, MM '23: Proceedings of the 31st ACM International Conference on Multimedia, P2535, DOI 10.1145/3581783.3613762
+   Zhang J, 2022, COMPUT AIDED DESIGN, V142, DOI 10.1016/j.cad.2021.103119
+   Zhou HR, 2023, IEEE T PATTERN ANAL, V45, P946, DOI 10.1109/TPAMI.2022.3145877
+   Zhou J, 2021, Arxiv, DOI arXiv:2104.10369
+   Zhou J, 2020, COMPUT AIDED DESIGN, V129, DOI 10.1016/j.cad.2020.102916
+   Zhu Runsong, 2021, P IEEE CVF INT C COM, P6118
+   Ziyin L., 2020, Advances in Neural Information Processing Systems, V33, P1583
+NR 58
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD JUN
+PY 2024
+VL 133
+AR 101214
+DI 10.1016/j.gmod.2024.101214
+EA FEB 2024
+PG 10
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NQ0R9
+UT WOS:001201805300001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Xu, QC
+   Yang, YL
+   Deng, BL
+AF Xu, Qun-Ce
+   Yang, Yong-Liang
+   Deng, Bailin
+TI Point cloud denoising using a generalized error metric
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Geometry processing; Optimization; Point cloud denoising
+ID LEAST-SQUARES; ALGORITHMS
+AB Effective removal of noises from raw point clouds while preserving geometric features is the key challenge for point cloud denoising. To address this problem, we propose a novel method that jointly optimizes the point positions and normals. To preserve geometric features, our formulation uses a generalized robust error metric to enforce piecewise smoothness of the normal vector field as well as consistency between point positions and normals. By varying the parameter of the error metric, we gradually increase its non -convexity to guide the optimization towards a desirable solution. By combining alternating minimization with a majorizationminimization strategy, we develop a numerical solver for the optimization which guarantees convergence. The effectiveness of our method is demonstrated by extensive comparisons with previous works.
+C1 [Xu, Qun-Ce] Tsinghua Univ, Beijing, Peoples R China.
+   [Yang, Yong-Liang] Univ Bath, Bath, England.
+   [Deng, Bailin] Cardiff Univ, Cardiff, Wales.
+C3 Tsinghua University; University of Bath; Cardiff University
+RP Deng, BL (corresponding author), Cardiff Univ, Cardiff, Wales.
+EM quncexu@tsinghua.edu.cn; y.yang@cs.bath.ac.uk; DengB3@cardiff.ac.uk
+FU National Natural Science Foundation of China [62220106003]; Research
+   Grant of Beijing Higher Institution Engineering Research Center;
+   Tsinghua-Tencent Joint Laboratory for Internet Innovation Technology,
+   China; RCUK, UK grant CAMERA [EP/M023281/1, EP/T022523/1]
+FX This work was supported by the National Natural Science Foundation of
+   China (Grant Number: 62220106003) , Research Grant of Beijing Higher
+   Institution Engineering Research Center, Tsinghua-Tencent Joint
+   Laboratory for Internet Innovation Technology, China, and RCUK, UK grant
+   CAMERA (EP/M023281/1, EP/T022523/1) .
+CR Adamson A, 2006, ACM T GRAPHIC, V25, P671, DOI 10.1145/1141911.1141940
+   Alexa M, 2003, IEEE T VIS COMPUT GR, V9, P3, DOI 10.1109/TVCG.2003.1175093
+   Alexa M, 2001, IEEE VISUAL, P21, DOI 10.1109/VISUAL.2001.964489
+   Amenta N, 2004, ACM T GRAPHIC, V23, P264, DOI 10.1145/1015706.1015713
+   Avron H, 2010, ACM T GRAPHIC, V29, DOI 10.1145/1857907.1857911
+   Bach F, 2012, FOUND TRENDS MACH LE, V4, P1, DOI 10.1561/2200000015
+   Barron JT, 2019, PROC CVPR IEEE, P4326, DOI 10.1109/CVPR.2019.00446
+   Bernardini F, 1999, IEEE T VIS COMPUT GR, V5, P349, DOI 10.1109/2945.817351
+   Black MJ, 1996, COMPUT VIS IMAGE UND, V63, P75, DOI 10.1006/cviu.1996.0006
+   CHARBONNIER P, 1994, IEEE IMAGE PROC, P168
+   Chen HL, 2023, IEEE T PATTERN ANAL, V45, P2913, DOI 10.1109/TPAMI.2022.3175183
+   DENNIS JE, 1978, COMMUN STAT B-SIMUL, V7, P345, DOI 10.1080/03610917808812083
+   Fleishman S, 2005, ACM T GRAPHIC, V24, P544, DOI 10.1145/1073204.1073227
+   Geman S., 1985, P AM STAT ASS
+   Guennebaud G, 2010, Eigen
+   Guennebaud G, 2007, ACM T GRAPHIC, V26, DOI [10.1145/1239451.1239474, 10.1145/1276377.1276406]
+   Ham B, 2015, PROC CVPR IEEE, P4823, DOI 10.1109/CVPR.2015.7299115
+   Han XF, 2017, SIGNAL PROCESS-IMAGE, V57, P103, DOI 10.1016/j.image.2017.05.009
+   Hermosilla P, 2019, IEEE I CONF COMP VIS, P52, DOI 10.1109/ICCV.2019.00014
+   Huang H, 2013, ACM T GRAPHIC, V32, DOI 10.1145/2421636.2421645
+   Huang H, 2009, ACM T GRAPHIC, V28, DOI 10.1145/1618452.1618522
+   Jenke P, 2006, COMPUT GRAPH FORUM, V25, P379, DOI 10.1111/j.1467-8659.2006.00957.x
+   Kalogerakis E, 2009, COMPUT AIDED DESIGN, V41, P282, DOI 10.1016/j.cad.2008.12.004
+   Koch S, 2019, PROC CVPR IEEE, P9593, DOI 10.1109/CVPR.2019.00983
+   Lange K, 2016, MM OPTIMIZATION ALGORITHMS, P1, DOI 10.1137/1.9781611974409
+   Levin D, 2004, MATH VISUAL, P37
+   Levin D, 1998, MATH COMPUT, V67, P1517, DOI 10.1090/S0025-5718-98-00974-0
+   Liao B, 2013, COMPUT AIDED DESIGN, V45, P861, DOI 10.1016/j.cad.2013.02.003
+   Lipman Y, 2007, ACM T GRAPHIC, V26, DOI [10.1145/1276377.1276405, 10.1145/1239451.1239473]
+   Lu DN, 2020, COMPUT AIDED DESIGN, V125, DOI 10.1016/j.cad.2020.102860
+   Lu XQ, 2022, IEEE T VIS COMPUT GR, V28, P1835, DOI 10.1109/TVCG.2020.3026785
+   Luo Shitong, 2021, P IEEECVF INT C COMP, P4583
+   Mattei E, 2017, COMPUT GRAPH FORUM, V36, P123, DOI 10.1111/cgf.13068
+   Öztireli AC, 2009, COMPUT GRAPH FORUM, V28, P493, DOI 10.1111/j.1467-8659.2009.01388.x
+   Pauly M, 2002, VIS 2002: IEEE VISUALIZATION 2002, PROCEEDINGS, P163, DOI 10.1109/VISUAL.2002.1183771
+   Preiner R, 2014, ACM T GRAPHIC, V33, DOI 10.1145/2601097.2601172
+   Qi CR, 2017, ADV NEUR IN, V30
+   Qi CR, 2017, PROC CVPR IEEE, P77, DOI 10.1109/CVPR.2017.16
+   Rakotosaona MJ, 2020, COMPUT GRAPH FORUM, V39, P185, DOI 10.1111/cgf.13753
+   Roveri R, 2018, COMPUT GRAPH FORUM, V37, P87, DOI 10.1111/cgf.13344
+   Rusinkiewicz S, 2019, ACM T GRAPHIC, V38, DOI 10.1145/3306346.3323037
+   Schall O., 2005, Point-Based Graphics 2005 (IEEE Cat. No. 05EX1159), P71, DOI 10.1109/PBG.2005.194067
+   Schertler N, 2017, COMPUT GRAPH FORUM, V36, P197, DOI 10.1111/cgf.12795
+   Sun XF, 2007, IEEE T VIS COMPUT GR, V13, P925, DOI 10.1109/TVCG.2007.1065
+   Sun YJ, 2015, COMPUT AIDED GEOM D, V35-36, P2, DOI 10.1016/j.cagd.2015.03.011
+   Tian J., 2022, IEEE Trans. Vis. Comput. Graphics
+   Wang J, 2012, VISUAL COMPUT, V28, P163, DOI 10.1007/s00371-011-0607-6
+   Wang PS, 2016, ACM T GRAPHIC, V35, DOI 10.1145/2980179.2980232
+   Wang PS, 2015, ACM T GRAPHIC, V34, DOI 10.1145/2816795.2818068
+   Wang XT, 2023, IEEE T CIRC SYST VID, V33, P6288, DOI 10.1109/TCSVT.2023.3266458
+   Xu R, 2023, ACM T GRAPHIC, V42, DOI 10.1145/3592129
+   Yu LQ, 2018, PROC CVPR IEEE, P2790, DOI 10.1109/CVPR.2018.00295
+   Yu LQ, 2018, LECT NOTES COMPUT SC, V11211, P398, DOI 10.1007/978-3-030-01234-2_24
+   Zhang DB, 2021, IEEE T VIS COMPUT GR, V27, P2015, DOI 10.1109/TVCG.2020.3027069
+   Zhang JY, 2019, IEEE T VIS COMPUT GR, V25, P1774, DOI 10.1109/TVCG.2018.2816926
+   Zhang WY, 2015, COMPUT GRAPH FORUM, V34, P23, DOI 10.1111/cgf.12742
+   Zheng YL, 2018, COMPUT AIDED GEOM D, V62, P16, DOI 10.1016/j.cagd.2018.03.004
+   Zheng YY, 2011, IEEE T VIS COMPUT GR, V17, P1521, DOI 10.1109/TVCG.2010.264
+   Zhou L, 2022, GRAPH MODELS, V121, DOI 10.1016/j.gmod.2022.101140
+NR 59
+TC 0
+Z9 0
+U1 4
+U2 4
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD JUN
+PY 2024
+VL 133
+AR 101216
+DI 10.1016/j.gmod.2024.101216
+EA MAR 2024
+PG 12
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA QN6Z6
+UT WOS:001221603800001
+OA gold, Green Accepted
+DA 2024-08-05
+ER
+
+PT J
+AU Pan, WP
+AF Pan, Weiping
+TI An exact algorithm for two-dimensional cutting problems based on
+   multi-level pattern
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Two-dimensional cutting; Guillotine cutting; Dynamic programming; Exact
+   algorithm
+ID BOUND ALGORITHM; BLOCK PATTERNS; LINEAR-MODELS
+AB A multi-level pattern is proposed for the unconstrained two-dimensional cutting problems of rectangular items, and an exact generation algorithm is constructed. The arrangement of rectangular items with the same type in multiple rows and columns is referred to as a 0-level pattern. An n-level pattern is the horizontal or vertical combination of an n-1 level pattern with a pattern whose level will not exceed n-1. The generation algorithm of multi-level pattern is constructed on the base of dynamic programming, and the multi-level patterns with various sizes are generated with increased level order. The normal size is chosen to reduce unnecessary computation in the algorithm. Three sets of benchmark instances and one set of random production instance from the literatures are used for comparison. Comparing to the exact algorithm in the literature, the results in this paper are equivalent, but the computation time is shorter. Comparing to heuristic algorithms in literatures, the results in this paper are better and the computation time is still good enough for practical applications.
+C1 [Pan, Weiping] Hainan Vocat Univ Sci & Technol, Coll Informat Engn, Haikou 571126, Peoples R China.
+   [Pan, Weiping] Dalian Maritime Univ, Coll Transportat Engn, Dalian 116026, Peoples R China.
+C3 Hainan Vocational University of Science & Technology; Dalian Maritime
+   University
+RP Pan, WP (corresponding author), Hainan Vocat Univ Sci & Technol, Coll Informat Engn, Haikou 571126, Peoples R China.; Pan, WP (corresponding author), Dalian Maritime Univ, Coll Transportat Engn, Dalian 116026, Peoples R China.
+EM weiping209@126.com
+FU Hainan Provincial Natural Science Foundation of China [622RC726]; The
+   fifth round of provincial characteristic key discipline "Computer
+   Science and Technology" in Hainan Province of china; National Key
+   Research and Development Program of China [2019YFB1705002]
+FX This work was supported by the Hainan Provincial Natural Science
+   Foundation of China (622RC726) , The funding by the project: The fifth
+   round of provincial characteristic key discipline "Computer Science and
+   Technology" in Hainan Province of china, National Key Research and
+   Development Program of China (No. 2019YFB1705002) .
+CR Alvarez-Valdés R, 2002, COMPUT OPER RES, V29, P925, DOI 10.1016/S0305-0548(00)00095-2
+   BEASLEY JE, 1985, J OPER RES SOC, V36, P297
+   Bellman R. E., 2015, Applied dynamic programming, V2050
+   Cui Y, 2005, P I MECH ENG B-J ENG, V219, P201, DOI 10.1243/095440505X8136
+   Cui Y, 2004, P I MECH ENG B-J ENG, V218, P857, DOI 10.1243/0954405041486037
+   Cui YD, 2008, J GLOBAL OPTIM, V41, P267, DOI 10.1007/s10898-007-9252-z
+   Cui Y, 2007, MATH COMPUT MODEL, V45, P943, DOI 10.1016/j.mcm.2006.09.008
+   Cui YD, 2013, J GLOBAL OPTIM, V55, P349, DOI 10.1007/s10898-012-9930-3
+   Cui YD, 2006, COMPUT OPER RES, V33, P1505, DOI 10.1016/j.cor.2004.09.022
+   Fekete SP, 2007, OPER RES, V55, P569, DOI 10.1287/opre.1060.0369
+   G YG, 2003, OPER RES LETT, V31, P301, DOI 10.1016/S0167-6377(03)00002-6
+   GILMORE PC, 1966, OPER RES, V14, P1045, DOI 10.1287/opre.14.6.1045
+   HERZ JC, 1972, IBM J RES DEV, V16, P462, DOI 10.1147/rd.165.0462
+   Hifi M, 1996, EUR J OPER RES, V91, P553, DOI 10.1016/0377-2217(95)00343-6
+   Hifi M, 2001, COMPUT OPTIM APPL, V18, P63, DOI 10.1023/A:1008743711658
+   Hua H, 2023, GRAPH MODELS, V130, DOI 10.1016/j.gmod.2023.101205
+   Ji J., 2018, Int. J. Inf. Manag. Sci., V29, P191
+   Kang M, 2011, INT J PROD RES, V49, P4437, DOI 10.1080/00207543.2010.493535
+   Leung SCH, 2012, COMPUT OPER RES, V39, P64, DOI 10.1016/j.cor.2010.10.022
+   Rodrigues CD, 2023, COMPUT OPER RES, V149, DOI 10.1016/j.cor.2022.106044
+   Russo M, 2014, COMPUT OPER RES, V50, P97, DOI 10.1016/j.cor.2014.04.001
+   Russo M, 2013, INT J PROD ECON, V145, P451, DOI 10.1016/j.ijpe.2013.04.031
+   Shekhawat K, 2023, GRAPH MODELS, V127, DOI 10.1016/j.gmod.2023.101175
+   Shiangjen K, 2018, ENG OPTIMIZ, V50, P347, DOI 10.1080/0305215X.2017.1315571
+   Wei LJ, 2018, EUR J OPER RES, V270, P448, DOI 10.1016/j.ejor.2018.04.014
+   Yanasse HH, 2008, INT J PROD RES, V46, P6189, DOI 10.1080/00207540601011543
+   Yanasse HH, 2006, INT J PROD RES, V44, P3471, DOI 10.1080/00207540500478603
+   Yuh-Rau Wang, 2016, 2016 International Conference on Machine Learning and Cybernetics (ICMLC). Proceedings, P622, DOI 10.1109/ICMLC.2016.7872959
+NR 28
+TC 0
+Z9 0
+U1 2
+U2 2
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD JUN
+PY 2024
+VL 133
+AR 101220
+DI 10.1016/j.gmod.2024.101220
+EA MAY 2024
+PG 8
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UI5X2
+UT WOS:001247451200001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Liu, XK
+   Lu, L
+   Cao, LX
+   Deussen, O
+   Tu, CH
+AF Liu, Xiaokang
+   Lu, Lin
+   Cao, Lingxin
+   Deussen, Oliver
+   Tu, Changhe
+TI Auxetic dihedral Escher tessellations
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Auxetic structure design; Rotating (semi-)rigid structure; Deployability
+   optimization
+ID POISSON RATIO; BEHAVIOR; PARALLELOGRAMS
+AB The auxetic structure demonstrates an unconventional deployable mechanism, expanding in transverse directions while being stretched longitudinally (exhibiting a negative Poisson's ratio). This characteristic offers advantages in diverse fields such as structural engineering, flexible electronics, and medicine. The rotating (semi -)rigid structure, as a typical auxetic structure, has been introduced into the field of computer -aided design because of its well-defined motion patterns. These structures find application as deployable structures in various endeavors aiming to approximate and rapidly fabricate doubly -curved surfaces, thereby mitigating the challenges associated with their production and transportation. Nevertheless, prior designs relying on basic geometric elements primarily concentrate on exploring the inherent nature of the structure and often lack aesthetic appeal. To address this limitation, we propose a novel design and generation method inspired by dihedral Escher tessellations. By introducing a new metric function, we achieve efficient evaluation of shape deployability as well as filtering of tessellations, followed by a two-step deformation and edgedeployability optimization process to ensure compliance with deployability constraints while preserving semantic meanings. Furthermore, we optimize the shape through physical simulation to guarantee deployability in actual manufacturing and control Poisson's ratio to a certain extent. Our method yields structures that are both semantically meaningful and aesthetically pleasing, showcasing promising potential for auxetic
+C1 [Liu, Xiaokang; Lu, Lin; Cao, Lingxin; Tu, Changhe] Shandong Univ, Sch Comp Sci & Technol, Qingdao, Peoples R China.
+   [Deussen, Oliver] Univ Konstanz, Comp & Informat Sci, Constance, Germany.
+C3 Shandong University; University of Konstanz
+RP Lu, L (corresponding author), Shandong Univ, Sch Comp Sci & Technol, Qingdao, Peoples R China.
+EM llu@sdu.edu.cn
+FU National Natural Science Foundation of China (NSFC) [61972232]; 
+   [2020ZLYS01]
+FX We thank all the anonymous reviewers for their valuable comments and
+   constructive suggestions. This work is supported by the grant No.
+   61972232 from National Natural Science Foundation of China (NSFC) and
+   the Key Research and Development Plan of Shandong Province of China (No.
+   2020ZLYS01) .
+CR Alajlan N, 2008, IEEE T PATTERN ANAL, V30, P1003, DOI 10.1109/TPAMI.2008.37
+   Andrew Alderson, 2004, Computational Methods in Science and Technology, V10, P137, DOI DOI 10.12921/CMST.2004.10.02.137-145
+   Attard D, 2012, PHYS STATUS SOLIDI B, V249, P1330, DOI 10.1002/pssb.201084223
+   Attard D, 2009, PHYS STATUS SOLIDI B, V246, P2033, DOI 10.1002/pssb.200982034
+   Chen T, 2021, ACM T GRAPHIC, V40, DOI 10.1145/3450626.3459940
+   Choi GPT, 2021, PHYS REV RES, V3, DOI 10.1103/PhysRevResearch.3.043030
+   Dress Andreas W. M., 1986, Art and science, P35
+   Gatt R, 2015, SCI REP-UK, V5, DOI 10.1038/srep08395
+   GIBSON LJ, 1982, P ROY SOC LOND A MAT, V382, P25, DOI 10.1098/rspa.1982.0087
+   Grima JN, 2007, PHYS STATUS SOLIDI B, V244, P866, DOI 10.1002/pssb.200572706
+   Grima JN, 2006, J MATER SCI, V41, P3193, DOI 10.1007/s10853-006-6339-8
+   Grima JN, 2000, J MATER SCI LETT, V19, P1563, DOI 10.1023/A:1006781224002
+   Grima JN, 2008, PHYS STATUS SOLIDI B, V245, P521, DOI 10.1002/pssb.200777705
+   Grima JN, 2011, P ROY SOC A-MATH PHY, V467, P439, DOI 10.1098/rspa.2010.0171
+   Grima JN, 2010, J NON-CRYST SOLIDS, V356, P1980, DOI 10.1016/j.jnoncrysol.2010.05.074
+   Grima JN, 2010, ADV ENG MATER, V12, P460, DOI 10.1002/adem.201000005
+   Grunbaum B., 1987, Tilings and Patterns
+   Howison Mark, 2009, Computer-Aided Design and Applications, V6, P737
+   Igarashi T, 2005, ACM T GRAPHIC, V24, P1134, DOI 10.1145/1073204.1073323
+   Jiang CG, 2023, ACM T GRAPHIC, V42, DOI 10.1145/3561050
+   Jiang CG, 2022, COMPUT AIDED DESIGN, V143, DOI 10.1016/j.cad.2021.103146
+   Kaplan CS, 2004, PROC GRAPH INTERF, P255
+   Kaplan CS, 2000, COMP GRAPH, P499, DOI 10.1145/344779.345022
+   Koizumi H, 2011, GRAPH COMBINATOR, V27, P431, DOI 10.1007/s00373-011-1022-5
+   Konakovic M, 2016, ACM T GRAPHIC, V35, DOI 10.1145/2897824.2925944
+   Konakovic-Lukovic M, 2018, ACM T GRAPHIC, V37, DOI 10.1145/3197517.3201373
+   LAKES R, 1991, J MATER SCI, V26, P2287, DOI 10.1007/BF01130170
+   Li YB, 2021, ADV FUNCT MATER, V31, DOI 10.1002/adfm.202105641
+   Lin SS, 2018, IEEE T VIS COMPUT GR, V24, P1089, DOI 10.1109/TVCG.2017.2660488
+   Liu DM, 2023, ACM T GRAPHIC, V42, DOI 10.1145/3592393
+   Liu XK, 2022, COMPUT GRAPH FORUM, V41, P149, DOI 10.1111/cgf.14610
+   Liu XK, 2020, COMPUT AIDED DESIGN, V127, DOI 10.1016/j.cad.2020.102853
+   Mizzi L, 2015, PHYS STATUS SOLIDI-R, V9, P425, DOI 10.1002/pssr.201510178
+   Morvaridi M, 2021, EXTREME MECH LETT, V48, DOI 10.1016/j.eml.2021.101405
+   Nagata Y, 2022, ACM T GRAPHIC, V41, DOI 10.1145/3487017
+   Pagliocca N, 2022, MATER DESIGN, V215, DOI 10.1016/j.matdes.2022.110446
+   Panetta J, 2019, ACM T GRAPHIC, V38, DOI 10.1145/3306346.3323040
+   Pillwein S, 2021, ACM T GRAPHIC, V40, DOI 10.1145/3478513.3480516
+   Pillwein S, 2021, COMPUT GRAPH-UK, V98, P218, DOI 10.1016/j.cag.2021.06.002
+   Pillwein S, 2020, ACM T GRAPHIC, V39, DOI 10.1145/3386569.3392490
+   Prall D, 1997, INT J MECH SCI, V39, P305, DOI 10.1016/S0020-7403(96)00025-2
+   Rafsanjani A, 2016, EXTREME MECH LETT, V9, P291, DOI 10.1016/j.eml.2016.09.001
+   Rao C, 2019, COMPUT AIDED GEOM D, V71, P130, DOI 10.1016/j.cagd.2019.04.018
+   Ren YY, 2022, ACM T GRAPHIC, V41, DOI 10.1145/3528223.3530089
+   Ren YY, 2021, ACM T GRAPHIC, V40, DOI 10.1145/3450626.3459788
+   Schattschneider D., 1990, Visions of symmetry: Notebooks, periodic drawings, and related work of MC Escher, V8
+   Schüller C, 2018, ACM T GRAPHIC, V37, DOI 10.1145/3197517.3201347
+   Shan SC, 2015, EXTREME MECH LETT, V4, P96, DOI 10.1016/j.eml.2015.05.002
+   Slann A, 2015, PHYS STATUS SOLIDI B, V252, P1533, DOI 10.1002/pssb.201451740
+   Sugihara K, 2009, J MATH ARTS, V3, P195, DOI 10.1080/17513470903185626
+   Warisaya K., 2021, INT DES ENG TECHN C, V85451
+   Yen J., 2001, P 2001 S INT 3D GRAP, P95
+   Zheng Changxi., 2016, P ACM SIGGRAPHEUROGR, P179
+NR 53
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD JUN
+PY 2024
+VL 133
+AR 101215
+DI 10.1016/j.gmod.2024.101215
+EA MAR 2024
+PG 10
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA QO3Q0
+UT WOS:001221778000001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Zhang, KR
+   Yan, H
+   Lu, JM
+   Ren, B
+AF Zhang, Kangrui
+   Yan, Han
+   Lu, Jia-Ming
+   Ren, Bo
+TI Rod-Bonded Discrete Element Method
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Discrete element method; Physically based animation; Fracture
+   simulation; Elastic rods
+ID ANIMATION; MODEL; SIMULATION; FRACTURES; DEM
+AB The Bonded Discrete Element Method (BDEM) has raised interests in the graphics community in recent years because of its good performance in fracture simulations. However, current explicit BDEM usually needs to work under very small time steps to avoid numerical instability. We propose a new BDEM, namely RodBDEM (RBDEM), which uses Cosserat energy and yields integrable forces and torques. We further derive a novel Cosserat rod discretization method to effectively represent the three-dimensional topological connections between discrete elements. Then, a complete implicit BDEM system integrating the appropriate fracture model and contact model is constructed using the implicit Euler integration scheme. Our method allows high Young's modulus and larger time steps in elastic deformation, breaking, cracking, and impacting, achieving up to 8 times speed up of the total simulation.
+C1 [Zhang, Kangrui; Yan, Han; Ren, Bo] Nankai Univ, Coll Comp Sci, TMCC, Tianjin, Peoples R China.
+   [Lu, Jia-Ming] Tsinghua Univ, Beijing, Peoples R China.
+C3 Nankai University; Tsinghua University
+RP Ren, B (corresponding author), Nankai Univ, Coll Comp Sci, TMCC, Tianjin, Peoples R China.
+EM rb@nankai.edu.cn
+FU Natural Science Foundation of China [62272245]; Fundamental Research
+   Funds for the Central Universities, China (Nankai University) [63233080]
+FX The work was supported by the Natural Science Foundation of China
+   (62272245) , the Fundamental Research Funds for the Central
+   Universities, China (Nankai University, No. 63233080) .
+CR André D, 2013, COMPUT METHOD APPL M, V265, P136, DOI 10.1016/j.cma.2013.06.008
+   André D, 2012, COMPUT METHOD APPL M, V213, P113, DOI 10.1016/j.cma.2011.12.002
+   Baraff D., 1998, Computer Graphics. Proceedings. SIGGRAPH 98 Conference Proceedings, P43, DOI 10.1145/280814.280821
+   Baraff D., 1997, SIGGRAPH course notes, V82
+   Bell N., 2005, Particle-based simulation of granular materials, P77, DOI DOI 10.1145/1073368.1073379
+   Bergou M, 2008, ACM T GRAPHIC, V27, DOI 10.1145/1360612.1360662
+   Bouaziz S, 2014, ACM T GRAPHIC, V33, DOI 10.1145/2601097.2601116
+   Brown NJ, 2014, GRANUL MATTER, V16, P299, DOI 10.1007/s10035-014-0494-4
+   Carmona HA, 2008, PHYS REV E, V77, DOI 10.1103/PhysRevE.77.051302
+   Chen W, 2018, COMPUT GRAPH FORUM, V37, P112, DOI 10.1111/cgf.13236
+   Chen XZ, 2022, GRANUL MATTER, V24, DOI 10.1007/s10035-021-01187-2
+   Chitalu FM, 2020, COMPUT GRAPH FORUM, V39, P569, DOI 10.1111/cgf.13953
+   COWPER GR, 1966, J APPL MECH, V33, P335, DOI 10.1115/1.3625046
+   CUNDALL PA, 1979, GEOTECHNIQUE, V29, P47, DOI 10.1680/geot.1979.29.1.47
+   De Klerk D.N., 2022, J. Comput. Phys., V462
+   Fan LX, 2022, ACM T GRAPHIC, V41, DOI 10.1145/3522573
+   Fei Y, 2019, ACM T GRAPHIC, V38, DOI 10.1145/3355089.3356532
+   Hahn D, 2016, ACM T GRAPHIC, V35, DOI 10.1145/2897824.2925902
+   Hahn D, 2015, ACM T GRAPHIC, V34, DOI 10.1145/2766896
+   He XW, 2018, IEEE T VIS COMPUT GR, V24, P2589, DOI 10.1109/TVCG.2017.2755646
+   Hu YM, 2018, ACM T GRAPHIC, V37, DOI 10.1145/3197517.3201293
+   Ikari H, 2023, COMPUT PART MECH, V10, P261, DOI 10.1007/s40571-022-00485-7
+   Koschier D, 2017, ACM T GRAPHIC, V36, DOI 10.1145/3072959.3073666
+   Kugelstadt T., 2016, Symposium on Computer Animation, P169, DOI [10.2312/sca.20161234, DOI 10.2312/SCA.20161234]
+   Lang H., 2009, Lagrangian Field Theory in Space-Time for Geometrically Exact Cosserat Rods, V3
+   Lang H, 2011, MULTIBODY SYST DYN, V25, P285, DOI 10.1007/s11044-010-9223-x
+   Levine J.A., 2014, P ACM SIGGRAPHEUROGR, P47
+   Li MC, 2020, ACM T GRAPHIC, V39, DOI 10.1145/3386569.3392425
+   Liu TT, 2013, ACM T GRAPHIC, V32, DOI 10.1145/2508363.2508406
+   Lu JM, 2022, IEEE T VIS COMPUT GR, V28, P4810, DOI 10.1109/TVCG.2021.3106738
+   Madenci E, 2013, Peridynamic theory and its applications, P19
+   Mandal A, 2022, Arxiv, DOI arXiv:2103.14870
+   Martin S, 2010, ACM T GRAPHIC, V29, DOI 10.1145/1778765.1778776
+   Martin S, 2011, ACM T GRAPHIC, V30, DOI 10.1145/1964921.1964967
+   Müller M, 2011, ACM T GRAPHIC, V30, DOI 10.1145/1964921.1964987
+   Narain R., 2016, Symposium on Computer Animation, V1, P2016
+   Nocedal J, 2006, SPRINGER SER OPER RE, P1, DOI 10.1007/978-0-387-40065-5
+   O'Brien JF, 2002, ACM T GRAPHIC, V21, P291, DOI 10.1145/566570.566579
+   O'Brien JF, 1999, COMP GRAPH, P137, DOI 10.1145/311535.311550
+   Pai DK, 2002, COMPUT GRAPH FORUM, V21, P347, DOI 10.1111/1467-8659.00594
+   Pauly M, 2005, ACM T GRAPHIC, V24, P957, DOI 10.1145/1073204.1073296
+   Pfaff T, 2014, ACM T GRAPHIC, V33, DOI 10.1145/2601097.2601132
+   Potyondy DO, 2004, INT J ROCK MECH MIN, V41, P1329, DOI 10.1016/j.ijrmms.2004.09.011
+   ROESLER FC, 1956, P PHYS SOC LOND B, V69, P981, DOI 10.1088/0370-1301/69/10/303
+   Romero I, 2004, COMPUT MECH, V34, P121, DOI 10.1007/s00466-004-0559-z
+   Rungjiratananon W, 2008, COMPUT GRAPH FORUM, V27, P1887, DOI 10.1111/j.1467-8659.2008.01336.x
+   Schwab A.L., 2006, INT DES ENG TECHN C, V42568, P259
+   Shi G.-h., 1992, Eng. Comput.
+   Sifakis E, 2012, ACM SIGGRAPH 2012 CO, P1, DOI 10.1145/2343483.2343501
+   Silling SA, 2007, J ELASTICITY, V88, P151, DOI 10.1007/s10659-007-9125-1
+   Silling S.A., 2004, PERIDYNAMIC MODELING, V489, P197, DOI 10.1115/PVP2004-3049
+   Silling SA, 2005, COMPUT STRUCT, V83, P1526, DOI 10.1016/j.compstruc.2004.11.026
+   Soler C, 2018, COMPUT GRAPH FORUM, V37, P137, DOI 10.1111/cgf.13519
+   Spillmann J, 2007, SYMPOSIUM ON COMPUTER ANIMATION 2007: ACM SIGGRAPH/ EUROGRAPHICS SYMPOSIUM PROCEEDINGS, P63
+   Terzopoulos D., 1988, Computer Graphics, V22, P269, DOI 10.1145/378456.378522
+   Truong N, 2022, IEEE T VIS COMPUT GR, V28, P4546, DOI 10.1109/TVCG.2021.3093776
+   Tuley R, 2010, COMPUT CHEM ENG, V34, P886, DOI 10.1016/j.compchemeng.2009.10.003
+   Umetani Nobuyuki., 2014, ACM SIGGRAPH 2014 Talks, SIGGRAPH '14, p47:1
+   Wang S, 2019, P ACM COMPUT GRAPH, V2, DOI 10.1145/3340259
+   Wang X, 2021, P ACM COMPUT GRAPH, V4, DOI 10.1145/3480141
+   Weeger O, 2019, COMPUT METHOD APPL M, V345, P26, DOI 10.1016/j.cma.2018.10.038
+   Wen JH, 2020, COMPUT GRAPH FORUM, V39, P143, DOI 10.1111/cgf.14133
+   Wolper J, 2020, ACM T GRAPHIC, V39, DOI 10.1145/3386569.3392428
+   Wolper J, 2019, ACM T GRAPHIC, V38, DOI 10.1145/3306346.3322949
+   Yue YH, 2018, ACM T GRAPHIC, V37, DOI 10.1145/3272127.3275095
+   Zhao C., 2022, Efficient and Stable Simulation of Inextensible Cosserat Rods by a Compact Representation
+   Zhu YF, 2015, ACM T GRAPHIC, V34, DOI 10.1145/2766942
+NR 67
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD JUN
+PY 2024
+VL 133
+AR 101218
+DI 10.1016/j.gmod.2024.101218
+EA APR 2024
+PG 11
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA SK9T0
+UT WOS:001234470500001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Silva, GF
+   Knob, PR
+   Montanha, RH
+   Musse, SR
+AF Silva, Gabriel Fonseca
+   Knob, Paulo Ricardo
+   Montanha, Rubens Halbig
+   Musse, Soraia Raupp
+TI Evaluating and comparing crowd simulations: Perspectives from a crowd
+   authoring tool
+SO GRAPHICAL MODELS
+LA English
+DT Article
+DE Crowd simulation; Authoring tool; Virtual agents; Framework
+AB Crowd simulation is a research area widely used in diverse fields, including gaming and security, assessing virtual agent movements through metrics like time to reach their goals, speed, trajectories, and densities. This is relevant for security applications, for instance, as different crowd configurations can determine the time people spend in environments trying to evacuate them. In this work, we extend WebCrowds, an authoring tool for crowd simulation, to allow users to build scenarios and evaluate them through a set of metrics. The aim is to provide a quantitative metric that can, based on simulation data, select the best crowd configuration in a certain environment. We conduct experiments to validate our proposed metric in multiple crowd simulation scenarios and perform a comparison with another metric found in the literature. The results show that experts in the domain of crowd scenarios agree with our proposed quantitative metric.
+C1 [Silva, Gabriel Fonseca; Knob, Paulo Ricardo; Montanha, Rubens Halbig; Musse, Soraia Raupp] Pontificia Univ Catolica Rio Grande do Sul, Sch Technol, Virtual Humans Lab VHLab, Ave Ipiranga 6681, BR-90619900 Porto Alegre, RS, Brazil.
+C3 Pontificia Universidade Catolica Do Rio Grande Do Sul
+RP Silva, GF (corresponding author), Pontificia Univ Catolica Rio Grande do Sul, Sch Technol, Virtual Humans Lab VHLab, Ave Ipiranga 6681, BR-90619900 Porto Alegre, RS, Brazil.
+EM gabriel.fonseca94@edu.pucrs.br
+OI Fonseca Silva, Gabriel/0000-0001-5242-0005
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior - Brasil
+   (CAPES) [001]; Conselho Nacional de Desenvolvimento Cientifico e
+   Tecnologico-Brasil (CNPq)
+FX This study was partly financed by the Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior - Brasil (CAPES) - Finance Code 001, and by
+   the Conselho Nacional de Desenvolvimento Cientifico e Tecnologico-Brasil
+   (CNPq) . We thank the experts who participated in our experiments.
+   Finally, we also thank the High-Performance Computing Laboratory of the
+   Pontifical Catholic University of Rio Grande do Sul (LAD-IDEIA/PUCRS)
+   for providing support and technological resources for this project.
+CR [Anonymous], 2000, (Ph.D. thesis
+   Antonitsch AD, 2019, LECT NOTES COMPUT SC, V11542, P15, DOI 10.1007/978-3-030-22514-8_2
+   Berseth G, 2015, COMPUT ANIMAT VIRT W, V26, P377, DOI 10.1002/cav.1652
+   Bicho AD, 2012, COMPUT GRAPH-UK, V36, P70, DOI 10.1016/j.cag.2011.12.004
+   Daniel BC, 2021, P ACM COMPUT GRAPH, V4, DOI 10.1145/3480136
+   Cassol VJ, 2017, IEEE COMPUT GRAPH, V37, P60, DOI 10.1109/MCG.2017.3271454
+   Chen CY, 2020, COMPUT ANIMAT VIRT W, V31, DOI 10.1002/cav.1960
+   Colas A, 2022, COMPUT GRAPH FORUM, V41, P521, DOI 10.1111/cgf.14491
+   Durupinar F, 2016, IEEE T VIS COMPUT GR, V22, P2145, DOI 10.1109/TVCG.2015.2501801
+   Fu LB, 2014, TRANSP RES PROC, V2, P533, DOI 10.1016/j.trpro.2014.09.093
+   Haworth Brandon, 2016, 2016 IEEE Virtual Humans and Crowds for Immersive Environments (VHCIE), P7, DOI 10.1109/VHCIE.2016.7563566
+   Hughes RL, 2002, TRANSPORT RES B-METH, V36, P507, DOI 10.1016/S0191-2615(01)00015-7
+   Kim G, 2022, APPL SCI-BASEL, V12, DOI 10.3390/app12157416
+   Knob P, 2018, 18TH ACM INTERNATIONAL CONFERENCE ON INTELLIGENT VIRTUAL AGENTS (IVA'18), P233, DOI 10.1145/3267851.3267871
+   Lemonari M, 2022, COMPUT GRAPH FORUM, V41, P677, DOI 10.1111/cgf.14506
+   Liu WY, 2020, COMPUT ANIMAT VIRT W, V31, DOI 10.1002/cav.1965
+   Murphy S.O., 2013, P 2013 SUMM COMP SIM
+   Musse S.R., 1997, COMPUTER ANIMATION S, P39, DOI [10.1007/978-3-7091-6874-53, DOI 10.1007/978-3-7091-6874-5_3]
+   Pelechano N, 2007, SYMPOSIUM ON COMPUTER ANIMATION 2007: ACM SIGGRAPH/ EUROGRAPHICS SYMPOSIUM PROCEEDINGS, P99
+   Schaumann D, 2019, AUTOMAT CONSTR, V106, DOI 10.1016/j.autcon.2019.102896
+   Silva G.F., 2022, 2022 21 BRAZ S GAM D, P1
+   Ulicny B., 2005, INT C COMP GRAPH INT, P3, DOI [10.1145/1198555.1198673, DOI 10.1145/1198555.1198673]
+   Usman M., 2020, Motion, Interaction and Games, DOI [10.1145/3424636.3426905, DOI 10.1145/3424636.3426905]
+   Usman M, 2021, COMPUT ANIMAT VIRT W, V32, DOI 10.1002/cav.1990
+   Wolinski D, 2014, COMPUT GRAPH FORUM, V33, P303, DOI 10.1111/cgf.12328
+   Zhou M, 2022, IEEE T INTELL TRANSP, V23, P1492, DOI 10.1109/TITS.2020.3027542
+NR 26
+TC 0
+Z9 0
+U1 3
+U2 3
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1524-0703
+EI 1524-0711
+J9 GRAPH MODELS
+JI Graph. Models
+PD FEB
+PY 2024
+VL 131
+AR 101212
+DI 10.1016/j.gmod.2023.101212
+EA JAN 2024
+PG 10
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA GK4J2
+UT WOS:001152547200001
+OA gold
+DA 2024-08-05
+ER
+
+EF

@@ -1,0 +1,1732 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Feng, X
+   Yu, WJ
+   Xie, YY
+   Tang, J
+AF Feng, Xu
+   Yu, Wenjian
+   Xie, Yuyang
+   Tang, Jie
+TI Algorithm 1043: Faster Randomized SVD with Dynamic Shifts
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Truncated singular value decomposition; random embedding; shifted power
+   iteration; sparse matrix
+ID SOLVER; MATRIX
+AB Aiming to provide a faster and convenient truncated SVD algorithm for large sparse matrices from real applications (i.e., for computing a few of the largest singular values and the corresponding singular vectors), a dynamically shifted power iteration technique is applied to improve the accuracy of the randomized SVD method. This results in a dynamic shifts-based randomized SVD (dashSVD) algorithm, which also collaborates with the skills for handling sparse matrices. An accuracy-control mechanism is included in the dashSVD algorithm to approximately monitor the per vector error bound of computed singular vectors with negligible overhead. Experiments on real-world data validate that the dashSVD algorithm largely improves the accuracy of a randomized SVD algorithm or attains the same accuracy with fewer passes over the matrix, and provides an efficient accuracy-control mechanism to the randomized SVD computation, while demonstrating the advantages on runtime and parallel efficiency. A bound of the approximation error of the randomized SVD with the shifted power iteration is also proved.
+C1 [Feng, Xu; Yu, Wenjian; Xie, Yuyang; Tang, Jie] Tsinghua Univ, BNRist, Dept Comp Sci & Technol, Beijing, Peoples R China.
+C3 Tsinghua University
+RP Yu, WJ (corresponding author), Tsinghua Univ, BNRist, Dept Comp Sci & Technol, Beijing, Peoples R China.
+EM fx17@mails.tsinghua.edu.cn; yu-wj@tsinghua.edu.cn;
+   xyy18@mails.tsinghua.edu.cn; jietang@tsinghua.edu.cn
+FU National Natural Science Foundation of China [61872206]
+FX This work was supported by the National Natural Science Foundation of
+   China under Grant 61872206.
+CR Allen-Zhu Zeyuan, 2016, P ADV NEURAL INFORM, P974
+   AMiner, 2021, Aminer
+   Baglama J, 2005, SIAM J SCI COMPUT, V27, P19, DOI 10.1137/04060593X
+   Boldi Paolo, 2011, P 20 INT C WORLD WID, P587
+   Constantinescu Emil M., 2022, PETSc
+   Davis TA, 2011, ACM T MATH SOFTWARE, V38, DOI 10.1145/2049662.2049663
+   Ding XY, 2020, PROC INT C TOOLS ART, P955, DOI 10.1109/ICTAI50040.2020.00149
+   Eckart C, 1936, PSYCHOMETRIKA, V1, P211, DOI 10.1007/BF02288367
+   Erichson NB, 2017, IEEE INT CONF COMP V, P1880, DOI 10.1109/ICCVW.2017.222
+   Feng Xu, 2018, P 10 AS C MACH LEARN, P710
+   GitHub, 2022, frPCA_sparse
+   GitHub, 2022, Primme
+   Golub Gene H., 2012, Matrix Computations
+   Halko N, 2011, SIAM REV, V53, P217, DOI 10.1137/090771806
+   Harper FM, 2016, ACM T INTERACT INTEL, V5, DOI 10.1145/2827872
+   Heath Michael T., 2018, Scientific Computing: An Introductory Survey, V2nd
+   Hernández V, 2008, ELECTRON T NUMER ANA, V31, P68
+   Horn Roger A., 1991, Topics in Matrix Analysis, DOI DOI 10.1017/CBO9780511840371
+   Intel, 2021, Intel oneAPI Math Kernel Library
+   Larsen R.M., 2004, PROPACK SOFTWARE LAR
+   Leskovec J., 2014, SNAP Datasets: Stanford Large Network Dataset Collection
+   Li HM, 2017, ACM T MATH SOFTWARE, V43, DOI 10.1145/3004053
+   Mahoney MW, 2011, FOUND TRENDS MACH LE, V3, P123, DOI 10.1561/2200000035
+   Martinsson PG, 2020, ACTA NUMER, V29, P403, DOI 10.1017/S0962492920000021
+   Martinsson PG, 2016, SIAM J SCI COMPUT, V38, pS485, DOI 10.1137/15M1026080
+   Musco Cameron, 2015, Advances in Neural Information Processing Systems, P1396
+   Oleg Balabanov, 2023, P INT C MACH LEARN, P1564
+   Rokhlin V, 2009, SIAM J MATRIX ANAL A, V31, P1100, DOI 10.1137/080736417
+   Stathopoulos A, 2010, ACM T MATH SOFTWARE, V37, DOI 10.1145/1731022.1731031
+   The OpenMP ARB, 2022, The OpenMP API Specification for Parallel Programming
+   The University of Texas at Austin, 2021, RandQR
+   Vigna Sebastiano, 2004, P 13 INT C WORLD WID, P595
+   Voronin S, 2016, Arxiv, DOI arXiv:1502.05366
+   Wu LF, 2017, SIAM J SCI COMPUT, V39, pS248, DOI 10.1137/16M1082214
+NR 34
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD JUN
+PY 2024
+VL 50
+IS 2
+AR 14
+DI 10.1145/3660629
+PG 27
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YF1P6
+UT WOS:001266982400006
+OA Green Submitted, Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Hascoet, L
+AF Hascoet, Laurent
+TI Data-flow Reversal and Garbage Collection
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Automatic differentiation; data-flow reversal; dynamic memory; garbage
+   collection
+AB Data-flow reversal is at the heart of source-transformation reverse algorithmic differentiation (reverse STAD), arguably the most efficient way to obtain gradients of numerical models. However, when the model implementation language uses garbage collection (GC), for instance, in Java or Python, the notion of address that is needed for data-flow reversal disappears. Moreover, GC is asynchronous and does not appear explicitly in the source. This article presents an extension to the model of reverse ST-AD suitable for a language with GC. The approach is validated on a Java implementation of a simple Navier-Stokes solver. Performance is compared with existing AD tools ADOL-C and Tapenade on an equivalent implementation in C and Fortran.
+C1 [Hascoet, Laurent] INRIA Sophia Antipolis, 2004 Route Lucioles, F-06902 Biot, France.
+RP Hascoet, L (corresponding author), INRIA Sophia Antipolis, 2004 Route Lucioles, F-06902 Biot, France.
+EM hascoet@inria.fr
+CR [Anonymous], 1996, Computational Differentiation: Techniques, Applications and Tools
+   Baydin AG, 2018, J MACH LEARN RES, V18
+   Bischof Christian H., 2008, Advances in Automatic Differentiation. Lecture Notes in Computational Science and Engineering, V64, DOI [10.1007/978-3-540-68942-3, DOI 10.1007/978-3-540-68942-3]
+   Bradbury J., 2018, JAX: composable transformations of Python+ NumPy programs
+   Bucker M., 2005, Automatic Differentiation: Applications, Theory, and Tools
+   Christianson Bruce, 2018, Special Issue of Optimization Methods & Software: Advances in Algorithmic Differentiation, V33
+   Corliss G., 2002, AUTOMATIC DIFFERENTI, DOI [10.1007/978-1-4613-0075-5, DOI 10.1007/978-1-4613-0075-5]
+   Fagan M, 2006, SIXTH IEEE INTERNATIONAL WORKSHOP ON SOURCE CODE ANALYSIS AND MANIPULATION, PROCEEDINGS, P85
+   Forth Shaun, 2012, Lecture Notes in Computational Science and Engineering, V87, DOI [10.1007/978-3-642-30023-3, DOI 10.1007/978-3-642-30023-3]
+   Griewank A, 2008, OTHER TITL APPL MATH, V105, P1
+   Griewank Andreas, 1991, Automatic Differentiation of Algorithms: Theory, Implementation, and Application
+   Hascoët L, 2005, FUTURE GENER COMP SY, V21, P1401, DOI 10.1016/j.future.2004.11.009
+   Hascoët L, 2018, OPTIM METHOD SOFTW, V33, P829, DOI 10.1080/10556788.2017.1396600
+   Hascoët L, 2016, OPTIM METHOD SOFTW, V31, P885, DOI 10.1080/10556788.2016.1146269
+   Innes M., 2019, Don't unroll adjoint: Differentiating ssa-form programs
+   Naumann U, 2012, SOFTW ENVIRON TOOLS, V24, P1
+   Paszke A., 2017, NIPS-W
+   Sagebaum M, 2019, ACM T MATH SOFTWARE, V45, DOI 10.1145/3356900
+   Slusanschi EI, 2016, ACM T MATH SOFTWARE, V43, DOI 10.1145/2904901
+   van Merrienboer B, 2018, 32 C NEURAL INFORM P
+   Walther A, 2012, CH CRC COMP SCI SER, P181
+NR 21
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD MAR
+PY 2024
+VL 50
+IS 1
+AR 3
+DI 10.1145/3627537
+PG 20
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OP9C8
+UT WOS:001208587300003
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Ouermi, TAJ
+   Kirby, RM
+   Berzins, M
+AF Ouermi, Timbwoga A. J.
+   Kirby, Robert M.
+   Berzins, Martin
+TI Algorithm 1041: HiPPIS-A High-order Positivity-preserving Mapping
+   Software for Structured Meshes
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Positivity-preserving; data-bounded; polynomial interpolation;
+   vectorization
+ID POLYNOMIAL INTERPOLATION; FINITE-DIFFERENCE; WENO SCHEMES; TRANSPORT
+AB Polynomial interpolation is an important component of many computational problems. In several of these computational problems, failure to preserve positivity when using polynomials to approximate or map data values between meshes can lead to negative unphysical quantities. Currently, most polynomial-based methods for enforcing positivity are based on splines and polynomial rescaling. The spline-based approaches build interpolants that are positive over the intervals in which they are defined and may require solving a minimization problem and/or system of equations. The linear polynomial rescaling methods allow for high-degree polynomials but enforce positivity only at limited locations (e.g., quadrature nodes). This work introduces open-source software (HiPPIS) for high-order data-bounded interpolation (DBI) and positivity-preserving interpolation (PPI) that addresses the limitations of both the spline and polynomial rescaling methods. HiPPIS is suitable for approximating and mapping physical quantities such as mass, density, and concentration between meshes while preserving positivity. This work provides Fortran and Matlab implementations of the DBI and PPI methods, presents an analysis of the mapping error in the context of PDEs, and uses several 1D and 2D numerical examples to demonstrate the benefits and limitations of HiPPIS.
+C1 [Ouermi, Timbwoga A. J.; Kirby, Robert M.; Berzins, Martin] Univ Utah, Sci Comp Imaging Inst, 72 Cent Campus Dr, Salt Lake City, UT 84112 USA.
+C3 Utah System of Higher Education; University of Utah
+RP Ouermi, TAJ (corresponding author), Univ Utah, Sci Comp Imaging Inst, 72 Cent Campus Dr, Salt Lake City, UT 84112 USA.
+EM touermi@cs.utah.edu; kirby@cs.utah.edu; mb@sci.utah.edu
+OI Kirby, Robert/0000-0001-5712-4141
+FU US Naval Research Laboratory [559000669]; National Science Foundation
+   [1521748]; Intel Graphics and Visualization Institute at the University
+   of Utah's Scientific Computing and Imaging (SCI) Institute [29715]
+FX This work has been supported by the US Naval Research Laboratory
+   (559000669), the National Science Foundation (1521748), and the Intel
+   Graphics and Visualization Institute at the University of Utah's
+   Scientific Computing and Imaging (SCI) Institute (29715).
+CR Balsara DS, 2012, J COMPUT PHYS, V231, P7504, DOI 10.1016/j.jcp.2012.01.032
+   Berzins M, 2007, SIAM REV, V49, P604, DOI 10.1137/050625667
+   Berzins M, 1998, APPL NUMER MATH, V26, P117, DOI 10.1016/S0168-9274(97)00091-3
+   Berzins M, 2010, NUMER ALGORITHMS, V55, P171, DOI 10.1007/s11075-010-9395-8
+   Chan ES, 2001, J COMPUT APPL MATH, V136, P135, DOI 10.1016/S0377-0427(00)00580-X
+   Chi-Wang Shu, 1990, Journal of Scientific Computing, V5, P127, DOI 10.1007/BF01065581
+   Costantini P, 1997, ACM T MATH SOFTWARE, V23, P252, DOI 10.1145/264029.264059
+   Doyle James D., 2017, Next Generation NWP Using a Spectral Element Dynamical Core
+   Fasshatier GE, 2007, NUMER ALGORITHMS, V45, P345, DOI 10.1007/s11075-007-9072-8
+   Firl Grant, 2020, Common Community Physics Package Single Column Model (SCM)
+   FRIEDMAN HA, 1970, B AM METEOROL SOC, V51, P822, DOI 10.1175/1520-0477(1970)051<0822:ERFFAP>2.0.CO;2
+   FRITSCH FN, 1980, SIAM J NUMER ANAL, V17, P238, DOI 10.1137/0717021
+   Goodyer CE, 2006, SIAM J SCI COMPUT, V28, P626, DOI 10.1137/050622092
+   Green KR, 2019, SIAM J SCI COMPUT, V41, pC194, DOI 10.1137/18M1201421
+   HARTEN A, 1987, J COMPUT PHYS, V71, P231, DOI 10.1006/jcph.1996.5632
+   HESS W, 1994, J COMPUT APPL MATH, V55, P51, DOI 10.1016/0377-0427(94)90184-8
+   Hu XYY, 2013, J COMPUT PHYS, V242, P169, DOI 10.1016/j.jcp.2013.01.024
+   Hussain MZ, 2008, J COMPUT APPL MATH, V218, P446, DOI 10.1016/j.cam.2007.05.023
+   Hussain MZ, 2018, J NATL SCI FOUND SRI, V46, P341, DOI 10.4038/jnsfsr.v46i3.8486
+   Hussain Maria, 2009, J. Prime Res. Math., V5, P115
+   Karim Abdul, 2015, J. Appl. Math., V2015, DOI [10.1155/2015/572768, DOI 10.1155/2015/572768]
+   KROGH FT, 1970, MATH COMPUT, V24, P185, DOI 10.2307/2004888
+   LAWSON J, 1991, SIAM J SCI STAT COMP, V12, P573, DOI 10.1137/0912031
+   Light D, 2016, MON WEATHER REV, V144, P4771, DOI 10.1175/MWR-D-16-0220.1
+   Liu HP, 2019, COMPUT FLUIDS, V189, P82, DOI 10.1016/j.compfluid.2019.05.019
+   Lux T, 2023, ACM T MATH SOFTWARE, V49, DOI 10.1145/3570157
+   Lux Thomas C. H., 2019, P SPRING SIM C, P1
+   Moler C. B., 2004, Numerical computing with MATLAB
+   Ouermi TAJ, 2023, NUMER ALGORITHMS, V92, P1517, DOI 10.1007/s11075-022-01352-5
+   Ouermi Timbwaoga A. J., 2020, arXiv
+   Piah A. R. M., 2005, Mathematics of Surfaces XI 11th IMA International Conference. Proceedings (Lecture Notes in Computer Science Vol. 3604), P336, DOI 10.1007/11537908_20
+   Rogerson A. M., 1990, Journal of Scientific Computing, V5, P151, DOI 10.1007/BF01065582
+   Rotstayn LD, 2000, MON WEATHER REV, V128, P1070, DOI 10.1175/1520-0493(2000)128<1070:ASFCOT>2.0.CO;2
+   Sahasrabudhe D, 2019, CONCURR COMP-PRACT E, V31, DOI 10.1002/cpe.5340
+   SARFRAZ M, 1992, COMPUT GRAPH, V16, P69, DOI 10.1016/0097-8493(92)90073-5
+   SCHMIDT JW, 1987, COMPUTING, V38, P261, DOI 10.1007/BF02240100
+   SCHMIDT JW, 1988, BIT, V28, P340, DOI 10.1007/BF01934097
+   Sekora M, 2009, Arxiv, DOI [arXiv:0903.4200, 10.48550/arXiv.0903.4200]
+   Shu CW, 2003, INT J COMPUT FLUID D, V17, P107, DOI 10.1080/1061856031000104851
+   Skamarock WC, 2009, MON WEATHER REV, V137, P488, DOI 10.1175/2008MWR2583.1
+   Subbareddy PK, 2017, J COMPUT PHYS, V348, P827, DOI 10.1016/j.jcp.2017.08.001
+   Tadmor E, 2002, FOUND COMPUT MATH, V2, P155, DOI 10.1007/s102080010019
+   TALEZER H, 1991, SIAM J SCI STAT COMP, V12, P648, DOI 10.1137/0912034
+   ULRICH G, 1994, SIAM J SCI COMPUT, V15, P528, DOI 10.1137/0915035
+   Zhang XX, 2017, J COMPUT PHYS, V328, P301, DOI 10.1016/j.jcp.2016.10.002
+   Zhang XX, 2012, J COMPUT PHYS, V231, P2245, DOI 10.1016/j.jcp.2011.11.020
+NR 46
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD MAR
+PY 2024
+VL 50
+IS 1
+AR 8
+DI 10.1145/3632291
+PG 31
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OP9C8
+UT WOS:001208587300008
+OA hybrid
+DA 2024-08-05
+ER
+
+PT J
+AU Scott, J
+   Tuma, M
+AF Scott, Jennifer
+   Tuma, Miroslav
+TI Avoiding Breakdown in Incomplete Factorizations in Low Precision
+   Arithmetic
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Sparse matrices; sparse linear systems; preconditioning; incomplete
+   factorizations; half precision arithmetic; mixed precision arithmetic;
+   iterative refinement
+ID MIXED-PRECISION; ITERATIVE REFINEMENT; LINEAR-SYSTEMS; GMRES; MATRIX;
+   EQUATIONS
+AB The emergence of low precision floating-point arithmetic in computer hardware has led to a resurgence of interest in the use of mixed precision numerical linear algebra. For linear systems of equations, there has been renewed enthusiasm for mixed precision variants of iterative refinement. We consider the iterative solution of large sparse systems using incomplete factorization preconditioners. The focus is on the robust computation of such preconditioners in half precision arithmetic and employing them to solve symmetric positive definite systems to higher precision accuracy; however, the proposed ideas can be applied more generally. Even for well-conditioned problems, incomplete factorizations can break down when small entries occur on the diagonal during the factorization. When using half precision arithmetic, overflows are an additional possible source of breakdown. We examine how breakdowns can be avoided and implement our strategies within new half precision Fortran sparse incomplete Cholesky factorization software. Results are reported for a range of problems from practical applications. These demonstrate that, even for highly ill-conditioned problems, half precision preconditioners can potentially replace double precision preconditioners, although unsurprisingly this may be at the cost of additional iterations of a Krylov solver.
+C1 [Scott, Jennifer] Rutherford Appleton Lab, STFC, Harwell Campus, Didcot, Oxon, England.
+   [Scott, Jennifer] Univ Reading, Reading, Berks, England.
+   [Tuma, Miroslav] Charles Univ Prague, Fac Math & Phys, Dept Numer Math, Prague, Czech Republic.
+C3 UK Research & Innovation (UKRI); Science & Technology Facilities Council
+   (STFC); STFC Rutherford Appleton Laboratory; University of Reading;
+   Charles University Prague
+RP Scott, J (corresponding author), Rutherford Appleton Lab, STFC, Harwell Campus, Didcot, Oxon, England.; Scott, J (corresponding author), Univ Reading, Reading, Berks, England.
+EM jennifer.scott@stfc.ac.uk; mirektuma@karlin.mff.cuni.cz
+CR Abdelfattah A, 2021, INT J HIGH PERFORM C, V35, P344, DOI 10.1177/10943420211003313
+   Amestoy P, 2024, SIAM J MATRIX ANAL A, V45, P529, DOI 10.1137/23M1549079
+   Amestoy P, 2023, ACM T MATH SOFTWARE, V49, DOI 10.1145/3582493
+   Amestoy PR, 2000, COMPUT METHOD APPL M, V184, P501, DOI 10.1016/S0045-7825(99)00242-X
+   Arioli M, 2007, SIAM J SCI COMPUT, V29, P2024, DOI 10.1137/060661545
+   Arioli M, 2008, ELECTRON T NUMER ANA, V33, P31
+   Baboulin M, 2009, COMPUT PHYS COMMUN, V180, P2526, DOI 10.1016/j.cpc.2008.11.005
+   Benzi M, 2002, J COMPUT PHYS, V182, P418, DOI 10.1006/jcph.2002.7176
+   Benzi M, 1996, SIAM J SCI COMPUT, V17, P1135, DOI 10.1137/S1064827594271421
+   Buttari A., 2007, Technical Report MIMS EPrint: 2007.93
+   Buttari A, 2007, INT J HIGH PERFORM C, V21, P457, DOI 10.1177/1094342007084026
+   Buttari A, 2008, ACM T MATH SOFTWARE, V34, DOI 10.1145/1377596.1377597
+   Carson E, 2023, SIAM J SCI COMPUT, V45, pC131, DOI 10.1137/22M1487709
+   Carson E, 2020, SIAM J SCI COMPUT, V42, pA4063, DOI 10.1137/20M1316822
+   Carson E, 2018, SIAM J SCI COMPUT, V40, pA817, DOI 10.1137/17M1140819
+   Carson E, 2017, SIAM J SCI COMPUT, V39, pA2834, DOI 10.1137/17M1122918
+   Chan T. F., 1997, Parallel Numerical Algorithms, ICASE/LaRC Interdisciplinary Series in Science and Engineering, V4, P167, DOI [DOI 10.1007/978-94-011-5412, 10.1007/978-94-011-]
+   Demmel J, 2006, ACM T MATH SOFTWARE, V32, P325, DOI 10.1145/1141885.1141894
+   Greenbaum A, 1997, SIAM J MATRIX ANAL A, V18, P535, DOI 10.1137/S0895479895284944
+   Grote MJ, 1997, SIAM J SCI COMPUT, V18, P838, DOI 10.1137/S1064827594276552
+   Higham NJ, 2022, ACTA NUMER, V31, P347, DOI 10.1017/S0962492922000022
+   Higham NJ, 2021, SIAM J SCI COMPUT, V43, pA258, DOI 10.1137/19M1298263
+   Higham NJ, 2019, SIAM J SCI COMPUT, V41, pC585, DOI 10.1137/19M1251308
+   Higham NJ, 2019, SIAM J SCI COMPUT, V41, pA2536, DOI 10.1137/18M1229511
+   Higham Nicholas J., 2002, SIAM, Vsecond, DOI 10.1137/1.9780898718027
+   Hogg JD, 2010, ACM T MATH SOFTWARE, V37, DOI 10.1145/1731022.1731027
+   HSL, 2023, HSL. A Collection of Fortran Codes for Large-Scale Scientific Computation
+   Hysom D., 1999, Proceedings of the 1999 ACM/IEEE conference on Supercomputing (CDROM) - Supercomputing'99, P1, DOI DOI 10.1145/331532.331561
+   JONES MT, 1995, ACM T MATH SOFTWARE, V21, P5, DOI 10.1145/200979.200981
+   KERSHAW DS, 1978, J COMPUT PHYS, V26, P43, DOI 10.1016/0021-9991(78)90098-0
+   Knight PA, 2014, SIAM J MATRIX ANAL A, V35, P931, DOI 10.1137/110825753
+   Kurzak J, 2007, CONCURR COMP-PRACT E, V19, P1371, DOI 10.1002/cpe.1164
+   Langou J., 2006, Proceedings of the ACM/IEEE SC 2006 Conference, P50, DOI [10.1109/SC.2006.30, DOI 10.1109/SC.2006.30]
+   Lin CJ, 1999, SIAM J SCI COMPUT, V21, P24, DOI 10.1137/S1064827597327334
+   Lindquist N., 2020, P DRIV SCI ENG DISC, P51
+   Lindquist N, 2022, IEEE T PARALL DISTR, V33, P1027, DOI 10.1109/TPDS.2021.3090757
+   Loe JA, 2021, 2021 IEEE INTERNATIONAL PARALLEL AND DISTRIBUTED PROCESSING SYMPOSIUM WORKSHOPS (IPDPSW), P469, DOI 10.1109/IPDPSW52791.2021.00078
+   MANTEUFFEL TA, 1980, MATH COMPUT, V34, P473, DOI 10.2307/2006097
+   McCormick SF, 2021, SIAM J SCI COMPUT, V43, pS392, DOI 10.1137/20M1348571
+   MEIJERINK JA, 1977, MATH COMPUT, V31, P148, DOI 10.2307/2005786
+   MUNKSGAARD N, 1980, ACM T MATH SOFTWARE, V6, P206, DOI 10.1145/355887.355893
+   Ruiz D., 2001, Technical Report RAL-TR- 2001-034
+   Ruiz D., 2011, Technical Report INRIA RR-7552
+   SAAD Y, 1993, SIAM J SCI COMPUT, V14, P461, DOI 10.1137/0914028
+   Saad Y, 2003, Iterative Methods for Sparse Linear Systems
+   Scott J, 2014, ACM T MATH SOFTWARE, V40, DOI 10.1145/2617555
+   Scott J, 2011, BIT, V51, P385, DOI 10.1007/s10543-010-0299-8
+   WATTS JW, 1981, SOC PETROL ENG J, V21, P345, DOI 10.2118/8252-PA
+   Zounon M, 2022, PEERJ COMPUT SCI, V8, DOI 10.7717/peerj-cs.778
+NR 49
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD JUN
+PY 2024
+VL 50
+IS 2
+AR 9
+DI 10.1145/3651155
+PG 25
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YF1P6
+UT WOS:001266982400001
+OA Green Submitted, Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Piazzola, C
+   Tamellini, L
+AF Piazzola, Chiara
+   Tamellini, Lorenzo
+TI Algorithm 1040: The Sparse Grids Matlab Kit - a Matlab implementation of
+   sparse grids for high-dimensional function approximation and uncertainty
+   quantification
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE High-dimensional functions; uncertainty quantification; sparse grids;
+   reduced order modeling; surrogate modeling
+ID PARTIAL-DIFFERENTIAL-EQUATIONS; STOCHASTIC COLLOCATION METHOD;
+   POLYNOMIAL CHAOS EXPANSIONS; GLOBAL SENSITIVITY-ANALYSIS; BAYESIAN
+   INVERSE PROBLEMS; COMPUTATIONAL FRAMEWORK; CONVERGENCE; INTERPOLATION;
+   COMPACTION
+AB The Sparse Grids Matlab Kit provides a Matlab implementation of sparse grids, and can be used for approximating high-dimensional functions and, in particular, for surrogate-model-based uncertainty quantification. It is lightweight, high-level and easy to use, good for quick prototyping and teaching; however, it is equipped with some features that allow its use also in realistic applications. The goal of this paper is to provide an overview of the data structure and of the mathematical aspects forming the basis of the software, as well as comparing the current release of our package to similar available software.
+C1 [Piazzola, Chiara] Tech Univ Munich, Dept Math, Boltzmannstr 3, D-85748 Garching, Germany.
+   [Piazzola, Chiara; Tamellini, Lorenzo] CNR, Ist Matemat Applicata Tecnol Informat E Magenes, Via Ferrata 5-A, I-27100 Pavia, Italy.
+C3 Technical University of Munich; Consiglio Nazionale delle Ricerche
+   (CNR); Istituto di Matematica Applicata e Tecnologie Informatiche
+   "Enrico Magenes" (IMATI-CNR)
+RP Piazzola, C (corresponding author), Tech Univ Munich, Dept Math, Boltzmannstr 3, D-85748 Garching, Germany.; Piazzola, C (corresponding author), CNR, Ist Matemat Applicata Tecnol Informat E Magenes, Via Ferrata 5-A, I-27100 Pavia, Italy.
+EM chiara.piazzola@tum.de; tamellini@imati.cnr.it
+RI Piazzola, Chiara/ABA-3667-2020; Tamellini, Lorenzo/O-5027-2015
+OI Piazzola, Chiara/0000-0001-6750-7111; Tamellini,
+   Lorenzo/0000-0002-8008-0359
+FU PRIN 2017 project [201752HKH8]; ICSC-Centro Nazionale di Ricerca in High
+   Performance Computing, Big Data, and Quantum Computing - European
+   Union-NextGenerationEU; Alexander von Humboldt Foundation
+FX Lorenzo Tamellini and Chiara Piazzola have been supported by the PRIN
+   2017 project 201752HKH8 "Numerical Analysis for Full and Reduced Order
+   Methods for the efficient and accurate solution of complex systems
+   governed by Partial Differential Equations (NA-FROM-PDEs)". Lorenzo
+   Tamellini has been partially supported by ICSC-Centro Nazionale di
+   Ricerca in High Performance Computing, Big Data, and Quantum Computing
+   funded by European Union-NextGenerationEU. Chiara Piazzola has been also
+   supported by the Alexander von Humboldt Foundation.
+CR Archer GEB, 1997, J STAT COMPUT SIM, V58, P99, DOI 10.1080/00949659708811825
+   Baudin M., 2017, OpenTURNS: An Industrial Software for Uncertainty Quantification in Simulation, P1, DOI [10.1007/978-3-319-11259-6_64-1, DOI 10.1007/978-3-319-11259-6_64-1]
+   Bck J., 2011, Spectral and High Order Methods for Partial Differential Equations, P43
+   Blanchard JB, 2019, EPJ NUCL SCI TECHNOL, V5, DOI 10.1051/epjn/2018050
+   Blatman G, 2011, J COMPUT PHYS, V230, P2345, DOI 10.1016/j.jcp.2010.12.021
+   Bungartz HJ, 2004, ACT NUMERIC, V13, P147, DOI 10.1017/S0962492904000182
+   Cacuci D.G., 2003, SENSITIVITY UNCERTAI, V1, DOI DOI 10.1201/9780203498798
+   Chiappetta M, 2023, INT J MECH SCI, V256, DOI 10.1016/j.ijmecsci.2023.108476
+   Chkifa A, 2014, FOUND COMPUT MATH, V14, P601, DOI 10.1007/s10208-013-9154-z
+   Chkifa A, 2013, ESAIM-MATH MODEL NUM, V47, P253, DOI 10.1051/m2an/2012027
+   Colombo I, 2018, COMPUT METHOD APPL M, V328, P122, DOI 10.1016/j.cma.2017.08.049
+   Constantine PG, 2012, COMPUT METHOD APPL M, V229, P1, DOI 10.1016/j.cma.2012.03.019
+   Constantine PG, 2015, Active subspaces: Emerging ideas for dimension reduction in parameter studies, DOI DOI 10.1137/1.9781611973860
+   Debusschere Bert, 2017, Proceedings of the Handbook of Uncertainty Quantification, P1807, DOI DOI 10.1007/978-3-319-12385
+   Debusschere BJ, 2004, SIAM J SCI COMPUT, V26, P698, DOI 10.1137/S1064827503427741
+   Eftekhari A, 2022, SIAM J SCI COMPUT, V44, pC210, DOI 10.1137/21M1392231
+   EIGEL M, 2022, SIAM J NUMER ANAL, V60, P659, DOI 10.1137/20M1364722
+   Ernst OG, 2018, SIAM J NUMER ANAL, V56, P877, DOI 10.1137/17M1123079
+   Ernst OG, 2012, ESAIM-MATH MODEL NUM, V46, P317, DOI 10.1051/m2an/2011045
+   Feinberg J, 2018, SIAM J SCI COMPUT, V40, pA199, DOI 10.1137/15M1020447
+   Feinberg J, 2015, J COMPUT SCI-NETH, V11, P46, DOI 10.1016/j.jocs.2015.08.008
+   Feischl M, 2021, COMPUT MATH APPL, V98, P139, DOI 10.1016/j.camwa.2021.07.001
+   Formaggia L, 2013, COMPUTAT GEOSCI, V17, P25, DOI 10.1007/s10596-012-9311-5
+   Gautschi W., 2004, ORTHOGONAL POLYNOMIA, DOI [10.1093/oso/9780198506720.001.0001, DOI 10.1093/OSO/9780198506720.001.0001]
+   Genz A, 1996, J COMPUT APPL MATH, V71, P299, DOI 10.1016/0377-0427(95)00232-4
+   Gerstner T, 2003, COMPUTING, V71, P65, DOI 10.1007/s00607-003-0015-5
+   Ghanem R, 2017, Handbook of Uncertainty Quantification, DOI DOI 10.1007/978-3-319-12385-1
+   GRIEBEL M, 1992, ITERATIVE METHODS IN LINEAR ALGEBRA, P263
+   Guignard D, 2018, SIAM J NUMER ANAL, V56, P3121, DOI 10.1137/17M1155454
+   Hampton J, 2015, J COMPUT PHYS, V280, P363, DOI 10.1016/j.jcp.2014.09.019
+   Hu K., 2021, Dakota, a Multilevel Parallel Object-Oriented Framework for Design Optimization, Parameter Estimation, Uncertainty Quantification, DOI [10.2172/1829573, DOI 10.2172/1829573]
+   Jakeman JD, 2023, ENVIRON MODELL SOFTW, V170, DOI 10.1016/j.envsoft.2023.105825
+   Kim KT, 2023, ACM T MATH SOFTWARE, V49, DOI 10.1145/3580278
+   Klimke A, 2005, ACM T MATH SOFTWARE, V31, P561, DOI 10.1145/1114268.1114275
+   Klimke A., 2008, Technical Report 2007/17
+   Klimke A., 2006, Ph.D. Dissertation
+   Ma X, 2010, J COMPUT PHYS, V229, P3884, DOI 10.1016/j.jcp.2010.01.033
+   Marelli Stefano, 2014, Vulnerability, Uncertainty, and Risk. Quantification, Mitigation, and Management. Second International Conference on Vulnerability and Risk Analysis and Management (ICVRAM) and the Sixth International Symposium on Uncertainty Modeling and Analysis (ISUMA). Proceedings, P2554
+   Martinez-Frutos J., 2018, Optimal Control of PDEs under Uncertainty: An Introduction with Application to Optimal Shape Design of Structures, DOI [10.1007/978-3-319-98210-6, DOI 10.1007/978-3-319-98210-6]
+   Morrow Z, 2020, SIAM J SCI COMPUT, V42, pA2436, DOI 10.1137/19M1283483
+   Narayan A, 2023, COMPUT BIOL MED, V152, DOI 10.1016/j.compbiomed.2022.106407
+   Narayan A, 2014, SIAM J SCI COMPUT, V36, pA2952, DOI 10.1137/140966368
+   Nelsen R., 2006, An Introduction to Copulas, DOI DOI 10.1007/0-387-28678-0
+   Nobile F, 2008, SIAM J NUMER ANAL, V46, P2411, DOI 10.1137/070680540
+   Nobile F, 2008, SIAM J NUMER ANAL, V46, P2309, DOI 10.1137/060663660
+   Nobile F, 2016, NUMER MATH, V134, P343, DOI 10.1007/s00211-015-0773-y
+   Nobile F, 2016, LECT NOTES COMP SCI, V109, P191, DOI 10.1007/978-3-319-28262-6_8
+   Obersteiner M, 2021, SIAM J SCI COMPUT, V43, pA2381, DOI 10.1137/20M1325885
+   Parno M., 2021, J OPEN SOURCE SOFTW, V6, P3076, DOI [DOI 10.21105/JOSS.03076, 10.21105/joss.03076]
+   Petra N, 2014, SIAM J SCI COMPUT, V36, pA1525, DOI 10.1137/130934805
+   Pflüger D, 2010, J COMPLEXITY, V26, P508, DOI 10.1016/j.jco.2010.04.001
+   Pfluger D., 2010, SPATIALLY ADAPTIVE S
+   Piazzola C., 2023, The Sparse Grids Matlab Kit user manual-v. 23-5 Robert
+   Piazzola C., 2023, About us
+   Piazzola C, 2023, ENG COMPUT-GERMANY, V39, P2209, DOI 10.1007/s00366-021-01588-0
+   Piazzola C, 2021, MATH BIOSCI, V332, DOI 10.1016/j.mbs.2020.108514
+   Quarteroni A., 2007, Texts in Applied Mathematics, V37, DOI [10.1007/b98885, DOI 10.1007/B98885]
+   Rehme MF, 2021, RELIAB ENG SYST SAFE, V209, DOI 10.1016/j.ress.2021.107430
+   Schillings C, 2013, INVERSE PROBL, V29, DOI 10.1088/0266-5611/29/6/065011
+   Seelinger L., 2023, J. of Open Source Soft, V8, DOI DOI 10.21105/JOSS.04748
+   Seelinger L, 2023, Arxiv, DOI arXiv:2304.14087
+   Shen J, 2010, SIAM J NUMER ANAL, V48, P1087, DOI 10.1137/090765547
+   Smith R.C., 2013, UNCERTAINTY QUANTIFI, V12, DOI DOI 10.1137/1.9781611973228
+   Sobol IM, 2001, MATH COMPUT SIMULAT, V55, P271, DOI 10.1016/S0378-4754(00)00270-6
+   Stoyanov M., 2015, Technical Report ORNL/TM-2015/596
+   Stoyanov M, 2018, LECT NOTES COMP SCI, V123, P175, DOI 10.1007/978-3-319-75426-0_8
+   Stoyanov MK, 2016, COMPUT MATH APPL, V71, P2449, DOI 10.1016/j.camwa.2015.12.045
+   Stuart AM, 2010, ACTA NUMER, V19, P451, DOI 10.1017/S0962492910000061
+   Sudret B, 2008, RELIAB ENG SYST SAFE, V93, P964, DOI 10.1016/j.ress.2007.04.002
+   Szego G., 1939, Orthogonal Polynomials, DOI DOI 10.1090/COLL/023
+   Tan BT, 2013, SIAM J SCI COMPUT, V35, pA2494, DOI 10.1137/12089586X
+   Trefethen LN, 2008, SIAM REV, V50, P67, DOI 10.1137/060659831
+   WASILKOWSKI GW, 1995, J COMPLEXITY, V11, P1, DOI 10.1006/jcom.1995.1001
+   Xiu DB, 2002, SIAM J SCI COMPUT, V24, P619, DOI 10.1137/S1064827501387826
+   Xiu DB, 2007, COMMUN COMPUT PHYS, V2, P293
+NR 75
+TC 1
+Z9 1
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD MAR
+PY 2024
+VL 50
+IS 1
+AR 7
+DI 10.1145/3630023
+PG 22
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OP9C8
+UT WOS:001208587300007
+DA 2024-08-05
+ER
+
+PT J
+AU Beaumont, O
+   Eyraud-Dubois, L
+   Herrmann, J
+   Joly, A
+   Shilova, A
+AF Beaumont, Olivier
+   Eyraud-Dubois, Lionel
+   Herrmann, Julien
+   Joly, Alexis
+   Shilova, Alena
+TI Optimal Re-Materialization Strategies for Heterogeneous Chains: How to
+   Train Deep Neural Networks with Limited Memory
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Checkpointing; re-materialization; dynamic programming; convolutional
+   neural networks; memory
+AB Training in Feed Forward Deep Neural Networks is a memory-intensive operation which is usually performed on GPUs with limited memory capacities. This may force data scientists to limit the depth of the models or the resolution of the input data if data does not fit in the GPU memory. The re-materialization technique, whose idea comes from the checkpointing strategies developed in the Automatic Differentiation literature, allows data scientists to limit the memory requirements related to the storage of intermediate data (activations), at the cost of an increase in the computational cost.
+   This paper introduces a new strategy of re-materialization of activations that significantly reduces memory usage. It consists in selecting which activations are saved and which activations are deleted during the forward phase and then recomputing the deleted activations when they are needed during the backward phase.
+   We propose an original computation model that combines two types of activation savings: either only storing the layer inputs or recording the complete history of operations that produced the outputs. This paper focuses on the fully heterogeneous case, where the computation time and the memory requirement of each layer is different. We prove that finding the optimal solution is NP-hard and that classical techniques from Automatic Differentiation literature do not apply. Moreover, the classical assumption of memory persistence of materialized activations, used to simplify the search of optimal solutions, does not hold anymore. Thus, we propose a weak memory persistence property and provide a dynamic program to compute the optimal sequence of computations.
+   This algorithm is made available through the Rotor software, a PyTorch plug-in dealing with any network consisting of a sequence of layers, each of them having an arbitrarily complex structure. Through extensive experiments, we show that our implementation consistently outperforms existing re-materialization approaches for a large class of networks, image sizes, and batch sizes.
+C1 [Beaumont, Olivier; Eyraud-Dubois, Lionel] Univ Bordeaux, Inria Ctr, Bordeaux, France.
+   [Beaumont, Olivier; Eyraud-Dubois, Lionel] LaBRI, Bordeaux, France.
+   [Herrmann, Julien] CNRS, Paris, France.
+   [Herrmann, Julien] IRIT, Toulouse, France.
+   [Joly, Alexis] Inria Sophia Antipolis Mediterranee, Montpellier, France.
+   [Joly, Alexis] Univ Montpellier, Montpellier, France.
+   [Shilova, Alena] Univ Lille, CNRS, Cent Lille, Inria,CRIStAL, Lille, France.
+C3 Universite de Bordeaux; Centre National de la Recherche Scientifique
+   (CNRS); Universite de Bordeaux; Centre National de la Recherche
+   Scientifique (CNRS); Universite de Toulouse; Universite Toulouse III -
+   Paul Sabatier; Universite de Montpellier; Inria; Centre National de la
+   Recherche Scientifique (CNRS); Universite de Lille; Centrale Lille
+RP Beaumont, O (corresponding author), Univ Bordeaux, Inria Ctr, Bordeaux, France.; Beaumont, O (corresponding author), LaBRI, Bordeaux, France.
+EM olivier.beaumont@inria.fr; lionel.eyraud-dubois@inria.fr;
+   julien.herrmann@irit.fr; alexis.joly@inria.fr; Alena.Shilova@inria.fr
+CR Aupy G, 2016, SIAM J SCI COMPUT, V38, pC232, DOI 10.1137/15M1019222
+   Beaumont Olivier, 2019, P EUR C PAR PROC
+   Beaumont Olivier, 2021, P ADV NEURAL INFORM, V34, P23844
+   Beaumont Olivier, 2019, Research Report RR- 9273
+   Bulò SR, 2018, PROC CVPR IEEE, P5639, DOI 10.1109/CVPR.2018.00591
+   Carranza-Rojas J, 2017, BMC EVOL BIOL, V17, P1, DOI 10.1186/s12862-017-1014-z
+   Chang B, 2018, AAAI CONF ARTIF INTE, P2811
+   Chen TQ, 2016, Arxiv, DOI arXiv:1604.06174
+   Das Dipankar, 2016, arXiv
+   Dean J., 2012, Advances in Neural Information Processing Systems, P1232
+   Feng JW, 2021, Arxiv, DOI arXiv:1808.00079
+   Feng YF, 2018, PROC CVPR IEEE, P264, DOI 10.1109/CVPR.2018.00035
+   Howard AG, 2017, Arxiv, DOI [arXiv:1704.04861, 10.48550/arXiv.1704.04861]
+   Garey M. R., 1979, Computers and intractability. A guide to the theory of NP-completeness
+   Ghadai S, 2019, IEEE COMPUT SOC CONF, P1152, DOI [10.1109/CVPRW.2019.00150, 10.1109/cvprw.2019.00150]
+   Gomez Aidan N., 2017, P ADV NEURAL INFORM, P2214
+   Goyal Priya, 2018, PyTorch Memory Optimizations via Gradient Checkpointing
+   Griewank A, 2000, ACM T MATH SOFTWARE, V26, P19, DOI 10.1145/347837.347846
+   Griewank A, 1989, MATH PROGRAMMING REC, P83
+   Griewank A, 2008, OTHER TITL APPL MATH, V105, P1
+   Gruslys A, 2016, ADV NEUR IN, V29
+   Han S, 2016, Arxiv, DOI [arXiv:1510.00149, 10.48550/arXiv.1510.00149]
+   Hara K, 2018, PROC CVPR IEEE, P6546, DOI 10.1109/CVPR.2018.00685
+   He KM, 2016, LECT NOTES COMPUT SC, V9908, P630, DOI 10.1007/978-3-319-46493-0_38
+   HiePACS team, 2019, Rotor
+   Huang YP, 2019, ADV NEUR IN, V32
+   Hubara I, 2018, J MACH LEARN RES, V18
+   Ioffe S, 2015, Arxiv, DOI [arXiv:1502.03167, DOI 10.48550/ARXIV.1502.03167, 10.48550/arXiv.1502.03167]
+   Jain P, 2020, Arxiv, DOI arXiv:1910.02653
+   Kirisame Marisa, 2020, arXiv
+   Kumar Ravi, 2019, P ADV NEURAL INFORM, P15146
+   Kusumoto M, 2019, Arxiv, DOI arXiv:1905.11722
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Lotz Johannes, 2016, P 7 SIAM WORKSH COMB, P83
+   Narayanan D, 2019, PROCEEDINGS OF THE TWENTY-SEVENTH ACM SYMPOSIUM ON OPERATING SYSTEMS PRINCIPLES (SOSP '19), P1, DOI 10.1145/3341301.3359646
+   Naumann U, 2009, J DISCRET ALGORITHMS, V7, P402, DOI 10.1016/j.jda.2008.09.008
+   Naumann Uwe, 2008, Proceedings of the Advances in Automatic Differentiation, P13
+   Pleiss G, 2017, Arxiv, DOI arXiv:1707.06990
+   Pytorch Contributors, 2018, Periodic Checkpointing in PyTorch
+   Rasley J, 2020, KDD '20: PROCEEDINGS OF THE 26TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, P3505, DOI 10.1145/3394486.3406703
+   Rastegari M, 2016, LECT NOTES COMPUT SC, V9908, P525, DOI 10.1007/978-3-319-46493-0_32
+   Rhu M, 2016, INT SYMP MICROARCH
+   Shou Z, 2017, PROC CVPR IEEE, P1417, DOI 10.1109/CVPR.2017.155
+   Shriram SB, 2019, INT PARALL DISTRIB P, P200, DOI 10.1109/IPDPS.2019.00030
+   Siskind JM, 2018, OPTIM METHOD SOFTW, V33, P1288, DOI 10.1080/10556788.2018.1459621
+   Su H, 2015, IEEE I CONF COMP VIS, P945, DOI 10.1109/ICCV.2015.114
+   Touvron H, 2023, Arxiv, DOI [arXiv:2302.13971, DOI 10.48550/ARXIV.2302.13971]
+   Verhelst Marian, 2017, IEEE Solid-State Circuits Magazine, V9, P55, DOI 10.1109/MSSC.2017.2745818
+   Walther A, 2004, NUMERICAL MATHEMATICS AND ADVANCED APPLICATIONS, PROCEEDINGS, P834
+   Zhang X, 2018, PROC CVPR IEEE, P6848, DOI 10.1109/CVPR.2018.00716
+NR 50
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD JUN
+PY 2024
+VL 50
+IS 2
+AR 10
+DI 10.1145/3648633
+PG 38
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YF1P6
+UT WOS:001266982400002
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Helwig, J
+   Dasgupta, S
+   Zhao, P
+   Mallick, BK
+   Pati, D
+AF Helwig, Jacob
+   Dasgupta, Sutanoy
+   Zhao, Peng
+   Mallick, Bani K.
+   Pati, Debdeep
+TI Algorithm 1045: A Covariate-Dependent Approach to Gaussian Graphical
+   Modeling in R
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Gaussian graphical models; variational inference; structure learning;
+   pseudo-likelihood; heterogeneous graphs
+ID BAYESIAN VARIABLE SELECTION; VARIATIONAL INFERENCE; JOINT ESTIMATION;
+   NETWORKS
+AB Graphical models are used to capture complex multivariate relationships and have applications in diverse disciplines such as biology, physics, and economics. Within this field, Gaussian graphical models aim to identify the pairs of variables whose dependence is maintained even after conditioning on the remaining variables in the data, known as the conditional dependence structure of the data. There are many existing software packages for Gaussian graphical modeling, however, they often make restrictive assumptions that reduce their flexibility for modeling data that are not identically distributed. Conversely, covdepGE is an R implementation of a variational weighted pseudo-likelihood algorithm for modeling the conditional dependence structure as a continuous function of an extraneous covariate. To build on the efficiency of this algorithm, covdepGE leverages parallelism and C++ integration with R. Additionally, covdepGE provides fully-automated and data-driven hyperparameter specification while maintaining flexibility for the user to decide key components of the estimation procedure. Through an extensive simulation study spanning diverse settings, covdepGE is demonstrated to be top of its class in recovering the ground truth conditional dependence structure while efficiently managing computational overhead.
+C1 [Helwig, Jacob] Texas A&M Univ, Dept Comp Sci & Engn, College Stn, TX USA.
+   [Dasgupta, Sutanoy; Mallick, Bani K.; Pati, Debdeep] Texas A&M Univ, Dept Stat, College Stn, TX 77843 USA.
+   [Zhao, Peng] Univ Delaware, Dept Appl Econ & Stat, Newark, DC USA.
+C3 Texas A&M University System; Texas A&M University College Station; Texas
+   A&M University System; Texas A&M University College Station; University
+   of Delaware
+RP Pati, D (corresponding author), Texas A&M Univ, Dept Stat, College Stn, TX 77843 USA.
+EM jacob.a.helwig@tamu.edu; sutanoy@stat.tamu.edu; pzhao@udel.edu;
+   bmallick@stat.tamu.edu; debdeep@stat.tamu.edu
+CR ABRAMSON IS, 1982, ANN STAT, V10, P1217, DOI 10.1214/aos/1176345986
+   Atchadé YF, 2019, J MULTIVARIATE ANAL, V173, P656, DOI 10.1016/j.jmva.2019.03.005
+   BESAG J, 1975, J ROY STAT SOC D-STA, V24, P179, DOI 10.2307/2987782
+   Blei DM, 2017, J AM STAT ASSOC, V112, P859, DOI 10.1080/01621459.2017.1285773
+   Carbonetto P, 2017, Arxiv, DOI [arXiv:1709.06597, 10.48550/arXiv.1709.06597, DOI 10.48550/ARXIV.1709.06597]
+   Carbonetto P, 2012, BAYESIAN ANAL, V7, P73, DOI 10.1214/12-BA703
+   Danaher P, 2014, J R STAT SOC B, V76, P373, DOI 10.1111/rssb.12033
+   Das P, 2020, BIOINFORMATICS, V36, P798, DOI 10.1093/bioinformatics/btz636
+   Dasgupta S, 2023, Arxiv, DOI [arXiv:2303.08979, 10.48550/arXiv.2303.08979, DOI 10.48550/ARXIV.2303.08979]
+   Friedman J, 2008, BIOSTATISTICS, V9, P432, DOI 10.1093/biostatistics/kxm045
+   Friedman J, 2010, J STAT SOFTW, V33, P1, DOI 10.18637/jss.v033.i01
+   Gao C, 2016, ELECTRON J STAT, V10, P1133, DOI 10.1214/16-EJS1135
+   Hao BT, 2018, J MACH LEARN RES, V18
+   Haslbeck JMB, 2020, J STAT SOFTW, V93, DOI 10.18637/jss.v093.i08
+   Jordan MI, 1999, MACH LEARN, V37, P183, DOI 10.1023/A:1007665907178
+   Lauritzen S.L, 1996, Graphical Models
+   Liu CN, 2022, STAT COMPUT, V32, DOI 10.1007/s11222-022-10177-0
+   Liu Han, 2010, Adv Neural Inf Process Syst, V24, P1432
+   Majumdar S, 2022, J MACH LEARN RES, V23, P1
+   Marchetti GM, 2006, J STAT SOFTW, V15
+   Meinshausen N, 2006, ANN STAT, V34, P1436, DOI 10.1214/009053606000000281
+   MITCHELL TJ, 1988, J AM STAT ASSOC, V83, P1023, DOI 10.2307/2290129
+   Ni Y, 2022, J MACH LEARN RES, V23
+   Ni Y, 2019, J AM STAT ASSOC, V114, P184, DOI 10.1080/01621459.2017.1389739
+   Peterson C, 2015, J AM STAT ASSOC, V110, P159, DOI 10.1080/01621459.2014.896806
+   Pournelle G. H., 1953, Journal of Mammalogy, V34, P133, DOI 10.1890/0012-9658(2002)083[1421:SDEOLC]2.0.CO;2
+   Qiu HT, 2016, J R STAT SOC B, V78, P487, DOI 10.1111/rssb.12123
+   Ren MY, 2021, BIOINFORMATICS, V37, P3073, DOI 10.1093/bioinformatics/btab134
+   Ren MY, 2022, BIOMETRICS, V78, P524, DOI 10.1111/biom.13426
+   Scrucca L, 2016, R J, V8, P289
+   Shaddox E, 2018, STAT BIOSCI, V10, P59, DOI 10.1007/s12561-016-9176-6
+   Silverman B., 1986, DENSITY ESTIMATION S, DOI [10.1201/9781315140919, DOI 10.1201/9781315140919]
+   Vinciotti V, 2016, STAT APPL GENET MOL, V15, P193, DOI 10.1515/sagmb-2014-0075
+   Wickham H., 2016, ggplot2: Elegant Graphics for Data Analysis, DOI DOI 10.1007/978-3-319-24277-4
+   Williams Donald, 2020, Journal of Open Source Software, V5, P2111, DOI [10.21105/joss.02111, DOI 10.21105/JOSS.02111]
+   Yang JL, 2020, J COMPUT GRAPH STAT, V29, P191, DOI 10.1080/10618600.2019.1647848
+   Zhang JF, 2023, J AM STAT ASSOC, V118, P2088, DOI 10.1080/01621459.2022.2034632
+NR 37
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD JUN
+PY 2024
+VL 50
+IS 2
+AR 16
+DI 10.1145/3659206
+PG 32
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YF1P6
+UT WOS:001266982400008
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Chowdhary, A
+   Ahmed, SE
+   Attia, A
+AF Chowdhary, Abhijit
+   Ahmed, Shady E.
+   Attia, Ahmed
+TI PyOED: An Extensible Suite for Data Assimilation and Model-Constrained
+   Optimal Design of Experiments
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Optimal experimental design; OED; inverse problems; data assimilation;
+   mathematical software
+ID BAYESIAN EXPERIMENTAL-DESIGN; LINEAR INVERSE PROBLEMS; A-OPTIMAL DESIGN;
+   ALGORITHMS; SOFTWARE; MCMC
+AB This article describes PyOED, a highly extensible scientific package that enables developing and testing model-constrained optimal experimental design (OED) for inverse problems. Specifically, PyOED aims to be a comprehensive Python toolkit for model-constrained OED. The package targets scientists and researchers interested in understanding the details of OED formulations and approaches. It is also meant to enable researchers to experiment with standard and innovative OED technologies with a wide range of test problems (e.g., simulation models). OED, inverse problems (e.g., Bayesian inversion), and data assimilation (DA) are closely related research fields, and their formulations overlap significantly. Thus, PyOED is continuously being expanded with a plethora of Bayesian inversion, DA, and OED methods as well as new scientific simulation models, observation error models, and observation operators. These pieces are added such that they can be permuted to enable testing OED methods in various settings of varying complexities. The PyOED core is completely written in Python and utilizes the inherent object-oriented capabilities; however, the current version of PyOED is meant to be extensible rather than scalable. Specifically, PyOED is developed to "enable rapid development and benchmarking of OED methods with minimal coding effort and to maximize code reutilization." This article provides a brief description of the PyOED layout and philosophy and provides a set of exemplary test cases and tutorials to demonstrate the potential of the package.
+C1 [Chowdhary, Abhijit] North Carolina State Univ, Math Dept, Raleigh, NC USA.
+   [Ahmed, Shady E.] Oklahoma State Univ, Sch Mech & Aerosp Engn, Stillwater, OK USA.
+   [Attia, Ahmed] Argonne Natl Lab, Math & Comp Sci Div, Lemont, IL 60439 USA.
+C3 North Carolina State University; Oklahoma State University System;
+   Oklahoma State University - Stillwater; United States Department of
+   Energy (DOE); Argonne National Laboratory
+RP Attia, A (corresponding author), Argonne Natl Lab, Math & Comp Sci Div, Lemont, IL 60439 USA.
+EM achowdh2@ncsu.edu; shady.ahmed@okstate.edu; aattia@anl.gov
+FU U.S. Department of Energy, Office of Science [DE-AC02-06CH11357]; U.S.
+   Department of Energy, Office of Science, Office of Advanced Scientific
+   Computing Research and Office of Nuclear Physics, Scientific Discovery
+   through Advanced Computing (SciDAC) Program through the FASTMath
+   Institute
+FX This material is based upon work supported by the U.S. Department of
+   Energy, Office of Science, under contract number DE-AC02-06CH11357. This
+   work was supported in part by the U.S. Department of Energy, Office of
+   Science, Office of Advanced Scientific Computing Research and Office of
+   Nuclear Physics, Scientific Discovery through Advanced Computing
+   (SciDAC) Program through the FASTMath Institute. The work of S. E. Ahmed
+   was supported by Argonne National Laboratory during his appointment as a
+   2021 Wallace Givens Associate.
+CR Alexanderian A, 2021, INVERSE PROBL, V37, DOI 10.1088/1361-6420/abe10c
+   Alexanderian A, 2018, SIAM J SCI COMPUT, V40, pA2956, DOI 10.1137/17M115712X
+   Alexanderian A, 2016, SIAM J SCI COMPUT, V38, pA243, DOI 10.1137/140992564
+   Alexanderian A, 2014, SIAM J SCI COMPUT, V36, pA2122, DOI 10.1137/130933381
+   [Anonymous], 1996, PROC SEMINAR PREDICT
+   Asch Mark, 2016, Data Assimilation: Methods, Algorithms, and Applications, Fundamentals of Algorithms, DOI DOI 10.1137/1.9781611974546
+   Aster RC, 2019, PARAMETER ESTIMATION AND INVERSE PROBLEMS, 3RD EDITION
+   Attia A, 2022, SIAM J SCI COMPUT, V44, pB395, DOI 10.1137/21M1404363
+   Attia A, 2023, Arxiv, DOI arXiv:2305.03855
+   Attia A, 2022, SIAM J SCI COMPUT, V44, pA2808, DOI 10.1137/21M1418666
+   Attia A, 2019, GEOSCI MODEL DEV, V12, P629, DOI 10.5194/gmd-12-629-2019
+   Attia A, 2018, INVERSE PROBL, V34, DOI 10.1088/1361-6420/aad210
+   Attia A, 2015, AIMS GEOSCI, V1, P41, DOI 10.3934/geosci.2015.1.41
+   Attia A, 2017, INT J NUMER METH FL, V83, P90, DOI 10.1002/fld.4259
+   Attia A, 2017, INT J NUMER METH FL, V83, P28, DOI 10.1002/fld.4255
+   Attia A, 2015, LECT NOTES COMPUT SC, V8964, P215, DOI 10.1007/978-3-319-25138-7_20
+   Attia Ahmed, 2023, PyOED Documentation
+   Attia Ahmed, 2023, PyOED GitLab Repository
+   Balay Satish, 2022, Technical Report
+   Bannister RN, 2017, Q J ROY METEOR SOC, V143, P607, DOI 10.1002/qj.2982
+   Bardsley JM, 2020, SIAM J SCI COMPUT, V42, pA1317, DOI 10.1137/19M1245220
+   Beck J, 2018, COMPUT METHOD APPL M, V334, P523, DOI 10.1016/j.cma.2018.01.053
+   Beskos A, 2017, J COMPUT PHYS, V335, P327, DOI 10.1016/j.jcp.2016.12.041
+   Bradbury J., 2018, JAX: composable transformations of Python+ NumPy programs
+   Cotter SL, 2013, STAT SCI, V28, P424, DOI 10.1214/13-STS421
+   Daley Roger, 1991, Atmospheric Data Analysis
+   Evensen G, 2009, DATA ASSIMILATION: THE ENSEMBLE KALMAN FILTER, SECOND EDITION, P1, DOI 10.1007/978-3-642-03711-5_1
+   Fedorov V.V., 1972, Theory of optimal experiments
+   Fedorov Valerii, 2000, Handbook of Semidefinite Programming, P511, DOI [10.1007/978-1-4615-4381-717, DOI 10.1007/978-1-4615-4381-717]
+   Flassig Robert J., 2018, 9 VIENN INT C MATH M, P875
+   Flath HP, 2011, SIAM J SCI COMPUT, V33, P407, DOI 10.1137/090780717
+   Foracchia M, 2004, COMPUT METH PROG BIO, V74, P29, DOI 10.1016/S0169-2607(03)00073-7
+   Gerdts M, 2005, OPTIM CONTR APPL MET, V26, P1, DOI 10.1002/oca.751
+   GHIL M, 1991, ADV GEOPHYS, V33, P141, DOI 10.1016/S0065-2687(08)60442-2
+   Haber E, 2008, INVERSE PROBL, V24, DOI 10.1088/0266-5611/24/5/055012
+   Hairer M, 2014, ANN APPL PROBAB, V24, P2455, DOI 10.1214/13-AAP982
+   Han I, 2015, PR MACH LEARN RES, V37, P908
+   Harman Radoslav, 2019, A brief introduction to the R library OptimalDesign
+   Horesh L, 2009, INVERSE PROBL, V25, DOI 10.1088/0266-5611/25/9/095009
+   Huan X, 2014, INT J UNCERTAIN QUAN, V4, P479, DOI 10.1615/Int.J.UncertaintyQuantification.2014006730
+   Huan X, 2013, J COMPUT PHYS, V232, P288, DOI 10.1016/j.jcp.2012.08.013
+   Jakeman John, 2022, Technical Report
+   Kusumo KP, 2022, COMPUT CHEM ENG, V159, DOI 10.1016/j.compchemeng.2022.107680
+   Leyffer S, 2001, COMPUT OPTIM APPL, V18, P295, DOI 10.1023/A:1011241421041
+   Lieberman C, 2014, SIAM J SCI COMPUT, V36, pB427, DOI 10.1137/130928315
+   Lieberman C, 2013, SIAM REV, V55, P493, DOI 10.1137/130913110
+   Long Q, 2013, COMPUT METHOD APPL M, V259, P24, DOI 10.1016/j.cma.2013.02.017
+   Navon Ionel M., 2009, Data Assimilation for Numerical Weather Prediction: A Review, P21, DOI [10.1007/978-3-540-71056-1_2, DOI 10.1007/978-3-540-71056-1_2, DOI 10.1007/978-3-540-71056-12]
+   O'Leary-Roseberry T, 2022, COMPUT METHOD APPL M, V402, DOI 10.1016/j.cma.2022.115730
+   O'Leary-Roseberry T, 2022, COMPUT METHOD APPL M, V388, DOI 10.1016/j.cma.2021.114199
+   Olofsson S, 2019, COMPUT CHEM ENG, V125, P54, DOI 10.1016/j.compchemeng.2019.03.010
+   Petra N., 2011, Model variational inverse problems governed by partial differential equations
+   Pronzato Luc, 2013, Lecture Notes in Statistics, V212, P1
+   Pukelsheim F, 2006, CLASS APPL MATH, V50, P1, DOI 10.1137/1.9780898719109
+   Rasch A, 2009, COMPUT CHEM ENG, V33, P838, DOI 10.1016/j.compchemeng.2008.12.008
+   Rasch Dieter, 2011, Optimal Experimental Design with R
+   Saibaba AK, 2017, NUMER MATH, V137, P353, DOI 10.1007/s00211-017-0880-z
+   Sailer Oliver, 2005, Rnews, V5, P24
+   Sibbald B, 1998, BRIT MED J, V316, P1719, DOI 10.1136/bmj.316.7146.1719
+   Smith R.C., 2013, Uncertainty quantification: theory, implementation, and applications, VVolume 12
+   Stuart AM, 2010, ACTA NUMER, V19, P451, DOI 10.1017/S0962492910000061
+   Tan BT, 2013, SIAM J SCI COMPUT, V35, pA2494, DOI 10.1137/12089586X
+   Tian YS, 2021, Arxiv, DOI arXiv:2104.05959
+   TIERNEY L, 1986, J AM STAT ASSOC, V81, P82, DOI 10.2307/2287970
+   Ucinski D, 2000, INT J CONTROL, V73, P1235, DOI 10.1080/002071700417876
+   Vetra-Carvalho S, 2018, TELLUS A, V70, DOI 10.1080/16000870.2018.1445364
+   Villa U., 2018, Journal of Open Source Software, V3, P30, DOI DOI 10.21105/JOSS.00940
+   Vogel Curtis R., 2002, Computational Methods for Inverse Problems, DOI DOI 10.1137/1.9780898717570
+   Wheeler Bob, 2019, The R Project for Statistical Computing, V0, P1
+   Wu KY, 2023, J SCI COMPUT, V95, DOI 10.1007/s10915-023-02145-1
+NR 70
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD JUN
+PY 2024
+VL 50
+IS 2
+AR 11
+DI 10.1145/3653071
+PG 22
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YF1P6
+UT WOS:001266982400003
+OA Bronze, Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Alkamper, M
+   Magiera, J
+   Rohde, C
+AF Alkamper, Maria
+   Magiera, Jim
+   Rohde, Christian
+TI An Interface-Preserving Moving Mesh in Multiple Space Dimensions
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Moving mesh; local dynamic remeshing; interface tracking; mesh
+   adaptation; Delaunay triangulation
+ID TRACKING METHOD; DELAUNAY; ALGORITHMS
+AB An interface-preserving moving mesh algorithm in two or higher dimensions is presented. It resolves a moving (d - 1)-dimensional manifold directly within the d-dimensional mesh, which means that the interface is represented by a subset of moving mesh cell-surfaces. The underlying mesh is a conforming simplicial partition that fulfills the Delaunay property. The local remeshing algorithms allow for strong interface deformations. We give a proof that the given algorithms preserve the interface after interface deformation and remeshing steps. Originating from various numerical methods, data is attached cell-wise to the mesh. After each remeshing operation, the interface-preserving moving mesh retains valid data by projecting the data to the new mesh cells.
+   An open source implementation of the moving mesh algorithm is available at Reference [1].
+C1 [Alkamper, Maria; Magiera, Jim; Rohde, Christian] Univ Stuttgart, Inst Appl Anal & Numer Simulat, Stuttgart, Germany.
+C3 University of Stuttgart
+RP Alkamper, M (corresponding author), Univ Stuttgart, Inst Appl Anal & Numer Simulat, Stuttgart, Germany.
+EM maria.alkaemper@ians.uni-stuttgart.de;
+   jim.magiera@ians.uni-stuttgart.de; christian.rohde@ians.uni-stuttgart.de
+OI Rohde, Christian/0000-0001-9183-5094
+FU Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)
+   [SFB-TRR 75, 84292822]; DFG under Germany's Excellence Strategy
+   [390740016, EXC 2075]
+FX This work was supported by the Deutsche Forschungsgemeinschaft (DFG,
+   German Research Foundation) through the project SFB-TRR 75 "Droplet
+   dynamics under extreme ambient conditions" with the project number
+   84292822 and the DFG under Germany's Excellence Strategy - EXC 2075 with
+   the project number 390740016.
+CR Alkamper Maria, 2021, Interface Preserving Moving Mesh (Code), DOI [10.18419/darus-1671, DOI 10.18419/DARUS-1671]
+   Alliez Pierre, 2020, CGAL User and Reference Manual
+   [Anonymous], 1999, P 14 COMP FLUID DYN, DOI DOI 10.2514/6.1999-3253
+   BERN M, 1995, PROCEEDINGS OF THE SIXTH ANNUAL ACM-SIAM SYMPOSIUM ON DISCRETE ALGORITHMS, P189
+   Boissonnat JD, 2009, PROCEEDINGS OF THE TWENTY-FIFTH ANNUAL SYMPOSIUM ON COMPUTATIONAL GEOMETRY (SCG'09), P208, DOI 10.1145/1542362.1542403
+   Boissonnat Jean-Daniel, 1998, Algorithmic Geometry, DOI DOI 10.1017/CBO9781139172998
+   Bronnimann H., 2020, CGAL User and Reference Manual, V5.2
+   BROWN KQ, 1979, INFORM PROCESS LETT, V9, P223, DOI 10.1016/0020-0190(79)90074-7
+   CAVENDISH JC, 1985, INT J NUMER METH ENG, V21, P329
+   Chalons C, 2014, SIAM J NUMER ANAL, V52, P554, DOI 10.1137/120897821
+   Chalons C, 2017, ESAIM-MATH MODEL NUM, V51, P1987, DOI 10.1051/m2an/2017027
+   Chalons Christophe, 2018, Springer Proceedings in Mathematics & Statistics, P309, DOI [10.1007/978-3-319-91545-6_25, DOI 10.1007/978-3-319-91545-6_25]
+   Chen L., 2004, P 13 INT MESH ROUNDT, P109
+   Cheng SW, 2000, J ACM, V47, P883, DOI 10.1145/355483.355487
+   CLARKSON KL, 1993, COMP GEOM-THEOR APPL, V3, P185, DOI 10.1016/0925-7721(93)90009-U
+   Dai MZ, 2005, J COMPUT PHYS, V208, P228, DOI 10.1016/j.jcp.2005.02.012
+   de Berg Mark, 2008, Computational Geometry, V3rd, DOI DOI 10.1007/978-3-540-77974-2
+   Delaunay B., 1934, Bulletin of Academy of Sciences of the USSR, V6, P793
+   Devillers O, 2003, SIAM PROC S, P313
+   Devillers O, 2002, INT J COMPUT GEOM AP, V12, P193, DOI 10.1142/S0218195902000815
+   Devillers Olivier, 2009, Research Report RR-7104
+   Du Q, 1999, SIAM REV, V41, P637, DOI 10.1137/S0036144599352836
+   Edelsbrunner H., 2000, Proceedings of the Thirty Second Annual ACM Symposium on Theory of Computing, P273, DOI 10.1145/335305.335338
+   FIELD DA, 1988, COMMUN APPL NUMER M, V4, P709, DOI 10.1002/cnm.1630040603
+   GABRIEL KR, 1969, SYST ZOOL, V18, P259, DOI 10.2307/2412323
+   HARTEN A, 1983, J COMPUT PHYS, V50, P235, DOI 10.1016/0021-9991(83)90066-9
+   Huang WZ, 2011, APPL MATH SCI, V174, P1, DOI 10.1007/978-1-4419-7916-2
+   Jamin Clement., 2020, CGAL User and Reference Manual, V5.2
+   Kettner L, 2008, COMP GEOM-THEOR APPL, V40, P61, DOI 10.1016/j.comgeo.2007.06.003
+   Li XY, 2003, THEOR COMPUT SCI, V296, P145, DOI 10.1016/S0304-3975(02)00437-1
+   Li XY, 2001, SIAM PROC S, P28
+   MEGIDDO N, 1983, SIAM J COMPUT, V12, P759, DOI 10.1137/0212052
+   Perot B, 2003, J COMPUT PHYS, V184, P192, DOI 10.1016/S0021-9991(02)00027-X
+   Pion Sylvain, 2020, CGAL User and Reference Manual
+   Quan SP, 2007, J COMPUT PHYS, V221, P761, DOI 10.1016/j.jcp.2006.06.044
+   Quan SP, 2009, J COMPUT PHYS, V228, P2660, DOI 10.1016/j.jcp.2008.12.029
+   Rider WJ, 1998, J COMPUT PHYS, V141, P112, DOI 10.1006/jcph.1998.5906
+   Rineau Laurent, 2020, CGAL User and Reference Manual
+   Samet H., 2006, Foundations of Multidimensional and Metric Data Structures
+   SANDERS R, 1985, SIAM J NUMER ANAL, V22, P713, DOI 10.1137/0722043
+   Talmor D., 1997, Well-spaced points for numerical methods
+   The CGAL Project, 2020, CGAL User and Reference Manual
+   The CGAL Project, 2020, CGAL User and Reference Manual
+   Tournois J, 2009, PROCEEDINGS OF THE 18TH INTERNATIONAL MESHING ROUNDTABLE, P157, DOI 10.1007/978-3-642-04319-2_10
+   Tournois J, 2009, ACM T GRAPHIC, V28, DOI 10.1145/1531326.1531381
+   Tryggvason G., 2011, DIRECT NUMERICAL SIM, DOI [DOI 10.1017/CBO9780511975264, https://doi.org/10.1017/CBO9780511975264]
+   Tukovic Z., 2008, P 6 INT C CFD OIL GA, P1
+   UNVERDI SO, 1992, J COMPUT PHYS, V100, P25, DOI 10.1016/0021-9991(92)90307-K
+   Yale P., 1968, GEOMETRY SYMMETRY
+   ZALESAK ST, 1979, J COMPUT PHYS, V31, P335, DOI 10.1016/0021-9991(79)90051-2
+NR 50
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD MAR
+PY 2024
+VL 50
+IS 1
+DI 10.1145/3630000
+PG 28
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OP9C8
+UT WOS:001208587300005
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Bréhard, F
+   Brisebarre, N
+   Joldes, M
+   Tucker, W
+AF Brehard, Florent
+   Brisebarre, Nicolas
+   Joldes, Mioara
+   Tucker, Warwick
+TI Efficient and Validated Numerical Evaluation of Abelian Integrals
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Hilbert's 16th problem; Abelian integral; limit cycles; rigorous
+   numerics; trigonometric polynomial interpolation; Newton-like operator
+ID CURVES; SYSTEM; NUMBER; PROOF; TIME
+AB Abelian integrals play a key role in the infinitesimal version of Hilbert's 16th problem. Being able to evaluate such integrals-with guaranteed error bounds-is a fundamental step in computer-aided proofs aimed at this problem. Using interpolation by trigonometric polynomials and quasi-Newton-Kantorovitch validation, we develop a validated numerics method for computing Abelian integrals in a quasi-linear number of arithmetic operations. Our approach is both effective, as exemplified on two practical perturbed integrable systems, and amenable to an implementation in a formal proof assistant, which is key to provide fully reliable computeraided proofs.
+C1 [Brehard, Florent] Univ Lille, CNRS, Cent Lille, UMR 9189,CRIStAL, F-59000 Lille, France.
+   [Brisebarre, Nicolas] Univ Lyon, CNRS, LIP, Inria,AriC, Lyon, France.
+   [Joldes, Mioara] Univ Toulouse, CNRS, LAAS, Toulouse, France.
+   [Tucker, Warwick] Monash Univ, Sch Math, Monash, Vic 3800, Australia.
+C3 Universite de Lille; Centrale Lille; Centre National de la Recherche
+   Scientifique (CNRS); Centre National de la Recherche Scientifique
+   (CNRS); Inria; Centre National de la Recherche Scientifique (CNRS);
+   Universite de Toulouse; Monash University
+RP Bréhard, F (corresponding author), Univ Lille, CNRS, Cent Lille, UMR 9189,CRIStAL, F-59000 Lille, France.
+EM florent.brehard@univ-lille.fr; nicolas.brisebarre@ens-lyon.fr;
+   joldes@laas.fr; warwick.tucker@monash.edu
+OI Tucker, Warwick Bryan/0000-0001-9888-944X
+FU French national research agency (ANR) [ANR-20-CE48-0014,
+   ANR-10-LABX-0070, ANR-11-IDEX-0007]; Swedish Research Council
+   [VR-2018-04265]
+FX This work was partially funded by the NuSCAP (ANR-20-CE48-0014) project
+   of the French national research agency (ANR), by the LABEX MILYON
+   (ANR-10-LABX-0070) of Universite de Lyon, within the program
+   "Investissements d'Avenir" (ANR-11-IDEX-0007) operated by the French
+   National Research Agency (ANR), and by the Swedish Research Council
+   (VR-2018-04265).
+CR ABHYANKAR SS, 1989, LECT NOTES COMPUT SC, V358, P274
+   Albouy A, 2012, ANN MATH, V176, P535, DOI 10.4007/annals.2012.176.1.10
+   Arnold V. I, 1990, Adv. Soviet Math., V1, P1
+   Arnold VI, 1977, Funct Anal Appl, V11, P85, DOI [10.1007/BF01081886, DOI 10.1007/BF01081886]
+   Bajaj CL, 1997, J COMPUT MATH, V15, P55
+   Beltrán C, 2013, FOUND COMPUT MATH, V13, P253, DOI 10.1007/s10208-013-9143-2
+   Bertot Yves, 2013, INTERACTIVE THEOREM
+   Bezanson J, 2017, SIAM REV, V59, P65, DOI 10.1137/141000671
+   Binyamini G, 2010, INVENT MATH, V181, P227, DOI 10.1007/s00222-010-0244-0
+   Bost Jean-Benoit, 1988, Gaz. Math., V38, P36
+   Brehard Florent, 2019, Ph. D. Dissertation
+   Brisebarre N, 2020, ACM T MATH SOFTWARE, V46, DOI 10.1145/3368619
+   Brisebarre Nicolas, 2010, P INT S SYMB ALG COM, P147, DOI [10.1145/1837934.1837966, DOI 10.1145/1837934.1837966]
+   Cartan H., 1995, Elementary Theory of Analytic Functions of One or SeveralComplex Variables
+   Chen F, 2006, J DIFFER EQUATIONS, V221, P309, DOI 10.1016/j.jde.2005.01.009
+   Christopher C., 2007, Limit Cycles of Differential Equations
+   Cyranka J, 2014, J SCI COMPUT, V59, P28, DOI 10.1007/s10915-013-9749-1
+   Dumortier F, 2003, J DIFFER EQUATIONS, V188, P512, DOI 10.1016/S0022-0396(02)00111-0
+   EHLICH H, 1966, MATH ANN, V164, P105, DOI 10.1007/BF01429047
+   EPSTEIN C, 1982, MATH COMPUT SIMULAT, V24, P1, DOI 10.1016/0378-4754(82)90045-3
+   EPSTEIN C, 1982, MATH COMPUT SIMULAT, V24, P19, DOI 10.1016/0378-4754(82)90046-5
+   Figueras JL, 2017, SIAM J APPL DYN SYST, V16, P834, DOI 10.1137/16M1073790
+   Gao XS, 2004, COMPUT AIDED GEOM D, V21, P805, DOI 10.1016/j.cagd.2004.07.009
+   Harvey D, 2021, ANN MATH, V193, P563, DOI 10.4007/annals.2021.193.2.4
+   Hilbert D., 1900, 2 ICM PARIS 1900, P253
+   Hong H, 1998, J SYMB COMPUT, V26, P279, DOI 10.1006/jsco.1998.0212
+   Hungria A, 2016, MATH COMPUT, V85, P1427, DOI 10.1090/mcom/3046
+   Johansson F, 2018, LECT NOTES COMPUT SC, V10931, P255, DOI 10.1007/978-3-319-96418-8_30
+   Johansson F, 2017, IEEE T COMPUT, V66, P1281, DOI 10.1109/TC.2017.2690633
+   Johnson T, 2011, EXP MATH, V20, P323, DOI 10.1080/10586458.2011.565252
+   Johnson T, 2011, BIT, V51, P653, DOI 10.1007/s10543-011-0318-4
+   Johnson T, 2010, INT J BIFURCAT CHAOS, V20, P63, DOI 10.1142/S0218127410025405
+   Kapela T, 2021, Arxiv, DOI arXiv:2104.08046
+   Kapela T, 2021, COMMUN NONLINEAR SCI, V101, DOI 10.1016/j.cnsns.2020.105578
+   Lairez P, 2019, PROCEEDINGS OF THE 2019 ACM INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND ALGEBRAIC COMPUTATION (ISSAC '19), P259, DOI 10.1145/3326229.3326262
+   LANFORD OE, 1982, B AM MATH SOC, V6, P427, DOI 10.1090/S0273-0979-1982-15008-X
+   Lee JE, 2013, P ROY SOC B-BIOL SCI, V280, DOI 10.1098/rspb.2013.0171
+   Lessard JP, 2018, APPL MATH-CZECH, V63, P219, DOI 10.21136/AM.2018.0082-18
+   Li CZ, 2009, J DIFFER EQUATIONS, V246, P3609, DOI 10.1016/j.jde.2009.01.038
+   Liu GQ, 2010, J COMPUT SYST SCI, V76, P63, DOI 10.1016/j.jcss.2009.05.006
+   Makino K., 2003, International Journal of Pure and Applied Mathematics, V4, P379
+   Martin B, 2013, SIAM J NUMER ANAL, V51, P3373, DOI 10.1137/130906544
+   Moore RE., 1966, Interval Analysis
+   Neumaier A., 2003, Reliable Computing, V9, P43, DOI 10.1023/A:1023061927787
+   Novaes DD, 2017, J MATH ANAL APPL, V448, P171, DOI 10.1016/j.jmaa.2016.10.076
+   Powell M. J. D., 1981, APPROXIMATION THEORY
+   Prohens R, 2019, NONLINEARITY, V32, P331, DOI 10.1088/1361-6544/aae94d
+   Tsitouras C, 2011, COMPUT MATH APPL, V62, P770, DOI 10.1016/j.camwa.2011.06.002
+   Tucker W., 2011, Validated Numerics: a Short Introduction to Rigorous Computations
+   Wilczak D, 2003, J DIFFER EQUATIONS, V194, P433, DOI 10.1016/S0022-0396(03)00104-9
+   Wright GB, 2015, SIAM J SCI COMPUT, V37, pC554, DOI 10.1137/141001007
+   Xu J, 2018, ISSAC'18: PROCEEDINGS OF THE 2018 ACM INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND ALGEBRAIC COMPUTATION, P399, DOI 10.1145/3208976.3209010
+   Yamamoto N, 1998, SIAM J NUMER ANAL, V35, P2004, DOI 10.1137/S0036142996304498
+   Yang HP, 2010, MATH COMPUT SCI, V4, P463, DOI 10.1007/s11786-011-0070-9
+   Zygmund A., 2002, Trigonometric Series, V2, pxii
+NR 55
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD MAR
+PY 2024
+VL 50
+IS 1
+AR 4
+DI 10.1145/3637550
+PG 38
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OP9C8
+UT WOS:001208587300004
+OA Green Submitted
+DA 2024-08-05
+ER
+
+PT J
+AU Chang, TH
+   Watson, LT
+   Leyffer, S
+   Lux, TCH
+   Almohri, HMJ
+AF Chang, Tyler H.
+   Watson, Layne T.
+   Leyffer, Sven
+   Lux, Thomas C. H.
+   Almohri, Hussain M. J.
+TI Remark on Algorithm 1012: Computing Projections with Large Datasets
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Delaunay interpolation; projection; quadratic programming; data skew
+AB In ACM TOMS Algorithm 1012, the DELAUNAYSPARSE software is given for performing Delaunay interpolation in medium to high dimensions. When extrapolating outside the convex hull of the training set, DELAUNAYSPARSE calls the nonnegative least squares solver DWNNLS to compute projections onto the convex hull. However, DWNNLS and many other available sum-of-squares optimization solvers were not intended for usage with many variable problems, which result from the large training sets that are typical in machine learning applications. Thus, a new PROJECT subroutine is given, based on the highly customizable quadratic program solver BQPD. This solution is shown to be as robust as DELAUNAYSPARSE for projection onto both synthetic and real-world datasets, where other available solvers frequently fail. Although it is intended as an update for DELAUNAYSPARSE, due to the difficulty and prevalence of the problem, this solution is likely to be of external interest as well.
+C1 [Chang, Tyler H.; Leyffer, Sven] Argonne Natl Lab, Math & Comp Sci Div, Lemont, IL 60439 USA.
+   [Watson, Layne T.] Virginia Polytech Inst & State Univ, Dept Comp Sci, Blacksburg, VA USA.
+   [Watson, Layne T.] Virginia Polytech Inst & State Univ, Dept Math, Blacksburg, VA USA.
+   [Watson, Layne T.] Virginia Polytech Inst & State Univ, Dept Aerosp, Blacksburg, VA USA.
+   [Watson, Layne T.] Virginia Polytech Inst & State Univ, Dept Ocean Engn, Blacksburg, VA USA.
+   [Lux, Thomas C. H.] Meta, Menlo Pk, CA USA.
+   [Almohri, Hussain M. J.] Kuwait Univ, Dept Comp Sci, Kuwait, Kuwait.
+C3 United States Department of Energy (DOE); Argonne National Laboratory;
+   Virginia Polytechnic Institute & State University; Virginia Polytechnic
+   Institute & State University; Virginia Polytechnic Institute & State
+   University; Virginia Polytechnic Institute & State University; Kuwait
+   University
+RP Chang, TH (corresponding author), Argonne Natl Lab, Math & Comp Sci Div, Lemont, IL 60439 USA.
+EM thchang@vt.edu; ltw@cs.vt.edu; leyffer@anl.gov; tchlux@vt.edu;
+   almohri@cs.ku.edu.kw
+FU U.S. Department of Energy, Office of Science, Advanced Scientific
+   Computing Research [DE-AC02-06CH11357]
+FX This work was supported by the U.S. Department of Energy, Office of
+   Science, Advanced Scientific Computing Research, under Contract
+   DE-AC02-06CH11357.
+CR Chang TH, 2020, ACM T MATH SOFTWARE, V46, DOI 10.1145/3422818
+   Chang TH, 2018, ACMSE '18: PROCEEDINGS OF THE ACMSE 2018 CONFERENCE, DOI 10.1145/3190645.3190680
+   Diamond S, 2016, J MACH LEARN RES, V17
+   Domahidi A, 2013, 2013 EUROPEAN CONTROL CONFERENCE (ECC), P3077
+   EDELSBRUNNER H, 1990, ACM T GRAPHIC, V9, P66, DOI 10.1145/77635.77639
+   Fletcher R., 1993, Annals of Operations Research, V46-47, P307, DOI 10.1007/BF02023102
+   Fletcher R, 2000, MATH PROGRAM, V87, P251, DOI 10.1007/s101070050113
+   HANSON RJ, 1982, ACM T MATH SOFTWARE, V8, P323, DOI 10.1145/356004.356010
+   Lux TCH, 2021, NUMER ALGORITHMS, V88, P281, DOI 10.1007/s11075-020-01040-2
+   O'Donoghue B, 2016, J OPTIMIZ THEORY APP, V169, P1042, DOI 10.1007/s10957-016-0892-3
+   Stellato B, 2020, MATH PROGRAM COMPUT, V12, P637, DOI 10.1007/s12532-020-00179-2
+   Tavallaee M., 2009, PROC IEEE S COMPUT, P6
+NR 12
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD JUN
+PY 2024
+VL 50
+IS 2
+AR 12
+DI 10.1145/3656581
+PG 8
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YF1P6
+UT WOS:001266982400004
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Alaejos, G
+   Castelló, A
+   Alonso-Jordá, P
+   Igual, FD
+   Martínez, H
+   Quintana-Ortí, ES
+AF Alaejos, Guillermo
+   Castello, Adrian
+   Alonso-Jorda, Pedro
+   Igual, Francisco D.
+   Martinez, Hector
+   Quintana-Orti, Enrique S.
+TI Algorithm 1039: Automatic Generators for a Family of Matrix
+   Multiplication Routines with Apache TVM
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Portability and maintainability; software lifecycle; matrix
+   multiplication; BLIS framework; Apache TVM; blocking; SIMD
+   vectorization; high performance
+ID COMPILER
+AB We explore the utilization of the Apache TVM open source framework to automatically generate a family of algorithms that follow the approach taken by popular linear algebra libraries, such as GotoBLAS2, BLIS, and OpenBLAS, to obtain high-performance blocked formulations of the general matrix multiplication (GEMM). In addition, we fully automatize the generation process by also leveraging the Apache TVM framework to derive a complete variety of the processor-specific micro-kernels for GEMM. This is in contrast with the convention in high-performance libraries, which hand-encode a single micro-kernel per architecture using Assembly code. In global, the combination of our TVM-generated blocked algorithms and micro-kernels for GEMM (1) improves portability, maintainability, and, globally, streamlines the software life cycle; (2) provides high flexibility to easily tailor and optimize the solution to different data types, processor architectures, and matrix operand shapes, yielding performance on a par (or even superior for specific matrix shapes) with that of hand-tuned libraries; and (3) features a small memory footprint.
+C1 [Alaejos, Guillermo; Castello, Adrian; Alonso-Jorda, Pedro; Quintana-Orti, Enrique S.] Univ Politecn Valencia, Valencia 46022, Spain.
+   [Igual, Francisco D.] Univ Complutense Madrid, Madrid 28040, Spain.
+   [Martinez, Hector] Univ Cordoba, Cordoba 14071, Spain.
+C3 Universitat Politecnica de Valencia; Complutense University of Madrid;
+   Universidad de Cordoba
+RP Alaejos, G (corresponding author), Univ Politecn Valencia, Valencia 46022, Spain.
+EM galalop@upv.es; adcastel@disca.upv.es; palonso@upv.es; figual@ucm.es;
+   el2mapeh@uco.es; quintana@disca.upv.es
+RI Alonso-Jordá, Pedro/H-4373-2015; Castelló, Adrián/JFJ-2504-2023
+OI Alonso-Jordá, Pedro/0000-0002-6882-6592; Castelló,
+   Adrián/0000-0002-8576-8451; Quintana-Orti, Enrique
+   S./0000-0002-5454-165X; Martinez, Hector/0000-0001-5891-4479
+FU MCIN/AEI [PID2020-113656RB-C22, PID2021-126576NB-I00, FJC2019-039222-I];
+   CM via Multiannual Agreement with Complutense University in the line
+   Program to Stimulate Research for Young Doctors in the context of the V
+   PRICIT [PR65/19-22445, CM S2018/TCS-4423]; Consejeria de Transformacion
+   Economica, Industria, Conocimiento y Universidades de la Junta de
+   Andalucia; European High-Performance Computing Joint Undertaking (JU)
+   [955558]; European Union
+FX This work was supported by the research projects PID2020-113656RB-C22
+   (MCIN/AEI/10.13039/ 501100011033) and PID2021-126576NB-I00; and CM via
+   Multiannual Agreement with Complutense University in the line Program to
+   Stimulate Research for Young Doctors in the context of the V PRICIT
+   under projects PR65/19-22445 and CM S2018/TCS-4423. A. Castello is a
+   FJC2019-039222-I fellow supported by MCIN/AEI/10.13039/ 501100011033. H.
+   Martinez is a postdoctoral fellow supported by the Consejeria de
+   Transformacion Economica, Industria, Conocimiento y Universidades de la
+   Junta de Andalucia. This project has received funding from the European
+   High-Performance Computing Joint Undertaking (JU) under grant agreement
+   No 955558 (eFlows4HPC project). The JU receives support from the
+   European Union's Horizon 2020 research and innovation programme, and
+   Spain, Germany, France, Italy, Poland, Switzerland, and Norway.
+CR Bello I, 2017, PR MACH LEARN RES, V70
+   Ben-Nun T, 2019, ACM COMPUT SURV, V52, DOI 10.1145/3320060
+   Bergstra J, 2012, J MACH LEARN RES, V13, P281
+   Bondhugula U, 2020, Arxiv, DOI arXiv:2003.00532
+   Castelló A, 2022, EUROMICRO WORKSHOP P, P92, DOI 10.1109/PDP55904.2022.00023
+   Chellapilla Kumar, 2006, P INT WORKSH FRONT H
+   Chen TQ, 2018, Arxiv, DOI arXiv:1802.04799
+   Chen TQ, 2019, Arxiv, DOI arXiv:1805.08166
+   Chen TQ, 2016, KDD'16: PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, P785, DOI 10.1145/2939672.2939785
+   Chen TQ, 2018, PROCEEDINGS OF THE 13TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, P579
+   Chetlur S, 2014, Arxiv, DOI [arXiv:1410.0759, 10.48550/arXiv.1410.0759]
+   Dowd K, 1998, HIGH PERFORMANCE COM
+   Goto K, 2008, ACM T MATH SOFTWARE, V34, DOI 10.1145/1356052.1356053
+   Gunnels JA, 2006, LECT NOTES COMPUT SC, V3732, P256
+   Kandasamy K, 2019, Arxiv, DOI arXiv:1802.07191
+   Kang D, 2018, ICCAD-IEEE ACM INT, DOI 10.1145/3240765.3240786
+   Lattner C, 2020, Arxiv, DOI [arXiv:2002.11054, DOI 10.48550/ARXIV.2002.11054]
+   Li MZ, 2021, IEEE T PARALL DISTR, V32, P708, DOI 10.1109/TPDS.2020.3030548
+   Low TM, 2016, ACM T MATH SOFTWARE, V43, DOI 10.1145/2925987
+   Smith TM, 2019, Arxiv, DOI arXiv:1904.05717
+   Mirhoseini A, 2017, PR MACH LEARN RES, V70
+   Moreau T, 2019, Arxiv, DOI arXiv:1807.04188
+   Prajit Ramachandra n, 2017, arXiv
+   Ragan-Kelley J, 2013, ACM SIGPLAN NOTICES, V48, P519, DOI 10.1145/2499370.2462176
+   Sabne Amit, 2020, XLA: Compiling machine learning for peak performance
+   Smith TM, 2014, INT PARALL DISTRIB P, DOI 10.1109/IPDPS.2014.110
+   Sze V, 2017, P IEEE, V105, P2295, DOI 10.1109/JPROC.2017.2761740
+   Van Zee FG, 2016, ACM T MATH SOFTWARE, V42, DOI 10.1145/2755561
+   Van Zee FG, 2015, ACM T MATH SOFTWARE, V41, DOI 10.1145/2764454
+   Whaley RC, 2001, PARALLEL COMPUT, V27, P3, DOI 10.1016/S0167-8191(00)00087-9
+   Wierstra D, 2011, Arxiv, DOI arXiv:1106.4487
+   Yotov K, 2005, P IEEE, V93, P358, DOI 10.1109/JPROC.2004.840444
+   Zhang HQ, 2019, Arxiv, DOI arXiv:1909.10616
+   Zhang XY, 2012, INT C PAR DISTRIB SY, P684, DOI 10.1109/ICPADS.2012.97
+   Zhang Y., 2009, Parallel Solution of Integral Equation-based EM Problems in the Frequency Domain
+   Zoph B, 2017, Arxiv, DOI arXiv:1611.01578
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD MAR
+PY 2024
+VL 50
+IS 1
+AR 6
+DI 10.1145/3638532
+PG 34
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OP9C8
+UT WOS:001208587300006
+DA 2024-08-05
+ER
+
+PT J
+AU Arnaudon, A
+   Schindler, DJ
+   Peach, RL
+   Gosztolai, A
+   Hodges, M
+   Schaub, MT
+   Barahona, M
+AF Arnaudon, Alexis
+   Schindler, Dominik J.
+   Peach, Robert L.
+   Gosztolai, Adam
+   Hodges, Maxwell
+   Schaub, Michael T.
+   Barahona, Mauricio
+TI Algorithm 1044: PyGenStability, a Multiscale Community Detection with
+   Generalized Markov Stability
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Multiscale community detection; unsupervised learning; graphs; network
+   science; generalized Markov Stability; modularity; graph clustering;
+   Louvain algorithm; Leiden algorithm; Python
+AB We present PyGenStability, a general-use Python software package that provides a suite of analysis and visualization tools for unsupervised multiscale community detection in graphs. PyGenStability finds optimized partitions of a graph at different levels of resolution by maximizing the generalized Markov Stability quality function with the Louvain or Leiden algorithm. The package includes automatic detection of robust graph partitions and allows the flexibility to choose quality functions for weighted undirected, directed, and signed graphs and to include other user-defined quality functions.
+C1 [Arnaudon, Alexis; Schindler, Dominik J.; Barahona, Mauricio] Imperial Coll London, Dept Math, London, England.
+   [Peach, Robert L.] Univ Hosp Wurzburg, Dept Neurol, Wurzburg, Germany.
+   [Gosztolai, Adam] Ecole Polytech Fed Lausanne, Signal Proc Lab LTS2, Lausanne, Switzerland.
+   [Hodges, Maxwell] Spotify, London, England.
+   [Schaub, Michael T.] Rhein Westfal TH Aachen, Computat Network Sci Grp, Aachen, Germany.
+   [Gosztolai, Adam] Med Univ Vienna, AI Inst, Vienna, Austria.
+C3 Imperial College London; University of Wurzburg; Swiss Federal
+   Institutes of Technology Domain; Ecole Polytechnique Federale de
+   Lausanne; Spotify; RWTH Aachen University; Medical University of Vienna
+RP Arnaudon, A (corresponding author), Imperial Coll London, Dept Math, London, England.
+EM alexis.arnaudon@imperial.ac.uk; dominik.schindler19@imperial.ac.uk;
+   r.peach13@imperial.ac.uk; a.gosztolai@gmail.com;
+   maxwellhodges@gmail.com; schaub@cs.rwth-aachen.de;
+   m.barahona@imperial.ac.uk
+RI Barahona, Mauricio/C-3638-2008
+OI Barahona, Mauricio/0000-0002-1089-5675; Peach,
+   Robert/0000-0002-8738-5825
+FU EPSRC [EP/N014529/1]; Deutsche Forschungsgemeinschaft (DFG, German
+   Research Foundation) [424778381-TRR 295]; EPSRC (PhD studentship through
+   the Department of Mathematics at Imperial College London); HFSP
+   Cross-disciplinary Postdoctoral Fellowship [LT000669/2020-C]
+FX Alexis Arnaudon, Robert L. Peach, and Mauricio Barahona acknowledge
+   funding through the EPSRC award EP/N014529/1 supporting the EPSRC Centre
+   for Mathematics of Precision Healthcare at Imperial College London.
+   Robert L. Peach acknowledges funding from the Deutsche
+   Forschungsgemeinschaft (DFG, German Research Foundation; Project-ID
+   424778381-TRR 295). Dominik J. Schindler acknowledges support from the
+   EPSRC (PhD studentship through the Department of Mathematics at Imperial
+   College London). Adam Gosztolai acknowledges support from an HFSP
+   Cross-disciplinary Postdoctoral Fellowship (LT000669/2020-C).
+CR Altuncu MT, 2019, APPL NETW SCI, V4, DOI 10.1007/s41109-018-0109-9
+   Bacik KA, 2016, PLOS COMPUT BIOL, V12, DOI 10.1371/journal.pcbi.1005055
+   Beguerisse-Díaz M, 2014, J R SOC INTERFACE, V11, DOI 10.1098/rsif.2014.0940
+   Blondel VD, 2008, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2008/10/P10008
+   Clarke JM, 2019, bioRxiv, DOI [10.1101/619692, 10.1101/619692v1, DOI 10.1101/619692V1]
+   Delmotte A, 2011, PHYS BIOL, V8, DOI 10.1088/1478-3975/8/5/055010
+   Delvenne JC, 2010, P NATL ACAD SCI USA, V107, P12755, DOI 10.1073/pnas.0903215107
+   Delvenne Jean-Charles, 2013, Dynamics On and Of Complex Networks, Volume 2: Applicationsto Time-Varying Dynamical Systems, V2, P221, DOI [10.1007/ 978- 1- 4614- 6729- 8_ 11, 10.1007/978-1-4614-6729-8_11, DOI 10.1007/978-1-4614-6729-8_11]
+   Du Rundong, 2017, Comput Soc Netw, V4, P7, DOI 10.1186/s40649-017-0043-5
+   Fortunato S, 2010, PHYS REP, V486, P75, DOI 10.1016/j.physrep.2009.11.002
+   Girvan M, 2002, P NATL ACAD SCI USA, V99, P7821, DOI 10.1073/pnas.122653799
+   Gómez S, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.016114
+   Gosztolai A, 2021, NAT COMMUN, V12, DOI 10.1038/s41467-021-24884-1
+   Kraskov Alexander, 2003, arXiv
+   Lambiotte R, 2009, Arxiv, DOI [arXiv:0812.1770, 10.48550/arXiv.0812.1770physics.soc-ph, DOI 10.1109/TNSE.2015.2391998]
+   Lambiotte R, 2014, IEEE T NETW SCI ENG, V1, P76, DOI 10.1109/TNSE.2015.2391998
+   Myall AC, 2021, APPL NETW SCI, V6, DOI 10.1007/s41109-021-00376-5
+   Peach RL, 2019, bioRxiv, DOI [10.1101/847426, 10.1101/847426, DOI 10.1101/847426]
+   Peach RL, 2019, NPJ SCI LEARN, V4, DOI 10.1038/s41539-019-0054-0
+   Peel L, 2017, SCI ADV, V3, DOI 10.1126/sciadv.1602548
+   Schaub MT, 2019, PHYS REV E, V99, DOI 10.1103/PhysRevE.99.062308
+   Schaub Michael T, 2017, Appl Netw Sci, V2, P4, DOI 10.1007/s41109-017-0023-6
+   Schaub MT, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0032210
+   Schindler DJ, 2023, ROY SOC OPEN SCI, V10, DOI 10.1098/rsos.230405
+   Schindler Dominik J., 2023, Computational Culture, V9
+   Shi JB, 2000, IEEE T PATTERN ANAL, V22, P888, DOI 10.1109/34.868688
+   Traag VA, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-41695-z
+   Tremblay N, 2014, IEEE T SIGNAL PROCES, V62, P5227, DOI 10.1109/TSP.2014.2345355
+NR 28
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD JUN
+PY 2024
+VL 50
+IS 2
+AR 15
+DI 10.1145/3651225
+PG 8
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YF1P6
+UT WOS:001266982400007
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Drmac, Z
+AF Drmac, Zlatko
+TI A LAPACK Implementation of theDynamic Mode Decomposition
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Dynamic mode decomposition; dynamical systems; LAPACK; Koopman operator;
+   eigenvalues; QR factorization; residuals; singular value decomposition;
+   streaming DMD
+ID JACOBI SVD ALGORITHM; SPECTRAL PROPERTIES; KOOPMAN THEORY; ACCURATE; QR;
+   COMPUTATION; REDUCTION
+AB The Dynamic Mode Decomposition (DMD) is a method for computational analysis of nonlinear dynamical systems in data driven scenarios. Based on high fidelity numerical simulations or experimental data, the DMD can be used to reveal the latent structures in the dynamics or as a forecasting or a model order reduction tool. The theoretical underpinning of the DMD is the Koopman operator on a Hilbert space of observables of the dynamics under study. This paper describes a numerically robust and versatile variant of the DMD and its implementation using the state-of-the-art dense numerical linear algebra software package LAPACK. The features of the proposed software solution include residual bounds for the computed eigenpairs of the DMD matrix, eigenvectors refinements and computation of the eigenvectors of the Exact DMD, compressed DMD for efficient analysis of high dimensional problems that can be easily adapted for fast updates in a streaming DMD. Numerical analysis is the bedrock of numerical robustness and reliability of the software, that is tested following the highest standards and practices of LAPACK. Important numerical topics are discussed in detail and illustrated using numerous numerical examples.
+C1 [Drmac, Zlatko] Univ Zagreb, Fac Sci, Bijenicka 30, Zagreb 10000, Croatia.
+C3 University of Zagreb
+RP Drmac, Z (corresponding author), Univ Zagreb, Fac Sci, Bijenicka 30, Zagreb 10000, Croatia.
+EM drmac@math.hr
+RI Drmac, Zlatko/A-8428-2018
+OI Drmac, Zlatko/0000-0001-6845-332X
+FU DARPA Small Business Innovation Research Program (SBIR) Program Office
+   [W31P4Q-21-C-0007]; DARPA PAI project [HR0011-18-9-0033]; DARPA MoDyL
+   project "A Data-Driven, Operator-Theoretic Framework for Space-Time
+   Analysis of Process Dynamics" [HR0011-16-C-0116]
+FX This material is based upon work supported by the DARPA Small Business
+   Innovation Research Program (SBIR) Program Office under Contract No.
+   W31P4Q-21-C-0007 to AIMdyn, Inc. Any opinions, findings and conclusions
+   or recommendations expressed in this material are those of the author
+   and do not necessarily reflect the views of the DARPA SBIR Program
+   Office. Part of this work was supported by the DARPA PAI project
+   "Physics-Informed Machine Learning Methodologies Contract No:
+   HR0011-18-9-0033 and the DARPA MoDyL project "A Data-Driven,
+   Operator-Theoretic Framework for Space-Time Analysis of Process
+   Dynamics" Contract No: HR0011-16-C-0116. An early version of this paper
+   is available as a LAPACK Working Note 298 [27]. Distribution Statement
+   A: Approved for Public Release, Distribution Unlimited.
+CR Abdelfattah A., 2017, SLATE Working Notes 01, ICL-UT-17-02
+   Akshay S., 2021, Dynamic Mode Decomposition and Its Application in Various Domains: An Overview, P121, DOI [10.1007/978-3-030-35280-6_6, DOI 10.1007/978-3-030-35280-6_6]
+   Alford-Lago DJ, 2022, CHAOS, V32, DOI 10.1063/5.0073893
+   Alla A, 2017, SIAM J SCI COMPUT, V39, pB778, DOI 10.1137/16M1059308
+   Anantharamu S, 2018, A parallel Dynamic Mode Decomposition algorithm using modified Full Orthogonalization Arnoldi for large sequential snapshots, DOI [10.13140/RG.2.2.13624.85764, DOI 10.13140/RG.2.2.13624.85764]
+   Anderson E., 1999, LAPACK Users Guide, V3rd edn, DOI DOI 10.1137/1.9780898719604
+   [Anonymous], 1998, PITMAN RES NOTES MAT
+   Arbabi H, 2017, SIAM J APPL DYN SYST, V16, P2096, DOI 10.1137/17M1125236
+   Arnold D.N., 2018, arXiv, DOI [DOI 10.1137/1.9781611975543,ARXIV:HTTPS://EPUBS.SIAM.ORG/DOI/PDF/10.1137/1.9781611975543, DOI 10.1137/1.9781611974546, 10.1137/1.9781611971484, DOI 10.1137/1.9781611971484, 10.1137/1.9781611974546]
+   Bagheri S, 2013, J FLUID MECH, V726, P596, DOI 10.1017/jfm.2013.249
+   Brunton SL, 2022, SIAM REV, V64, P229, DOI 10.1137/21M1401243
+   Brunton SL, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-00030-8
+   Budisic M, 2012, CHAOS, V22, DOI 10.1063/1.4772195
+   Colbrook MJ, 2024, COMMUN PUR APPL MATH, V77, P221, DOI 10.1002/cpa.22125
+   Colbrook MJ, 2023, J FLUID MECH, V955, DOI 10.1017/jfm.2022.1052
+   DANIEL JW, 1976, MATH COMPUT, V30, P772, DOI 10.2307/2005398
+   Das S, 2021, APPL COMPUT HARMON A, V54, P75, DOI 10.1016/j.acha.2021.02.004
+   Dawson STM, 2016, EXP FLUIDS, V57, DOI 10.1007/s00348-016-2127-7
+   Demmel J, 1999, LINEAR ALGEBRA APPL, V299, P21, DOI 10.1016/S0024-3795(99)00134-2
+   DEMMEL J, 1992, SIAM J MATRIX ANAL A, V13, P1204, DOI 10.1137/0613074
+   Demmel J, 2015, P S COMP ARITHM, P152, DOI 10.1109/ARITH.2015.28
+   Demmel J, 2012, SIAM J SCI COMPUT, V34, pA206, DOI 10.1137/080731992
+   Dhillon I, 1997, ScaLAPACK Users Guide
+   Dongarra J., 2014, Accelerating Numerical Dense Linear Algebra Calculations with GPUs, P3, DOI DOI 10.1007/978-3-319-06548-9_1
+   Drmac Z, 2015, SIAM J SCI COMPUT, V37, pA625, DOI 10.1137/140961511
+   Drmac Z, 1999, IMA J NUMER ANAL, V19, P191, DOI 10.1093/imanum/19.2.191
+   Drmac Z., 2022, Technical Report
+   Drmac Z., ACM Trans. Math. Softw.
+   Drmac Z., 2020, Dynamic Mode DecompositionA Numerical Linear Algebra Perspective, P161, DOI [DOI 10.1007/978-3-030-35713-9_7, 10.1007/978-3-030-35713-9_7]
+   Drmac Z, 2021, MATHEMATICS-BASEL, V9, DOI 10.3390/math9172075
+   Drmac Z, 2018, SIAM J SCI COMPUT, V40, pA2253, DOI 10.1137/17M1144155
+   Drmac Z, 2017, ACM T MATH SOFTWARE, V44, DOI 10.1145/3061709
+   Drmac Z, 2007, SIAM J MATRIX ANAL A, V29, P1322, DOI 10.1137/050639193
+   Drmac Z, 2007, SIAM J MATRIX ANAL A, V29, P1343, DOI 10.1137/05063920X
+   Drmac Zlatko, 2023, arXiv, DOI DOI 10.48550/ARXIV.2312.15837
+   EISENSTAT SC, 1995, SIAM J NUMER ANAL, V32, P1972, DOI 10.1137/0732088
+   Eisner T., 2014, Operator Theoretic Aspects of Ergodic Theory
+   Giannakis D, 2020, PHYSICA D, V402, DOI 10.1016/j.physd.2019.132211
+   Hemati MS, 2014, PHYS FLUIDS, V26, DOI 10.1063/1.4901016
+   Jovanovic M. R., 2012, Annual Research Briefs, P139
+   Jovanovic MR, 2014, PHYS FLUIDS, V26, DOI 10.1063/1.4863670
+   Kamb M, 2020, SIAM J APPL DYN SYST, V19, P886, DOI 10.1137/18M1216572
+   Kevrekidis I., 2016, Journal of Computational Dynamics, V2, P247, DOI [DOI 10.3934/JCD.2015005, 10.3934/jcd.2015005]
+   Korda M, 2017, Arxiv, DOI arXiv:1703.04680
+   Korda M, 2020, APPL COMPUT HARMON A, V48, P599, DOI 10.1016/j.acha.2018.08.002
+   Li QX, 2017, CHAOS, V27, DOI 10.1063/1.4993854
+   Liew J, 2022, WIND ENERGY, V25, P719, DOI 10.1002/we.2694
+   Mezic I, 2005, NONLINEAR DYNAM, V41, P309, DOI 10.1007/s11071-005-2824-x
+   Mezic I, 2023, Arxiv, DOI [arXiv:2304.13601, 10.48550/ arXiv. 2304.13601, DOI 10.48550/ARXIV.2304.13601]
+   Mezic I, 2013, ANNU REV FLUID MECH, V45, P357, DOI 10.1146/annurev-fluid-011212-140652
+   Murray R., 2022, Technical Report 299. LAPACK Working Note
+   Powell M. J. D., 1969, INFORM PROCESSING 68, P122
+   REICHEL L, 1990, ACM T MATH SOFTWARE, V16, P369, DOI 10.1145/98267.98291
+   Rowley CW, 2009, J FLUID MECH, V641, P115, DOI 10.1017/S0022112009992059
+   Schmid P, 2011, THEOR COMP FLUID DYN, V25, P249, DOI 10.1007/s00162-010-0203-9
+   Schmid P. J., 2021, Advanced Approaches in Turbulence, P243, DOI DOI 10.1016/B978-0-12-820774-1.00012-4
+   Schmid PJ, 2022, ANNU REV FLUID MECH, V54, P225, DOI 10.1146/annurev-fluid-030121-015835
+   Schmid PJ, 2011, EXP FLUIDS, V50, P1123, DOI 10.1007/s00348-010-0911-3
+   Schmid PJ, 2010, J FLUID MECH, V656, P5, DOI 10.1017/S0022112010001217
+   SINGH R. K., 1993, Composition operators on function spaces
+   Tomov S., 2010, PARALLEL DISTRIBUTED, P1, DOI [10.1109/IPDPSW.2010.5470941, DOI 10.1109/IPDPSW.2010.5470941]
+   Tomov S, 2010, PARALLEL COMPUT, V36, P232, DOI 10.1016/j.parco.2009.12.005
+   Tu J.H., 2014, Journal of Computational Dynamics, V1, P391, DOI 10.3934/jcd.2014.1.391
+   VANDERSLUIS A, 1969, NUMER MATH, V14, P14, DOI 10.1007/BF02165096
+   Williams MO, 2015, J NONLINEAR SCI, V25, P1307, DOI 10.1007/s00332-015-9258-5
+   Zhang H, 2019, SIAM J APPL DYN SYST, V18, P1586, DOI 10.1137/18M1192329
+NR 66
+TC 1
+Z9 1
+U1 1
+U2 1
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD MAR
+PY 2024
+VL 50
+IS 1
+AR 1
+DI 10.1145/3640012
+PG 32
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OP9C8
+UT WOS:001208587300001
+OA Bronze
+DA 2024-08-05
+ER
+
+PT J
+AU Drmac, Z
+AF Drmac, Zlatko
+TI Hermitian Dynamic Mode Decomposition - Numerical Analysis and Software
+   Solution
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Dynamic mode decomposition; dynamical systems; LAPACK; Koopman operator;
+   eigenvalues; QR factorization; residuals; singular value decomposition;
+   streaming DMD
+AB The Dynamic Mode Decomposition (DMD) is a versatile and increasingly popular method for data driven analysis of dynamical systems that arise in a variety of applications in, e.g., computational fluid dynamics, robotics or machine learning. In the framework of numerical linear algebra, it is a data driven Rayleigh-Ritz procedure applied to a DMD matrix that is derived from the supplied data. In some applications, the physics of the underlying problem implies hermiticity of the DMD matrix, so the general DMD procedure is not computationally optimal. Furthermore, it does not guarantee important structural properties of the Hermitian eigenvalue problem and may return non-physical solutions. This paper proposes a software solution to the Hermitian (including the real symmetric) DMD matrices, accompanied with a numerical analysis that contains several fine and instructive numerical details. The eigenpairs are computed together with their residuals, and perturbation theory provides error bounds for the eigenvalues and eigenvectors. The software is developed and tested using the LAPACK package.
+C1 [Drmac, Zlatko] Univ Zagreb, Fac Sci, Bijenieka 30, Zagreb 10000, Croatia.
+C3 University of Zagreb
+RP Drmac, Z (corresponding author), Univ Zagreb, Fac Sci, Bijenieka 30, Zagreb 10000, Croatia.
+EM drmac@math.hr
+RI Drmac, Zlatko/A-8428-2018
+OI Drmac, Zlatko/0000-0001-6845-332X
+FU DARPA Small Business Innovation Research Program (SBIR) Program Office
+   [W31P4Q-21-C-0007]; DARPA PAI project "Physics-Informed Machine Learning
+   Methodologies" [HR0011-18-9-0033]; DARPA MoDyL project "A Data-Driven,
+   Operator-Theoretic Framework for Space-Time Analysis of Process
+   Dynamics" [HR0011-16-C-0116]
+FX This material is based upon work supported by the DARPA Small Business
+   Innovation Research Program (SBIR) Program Office under Contract No.
+   W31P4Q-21-C-0007 to AIMdyn, Inc. Any opinions, findings and conclusions
+   or recommendations expressed in this material are those of the author
+   and do not necessarily reflect the views of the DARPA SBIR Program
+   Office. Part of this work was supported by the DARPA PAI project
+   "Physics-Informed Machine Learning Methodologies" Contract No:
+   HR0011-18-9-0033 and the DARPA MoDyL project "A Data-Driven,
+   Operator-Theoretic Framework for Space-Time Analysis of Process
+   Dynamics" Contract No: HR0011-16-C-0116. An early version of this paper
+   is available as a LAPACK Working Note 300 [17]. Distribution Statement
+   A: Approved for Public Release, Distribution Unlimited.
+CR Abdelfattah A., 2017, SLATE Working Notes 01, ICL-UT-17-02
+   Akshay S., 2021, Dynamic Mode Decomposition and Its Application in Various Domains: An Overview, P121, DOI [10.1007/978-3-030-35280-6_6, DOI 10.1007/978-3-030-35280-6_6]
+   Anderson E., 1999, LAPACK Users' Guide
+   Baddoo Peter J., 2021, arXiv
+   Brunton SL, 2022, SIAM REV, V64, P229, DOI 10.1137/21M1401243
+   Budisic M, 2012, CHAOS, V22, DOI 10.1063/1.4772195
+   Cohen I, 2020, Arxiv, DOI [arXiv:2007.01534, 10.48550/arXiv.2007.01534]
+   Colbrook MJ, 2024, COMMUN PUR APPL MATH, V77, P221, DOI 10.1002/cpa.22125
+   Colbrook MJ, 2023, J FLUID MECH, V955, DOI 10.1017/jfm.2022.1052
+   Demmel J, 2012, SIAM J SCI COMPUT, V34, pA206, DOI 10.1137/080731992
+   Demmel L. W., 1997, Applied Numerical Linear Algebra, DOI [10.1137/1.9781611971446, DOI 10.1137/1.9781611971446]
+   Dongarra J., 2014, Accelerating Numerical Dense Linear Algebra Calculations with GPUs, P3, DOI DOI 10.1007/978-3-319-06548-9_1
+   Drmac Z., 2020, Dynamic Mode DecompositionA Numerical Linear Algebra Perspective, P161, DOI [DOI 10.1007/978-3-030-35713-9_7, 10.1007/978-3-030-35713-9_7]
+   Drmac Z., 2022, Technical Report
+   Drmac Z, 2024, ACM T MATH SOFTWARE, V50, DOI 10.1145/3640012
+   Drmac Z, 2021, MATHEMATICS-BASEL, V9, DOI 10.3390/math9172075
+   Drmac Z, 2018, SIAM J SCI COMPUT, V40, pA2253, DOI 10.1137/17M1144155
+   Drmac Zlatko, 2023, arXiv, DOI DOI 10.48550/ARXIV.2312.15837
+   Fan K., 1955, Proc. Amer. Math. Soc., V6, P111
+   Giannakis D, 2020, PHYSICA D, V402, DOI 10.1016/j.physd.2019.132211
+   HIGHAM NJ, 1988, BIT, V28, P133, DOI 10.1007/BF01934701
+   Jovanovic M. R., 2012, Annual Research Briefs, P139
+   Jovanovic MR, 2014, PHYS FLUIDS, V26, DOI 10.1063/1.4863670
+   Kahan W., 2011, Lecture Notes
+   Li C., 2022, arXiv, DOI [DOI 10.48550/ARXIV.2209, 10.48550/arXiv.2209]
+   Mezic I, 2013, ANNU REV FLUID MECH, V45, P357, DOI 10.1146/annurev-fluid-011212-140652
+   Murray R., 2022, Technical Report 299. LAPACK Working Note
+   Nguyen H. D., 2015, 2015 IEEE 22 S COMP, V152, P159
+   Parlett B.N., 1998, The Symmetric Eigenvalue Problem
+   Rowley CW, 2009, J FLUID MECH, V641, P115, DOI 10.1017/S0022112009992059
+   Schmid P, 2011, THEOR COMP FLUID DYN, V25, P249, DOI 10.1007/s00162-010-0203-9
+   Schmid P. J., 2021, Advanced Approaches in Turbulence, P243, DOI DOI 10.1016/B978-0-12-820774-1.00012-4
+   Schmid PJ, 2022, ANNU REV FLUID MECH, V54, P225, DOI 10.1146/annurev-fluid-030121-015835
+   Schmid PJ, 2011, EXP FLUIDS, V50, P1123, DOI 10.1007/s00348-010-0911-3
+   Schmid PJ, 2010, J FLUID MECH, V656, P5, DOI 10.1017/S0022112010001217
+   Stewart GW, 1990, MATRIX PERTURBATION
+   Tomov S., 2010, PARALLEL DISTRIBUTED, P1, DOI [10.1109/IPDPSW.2010.5470941, DOI 10.1109/IPDPSW.2010.5470941]
+   Tomov S, 2010, PARALLEL COMPUT, V36, P232, DOI 10.1016/j.parco.2009.12.005
+   Tu J.H., 2014, Journal of Computational Dynamics, V1, P391, DOI 10.3934/jcd.2014.1.391
+   VANDERSLUIS A, 1969, NUMER MATH, V14, P14, DOI 10.1007/BF02165096
+   Williams MO, 2015, J NONLINEAR SCI, V25, P1307, DOI 10.1007/s00332-015-9258-5
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD MAR
+PY 2024
+VL 50
+IS 1
+AR 2
+DI 10.1145/3641884
+PG 23
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA OP9C8
+UT WOS:001208587300002
+DA 2024-08-05
+ER
+
+PT J
+AU Eftekhari, A
+   Gaedke-Merzhäuser, L
+   Pasadakis, D
+   Bollhöfer, M
+   Scheidegger, S
+   Schenk, O
+AF Eftekhari, Aryan
+   Gaedke-Merzhauser, Lisa
+   Pasadakis, Dimosthenis
+   Bollhoefer, Matthias
+   Scheidegger, Simon
+   Schenk, Olaf
+TI Algorithm 1042: Sparse Precision Matrix Estimation with SQUIC
+SO ACM TRANSACTIONS ON MATHEMATICAL SOFTWARE
+LA English
+DT Article
+DE Sparse precision matrix estimation; covariance matrix; matrix
+   factorization; matrix inversion
+ID SELECTION; MODEL
+AB We present SQUIC, a fast and scalable package for sparse precision matrix estimation. The algorithm employs a second-order method to solve the l(1)-regularized maximum likelihood problem, utilizing highly optimized linear algebra subroutines. In comparative tests using synthetic datasets, we demonstrate that SQUIC not only scales to datasets of up to a million random variables but also consistently delivers runtimes that are significantly faster than other well-established sparse precision matrix estimation packages. Furthermore, we showcase the application of the introduced package in classifying microarray gene expressions. We demonstrate that by utilizing a matrix form of the tuning parameter (also known as the regularization parameter), SQUIC can effectively incorporate prior information into the estimation procedure, resulting in improved application results with minimal computational overhead.
+C1 [Eftekhari, Aryan] Univ Lausanne, Internef, Lausanne, Switzerland.
+   [Gaedke-Merzhauser, Lisa; Pasadakis, Dimosthenis; Schenk, Olaf] Univ Svizzera Italiana, Via Giuseppe Buffi, Lugano, Switzerland.
+   [Bollhoefer, Matthias] TU Braunschweig, Univ Pl, Braunschweig, Germany.
+   [Scheidegger, Simon] Univ Lausanne, Ecublens, Switzerland.
+   [Scheidegger, Simon] Univ Lausanne, Lausanne, Switzerland.
+   [Scheidegger, Simon] Enterprise Soc E4S, Ecublens, Switzerland.
+   [Scheidegger, Simon] Enterprise Soc E4S, Internef, Lausanne, Switzerland.
+C3 University of Lausanne; Universita della Svizzera Italiana; Braunschweig
+   University of Technology; University of Lausanne; University of Lausanne
+RP Eftekhari, A (corresponding author), Univ Lausanne, Internef, Lausanne, Switzerland.
+EM aryan.eftekhari@unil.ch; lisa.gaedke.merzhaeuser@usi.ch;
+   dimosthenis.pasadakis@usi.ch; m.bollhoefer@tu-bs.de;
+   simon.scheidegger@unil.ch; olaf.schenk@usi.ch
+FU German Research Foundation (DFG) [440719683]; Swiss National
+   Supercomputing Centre (CSCS) [ID32191];  [DFG-470857344];  [SNSF-204817]
+FX We would like to acknowledge the financial support of the joint
+   DFG-470857344 and SNSF-204817 project, and the scientific support and
+   HPC resources provided by the Erlangen National High Performance
+   Computing Center (NHR@FAU) of the Friedrich-Alexander-Universitat
+   Erlangen-Nurnberg (FAU). NHR@FAU funding is provided by federal and
+   Bavarian state authorities and by the German Research Foundation
+   (DFG)-440719683. This work was also supported by a grant from the Swiss
+   National Supercomputing Centre (CSCS) under project ID32191.
+CR Akaike H., 1973, 2 INT S INFORM THEOR, P267, DOI [10.1007/978-1-4612-0919-5_38, DOI 10.1007/978-1-4612-1694-0_15, 10.1007/978-1-4612-1694-0]
+   Aryan Eftekhari, 2021, Ph.D. Dissertation
+   Ballani Jonas, 2014, Technical Report. EPFL Technical Report
+   Banerjee O, 2008, J MACH LEARN RES, V9, P485
+   Berthold MR, 2016, Arxiv, DOI [arXiv:1601.02213, DOI 10.48550/ARXIV.1601.02213]
+   Bertsimas D, 2020, MATH PROGRAM, V184, P491, DOI 10.1007/s10107-019-01419-7
+   Bollhöfer M, 2019, SIAM J SCI COMPUT, V41, pA380, DOI 10.1137/17M1147615
+   Cai TT, 2013, BIOMETRIKA, V100, P139, DOI 10.1093/biomet/ass058
+   Calvetti Daniela, 2020, Mathematics of Data Science: A Computational Approach to Clustering and Classification, P49, DOI [10.1137/1.9781611976373.ch4, DOI 10.1137/1.9781611976373.CH4]
+   Chen YQ, 2008, ACM T MATH SOFTWARE, V35, DOI 10.1145/1391989.1391995
+   D'haeseleer P, 2005, NAT BIOTECHNOL, V23, P1499, DOI 10.1038/nbt1205-1499
+   Dagum L, 1998, IEEE COMPUT SCI ENG, V5, P46, DOI 10.1109/99.660313
+   Dahl J, 2008, OPTIM METHOD SOFTW, V23, P501, DOI 10.1080/10556780802102693
+   Dalianis Hercules, 2018, Clinical Text Mining: secondary use of electronic patient records, P45, DOI [10.1007/978-3-319-78503-56, DOI 10.1007/978-3-319-78503-56]
+   Davis TA, 2016, ACTA NUMER, V25, P383, DOI 10.1017/S0962492916000076
+   Efron B., 1982, SOC IND APPL MATH CB, V38, DOI DOI 10.1137/1.9781611970319
+   Eftekhari A, 2021, J COMPUT SCI-NETH, V53, DOI 10.1016/j.jocs.2021.101389
+   Eftekhari A, 2018, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE FOR HIGH PERFORMANCE COMPUTING, NETWORKING, STORAGE, AND ANALYSIS (SC'18)
+   Eftekhari Aryan, 2023, SQUIC User Manual, Software Package for Sparse Precision Matrix Estimation
+   Eftekhari Aryan, 2023, SQUIC Project Repository
+   Fan JQ, 2016, ECONOMET J, V19, pC1, DOI 10.1111/ectj.12061
+   Fan JQ, 2008, J ECONOMETRICS, V147, P186, DOI 10.1016/j.jeconom.2008.09.017
+   Feng Xia, 2021, IEEE Transactions on Artificial Intelligence, V2, P109, DOI 10.1109/TAI.2021.3076021
+   Friedman J, 2008, BIOSTATISTICS, V9, P432, DOI 10.1093/biostatistics/kxm045
+   Gibbons FD, 2002, GENOME RES, V12, P1574, DOI 10.1101/gr.397002
+   Gulliksson M, 2020, COMPUT ECON, V56, P773, DOI 10.1007/s10614-019-09943-6
+   Hsieh Cho-Jui, 2011, P ADV NEURAL INFORM, V24
+   Hsieh Cho-Jui, 2013, P ADV NEURAL INFORM, V26
+   Jain AK, 2000, IEEE T PATTERN ANAL, V22, P4, DOI 10.1109/34.824819
+   Jelisavcic V, 2018, INT J INTELL SYST, V33, P1322, DOI 10.1002/int.21984
+   Karypis G., 1997, Metis-a software package for partitioning unstructured graphs, partitioning meshes and computing fill-reducing ordering of sparse matrices
+   Kuismin MO, 2017, WIRES COMPUT STAT, V9, DOI 10.1002/wics.1415
+   Kunji Khalid B, 2022, CRAN
+   Ledoit Olivier, 2003, Journal of Empirical Finance, V10, P603, DOI DOI 10.1016/S0927-5398(03)00007-0
+   Lee JD, 2014, SIAM J OPTIMIZ, V24, P1420, DOI 10.1137/130921428
+   Liu Han, 2010, Adv Neural Inf Process Syst, V24, P1432
+   LIU JWH, 1993, SIAM J MATRIX ANAL A, V14, P242, DOI 10.1137/0614019
+   McLachlan G.J., 2005, Discriminant analysis and statistical pattern recognition
+   Oztoprak Figen, 2012, P ADV NEURAL INFORM, V25
+   Pasadakis D, 2023, IEEE T PATTERN ANAL, V45, P11256, DOI 10.1109/TPAMI.2023.3263969
+   PRIM RC, 1957, AT&T TECH J, V36, P1389, DOI 10.1002/j.1538-7305.1957.tb01515.x
+   Quadros Allan, 2023, CRAN
+   Ramey John A, 2016, datamicroarray: Collection of Data Sets for Classification
+   Rolfs Benjamin, 2012, P ADV NEURAL INFORM, V25
+   Rue Havard, 2005, Gaussian Markov random fields: theory and applications, DOI DOI 10.1201/9780203492024
+   SCHWARZ G, 1978, ANN STAT, V6, P461, DOI 10.1214/aos/1176344136
+   Solo V, 2019, Arxiv, DOI arXiv:1908.06029
+   Tibshirani Rob, 2019, CRAN
+   van Niekerk J, 2021, J STAT SOFTW, V100, P1, DOI 10.18637/jss.v100.i02
+   Wang C, 2020, COMPUT STAT DATA AN, V142, DOI 10.1016/j.csda.2019.106812
+   Wang Cheng, 2019, R package version 1.2
+   Ye Jieping, 2012, SIGKDD Explor, V14, P4
+   Yuan M, 2007, BIOMETRIKA, V94, P19, DOI 10.1093/biomet/asm018
+NR 53
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 0098-3500
+EI 1557-7295
+J9 ACM T MATH SOFTWARE
+JI ACM Trans. Math. Softw.
+PD JUN
+PY 2024
+VL 50
+IS 2
+AR 13
+DI 10.1145/3650108
+PG 18
+WC Computer Science, Software Engineering; Mathematics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Mathematics
+GA YF1P6
+UT WOS:001266982400005
+OA Bronze
+DA 2024-08-05
+ER
+
+EF

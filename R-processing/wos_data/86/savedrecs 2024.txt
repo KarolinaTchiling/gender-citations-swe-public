@@ -1,0 +1,1173 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yang, Y
+   Mao, XJ
+   Wu, MH
+AF Yang, Yi
+   Mao, Xinjun
+   Wu, Menghan
+TI Unveiling the Dynamics of Extrinsic Motivations in Shaping Future
+   Experts' Contributions to Developer Q&A Communities
+SO IET SOFTWARE
+LA English
+DT Article
+ID ONLINE COMMUNITIES; KNOWLEDGE; BEHAVIOR
+AB Developer question and answering communities rely on experts to provide helpful answers. However, these communities face a shortage of experts. To cultivate more experts, the community needs to quantify and analyze the rules of the influence of extrinsic motivations on the ongoing contributions of those developers who can become experts in the future (potential experts). Currently, there is a lack of potential expert-centred research on community incentives. To address this gap, we propose a motivational impact model with self-determination theory-based hypotheses to explore the impact of five extrinsic motivations (badge, status, learning, reputation, and reciprocity) for potential experts. We develop a status-based timeline partitioning method to count information on the sustained contributions of potential experts from Stack Overflow data and propose a multifactor assessment model to examine the motivational impact model to determine the relationship between potential experts' extrinsic motivations and sustained contributions. Our results show that (i) badge and reciprocity promote the continuous contributions of potential experts while reputation and status reduce their contributions; (ii) status significantly affects the impact of reciprocity on potential experts' contributions; (iii) the difference in the influence of extrinsic motivations on potential experts and active developers lies in the influence of reputation, learning, and status and its moderating effect. Based on these findings, we recommend that community managers identify potential experts early and optimize reputation and status incentives to incubate more experts.
+C1 [Yang, Yi; Mao, Xinjun] Natl Univ Def Technol, Coll Comp Sci & Technol, Changsha 410073, Peoples R China.
+   [Yang, Yi] Hunan Womens Univ, Coll Informat Sci & Engn, Changsha 410004, Peoples R China.
+   [Wu, Menghan] Zhejiang Univ, Coll Comp Sci & Technol, Hangzhou 310058, Peoples R China.
+C3 National University of Defense Technology - China; Zhejiang University
+RP Mao, XJ (corresponding author), Natl Univ Def Technol, Coll Comp Sci & Technol, Changsha 410073, Peoples R China.
+EM snryou@126.com; xjmao@nudt.edu.cn; menghanwu@zjut.edu.cn
+RI MAO, xinjun/GSI-8779-2022
+FU National Natural Science Foundation of China;  [62172426]
+FX This work was supported by the National Natural Science Foundation of
+   China (grant no: 62172426).
+CR Adaji I, 2015, 2015 IEEE 14TH INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS (ICMLA), P182, DOI 10.1109/ICMLA.2015.120
+   Ahmad A, 2018, DATA TECHNOL APPL, V52, P190, DOI 10.1108/DTA-07-2017-0054
+   Anderson Ashton., 2013, Steering User Behavior with Badges
+   Anderson C, 2015, PSYCHOL BULL, V141, P574, DOI 10.1037/a0038781
+   Aumayr E, 2014, LECT NOTES BUS INF P, V188, P179
+   Barrett P, 2000, PERS INDIV DIFFER, V29, P999, DOI 10.1016/S0191-8869(99)00239-1
+   Becker GS, 2005, J POLIT ECON, V113, P282, DOI 10.1086/427463
+   Benesty J, 2004, IEEE T SPEECH AUDI P, V12, P509, DOI 10.1109/TSA.2004.833008
+   Bock GW, 2006, EUR J INFORM SYST, V15, P357, DOI 10.1057/palgrave.ejis.3000630
+   Braga-Pereira F, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0261198
+   Cavusoglu H., 2015, P ACM C COMPUTER SUP, V2015, P171, DOI [DOI 10.1145/2685553.2698999, 10.1145/2685553.2698999]
+   Cavusoglu H, 2021, INFORM MANAGE-AMSTER, V58, DOI 10.1016/j.im.2021.103483
+   Chaman S, 2021, PLOS ONE, V16, DOI 10.1371/journal.pone.0257174
+   Chen LT, 2022, DECIS SUPPORT SYST, V153, DOI 10.1016/j.dss.2021.113667
+   Chen MS, 2019, PROC INT CONF SOFTW, P536, DOI 10.1109/ICSE.2019.00065
+   Chen W, 2018, MIS QUART, V42, P83, DOI 10.25300/MISQ/2018/14196
+   Chen Y., 2018, Online Knowledge-Sharing Motivators of Top Contributors in 30 QA Sites. New Media for Educational Change
+   Cheng J., 2014, Motivation for knowledge sharing by expert participants in company-hosted online user communities
+   Coleman E., 2015, SAICSIT 15 P 2015 AN, P1, DOI [10.1145/2815782.2815810, DOI 10.1145/2815782.2815810]
+   DeAngelis David, 2014, International Journal of Agent Technologies and Systems, V6, P30, DOI 10.4018/ijats.2014040102
+   Dong LF, 2020, DECIS SUPPORT SYST, V132, DOI 10.1016/j.dss.2020.113283
+   Geri N, 2017, J GLOB OPER STRATEG, V10, P90, DOI 10.1108/JGOSS-05-2016-0018
+   Goes PB, 2016, INFORM SYST RES, V27, P497, DOI 10.1287/isre.2016.0635
+   Guan T, 2018, COMPUT HUM BEHAV, V81, P137, DOI 10.1016/j.chb.2017.12.023
+   Jin JH, 2015, INFORM MANAGE-AMSTER, V52, P840, DOI 10.1016/j.im.2015.07.005
+   Kukushkina A. G., 2020, Vysshee Obrazovanie v Rossii=Higher Education in Russia, V29, P156, DOI [10.31992/0869-3617-2020-29-12-156-166, DOI 10.31992/0869-3617-2020-29-12-156-166]
+   Kwon KH, 2015, CYBERPSYCH BEH SOC N, V18, P93, DOI 10.1089/cyber.2014.0438
+   Lou J, 2013, J AM SOC INF SCI TEC, V64, P356, DOI 10.1002/asi.22750
+   Lu Y., 2020, 32 INT C SOFTWARE EN, P1
+   Lu Y, 2022, IEEE T SOFTWARE ENG, V48, P4947, DOI 10.1109/TSE.2021.3130088
+   Manganelli S, 2021, PERS INDIV DIFFER, V182, DOI 10.1016/j.paid.2021.111077
+   Movshovitz-Attias Dana, 2013, 2013 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), P886
+   Mustafa G, 2017, SA J IND PSYCHOL, V43
+   Mustafa S, 2023, CURR PSYCHOL, V42, P10468, DOI 10.1007/s12144-022-03307-4
+   Richards DK, 2020, ADDICT BEHAV, V111, DOI 10.1016/j.addbeh.2020.106550
+   Ryan RM, 2020, CONTEMP EDUC PSYCHOL, V61, DOI 10.1016/j.cedpsych.2020.101860
+   Ryan RM, 2000, AM PSYCHOL, V55, P68, DOI 10.1037/0003-066X.55.1.68
+   Shen XX, 2019, COMM COM INF SC, V1042, P335, DOI 10.1007/978-981-15-1377-0_26
+   Shi CC, 2021, DECIS SUPPORT SYST, V149, DOI 10.1016/j.dss.2021.113610
+   Sun YQ, 2012, DECIS SUPPORT SYST, V53, P12, DOI 10.1016/j.dss.2011.10.006
+   Tang WZ, 2020, EXPERT SYST, V37, DOI 10.1111/exsy.12582
+   Tausczik YlaR., 2012, P ACM 2012 C COMPUTE, P207
+   Teo Hon Jie., 2014, Proceedings of the 17th ACM Conference on Computer Supported Cooperative Work Social Computing, CSCW'14, P332
+   Thomas-Hunt MC, 2003, MANAGE SCI, V49, P464, DOI 10.1287/mnsc.49.4.464.14425
+   van de Wiel MA, 2021, J COMPUT GRAPH STAT, V30, P835, DOI 10.1080/10618600.2021.1904962
+   Yang HL, 2021, BEHAV INFORM TECHNOL, V40, P146, DOI 10.1080/0144929X.2019.1679887
+   Zhang TT, 2015, BEHAV INFORM TECHNOL, V34, P479, DOI 10.1080/0144929X.2014.964319
+   Zhao L, 2016, J MANAGE INFORM SYST, V33, P70, DOI 10.1080/07421222.2016.1172459
+   Zhao LX, 2021, IET SOFTW, V15, P90, DOI 10.1049/sfw2.12013
+   Zheng YH, 2018, COMPANION PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2018 (WWW 2018), P365, DOI 10.1145/3184558.3186349
+NR 50
+TC 0
+Z9 0
+U1 7
+U2 7
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD FEB 8
+PY 2024
+VL 2024
+AR 8354862
+DI 10.1049/2024/8354862
+PG 15
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA IA0G2
+UT WOS:001163474000001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Tong, HZ
+   Kong, LY
+   Liu, J
+   Gao, SY
+   Xu, YL
+   Chen, YZ
+AF Tong, Haozhuo
+   Kong, Lingyun
+   Liu, Jie
+   Gao, Shiyan
+   Xu, Yilu
+   Chen, Yuezhe
+TI Segmented Frequency-Domain Correlation Prediction Model for Long-Term
+   Time Series Forecasting Using Transformer
+SO IET SOFTWARE
+LA English
+DT Article
+AB Long-term time series forecasting has received significant attention from researchers in recent years. Transformer model-based approaches have emerged as promising solutions in this domain. Nevertheless, most existing methods rely on point-by-point self-attention mechanisms or employ transformations, decompositions, and reconstructions of the entire sequence to capture dependencies. The point-by-point self-attention mechanism becomes impractical for long-term time series forecasting due to its quadratic complexity with respect to the time series length. Decomposition and reconstruction methods may introduce information loss, leading to performance bottlenecks in the models. In this paper, we propose a Transformer-based forecasting model called NPformer. Our method introduces a novel multiscale segmented Fourier attention mechanism. By segmenting the long-term time series and performing discrete Fourier transforms on different segments, we aim to identify frequency-domain correlations between these segments. This allows us to capture dependencies more effectively. In addition, we incorporate a normalization module and a desmoothing factor into the model. These components address the problem of oversmoothing that arises in sequence decomposition methods. Furthermore, we introduce an isometry convolution method to enhance the prediction accuracy of the model. The experimental results demonstrate that NPformer outperforms other Transformer-based methods in long-term time series forecasting.
+C1 [Tong, Haozhuo; Kong, Lingyun; Liu, Jie; Gao, Shiyan; Xu, Yilu] Xijing Univ, Sch Elect Informat, Xian 710000, Peoples R China.
+C3 Xijing University
+RP Tong, HZ (corresponding author), Xijing Univ, Sch Elect Informat, Xian 710000, Peoples R China.
+EM m18523697297@163.com; konglingyun@xijing.edu.cn; ms_liujie@126.com;
+   isgaoshiyan@163.com; 2430667863@qq.com; 335129515@qq.com
+FU Xijing University; Innovation Fund of Xijing University
+FX This work is supported by the Innovation Fund of Xijing
+   University.DAS:The data that support the findings of this study are
+   available from the corresponding author upon reasonable request.
+CR Boné R, 2003, SPRING COMP SCI, P18
+   Cai L, 2020, T GIS, V24, P736, DOI 10.1111/tgis.12644
+   Chimmula VKR, 2020, CHAOS SOLITON FRACT, V135, DOI 10.1016/j.chaos.2020.109864
+   Du D., 2023, P ICASSP 2023 2023 I, P1
+   DURBIN J, 1959, BIOMETRIKA, V46, P306, DOI 10.1093/biomet/46.3-4.306
+   Hu JJ, 2020, NEURAL PROCESS LETT, V52, P1485, DOI 10.1007/s11063-020-10319-3
+   Kingma D. P., 2014, arXiv
+   Kitaev Nikita, 2020, arXiv
+   Lai GK, 2018, ACM/SIGIR PROCEEDINGS 2018, P95, DOI 10.1145/3209978.3210006
+   Lara-Benítez P, 2020, APPL SCI-BASEL, V10, DOI 10.3390/app10072322
+   Liang YX, 2023, AAAI CONF ARTIF INTE, P14329
+   Liu Y., 2022, Advances in Neural Information Processing Systems, V35, P9881
+   Liu YQ, 2020, EXPERT SYST APPL, V143, DOI 10.1016/j.eswa.2019.113082
+   Mehtab S., 2022, Advances in Distributed Computing and Machine Learning, P404, DOI [10.1007/978-981-16-4807-639, DOI 10.1007/978-981-16-4807-639]
+   Nie Xingqing, 2022, 2022 IEEE 24th Int Conf on High Performance Computing & Communications; 8th Int Conf on Data Science & Systems; 20th Int Conf on Smart City; 8th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), P769, DOI 10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00128
+   Panapongpakorn T, 2019, 2019 FIRST INTERNATIONAL SYMPOSIUM ON INSTRUMENTATION, CONTROL, ARTIFICIAL INTELLIGENCE, AND ROBOTICS (ICA-SYMP 2019), P86, DOI [10.1109/ica-symp.2019.8646068, 10.1109/ICA-SYMP.2019.8646068]
+   Rajagukguk RA, 2020, ENERGIES, V13, DOI 10.3390/en13246623
+   Rangapuram SS, 2018, ADV NEUR IN, V31
+   Schaffer AL, 2021, BMC MED RES METHODOL, V21, DOI 10.1186/s12874-021-01235-8
+   Sen R, 2019, ADV NEUR IN, V32
+   Siami-Namini S, 2019, IEEE INT CONF BIG DA, P3285, DOI 10.1109/BigData47090.2019.9005997
+   Torres JF, 2021, BIG DATA-US, V9, P3, DOI 10.1089/big.2020.0159
+   Vaswani A, 2017, ADV NEUR IN, V30
+   Wang H, 2023, 11 INT C LEARN REPR
+   Wang WX, 2023, Arxiv, DOI arXiv:2303.06908
+   Wen QS, 2023, PROCEEDINGS OF THE THIRTY-SECOND INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, IJCAI 2023, P6778
+   Woo G, 2022, Arxiv, DOI arXiv:2202.01381
+   Wu HX, 2021, ADV NEUR IN, V34
+   Wu SF, 2020, ADV NEUR IN, V33
+   Yamak PT, 2019, P 2019 2 INT C ALG C, P49, DOI DOI 10.1145/3377713.3377722
+   Zeng A., 2023, P AAAI C ART INT, V37, P11121, DOI [10.1609/aaai.v37i9.26317, DOI 10.1609/AAAI.V37I9.26317]
+   Zhang JF, 2018, J HYDROL, V561, P918, DOI 10.1016/j.jhydrol.2018.04.065
+   Zhang XY, 2022, Arxiv, DOI arXiv:2212.08151
+   Zhang XQ, 2020, APPL SCI-BASEL, V10, DOI 10.3390/app10031144
+   Zhang YA, 2020, EXPERT SYST APPL, V159, DOI 10.1016/j.eswa.2020.113609
+   Zhao Z, 2017, IET INTELL TRANSP SY, V11, P68, DOI 10.1049/iet-its.2016.0208
+   Zhou HX, 2019, IEEE ACCESS, V7, P78063, DOI 10.1109/ACCESS.2019.2923006
+   Zhou HY, 2021, AAAI CONF ARTIF INTE, V35, P11106
+   Zhou T, 2022, PR MACH LEARN RES
+NR 39
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD JUL 8
+PY 2024
+VL 2024
+AR 2920167
+DI 10.1049/2024/2920167
+PG 16
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA ZC3S4
+UT WOS:001273058500001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Pashazadeh, S
+   Al-Basseer, BZJ
+   Tanha, J
+AF Pashazadeh, Saeid
+   Al-Basseer, Basheer Zuhair Jaafar
+   Tanha, Jafar
+TI Modeling Chandy-Lamport Distributed Snapshot Algorithm Using Colored
+   Petri Net
+SO IET SOFTWARE
+LA English
+DT Article
+ID TIME
+AB Distributed global snapshot (DGS) is one of the fundamental protocols in distributed systems. It is used for different applications like collecting information from a distributed system and taking checkpoints for process rollback. The Chandy-Lamport protocol (CLP) is famous and well-known for taking DGS. The main aim of this protocol was to generate consistent cuts without interrupting the regular operation of the distributed system. CLP was the origin of many future protocols and inspired them. The first aim of this paper is to propose a novel formal hierarchical parametric colored Petri net model of CLP. The number of constituting processes of the model is parametric. The second aim is to automatically generate a novel message sequence chart (MSC) to show detailed steps for each simulation run of the snapshot protocol. The third aim is model checking of the proposed formal model to verify the correctness of CLP and our proposed colored Petri net model. Having vital tools helps greatly to test the correct operation of the newly proposed distributed snapshot protocol. The proposed model of CLP can easily be used for visually testing the correct operation of the new future under-development DGS protocol. It also permits formal verification of the correct operation of the new proposed protocol. This model can be used as a simple, powerful, and visual tool for the step-by-step run of the CLP, model checking, and teaching it to postgraduate students. The same approach applies to similar complicated distributed protocols.
+C1 [Pashazadeh, Saeid] Univ Tabriz, Fac Elect & Comp Engn, Dept Informat Technol, Tabriz, Iran.
+   [Al-Basseer, Basheer Zuhair Jaafar; Tanha, Jafar] Univ Tabriz, Fac Elect & Comp Engn, Dept Comp Engn, Tabriz, Iran.
+C3 University of Tabriz; University of Tabriz
+RP Pashazadeh, S (corresponding author), Univ Tabriz, Fac Elect & Comp Engn, Dept Informat Technol, Tabriz, Iran.
+EM s_pashazadeh@yahoo.com; basheer@tabrizu.ac.ir; tanha@tabrizu.ac.ir
+RI tanha, jafar/AAO-2736-2020; Pashazadeh, Saeid/Q-5311-2017
+OI tanha, jafar/0000-0002-0779-6027; AL-BASSEER, BASHEER ZUHAIR
+   JAAFAR/0009-0002-8411-3880; Pashazadeh, Saeid/0000-0002-8949-9180
+CR ACHARYA A, 1992, INFORM PROCESS LETT, V44, P317, DOI 10.1016/0020-0190(92)90107-7
+   ALAGAR S, 1994, INFORM PROCESS LETT, V50, P311, DOI 10.1016/0020-0190(94)00055-7
+   Andriamiarina MB, 2012, 2012 13TH INTERNATIONAL CONFERENCE ON PARALLEL AND DISTRIBUTED COMPUTING, APPLICATIONS, AND TECHNOLOGIES (PDCAT 2012), P343, DOI 10.1109/PDCAT.2012.119
+   Baier C, 2008, PRINCIPLES OF MODEL CHECKING, P1
+   Bhardwaj M., 2024, IFIP Advances in Information and Communication Technology, V698, P252, DOI [10.1007/978-3-031-50192-022, DOI 10.1007/978-3-031-50192-022]
+   CHANDY KM, 1985, ACM T COMPUT SYST, V3, P63, DOI 10.1145/214451.214456
+   Coulouris George F., 2012, Distributed Systems: Concepts and Design, V5th
+   Garg Rahul., 2006, ICS 06, P269, DOI DOI 10.1145/1183401.1183439
+   Gelen G, 2024, AIN SHAMS ENG J, V15, DOI 10.1016/j.asej.2024.102804
+   Doan HTT, 2017, INT CON DISTR COMP S, P1586, DOI 10.1109/ICDCS.2017.176
+   Harper R., 2011, Programming in Standard ML
+   Jensen K, 2009, COLOURED PETRI NETS: MODELLING AND VALIDATION OF CONCURRENT SYSTEMS, P1, DOI 10.1007/b95112
+   Kshemkalyani A. D., 1995, Distributed Systems Engineering, V2, P224, DOI 10.1088/0967-1846/2/4/005
+   Kshemkalyani AD, 2010, IEEE T PARALL DISTR, V21, P1281, DOI 10.1109/TPDS.2010.24
+   LAI TH, 1987, INFORM PROCESS LETT, V25, P153, DOI 10.1016/0020-0190(87)90125-6
+   Li B, 2023, IEEE T PARALL DISTR, V34, P2433, DOI 10.1109/TPDS.2023.3272014
+   Liu ZZ, 2024, IEEE ACCESS, V12, P57185, DOI 10.1109/ACCESS.2024.3390774
+   Lu FM, 2024, IEEE ACCESS, V12, P53713, DOI 10.1109/ACCESS.2024.3384489
+   MATTERN F, 1993, J PARALLEL DISTR COM, V18, P423, DOI 10.1006/jpdc.1993.1075
+   MORGAN C, 1985, INFORM PROCESS LETT, V20, P189, DOI 10.1016/0020-0190(85)90048-1
+   Nakamura J, 2021, CONCURR COMP-PRACT E, V33, DOI 10.1002/cpe.5647
+   Ogata K., 2012, Lecture Notes in Computer Science, V7635, DOI [10.1007/978-3-642-34281-39, DOI 10.1007/978-3-642-34281-39]
+   Pascal C, 2017, CONCURR COMP-PRACT E, V29, DOI 10.1002/cpe.4179
+   Pashazadeh Saeid, 2013, IAES International Journal of Information and Network Security, V2, P78
+   Pashazadeh S., 2012, International Journal of Information and Education Technology, V2, P77, DOI [10.7763/IJIET.2012.V2.86, DOI 10.7763/IJIET.2012.V2.86]
+   Pashazadeh S., 2024, Automatic message sequence chart creation from simulation run of the parametric colored Petri net model of the Chandy-Lamport algorithm with four processes
+   Pashazadeh Saeid, 2024, Zenodo, DOI 10.5281/ZENODO.10986781
+   Pashazadeh Saeid, 2024, Zenodo, DOI 10.5281/ZENODO.10977404
+   Paulson L, 1996, ML for the Working Programmer
+   Pröll B, 2022, INT J PARALLEL EMERG, V37, P597, DOI 10.1080/17445760.2022.2113398
+   Sobrinho A, 2023, SOFTW TEST VERIF REL, V33, DOI 10.1002/stvr.1837
+   Swathi T., 2013, International Journal of Engineering Research and Technology, V2, P613
+   Tanenbaum A.S., 2007, Distributed systems-principles and paradigms
+   Zaitsev DA, 2024, INT J PARALLEL EMERG, V39, P32, DOI 10.1080/17445760.2023.2273452
+NR 34
+TC 0
+Z9 0
+U1 1
+U2 1
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD JUN 7
+PY 2024
+VL 2024
+AR 6582682
+DI 10.1049/2024/6582682
+PG 20
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA WC0F0
+UT WOS:001252544300001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Qi, Q
+   Cao, J
+AF Qi, Qing
+   Cao, Jian
+TI An Empirical Study on Downstream Dependency Package Groups in Software
+   Packaging Ecosystems
+SO IET SOFTWARE
+LA English
+DT Article
+ID EVOLUTION; IMPACT
+AB The role of focal packages in packaging ecosystems is crucial for the development of the entire ecosystem, as they are the packages on which other packages depend. However, the evolution of dependency groups in packaging ecosystems has not been systematically investigated. In this study, we examine the downstream dependency package groups (DDGs) in three typical packaging ecosystems-Cargo for Rust, Comprehensive Perl Archive Network for Perl, and RubyGems for Ruby-to identify their features and evolution. We also identify and analyze a special type of DDG, the collaborative downstream dependency package group (CDDG), which requires shared contributors. Our findings show that the overall development of DDGs, particularly CDDGs, is consistent with the status of the whole ecosystem, and the size of DDGs and CDDGs follows a power law distribution. Furthermore, the interaction mechanisms between focal packages and downstream packages differ between ecosystems, but focal packages always play a leading role in the development of DDGs and CDDGs. Finally, we investigate predictive models for the development of CDDGs in the next stage based on their features, and our results show that random forest and Gradient Boosting Regression Tree achieve acceptable prediction accuracy. We provide the raw data and scripts used for our analysis at https://github.com/onion616/DDG.
+C1 [Qi, Qing; Cao, Jian] Shanghai Jiao Tong Univ, Dept Comp Sci & Engn, Shanghai 201100, Peoples R China.
+C3 Shanghai Jiao Tong University
+RP Cao, J (corresponding author), Shanghai Jiao Tong Univ, Dept Comp Sci & Engn, Shanghai 201100, Peoples R China.
+EM qi_ng616@sjtu.edu.cn; cao-jian@sjtu.edu.cn
+FU National Key Research and Development Program of China; 
+   [2018YFB1003800]
+FX This work was supported by the National Key Research and Development
+   Program of China (grant number: 2018YFB1003800).
+CR Akgün AE, 2020, INT J INFORM MANAGE, V50, P228, DOI 10.1016/j.ijinfomgt.2019.05.019
+   [Anonymous], 2002, APPL LOGISTIC REGRES
+   Arora R, 2017, SOFTWARE PRACT EXPER, V47, P1393, DOI 10.1002/spe.2468
+   Bavota G, 2013, PROC IEEE INT CONF S, P280, DOI 10.1109/ICSM.2013.39
+   Blincoe K, 2015, 12TH WORKING CONFERENCE ON MINING SOFTWARE REPOSITORIES (MSR 2015), P202, DOI 10.1109/MSR.2015.26
+   Bogart C, 2016, FSE'16: PROCEEDINGS OF THE 2016 24TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON FOUNDATIONS OF SOFTWARE ENGINEERING, P109, DOI 10.1145/2950290.2950325
+   Bosch J, 2010, J SYST SOFTWARE, V83, P67, DOI 10.1016/j.jss.2009.06.051
+   Choi J., 2013, P 9 INT S OP COLL, P1, DOI [10.1145/2491055.2491081, DOI 10.1145/2491055.2491081]
+   Claes M., 2018, Software Technology, P35, DOI DOI 10.1002/9781119174240.CH3
+   Decan A, 2019, EMPIR SOFTW ENG, V24, P381, DOI 10.1007/s10664-017-9589-y
+   Decan A, 2018, IEEE WORK CONF MIN S, P181, DOI 10.1145/3196398.3196401
+   Decan A, 2018, PROC IEEE INT CONF S, P404, DOI 10.1109/ICSME.2018.00050
+   Decan A, 2016, 2016 IEEE 23RD INTERNATIONAL CONFERENCE ON SOFTWARE ANALYSIS, EVOLUTION, AND REENGINEERING (SANER), VOL 1, P493, DOI 10.1109/SANER.2016.12
+   Fan G, 2020, P 29 ACM SIGSOFT INT, P463, DOI [10.1145/3395363.3397388, DOI 10.1145/3395363.3397388]
+   Hejderup J, 2018, 2018 IEEE/ACM 40TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING: NEW IDEAS AND EMERGING TECHNOLOGIES RESULTS (ICSE-NIER), P101, DOI 10.1145/3183399.3183417
+   Kikas R, 2017, IEEE WORK CONF MIN S, P102, DOI 10.1109/MSR.2017.55
+   Korkmaz G, 2019, SOC NETW ANAL MIN, V10, DOI 10.1007/s13278-019-0619-1
+   Lertwittayatrai N, 2017, ASIA PAC SOFWR ENG, P298, DOI 10.1109/APSEC.2017.36
+   Lungu M, 2008, PROC IEEE INT CONF S, P428, DOI 10.1109/ICSM.2008.4658096
+   Manikas K, 2016, J SYST SOFTWARE, V117, P84, DOI 10.1016/j.jss.2016.02.003
+   Manikas K, 2013, J SYST SOFTWARE, V86, P1294, DOI 10.1016/j.jss.2012.12.026
+   Mens T, 2017, Arxiv, DOI arXiv:1711.04532
+   Midi Habshah, 2010, 4th International Conference on Applied Mathematics, Simulation, Modelling (ASM 2010), P138
+   Midi H, 2010, J INTERDISCIP MATH, V13, P253, DOI 10.1080/09720502.2010.10700699
+   Mijsters Y, 2018, INT WORK SOFTW, P25, DOI 10.1145/3194124.3194127
+   Miles J., 2014, Wiley StatsRef: Statistics Reference Online, DOI [DOI 10.1002/9781118445112.STAT06593, 10.1002/9781118445112.stat06593]
+   Mockus A, 2009, 2009 6TH IEEE INTERNATIONAL WORKING CONFERENCE ON MINING SOFTWARE REPOSITORIES, P11, DOI 10.1109/MSR.2009.5069476
+   Mohagheghi P, 2007, EMPIR SOFTW ENG, V12, P471, DOI 10.1007/s10664-007-9040-x
+   Mora-Cantallops M, 2020, J SYST SOFTWARE, V170, DOI 10.1016/j.jss.2020.110744
+   Plakidas K, 2017, J SYST SOFTWARE, V132, P119, DOI 10.1016/j.jss.2017.06.095
+   Syeed M. M. M., 2014, P INT S OP COLL, P1, DOI [10.1145/2641580.2641586, DOI 10.1145/2641580.2641586]
+   Tanabe Y., 2018, P 10 INT WORKSH CONT, P8, DOI DOI 10.1145/3242921.3242923
+   Tansley AG, 1935, ECOLOGY, V16, P284, DOI 10.2307/1930070
+   te Molder J., 2011, P 3 INT WORKSH SOFTW, P52
+   Trainer E., 2005, OOPSLA Workshop on Eclipse Technology Exchange, P26, DOI [10.1145/1117696.1117702, DOI 10.1145/1117696.1117702]
+   Valiev M, 2018, ESEC/FSE'18: PROCEEDINGS OF THE 2018 26TH ACM JOINT MEETING ON EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING, P644, DOI 10.1145/3236024.3236062
+   Wittern E, 2016, 13TH WORKING CONFERENCE ON MINING SOFTWARE REPOSITORIES (MSR 2016), P351, DOI [10.1145/2901739.2901743, 10.1109/MSR.2016.043]
+   Zerouali A, 2018, LECT NOTES COMPUT SC, V10826, P95, DOI 10.1007/978-3-319-90421-4_6
+NR 38
+TC 0
+Z9 0
+U1 5
+U2 5
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD APR 30
+PY 2024
+VL 2024
+AR 4488412
+DI 10.1049/2024/4488412
+PG 23
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA QC9K8
+UT WOS:001218795600001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Zhang, ZK
+   Chen, JF
+   Gu, YC
+   Li, ZH
+   Sosu, RNA
+AF Zhang, Zikang
+   Chen, Jinfu
+   Gu, Yuechao
+   Li, Zhehao
+   Sosu, Rexford Nii Ayitey
+TI Exploiting DBSCAN and Combination Strategy to Prioritize the Test Suite
+   in Regression Testing
+SO IET SOFTWARE
+LA English
+DT Article
+AB Test case prioritization techniques improve the fault detection rate by adjusting the execution sequence of test cases. For static black-box test case prioritization techniques, existing methods generally improve the fault detection rate by increasing the early diversity of execution sequences based on string distance differences. However, such methods have a high time overhead and are less stable. This paper proposes a novel test case prioritization method (DC-TCP) based on density-based spatial clustering of applications with noise (DBSCAN) and combination policies. By introducing a combination strategy to model the inputs to generate a mapping model, the test inputs are mapped to consistent types to improve generality. The DBSCAN method is then used to refine the classification of test cases further, and finally, the Firefly search strategy is introduced to improve the effectiveness of sequence merging. Extensive experimental results demonstrate that the proposed DC-TCP method outperforms other methods in terms of the average percentage of faults detected and exhibits advantages in terms of time efficiency when compared to several existing static black-box sorting methods.
+C1 [Zhang, Zikang; Chen, Jinfu; Gu, Yuechao; Li, Zhehao; Sosu, Rexford Nii Ayitey] Jiangsu Univ, Sch Comp Sci & Commun Engn, Zhenjiang 202013, Peoples R China.
+   [Sosu, Rexford Nii Ayitey] Ghana Commun Technol Univ, Fac Comp & Informat Syst, Accra 233021, Ghana.
+C3 Jiangsu University
+RP Chen, JF (corresponding author), Jiangsu Univ, Sch Comp Sci & Commun Engn, Zhenjiang 202013, Peoples R China.
+EM 1781918400@qq.com; jinfuchen@ujs.edu.cn; 441739670@qq.com;
+   289110878@qq.com; rexfordsosu@outlook.com
+RI zhang, zikang/KRR-0865-2024; Sosu, Rexford Nii Ayitey/AAE-4943-2020
+OI Sosu, Rexford Nii Ayitey/0000-0001-5527-5114; Chen,
+   Jinfu/0000-0002-3124-5452; Li, Zhehao/0009-0002-1662-7839
+FU National Natural Science Foundation of China [62172194, 62202206,
+   U1836116]; National Natural Science Foundation of China (NSFC)
+   [2020YFB1005500]; National Key R and D Program of China [BK20220515];
+   Natural Science Foundation of Jiangsu Province, China [BK20202001];
+   Leading-Edge Technology Program of Jiangsu Natural Science Foundation,
+   China [2021M691310]; China Postdoctoral Science Foundation, China;
+   Qinglan Project of Jiangsu Province, China
+FX This work was partly supported by the National Natural Science
+   Foundation of China (NSFC) (grant nos. 62172194, 62202206, and
+   U1836116), the National Key R and D Program of China (grant no.
+   2020YFB1005500), the Natural Science Foundation of Jiangsu Province,
+   China (grant no. BK20220515), the Leading-Edge Technology Program of
+   Jiangsu Natural Science Foundation, China (grant no. BK20202001), the
+   China Postdoctoral Science Foundation, China (grant no. 2021M691310),
+   and Qinglan Project of Jiangsu Province, China.
+CR Azizi M, 2021, IEEE ICST WORKSHOP, P146, DOI 10.1109/ICSTW52544.2021.00035
+   Bagherzadeh M, 2022, IEEE T SOFTWARE ENG, V48, P2836, DOI 10.1109/TSE.2021.3070549
+   Bertolino A, 2020, PROC INT CONF SOFTW, P1, DOI 10.1145/3377811.3380369
+   Busjaeger B, 2016, FSE'16: PROCEEDINGS OF THE 2016 24TH ACM SIGSOFT INTERNATIONAL SYMPOSIUM ON FOUNDATIONS OF SOFTWARE ENGINEERING, P975, DOI 10.1145/2950290.2983954
+   Chen JF, 2024, J SOFTW-EVOL PROC, V36, DOI 10.1002/smr.2565
+   Chen JF, 2022, IEEE TETCI, V6, P969, DOI 10.1109/TETCI.2021.3122511
+   Chen JF, 2021, IEEE INT SYMP SOFTW, P105, DOI 10.1109/ISSREW53611.2021.00051
+   Di Nardo D, 2013, 2013 IEEE SIXTH INTERNATIONAL CONFERENCE ON SOFTWARE TESTING, VERIFICATION AND VALIDATION (ICST 2013), P302, DOI 10.1109/ICST.2013.27
+   Durelli VHS, 2019, IEEE T RELIAB, V68, P1189, DOI 10.1109/TR.2019.2892517
+   Elbaum S, 2002, IEEE T SOFTWARE ENG, V28, P159, DOI 10.1109/32.988497
+   Elbaum S, 2001, PROC INT CONF SOFTW, P329, DOI 10.1109/ICSE.2001.919106
+   Engström E, 2010, INFORM SOFTWARE TECH, V52, P14, DOI 10.1016/j.infsof.2009.07.001
+   Fang Yuan, 2015, Search-Based Software Engineering. 7th International Symposium, SSBSE 2015. Proceedings: LNCS 9275, P109, DOI 10.1007/978-3-319-22183-0_8
+   Fraser G., 2007, 25 C IASTED INT, P1
+   Hao D, 2016, FRONT COMPUT SCI-CHI, V10, P769, DOI 10.1007/s11704-016-6112-3
+   Khatibsyarbini M, 2019, IEEE ACCESS, V7, P132360, DOI 10.1109/ACCESS.2019.2940620
+   Korel B, 2008, PROC IEEE INT CONF S, P247, DOI 10.1109/ICSM.2008.4658073
+   Lachmann R, 2016, 2016 15TH IEEE INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS (ICMLA 2016), P361, DOI [10.1109/ICMLA.2016.0065, 10.1109/ICMLA.2016.163]
+   Lam Wing, 2020, ISSTA, P298, DOI 10.1145/3395363.3397364
+   Ledru Y, 2012, AUTOMAT SOFTW ENG, V19, P65, DOI 10.1007/s10515-011-0093-0
+   Li Z, 2007, IEEE T SOFTWARE ENG, V33, P225, DOI 10.1109/TSE.2007.38
+   Liu WH, 2014, 2014 5TH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING AND SERVICE SCIENCE (ICSESS), P37, DOI 10.1109/ICSESS.2014.6933509
+   Lu YF, 2016, PROC INT CONF SOFTW, P535, DOI 10.1145/2884781.2884874
+   Malz C., 2012, 2012 IEEE Fifth International Conference on Software Testing, Verification and Validation (ICST 2012), P483, DOI 10.1109/ICST.2012.131
+   Mandieh M, 2020, INFORM SOFTWARE TECH, V121, DOI 10.1016/j.infsof.2020.106269
+   Marijan D, 2023, SOFTWARE QUAL J, V31, P1415, DOI 10.1007/s11219-023-09646-0
+   Muthusamy T., 2014, International Journal of Applied Information Systems (IJAIS), V6, P21, DOI [10.5120/ijais14-451081, DOI 10.5120/IJAIS14-451081]
+   Niu XT, 2020, IEEE T SOFTWARE ENG, V46, P584, DOI 10.1109/TSE.2018.2865772
+   Niu XT, 2020, IEEE T SOFTWARE ENG, V46, P141, DOI 10.1109/TSE.2018.2844259
+   Noemmer R, 2020, LECT NOTES BUS INF P, V371, P51, DOI 10.1007/978-3-030-35510-4_4
+   Panichella A, 2015, IEEE T SOFTWARE ENG, V41, P358, DOI 10.1109/TSE.2014.2364175
+   Lima JAP, 2020, INFORM SOFTWARE TECH, V121, DOI 10.1016/j.infsof.2020.106268
+   Ramya P, 2018, PROCEEDINGS OF THE 2018 SECOND INTERNATIONAL CONFERENCE ON INVENTIVE COMMUNICATION AND COMPUTATIONAL TECHNOLOGIES (ICICCT), P1181, DOI 10.1109/ICICCT.2018.8473253
+   Rosero RH, 2017, IEEE ACCESS, V5, P18419, DOI 10.1109/ACCESS.2017.2749502
+   Rothermel G, 2001, IEEE T SOFTWARE ENG, V27, P929, DOI 10.1109/32.962562
+   Rothermel G, 2002, SOFTW TEST VERIF REL, V12, P219, DOI 10.1002/stvr.256
+   Rothermel G, 1996, IEEE T SOFTWARE ENG, V22, P529, DOI 10.1109/32.536955
+   Sihan Li, 2010, Proceedings of the Tenth International Conference on Quality Software (QSIC 2010), P72, DOI 10.1109/QSIC.2010.15
+   Srikanth H, 2005, 2005 INTERNATIONAL SYMPOSIUM ON EMPIRICAL SOFTWARE ENGINEERING (ISESE), PROCEEDINGS, P62, DOI 10.1109/ISESE.2005.1541815
+   Srikanth H, 2016, INFORM SOFTWARE TECH, V69, P71, DOI 10.1016/j.infsof.2015.09.002
+   Thomas SW, 2014, EMPIR SOFTW ENG, V19, P182, DOI 10.1007/s10664-012-9219-7
+   Weixiang Zhang, 2019, 2019 IEEE 21st International Conference on High Performance Computing and Communications; IEEE 17th International Conference on Smart City; IEEE 5th International Conference on Data Science and Systems (HPCC/SmartCity/DSS). Proceedings, P2767, DOI 10.1109/HPCC/SmartCity/DSS.2019.00388
+   Zhang LM, 2013, PROCEEDINGS OF THE 35TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2013), P192, DOI 10.1109/ICSE.2013.6606565
+   Zhou JY, 2017, IEEE ICST WORKSHOP, P392, DOI 10.1109/ICSTW.2017.74
+NR 44
+TC 0
+Z9 0
+U1 7
+U2 7
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD APR 4
+PY 2024
+VL 2024
+AR 9942959
+DI 10.1049/2024/9942959
+PG 14
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA NQ2G6
+UT WOS:001201847900001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Wan, L
+   Cheng, WZ
+AF Wan, Li
+   Cheng, Wenzhi
+TI An Expository Examination of Temporally Evolving Graph-Based Approaches
+   for the Visual Investigation of Autonomous Driving
+SO IET SOFTWARE
+LA English
+DT Article
+ID NEURAL-NETWORK
+AB With the continuous advancement of autonomous driving technology, visual analysis techniques have emerged as a prominent research topic. The data generated by autonomous driving is large-scale and time-varying, yet more than existing visual analytics methods are required to deal with such complex data effectively. Time-varying diagrams can be used to model and visualize the dynamic relationships in various complex systems and can visually describe the data trends in autonomous driving systems. To this end, this paper introduces a time-varying graph-based method for visual analysis in autonomous driving. The proposed method employs a graph structure to represent the relative positional relationships between the target and obstacle interferences. By incorporating the time dimension, a time-varying graph model is constructed. The method explores the characteristic changes of nodes in the graph at different time instances, establishing feature expressions that differentiate target and obstacle motion patterns. The analysis demonstrates that the feature vector centrality in the time-varying graph effectively captures the distinctions in motion patterns between targets and obstacles. These features can be utilized for accurate target and obstacle recognition, achieving high recognition accuracy. To evaluate the proposed time-varying graph-based visual analytic autopilot method, a comparative study is conducted against traditional visual analytic methods such as the frame differencing method and advanced visual analytic methods like visual lidar odometry and mapping. Robustness, accuracy, and resource consumption experiments are performed using the publicly available KITTI dataset to analyze and compare the three methods. The experimental results show that the proposed time-varying graph-based method exhibits superior accuracy and robustness. This study offers valuable insights and solution ideas for developing deep integration between intelligent networked vehicles and intelligent transportation. It provides a reference for advancing intelligent transportation systems and their integration with autonomous driving technologies.
+C1 [Wan, Li; Cheng, Wenzhi] Hunan Univ Sci & Engn, Sch Informat Engn, Yongzhou 425199, Hunan, Peoples R China.
+RP Wan, L (corresponding author), Hunan Univ Sci & Engn, Sch Informat Engn, Yongzhou 425199, Hunan, Peoples R China.
+EM wanli@huse.edu.cn; chengwenzhi@huse.edu.cn
+FU Construct program of applied characteristic discipline in Hunan
+   Province; Project of Hunan Provincial Natural Science Foundation of
+   China [2023JJ50421]
+FX This work was supported in part by the construct program of applied
+   characteristic discipline in Hunan Province and the Project of Hunan
+   Provincial Natural Science Foundation of China (Grant No. 2023JJ50421).
+   The author acknowledges that some content in this article was translated
+   and polished by ChatGPT (https://chat.openai.com/) to improve the
+   quality of English writing. We sincerely thank ChatGPT for its
+   contribution.
+CR Ding WJ, 2022, AEROSPACE-BASEL, V9, DOI 10.3390/aerospace9080464
+   Ding Y, 2021, P I MECH ENG D-J AUT, V235, P1070, DOI 10.1177/0954407020913735
+   Fujiyoshi H, 2019, IATSS RES, V43, P244, DOI 10.1016/j.iatssr.2019.11.008
+   Gan Nianfei, 2022, Journal of Intelligent and Connected Vehicles, P177, DOI 10.1108/JICV-01-2022-0002
+   Hu DY, 2021, INT J ROBUST NONLIN, V31, P2905, DOI 10.1002/rnc.5427
+   Jain S., 2020, International Journal of Advanced Science and Technology, V29, P5159
+   Jamonnak S, 2022, IEEE T VIS COMPUT GR, V28, P1019, DOI 10.1109/TVCG.2021.3114853
+   Jo E, 2021, SENSORS-BASEL, V21, DOI 10.3390/s21165354
+   La Gatta V, 2021, IEEE T BIG DATA, V7, P45, DOI 10.1109/TBDATA.2020.3032755
+   Lei M, 2022, IEEE VEH TECHNOL MAG, V17, P38, DOI 10.1109/MVT.2022.3207453
+   Li JC, 2022, IEEE T INTELL TRANSP, V23, P10556, DOI 10.1109/TITS.2021.3094821
+   Li ZY, 2022, IEEE T VEH TECHNOL, V71, P5944, DOI 10.1109/TVT.2022.3159994
+   Liu MY, 2019, J INTELL TRANSPORT S, V23, P309, DOI 10.1080/15472450.2018.1462176
+   Maduako I, 2019, INT J GEOGR INF SCI, V33, P1915, DOI 10.1080/13658816.2019.1603386
+   Manoharan S., 2019, J Artif Intell Capsule Netw, V1, P95, DOI DOI 10.36548/JAICN.2019.2.005
+   Mingueza FB, 2023, SCI REP-UK, V13, DOI 10.1038/s41598-022-25907-7
+   Ni JJ, 2020, APPL SCI-BASEL, V10, DOI 10.3390/app10082749
+   Okeke FO, 2020, EUR J SUSTAIN DEV, V9, P157, DOI 10.14207/ejsd.2020.v9n3p157
+   Pang H, 2022, P I MECH ENG D-J AUT, V236, P709, DOI 10.1177/09544070211022904
+   Roy B, 2021, APPL SCI-BASEL, V11, DOI 10.3390/app11136238
+   Tay DB, 2021, IEEE T CIRCUITS-II, V68, P1053, DOI 10.1109/TCSII.2020.3017800
+   Xiao DN, 2023, IEEE T INTELL TRANSP, V24, P4697, DOI 10.1109/TITS.2023.3240104
+   Xin L, 2021, P I MECH ENG D-J AUT, V235, P1101, DOI 10.1177/0954407020906627
+   Xiong L, 2021, SENSORS-BASEL, V21, DOI 10.3390/s21134409
+   Yang B, 2021, IEEE WIREL COMMUN, V28, P40, DOI 10.1109/MWC.001.2000292
+   Zhang T, 2020, IEEE NETWORK, V34, P179, DOI 10.1109/MNET.001.1900245
+   Zhang T, 2022, IEEE T INTELL TRANSP, V23, P10365, DOI 10.1109/TITS.2021.3093548
+   Zhao C, 2022, IEEE T INTELL TRANSP, V23, P17910, DOI 10.1109/TITS.2022.3164391
+   Zhao FQ, 2020, ENERGY TECHNOL-GER, V8, DOI 10.1002/ente.202000179
+   Zhao Ying, 2023, IEEE Trans Vis Comput Graph, V29, P214, DOI 10.1109/TVCG.2022.3209469
+   Zhou TH, 2020, SENSORS-BASEL, V20, DOI 10.3390/s20247283
+NR 31
+TC 0
+Z9 0
+U1 4
+U2 4
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD MAR 20
+PY 2024
+VL 2024
+AR 5802816
+DI 10.1049/2024/5802816
+PG 11
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MM4P7
+UT WOS:001194028500001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Zhang, QH
+   Zhang, JC
+   Feng, T
+   Xue, JL
+   Zhu, XX
+   Zhu, NY
+   Li, ZH
+AF Zhang, Qinhe
+   Zhang, Jiachen
+   Feng, Tie
+   Xue, Jialang
+   Zhu, Xinxin
+   Zhu, Ningyang
+   Li, Zhiheng
+TI Software Defect Prediction Using Deep <i>Q</i>-Learning Network-Based
+   Feature Extraction
+SO IET SOFTWARE
+LA English
+DT Article
+ID SUPPORT VECTOR MACHINE; FEATURE-SELECTION; NEURAL-NETWORKS; QUALITY;
+   MODELS
+AB Machine learning-based software defect prediction (SDP) approaches have been commonly proposed to help to deliver high-quality software. Unfortunately, all the previous research conducted without effective feature reduction suffers from high-dimensional data, leading to unsatisfactory prediction performance measures. Moreover, without proper feature reduction, the interpretability and generalization ability of machine learning models in SDP may be compromised, hindering their practical utility in diverse software development environments. In this paper, an SDP approach using deep Q-learning network (DQN)-based feature extraction is proposed to eliminate irrelevant, redundant, and noisy features and improve the classification performance. In the data preprocessing phase, the undersampling method of BalanceCascade is applied to divide the original datasets. As the first step of feature extraction, the weight ranking of all the metric elements is calculated according to the expected cross-entropy. Then, the relation matrix is constructed by applying random matrix theory. After that, the reward principle is defined for computing the Q value of Q-learning based on weight ranking, relation matrix, and the number of errors, according to which a convolutional neural network model is trained on datasets until the sequences of metric pairs are generated for all datasets acting as the revised feature set. Various experiments have been conducted on 11 NASA and 11 PROMISE repository datasets. Sensitive analysis experiments show that binary classification algorithms based on SDP approaches using the DQN-based feature extraction outperform those without using it. We also conducted experiments to compare our approach with four state-of-the-art approaches on common datasets, which show that our approach is superior to these methods in precision, F-measure, area under receiver operating characteristics curve, and Matthews correlation coefficient values.
+C1 [Zhang, Qinhe; Zhang, Jiachen; Feng, Tie; Zhu, Xinxin; Zhu, Ningyang; Li, Zhiheng] Jilin Univ, Coll Comp Sci & Technol, Jilin 130012, Peoples R China.
+   [Feng, Tie] Minist Educ, Key Lab Symbol Computat & Knowledge Engn, Changchun, Peoples R China.
+   [Xue, Jialang] Jilin Univ, Coll Software, Changchun 130012, Peoples R China.
+C3 Jilin University; Jilin University
+RP Feng, T (corresponding author), Jilin Univ, Coll Comp Sci & Technol, Jilin 130012, Peoples R China.; Feng, T (corresponding author), Minist Educ, Key Lab Symbol Computat & Knowledge Engn, Changchun, Peoples R China.
+EM zhangqh20@mails.jlu.edu.cn; zhangjc@jlu.edu.cn; fengtie@jlu.edu.cn;
+   xuejl21@mails.jlu.edu.cn; xxzhu22@mails.jlu.edu.cn;
+   zhuny22@mails.jlu.edu.cn; 992058996@qq.com
+FU National Key Research and Development Program of China; Science and
+   Technology Development Plan Project of Jilin Province [20200201166JC];
+   Central Government Funds for Guiding Local Scientific and Technological
+   Development [2021Szvup047];  [2018YFC0831706]
+FX This work was supported by the National Key Research and Development
+   Program of China (grant number 2018YFC0831706), the Science and
+   Technology Development Plan Project of Jilin Province (grant number
+   20200201166JC), and the Central Government Funds for Guiding Local
+   Scientific and Technological Development (grant number 2021Szvup047).
+CR Albahli S, 2019, FUTURE INTERNET, V11, DOI 10.3390/fi11120246
+   Ali A, 2021, AUTOMAT SOFTW ENG, V28, DOI 10.1007/s10515-021-00289-8
+   Phan AV, 2017, PROC INT C TOOLS ART, P45, DOI 10.1109/ICTAI.2017.00019
+   Phan AV, 2017, 2017 21ST ASIA PACIFIC SYMPOSIUM ON INTELLIGENT AND EVOLUTIONARY SYSTEMS (IES), P37, DOI 10.1109/IESYS.2017.8233558
+   Balaram A, 2022, AUTOMAT SOFTW ENG, V29, DOI 10.1007/s10515-021-00311-z
+   Bouguila N., 2008, 4th International IEEE Conference on Intelligent Systems, p11, DOI [DOI 10.1109/IS.2008.4670508, 10.1109/IS.2008, DOI 10.1109/IS.2008]
+   Chan TH, 2015, IEEE T IMAGE PROCESS, V24, P5017, DOI 10.1109/TIP.2015.2475625
+   Dhall S., 2013, CONFLUENCE 2013 NEXT, P5, DOI [10.1049/cp.2013.2313, DOI 10.1049/CP.2013.2313]
+   Estévez PA, 2009, IEEE T NEURAL NETWOR, V20, P189, DOI 10.1109/TNN.2008.2005601
+   Fisher RA, 1936, ANN EUGENIC, V7, P179, DOI 10.1111/j.1469-1809.1936.tb02137.x
+   Galavotti L, 2000, LECT NOTES COMPUT SC, V1923, P59
+   [甘露 Gan Lu], 2017, [计算机科学, Computer Science], V44, P229
+   Ghotra B, 2015, 2015 IEEE/ACM 37TH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, VOL 1, P789, DOI 10.1109/ICSE.2015.91
+   Giray G, 2023, J SYST SOFTWARE, V195, DOI 10.1016/j.jss.2022.111537
+   Glorot X., 2011, P 14 INT C ART INT S, V15, P315, DOI DOI 10.1002/ECS2.1832
+   Goyal S, 2020, INT J KNOWL SYST SCI, V11, P20, DOI 10.4018/IJKSS.2020040102
+   Gray D, 2009, COMM COM INF SC, V43, P223
+   HANLEY JA, 1982, RADIOLOGY, V143, P29, DOI 10.1148/radiology.143.1.7063747
+   Hessel M, 2018, AAAI CONF ARTIF INTE, P3215
+   Hiu-Man Wong, 2021, ISMSI 2021: 2021 5th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence, P49, DOI 10.1145/3461598.3461606
+   Ji HJ, 2019, SOFTWARE QUAL J, V27, P923, DOI 10.1007/s11219-018-9436-4
+   Jiarpakdee J, 2020, EMPIR SOFTW ENG, V25, P3590, DOI 10.1007/s10664-020-09848-1
+   Kakkar Misha, 2018, International Journal of Open Source Software and Processes, V9, P1, DOI 10.4018/IJOSSP.2018010101
+   Keating JP, 2000, COMMUN MATH PHYS, V214, P57, DOI 10.1007/s002200000261
+   Khoshgoftaar TM, 2002, EIGHTH IEEE SYMPOSIUM ON SOFTWARE METRICS, PROCEEDINGS, P203, DOI 10.1109/METRIC.2002.1011339
+   Koru AG, 2005, IEEE SOFTWARE, V22, P23, DOI 10.1109/MS.2005.149
+   Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386
+   Kumar L, 2018, J SYST SOFTWARE, V137, P686, DOI 10.1016/j.jss.2017.04.016
+   Laradji IH, 2015, INFORM SOFTWARE TECH, V58, P388, DOI 10.1016/j.infsof.2014.07.005
+   Lessmann S, 2008, IEEE T SOFTWARE ENG, V34, P485, DOI 10.1109/TSE.2008.35
+   Li H, 2014, APPL SOFT COMPUT, V19, P57, DOI 10.1016/j.asoc.2014.01.018
+   LINNIG FJ, 1954, ANAL CHEM, V26, P1102, DOI 10.1021/ac60091a002
+   Liu Haifeng, 2009, Journal of the China Society for Scientific and Technical Information, V28, P23
+   Liu XY, 2009, IEEE T SYST MAN CY B, V39, P539, DOI 10.1109/TSMCB.2008.2007853
+   Mahaweerawat A., 2002, Software fault prediction using fuzzy clustering and radial-basis function network
+   Malhotra Ruchika, 2020, 2020 8th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO), P1139, DOI 10.1109/ICRITO48877.2020.9197999
+   MATTHEWS BW, 1975, BIOCHIM BIOPHYS ACTA, V405, P442, DOI 10.1016/0005-2795(75)90109-9
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   NezhadShokouhi MM, 2020, J SUPERCOMPUT, V76, P602, DOI 10.1007/s11227-019-03051-w
+   Owhadi-Kareshk M, 2017, PROCEEDINGS OF THE 2017 7TH INTERNATIONAL CONFERENCE ON COMPUTER AND KNOWLEDGE ENGINEERING (ICCKE), P223, DOI 10.1109/ICCKE.2017.8167880
+   Pandey SK, 2020, IET SOFTW, V14, P768, DOI 10.1049/iet-sen.2020.0119
+   Priyadarshini J, 2023, APPL SCI-BASEL, V13, DOI 10.3390/app13020906
+   Qu ZY, 2020, IEEE ACCESS, V8, P49125, DOI 10.1109/ACCESS.2020.2980363
+   Rodriguez D., 2014, P 18 INT C EV ASS SO, P1
+   Sayyad Shirabad J., 2005, School of Information Technology and Engineering, University of Ottawa, Canada
+   Shepperd M, 2013, IEEE T SOFTWARE ENG, V39, P1208, DOI 10.1109/TSE.2013.11
+   Simonyan K, 2015, Arxiv, DOI arXiv:1409.1556
+   Sokolova M, 2006, LECT NOTES COMPUT SC, V4304, P1015
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   [苏金树 SU JinShu], 2006, [软件学报, Journal of Software], V17, P1848, DOI 10.1360/jos171848
+   Sun Y, 2020, IET SOFTW, V14, P825, DOI 10.1049/iet-sen.2019.0389
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, P1
+   Tsunoda M, 2022, IEEE WORK CONF MIN S, P670, DOI 10.1145/3524842.3529093
+   Upadhyay U., 2021, Face mask recognition system using CNN model
+   Wang T., 2011, Journal of Information Computational Science, V8, P4241
+   Wang XY, 2019, BIOINFORMATICS, V35, P2395, DOI 10.1093/bioinformatics/bty995
+   Wu JY, 2012, ADV MATER RES-SWITZ, V487, P383, DOI 10.4028/www.scientific.net/AMR.487.383
+   Wu YL, 2020, CATENA, V187, DOI 10.1016/j.catena.2019.104396
+   Xiang SM, 2008, PATTERN RECOGN, V41, P3600, DOI 10.1016/j.patcog.2008.05.018
+   Yang FY, 2023, Soft Anal Evol Reeng, P940, DOI 10.1109/SANER56733.2023.00114
+   Zeiler MD, 2014, LECT NOTES COMPUT SC, V8689, P818, DOI 10.1007/978-3-319-10590-1_53
+   Zhang NN, 2022, IET SOFTW, V16, P29, DOI 10.1049/sfw2.12029
+   Zhang X, 2018, 2018 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE QUALITY, RELIABILITY AND SECURITY (QRS 2018), P111, DOI 10.1109/QRS.2018.00025
+   Zheng J, 2010, EXPERT SYST APPL, V37, P4537, DOI 10.1016/j.eswa.2009.12.056
+   Zheng N., 2017, Computer Vision and Pattern Recognition
+   Zhu K, 2021, J SYST SOFTWARE, V180, DOI 10.1016/j.jss.2021.111026
+   Zou QY, 2021, IET SOFTW, V15, P55, DOI 10.1049/sfw2.12012
+NR 67
+TC 0
+Z9 0
+U1 4
+U2 4
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD MAY 30
+PY 2024
+VL 2024
+AR 3946655
+DI 10.1049/2024/3946655
+PG 34
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UQ6S9
+UT WOS:001249569500001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Jiang, SY
+   Zhang, JP
+   Guo, F
+   Ouyang, T
+   Li, J
+AF Jiang, Siyu
+   Zhang, Jiapeng
+   Guo, Feng
+   Ouyang, Teng
+   Li, Jing
+TI Balanced Adversarial Tight Matching for Cross-Project Defect Prediction
+SO IET SOFTWARE
+LA English
+DT Article
+AB Cross-project defect prediction (CPDP) is an attractive research area in software testing. It identifies defects in projects with limited labeled data (target projects) by utilizing predictive models from data-rich projects (source projects). Existing CPDP methods based on transfer learning mainly rely on the assumption of a unimodal distribution and consider the case where the feature distribution has one obvious peak. However, in actual situations, the feature distribution of project samples often exhibits multiple peaks that cannot be ignored. It manifests as a multimodal distribution, making it challenging to align distributions between different projects. To address this issue, we propose a balanced adversarial tight-matching model for CPDP. Specifically, this method employs multilinear conditioning to obtain the cross-covariance of both features and classifier predictions, capturing the multimodal distribution of the feature. When reducing the captured multimodal distribution differences, pseudo-labels are needed, but pseudo-labels have uncertainty. Therefore, we additionally add an auxiliary classifier and attempt to generate pseudo-labels using a pseudo-label strategy with less uncertainty. Finally, the feature generator and two classifiers undergo adversarial training to align the multimodal distributions of different projects. This method outperforms the state-of-the-art CPDP model used on the benchmark dataset.
+C1 [Jiang, Siyu; Zhang, Jiapeng; Guo, Feng; Ouyang, Teng] Guangdong Univ Foreign Studies, Sch Informat Sci & Technol, Guangzhou, Peoples R China.
+   [Li, Jing] Guangzhou City Univ Technol, Guangzhou, Peoples R China.
+C3 Guangdong University of Foreign Studies
+RP Li, J (corresponding author), Guangzhou City Univ Technol, Guangzhou, Peoples R China.
+EM jiangsiyu@gdufs.edu.cn; 20211003072@gdufs.edu.cn;
+   20231010039@gdufs.edu.cn; 20211003160@gdufs.edu.cn; lijing1@gcu.edu.cn
+OI jiang, siyu/0000-0002-4763-5762
+CR Nguyen AT, 2015, 2015 IEEE/ACM 37TH IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, VOL 1, P858, DOI 10.1109/ICSE.2015.336
+   Bansiya J, 2002, IEEE T SOFTWARE ENG, V28, P4, DOI 10.1109/32.979986
+   Borgwardt KM, 2006, BIOINFORMATICS, V22, pE49, DOI 10.1093/bioinformatics/btl242
+   Briand LC, 2002, IEEE T SOFTWARE ENG, V28, P706, DOI 10.1109/TSE.2002.1019484
+   Cheng T, 2022, FRONT COMPUT SCI-CHI, V16, DOI 10.1007/s11704-021-1013-5
+   CHIDAMBER SR, 1994, IEEE T SOFTWARE ENG, V20, P476, DOI 10.1109/32.295895
+   ChunYang Liu, 2013, Advanced Data Mining and Applications. 9th International Conference, ADMA 2013. Proceedings: LNCS 8347, P231, DOI 10.1007/978-3-642-53917-6_21
+   Deng JH, 2020, IET SOFTW, V14, P443, DOI 10.1049/iet-sen.2019.0149
+   Ding YH, 2023, NEURAL NETWORKS, V167, P92, DOI 10.1016/j.neunet.2023.08.005
+   Goodfellow IJ, 2014, ADV NEUR IN, V27, P2672, DOI 10.1145/3422622
+   He HB, 2009, IEEE T KNOWL DATA EN, V21, P1263, DOI 10.1109/TKDE.2008.239
+   Huang J, 2005, IEEE T KNOWL DATA EN, V17, P299, DOI 10.1109/TKDE.2005.50
+   Huang QG, 2022, IET SOFTW, V16, P200, DOI 10.1049/sfw2.12053
+   Jingdong Huang, 2021, 2021 International Conference on Computer Engineering and Application (ICCEA), P338, DOI 10.1109/ICCEA53728.2021.00073
+   Jureczko M., 2010, P 6 INT C PREDICTIVE, P1, DOI DOI 10.1145/1868328.1868342
+   Kar P., 2012, Artificial intelligence and statistics, P583
+   Kingma D. P., 2014, arXiv
+   Li J, 2017, 2017 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE QUALITY, RELIABILITY AND SECURITY (QRS), P318, DOI 10.1109/QRS.2017.42
+   Li JJ, 2021, IEEE T PATTERN ANAL, V43, P3918, DOI 10.1109/TPAMI.2020.2991050
+   Li ZQ, 2018, IET SOFTW, V12, P161, DOI 10.1049/iet-sen.2017.0148
+   Long MS, 2018, 32 C NEURAL INFORM P, V31
+   Ma Y, 2012, INFORM SOFTWARE TECH, V54, P248, DOI 10.1016/j.infsof.2011.09.007
+   Martin R., 1994, An Analysis of Dependencies, V12, P151
+   McCabe T. J., 1976, IEEE Transactions on Software Engineering, VSE-2, P308, DOI 10.1109/TSE.1976.233837
+   Nam J, 2013, PROCEEDINGS OF THE 35TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2013), P382, DOI 10.1109/ICSE.2013.6606584
+   Pan SJ, 2011, IEEE T NEURAL NETWOR, V22, P199, DOI 10.1109/TNN.2010.2091281
+   Pan SJ, 2010, IEEE T KNOWL DATA EN, V22, P1345, DOI 10.1109/TKDE.2009.191
+   Qiu SJ, 2019, APPL SCI-BASEL, V9, DOI 10.3390/app9132660
+   Rahimi A., 2008, Advances in Neural Information Processing Systems, V20, P1177
+   Song HJ, 2023, EMPIR SOFTW ENG, V28, DOI 10.1007/s10664-023-10371-2
+   Song Le, 2009, P 26 ANN INT C MACH, P961, DOI DOI 10.1145/1553374.1553497
+   Tang SQ, 2022, TSINGHUA SCI TECHNOL, V27, P41, DOI 10.26599/TST.2020.9010040
+   Tantithamthavorn C, 2017, IEEE T SOFTWARE ENG, V43, P1, DOI 10.1109/TSE.2016.2584050
+   Turhan B, 2009, EMPIR SOFTW ENG, V14, P540, DOI 10.1007/s10664-008-9103-7
+   van der Maaten L, 2008, J MACH LEARN RES, V9, P2579
+   Vaswani A, 2017, ADV NEUR IN, V30
+   Wang S, 2020, IEEE T SOFTWARE ENG, V46, P1267, DOI 10.1109/TSE.2018.2877612
+   Xing Y, 2022, PATTERN RECOGN LETT, V160, P50, DOI 10.1016/j.patrec.2022.04.039
+   Zhang Z, 2019, MECH SYST SIGNAL PR, V126, P21, DOI 10.1016/j.ymssp.2019.01.031
+   Zheng ZD, 2021, INT J COMPUT VISION, V129, P1106, DOI 10.1007/s11263-020-01395-y
+   Zimmerman T, 2009, 7TH JOINT MEETING OF THE EUROPEAN SOFTWARE ENGINEERING CONFERENCE AND THE ACM SIGSOFT SYMPOSIUM ON THE FOUNDATIONS OF SOFTWARE ENGINEERING, P91, DOI 10.1145/1595696.1595713
+   Zou QY, 2021, INFORM SOFTWARE TECH, V137, DOI 10.1016/j.infsof.2021.106588
+NR 42
+TC 1
+Z9 1
+U1 4
+U2 4
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD MAY 16
+PY 2024
+VL 2024
+AR 1561351
+DI 10.1049/2024/1561351
+PG 19
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA RX2X6
+UT WOS:001230903300001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Guo, RN
+   Wang, S
+   Wei, GS
+AF Guo, Ruina
+   Wang, Shu
+   Wei, Guangsen
+TI Accounting Management and Optimizing Production Based on Distributed
+   Semantic Recognition
+SO IET SOFTWARE
+LA English
+DT Article
+AB Accounting management and production optimization are vital aspects of enterprise management, serving as indispensable core components in the modern business landscape. However, conventional methods reliant on manual input exhibit drawbacks such as low recognition accuracy and excessive memory consumption. To address these challenges, semantic recognition technology utilizing voice signals has emerged as a pivotal solution across various industries. Building upon this premise, this paper introduces a distributed semantic recognition-based algorithm for accounting management and production optimization. The proposed algorithm encompasses multiple modules, including a front-end feature extraction module, a channel transmission module, and a voice quality vector quantization module. Additionally, a semantic recognition module is introduced to process the voice signals and generate prediction results. By leveraging extensive accounting management and production data for learning and analysis, the algorithm automatically uncovers patterns and laws within the data, extracting valuable information. To validate the proposed algorithm, this study utilizes the dataset from the UCI machine learning repository and applies it for analysis and processing. The experimental findings demonstrate that the algorithm introduced in this paper outperforms alternative methods. Specifically, it achieves a notable 9.3% improvement in comprehensive recognition accuracy and reduces memory usage by 34.4%. These results highlight the algorithm's efficacy in enhancing the understanding and analysis of customer needs, market trends, competitors, and other pertinent information within the realm of commercial applications for companies.
+C1 [Guo, Ruina] Shandong Univ Finance & Econ, Jinan 250014, Shandong, Peoples R China.
+   [Guo, Ruina; Wang, Shu] Heze Vocat Coll, Acad Affairs Off, Heze 274000, Shandong, Peoples R China.
+   [Wei, Guangsen] Tianjin Univ, Coll Management & Econ, Tianjin 300072, Peoples R China.
+C3 Shandong University of Finance & Economics; Tianjin University
+RP Wei, GS (corresponding author), Tianjin Univ, Coll Management & Econ, Tianjin 300072, Peoples R China.
+EM guoruina@hezeu.edu.cn; wangshu@hezevc.edu.cn; weiguangsen@tju.edu.cn
+RI Guo, ruina/KXR-5928-2024
+OI Guo, ruina/0009-0006-0444-8357
+CR Alfaisal FM, 2023, DISCRETE DYN NAT SOC, V2023, DOI 10.1155/2023/7932653
+   Andronie M, 2021, SUSTAINABILITY-BASEL, V13, DOI 10.3390/su13020751
+   Boliboev A. A., 2022, Gospodarka i Innowacje, V24, P961
+   Brockova K, 2021, MANAG THEORY STUD RU, V43, P129, DOI 10.15544/mts.2021.11
+   Cao L, 2019, IEEE ACCESS, V7, P161524, DOI 10.1109/ACCESS.2019.2951370
+   Cui ZH, 2020, INFORM SCIENCES, V518, P256, DOI 10.1016/j.ins.2020.01.018
+   Ding TR, 2023, J ENVIRON MANAGE, V328, DOI 10.1016/j.jenvman.2022.116946
+   Guo K, 2020, NEURAL COMPUT APPL, V32, P1857, DOI 10.1007/s00521-019-04571-5
+   Habib M. S. F., 2017, The effect of corporate social responsibility on cost of equity and dept
+   Ioana-Andreea G., 2021, Young Economists Journal/Revista Tinerilor Economisti, V18
+   Kend M, 2020, AUST ACCOUNT REV, V30, P269, DOI 10.1111/auar.12305
+   Liu ZF, 2023, TECHNOVATION, V128, DOI 10.1016/j.technovation.2023.102872
+   Liu Z, 2023, IEEE T NEUR NET LEAR, DOI 10.1109/TNNLS.2023.3294636
+   Lotfi R, 2021, NUMER ALGEBR CONTROL, V11, P221, DOI 10.3934/naco.2020023
+   Manríquez F, 2023, OPTIM ENG, V24, P681, DOI 10.1007/s11081-021-09701-4
+   Metzker P, 2023, COMPUT OPER RES, V149, DOI 10.1016/j.cor.2022.106025
+   Mörth O, 2020, COMPUT IND ENG, V142, DOI 10.1016/j.cie.2020.106333
+   Mohammad A, 2023, International Journal of Multidisciplinary Sciences and Arts, V2, P117
+   Nguyen HD, 2021, INT J INFORM MANAGE, V57, DOI 10.1016/j.ijinfomgt.2020.102282
+   Rakhmonov I. U., 2023, AIP Conference Proceedings, DOI 10.1063/5.0112391
+   Sarker E, 2021, INT J ENERG RES, V45, P36, DOI 10.1002/er.5631
+   Song XP, 2014, J FORECASTING, V33, P611, DOI 10.1002/for.2294
+   Uthayakumar J, 2020, INF SYST E-BUS MANAG, V18, P617, DOI 10.1007/s10257-018-0388-9
+   Wickramasinghe GLD, 2017, J MANUF TECHNOL MANA, V28, P531, DOI 10.1108/JMTM-08-2016-0112
+   Xu YB, 2022, IEEE T KNOWL DATA EN, V34, P5126, DOI 10.1109/TKDE.2021.3054782
+   Yan HJ, 2018, WIRELESS PERS COMMUN, V102, P683, DOI 10.1007/s11277-017-5086-2
+   Zhang H, 2024, SUSTAINABILITY-BASEL, V16, DOI 10.3390/su16020833
+   Zhang XL, 2023, J IND PROD ENG, V40, P22, DOI 10.1080/21681015.2022.2116494
+NR 28
+TC 0
+Z9 0
+U1 0
+U2 0
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD JUN 18
+PY 2024
+VL 2024
+AR 8425877
+DI 10.1049/2024/8425877
+PG 10
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA XE9G7
+UT WOS:001260119300001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Fan, YY
+   Mi, XF
+AF Fan, Yuanyuan
+   Mi, Xifeng
+TI Design and Efficacy of a Data Lake Architecture for Multimodal Emotion
+   Feature Extraction in Social Media
+SO IET SOFTWARE
+LA English
+DT Article
+ID SENTIMENT ANALYSIS
+AB In the rapidly evolving landscape of social media, the demand for precise sentiment analysis (SA) on multimodal data has become increasingly pivotal. This paper introduces a sophisticated data lake architecture tailored for efficient multimodal emotion feature extraction, addressing the challenges posed by diverse data types. The proposed framework encompasses a robust storage solution and an innovative SA model, multilevel spatial attention fusion (MLSAF), adept at handling text and visual data concurrently. The data lake architecture comprises five layers, facilitating real-time and offline data collection, storage, processing, standardized interface services, and data mining analysis. The MLSAF model, integrated into the data lake architecture, utilizes a novel approach to SA. It employs a text-guided spatial attention mechanism, fusing textual and visual features to discern subtle emotional interplays. The model's end-to-end learning approach and attention modules contribute to its efficacy in capturing nuanced sentiment expressions. Empirical evaluations on established multimodal sentiment datasets, MVSA-Single and MVSA-Multi, validate the proposed methodology's effectiveness. Comparative analyses with state-of-the-art models showcase the superior performance of our approach, with an accuracy improvement of 6% on MVSA-Single and 1.6% on MVSA-Multi. This research significantly contributes to optimizing SA in social media data by offering a versatile and potent framework for data management and analysis. The integration of MLSAF with a scalable data lake architecture presents a strategic innovation poised to navigate the evolving complexities of social media data analytics.
+C1 [Fan, Yuanyuan; Mi, Xifeng] Jiaozuo Normal Coll, Jiaozuo 454000, Peoples R China.
+RP Fan, YY (corresponding author), Jiaozuo Normal Coll, Jiaozuo 454000, Peoples R China.
+EM jzfanyy@jzsz.edu.cn; mixifeng@jzsz.edu.cn
+CR Al-Tameemi IKS, 2023, IEEE ACCESS, V11, P91060, DOI 10.1109/ACCESS.2023.3307716
+   Bayrakdar S, 2020, INT J COMMUN SYST, V33, DOI 10.1002/dac.4424
+   Chandrasekaran G, 2021, WIRES DATA MIN KNOWL, V11, DOI 10.1002/widm.1415
+   Dang CN, 2021, SENSORS-BASEL, V21, DOI 10.3390/s21165666
+   Das R, 2023, ACM COMPUT SURV, V55, DOI 10.1145/3586075
+   Derakhshannia M, 2020, FUTURE INTERNET, V12, DOI 10.3390/fi12080126
+   Diwan T, 2022, MULTIMED TOOLS APPL, V81, P44405, DOI 10.1007/s11042-021-11759-2
+   Ghorbanali A., 2023, J MODELING ENG, V21, P83
+   Ghorbanali A, 2022, INFORM PROCESS MANAG, V59, DOI 10.1016/j.ipm.2022.102929
+   Ghosh Anay, 2023, Journal of Ambient Intelligence and Humanized Computing, P4489, DOI 10.1007/s12652-023-04567-z
+   Hai RH, 2023, IEEE T KNOWL DATA EN, V35, P12571, DOI 10.1109/TKDE.2023.3270101
+   Huang FR, 2020, ACM T MULTIM COMPUT, V16, DOI 10.1145/3388861
+   Huang J, 2023, ELECTRONICS-SWITZ, V12, DOI 10.3390/electronics12163504
+   Kachaoui J., 2020, International Journal of Emerging Trends in Engineering Research, DOI DOI 10.30534/IJETER/2020/85842020
+   Karn AL, 2023, ELECTRON COMMER RES, V23, P279, DOI 10.1007/s10660-022-09630-z
+   Khatiwada A, 2022, PROC VLDB ENDOW, V16, P932, DOI 10.14778/3574245.3574274
+   Kim K, 2023, INFORM FUSION, V92, P37, DOI 10.1016/j.inffus.2022.11.022
+   Lai SN, 2023, DISPLAYS, V80, DOI 10.1016/j.displa.2023.102563
+   Liao WX, 2022, APPL INTELL, V52, P11184, DOI 10.1007/s10489-021-02936-9
+   Majumder N, 2018, KNOWL-BASED SYST, V161, P124, DOI 10.1016/j.knosys.2018.07.041
+   Mao Huisheng, 2022, arXiv
+   Munshi AA, 2018, IEEE ACCESS, V6, P40463, DOI 10.1109/ACCESS.2018.2858256
+   Peddireddy K., 2023, International Journal of Computer Applications, V185, P1, DOI [10.5120/ijca2023922740, DOI 10.5120/IJCA2023922740]
+   Poria S, 2018, Multimodal Sentiment Analysis, V8, P5
+   Poria S, 2018, IEEE INTELL SYST, V33, P17, DOI 10.1109/MIS.2018.2882362
+   Ramasubramanian P., 2021, International Journal of Applied Science and Engineering, V18, P1
+   Sevastjanova R., 2021, IEEE Transactions on Visualization and Computer Graphics, V28, P4757
+   Singh B, 2022, NEURAL COMPUT APPL, V34, P21503, DOI 10.1007/s00521-021-06086-4
+   Tembhurne JV, 2021, MULTIMED TOOLS APPL, V80, P6871, DOI 10.1007/s11042-020-10037-x
+   Wang Ben, 2021, International Journal of Networking and Computing, V11, P198, DOI 10.15803/ijnc.11.2_198
+   Wang HR, 2023, SENSORS-BASEL, V23, DOI 10.3390/s23052679
+   Wang XB, 2022, IEEE T VIS COMPUT GR, V28, P802, DOI 10.1109/TVCG.2021.3114794
+   Xu J, 2021, IEEE T IND INFORM, V17, P2974, DOI 10.1109/TII.2020.3005405
+   Xu N, 2021, IEEE INTELL SYST, V36, P3, DOI 10.1109/MIS.2020.3026715
+   Yadav A, 2023, ACM T MULTIM COMPUT, V19, DOI 10.1145/3517139
+   Yan XM, 2022, APPL ARTIF INTELL, V36, DOI 10.1080/08839514.2021.2000688
+   Yang WZ, 2020, FUTURE INTERNET, V12, DOI 10.3390/fi12040075
+   Zhang K, 2020, SYMMETRY-BASEL, V12, DOI 10.3390/sym12122010
+   Zhao J, 2022, FUTURE INTERNET, V14, DOI 10.3390/fi14050141
+NR 39
+TC 0
+Z9 0
+U1 9
+U2 9
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD MAR 8
+PY 2024
+VL 2024
+AR 6819714
+DI 10.1049/2024/6819714
+PG 11
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA LH9F5
+UT WOS:001186009800001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Tao, HW
+   Fu, LY
+   Cao, QL
+   Niu, XX
+   Chen, HR
+   Shang, ST
+   Xian, Y
+AF Tao, Hongwei
+   Fu, Lianyou
+   Cao, Qiaoling
+   Niu, Xiaoxu
+   Chen, Haoran
+   Shang, Songtao
+   Xian, Yang
+TI Cross-Project Defect Prediction Using Transfer Learning with Long
+   Short-Term Memory Networks
+SO IET SOFTWARE
+LA English
+DT Article
+ID NEURAL-NETWORKS; QUALITY
+AB With the increasing number of software projects, within-project defect prediction (WPDP) has already been unable to meet the demand, and cross-project defect prediction (CPDP) is playing an increasingly significant role in the area of software engineering. The classic CPDP methods mainly concentrated on applying metric features to predict defects. However, these approaches failed to consider the rich semantic information, which usually contains the relationship between software defects and context. Since traditional methods are unable to exploit this characteristic, their performance is often unsatisfactory. In this paper, a transfer long short-term memory (TLSTM) network model is first proposed. Transfer semantic features are extracted by adding a transfer learning algorithm to the long short-term memory (LSTM) network. Then, the traditional metric features and semantic features are combined for CPDP. First, the abstract syntax trees (AST) are generated based on the source codes. Second, the AST node contents are converted into integer vectors as inputs to the TLSTM model. Then, the semantic features of the program can be extracted by TLSTM. On the other hand, transferable metric features are extracted by transfer component analysis (TCA). Finally, the semantic features and metric features are combined and input into the logical regression (LR) classifier for training. The presented TLSTM model performs better on the f-measure indicator than other machine and deep learning models, according to the outcomes of several open-source projects of the PROMISE repository. The TLSTM model built with a single feature achieves 0.7% and 2.1% improvement on Log4j-1.2 and Xalan-2.7, respectively. When using combined features to train the prediction model, we call this model a transfer long short-term memory for defect prediction (DPTLSTM). DPTLSTM achieves a 2.9% and 5% improvement on Synapse-1.2 and Xerces-1.4.4, respectively. Both prove the superiority of the proposed model on the CPDP task. This is because LSTM capture long-term dependencies in sequence data and extract features that contain source code structure and context information. It can be concluded that: (1) the TLSTM model has the advantage of preserving information, which can better retain the semantic features related to software defects; (2) compared with the CPDP model trained with traditional metric features, the performance of the model can validly enhance by combining semantic features and metric features.
+C1 [Tao, Hongwei; Fu, Lianyou; Cao, Qiaoling; Niu, Xiaoxu; Chen, Haoran; Shang, Songtao; Xian, Yang] ZhengZhou Univ Light Ind, Sch Comp Sci & Technol, ZhengZhou, Peoples R China.
+C3 Zhengzhou University of Light Industry
+RP Tao, HW (corresponding author), ZhengZhou Univ Light Ind, Sch Comp Sci & Technol, ZhengZhou, Peoples R China.
+EM hongweitao@zzuli.edu.cn; fly13233761631@163.com; 17839640477@163.com;
+   xiaoxuniu2022@163.com; chenhaoran@zzuli.edu.cn; 2017080@zzuli.edu.cn;
+   2021016@zzuli.edu.cn
+RI Niu, Xiaoxu/GRN-8666-2022; Chen, Haoran/F-9555-2012
+OI Niu, Xiaoxu/0000-0003-0621-8767; Tao, Hongwei/0000-0002-4722-5915
+FU National Natural Science Foundation of China; Henan Province Higher
+   Education Teaching Reform Research and Practice Key Project
+   [2021SJGLX292]; Doctoral Research Fund of Zhengzhou University of Light
+   Industry [2020BSJJ067]; Science and Technology Project of Henan Province
+   [222102210096, 232102210014];  [61906175]
+FX This work was financially supported by the National Natural Science
+   Foundation of China (61906175), Henan Province Higher Education Teaching
+   Reform Research and Practice Key Project (2021SJGLX292), Doctoral
+   Research Fund of Zhengzhou University of Light Industry (2020BSJJ067)
+   and Science and Technology Project of Henan Province (222102210096,
+   232102210014).
+CR Amasaki S, 2020, EMPIR SOFTW ENG, V25, P1573, DOI 10.1007/s10664-019-09777-8
+   Bai JJ, 2022, INFORM SOFTWARE TECH, V150, DOI 10.1016/j.infsof.2022.106985
+   Chang ZL, 2023, GEOSCI FRONT, V14, DOI 10.1016/j.gsf.2023.101619
+   Chen L, 2015, INFORM SOFTWARE TECH, V62, P67, DOI 10.1016/j.infsof.2015.01.014
+   Chen Y, 2018, AIP CONF PROC, V1955, DOI 10.1063/1.5033747
+   Cruz AEC, 2009, INT SYMP EMP SOFTWAR, P461
+   D'Ambros M, 2012, EMPIR SOFTW ENG, V17, P531, DOI 10.1007/s10664-011-9173-9
+   Deng JH, 2020, IET SOFTW, V14, P443, DOI 10.1049/iet-sen.2019.0149
+   Feng S, 2021, INFORM SOFTWARE TECH, V129, DOI 10.1016/j.infsof.2020.106432
+   Gao KH, 2014, INT J SOFTW ENG KNOW, V24, P1229, DOI 10.1142/S0218194014400105
+   Gashler M., 2008, 2008 Seventh international conference on machine learning and applications, P900
+   Gong LN, 2020, IEEE T RELIAB, V69, P40, DOI 10.1109/TR.2019.2895462
+   Gong LN, 2019, J SOFTW-EVOL PROC, V31, DOI 10.1002/smr.2172
+   Hall T, 2012, IEEE T SOFTWARE ENG, V38, P1276, DOI 10.1109/TSE.2011.103
+   He P, 2015, INFORM SOFTWARE TECH, V59, P170, DOI 10.1016/j.infsof.2014.11.006
+   Hosseini S, 2018, INFORM SOFTWARE TECH, V95, P296, DOI 10.1016/j.infsof.2017.06.004
+   Huang FM, 2023, J ROCK MECH GEOTECH, V15, P2954, DOI 10.1016/j.jrmge.2023.03.001
+   Huang FM, 2020, CATENA, V191, DOI 10.1016/j.catena.2020.104580
+   Huang FM, 2020, LANDSLIDES, V17, P217, DOI 10.1007/s10346-019-01274-9
+   Jin C, 2021, EXPERT SYST APPL, V171, DOI 10.1016/j.eswa.2021.114637
+   Jing XY, 2017, IEEE T SOFTWARE ENG, V43, P321, DOI 10.1109/TSE.2016.2597849
+   Jureczko M., 2010, P 6 INT C PREDICTIVE, P1, DOI DOI 10.1145/1868328.1868342
+   Kamei Y, 2016, EMPIR SOFTW ENG, V21, P2072, DOI 10.1007/s10664-015-9400-x
+   Krishna R, 2019, IEEE T SOFTWARE ENG, V45, P1081, DOI 10.1109/TSE.2018.2821670
+   Li J, 2017, 2017 IEEE INTERNATIONAL CONFERENCE ON SOFTWARE QUALITY, RELIABILITY AND SECURITY (QRS), P318, DOI 10.1109/QRS.2017.42
+   Limsettho N, 2018, INFORM SOFTWARE TECH, V100, P87, DOI 10.1016/j.infsof.2018.04.001
+   Liu C, 2019, INFORM SOFTWARE TECH, V107, P125, DOI 10.1016/j.infsof.2018.11.005
+   Long MS, 2019, IEEE T PATTERN ANAL, V41, P3071, DOI 10.1109/TPAMI.2018.2868685
+   López-Martín C, 2020, J SYST SOFTWARE, V167, DOI 10.1016/j.jss.2020.110592
+   Ma Y, 2012, INFORM SOFTWARE TECH, V54, P248, DOI 10.1016/j.infsof.2011.09.007
+   Majd A, 2020, EXPERT SYST APPL, V147, DOI 10.1016/j.eswa.2019.113156
+   Moser R, 2008, ICSE'08 PROCEEDINGS OF THE THIRTIETH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, P181, DOI 10.1145/1368088.1368114
+   Nam J, 2013, PROCEEDINGS OF THE 35TH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE 2013), P382, DOI 10.1109/ICSE.2013.6606584
+   Pan SJ, 2011, IEEE T NEURAL NETWOR, V22, P199, DOI 10.1109/TNN.2010.2091281
+   Qiu SJ, 2019, APPL SCI-BASEL, V9, DOI 10.3390/app9132660
+   Ryu D, 2017, SOFTWARE QUAL J, V25, P235, DOI 10.1007/s11219-015-9287-1
+   Ryu D, 2016, EMPIR SOFTW ENG, V21, P43, DOI 10.1007/s10664-014-9346-4
+   Seliya N, 2011, WIRES DATA MIN KNOWL, V1, P448, DOI 10.1002/widm.38
+   Shepperd M, 2013, IEEE T SOFTWARE ENG, V39, P1208, DOI 10.1109/TSE.2013.11
+   Shi K, 2021, J SOFTW-EVOL PROC, V33, DOI 10.1002/smr.2330
+   Siers MJ, 2015, INFORM SYST, V51, P62, DOI 10.1016/j.is.2015.02.006
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   Subramanyam R, 2003, IEEE T SOFTWARE ENG, V29, P297, DOI 10.1109/TSE.2003.1191795
+   Tong HN, 2021, IEEE T SOFTWARE ENG, V47, P1886, DOI 10.1109/TSE.2019.2939303
+   Vikas Kaur P, 2021, Int J Adv Trends Comput Sci Eng, V10, P2050, DOI [10.30534/ijatcse/2021/801032021, DOI 10.30534/IJATCSE/2021/801032021]
+   Wang S, 2013, IEEE T RELIAB, V62, P434, DOI 10.1109/TR.2013.2259203
+   Wang S, 2020, IEEE T SOFTWARE ENG, V46, P1267, DOI 10.1109/TSE.2018.2877612
+   Wang S, 2016, PROC INT CONF SOFTW, P297, DOI 10.1145/2884781.2884804
+   Wei PF, 2019, IEEE T NEUR NET LEAR, V30, P1321, DOI 10.1109/TNNLS.2018.2868709
+   Weiss Karl, 2016, Journal of Big Data, V3, DOI 10.1186/s40537-016-0043-6
+   Wu R, 2011, SIGSOFT FSE, P15, DOI DOI 10.1145/2025113.2025120
+   Xia X, 2016, IEEE T SOFTWARE ENG, V42, P977, DOI 10.1109/TSE.2016.2543218
+   Xu Z, 2019, J SYST SOFTWARE, V158, DOI 10.1016/j.jss.2019.110402
+   Yu X, 2018, SOFT COMPUT, V22, P3461, DOI 10.1007/s00500-018-3093-1
+   Zain ZM, 2023, INFORM SOFTWARE TECH, V158, DOI 10.1016/j.infsof.2023.107175
+   Zhang Y, 2015, P INT COMP SOFTW APP, P264, DOI 10.1109/COMPSAC.2015.58
+   Zheng J, 2010, EXPERT SYST APPL, V37, P4537, DOI 10.1016/j.eswa.2009.12.056
+   Zhou CY, 2022, INFORM SOFTWARE TECH, V152, DOI 10.1016/j.infsof.2022.107057
+   Zhou YM, 2018, ACM T SOFTW ENG METH, V27, DOI 10.1145/3183339
+   Zhu K, 2020, CMC-COMPUT MATER CON, V63, P891, DOI 10.32604/cmc.2020.08096
+   Zimmermann T, 2008, ICSE'08 PROCEEDINGS OF THE THIRTIETH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, P531, DOI 10.1145/1368088.1368161
+NR 61
+TC 1
+Z9 1
+U1 11
+U2 11
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD MAR 18
+PY 2024
+VL 2024
+AR 5550801
+DI 10.1049/2024/5550801
+PG 16
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA MM4Q3
+UT WOS:001194029100001
+OA gold
+DA 2024-08-05
+ER
+
+PT J
+AU Shi, HR
+   Liu, SJ
+   Pan, L
+AF Shi, Haoran
+   Liu, Shijun
+   Pan, Li
+TI A Meta-Model Architecture and Elimination Method for Uncertainty
+   Modeling
+SO IET SOFTWARE
+LA English
+DT Article
+ID DECISION-MAKING; QUANTIFICATION; RELIABILITY
+AB Uncertainty exists widely in various fields, especially in industrial manufacturing. From traditional manufacturing to intelligent manufacturing, uncertainty always exists in the manufacturing process. With the integration of rapidly developing intelligent technology, the complexity of manufacturing scenarios is increasing, and the postdecision method cannot fully meet the needs of the high reliability of the process. It is necessary to research the pre-elimination of uncertainty to ensure the reliability of process execution. Here, we analyze the sources and characteristics of uncertainty in manufacturing scenarios and propose a meta-model architecture and uncertainty quantification (UQ) framework for uncertainty modeling. On the one hand, our approach involves the creation of a meta-model structure that incorporates various strategies for uncertainty elimination (UE). On the other hand, we develop a comprehensive UQ framework that utilizes quantified metrics and outcomes to bolster the UE process. Finally, a deterministic model is constructed to guide and drive the process execution, which can achieve the purpose of controlling the uncertainty in advance and ensuring the reliability of the process. In addition, two typical manufacturing process scenarios are modeled, and quantitative experiments are conducted on a simulated production line and open-source data sets, respectively, to illustrate the idea and feasibility of the proposed approach. The proposed UE approach, which innovatively combines the domain modeling from the software engineering field and the probability-based UQ method, can be used as a general tool to guide the reliable execution of the process.
+C1 [Shi, Haoran; Liu, Shijun; Pan, Li] Shandong Univ, Sch Software, Jinan, Peoples R China.
+C3 Shandong University
+RP Liu, SJ (corresponding author), Shandong Univ, Sch Software, Jinan, Peoples R China.
+EM ccloud0302@mail.sdu.edu.cn; lsj@sdu.edu.cn; panli@sdu.edu.cn
+RI Li, PAN/KLD-7192-2024
+FU Key Research and Development Program of Shandong Province; The "New 20
+   Regulations for Universities" Funding Program of Jinan [2020CXGC010102];
+    [202228089]
+FX The authors would like to acknowledge the support provided by the Key
+   Research and Development Program of Shandong Province (2020CXGC010102)
+   and the "New 20 Regulations for Universities" Funding Program of Jinan
+   (202228089).
+CR Arriola L., 2009, Mathematical and Statistical Estimation Approaches in Epidemiology, P195, DOI [DOI 10.1007/978-90-481-2313-110, 10.1007/978-90-481-2313-1\_10, DOI 10.1007/978-90-481-2313-1_10]
+   Barbieri Giacomo, 2015, IFAC - Papers Online, V48, P178, DOI 10.1016/j.ifacol.2015.08.128
+   Baudin M., 2017, OpenTURNS: an industrial software for uncertainty quantification in simulation, P2001, DOI [10.1007/978-3-319-12385-1_64, DOI 10.1007/978-3-319-12385-1_64]
+   BLACK JJ, 1995, RELIAB ENG SYST SAFE, V48, P11, DOI 10.1016/0951-8320(95)00008-P
+   Bousdekis A, 2017, IFIP ADV INF COMM TE, V513, P399, DOI 10.1007/978-3-319-66923-6_47
+   Bousdekis A, 2019, IFAC PAPERSONLINE, V52, P607, DOI 10.1016/j.ifacol.2019.11.226
+   Burns T, 2019, PROCEDIA MANUF, V38, P646, DOI 10.1016/j.promfg.2020.01.083
+   Chen G, 2022, J MANUF SYST, V62, P636, DOI 10.1016/j.jmsy.2022.01.011
+   Deventer R, 2003, LECT NOTES ARTIF INT, V2734, P307
+   Domingo R, 2018, COMPLEXITY, DOI 10.1155/2018/8738764
+   Douglas-Smith D, 2020, ENVIRON MODELL SOFTW, V124, DOI 10.1016/j.envsoft.2019.104588
+   Farber DA, 2011, GEORGETOWN LAW J, V99, P901
+   Fiedler C, 2021, AAAI CONF ARTIF INTE, V35, P7439
+   Ghobakhloo M, 2019, J IND INF INTEGR, V16, DOI 10.1016/j.jii.2019.100107
+   Haldar A, 2000, PROBABILITY RELIABIL
+   Hazir Ö, 2020, INT J PROD ECON, V223, DOI 10.1016/j.ijpe.2019.107522
+   Hiriyur B, 2011, INT J NUMER METH ENG, V88, P257, DOI 10.1002/nme.3174
+   Souza MLH, 2020, J MANUF SYST, V56, P133, DOI 10.1016/j.jmsy.2020.05.016
+   Hu Z, 2017, SCRIPTA MATER, V135, P135, DOI 10.1016/j.scriptamat.2016.10.014
+   Jaulin L., 2001, Applied Interval Analysis, V1
+   Koh SCL, 2006, IND MANAGE DATA SYST, V106, P439, DOI 10.1108/02635570610661561
+   Koziel S, 2023, MEASUREMENT, V216, DOI 10.1016/j.measurement.2023.112952
+   Lu Y, 2017, J IND INF INTEGR, V6, P1, DOI 10.1016/j.jii.2017.04.005
+   Magruk A., 2016, BUS MANAGE ED, V14, P275
+   Mahadevan S, 2022, ASCE-ASME J RISK U B, V8, DOI 10.1115/1.4053184
+   Monzón MD, 2015, INT J ADV MANUF TECH, V76, P1111, DOI 10.1007/s00170-014-6334-1
+   Mourtzis D, 2019, INT J PROD RES, V57, P6908, DOI 10.1080/00207543.2019.1571686
+   Nagel J. B., IBK Bericht, P504
+   Nannapaneni S, 2016, J CLEAN PROD, V113, P947, DOI 10.1016/j.jclepro.2015.12.003
+   Nannapaneni S, 2014, IEEE INT CONF BIG DA, P996, DOI 10.1109/BigData.2014.7004333
+   Napoleone A, 2020, J MANUF SYST, V54, P305, DOI 10.1016/j.jmsy.2020.01.007
+   Ranftl S., 2021, Physical Sciences Forum, P6, DOI DOI 10.3390/PSF2021003006
+   Rinne Jonas, 2021, Mendeley Data, V2, DOI 10.17632/2S5M3CRBKD.2
+   Roma G, 2021, NUCL ENG DES, V379, DOI 10.1016/j.nucengdes.2021.111230
+   Runsheng Lv, 2011, 2011 2nd International Conference on Artificial Intelligence, Management Science and Electronic Commerce (AIMSEC 2011), P374, DOI 10.1109/AIMSEC.2011.6010511
+   Sahal R, 2020, J MANUF SYST, V54, P138, DOI 10.1016/j.jmsy.2019.11.004
+   Shi HR, 2023, IEEE INT CONF EDGE C, P118, DOI 10.1109/EDGE60047.2023.00028
+   Simankov VS, 2017, PROCEEDINGS OF 2017 XX IEEE INTERNATIONAL CONFERENCE ON SOFT COMPUTING AND MEASUREMENTS (SCM), P187, DOI 10.1109/SCM.2017.7970534
+   Sin G, 2009, WATER RES, V43, P2894, DOI 10.1016/j.watres.2009.03.048
+   Smirnova K., 2008, Bulletin of the Moscow State Technical University, V11, P241
+   Urekar M, 2020, 2020 IEEE INTERNATIONAL WORKSHOP ON METROLOGY FOR INDUSTRY 4.0 & IOT (METROIND4.0&IOT), P636, DOI [10.1109/MetroInd4.0IoT48571.2020.9138214, 10.1109/metroind4.0iot48571.2020.9138214]
+   Wang PC, 2020, IND ROBOT, V47, P111, DOI 10.1108/IR-04-2019-0074
+   Wang Z., 2020, AM-3Dpool' ([zwang586/AM-3Dpool: 3D geometrical data of melt pool in addititive manufacturing by FE thermal simulations (github.com)
+   Wang Z, 2020, NPJ COMPUT MATER, V6, DOI 10.1038/s41524-020-00444-x
+   Wojtkiewicz S.F., 2001, UNCERTAINTY QUANTIFI
+   Zhang L, 2022, COMPUT GEOTECH, V145, DOI 10.1016/j.compgeo.2022.104665
+   Zhou K, 2022, COMPOS STRUCT, V280, DOI 10.1016/j.compstruct.2021.114816
+NR 47
+TC 0
+Z9 0
+U1 2
+U2 2
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1751-8806
+EI 1751-8814
+J9 IET SOFTW
+JI IET Softw.
+PD JAN 12
+PY 2024
+VL 2024
+AR 5591449
+DI 10.1049/2024/5591449
+PG 16
+WC Computer Science, Software Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA FK7J5
+UT WOS:001145739200001
+OA gold
+DA 2024-08-05
+ER
+
+EF
