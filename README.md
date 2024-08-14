@@ -1,7 +1,14 @@
 # Gender Citation Analysis in Software Engineering Literature
 
-The following repository includes code to produce the results and plots for:
-_ICSE 2025-SEIS-Gender inequity in citation practices in software engineering: myth or reality?_
+The following repository includes my summer project for the Lassonde Undergraduate Research Conference. 
+
+This project investigates gender citation bias among software engineering literature. Over 90,000 articles were analyzed 
+from the top 100 software engineering journals published between January 2009 - August 2024. 
+
+#### [Click to See Results](research_poster.pdf)
+
+
+### Methodology 
 
 This project consists of 2 workflows separated into Part A and Part B. 
 Section A of this project applies a modified version of Jordan Dworkin's GenderCitation R Code: https://github.com/jdwor/gendercitation
