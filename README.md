@@ -3,7 +3,7 @@
 The following repository includes code to produce the results and plots for:
 _ICSE 2025-SEIS-Gender inequity in citation practices in software engineering: myth or reality?_
 
-This projects consists of 2 workflows separated into Part A and Part B. 
+This project consists of 2 workflows separated into Part A and Part B. 
 Section A of this project applies a modified version of Jordan Dworkin's GenderCitation R Code: https://github.com/jdwor/gendercitation
 
 The scripts in the section are labeled in the order they must be run. Section A must be run first. 
