@@ -1,5 +1,6 @@
 import json
 from pymongo import MongoClient
+import os
 
 '''
 Inserts the exported json file from Part A (R-code) into a MongoDB
@@ -47,8 +48,10 @@ def change_year(mongodb_uri, db_name, collection_name):
 
 
 if __name__ == "__main__":
-    # Replace fp with the path to your JSON file
-    fp = r'C:\Users\ktchi\HomeDrive\gender-citations-swe\R-processing\article_data.json'
+    # get the file path of the article_data.json file from the end of section A
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    fp = os.path.join(base_dir, 'R-processing', 'article_data.json')
+
     import_json_to_mongodb(fp, MONGODB_URI, DATABASE_NAME, COLLECTION_NAME)
     change_year(MONGODB_URI, DATABASE_NAME, COLLECTION_NAME)
 
